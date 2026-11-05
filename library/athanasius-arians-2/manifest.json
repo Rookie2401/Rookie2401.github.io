@@ -1,0 +1,709 @@
+{
+ "workId": "athanasius-arians-2",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "athanasius-arians-2-bright-grc-first1k",
+   "role": "original",
+   "language": "greek",
+   "credit": "Oratio II contra Arianos, in The Orations of St. Athanasius against the Arians, ed. William Bright (Oxford: Clarendon Press, 1884), ed. William Bright (Oxford: Clarendon Press, 1884). First1KGreek / Perseus Digital Library (Open Greek and Latin): Greek text of William Bright, The Orations of St. Athanasius against the Arians (Oxford, 1884), under CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2035/tlg131/tlg2035.tlg131.1st1K-grc1.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 382794,
+   "sourceSha256": "414547f2d9ef58d3d218a6c1d4db2eb24dfa9f5a924e2ca765875436037a8324",
+   "leftOut": {
+    "note": 518,
+    "pb": 82
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 29653,
+    "barePerThousand": 20,
+    "digitWords": 1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "45",
+     "title": "45",
+     "segments": 1
+    },
+    {
+     "file": "0046.json",
+     "ref": "46",
+     "title": "46",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "47",
+     "title": "47",
+     "segments": 1
+    },
+    {
+     "file": "0048.json",
+     "ref": "48",
+     "title": "48",
+     "segments": 1
+    },
+    {
+     "file": "0049.json",
+     "ref": "49",
+     "title": "49",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "50",
+     "title": "50",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "51",
+     "title": "51",
+     "segments": 1
+    },
+    {
+     "file": "0052.json",
+     "ref": "52",
+     "title": "52",
+     "segments": 1
+    },
+    {
+     "file": "0053.json",
+     "ref": "53",
+     "title": "53",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "54",
+     "title": "54",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "55",
+     "title": "55",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "56",
+     "title": "56",
+     "segments": 1
+    },
+    {
+     "file": "0057.json",
+     "ref": "57",
+     "title": "57",
+     "segments": 1
+    },
+    {
+     "file": "0058.json",
+     "ref": "58",
+     "title": "58",
+     "segments": 1
+    },
+    {
+     "file": "0059.json",
+     "ref": "59",
+     "title": "59",
+     "segments": 1
+    },
+    {
+     "file": "0060.json",
+     "ref": "60",
+     "title": "60",
+     "segments": 1
+    },
+    {
+     "file": "0061.json",
+     "ref": "61",
+     "title": "61",
+     "segments": 1
+    },
+    {
+     "file": "0062.json",
+     "ref": "62",
+     "title": "62",
+     "segments": 1
+    },
+    {
+     "file": "0063.json",
+     "ref": "63",
+     "title": "63",
+     "segments": 1
+    },
+    {
+     "file": "0064.json",
+     "ref": "64",
+     "title": "64",
+     "segments": 1
+    },
+    {
+     "file": "0065.json",
+     "ref": "65",
+     "title": "65",
+     "segments": 1
+    },
+    {
+     "file": "0066.json",
+     "ref": "66",
+     "title": "66",
+     "segments": 1
+    },
+    {
+     "file": "0067.json",
+     "ref": "67",
+     "title": "67",
+     "segments": 1
+    },
+    {
+     "file": "0068.json",
+     "ref": "68",
+     "title": "68",
+     "segments": 1
+    },
+    {
+     "file": "0069.json",
+     "ref": "69",
+     "title": "69",
+     "segments": 1
+    },
+    {
+     "file": "0070.json",
+     "ref": "70",
+     "title": "70",
+     "segments": 1
+    },
+    {
+     "file": "0071.json",
+     "ref": "71",
+     "title": "71",
+     "segments": 1
+    },
+    {
+     "file": "0072.json",
+     "ref": "72",
+     "title": "72",
+     "segments": 1
+    },
+    {
+     "file": "0073.json",
+     "ref": "73",
+     "title": "73",
+     "segments": 1
+    },
+    {
+     "file": "0074.json",
+     "ref": "74",
+     "title": "74",
+     "segments": 1
+    },
+    {
+     "file": "0075.json",
+     "ref": "75",
+     "title": "75",
+     "segments": 1
+    },
+    {
+     "file": "0076.json",
+     "ref": "76",
+     "title": "76",
+     "segments": 1
+    },
+    {
+     "file": "0077.json",
+     "ref": "77",
+     "title": "77",
+     "segments": 1
+    },
+    {
+     "file": "0078.json",
+     "ref": "78",
+     "title": "78",
+     "segments": 1
+    },
+    {
+     "file": "0079.json",
+     "ref": "79",
+     "title": "79",
+     "segments": 1
+    },
+    {
+     "file": "0080.json",
+     "ref": "80",
+     "title": "80",
+     "segments": 1
+    },
+    {
+     "file": "0081.json",
+     "ref": "81",
+     "title": "81",
+     "segments": 1
+    },
+    {
+     "file": "0082.json",
+     "ref": "82",
+     "title": "82",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "athanasius-arians-ii-npnf2-4-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Four Discourses against the Arians: Discourse II (NPNF2), in A Select Library of Nicene and Post-Nicene Fathers of the Christian Church, Second Series, vol. IV: Athanasius, Select Works and Letters (American edition; ed. Philip Schaff and Henry Wace; vol. edited by Archibald Robertson), trans. John Henry Newman (Oxford Library of the Fathers), revised by Archibald Robertson for this volume (New York: The Christian Literature Company, 1892). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers, Series II), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IV/Against_the_Arians/Against_the_Arians/Discourse_II",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 312841,
+   "sourceSha256": "84052c57fec0aa61ab99a351bb8f5fc4ae75b62a87145ef165c440dd3b261672",
+   "leftOut": {
+    "note": 576
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Arians/Against the Arians/Discourse II/Chapter 1",
+     "bytes": 42599,
+     "sha256": "6a4be0cdbd2f862b84abe161ab9f78c4b8f21df62950b5433e8b930897152104"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Arians/Against the Arians/Discourse II/Chapter 2",
+     "bytes": 21610,
+     "sha256": "d774c6ece888c49510fe68f3c425fd15360c4fe7557fb4b7e790ec7437477d54"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Arians/Against the Arians/Discourse II/Chapter 3",
+     "bytes": 28685,
+     "sha256": "72a64366e7174c3a1f4d6894e8fe20b2b11d963ea10b669d18769702085e2ee1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Arians/Against the Arians/Discourse II/Chapter 4",
+     "bytes": 20455,
+     "sha256": "bb51ecd90c98ebcfb38c237675b918df0f0cbafe912cd8901796b2dfaec76f9b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Arians/Against the Arians/Discourse II/Chapter 5",
+     "bytes": 52621,
+     "sha256": "7e5a263083fdf923a083b920876af885e15f146cfb749950151a4839da283e6e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Arians/Against the Arians/Discourse II/Chapter 6",
+     "bytes": 29802,
+     "sha256": "25949b37fb204c27b3040091b9308cf6ce2d8904d46367f8990b2fd052f5bb89"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Arians/Against the Arians/Discourse II/Chapter 7",
+     "bytes": 21045,
+     "sha256": "8cfd2e5573124a5350221c4a977470fb128c677b47cbaaad8f2f9c9a0396134b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Arians/Against the Arians/Discourse II/Chapter 8",
+     "bytes": 62071,
+     "sha256": "f84aaaa60a40340ff48ccabdc601be3d0743889e8ff19c7f5276b1a43918a455"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Arians/Against the Arians/Discourse II/Chapter 9",
+     "bytes": 33953,
+     "sha256": "bd57c3ac9b38bd7472ed671fcdfbef4ba73dac820031c0b12f9e9e5192d4fe39"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.front",
+     "title": "1.front",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 9
+    },
+    {
+     "file": "0014.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 9
+    },
+    {
+     "file": "0015.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 8
+    },
+    {
+     "file": "0016.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 14
+    },
+    {
+     "file": "0017.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 9
+    },
+    {
+     "file": "0018.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 7
+    },
+    {
+     "file": "0019.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 17
+    },
+    {
+     "file": "0020.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 12
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 0,
+  "shared": 0
+ }
+}

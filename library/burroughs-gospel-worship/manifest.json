@@ -1,0 +1,125 @@
+{
+ "workId": "burroughs-gospel-worship",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "burroughs-gospel-worship-1648-tcp-a77988",
+   "role": "english",
+   "language": "english",
+   "credit": "Gospel-worship: or, The right manner of sanctifying the name of God in generall; and particularly in these 3. great ordinances, hearing the Word, receiving the Lords Supper, prayer, in EEBO-TCP text A77988 (STC Wing B6084; STC Thomason E408_1; STC) (London: Printed for Peter Cole and R.W. at the signe of the Printing-Presse in Cornhill at the Royall Exchange., 1648). Transcription: Text Creation Partnership (EEBO-TCP Phase I), keyboarded from images of the original (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A77988/master/A77988.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 768841,
+   "sourceSha256": "b45dc9d34f01023db935dee6446f2cbad551156d350c3b02b7caccc16c37c36f",
+   "leftOut": {
+    "pb": 254,
+    "note": 55,
+    "unread": 146
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 107368,
+    "unreadPerThousand": 1.4
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "To the Reader.",
+     "segments": 3
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "1.1",
+     "segments": 51
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "SERMON II.",
+     "segments": 55
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.3",
+     "title": "SERMON III.",
+     "segments": 45
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.4",
+     "title": "SARMON IV.",
+     "segments": 42
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.5",
+     "title": "SERMON V.",
+     "segments": 41
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.6",
+     "title": "SERMON VI.",
+     "segments": 46
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.7",
+     "title": "SERMON VII.",
+     "segments": 34
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.8",
+     "title": "SERMON VIII.",
+     "segments": 49
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.9",
+     "title": "SERMON IX.",
+     "segments": 18
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.10",
+     "title": "SERMON X.",
+     "segments": 34
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.11",
+     "title": "The Eleventh SERMON.",
+     "segments": 46
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.12",
+     "title": "SERMON XII.",
+     "segments": 32
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.13.0",
+     "title": "SERMON XIII.",
+     "segments": 24
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.13.1",
+     "title": "Sanctifying the name of God in Prayer.",
+     "segments": 34
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.14",
+     "title": "SERMON XIIII.",
+     "segments": 29
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ecclesia Library — imported texts</title>
+<style>
+  :root { --paper: #f4ecdd; --ink: #2b241c; --soft: #6f6253; --line: #d9ccb6; --card: #fbf6ec; --accent: #7a4b2a;
+    --ok: #2f6b3d; --half: #8a6a16; --no: #7a7468; }
+  @media (prefers-color-scheme: dark) { :root { --paper: #1c1814; --ink: #ece3d2; --soft: #a99b86; --line: #3a322a; --card: #241f1a; --accent: #d9a36f;
+    --ok: #86c797; --half: #e0c06a; --no: #9a9285; } }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font: 16px/1.55 Georgia, "Times New Roman", serif; }
+  header { padding: 20px 16px 12px; border-bottom: 1px solid var(--line); }
+  h1 { margin: 0; font-size: 26px; font-weight: 500; }
+  .sub { color: var(--soft); font-size: 14px; margin-top: 4px; }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 0 16px 60px; }
+  .counts { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 4px; }
+  .count { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 6px 10px; font-size: 13px; cursor: pointer; }
+  .count b { font-size: 17px; display: block; }
+  .count.on { border-color: var(--accent); }
+  .filters { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+  input, select, button { font: inherit; font-size: 14px; color: var(--ink); background: var(--card); border: 1px solid var(--line); border-radius: 6px; padding: 6px 8px; }
+  input[type=search] { flex: 1 1 220px; min-width: 0; }
+  button { cursor: pointer; }
+  h2 { font-size: 15px; letter-spacing: .06em; text-transform: uppercase; color: var(--soft); margin: 26px 0 6px; font-weight: 500; }
+  .author { margin: 14px 0 2px; font-size: 18px; }
+  .author small { color: var(--soft); font-size: 13px; margin-left: 6px; }
+  .work { display: flex; gap: 10px; align-items: baseline; padding: 5px 8px; border-radius: 6px; cursor: pointer; }
+  .work:hover, .work:focus { background: var(--card); outline: none; }
+  .work .t { flex: 1 1 auto; min-width: 0; }
+  .badge { flex: none; font: 12px/1.3 system-ui, sans-serif; border: 1px solid currentColor; border-radius: 99px; padding: 1px 8px; white-space: nowrap; }
+  .b-full { color: var(--ok); } .b-half { color: var(--half); } .b-none { color: var(--no); }
+  .back { margin: 16px 0 8px; }
+  .meta { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; margin: 10px 0; font-size: 14px; overflow-wrap: anywhere; }
+  .meta h3 { margin: 0 0 4px; font-size: 14px; letter-spacing: .05em; text-transform: uppercase; color: var(--soft); font-weight: 500; }
+  .meta p { margin: 4px 0; }
+  .note { color: var(--soft); font-size: 14px; }
+  .warn { color: var(--half); }
+  a { color: var(--accent); }
+  .reader-bar { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 16px 0 8px; position: sticky; top: 0; background: var(--paper); padding: 8px 0; border-bottom: 1px solid var(--line); }
+  .reader-bar select { flex: 1 1 200px; min-width: 0; max-width: 100%; }
+  .pair { display: grid; grid-template-columns: 1fr 1fr; gap: 22px; padding: 10px 0; border-bottom: 1px dashed var(--line); }
+  .pair.one { grid-template-columns: 1fr; }
+  .seg { white-space: pre-wrap; overflow-wrap: anywhere; }
+  .seg .r { font: 11px/1 system-ui, sans-serif; color: var(--soft); margin-right: 6px; user-select: none; }
+  .seg + .seg { margin-top: 8px; }
+  .orig { font-size: 18px; }
+  .colhead { font: 12px/1.3 system-ui, sans-serif; color: var(--soft); text-transform: uppercase; letter-spacing: .06em; }
+  @media (max-width: 760px) { .pair { grid-template-columns: 1fr; gap: 8px; } }
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <h1>Ecclesia Library</h1>
+  <div class="sub">A plain browsing page for the imported texts: Holy Scripture and the Category I library. It reads the catalogue and the text store directly and is not part of the app's design.</div>
+</div></header>
+<main class="wrap" id="app"><p class="note">Loading the catalogue…</p></main>
+<script>
+const app = document.getElementById("app")
+const el = (tag, props = {}, ...kids) => {
+  const node = document.createElement(tag)
+  for (const [key, value] of Object.entries(props)) {
+    if (key === "class") node.className = value
+    else if (key.startsWith("on")) node.addEventListener(key.slice(2), value)
+    else if (value != null && value !== false) node.setAttribute(key, value)
+  }
+  for (const kid of kids.flat()) if (kid != null && kid !== false) node.append(kid.nodeType ? kid : document.createTextNode(String(kid)))
+  return node
+}
+const json = async (url) => { const response = await fetch(url); if (!response.ok) throw new Error(`${url}: ${response.status}`); return response.json() }
+const SECTIONS = { S: "Holy Scripture", I: "Apostolic Fathers and Early Christianity", II: "Nicene and Post-Nicene", III: "Medieval", IV: "Reformation", V: "Protestant Orthodoxy and Puritanism", VI: "Evangelical Awakening and Missions", VII: "Nineteenth Century" }
+const STATUS = {
+  verified_public_domain_bilingual: "Verified, both sides", original_public_domain_only: "Original only", english_public_domain_only: "English only",
+  copyright_unverified: "Bibliography only", copyright_restricted: "Restricted",
+}
+let catalogue = null
+const state = { section: "", status: "", query: "", stored: false }
+const storedSides = (work) => [work.original, work.english].filter((edition) => edition?.ingested)
+const badge = (work) => {
+  if (work.bilingualComplete) return el("span", { class: "badge b-full" }, "Fully acquired")
+  const sides = storedSides(work)
+  if (sides.length) return el("span", { class: "badge b-half" }, sides.map((edition) => edition.role === "original" ? `${work.originalLanguage} text` : "English text").join(" + "))
+  return el("span", { class: "badge b-none" }, STATUS[work.status] ?? work.status)
+}
+
+function home() {
+  const works = catalogue.works
+  const authors = new Map(catalogue.authors.map((author) => [author.id, author]))
+  const groups = [
+    ["", "All records", works.length],
+    ["full", "Fully acquired", works.filter((work) => work.bilingualComplete).length],
+    ["stored", "Readable now", works.filter((work) => storedSides(work).length).length],
+    ["original_public_domain_only", "Original only", works.filter((work) => work.status === "original_public_domain_only").length],
+    ["english_public_domain_only", "English only", works.filter((work) => work.status === "english_public_domain_only").length],
+    ["copyright_unverified", "Bibliography only", works.filter((work) => work.status === "copyright_unverified").length],
+  ]
+  const term = state.query.trim().toLowerCase()
+  const shown = works.filter((work) => {
+    const author = authors.get(work.authorId)
+    if (state.section && work.section !== state.section) return false
+    if (state.status === "full" && !work.bilingualComplete) return false
+    if (state.status === "stored" && !storedSides(work).length) return false
+    if (state.status && !["full", "stored"].includes(state.status) && work.status !== state.status) return false
+    return !term || `${work.title} ${work.listedAs} ${author?.name ?? ""}`.toLowerCase().includes(term)
+  })
+  const list = el("div")
+  let section = null, authorId = null
+  for (const work of shown) {
+    if (work.section !== section) { section = work.section; list.append(el("h2", {}, `${section}. ${SECTIONS[section]}`)) ; authorId = null }
+    if (work.authorId !== authorId) { authorId = work.authorId; const author = authors.get(authorId); list.append(el("div", { class: "author" }, author?.name ?? authorId, el("small", {}, author?.dates ?? ""))) }
+    list.append(el("div", { class: "work", tabindex: 0, role: "link", onclick: () => { location.hash = `#work=${work.id}` }, onkeydown: (event) => { if (event.key === "Enter") location.hash = `#work=${work.id}` } },
+      el("span", { class: "t" }, work.title, work.kind === "collection" ? el("span", { class: "note" }, " (collection)") : null), badge(work)))
+  }
+  app.replaceChildren(
+    el("div", { class: "counts" }, groups.map(([key, label, n]) => el("div", { class: `count${state.status === key ? " on" : ""}`, onclick: () => { state.status = key; home() } }, el("b", {}, n), label))),
+    el("div", { class: "filters" },
+      el("input", { type: "search", placeholder: "Search author or title", value: state.query, oninput: (event) => { state.query = event.target.value; home(); const box = app.querySelector("input[type=search]"); box.focus(); box.setSelectionRange(box.value.length, box.value.length) } }),
+      el("select", { onchange: (event) => { state.section = event.target.value; home() } },
+        el("option", { value: "" }, "All sections"), Object.entries(SECTIONS).map(([key, name]) => el("option", { value: key, selected: state.section === key }, `${key}. ${name}`)))),
+    el("p", { class: "note" }, `${shown.length} of ${works.length} records. Catalogue generated ${catalogue.generatedAt}. Only verified public-domain or openly licensed texts are stored; everything else is bibliography.`),
+    list)
+}
+
+const editionCard = (edition, heading) => edition && el("div", { class: "meta" },
+  el("h3", {}, heading),
+  el("p", {}, edition.title, edition.containedIn ? `, in ${edition.containedIn}` : ""),
+  el("p", {}, [edition.translator && `Translated by ${edition.translator}`, edition.editor && `Edited by ${edition.editor}`, [edition.place, edition.publisher].filter(Boolean).join(": "), edition.year].filter(Boolean).join(" · ")),
+  el("p", {}, `Copy: ${edition.licence}${edition.attribution ? ` — ${edition.attribution}` : ""} · `, el("a", { href: edition.sourceUrl, target: "_blank", rel: "noopener" }, "source")),
+  el("p", { class: edition.verified ? "" : "warn" }, edition.verified ? `Verified · US public domain · life+70: ${edition.life70}` : "Not verified — recorded only", edition.ingested ? " · in the store" : ""))
+
+async function workView(id) {
+  const work = catalogue.works.find((item) => item.id === id)
+  if (!work) { app.replaceChildren(el("p", {}, "No such record.")); return }
+  const author = catalogue.authors.find((item) => item.id === work.authorId)
+  const head = [
+    el("button", { class: "back", onclick: () => { location.hash = "" } }, "← All records"),
+    el("h1", {}, work.title), el("div", { class: "sub" }, `${author?.name ?? ""} · ${work.composed} · written in ${work.originalLanguage}`),
+    el("div", { class: "meta" }, el("h3", {}, "Status"), el("p", {}, badge(work), " ",
+      work.status === "verified_public_domain_bilingual" && work.originalLanguage === "english" ? "Verified (written in English: one text)" : STATUS[work.status] ?? work.status), el("p", {}, work.statusBasis),
+      work.incomplete ? el("p", { class: "warn" }, `Not complete: ${work.incomplete}`) : null,
+      work.sameAs ? el("p", {}, "The same text is filed as ", el("a", { href: `#work=${work.sameAs}` }, work.sameAs), ".") : null,
+      work.notes ? el("p", { class: "note" }, work.notes) : null),
+    editionCard(work.original, `Original (${work.originalLanguage})`), editionCard(work.english, "English"),
+  ]
+  const reader = el("div")
+  app.replaceChildren(...head.filter(Boolean), reader)
+  if (!storedSides(work).length) { reader.append(el("p", { class: "note" }, "No text of this work is in the store.")); return }
+  let manifest
+  try { manifest = await json(`${id}/manifest.json`) } catch (error) { reader.append(el("p", { class: "warn" }, String(error.message))); return }
+  const side = (role) => manifest.editions.find((edition) => edition.role === role)
+  const original = side("original"), english = side("english")
+  const cache = new Map()
+  const load = (edition, division) => { const url = `${id}/${edition.editionId}/${division.file}`; if (!cache.has(url)) cache.set(url, json(url)); return cache.get(url) }
+  const under = (ref, key) => ref === key || ref.startsWith(`${key}.`)
+  const segmentsUnder = async (edition, key) => {
+    if (!edition) return []
+    const out = []
+    for (const division of edition.divisions.filter((item) => under(item.ref, key) || under(key, item.ref))) {
+      const data = await load(edition, division)
+      out.push(...data.segments.filter((segment) => under(segment.ref, key) || under(division.ref, key)))
+    }
+    return out
+  }
+  const name = (division) => division.title && division.title !== division.ref ? `${division.ref} · ${division.title}` : division.ref
+  // dir="auto": Hebrew and Aramaic run right to left; the reference stays a small left-to-right label.
+  const seg = (segment, cls) => el("div", { class: `seg ${cls}`, dir: "auto" }, el("span", { class: "r", dir: "ltr" }, segment.ref), el("span", {}, segment.text))
+  // What to page through, and how the two sides meet on a page.
+  let pages, mode
+  if (original && english && manifest.parallel === "segment") { mode = "segment"; pages = original.divisions.map((division) => ({ key: division.ref, label: name(division) })) }
+  else if (original && english && manifest.parallel === "reference") {
+    mode = "reference"
+    const depth = manifest.alignment.depth
+    const seen = new Set()
+    pages = english.divisions.map((division) => ({ key: division.ref.split(".").slice(0, depth).join("."), label: division.title })).filter((page) => !seen.has(page.key) && seen.add(page.key))
+      .map((page) => ({ key: page.key, label: /^[\dp.~s]+$/.test(page.label) || page.label === page.key ? page.key : `${page.key} · ${page.label}` }))
+  } else if (original && english && manifest.parallel === "division") { mode = "division"; pages = original.divisions.map((division) => ({ key: division.ref, label: name(division) })) }
+  else { mode = "single" }
+  const body = el("div")
+  const show = async (which, edition) => {
+    body.replaceChildren(el("p", { class: "note" }, "Loading…"))
+    const rows = []
+    if (mode === "single") {
+      const division = edition.divisions[which]
+      const data = await load(edition, division)
+      rows.push(el("div", { class: "pair one" }, el("div", {}, data.segments.map((segment) => seg(segment, edition.role === "original" ? "orig" : "")))))
+    } else {
+      const key = pages[which].key
+      const [left, right] = await Promise.all([segmentsUnder(original, key), segmentsUnder(english, key)])
+      rows.push(el("div", { class: "pair" }, el("div", { class: "colhead" }, original.language), el("div", { class: "colhead" }, "English")))
+      if (mode === "segment") {
+        const refs = [...new Set([...left, ...right].map((segment) => segment.ref))]
+        const paired = left.length === right.length && left.every((segment, index) => segment.ref === right[index].ref)
+        if (paired) for (const ref of refs) rows.push(el("div", { class: "pair" }, seg(left.find((s) => s.ref === ref), "orig"), seg(right.find((s) => s.ref === ref), "")))
+        else rows.push(el("div", { class: "pair" }, el("div", {}, left.map((s) => seg(s, "orig"))), el("div", {}, right.map((s) => seg(s, "")))))
+      } else rows.push(el("div", { class: "pair" }, el("div", {}, left.length ? left.map((s) => seg(s, "orig")) : el("p", { class: "note" }, "Not in the original text.")), el("div", {}, right.length ? right.map((s) => seg(s, "")) : el("p", { class: "note" }, "Not in the English text."))))
+    }
+    body.replaceChildren(...rows)
+  }
+  const bar = el("div", { class: "reader-bar" })
+  if (mode === "single") {
+    const editions = manifest.editions
+    let current = editions[0]
+    const pick = el("select", { "aria-label": "Division", onchange: (event) => show(Number(event.target.value), current) })
+    const fill = () => { pick.replaceChildren(...current.divisions.map((division, index) => el("option", { value: index }, name(division).slice(0, 110)))) }
+    if (editions.length > 1) bar.append(el("select", { "aria-label": "Text", onchange: (event) => { current = editions[Number(event.target.value)]; fill(); show(0, current) } }, editions.map((edition, index) => el("option", { value: index }, edition.role === "original" ? `${edition.language} text` : "English text"))))
+    fill()
+    bar.append(pick)
+    if (original && english) reader.append(el("p", { class: "note" }, "The two texts divide this work differently, so they are shown one at a time."))
+    reader.append(bar, body)
+    show(0, current)
+  } else {
+    const pick = el("select", { "aria-label": "Chapter", onchange: (event) => show(Number(event.target.value)) }, pages.map((page, index) => el("option", { value: index }, page.label.slice(0, 110))))
+    const step = (by) => { const next = Math.min(pages.length - 1, Math.max(0, pick.selectedIndex + by)); pick.selectedIndex = next; show(next) }
+    bar.append(el("button", { onclick: () => step(-1) }, "‹ Previous"), pick, el("button", { onclick: () => step(1) }, "Next ›"))
+    reader.append(el("p", { class: "note" }, mode === "segment" ? `${original.language[0].toUpperCase()}${original.language.slice(1)} and English are set side by side, ${original.segmentRefs === "citation" && /^[A-Z0-9]{3}\./.test(pages[0].key) ? "verse by verse" : "section by section"}.` : mode === "reference" ? "Original and English are set side by side by chapter. The English is in paragraphs; the original keeps its own section numbers." : "Original and English are set side by side, division by division."), bar, body)
+    show(0)
+  }
+  for (const edition of manifest.editions) reader.append(el("p", { class: "note" }, `${edition.role === "original" ? "Original" : "English"} text: ${edition.credit}`,
+    edition.passagesLeftOut ? el("span", { class: "warn" }, ` ${edition.passagesLeftOut.words} words in ${edition.passagesLeftOut.refs.length} sections were left out and marked […]: ${edition.passagesLeftOut.reason}`) : null))
+}
+
+function route() {
+  const id = (location.hash.match(/work=([^&]+)/) ?? [])[1]
+  window.scrollTo(0, 0)
+  if (id) workView(decodeURIComponent(id)); else home()
+}
+json("catalogue.json").then((data) => { catalogue = data; window.addEventListener("hashchange", route); route() })
+  .catch((error) => app.replaceChildren(el("p", { class: "warn" }, `The catalogue could not be read: ${error.message}`)))
+</script>
+</body>
+</html>

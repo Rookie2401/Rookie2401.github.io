@@ -1,0 +1,1389 @@
+{
+ "workId": "augustine-enchiridion",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "enchiridion-shaw-npnf3-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "The Enchiridion, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. III: St. Augustin: On the Holy Trinity, Doctrinal Treatises, Moral Treatises (ed. Philip Schaff; Buffalo, Christian Literature Co., 1887); copy on English Wikisource, trans. J. F. Shaw (Buffalo: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_III/Doctrinal_Treatises_of_St._Augustin/The_Enchiridion",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 306181,
+   "sourceSha256": "f0a963f3324d609a08e364cf3c851c1f77ff63cf96fae93057ded3ab75e52847",
+   "leftOut": {
+    "note": 243
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Argument",
+     "bytes": 1918,
+     "sha256": "9567791156b0b9c89e5efb2e546d589076697a53eb09df04e70bbb147786b32e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 1",
+     "bytes": 2002,
+     "sha256": "1e21261b3c00d8f5a4a590efbd249c16cc10feb2a2baf759595633839e6124e8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 10",
+     "bytes": 1244,
+     "sha256": "677b8f3220b5e5d1b525779cb52b64fc9d74cd7dbf2b1b7676526e9b0d6ad4bb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 100",
+     "bytes": 2410,
+     "sha256": "b9de57c8173d361cf86318cff49ee93e9aea9d9888f0c35316731299bd839bd9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 101",
+     "bytes": 3155,
+     "sha256": "81846d6fd63780a45b14d4657f1cbda69e57223b593cf9906608d35cf8e98149"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 102",
+     "bytes": 1504,
+     "sha256": "24ca6412dfffff4d4468ff5cda0982dfe8ec82d8066bb0a5cdcbd0be4b77bd33"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 103",
+     "bytes": 4728,
+     "sha256": "0a57cdbd8b49ab882b9d3adec47e53466f25801dea5f84559ac632632d2e52dd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 104",
+     "bytes": 1699,
+     "sha256": "cb2daccd7c32e21b1d65522436970ab5f174f06233d1e7dde92670de26670b3e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 105",
+     "bytes": 2289,
+     "sha256": "6b95e98b8b7dba277d7567b632f2a738892316ffbe0fffcba1c0fdce58642cfe"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 106",
+     "bytes": 2562,
+     "sha256": "804ce5d9e1e21553391dea4ed65a748371c81631a631c9584fdae6f8f9f161cb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 107",
+     "bytes": 2381,
+     "sha256": "26ed221774a9f87be11c82ed830fab80c65c4d2889ff51d2ff1ef06bbf8aa89e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 108",
+     "bytes": 2385,
+     "sha256": "275be18132fcbaacfdc09caf68e6c518d9bb940f9917a5da31dde12d3c9df23f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 109",
+     "bytes": 1204,
+     "sha256": "ff660fd1f930e9c3312fee40504d8eb2853e16adbd530d07c4ba1056a23f6d62"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 11",
+     "bytes": 2231,
+     "sha256": "e5fd4cb2195e9edcfca0793b93a0ad42c91e09a6a5f0094603f9dcc6005c0eda"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 110",
+     "bytes": 3011,
+     "sha256": "aa102b219e82ccfaa954c2a71f9e31f956aa4090f9d34a8d775d8e82067e1317"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 111",
+     "bytes": 1816,
+     "sha256": "e5aa586250aedc7c0a75e01b0397e138e992c93a261b50835bcf89549a57c1d4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 112",
+     "bytes": 3614,
+     "sha256": "d0218e94be65ce7093c053f5ac578cfe9a3fd67fe044764e2c272187cceb0754"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 113",
+     "bytes": 1440,
+     "sha256": "6740c28b463cd8c2e46dfe66eb62341886958caa361c76c818b6366970ba06bf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 114",
+     "bytes": 1768,
+     "sha256": "b37607d72b751a08c456b0f6c72021552219a0e7a5e14f07aa04c449b782baaf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 115",
+     "bytes": 2686,
+     "sha256": "874e2950f3319438e78d52c8d9425f698f89f7fa7137d0cb3d0211f31852919e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 116",
+     "bytes": 2353,
+     "sha256": "0f1b2cecde42662504ab02a16a556a0dfcef823af659e66b50411559e42adf0d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 117",
+     "bytes": 2734,
+     "sha256": "0df7da84b93b1fee1e5cf0f361297654a9847d798d60b901aa508748f0bcef4d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 118",
+     "bytes": 3524,
+     "sha256": "22631b088853aa850f6f529e345b1d13ac2cc7c05b409a212c1cae96b9cf6824"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 119",
+     "bytes": 1451,
+     "sha256": "aa01229e5a0e543e7f63cecd29c97ea660634acc129a905f2488b2dd4fc48b7d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 12",
+     "bytes": 2841,
+     "sha256": "ed202e378b85668e87fdeb2328cd36b7d2f6ec9c7d2007e73e7ff23df0ff5a67"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 120",
+     "bytes": 1418,
+     "sha256": "3c4a9828fc7a813f113176deed417436330a75c42cbd7de28a63c7e09d144a2d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 121",
+     "bytes": 3341,
+     "sha256": "4d8788256f607c087bc51adee17fa7d2c1e44c44bf989941919736a3e444ebaa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 122",
+     "bytes": 1410,
+     "sha256": "3386b9dc93910d4be86faf58b31b741e8366990cda3c71b86932743b4507a71c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 13",
+     "bytes": 2947,
+     "sha256": "5de6c56c125374ca1bd8ae423cd42db3bc25cec4b22319ba487ce3f867a75255"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 14",
+     "bytes": 2825,
+     "sha256": "d4eb6992626dc169d7dae71c26b297e94e0aa1d87d10c636e7dcc1075dae3329"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 15",
+     "bytes": 2229,
+     "sha256": "c94fe80cf83eb39f6353e32cebc5540382ea9f8e584158b396961380439f1d23"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 16",
+     "bytes": 2254,
+     "sha256": "28553e7fa03e042aec1db99e3d3f94b984784784d265b722ca84b35e9f50f638"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 17",
+     "bytes": 4356,
+     "sha256": "2db32aa394e999b0779eb7dec53c35379c3459806c30359c6f2fd3a813398deb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 18",
+     "bytes": 4187,
+     "sha256": "dee2b3ece7ba3b45a6bdf83a6c4e973fc1225d8b0b367ac1b382bb61511f8b7f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 19",
+     "bytes": 3770,
+     "sha256": "79bf0e287a5da8c7b6f4f1d2f119491269b4e42d951377a04b4545050dd5d16e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 2",
+     "bytes": 1944,
+     "sha256": "ff3138c2901bb073045e3bef6fe00436fd7e47131be8498486a7f39778dc036d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 20",
+     "bytes": 4368,
+     "sha256": "3cab8586807bf89e1bf423a876935f463bc79aababe1a3b5d55439f5ef778574"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 21",
+     "bytes": 2896,
+     "sha256": "c60108205c41590194a091567a3508b9b6238b01e8537aba25fc291bc919bc79"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 22",
+     "bytes": 3142,
+     "sha256": "aeb06d820875ba93b0f2993150bae0dc2d540092f174dd8371c0c9960c3a811b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 23",
+     "bytes": 1561,
+     "sha256": "097c09419557f87f7ea9e7e69023ac2cc50ced497e7ce61e4c393ba5625fe184"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 24",
+     "bytes": 1707,
+     "sha256": "a89379e0f8e4512e9e77f7c9c647f511412a222b4c2a10c218ebd2c03b8259f9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 25",
+     "bytes": 1701,
+     "sha256": "a039f2b09c2714440a9bbc07f493f3f768f5b082e3eec5513ee5504b8b6db731"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 26",
+     "bytes": 1909,
+     "sha256": "db6b87f6540d2fec3ccd5787f9cbb8664bb829989d4e94f36525c60a55282bd4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 27",
+     "bytes": 2943,
+     "sha256": "88349b9b323be57435e7e6ec091c27529f04b9de674522ff8d341977e6bb283c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 28",
+     "bytes": 1802,
+     "sha256": "8039a3d24d4632eda6be415fde0e9023ea031c7bfab95fafb867bc2c2721891a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 29",
+     "bytes": 2608,
+     "sha256": "f6b2f428b8dd9a64e3e2422ee852959f0166ae214bd8f0c3f803027498a95589"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 3",
+     "bytes": 1479,
+     "sha256": "d12c060aad61e24b081a75632ca89a48160487d9e2c8483ed996c540fedeae76"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 30",
+     "bytes": 2946,
+     "sha256": "f653098d851a9b920cb1a1355f081203b866356e27a63dadd256f871fc2fd7b0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 31",
+     "bytes": 2159,
+     "sha256": "b8338d75b037259fa73c50eb21e1f310e2c2ef56c9c07fa6e03c01bb9cd9fe85"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 32",
+     "bytes": 4170,
+     "sha256": "8d84e1b5df68b8464f58ecfeeca44a516230b2a7278f25381f2c78102e08fefe"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 33",
+     "bytes": 2998,
+     "sha256": "74b55713cb59c510bd3ddf0977488898842ea4e3ec6917d0946b0c44bb509ad2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 34",
+     "bytes": 2682,
+     "sha256": "c3bac5a6523e966280c250a9a3228e17fdda6906553234b4531867fa70bfc5a2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 35",
+     "bytes": 2268,
+     "sha256": "299633c41298801db9053cc725ead867bb09496150c86922d804183ecb98d279"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 36",
+     "bytes": 3413,
+     "sha256": "bc81aeb379847ba58d40d6877ceaf643c927462e130c5242c2bcf969e9abe1d8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 37",
+     "bytes": 2165,
+     "sha256": "c1d507a93e29c15da717e323464ed6d4d55c6fab05aae587f4bcb0ee9b911bc8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 38",
+     "bytes": 3589,
+     "sha256": "f26609c382cff81c1264bcc0fc652081a09f8f8609e375c43ee6a6de996d9da0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 39",
+     "bytes": 2056,
+     "sha256": "104cf3332fc7e88119f46d0df856adc3d4af0ebdf1ee383537f0d11200b85bf6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 4",
+     "bytes": 2305,
+     "sha256": "58b37f93f3e36aafb8f202be4ca1ed14a81d6dd05f07c7ebed8124185026a3e6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 40",
+     "bytes": 2017,
+     "sha256": "ff9b4bbd4f147ad9200b5e65c0f51dbe6e3230f907dfd87856e8547e766019aa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 41",
+     "bytes": 2814,
+     "sha256": "3d85eb2df3d54c77019f203803e4f12559fc397537f0a39ff2ee1bb3bfae0290"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 42",
+     "bytes": 1357,
+     "sha256": "548e00e968cda94b7e14aa47b2a3e5b04b30fc395b91c3a86f1e8b39e9034c25"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 43",
+     "bytes": 1253,
+     "sha256": "44b5048ca76d801028d760d6e92c91debeac61aec60dbc161e8c6fae8c3865f1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 44",
+     "bytes": 2516,
+     "sha256": "8186baf7f40c1a4dc8504be1e08d0c4352f3a67f179b05d90927d817f87a327f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 45",
+     "bytes": 1822,
+     "sha256": "55cd48281bb30226ca038d046d4310388945a921925f41c73b25006ba7a45e98"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 46",
+     "bytes": 2800,
+     "sha256": "692b8b68781f513aac772642804f78e9e6958c3d2f85fbc75628db1772cc0621"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 47",
+     "bytes": 1948,
+     "sha256": "3a53946e87de4e004ab13d18aaf7f196ffea4eb4f6f498286627df639c034be3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 48",
+     "bytes": 1373,
+     "sha256": "9a85327737af27d7ba25c7b22a8bed0876ccf4a593c95ddc6af7adeafd28d993"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 49",
+     "bytes": 3139,
+     "sha256": "b6a9ac2a01aabcdf9c98557b3b80a9d7a6e13fb810f97371466e92155dea0b74"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 5",
+     "bytes": 2279,
+     "sha256": "8d4aa70545c07c21770bb5a96cf9839e7a4996ecb1c6d16fab7053847a3b86a8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 50",
+     "bytes": 1685,
+     "sha256": "c012edd046d6d3c093424427e07de3d8b8fe0e2f955c2c93c2a8fc84fa738df9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 51",
+     "bytes": 1397,
+     "sha256": "c8e9aecc6cf887501bd0a7ce5566d05f7d99befdf4464c7052e060621b90b4bd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 52",
+     "bytes": 4578,
+     "sha256": "da603850d85595f7cca8207e8e0f7e4783872757d6927f1c076c6d0fac7aaade"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 53",
+     "bytes": 2175,
+     "sha256": "8926c11d91b18c5d43bb9ee54702f190f71ccaff24621d6b563dc6ee3d344ce0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 54",
+     "bytes": 1492,
+     "sha256": "8c909693c7d4c10aecefecdb5c48ee343706bdb461ed6585aa72dc660c9162f3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 55",
+     "bytes": 2265,
+     "sha256": "6d6f3613f3c37ef18d915a38f22df544d157d741750e0f661d0621987959a914"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 56",
+     "bytes": 4337,
+     "sha256": "181c0db61f9980a48cf856d92092a99a1b376c110c3f6497deecb588b3594423"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 57",
+     "bytes": 1328,
+     "sha256": "a9e16e0f218f0da8bcf65798fd2e9d0edd3b732273b40a5ab5b1cc139e70c061"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 58",
+     "bytes": 2357,
+     "sha256": "4dfbadf36090ab75c429f20b11b620a34ff5c6d8cbc846f239da94d187b1075e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 59",
+     "bytes": 2585,
+     "sha256": "f1a3aea52c32aaf35ccf9610556e09363f65990671be06f28271d992c2e671bd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 6",
+     "bytes": 1511,
+     "sha256": "5563a683cdfc62347a27f6d3a8af3714056b07e8ec25741bab05e8d9ca44efb9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 60",
+     "bytes": 2146,
+     "sha256": "ebb51bf82fd93288d7cf5f4fbbe622d44ba227bfc5e017193c5b9e3f0f97c0a7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 61",
+     "bytes": 2024,
+     "sha256": "68454937a09a03753227b8e61e225b33d36efc7c479b7645ff8a27798483acd2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 62",
+     "bytes": 2236,
+     "sha256": "344b6b8f569e5cd7f6f4a7fc92c6fdb97a1569ff51718969816761f42125f061"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 63",
+     "bytes": 2669,
+     "sha256": "13f121f0afd1fba57ae74666d693cecb4c675c8ea008d4e663df33641cdc0763"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 64",
+     "bytes": 2835,
+     "sha256": "92f628bcf06ff669ea462d70b284b03c48b8212b2647814ecc869178c402a69a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 65",
+     "bytes": 2076,
+     "sha256": "57e1559a81723bd27ec74505cc09b5094164ae7e9313d9532334800fd798563d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 66",
+     "bytes": 2399,
+     "sha256": "fe9829c1874d0467a993cd75f61b35f5db242de53e338ae48c68a3b37387d7b2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 67",
+     "bytes": 3303,
+     "sha256": "435ab086697288885837822c03fb6cd06149a23804862c3eeff9a07b31bf4522"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 68",
+     "bytes": 4355,
+     "sha256": "a90150b44fe06f5c82446f5cced4c9d74ae014b18e78b241da9dfb64a8ace4e7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 69",
+     "bytes": 2096,
+     "sha256": "a07693fc862c208c06877212c0d553f5241893788e5b81ae6496c536c951b435"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 7",
+     "bytes": 1968,
+     "sha256": "92de97a91347301247be4a1694a0b230f38b2ac6c43d7dfc9f9941e33fb7945b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 70",
+     "bytes": 1518,
+     "sha256": "7086cfa54556314557304f53b700b66dbeb9a255896d35d1105e4dfba3de4277"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 71",
+     "bytes": 1863,
+     "sha256": "3ed009bfe29a5be7b317e683b7ffa2e5a882ea22abc0ddb460599801c61d75b8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 72",
+     "bytes": 2587,
+     "sha256": "f3fa6b8741f4fbb10bf4cc357fa69c9b16db25c1ac57425fad3276b3dfec448a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 73",
+     "bytes": 2460,
+     "sha256": "bc77d99a47c26841c7ff4e3fb31dfdf05e6a6f880b0f35a40d1971aaee415c77"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 74",
+     "bytes": 2022,
+     "sha256": "47de2ac3378d77ee057c262fa3434a920c8a8dbf1e8c788382543bd50b97c58b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 75",
+     "bytes": 3035,
+     "sha256": "b96d7845e48828e9d436d6516d312c5e02a3ee9bbe1af196a5b647f2c5e01dc8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 76",
+     "bytes": 3986,
+     "sha256": "a8a795df1cce481f0c0965555ecdb67142aac929b935a3742ff9961a49c1c0c5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 77",
+     "bytes": 1999,
+     "sha256": "b971d3a8b9be0510655c4dcab7c118ebc0d724be02719be9a7230698870292f5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 78",
+     "bytes": 4749,
+     "sha256": "2794e0ae580f39f33668d18f616a6c06112e4979738c23e0b0d0486b5dd88e1b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 79",
+     "bytes": 2143,
+     "sha256": "b966695ee41ae683f1d1b1336355f634c24619fa9ebd7d2346a4cc030ba7d193"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 8",
+     "bytes": 4802,
+     "sha256": "ef2b6a24a99ae7f16c3f98cebb86284afad3dc9eefce0db95d9cb294be4e5053"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 80",
+     "bytes": 2965,
+     "sha256": "a106417341249fe09597f50dac4ba710dadc167ac41348947ab8e52dfadca46e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 81",
+     "bytes": 2296,
+     "sha256": "9def88ecbc838dfcaf3ae40845c9cabbfe1b979dfb8242770a73add8419edc56"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 82",
+     "bytes": 1623,
+     "sha256": "468c2b8ac1fc7d81513c637888430a044168d9eb5a22a5a196a4612f1354d35b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 83",
+     "bytes": 1386,
+     "sha256": "bb6b0b531babaf6baa9d1ef47293b258c058cb110df33111104c12204b86e519"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 84",
+     "bytes": 1510,
+     "sha256": "fd1c0d171945952333dad13a7f9cf7122b17f4c5a3e9b97fa462ead521ec868f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 85",
+     "bytes": 1932,
+     "sha256": "d30603205459094937c3562ebede5261855c105ca1ac38e878c331c572c9898c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 86",
+     "bytes": 1720,
+     "sha256": "183b688579683d0d0c1a801647de575aa98205c6c4361306fa7f95e8a024e71c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 87",
+     "bytes": 2220,
+     "sha256": "ecf2022b6aea3d6907f2a632d7dfa6232da5c76a9aec29f17a03e8254eaf0017"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 88",
+     "bytes": 1403,
+     "sha256": "35abc39365288869f10c32707ad0e7282db4a0a94e6c3fdc875d1f383923485b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 89",
+     "bytes": 2561,
+     "sha256": "0038c12a98eab958058706c0d4397dfa86e684b8e4dcc2c1bf02a739650fadcb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 9",
+     "bytes": 2456,
+     "sha256": "7b5d37bd5386e77af7b535cdaada7d9a9657ab8ec24104796050901fcc21d29f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 90",
+     "bytes": 2196,
+     "sha256": "dfa5db9ad7e456f24608c47f5ece312a6d7a544259f55a45a8381ae3422a86e7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 91",
+     "bytes": 2718,
+     "sha256": "5a7b74777f67d8f15989ef0f4d1a592f6b9265fa396b404c383ad73623487dab"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 92",
+     "bytes": 2147,
+     "sha256": "180debb6dbe8e7243686fbae3ed803320bf4698ddf2ce8c3f419f0fc7df998fc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 93",
+     "bytes": 1524,
+     "sha256": "9b5f52b67b55a63542f0b70ec14ed66a9ec4680257ee670fc15a3fe2f96d119a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 94",
+     "bytes": 1429,
+     "sha256": "117c980a5f9446e8582654108f7192658ad922e56a50fc1d65017a036ef806bc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 95",
+     "bytes": 2729,
+     "sha256": "510ab725642e74b47f4c27b893a5a719aceb223085e20c0ebbf7a8f8fdfe45c5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 96",
+     "bytes": 1735,
+     "sha256": "bfa543fae455f7bbd26a1ecb5180e9d9e36287a279129ad080d85da3279f5e07"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 97",
+     "bytes": 2697,
+     "sha256": "1c6bcb649b38793709bf41a9337bcef90d59bb1f48d589cc6c6af98171b025fa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 98",
+     "bytes": 4297,
+     "sha256": "033d052ed196e0377cdab6b65895ef3d9a76e91a13f776da7fb1a586acd9dba9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Chapter 99",
+     "bytes": 3997,
+     "sha256": "cd3a3fd532333c945619d3ccdd3f60282173981bd2dcec119fcbcd309de93c27"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/The Enchiridion/Introductory Notice",
+     "bytes": 3843,
+     "sha256": "0f4e4700c9f9bff885e1a330df95e79f55adb7196d316697229837ca9b72bc34"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 3
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "45",
+     "title": "45",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "46",
+     "title": "46",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "47",
+     "title": "47",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "48",
+     "title": "48",
+     "segments": 2
+    },
+    {
+     "file": "0050.json",
+     "ref": "49",
+     "title": "49",
+     "segments": 2
+    },
+    {
+     "file": "0051.json",
+     "ref": "50",
+     "title": "50",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "51",
+     "title": "51",
+     "segments": 2
+    },
+    {
+     "file": "0053.json",
+     "ref": "52",
+     "title": "52",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "53",
+     "title": "53",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "54",
+     "title": "54",
+     "segments": 2
+    },
+    {
+     "file": "0056.json",
+     "ref": "55",
+     "title": "55",
+     "segments": 2
+    },
+    {
+     "file": "0057.json",
+     "ref": "56",
+     "title": "56",
+     "segments": 2
+    },
+    {
+     "file": "0058.json",
+     "ref": "57",
+     "title": "57",
+     "segments": 2
+    },
+    {
+     "file": "0059.json",
+     "ref": "58",
+     "title": "58",
+     "segments": 2
+    },
+    {
+     "file": "0060.json",
+     "ref": "59",
+     "title": "59",
+     "segments": 2
+    },
+    {
+     "file": "0061.json",
+     "ref": "60",
+     "title": "60",
+     "segments": 2
+    },
+    {
+     "file": "0062.json",
+     "ref": "61",
+     "title": "61",
+     "segments": 2
+    },
+    {
+     "file": "0063.json",
+     "ref": "62",
+     "title": "62",
+     "segments": 2
+    },
+    {
+     "file": "0064.json",
+     "ref": "63",
+     "title": "63",
+     "segments": 2
+    },
+    {
+     "file": "0065.json",
+     "ref": "64",
+     "title": "64",
+     "segments": 2
+    },
+    {
+     "file": "0066.json",
+     "ref": "65",
+     "title": "65",
+     "segments": 2
+    },
+    {
+     "file": "0067.json",
+     "ref": "66",
+     "title": "66",
+     "segments": 2
+    },
+    {
+     "file": "0068.json",
+     "ref": "67",
+     "title": "67",
+     "segments": 2
+    },
+    {
+     "file": "0069.json",
+     "ref": "68",
+     "title": "68",
+     "segments": 2
+    },
+    {
+     "file": "0070.json",
+     "ref": "69",
+     "title": "69",
+     "segments": 2
+    },
+    {
+     "file": "0071.json",
+     "ref": "70",
+     "title": "70",
+     "segments": 2
+    },
+    {
+     "file": "0072.json",
+     "ref": "71",
+     "title": "71",
+     "segments": 2
+    },
+    {
+     "file": "0073.json",
+     "ref": "72",
+     "title": "72",
+     "segments": 2
+    },
+    {
+     "file": "0074.json",
+     "ref": "73",
+     "title": "73",
+     "segments": 2
+    },
+    {
+     "file": "0075.json",
+     "ref": "74",
+     "title": "74",
+     "segments": 2
+    },
+    {
+     "file": "0076.json",
+     "ref": "75",
+     "title": "75",
+     "segments": 2
+    },
+    {
+     "file": "0077.json",
+     "ref": "76",
+     "title": "76",
+     "segments": 2
+    },
+    {
+     "file": "0078.json",
+     "ref": "77",
+     "title": "77",
+     "segments": 2
+    },
+    {
+     "file": "0079.json",
+     "ref": "78",
+     "title": "78",
+     "segments": 2
+    },
+    {
+     "file": "0080.json",
+     "ref": "79",
+     "title": "79",
+     "segments": 2
+    },
+    {
+     "file": "0081.json",
+     "ref": "80",
+     "title": "80",
+     "segments": 2
+    },
+    {
+     "file": "0082.json",
+     "ref": "81",
+     "title": "81",
+     "segments": 2
+    },
+    {
+     "file": "0083.json",
+     "ref": "82",
+     "title": "82",
+     "segments": 2
+    },
+    {
+     "file": "0084.json",
+     "ref": "83",
+     "title": "83",
+     "segments": 2
+    },
+    {
+     "file": "0085.json",
+     "ref": "84",
+     "title": "84",
+     "segments": 2
+    },
+    {
+     "file": "0086.json",
+     "ref": "85",
+     "title": "85",
+     "segments": 2
+    },
+    {
+     "file": "0087.json",
+     "ref": "86",
+     "title": "86",
+     "segments": 2
+    },
+    {
+     "file": "0088.json",
+     "ref": "87",
+     "title": "87",
+     "segments": 2
+    },
+    {
+     "file": "0089.json",
+     "ref": "88",
+     "title": "88",
+     "segments": 2
+    },
+    {
+     "file": "0090.json",
+     "ref": "89",
+     "title": "89",
+     "segments": 2
+    },
+    {
+     "file": "0091.json",
+     "ref": "90",
+     "title": "90",
+     "segments": 2
+    },
+    {
+     "file": "0092.json",
+     "ref": "91",
+     "title": "91",
+     "segments": 2
+    },
+    {
+     "file": "0093.json",
+     "ref": "92",
+     "title": "92",
+     "segments": 2
+    },
+    {
+     "file": "0094.json",
+     "ref": "93",
+     "title": "93",
+     "segments": 2
+    },
+    {
+     "file": "0095.json",
+     "ref": "94",
+     "title": "94",
+     "segments": 2
+    },
+    {
+     "file": "0096.json",
+     "ref": "95",
+     "title": "95",
+     "segments": 2
+    },
+    {
+     "file": "0097.json",
+     "ref": "96",
+     "title": "96",
+     "segments": 2
+    },
+    {
+     "file": "0098.json",
+     "ref": "97",
+     "title": "97",
+     "segments": 2
+    },
+    {
+     "file": "0099.json",
+     "ref": "98",
+     "title": "98",
+     "segments": 2
+    },
+    {
+     "file": "0100.json",
+     "ref": "99",
+     "title": "99",
+     "segments": 2
+    },
+    {
+     "file": "0101.json",
+     "ref": "100",
+     "title": "100",
+     "segments": 2
+    },
+    {
+     "file": "0102.json",
+     "ref": "101",
+     "title": "101",
+     "segments": 2
+    },
+    {
+     "file": "0103.json",
+     "ref": "102",
+     "title": "102",
+     "segments": 2
+    },
+    {
+     "file": "0104.json",
+     "ref": "103",
+     "title": "103",
+     "segments": 2
+    },
+    {
+     "file": "0105.json",
+     "ref": "104",
+     "title": "104",
+     "segments": 2
+    },
+    {
+     "file": "0106.json",
+     "ref": "105",
+     "title": "105",
+     "segments": 2
+    },
+    {
+     "file": "0107.json",
+     "ref": "106",
+     "title": "106",
+     "segments": 2
+    },
+    {
+     "file": "0108.json",
+     "ref": "107",
+     "title": "107",
+     "segments": 2
+    },
+    {
+     "file": "0109.json",
+     "ref": "108",
+     "title": "108",
+     "segments": 2
+    },
+    {
+     "file": "0110.json",
+     "ref": "109",
+     "title": "109",
+     "segments": 2
+    },
+    {
+     "file": "0111.json",
+     "ref": "110",
+     "title": "110",
+     "segments": 2
+    },
+    {
+     "file": "0112.json",
+     "ref": "111",
+     "title": "111",
+     "segments": 2
+    },
+    {
+     "file": "0113.json",
+     "ref": "112",
+     "title": "112",
+     "segments": 2
+    },
+    {
+     "file": "0114.json",
+     "ref": "113",
+     "title": "113",
+     "segments": 2
+    },
+    {
+     "file": "0115.json",
+     "ref": "114",
+     "title": "114",
+     "segments": 2
+    },
+    {
+     "file": "0116.json",
+     "ref": "115",
+     "title": "115",
+     "segments": 2
+    },
+    {
+     "file": "0117.json",
+     "ref": "116",
+     "title": "116",
+     "segments": 2
+    },
+    {
+     "file": "0118.json",
+     "ref": "117",
+     "title": "117",
+     "segments": 2
+    },
+    {
+     "file": "0119.json",
+     "ref": "118",
+     "title": "118",
+     "segments": 2
+    },
+    {
+     "file": "0120.json",
+     "ref": "119",
+     "title": "119",
+     "segments": 2
+    },
+    {
+     "file": "0121.json",
+     "ref": "120",
+     "title": "120",
+     "segments": 2
+    },
+    {
+     "file": "0122.json",
+     "ref": "121",
+     "title": "121",
+     "segments": 2
+    },
+    {
+     "file": "0123.json",
+     "ref": "122",
+     "title": "122",
+     "segments": 2
+    },
+    {
+     "file": "0124.json",
+     "ref": "p2",
+     "title": "p2",
+     "segments": 10
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f7f2e8" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#16130f" media="(prefers-color-scheme: dark)">
+<title>GoReview</title>
+  <script type="module" crossorigin src="./assets/index-JE08N56V.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/style-CTa3RDaW.css">
+<meta name="goreview-edition" content="review">
+<link rel="manifest" href="./manifest.webmanifest">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GoReview">
+<link rel="apple-touch-icon" href="./icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="./icons/icon-192.png">
+</head>
+<body>
+<div id="goreview-splash" role="img" aria-label="GoReview">
+  <span class="splash-mark" style="-webkit-mask-image: url('./icons/go-logo.png'); mask-image: url('./icons/go-logo.png')"></span>
+  <span class="splash-word">REVIEW</span>
+</div>
+<noscript><p style="padding:1rem">GoReview needs JavaScript.</p></noscript>
+<div id="app"></div>
+<script>
+/* GoReview: registers the service worker once the page has loaded, and only over https or on localhost.
+ * Inlined into index.html by the review build (never present in the default or the extension build).
+ * When a newer worker is installed and waiting it tells the app (event "goreview:update-ready"); the app's quiet
+ * "Update ready - reload" link calls window.__goreviewApplyUpdate(), which sends SKIP_WAITING and reloads on controllerchange. */
+(function () {
+  if (!('serviceWorker' in navigator)) return;
+  var host = location.hostname;
+  var secure = location.protocol === 'https:' || host === 'localhost' || host === '127.0.0.1' || host === '[::1]' || /\.localhost$/.test(host);
+  if (!secure) return;
+
+  var reloading = false;
+  var applying = false;
+
+  window.__goreviewApplyUpdate = function () {
+    var u = window.__goreviewUpdate;
+    if (!u || !u.waiting) return false;
+    applying = true;
+    u.waiting.postMessage({ type: 'SKIP_WAITING' });
+    return true;
+  };
+
+  function announce(worker) {
+    window.__goreviewUpdate = { waiting: worker };
+    window.dispatchEvent(new CustomEvent('goreview:update-ready'));
+  }
+
+  window.addEventListener('load', function () {
+    navigator.serviceWorker.register('./sw.js').then(function (reg) {
+      if (reg.waiting && navigator.serviceWorker.controller) announce(reg.waiting);
+      reg.addEventListener('updatefound', function () {
+        var w = reg.installing;
+        if (!w) return;
+        w.addEventListener('statechange', function () {
+          if (w.state === 'installed' && navigator.serviceWorker.controller) announce(w);
+        });
+      });
+      // a phone app is rarely reloaded: look for a new build whenever it comes back to the foreground
+      document.addEventListener('visibilitychange', function () {
+        if (!document.hidden) reg.update().catch(function () { /* offline */ });
+      });
+    }).catch(function () { /* the app works without the worker */ });
+  });
+
+  navigator.serviceWorker.addEventListener('controllerchange', function () {
+    if (!applying || reloading) return;
+    reloading = true;
+    location.reload();
+  });
+}());
+</script>
+</body>
+</html>

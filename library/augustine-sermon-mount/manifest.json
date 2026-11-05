@@ -1,0 +1,606 @@
+{
+ "workId": "augustine-sermon-mount",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "sermon-mount-findlay-npnf6-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Our Lord's Sermon on the Mount, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. VI: Saint Augustin: Sermon on the Mount, Harmony of the Gospels, Homilies on the Gospels (ed. Philip Schaff; Buffalo; New York, Christian Literature Co., 1888); copy on English Wikisource, trans. William Findlay (revised and annotated by D. S. Schaff) (Buffalo; New York: Christian Literature Co., 1888). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_VI/Our_Lord's_Sermon_on_the_Mount",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 409796,
+   "sourceSha256": "e4a00beb6543050438cd4e427568f0515f713ef334a12d9cc0d4b1002c4b3c3c",
+   "leftOut": {
+    "note": 490
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book I/Chapter 1",
+     "bytes": 13186,
+     "sha256": "a84bf3abc20be7bc8243bde0df86c863e0842467f4bf3407b582bb0fc9b1f7c8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book I/Chapter 10",
+     "bytes": 6300,
+     "sha256": "e217edfaf752d912d6a13812322baa3b5023cb9c6426f048e4e8001edeccc2e6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book I/Chapter 11",
+     "bytes": 11720,
+     "sha256": "292361d02ff791ae2a0f70eb7958cc1c02da7ecbe532e0412ec2bafbe0b64168"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book I/Chapter 12",
+     "bytes": 7953,
+     "sha256": "b8122f739f7380fcdfd4d595d4cd607b748325971e8c65cf0ce471c74c046bbf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book I/Chapter 13",
+     "bytes": 4491,
+     "sha256": "d45cc723b2032d30492b95de98bf8cbfaeea592ea5ac690cb791955993351ef3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book I/Chapter 14",
+     "bytes": 4827,
+     "sha256": "c98604a0397a31d25d70220c5faab8abe27109578cfca7657a3b7c7fe12a1982"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book I/Chapter 15",
+     "bytes": 7093,
+     "sha256": "cdd310eb7b44d4b7b0e8d7f1f1d5b4e84b2aa2609209a53fbea9744c52709bff"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book I/Chapter 16",
+     "bytes": 22478,
+     "sha256": "cf123063e880d86884857422f9f9c216a0b0694282641dd836e42c407832eaa1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book I/Chapter 17",
+     "bytes": 12005,
+     "sha256": "e28d6cf683e1b3dcc38488b76ef299beeb53f9a18d20d9cf57af54336531963a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book I/Chapter 18",
+     "bytes": 4296,
+     "sha256": "58908a939561b0fcd7e58fb99fabe917949f0dd30f43ac5ce9ebef051313dd88"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book I/Chapter 19",
+     "bytes": 17077,
+     "sha256": "8980af4fb687d9224947efd65a93209ebd2e752e2073b9d313fe41788c5ab9d9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book I/Chapter 2",
+     "bytes": 8633,
+     "sha256": "2647af2531ee822dce5c2abd62cf8033023f79ee04c986b7170ad69bdbd562f0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book I/Chapter 20",
+     "bytes": 13453,
+     "sha256": "ba83c82b3c86d36655289e59549476bfa57801111fcc8b50671db50cafa48c0f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book I/Chapter 21",
+     "bytes": 8778,
+     "sha256": "4713c5da1811814f99023a41cf4bee35be7cf5ccf78864eac8ef7d89f019dfbf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book I/Chapter 22",
+     "bytes": 11222,
+     "sha256": "0125ca40afa162177a8996bb8f835b64e2e176048f228c83c1ae585f8ff726d1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book I/Chapter 23",
+     "bytes": 7984,
+     "sha256": "b80da14b005167e4cc2b32ddd0cdb893349f4f3e5ed302860a199e88267a3a62"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book I/Chapter 3",
+     "bytes": 5198,
+     "sha256": "ba1346a3c32bbc362c02521456a17efab293a7a567dd571438fe5ec5faae5735"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book I/Chapter 4",
+     "bytes": 6713,
+     "sha256": "0381a85a436d9afed3edd40d478cc3e425f5d1ee79704d1e780526a86774a8ed"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book I/Chapter 5",
+     "bytes": 6533,
+     "sha256": "868b41da2906b8d97e262f9cdac7205d2df43a9b4b5ff0025384d1bd5d7d4d1e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book I/Chapter 6",
+     "bytes": 8449,
+     "sha256": "dffe4d968b8ffbe13c269c1a7d08023adbbf0c1383f89930ded449976db143ef"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book I/Chapter 7",
+     "bytes": 3970,
+     "sha256": "9bffaa29b30f0c6edf8b32825d57955a0a98d7447a9a96226aeb03471d7ed398"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book I/Chapter 8",
+     "bytes": 4229,
+     "sha256": "a77ae0566922f287cb60c687f269ca61977515b424597abe6002a590a388f9f5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book I/Chapter 9",
+     "bytes": 12369,
+     "sha256": "7443df00598d6db8d3d43be9b4eb4a9629c21dc79227baf2880da44be16ccb6a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 1",
+     "bytes": 7886,
+     "sha256": "723ebf12187a1e7dd9a981a53e74ed3b275c91da979de92243139974fff9d3d6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 10",
+     "bytes": 4436,
+     "sha256": "f9af38d4aa162f7f79189095284d56e21cfee4805dfad09a85ecece319edcec6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 11",
+     "bytes": 5023,
+     "sha256": "573e631c9501426353e44a197ce045c6a8618a13a0f61fd86e398b1d0d0121d5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 12",
+     "bytes": 8385,
+     "sha256": "50b3079d72d120e5366be7603087feb1cbffc7130e3d8a26e25a742e1e54397e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 13",
+     "bytes": 7910,
+     "sha256": "b40d109166e886c4b85792f991769bcf0f12fa14cdca0100a13ec484949f7f5d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 14",
+     "bytes": 4216,
+     "sha256": "848fdaf8ae67d52fccfee2bb99a16a85b6c8ce0bee8d57b7df1296e1e2aefbc6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 15",
+     "bytes": 6654,
+     "sha256": "11bd2a4bcd5e79ed0a6be8d7a7e0ca77584c16206e9c27868c55d259ec695000"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 16",
+     "bytes": 9064,
+     "sha256": "94dbd8add1e67a7fcc78384dfff2b8e9ee6a557752a18e68f8b4f111e9c64206"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 17",
+     "bytes": 13060,
+     "sha256": "08b696095d74e7086b3c1cf2e622ce04690ea09f6109949f3e4f4e91a2d3929e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 18",
+     "bytes": 8683,
+     "sha256": "639caf4999fbc2ab4429256e0f1c8e9e326d2a80caa0de97310619630c7c2a4b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 19",
+     "bytes": 6845,
+     "sha256": "16686acda87c7ae90b2ed3659914c26f490c7ec8b5c6ecfea967f20faa0cddab"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 2",
+     "bytes": 11453,
+     "sha256": "2c079cd902480359d3109907aad4b6da17096bdcd1d820a6f115bf3767a687b5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 20",
+     "bytes": 10261,
+     "sha256": "98f0ff6f5265e18caf6eda8899f146e17a26b10943273aadd7572075453560c0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 21",
+     "bytes": 5735,
+     "sha256": "e70f66f006e817f6d9764cfaa8531de6f36e19acecab3f6fed0f197ad9b54541"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 22",
+     "bytes": 6796,
+     "sha256": "e928bdf75e6dffab93ce66d0a64db2a047759236b84099a8618aa2efb57c0045"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 23",
+     "bytes": 2890,
+     "sha256": "191959bbd7cf0a1da2259fdc6d77d42569f858e25bbd5bab67f9056ca6d023c5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 24",
+     "bytes": 9628,
+     "sha256": "8aac5f9bdf50412c3714ff3f41e1cec8138e8db8506adc2307326c13e85c2594"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 25",
+     "bytes": 12467,
+     "sha256": "e97e31fd0fe920a87831975bcf9c33596749aeb23b2408383c108c3c440c726f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 3",
+     "bytes": 8884,
+     "sha256": "7ba9d71ebdace67eedd594fd740df65257b0b9a9ccd3444b4d2fc1e3ae1b496f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 4",
+     "bytes": 9515,
+     "sha256": "34e3922d6b16c832f467763bf1989429ef2a83a40b05a5dbc3d8e1b09fe56816"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 5",
+     "bytes": 5670,
+     "sha256": "3f7227ad876e691114029c1b62ab42ad7ae6b9285c3504f89528b827511c0771"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 6",
+     "bytes": 7995,
+     "sha256": "26359e7eb9b97a26b73bfd21828abdb99a501d8e1eef823b85c0f96a350e8b62"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 7",
+     "bytes": 7299,
+     "sha256": "4b54da5aa80906c3b63f44c09fde85d46d986bdeef453bed3e20c0dda8fccfd0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 8",
+     "bytes": 5864,
+     "sha256": "e20111641eefb0b5a627e29e2c50c42f3bfa1416819782f3cf8852243688bc2e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Book II/Chapter 9",
+     "bytes": 13289,
+     "sha256": "d3213bbe094982412c0e2ef12da1ccfcb4b0e4184caa7faaec4ed20ff0d1583e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/Our Lord's Sermon on the Mount/Title Page",
+     "bytes": 931,
+     "sha256": "81bd1762883840f8a46f92b01998f41d68df3c713599a1af769a143fd7104888"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.1.front",
+     "title": "1.1.front",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.2",
+     "title": "1.2",
+     "segments": 7
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.3",
+     "title": "1.3",
+     "segments": 3
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.4",
+     "title": "1.4",
+     "segments": 3
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.5",
+     "title": "1.5",
+     "segments": 4
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.6",
+     "title": "1.6",
+     "segments": 3
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.7",
+     "title": "1.7",
+     "segments": 3
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.8",
+     "title": "1.8",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.9",
+     "title": "1.9",
+     "segments": 6
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.10",
+     "title": "1.10",
+     "segments": 4
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.11",
+     "title": "1.11",
+     "segments": 5
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.12",
+     "title": "1.12",
+     "segments": 5
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.13",
+     "title": "1.13",
+     "segments": 3
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.14",
+     "title": "1.14",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.15",
+     "title": "1.15",
+     "segments": 4
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.16",
+     "title": "1.16",
+     "segments": 9
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.17",
+     "title": "1.17",
+     "segments": 4
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.18",
+     "title": "1.18",
+     "segments": 3
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.19",
+     "title": "1.19",
+     "segments": 7
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.20",
+     "title": "1.20",
+     "segments": 8
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.21",
+     "title": "1.21",
+     "segments": 5
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.22",
+     "title": "1.22",
+     "segments": 6
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.23",
+     "title": "1.23",
+     "segments": 4
+    },
+    {
+     "file": "0027.json",
+     "ref": "2.1.front",
+     "title": "2.1.front",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "2.1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "2.1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "2.1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "2.1.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "2.2",
+     "title": "2.2",
+     "segments": 6
+    },
+    {
+     "file": "0033.json",
+     "ref": "2.3",
+     "title": "2.3",
+     "segments": 6
+    },
+    {
+     "file": "0034.json",
+     "ref": "2.4",
+     "title": "2.4",
+     "segments": 3
+    },
+    {
+     "file": "0035.json",
+     "ref": "2.5",
+     "title": "2.5",
+     "segments": 4
+    },
+    {
+     "file": "0036.json",
+     "ref": "2.6",
+     "title": "2.6",
+     "segments": 6
+    },
+    {
+     "file": "0037.json",
+     "ref": "2.7",
+     "title": "2.7",
+     "segments": 4
+    },
+    {
+     "file": "0038.json",
+     "ref": "2.8",
+     "title": "2.8",
+     "segments": 3
+    },
+    {
+     "file": "0039.json",
+     "ref": "2.9",
+     "title": "2.9",
+     "segments": 7
+    },
+    {
+     "file": "0040.json",
+     "ref": "2.10",
+     "title": "2.10",
+     "segments": 3
+    },
+    {
+     "file": "0041.json",
+     "ref": "2.11",
+     "title": "2.11",
+     "segments": 3
+    },
+    {
+     "file": "0042.json",
+     "ref": "2.12",
+     "title": "2.12",
+     "segments": 5
+    },
+    {
+     "file": "0043.json",
+     "ref": "2.13",
+     "title": "2.13",
+     "segments": 4
+    },
+    {
+     "file": "0044.json",
+     "ref": "2.14",
+     "title": "2.14",
+     "segments": 3
+    },
+    {
+     "file": "0045.json",
+     "ref": "2.15",
+     "title": "2.15",
+     "segments": 5
+    },
+    {
+     "file": "0046.json",
+     "ref": "2.16",
+     "title": "2.16",
+     "segments": 4
+    },
+    {
+     "file": "0047.json",
+     "ref": "2.17",
+     "title": "2.17",
+     "segments": 4
+    },
+    {
+     "file": "0048.json",
+     "ref": "2.18",
+     "title": "2.18",
+     "segments": 5
+    },
+    {
+     "file": "0049.json",
+     "ref": "2.19",
+     "title": "2.19",
+     "segments": 5
+    },
+    {
+     "file": "0050.json",
+     "ref": "2.20",
+     "title": "2.20",
+     "segments": 5
+    },
+    {
+     "file": "0051.json",
+     "ref": "2.21",
+     "title": "2.21",
+     "segments": 4
+    },
+    {
+     "file": "0052.json",
+     "ref": "2.22",
+     "title": "2.22",
+     "segments": 4
+    },
+    {
+     "file": "0053.json",
+     "ref": "2.23",
+     "title": "2.23",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "2.24",
+     "title": "2.24",
+     "segments": 5
+    },
+    {
+     "file": "0055.json",
+     "ref": "2.25",
+     "title": "2.25",
+     "segments": 7
+    },
+    {
+     "file": "0056.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 10
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "workId": "masoretic-est",
+ "editions": [
+  {
+   "editionId": "wlc-oshb-est",
+   "language": "he",
+   "variety": "he-bib",
+   "textSource": "self",
+   "analysis": {
+    "id": "oshb@2019.01.13",
+    "kind": "verified-dataset",
+    "status": "verified"
+   },
+   "credit": "Open Scriptures Hebrew Bible (OSHB), morphology and lemmas by the OSHB project; text: Westminster Leningrad Codex (WLC)",
+   "licence": "OSHB lemma and morphology: CC BY 4.0; WLC text: public domain; headwords and glosses: Open Scriptures Lexical Index (CC BY 4.0), BDB (public domain), Strong's (public domain, JSON CC BY-SA), curated glosses of the Biblia build",
+   "source": "biblia-v0/data/oshb/Esth.xml",
+   "sourceUrl": "https://github.com/openscriptures/morphhb",
+   "version": "oshb 2018.4.23 (WLC version 4.20.); newest file 2019.01.13",
+   "coverage": {
+    "tokens": 3045,
+    "withLemma": 3045,
+    "withMorphology": 2558,
+    "verified": 3045,
+    "ambiguous": 0,
+    "unanalysed": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "EST.1",
+     "title": "Esther 1",
+     "segments": 22,
+     "tokens": 371
+    },
+    {
+     "file": "0002.json",
+     "ref": "EST.2",
+     "title": "Esther 2",
+     "segments": 23,
+     "tokens": 438
+    },
+    {
+     "file": "0003.json",
+     "ref": "EST.3",
+     "title": "Esther 3",
+     "segments": 15,
+     "tokens": 303
+    },
+    {
+     "file": "0004.json",
+     "ref": "EST.4",
+     "title": "Esther 4",
+     "segments": 17,
+     "tokens": 285
+    },
+    {
+     "file": "0005.json",
+     "ref": "EST.5",
+     "title": "Esther 5",
+     "segments": 14,
+     "tokens": 265
+    },
+    {
+     "file": "0006.json",
+     "ref": "EST.6",
+     "title": "Esther 6",
+     "segments": 14,
+     "tokens": 263
+    },
+    {
+     "file": "0007.json",
+     "ref": "EST.7",
+     "title": "Esther 7",
+     "segments": 10,
+     "tokens": 187
+    },
+    {
+     "file": "0008.json",
+     "ref": "EST.8",
+     "title": "Esther 8",
+     "segments": 17,
+     "tokens": 343
+    },
+    {
+     "file": "0009.json",
+     "ref": "EST.9",
+     "title": "Esther 9",
+     "segments": 32,
+     "tokens": 544
+    },
+    {
+     "file": "0010.json",
+     "ref": "EST.10",
+     "title": "Esther 10",
+     "segments": 3,
+     "tokens": 46
+    }
+   ]
+  }
+ ]
+}

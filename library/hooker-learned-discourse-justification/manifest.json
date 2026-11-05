@@ -1,0 +1,41 @@
+{
+ "workId": "hooker-learned-discourse-justification",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "hooker-learned-discourse-tcp-a03586-1612",
+   "role": "english",
+   "language": "english",
+   "credit": "A learned discourse of iustification, workes, and how the foundation of faith is overthrowne, in EEBO-TCP A03586 (STC 13708), from the first printing, Oxford 1612, ed. Henry Jackson (under the direction of John Spenser) (Oxford: Joseph Barnes (sold by John Barnes), 1612). Transcription: Text Creation Partnership (EEBO-TCP Phase 1); keyboarded from page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A03586/master/A03586.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 167436,
+   "sourceSha256": "989b3ac1b219dabe48d339b3b027a3cc5150422394736f1fe5c656bb9da24f85",
+   "leftOut": {
+    "pb": 96,
+    "note": 117,
+    "unread": 10
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 20692,
+    "unreadPerThousand": 0.5
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "TO THE CHRISTIAN READER.",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 59
+    }
+   ]
+  }
+ ]
+}

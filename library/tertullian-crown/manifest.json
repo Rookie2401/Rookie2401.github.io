@@ -1,0 +1,310 @@
+{
+ "workId": "tertullian-crown",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "oehler-1853-corona",
+   "role": "original",
+   "language": "latin",
+   "credit": "De Corona, in Quinti Septimii Florentis Tertulliani Quae supersunt omnia, vol. 1, ed. Franz Oehler (Leipzig: T. O. Weigel, 1853). Trustees of Tufts University / Perseus Digital Library, CC BY-SA 4.0; text of F. Oehler (ed.), Tertulliani Quae supersunt omnia, Leipzig 1853-54 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/stoa0275/stoa013/stoa0275.stoa013.opp-lat1.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 39478,
+   "sourceSha256": "106af1cce6ffa635c540b6a7d6d21a00eae46075b6de8475cdbf8c7d68fd5a30",
+   "leftOut": {
+    "pb": 43,
+    "bibl": 19
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 4864,
+    "garbledPerThousand": 0,
+    "joinedPerThousand": 0,
+    "numbersPerThousand": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "anf3-thelwall-chaplet",
+   "role": "english",
+   "language": "english",
+   "credit": "The Chaplet, or De Corona, in The Ante-Nicene Fathers, vol. III (American edition, ed. A. Cleveland Coxe), Tertullian, trans. Sydney Thelwall (Buffalo: Christian Literature Publishing Co., 1885). Wikisource contributors, \"Ante-Nicene Fathers\" (Sydney Thelwall), en.wikisource.org, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_III/Apologetic/The_Chaplet,_or_De_Corona",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 58250,
+   "sourceSha256": "0db91c0aca544b30e1bc43be1c9d63a079c9d0c219024500be058e25966730a8",
+   "leftOut": {
+    "note": 61
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/The Chaplet, or De Corona/Chapter II",
+     "bytes": 3261,
+     "sha256": "3eb16d77ed483f09287c219d723eea2b14dbd07dda63747f16b9355647b91e14"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/The Chaplet, or De Corona/Chapter III",
+     "bytes": 2845,
+     "sha256": "70b67aaa32879c153c92c54ae9132c4c907623c8fe8ebce19421e8d5efacf1b3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/The Chaplet, or De Corona/Chapter IV",
+     "bytes": 4683,
+     "sha256": "5cc53d4f1b9d65387a4bf4128c133ddc65a4ebd8ced06495fab4233b67d9e844"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/The Chaplet, or De Corona/Chapter V",
+     "bytes": 3178,
+     "sha256": "33ff92cde93e814399fed71461d694b5c25d9aa714cfd604b6c9d99226ff53ea"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/The Chaplet, or De Corona/Chapter VI",
+     "bytes": 2146,
+     "sha256": "b63d7438f41107044e96ade3f12817ab60190b1b613f18894b3ef277cb49033b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/The Chaplet, or De Corona/Chapter VII",
+     "bytes": 5448,
+     "sha256": "17841845dd4e5e950ff4d01b89a1f7ef9331588bb0848157c641e1a25cdf22cb"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/The Chaplet, or De Corona/Chapter VIII",
+     "bytes": 3460,
+     "sha256": "0965077a398cff53b846bcf0f7ffc416b01583ee0c7212a8dfc3492ce1dadfee"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/The Chaplet, or De Corona/Chapter IX",
+     "bytes": 2210,
+     "sha256": "971618079ba2ab64660907cd8f5b25d3f8bab022a0bea83a91847ebc323c35b5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/The Chaplet, or De Corona/Chapter X",
+     "bytes": 6041,
+     "sha256": "f5a6bca2dda96898769fcdfd200e574d0e778e1507e813c428d6156cbcd059ab"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/The Chaplet, or De Corona/Chapter XI",
+     "bytes": 6484,
+     "sha256": "94fe39869d98345a07b3f5ee6213d9f499f4989b7318eceb1a829c6364457411"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/The Chaplet, or De Corona/Chapter XII",
+     "bytes": 3453,
+     "sha256": "8eccffe9c192a5664376e76ef386fd04bbe484fde8c6aeeb02c2b96af526d0a5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/The Chaplet, or De Corona/Chapter XIII",
+     "bytes": 5569,
+     "sha256": "2d9dcf2b49b3bef1942497c69cb367325b6acffd8427f7087290a95de90cc2e0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/The Chaplet, or De Corona/Chapter XIV",
+     "bytes": 3067,
+     "sha256": "24d919c2a9151490d48f8f031a62086446bd4f9e76d38aebd91a56c90f82b311"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/The Chaplet, or De Corona/Chapter XV",
+     "bytes": 2692,
+     "sha256": "c44a6faa8f6cffcb0d9ade91f8c26fe459c490a36293a2faec3ac5c88d744ad4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/The Chaplet, or De Corona/Elucidations",
+     "bytes": 3713,
+     "sha256": "6f40a25f2f5d76825f6a6865e9acd8e1b48d4965d815578bb95a839b5ae5dd08"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 9
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 14,
+  "onlyInOriginal": 1,
+  "onlyInEnglish": 1
+ }
+}

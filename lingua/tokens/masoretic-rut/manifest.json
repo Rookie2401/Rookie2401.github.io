@@ -1,0 +1,59 @@
+{
+ "workId": "masoretic-rut",
+ "editions": [
+  {
+   "editionId": "wlc-oshb-rut",
+   "language": "he",
+   "variety": "he-bib",
+   "textSource": "self",
+   "analysis": {
+    "id": "oshb@2019.01.13",
+    "kind": "verified-dataset",
+    "status": "verified"
+   },
+   "credit": "Open Scriptures Hebrew Bible (OSHB), morphology and lemmas by the OSHB project; text: Westminster Leningrad Codex (WLC)",
+   "licence": "OSHB lemma and morphology: CC BY 4.0; WLC text: public domain; headwords and glosses: Open Scriptures Lexical Index (CC BY 4.0), BDB (public domain), Strong's (public domain, JSON CC BY-SA), curated glosses of the Biblia build",
+   "source": "biblia-v0/data/oshb/Ruth.xml",
+   "sourceUrl": "https://github.com/openscriptures/morphhb",
+   "version": "oshb 2017.12.10 (WLC version 4.20.); newest file 2019.01.13",
+   "coverage": {
+    "tokens": 1295,
+    "withLemma": 1295,
+    "withMorphology": 1051,
+    "verified": 1295,
+    "ambiguous": 0,
+    "unanalysed": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "RUT.1",
+     "title": "Ruth 1",
+     "segments": 22,
+     "tokens": 325
+    },
+    {
+     "file": "0002.json",
+     "ref": "RUT.2",
+     "title": "Ruth 2",
+     "segments": 23,
+     "tokens": 378
+    },
+    {
+     "file": "0003.json",
+     "ref": "RUT.3",
+     "title": "Ruth 3",
+     "segments": 18,
+     "tokens": 257
+    },
+    {
+     "file": "0004.json",
+     "ref": "RUT.4",
+     "title": "Ruth 4",
+     "segments": 22,
+     "tokens": 335
+    }
+   ]
+  }
+ ]
+}

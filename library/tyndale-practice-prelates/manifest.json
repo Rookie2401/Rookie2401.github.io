@@ -1,0 +1,149 @@
+{
+ "workId": "tyndale-practice-prelates",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "tyndale-practice-prelates-1548-tcp",
+   "role": "english",
+   "language": "english",
+   "credit": "The Practice of Prelates (London, 1548 printing), in EEBO-TCP A14151 (STC 24466) (London: Anthony Scoloker and William Seres, 1548). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A14151/master/A14151.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 286015,
+   "sourceSha256": "d228fcb2ade004b20dc42f571d199cec5f9710180d02b62bc630a62a1cc5168f",
+   "leftOut": {
+    "pb": 132,
+    "unread": 321,
+    "note": 104
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 27434,
+    "unreadPerThousand": 11.7
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "front.1",
+     "segments": 12
+    },
+    {
+     "file": "0002.json",
+     "ref": "0",
+     "title": "1.0",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "1",
+     "title": "¶ Peter was not greater then the other Apostles, by any aucthoritie geuen hym of Chryst.",
+     "segments": 8
+    },
+    {
+     "file": "0004.json",
+     "ref": "2",
+     "title": "¶ How the gospell punissheth trespasers and how by the Gospell we ought to go to lawe with oure aduersaryes.",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.3",
+     "title": "¶What officers y• apostles ordeyned ī christes church, & what their offices wer to do.",
+     "segments": 3
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.4",
+     "title": "¶By what meanes the prelates fell from Chryst",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.5",
+     "title": "¶How the Bysshop of Rome became greater then other / and called him selfe Pope.",
+     "segments": 3
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.6",
+     "title": "¶By what meanes the pope inuaded the Empire.",
+     "segments": 26
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.7",
+     "title": "¶A propre similytude to describe our holy father.",
+     "segments": 15
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.8",
+     "title": "¶Howe the pope receaueth hys kyngdome of the deuell / and howe he distributeth i • agayne.",
+     "segments": 15
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.9",
+     "title": "¶How the pope made hym • lawe, and why.",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.10",
+     "title": "¶Howe the pope corrupteth the scripture and why.",
+     "segments": 22
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.11",
+     "title": "¶Howe they proue all theyr generall counsels.",
+     "segments": 5
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.12",
+     "title": "¶An ensample of practyse out o • oure owne chronycles.",
+     "segments": 9
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.13",
+     "title": "¶By what craft the pope kepeth the Emperour doune.",
+     "segments": 21
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.14",
+     "title": "¶The practise of oure tyme.",
+     "segments": 7
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.15",
+     "title": "¶The cause of all that we haue suffred thys twentye yeares.",
+     "segments": 3
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.16",
+     "title": "¶Why the kinges syster was turned vnto fraunce.",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.17",
+     "title": "The cause of the iourney to Calyce.",
+     "segments": 4
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.18",
+     "title": "¶How the Emperour cam thorow Englond.",
+     "segments": 10
+    }
+   ]
+  }
+ ]
+}

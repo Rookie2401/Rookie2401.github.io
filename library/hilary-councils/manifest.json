@@ -1,0 +1,36 @@
+{
+ "workId": "hilary-councils",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "hilary-councils-npnf2-9-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "On the Councils, or the Faith of the Easterns (De Synodis), in A Select Library of Nicene and Post-Nicene Fathers of the Christian Church, Second Series, vol. IX: Hilary of Poitiers, John of Damascus (American edition; ed. Philip Schaff and Henry Wace; Hilary volume ed. W. Sanday), trans. E. W. Watson, L. Pullan and others (the opened title page does not say which translator did which work) (New York: Charles Scribner's Sons, 1899). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers, Series II), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IX/Title_Page/De_Synodis_or_On_the_Councils/De_Synodis_or_On_the_Councils",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 136028,
+   "sourceSha256": "2caef75ef990ebe6e87dfd240de6b3cc10b14f74d2689a9f714f898f7d7a7147",
+   "leftOut": {
+    "note": 55
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/Title Page/De Synodis or On the Councils/De Synodis or On the Councils",
+     "bytes": 136028,
+     "sha256": "2caef75ef990ebe6e87dfd240de6b3cc10b14f74d2689a9f714f898f7d7a7147"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front",
+     "title": "front",
+     "segments": 181
+    }
+   ]
+  }
+ ]
+}

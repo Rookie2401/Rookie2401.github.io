@@ -1,0 +1,520 @@
+{
+ "workId": "athanasius-life-antony",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "athanasius-life-antony-npnf2-4-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Life of Antony, in A Select Library of Nicene and Post-Nicene Fathers of the Christian Church, Second Series, vol. IV: Athanasius, Select Works and Letters (American edition; ed. Philip Schaff and Henry Wace; vol. edited by Archibald Robertson), trans. H. Ellershaw (per the volume's Preface); the Preface is the only page opened that names him (New York: The Christian Literature Company, 1892). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers, Series II), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IV/Life_of_Antony/Vita_Antoni",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 180676,
+   "sourceSha256": "ccd321af566dd739e80e09f05b0f9ae767e1511e6b8ee06e40c57466a37e54e1",
+   "leftOut": {
+    "note": 162
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 1",
+     "bytes": 3664,
+     "sha256": "fa3899e6d51e0af7c3b11d8b1d9b1d15545185d14c145b0d1058bd3f6fd16677"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 2",
+     "bytes": 4370,
+     "sha256": "afeb318a954d42da2defbb0233c87092dab7b38d468bff6088e51242230435ea"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 3",
+     "bytes": 5201,
+     "sha256": "d8962616cbfc9d7ee33f4cd11a8fea9315268ca775c3fcbe57ec8c7a3b5c0c62"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 4",
+     "bytes": 4270,
+     "sha256": "88957458510fe5d47c8d1e49d4546ff5576806dec067306269d041dfafca6b8b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 5",
+     "bytes": 5401,
+     "sha256": "4ead66767e834f56a021b3460e16ac749af9ddf496abe3214b371517c8eb36ae"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 6",
+     "bytes": 1870,
+     "sha256": "6d85118b71125a5a1a5b12c17687992461d634c4ca0f25dc2a476c20327bf7fd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 7",
+     "bytes": 3773,
+     "sha256": "d782640f994e01747e8a72893d5454c3cdc3f40114bce2f12ed15455dac1fb5a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 8",
+     "bytes": 3222,
+     "sha256": "0836c92eabf03cf73c60bb4febc0b1e2b8ab58cae53c5f15ac1de9afcf611382"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 9",
+     "bytes": 43551,
+     "sha256": "542cec9b931d8730fca26bb3a5e49db54fd306bfca8240a76dcc7aeeee634283"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 10",
+     "bytes": 1974,
+     "sha256": "701b57378f878a62d0e3726b7f8343115a90d5d20404b490afaa7f628f14f5c9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 11",
+     "bytes": 2397,
+     "sha256": "988443687a1831a65decb799e936ca88becf889c4551a713f2c57df723fe5ba7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 12",
+     "bytes": 2527,
+     "sha256": "646ad65d9874acc6a4b8d9acd8b4a3d04150e4bc4c821ad6aecfd002cd59ac68"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 13",
+     "bytes": 1514,
+     "sha256": "2ece068e15906f464581b778cd87f8230bec5bf9f46dd3bfffb3d48ede743cd6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 14",
+     "bytes": 1758,
+     "sha256": "ee21066c554cb49fa3f10be446aeb75abd667e47ddad2284aa88d4da9f02c38e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 15",
+     "bytes": 4761,
+     "sha256": "d4c45aa8f378836478b2d4ad778ae8648a4a6048f43bdb0badb77f29411a7d96"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 16",
+     "bytes": 3478,
+     "sha256": "aa1558d1f049d2347c2ec53fc400c94f6d1fc5b172f66948481e4785d4e6309f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 17",
+     "bytes": 2346,
+     "sha256": "8b2b568b23e0dba96a336ba11329f7e33a0831a8ba8ccb363b1cf6d4c9251fde"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 18",
+     "bytes": 4658,
+     "sha256": "759e013a816cdc27f6d5e523539fb313dec69d0a319b986a05d0a1c234b0d49b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 19",
+     "bytes": 1431,
+     "sha256": "b1ab9aa71987cbfb95db68d7eaecb283903d021c2ebd687c271dc0f1d1a099ea"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 20",
+     "bytes": 2122,
+     "sha256": "76b045459be8bd7dbbd666dbabd1e9b27b062a7285e54f8caba0f137f789e89d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 21",
+     "bytes": 1933,
+     "sha256": "5dcec6242b3b1b1e5be2d55bbae31fd60e530d82a53764f3ad292aa180666e9c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 22",
+     "bytes": 3395,
+     "sha256": "044345882f0129257b8b7cd390a2101e65c7c90a91472bc09d4474627daf2e35"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 23",
+     "bytes": 2261,
+     "sha256": "e32068fb0043a702c533f17a85e49806724269b58c3c8de6d29e449c8042641e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 24",
+     "bytes": 2299,
+     "sha256": "b1602696ed36c1c354ee3b82e698518eb2e5797429023145fa60b2ecfaa9092c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 25",
+     "bytes": 3008,
+     "sha256": "b892259c9c52b5059dcd987cfb0108944cf332d2fb082bfcbb612502b0ecd8de"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 26",
+     "bytes": 2799,
+     "sha256": "3b16534b51d81d1bf26ad35defa805e1d0c756d3d97b19274eeec184dfa2542f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 27",
+     "bytes": 2879,
+     "sha256": "c0ec9370606ea7d31507c16a192beb4eac5127ec859806ab15e3d83dee422e6f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 28",
+     "bytes": 1484,
+     "sha256": "19d834e03f132048728c3a5112823f2b3e120d0e065a554ebf47a4b4ba9fa911"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 29",
+     "bytes": 2229,
+     "sha256": "86ed03526d1b4758d256f0246be4b6f367a175548779971f5e5280f068550d62"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 30",
+     "bytes": 2356,
+     "sha256": "1d15af91d34df3efa08bcb648b11aac4e5d133d5362fa40de5c2583c97d1c996"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 31",
+     "bytes": 11159,
+     "sha256": "df007818fe6242d00a722d30c74fa249fb4606ae28a1651681fb1ca9f5266fc3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 32",
+     "bytes": 2833,
+     "sha256": "2cdfffabb7132c09aa23fd3207d32a70a578dd17ec33a1661be88f155759ce0a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 33",
+     "bytes": 2129,
+     "sha256": "931aebef576afd0fc8fea8b75cd87751e137c5bea68ab8701f36b6645020bbed"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 34",
+     "bytes": 6840,
+     "sha256": "70efb16f8eaf6a2c7ae4f7c44aa90adf60dcf5c1846b1077a35aadf84fd8632d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 35",
+     "bytes": 2789,
+     "sha256": "4c29f197e5d0127a045560f51c8daf7a1696e17cbb721cf2b52f3a258fa0b7ac"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 36",
+     "bytes": 1705,
+     "sha256": "2893ca6d529f5a0b8fa638ef16161da014848b9115d6fb73ba586f9c6fc8a49f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 37",
+     "bytes": 2608,
+     "sha256": "c62c7d17ad9985c81c3e192a3a65a2f8115005edb18c044c8b52085fd329753b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 38",
+     "bytes": 1938,
+     "sha256": "15eff5999e56e9bdd6282b051923244891ee7c1ba07a102cbb9057810a02dfe5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 39",
+     "bytes": 1734,
+     "sha256": "b1e675a13890dc229a59e0d80384387995fc192708720abaf05c4b307ceee159"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 40",
+     "bytes": 3507,
+     "sha256": "f964b56cf9c6fbb8ad92bdf27c3035af9c4d2f7656eecbdb496278f9757b9385"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 41",
+     "bytes": 4046,
+     "sha256": "390dd84e68a4e1681d0931bb2a376ce7b430f38956d24717da1b29564242ee68"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 42",
+     "bytes": 1402,
+     "sha256": "530f33b975f1198c551b0bb2198b2e03e35911efeba4d343a6cea764c9904313"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 43",
+     "bytes": 2462,
+     "sha256": "9b323e7539ba5e16d1047906b87c8f8762cbb3fa0034b8152c35cf5b91cbc502"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Chapter 44",
+     "bytes": 1736,
+     "sha256": "fcdaba98dbcd2d5e53c7d1d01cf30a44bf034112b6e784617878de034d88d625"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Life of Antony/Vita Antoni/Prologue",
+     "bytes": 4857,
+     "sha256": "6b98abfdb72b02bb9ef9f83c7e7913ff1997bd82a0f5a9e30e727ce5d75131b2"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 3
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 28
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 3
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 8
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 49
+    }
+   ]
+  }
+ ]
+}

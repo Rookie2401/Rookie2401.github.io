@@ -1,0 +1,380 @@
+{
+ "workId": "vulgate-gen",
+ "editions": [
+  {
+   "editionId": "clementine-gen",
+   "language": "la",
+   "variety": "la-ecc",
+   "textSource": "store",
+   "analysis": {
+    "id": "golearn-la@1",
+    "kind": "analyser",
+    "status": "automatic"
+   },
+   "credit": "GoLearn Latin analyser (adapter-la; Whitaker's Words, Lewis & Short, Perseus treebank form priors, hand-written Vulgate priors); no Latinist has checked its data",
+   "licence": "Whitaker's Words: free for any use; Lewis & Short via Perseus: CC BY-SA 4.0; Perseus Latin Treebank priors: CC BY-SA 3.0; analyser code: the user's own",
+   "source": "local: go-v0-ecclesia/src/adapters/la.ts",
+   "version": "1",
+   "coverage": {
+    "tokens": 25455,
+    "withLemma": 25452,
+    "withMorphology": 18985,
+    "verified": 0,
+    "ambiguous": 10776,
+    "unanalysed": 3
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "GEN.1",
+     "title": "Genesis 1",
+     "segments": 31,
+     "tokens": 538
+    },
+    {
+     "file": "0002.json",
+     "ref": "GEN.2",
+     "title": "Genesis 2",
+     "segments": 25,
+     "tokens": 426
+    },
+    {
+     "file": "0003.json",
+     "ref": "GEN.3",
+     "title": "Genesis 3",
+     "segments": 24,
+     "tokens": 457
+    },
+    {
+     "file": "0004.json",
+     "ref": "GEN.4",
+     "title": "Genesis 4",
+     "segments": 26,
+     "tokens": 442
+    },
+    {
+     "file": "0005.json",
+     "ref": "GEN.5",
+     "title": "Genesis 5",
+     "segments": 31,
+     "tokens": 398
+    },
+    {
+     "file": "0006.json",
+     "ref": "GEN.6",
+     "title": "Genesis 6",
+     "segments": 22,
+     "tokens": 372
+    },
+    {
+     "file": "0007.json",
+     "ref": "GEN.7",
+     "title": "Genesis 7",
+     "segments": 24,
+     "tokens": 411
+    },
+    {
+     "file": "0008.json",
+     "ref": "GEN.8",
+     "title": "Genesis 8",
+     "segments": 22,
+     "tokens": 386
+    },
+    {
+     "file": "0009.json",
+     "ref": "GEN.9",
+     "title": "Genesis 9",
+     "segments": 29,
+     "tokens": 452
+    },
+    {
+     "file": "0010.json",
+     "ref": "GEN.10",
+     "title": "Genesis 10",
+     "segments": 32,
+     "tokens": 375
+    },
+    {
+     "file": "0011.json",
+     "ref": "GEN.11",
+     "title": "Genesis 11",
+     "segments": 32,
+     "tokens": 450
+    },
+    {
+     "file": "0012.json",
+     "ref": "GEN.12",
+     "title": "Genesis 12",
+     "segments": 20,
+     "tokens": 373
+    },
+    {
+     "file": "0013.json",
+     "ref": "GEN.13",
+     "title": "Genesis 13",
+     "segments": 18,
+     "tokens": 326
+    },
+    {
+     "file": "0014.json",
+     "ref": "GEN.14",
+     "title": "Genesis 14",
+     "segments": 24,
+     "tokens": 445
+    },
+    {
+     "file": "0015.json",
+     "ref": "GEN.15",
+     "title": "Genesis 15",
+     "segments": 21,
+     "tokens": 323
+    },
+    {
+     "file": "0016.json",
+     "ref": "GEN.16",
+     "title": "Genesis 16",
+     "segments": 16,
+     "tokens": 276
+    },
+    {
+     "file": "0017.json",
+     "ref": "GEN.17",
+     "title": "Genesis 17",
+     "segments": 27,
+     "tokens": 444
+    },
+    {
+     "file": "0018.json",
+     "ref": "GEN.18",
+     "title": "Genesis 18",
+     "segments": 33,
+     "tokens": 572
+    },
+    {
+     "file": "0019.json",
+     "ref": "GEN.19",
+     "title": "Genesis 19",
+     "segments": 38,
+     "tokens": 742
+    },
+    {
+     "file": "0020.json",
+     "ref": "GEN.20",
+     "title": "Genesis 20",
+     "segments": 18,
+     "tokens": 347
+    },
+    {
+     "file": "0021.json",
+     "ref": "GEN.21",
+     "title": "Genesis 21",
+     "segments": 34,
+     "tokens": 493
+    },
+    {
+     "file": "0022.json",
+     "ref": "GEN.22",
+     "title": "Genesis 22",
+     "segments": 24,
+     "tokens": 393
+    },
+    {
+     "file": "0023.json",
+     "ref": "GEN.23",
+     "title": "Genesis 23",
+     "segments": 20,
+     "tokens": 330
+    },
+    {
+     "file": "0024.json",
+     "ref": "GEN.24",
+     "title": "Genesis 24",
+     "segments": 67,
+     "tokens": 1205
+    },
+    {
+     "file": "0025.json",
+     "ref": "GEN.25",
+     "title": "Genesis 25",
+     "segments": 34,
+     "tokens": 495
+    },
+    {
+     "file": "0026.json",
+     "ref": "GEN.26",
+     "title": "Genesis 26",
+     "segments": 35,
+     "tokens": 584
+    },
+    {
+     "file": "0027.json",
+     "ref": "GEN.27",
+     "title": "Genesis 27",
+     "segments": 46,
+     "tokens": 808
+    },
+    {
+     "file": "0028.json",
+     "ref": "GEN.28",
+     "title": "Genesis 28",
+     "segments": 22,
+     "tokens": 396
+    },
+    {
+     "file": "0029.json",
+     "ref": "GEN.29",
+     "title": "Genesis 29",
+     "segments": 35,
+     "tokens": 518
+    },
+    {
+     "file": "0030.json",
+     "ref": "GEN.30",
+     "title": "Genesis 30",
+     "segments": 43,
+     "tokens": 712
+    },
+    {
+     "file": "0031.json",
+     "ref": "GEN.31",
+     "title": "Genesis 31",
+     "segments": 55,
+     "tokens": 938
+    },
+    {
+     "file": "0032.json",
+     "ref": "GEN.32",
+     "title": "Genesis 32",
+     "segments": 32,
+     "tokens": 557
+    },
+    {
+     "file": "0033.json",
+     "ref": "GEN.33",
+     "title": "Genesis 33",
+     "segments": 20,
+     "tokens": 354
+    },
+    {
+     "file": "0034.json",
+     "ref": "GEN.34",
+     "title": "Genesis 34",
+     "segments": 31,
+     "tokens": 473
+    },
+    {
+     "file": "0035.json",
+     "ref": "GEN.35",
+     "title": "Genesis 35",
+     "segments": 29,
+     "tokens": 467
+    },
+    {
+     "file": "0036.json",
+     "ref": "GEN.36",
+     "title": "Genesis 36",
+     "segments": 43,
+     "tokens": 587
+    },
+    {
+     "file": "0037.json",
+     "ref": "GEN.37",
+     "title": "Genesis 37",
+     "segments": 36,
+     "tokens": 604
+    },
+    {
+     "file": "0038.json",
+     "ref": "GEN.38",
+     "title": "Genesis 38",
+     "segments": 30,
+     "tokens": 526
+    },
+    {
+     "file": "0039.json",
+     "ref": "GEN.39",
+     "title": "Genesis 39",
+     "segments": 23,
+     "tokens": 378
+    },
+    {
+     "file": "0040.json",
+     "ref": "GEN.40",
+     "title": "Genesis 40",
+     "segments": 23,
+     "tokens": 333
+    },
+    {
+     "file": "0041.json",
+     "ref": "GEN.41",
+     "title": "Genesis 41",
+     "segments": 57,
+     "tokens": 808
+    },
+    {
+     "file": "0042.json",
+     "ref": "GEN.42",
+     "title": "Genesis 42",
+     "segments": 38,
+     "tokens": 652
+    },
+    {
+     "file": "0043.json",
+     "ref": "GEN.43",
+     "title": "Genesis 43",
+     "segments": 34,
+     "tokens": 635
+    },
+    {
+     "file": "0044.json",
+     "ref": "GEN.44",
+     "title": "Genesis 44",
+     "segments": 34,
+     "tokens": 591
+    },
+    {
+     "file": "0045.json",
+     "ref": "GEN.45",
+     "title": "Genesis 45",
+     "segments": 28,
+     "tokens": 524
+    },
+    {
+     "file": "0046.json",
+     "ref": "GEN.46",
+     "title": "Genesis 46",
+     "segments": 34,
+     "tokens": 551
+    },
+    {
+     "file": "0047.json",
+     "ref": "GEN.47",
+     "title": "Genesis 47",
+     "segments": 31,
+     "tokens": 600
+    },
+    {
+     "file": "0048.json",
+     "ref": "GEN.48",
+     "title": "Genesis 48",
+     "segments": 22,
+     "tokens": 461
+    },
+    {
+     "file": "0049.json",
+     "ref": "GEN.49",
+     "title": "Genesis 49",
+     "segments": 32,
+     "tokens": 483
+    },
+    {
+     "file": "0050.json",
+     "ref": "GEN.50",
+     "title": "Genesis 50",
+     "segments": 25,
+     "tokens": 444
+    }
+   ]
+  }
+ ]
+}

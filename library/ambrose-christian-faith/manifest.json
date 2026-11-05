@@ -1,0 +1,1328 @@
+{
+ "workId": "ambrose-christian-faith",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "ambrose-christian-faith-npnf2-de-romestin-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Exposition of the Christian Faith, in A Select Library of Nicene and Post-Nicene Fathers, series II, vol. 10 (Ambrose: Select Works and Letters), trans. H. de Romestin, with E. de Romestin and H. T. F. Duckworth (volume title page) (New York: The Christian Literature Company, 1896). Wikisource contributors, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_X/Works/Exposition_of_the_Christian_Faith",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 729915,
+   "sourceSha256": "a0e3759afb3c3ab9afdd027701e0ccb5c674e8f8fb75afb2e1dea006f0330da6",
+   "leftOut": {
+    "note": 1168
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book I/Chapter 1",
+     "bytes": 7300,
+     "sha256": "e4fa652f061791b1ab058ad65bceee34d1fcc60725a4dbcbea96705048ccfa24"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book I/Chapter 10",
+     "bytes": 7193,
+     "sha256": "6a97bed8563c7d9918bfd9457bf41e8c3b7a88791899ff413b805442a94033b4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book I/Chapter 11",
+     "bytes": 7667,
+     "sha256": "068e794cbacef7e9e3a89c8b96d5ef816fce93661bf0019d853cbd39aa039ecd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book I/Chapter 12",
+     "bytes": 5818,
+     "sha256": "2513b00b723bef9473e52f5bea178346e6acb20e58b539e35e8bf7d16334350d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book I/Chapter 13",
+     "bytes": 6072,
+     "sha256": "9ba24278c4641f6705c4a1cd70c57f79ef7454de344a1dc7c83ab7a0111f2b6c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book I/Chapter 14",
+     "bytes": 6591,
+     "sha256": "1661c247e97dad86ba750eedd95575158b1624b5ec62beb1ace500c4c8385061"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book I/Chapter 15",
+     "bytes": 9693,
+     "sha256": "b4876f1bdee1e4c7ebe9346bcb220779755229d34b7be8704d5873188187f9f0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book I/Chapter 16",
+     "bytes": 5551,
+     "sha256": "063f8a23298934631ff81cedabc1ef5cd00960bf4ed11d0532f883000e4ea530"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book I/Chapter 17",
+     "bytes": 6264,
+     "sha256": "b06f07ec82a6189118984d946feffe0ac782d10e323324c1417442ee479d0f6b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book I/Chapter 18",
+     "bytes": 7765,
+     "sha256": "fc2c01600c8c59a9737b4defae7653110589891d83f3931c1a1b6b9bf6317b1e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book I/Chapter 19",
+     "bytes": 7234,
+     "sha256": "93c1377da73539b145959ccbe04c2cff536cafe623bcb77f01cff16b9ca8406c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book I/Chapter 2",
+     "bytes": 11259,
+     "sha256": "5fdd3bf88af13109def15a11ba42d83ebf936b0f2ec88cb19c5badb6def81a9c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book I/Chapter 20",
+     "bytes": 7070,
+     "sha256": "1703c76024244ad24383ecf761c15af626a04fcd4039d99bb369201c3009cb23"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book I/Chapter 21",
+     "bytes": 6814,
+     "sha256": "56d539220659ba5969f41919504f40a1c5d7575cfd993820fc83bf782c0ad345"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book I/Chapter 3",
+     "bytes": 6045,
+     "sha256": "250527c0ea5758d9187e96101f5edcab2d3112163df20814db6bf9d5164d42b4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book I/Chapter 4",
+     "bytes": 9290,
+     "sha256": "a46d2ee12d1b57c7f5b5e48238178807a3129338b8a9ef9eaf4dece9eb1c5ba4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book I/Chapter 5",
+     "bytes": 3948,
+     "sha256": "8606a73964a2ff1bab2b3f401d342b7d89c0ebc7b957eb84e8333f6c4a2acb21"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book I/Chapter 6",
+     "bytes": 11274,
+     "sha256": "bc78894e8bab45d8dd60ea95aa41b38864bf5049cefb34d27e04e908c3d05794"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book I/Chapter 7",
+     "bytes": 6919,
+     "sha256": "568c3e2916bec32e89ed184388af4e7cc43bc34bf0d956394c153da597305de4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book I/Chapter 8",
+     "bytes": 5747,
+     "sha256": "af5a263cb3de3576522365cb5e85192bf783af7c6c012da240e27cb239d9bbee"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book I/Chapter 9",
+     "bytes": 13479,
+     "sha256": "c264713bba45876ec6cef124fb1aad8782d1150c950c2ab7054968ab8bc294f8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book II/Chapter 1",
+     "bytes": 4242,
+     "sha256": "d2bcd8153da79415364c9f70f283627bad05be481014e56e7fdbc394cbbffcda"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book II/Chapter 10",
+     "bytes": 4263,
+     "sha256": "ee4b005cba6dba22f7f80768106ed42ef4a1621cb54ce81c76b4b51f1a0ad7df"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book II/Chapter 11",
+     "bytes": 9427,
+     "sha256": "d969d855951ed8f56e1485baf42d3457823cbf43ed4c035a4abfaef56e230bdd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book II/Chapter 12",
+     "bytes": 8107,
+     "sha256": "449e7d9b5f43071545fae68ff11d1c40a511c86bca8d90f0ade6a23d27fd1c8c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book II/Chapter 13",
+     "bytes": 7692,
+     "sha256": "8483ce1510c718be4545df447fff5b4974a1aad82c5592d7149be47588733a3d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book II/Chapter 14",
+     "bytes": 3098,
+     "sha256": "c9e7983a01c21664c91ddabff8f3e209baa727394bd3afc085f462e04a8dc862"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book II/Chapter 15",
+     "bytes": 7083,
+     "sha256": "c563dda75cd674feb31e49ff26c6c1c3ac2aafef6f369a61a08e42191952c6cd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book II/Chapter 16",
+     "bytes": 7450,
+     "sha256": "9c3124d0be0a30391eb8196a2909771c5af6fdd55893aa65030b251c7ede4bf1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book II/Chapter 2",
+     "bytes": 7616,
+     "sha256": "19864a0592bdfe79fee8d5ec831361c8e1fca8364d3b22bd267fda680a7b6057"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book II/Chapter 3",
+     "bytes": 1815,
+     "sha256": "dee289e230e0cfce07e278b06bcbb1ffb50c4f06fae1f654f7ee8b9aa8fbc47e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book II/Chapter 4",
+     "bytes": 4073,
+     "sha256": "79ed7807cb7e28de05e8395eb9a1a7fae55820d2a56d188d782818d5a411d603"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book II/Chapter 5",
+     "bytes": 5909,
+     "sha256": "e9e44ff6d061b43c7274e9f51d1684fd62d469f86e331a658c9e45ad9522b7a8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book II/Chapter 6",
+     "bytes": 5108,
+     "sha256": "5113660219307a275688c34e92c9a275c3b931d7b717db8d1fefd79d47d443b5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book II/Chapter 7",
+     "bytes": 6652,
+     "sha256": "85e09bb79f76492485312b7c082a128f9af4cbd1a079908cde5fab65513b7d08"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book II/Chapter 8",
+     "bytes": 13049,
+     "sha256": "c06d5e1fb1d01ba7be939217bc5afcfd692e154e2dee68964714efaf515774d2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book II/Chapter 9",
+     "bytes": 10424,
+     "sha256": "2bdaf5a460ecc1fb56559a2d854e657c798edf39e3b1a41dff5aab43d5bd771e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book II/Introduction",
+     "bytes": 29532,
+     "sha256": "2a049a180fb40bee0a87d2710db55be86afdfaf9967ebc63182929a0f6b2bd91"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book III/Chapter 1",
+     "bytes": 7784,
+     "sha256": "4ad20418150fdd2f46a98714b6d365b5879035f08a4f7b7463aa8849ed8aefbd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book III/Chapter 10",
+     "bytes": 12383,
+     "sha256": "87be9ea7b377e03af28f9b99619e5247defa80ecbb71c23526bd6df149858cae"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book III/Chapter 11",
+     "bytes": 11279,
+     "sha256": "64c769844c9882c13a4f2fa176cc2af274a74fc6d54ecd43ce7c1301e6c82adf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book III/Chapter 12",
+     "bytes": 7068,
+     "sha256": "e32f2292e99043fceed656497daf65447e3d9851d545571abe36e591ac9db8ad"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book III/Chapter 13",
+     "bytes": 4889,
+     "sha256": "30d5383d889dd6357b6aa44786ee311a113ae600b2e61e7a818378907deb255b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book III/Chapter 14",
+     "bytes": 11785,
+     "sha256": "dc06e6accce168e50a327f8bdcc9e351b7b88febffd8b613369a2fed7f5a4377"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book III/Chapter 15",
+     "bytes": 9819,
+     "sha256": "8c53ba6b50ba0e4ac03fb5959eb1eddaf04ae73f446526d171f55271bd2be02d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book III/Chapter 16",
+     "bytes": 6278,
+     "sha256": "0d12a8e07710a76c9b56ed7205dfeb182f8fc5e738607b946b332ded19c68653"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book III/Chapter 17",
+     "bytes": 4524,
+     "sha256": "88011eeab6d7105a0a835d29939c366b6ad862990b2aeca5d29ca95d2004ea15"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book III/Chapter 2",
+     "bytes": 7387,
+     "sha256": "a4e13afc918dac894734d4de69cc108e6256814f30693f9fa13de6373507a6ca"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book III/Chapter 3",
+     "bytes": 11531,
+     "sha256": "248a71e78e152da93c94cf5f61fafbf8ad71641cd1ca050d53a62cac3a7fc3ff"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book III/Chapter 4",
+     "bytes": 7610,
+     "sha256": "6ac3198822d13558da4db5901db3e03ac035dcdabda127b02608d542a7227b3d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book III/Chapter 5",
+     "bytes": 6506,
+     "sha256": "aebf8784da6c20bb13eb60bde78c2bcd30d935a88d3926923136bd0a6807b643"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book III/Chapter 6",
+     "bytes": 5874,
+     "sha256": "ff8828603e9657532eb42b9351594dffdf6a3b6fac36019589a81707b1595554"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book III/Chapter 7",
+     "bytes": 7254,
+     "sha256": "2313bbcc6a3498924c6ca2d4da830850396678f5a761f4beceea80c212a30251"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book III/Chapter 8",
+     "bytes": 5263,
+     "sha256": "8aee95541cd1d448ee07642f284b83f75d006f058467f84741aa4a693f0cfb22"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book III/Chapter 9",
+     "bytes": 3358,
+     "sha256": "c565f3008375fb3127890878a7753163be8ba74410095fe3cd307d5762465013"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book IV/Chapter 1",
+     "bytes": 8002,
+     "sha256": "bde635b2eeaadf8e83dce09bc0195d7dcc4831d4c41a086f13f6dd987ac0c232"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book IV/Chapter 10",
+     "bytes": 15002,
+     "sha256": "bea984dbd20da4035740fd5cb602264bfe3139c4208f9e2e2e54f8a7825b845e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book IV/Chapter 11",
+     "bytes": 15818,
+     "sha256": "f43e75772d208a7cc8b28391f342417948c8477c8bebf0e56cce9376d71d2f3f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book IV/Chapter 12",
+     "bytes": 9057,
+     "sha256": "7e907a05d800beec350e054e75654782f1869a3e7be39147726f4c93f784df2d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book IV/Chapter 2",
+     "bytes": 7875,
+     "sha256": "d509f1e7b94ed430132fb1f8187df8480b65cc05cfa43c402f057299bf57f4b5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book IV/Chapter 3",
+     "bytes": 9589,
+     "sha256": "e0fa972fcc5356870166469dd97fbea4242210d9408253267a37d4b0639ef963"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book IV/Chapter 4",
+     "bytes": 7561,
+     "sha256": "5b34a8115c2c0c236041aa27d2a807a103578e056e05ff02aad47ac606c13d84"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book IV/Chapter 5",
+     "bytes": 10643,
+     "sha256": "73ef4fdf9d4129cfddaf2d4223118cb30a0e8468660c969b13e6f573ea42f6ab"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book IV/Chapter 6",
+     "bytes": 7140,
+     "sha256": "6b48a37a829f40af67061e5854bf00fdeb71aa66744c63d6b982644f8bc207ce"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book IV/Chapter 7",
+     "bytes": 3728,
+     "sha256": "a4a5bcc253e93ac3b289e685e248d7fa076db96c5150ca105ddb2fdd4f3b59ca"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book IV/Chapter 8",
+     "bytes": 15594,
+     "sha256": "d9bfa7654aa7f54b464720cb72660a79d2bb2d6e0cb3cabf21c2f27abc3685a4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book IV/Chapter 9",
+     "bytes": 17233,
+     "sha256": "cf7b0055282f77a620e3a73971c40d4c9facd8f63d7fe45bc01d260ff4d2a265"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book V/Chapter 1",
+     "bytes": 10585,
+     "sha256": "e928ac9d30f6faa9ebad12990fa6dcf120367ebd90f9baf22ca198ff51d869d0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book V/Chapter 10",
+     "bytes": 3601,
+     "sha256": "1e40dfc0b05ca62ccd504d7d398980db2e2474c3eb8bfcd2ce56796650efe5d9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book V/Chapter 11",
+     "bytes": 8373,
+     "sha256": "de2b0e07c4d6a1b708a1f8d4913466cd087bd3702bda29db8db53bfe500e8078"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book V/Chapter 12",
+     "bytes": 6758,
+     "sha256": "1772d82cd7e04856ddf45b79e336356eaa2a15e9b5e7ac91aac20f63ef06af3e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book V/Chapter 13",
+     "bytes": 6821,
+     "sha256": "5ae8566c49893546589e823a4410d2adaa3bdfdbadbbcbe8f367f96c50c2e50f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book V/Chapter 14",
+     "bytes": 11364,
+     "sha256": "db9ef6bc02928a136188e2992bf0b460b5eedf1cdc277f8ef39044bd9b4e3641"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book V/Chapter 15",
+     "bytes": 10471,
+     "sha256": "b26c3679a89b01345b6e4e4556df093e330504a1319773eb1f71d1633d0f3d42"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book V/Chapter 16",
+     "bytes": 5643,
+     "sha256": "5bc4ae1e9f9f543c91d698917d44c7cec0391f561543fedc8eb41a3f902210ea"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book V/Chapter 17",
+     "bytes": 13189,
+     "sha256": "c910aae52f3663d1ede5fd745ce5705fd56a847f8483c28f321002cc201a183f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book V/Chapter 18",
+     "bytes": 9084,
+     "sha256": "6ab4943673750a8d0ef6da95816876c260ff47e2c1ebbd5f375b52b49b5f84e5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book V/Chapter 19",
+     "bytes": 7475,
+     "sha256": "ef6b6356d874c9b04a2c7b59f7e9fb278b653e228767822c7323ef925cb2624f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book V/Chapter 2",
+     "bytes": 8362,
+     "sha256": "df9fa135cc695232cfc32a7d403a9c3e2481b3dfba0b40f8041cbceda0022213"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book V/Chapter 20",
+     "bytes": 7545,
+     "sha256": "1d6c949d1c8526b30d7c7d8dd05f7a570d6275bf3935b6e203bdd0dd6cd99e53"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book V/Chapter 3",
+     "bytes": 9921,
+     "sha256": "32e572780a3a9320ea9faae5c03274fe3245e499192f84a1a1f74a84fcdfad10"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book V/Chapter 4",
+     "bytes": 8531,
+     "sha256": "0e859b59d0cbd0b6fb9b1a51ae192451ef4e8c7f0f2558c0044836d04ea9dc88"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book V/Chapter 5",
+     "bytes": 3867,
+     "sha256": "e92fe64136506dffe29c3ccab611efa9cde3c1d40b32cb5f15b937295f7aa953"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book V/Chapter 6",
+     "bytes": 8981,
+     "sha256": "9ac4dc0a54ee70ad3becedaf6b623d4352e943a5113b31093fc556dc348fbc3a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book V/Chapter 7",
+     "bytes": 12003,
+     "sha256": "22229e120d6f67f83bdc7f4806d9746a324395c2d96efe965e3d290ab96285ed"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book V/Chapter 8",
+     "bytes": 7217,
+     "sha256": "aab32d6ca0d1ebda5faceaf6d3760b82fec68a115a825ea63edd5da79b0fb6f1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Book V/Chapter 9",
+     "bytes": 13221,
+     "sha256": "ea1364288cf4c09d38509de535a5fdb525e8dd4009a229b67ae73804667efd95"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Preface",
+     "bytes": 2735,
+     "sha256": "7702985f9404a4732c5b85784e42d64fb9ed211618272b24c990b2d47ed24223"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/Exposition of the Christian Faith/Prefatory Note",
+     "bytes": 1801,
+     "sha256": "7c1055a609df57b5d7a3fe4ceda2cdf59abf7cc78ba8442b9b1e08f0b7b908f8"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.1.front",
+     "title": "Prologue.",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.1.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.1.5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.2",
+     "title": "Chapter I.",
+     "segments": 8
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.3",
+     "title": "Chapter II.",
+     "segments": 10
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.4",
+     "title": "Chapter III.",
+     "segments": 13
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.5",
+     "title": "Chapter IV.",
+     "segments": 4
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.6",
+     "title": "Chapter V.",
+     "segments": 11
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.7",
+     "title": "Chapter VI.",
+     "segments": 6
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.8",
+     "title": "Chapter VII.",
+     "segments": 8
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.9",
+     "title": "Chapter VIII.",
+     "segments": 5
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.10",
+     "title": "Chapter IX.",
+     "segments": 6
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.11",
+     "title": "Chapter X.",
+     "segments": 8
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.12",
+     "title": "Chapter XI.",
+     "segments": 8
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.13",
+     "title": "Chapter XII.",
+     "segments": 6
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.14",
+     "title": "Chapter XIII.",
+     "segments": 9
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.15",
+     "title": "Chapter XIV.",
+     "segments": 12
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.16",
+     "title": "Chapter XV.",
+     "segments": 6
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.17",
+     "title": "Chapter XVI.",
+     "segments": 10
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.18",
+     "title": "Chapter XVII.",
+     "segments": 12
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.19",
+     "title": "Chapter XVIII.",
+     "segments": 7
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.20",
+     "title": "Chapter XIX.",
+     "segments": 11
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.21",
+     "title": "Chapter XX.",
+     "segments": 8
+    },
+    {
+     "file": "0027.json",
+     "ref": "2.1",
+     "title": "Chapter I.",
+     "segments": 7
+    },
+    {
+     "file": "0028.json",
+     "ref": "2.2",
+     "title": "Chapter II.",
+     "segments": 15
+    },
+    {
+     "file": "0029.json",
+     "ref": "2.3",
+     "title": "Chapter III.",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "2.4",
+     "title": "Chapter IV.",
+     "segments": 7
+    },
+    {
+     "file": "0031.json",
+     "ref": "2.5",
+     "title": "Chapter V.",
+     "segments": 10
+    },
+    {
+     "file": "0032.json",
+     "ref": "2.6",
+     "title": "Chapter VI.",
+     "segments": 7
+    },
+    {
+     "file": "0033.json",
+     "ref": "2.7",
+     "title": "Chapter VII.",
+     "segments": 9
+    },
+    {
+     "file": "0034.json",
+     "ref": "2.8",
+     "title": "Chapter VIII.",
+     "segments": 18
+    },
+    {
+     "file": "0035.json",
+     "ref": "2.9",
+     "title": "Chapter IX.",
+     "segments": 12
+    },
+    {
+     "file": "0036.json",
+     "ref": "2.10",
+     "title": "Chapter X.",
+     "segments": 7
+    },
+    {
+     "file": "0037.json",
+     "ref": "2.11",
+     "title": "Chapter XI.",
+     "segments": 14
+    },
+    {
+     "file": "0038.json",
+     "ref": "2.12",
+     "title": "Chapter XII.",
+     "segments": 10
+    },
+    {
+     "file": "0039.json",
+     "ref": "2.13",
+     "title": "Chapter XIII.",
+     "segments": 17
+    },
+    {
+     "file": "0040.json",
+     "ref": "2.14",
+     "title": "Chapter XIV.",
+     "segments": 8
+    },
+    {
+     "file": "0041.json",
+     "ref": "2.15",
+     "title": "Chapter XV.",
+     "segments": 9
+    },
+    {
+     "file": "0042.json",
+     "ref": "2.16",
+     "title": "Chapter XVI.",
+     "segments": 9
+    },
+    {
+     "file": "0043.json",
+     "ref": "2.p1.front",
+     "title": "Introduction.",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "2.p1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "2.p1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0046.json",
+     "ref": "2.p1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "2.p1.4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "2.p1.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0049.json",
+     "ref": "2.p1.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "2.p1.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "2.p1.8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0052.json",
+     "ref": "2.p1.9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0053.json",
+     "ref": "2.p1.10",
+     "title": "10",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "2.p1.11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "2.p1.12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "2.p1.13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0057.json",
+     "ref": "2.p1.14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0058.json",
+     "ref": "3.1.front",
+     "title": "Chapter I.",
+     "segments": 1
+    },
+    {
+     "file": "0059.json",
+     "ref": "3.1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0060.json",
+     "ref": "3.1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0061.json",
+     "ref": "3.1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0062.json",
+     "ref": "3.1.4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0063.json",
+     "ref": "3.1.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0064.json",
+     "ref": "3.1.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0065.json",
+     "ref": "3.2",
+     "title": "Chapter II.",
+     "segments": 10
+    },
+    {
+     "file": "0066.json",
+     "ref": "3.3",
+     "title": "Chapter III.",
+     "segments": 14
+    },
+    {
+     "file": "0067.json",
+     "ref": "3.4",
+     "title": "Chapter IV.",
+     "segments": 10
+    },
+    {
+     "file": "0068.json",
+     "ref": "3.5",
+     "title": "Chapter V.",
+     "segments": 7
+    },
+    {
+     "file": "0069.json",
+     "ref": "3.6",
+     "title": "Chapter VI.",
+     "segments": 7
+    },
+    {
+     "file": "0070.json",
+     "ref": "3.7",
+     "title": "Chapter VII.",
+     "segments": 9
+    },
+    {
+     "file": "0071.json",
+     "ref": "3.8",
+     "title": "Chapter VIII.",
+     "segments": 7
+    },
+    {
+     "file": "0072.json",
+     "ref": "3.9",
+     "title": "Chapter IX.",
+     "segments": 5
+    },
+    {
+     "file": "0073.json",
+     "ref": "3.10",
+     "title": "Chapter X.",
+     "segments": 15
+    },
+    {
+     "file": "0074.json",
+     "ref": "3.11",
+     "title": "Chapter XI.",
+     "segments": 18
+    },
+    {
+     "file": "0075.json",
+     "ref": "3.12",
+     "title": "Chapter XII.",
+     "segments": 12
+    },
+    {
+     "file": "0076.json",
+     "ref": "3.13",
+     "title": "Chapter XIII.",
+     "segments": 5
+    },
+    {
+     "file": "0077.json",
+     "ref": "3.14",
+     "title": "Chapter XIV.",
+     "segments": 18
+    },
+    {
+     "file": "0078.json",
+     "ref": "3.15",
+     "title": "Chapter XV.",
+     "segments": 8
+    },
+    {
+     "file": "0079.json",
+     "ref": "3.16",
+     "title": "Chapter XVI.",
+     "segments": 10
+    },
+    {
+     "file": "0080.json",
+     "ref": "3.17",
+     "title": "Chapter XVII.",
+     "segments": 8
+    },
+    {
+     "file": "0081.json",
+     "ref": "4.1.front",
+     "title": "Chapter I.",
+     "segments": 1
+    },
+    {
+     "file": "0082.json",
+     "ref": "4.1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0083.json",
+     "ref": "4.1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0084.json",
+     "ref": "4.1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0085.json",
+     "ref": "4.1.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0086.json",
+     "ref": "4.1.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0087.json",
+     "ref": "4.1.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0088.json",
+     "ref": "4.1.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0089.json",
+     "ref": "4.1.8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0090.json",
+     "ref": "4.1.9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0091.json",
+     "ref": "4.1.10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0092.json",
+     "ref": "4.1.11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0093.json",
+     "ref": "4.1.12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0094.json",
+     "ref": "4.1.13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0095.json",
+     "ref": "4.1.14",
+     "title": "14",
+     "segments": 2
+    },
+    {
+     "file": "0096.json",
+     "ref": "4.2",
+     "title": "Chapter II.",
+     "segments": 15
+    },
+    {
+     "file": "0097.json",
+     "ref": "4.3",
+     "title": "Chapter III.",
+     "segments": 13
+    },
+    {
+     "file": "0098.json",
+     "ref": "4.4",
+     "title": "Chapter IV.",
+     "segments": 12
+    },
+    {
+     "file": "0099.json",
+     "ref": "4.5",
+     "title": "Chapter V.",
+     "segments": 17
+    },
+    {
+     "file": "0100.json",
+     "ref": "4.6",
+     "title": "Chapter VI.",
+     "segments": 11
+    },
+    {
+     "file": "0101.json",
+     "ref": "4.7",
+     "title": "Chapter VII.",
+     "segments": 7
+    },
+    {
+     "file": "0102.json",
+     "ref": "4.8",
+     "title": "Chapter VIII.",
+     "segments": 21
+    },
+    {
+     "file": "0103.json",
+     "ref": "4.9",
+     "title": "Chapter IX.",
+     "segments": 24
+    },
+    {
+     "file": "0104.json",
+     "ref": "4.10",
+     "title": "Chapter X.",
+     "segments": 23
+    },
+    {
+     "file": "0105.json",
+     "ref": "4.11",
+     "title": "Chapter XI.",
+     "segments": 22
+    },
+    {
+     "file": "0106.json",
+     "ref": "4.12",
+     "title": "Chapter XII.",
+     "segments": 14
+    },
+    {
+     "file": "0107.json",
+     "ref": "5.1.front",
+     "title": "Prologue.",
+     "segments": 1
+    },
+    {
+     "file": "0108.json",
+     "ref": "5.1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0109.json",
+     "ref": "5.1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0110.json",
+     "ref": "5.1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0111.json",
+     "ref": "5.1.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0112.json",
+     "ref": "5.1.5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0113.json",
+     "ref": "5.1.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0114.json",
+     "ref": "5.1.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0115.json",
+     "ref": "5.1.8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0116.json",
+     "ref": "5.1.9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0117.json",
+     "ref": "5.1.10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0118.json",
+     "ref": "5.1.11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0119.json",
+     "ref": "5.1.12",
+     "title": "12",
+     "segments": 2
+    },
+    {
+     "file": "0120.json",
+     "ref": "5.1.13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0121.json",
+     "ref": "5.1.14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0122.json",
+     "ref": "5.1.15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0123.json",
+     "ref": "5.2",
+     "title": "Chapter I.",
+     "segments": 13
+    },
+    {
+     "file": "0124.json",
+     "ref": "5.3",
+     "title": "Chapter II.",
+     "segments": 14
+    },
+    {
+     "file": "0125.json",
+     "ref": "5.4",
+     "title": "Chapter III.",
+     "segments": 12
+    },
+    {
+     "file": "0126.json",
+     "ref": "5.5",
+     "title": "Chapter IV.",
+     "segments": 7
+    },
+    {
+     "file": "0127.json",
+     "ref": "5.6",
+     "title": "Chapter V.",
+     "segments": 16
+    },
+    {
+     "file": "0128.json",
+     "ref": "5.7",
+     "title": "Chapter VI.",
+     "segments": 24
+    },
+    {
+     "file": "0129.json",
+     "ref": "5.8",
+     "title": "Chapter VII.",
+     "segments": 13
+    },
+    {
+     "file": "0130.json",
+     "ref": "5.9",
+     "title": "Chapter VIII.",
+     "segments": 19
+    },
+    {
+     "file": "0131.json",
+     "ref": "5.10",
+     "title": "Chapter IX.",
+     "segments": 4
+    },
+    {
+     "file": "0132.json",
+     "ref": "5.11",
+     "title": "Chapter X.",
+     "segments": 16
+    },
+    {
+     "file": "0133.json",
+     "ref": "5.12",
+     "title": "Chapter XI.",
+     "segments": 15
+    },
+    {
+     "file": "0134.json",
+     "ref": "5.13",
+     "title": "Chapter XII.",
+     "segments": 10
+    },
+    {
+     "file": "0135.json",
+     "ref": "5.14",
+     "title": "Chapter XIII.",
+     "segments": 20
+    },
+    {
+     "file": "0136.json",
+     "ref": "5.15",
+     "title": "Chapter XIV.",
+     "segments": 15
+    },
+    {
+     "file": "0137.json",
+     "ref": "5.16",
+     "title": "Chapter XV.",
+     "segments": 8
+    },
+    {
+     "file": "0138.json",
+     "ref": "5.17",
+     "title": "Chapter XVI.",
+     "segments": 22
+    },
+    {
+     "file": "0139.json",
+     "ref": "5.18",
+     "title": "Chapter XVII.",
+     "segments": 14
+    },
+    {
+     "file": "0140.json",
+     "ref": "5.19",
+     "title": "Chapter XVIII.",
+     "segments": 10
+    },
+    {
+     "file": "0141.json",
+     "ref": "5.20",
+     "title": "Chapter XIX.",
+     "segments": 14
+    },
+    {
+     "file": "0142.json",
+     "ref": "p1",
+     "title": "Preface.",
+     "segments": 3
+    },
+    {
+     "file": "0143.json",
+     "ref": "p2",
+     "title": "Prefatory Note.",
+     "segments": 3
+    }
+   ]
+  }
+ ]
+}

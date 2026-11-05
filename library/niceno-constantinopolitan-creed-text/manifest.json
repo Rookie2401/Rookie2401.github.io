@@ -1,0 +1,36 @@
+{
+ "workId": "niceno-constantinopolitan-creed-text",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "niceno-constantinopolitan-creed-npnf14",
+   "role": "english",
+   "language": "english",
+   "credit": "The Holy Creed which the 150 Holy Fathers set forth (381), in Nicene and Post-Nicene Fathers, Series II, vol. 14: The Seven Ecumenical Councils of the Undivided Church, their canons and dogmatic decrees, ed. Henry R. Percival, trans. Various (translators of the individual texts are not named on the pages opened); edited with notes by Henry R. Percival (New York; Oxford; Edinburgh: The Christian Literature Company (New York); Parker & Co. (Oxford); T. & T. Clark (Edinburgh), 1900). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers: Series II), CC BY-SA (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_XIV/The_Second_Ecumenical_Council/The_Holy_Creed",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 11570,
+   "sourceSha256": "43b0640c814ad778da98a4772ae994603aab753b9f53a66b8f8df5750247674d",
+   "leftOut": {
+    "note": 4
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Second Ecumenical Council/The Holy Creed",
+     "bytes": 11570,
+     "sha256": "43b0640c814ad778da98a4772ae994603aab753b9f53a66b8f8df5750247674d"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front",
+     "title": "front",
+     "segments": 23
+    }
+   ]
+  }
+ ]
+}

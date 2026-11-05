@@ -1,0 +1,2430 @@
+{
+ "workId": "baxter-saints-everlasting-rest",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "baxter-saints-rest-1650-tcp-a27017",
+   "role": "english",
+   "language": "english",
+   "credit": "The saints everlasting rest, or, A treatise of the blessed state of the saints in their enjoyment of God in heaven, in EEBO-TCP text A27017 (STC Wing B1383; STC) (London: Printed by Rob. White for Thomas Underhil and Francis Tyton ..., 1650). Transcription: Text Creation Partnership (EEBO-TCP Phase I), keyboarded from images of the original (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A27017/master/A27017.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 2670347,
+   "sourceSha256": "8bf6c70d87f1506b6886a501a070203a352d99f3010957d732439fafa84e0005",
+   "leftOut": {
+    "pb": 946,
+    "unread": 469,
+    "note": 1202,
+    "milestone": 9
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 355922,
+    "unreadPerThousand": 1.3
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.1",
+     "title": "To my dearly beloved Friends, the Inhabitants of the Burrough and Forreign OF KEDERMINSTER, Both Magistrates and People.",
+     "segments": 17
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.2",
+     "title": "To the Right Worshipful Sir Thomas Rous Baronet, with the Lady Jane Rous his VVife.",
+     "segments": 3
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.3.1.1",
+     "title": "SECT. I.",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.3.1.2",
+     "title": "SECT. II.",
+     "segments": 5
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.3.1.3",
+     "title": "SECT. III.",
+     "segments": 7
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.3.1.4",
+     "title": "SECT. IV.",
+     "segments": 4
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.3.2.1",
+     "title": "SECT. I.",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.3.2.2",
+     "title": "DEFINITION.",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.3.2.3",
+     "title": "SECT. II.",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.3.2.4",
+     "title": "SECT. III.",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.3.2.5",
+     "title": "SECT. IV.",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.3.2.6",
+     "title": "SECT. V.",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.3.2.7",
+     "title": "§. 6. Q. Whether to make Salvation our end be not mercenary? or Legal? As if the very seeking of life at all, were the surest way to miss of it. Clean contrary to the whole tenor of Scripture. SECT. V",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.3.2.8",
+     "title": "SECT. VII.",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.3.2.9",
+     "title": "SECT. VIII.",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.3.2.10",
+     "title": "SECT. IX.",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.3.2.11",
+     "title": "SECT. X.",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.3.3.1",
+     "title": "SECT. I.",
+     "segments": 3
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.3.3.2",
+     "title": "SECT. II.",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.3.3.3",
+     "title": "SECT. III.",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.3.3.4",
+     "title": "SECT. IV.",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.3.3.5",
+     "title": "SECT. V.",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.3.3.6",
+     "title": "SECT. VI.",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.3.3.7",
+     "title": "SECT. VII.",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.3.3.8",
+     "title": "SECT. VIII.",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.3.3.9",
+     "title": "SECT. IX.",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.3.3.10",
+     "title": "SECT. X.",
+     "segments": 4
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.3.3.11",
+     "title": "SECT. XI.",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.3.3.12",
+     "title": "SECT. XII.",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.3.4.1",
+     "title": "SECT. I.",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.3.4.2",
+     "title": "SECT. I.",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.3.4.3",
+     "title": "SECT. II.",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.3.4.4",
+     "title": "SECT. III.",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.3.4.5",
+     "title": "SECT. IV.",
+     "segments": 5
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.3.4.6",
+     "title": "SECT. V.",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.3.4.7",
+     "title": "SECT. VI.",
+     "segments": 3
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.3.4.8",
+     "title": "SECT. VII.",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.3.4.9",
+     "title": "SECT. VIII.",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.3.4.10",
+     "title": "SECT. IX.",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.3.4.11",
+     "title": "SECT. X.",
+     "segments": 4
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.3.4.12",
+     "title": "SECT. XI.",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.3.5.1",
+     "title": "SECT. I.",
+     "segments": 6
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.3.5.2",
+     "title": "SECT. I.",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "1.3.5.3",
+     "title": "SECT. II.",
+     "segments": 3
+    },
+    {
+     "file": "0045.json",
+     "ref": "1.3.5.4",
+     "title": "SECT. III.",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "1.3.5.5",
+     "title": "SECT. IV.",
+     "segments": 8
+    },
+    {
+     "file": "0047.json",
+     "ref": "1.3.6.1",
+     "title": "SECT. I.",
+     "segments": 1
+    },
+    {
+     "file": "0048.json",
+     "ref": "1.3.6.2",
+     "title": "SECT. I.",
+     "segments": 1
+    },
+    {
+     "file": "0049.json",
+     "ref": "1.3.6.3",
+     "title": "SECT. II.",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "1.3.6.4",
+     "title": "SECT. III.",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "1.3.6.5",
+     "title": "SECT. IV.",
+     "segments": 1
+    },
+    {
+     "file": "0052.json",
+     "ref": "1.3.6.6",
+     "title": "§. 5.SECT. V.",
+     "segments": 1
+    },
+    {
+     "file": "0053.json",
+     "ref": "1.3.6.7",
+     "title": "SECT. VI.",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "1.3.6.8",
+     "title": "SECT. VII.",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "1.3.6.9",
+     "title": "SECT. VIII.",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "1.3.6.10",
+     "title": "SECT. IX.",
+     "segments": 1
+    },
+    {
+     "file": "0057.json",
+     "ref": "1.3.7.1",
+     "title": "SECT. I.",
+     "segments": 1
+    },
+    {
+     "file": "0058.json",
+     "ref": "1.3.7.2",
+     "title": "SECT. I.",
+     "segments": 2
+    },
+    {
+     "file": "0059.json",
+     "ref": "1.3.7.3",
+     "title": "SECT. II.",
+     "segments": 2
+    },
+    {
+     "file": "0060.json",
+     "ref": "1.3.7.4",
+     "title": "SECT. III.§ 3.",
+     "segments": 1
+    },
+    {
+     "file": "0061.json",
+     "ref": "1.3.7.5",
+     "title": "SECT. IV.§. 4.",
+     "segments": 1
+    },
+    {
+     "file": "0062.json",
+     "ref": "1.3.7.6",
+     "title": "SECT. V.§ 5.",
+     "segments": 1
+    },
+    {
+     "file": "0063.json",
+     "ref": "1.3.7.7",
+     "title": "SECT. VI.§. 6.",
+     "segments": 1
+    },
+    {
+     "file": "0064.json",
+     "ref": "1.3.7.8",
+     "title": "SECT. VII.§ 7.",
+     "segments": 4
+    },
+    {
+     "file": "0065.json",
+     "ref": "1.3.7.9",
+     "title": "SECT. VIII.§ 8.",
+     "segments": 3
+    },
+    {
+     "file": "0066.json",
+     "ref": "1.3.7.10",
+     "title": "§ 9.SECT. IX.",
+     "segments": 2
+    },
+    {
+     "file": "0067.json",
+     "ref": "1.3.7.11",
+     "title": "SECT. X.§ 10.",
+     "segments": 1
+    },
+    {
+     "file": "0068.json",
+     "ref": "1.3.7.12",
+     "title": "§ 11.SECT. XI.",
+     "segments": 1
+    },
+    {
+     "file": "0069.json",
+     "ref": "1.3.7.13",
+     "title": "§ 12.SECT. XII.",
+     "segments": 2
+    },
+    {
+     "file": "0070.json",
+     "ref": "1.3.7.14",
+     "title": "§ 13.SECT. XIII.",
+     "segments": 1
+    },
+    {
+     "file": "0071.json",
+     "ref": "1.3.7.15",
+     "title": "§ 14.SECT. XIIII.",
+     "segments": 3
+    },
+    {
+     "file": "0072.json",
+     "ref": "1.3.7.16",
+     "title": "SECT. XV.",
+     "segments": 1
+    },
+    {
+     "file": "0073.json",
+     "ref": "1.3.7.17",
+     "title": "SECT. XVI.§ 16.",
+     "segments": 2
+    },
+    {
+     "file": "0074.json",
+     "ref": "1.3.7.18",
+     "title": "§ 17.SECT. XVII.",
+     "segments": 1
+    },
+    {
+     "file": "0075.json",
+     "ref": "1.3.7.19",
+     "title": "SECT. XVIII.§ 18.",
+     "segments": 1
+    },
+    {
+     "file": "0076.json",
+     "ref": "1.3.7.20",
+     "title": "SECT. XIX.§ 19.",
+     "segments": 1
+    },
+    {
+     "file": "0077.json",
+     "ref": "1.3.7.21",
+     "title": "§ 20.SECT. XX.",
+     "segments": 1
+    },
+    {
+     "file": "0078.json",
+     "ref": "1.3.8.1",
+     "title": "§ 1.SECT. I.",
+     "segments": 8
+    },
+    {
+     "file": "0079.json",
+     "ref": "1.3.8.2",
+     "title": "SECT. II.§ 2.",
+     "segments": 10
+    },
+    {
+     "file": "0080.json",
+     "ref": "1.3.8.3",
+     "title": "SECT. III.§ 3.",
+     "segments": 13
+    },
+    {
+     "file": "0081.json",
+     "ref": "1.3.8.4",
+     "title": "§ 4.SECT. IIII.",
+     "segments": 10
+    },
+    {
+     "file": "0082.json",
+     "ref": "1.3.8.5",
+     "title": "SECT. V.§ 5.",
+     "segments": 6
+    },
+    {
+     "file": "0083.json",
+     "ref": "1.3.8.6",
+     "title": "§ 6.SECT. VI.",
+     "segments": 4
+    },
+    {
+     "file": "0084.json",
+     "ref": "1.3.8.7",
+     "title": "SECT. VII.§ 7.",
+     "segments": 8
+    },
+    {
+     "file": "0085.json",
+     "ref": "2.1",
+     "title": "To my dearly beloved Friends, The Inhabitants of BRIDGNORTH, Both Magistrates and People. Richard Baxter Devoteth this Part of this TREATISE.",
+     "segments": 1
+    },
+    {
+     "file": "0086.json",
+     "ref": "2.2",
+     "title": "TO THE READER.",
+     "segments": 12
+    },
+    {
+     "file": "0087.json",
+     "ref": "2.3.1.1",
+     "title": "SECT. I.",
+     "segments": 4
+    },
+    {
+     "file": "0088.json",
+     "ref": "2.3.1.2",
+     "title": "SECT. II.",
+     "segments": 3
+    },
+    {
+     "file": "0089.json",
+     "ref": "2.3.1.3",
+     "title": "§ 3.SECT. III.",
+     "segments": 1
+    },
+    {
+     "file": "0090.json",
+     "ref": "2.3.1.4",
+     "title": "SECT. IIII.§ 4.",
+     "segments": 1
+    },
+    {
+     "file": "0091.json",
+     "ref": "2.3.1.5",
+     "title": "§ 5.SECT. V.",
+     "segments": 1
+    },
+    {
+     "file": "0092.json",
+     "ref": "2.3.1.6",
+     "title": "SECT. VI.§. 6.",
+     "segments": 1
+    },
+    {
+     "file": "0093.json",
+     "ref": "2.3.2.1",
+     "title": "§ 1.SECT. I.",
+     "segments": 15
+    },
+    {
+     "file": "0094.json",
+     "ref": "2.3.2.2",
+     "title": "SECT. II.§ 2.",
+     "segments": 7
+    },
+    {
+     "file": "0095.json",
+     "ref": "2.3.3.1",
+     "title": "SECT. I.",
+     "segments": 10
+    },
+    {
+     "file": "0096.json",
+     "ref": "2.3.3.2",
+     "title": "SECT. II.",
+     "segments": 2
+    },
+    {
+     "file": "0097.json",
+     "ref": "2.3.4.1",
+     "title": "SECT. IIII.§ 1.",
+     "segments": 12
+    },
+    {
+     "file": "0098.json",
+     "ref": "2.3.4.2",
+     "title": "SECT. II.§ 2.",
+     "segments": 3
+    },
+    {
+     "file": "0099.json",
+     "ref": "2.3.4.3",
+     "title": "SECT. III.",
+     "segments": 13
+    },
+    {
+     "file": "0100.json",
+     "ref": "2.3.4.4",
+     "title": "§ 4.SECT. IV.",
+     "segments": 2
+    },
+    {
+     "file": "0101.json",
+     "ref": "2.3.4.5",
+     "title": "§. 5.SECT. V.",
+     "segments": 5
+    },
+    {
+     "file": "0102.json",
+     "ref": "2.3.4.6",
+     "title": "§. 6.SECT. VI.",
+     "segments": 3
+    },
+    {
+     "file": "0103.json",
+     "ref": "2.3.5.1",
+     "title": "SECT. I.",
+     "segments": 2
+    },
+    {
+     "file": "0104.json",
+     "ref": "2.3.5.2",
+     "title": "SECT. II.§ 2.",
+     "segments": 4
+    },
+    {
+     "file": "0105.json",
+     "ref": "2.3.5.3",
+     "title": "SECT. III.§ 3.",
+     "segments": 12
+    },
+    {
+     "file": "0106.json",
+     "ref": "2.3.5.4",
+     "title": "§ 4.SECT. IV.",
+     "segments": 2
+    },
+    {
+     "file": "0107.json",
+     "ref": "2.3.6.1",
+     "title": "SECT. I.§. 1.",
+     "segments": 10
+    },
+    {
+     "file": "0108.json",
+     "ref": "2.3.6.2",
+     "title": "SECT. II.§. 2.",
+     "segments": 2
+    },
+    {
+     "file": "0109.json",
+     "ref": "2.3.6.3",
+     "title": "SECT. III.§. 3.",
+     "segments": 1
+    },
+    {
+     "file": "0110.json",
+     "ref": "2.3.6.4",
+     "title": "§. 4.SECT. IV.",
+     "segments": 1
+    },
+    {
+     "file": "0111.json",
+     "ref": "2.3.6.5",
+     "title": "§. 5.SECT. V.",
+     "segments": 2
+    },
+    {
+     "file": "0112.json",
+     "ref": "2.3.6.6",
+     "title": "SECT. VI.§. 6.",
+     "segments": 14
+    },
+    {
+     "file": "0113.json",
+     "ref": "2.3.7.1",
+     "title": "SECT. I.§. 1.",
+     "segments": 8
+    },
+    {
+     "file": "0114.json",
+     "ref": "2.3.7.2",
+     "title": "§. 2.SECT. II.",
+     "segments": 6
+    },
+    {
+     "file": "0115.json",
+     "ref": "2.3.7.3",
+     "title": "SECT. III.§. 3.",
+     "segments": 4
+    },
+    {
+     "file": "0116.json",
+     "ref": "2.3.7.4",
+     "title": "SECT. IV.§. 4.",
+     "segments": 3
+    },
+    {
+     "file": "0117.json",
+     "ref": "2.3.7.5",
+     "title": "SECT. V.§. 5.",
+     "segments": 7
+    },
+    {
+     "file": "0118.json",
+     "ref": "2.3.7.6",
+     "title": "§. 6.SECT. VI.",
+     "segments": 4
+    },
+    {
+     "file": "0119.json",
+     "ref": "2.3.7.7",
+     "title": "§. 7▪ SECT. VII.",
+     "segments": 2
+    },
+    {
+     "file": "0120.json",
+     "ref": "2.3.7.8",
+     "title": "SECT. VIII.§. 8.",
+     "segments": 4
+    },
+    {
+     "file": "0121.json",
+     "ref": "2.3.8.1",
+     "title": "§. 1.SECT. I.",
+     "segments": 6
+    },
+    {
+     "file": "0122.json",
+     "ref": "2.3.9.1",
+     "title": "SECT. I.§. 1.",
+     "segments": 22
+    },
+    {
+     "file": "0123.json",
+     "ref": "3.1",
+     "title": "To my dearly beloved Friends, The Inhabitants of the City of COVENTRY, Both Magistrates and People; ESPECIALLY Col. John Barker, and Col. Tho. Willoughby, late Governors, with all the Officers, and So",
+     "segments": 1
+    },
+    {
+     "file": "0124.json",
+     "ref": "3.2.1.1",
+     "title": "SECT. I.§. 1.",
+     "segments": 2
+    },
+    {
+     "file": "0125.json",
+     "ref": "3.2.1.2",
+     "title": "Use First. Shewing the unconceivable misery of the ungodly in their losse of this Rest. SECT. II.§. 2.",
+     "segments": 2
+    },
+    {
+     "file": "0126.json",
+     "ref": "3.2.1.3",
+     "title": "§. 3.SECT. III.",
+     "segments": 1
+    },
+    {
+     "file": "0127.json",
+     "ref": "3.2.1.4",
+     "title": "§. 4.SECT. IV.",
+     "segments": 1
+    },
+    {
+     "file": "0128.json",
+     "ref": "3.2.1.5",
+     "title": "§. 5.SECT. V.",
+     "segments": 2
+    },
+    {
+     "file": "0129.json",
+     "ref": "3.2.1.6",
+     "title": "SECT. VI.§. 6.",
+     "segments": 1
+    },
+    {
+     "file": "0130.json",
+     "ref": "3.2.2.1",
+     "title": "§. 1.SECT. I.",
+     "segments": 5
+    },
+    {
+     "file": "0131.json",
+     "ref": "3.2.2.2",
+     "title": "SECT. II.§. 2.",
+     "segments": 1
+    },
+    {
+     "file": "0132.json",
+     "ref": "3.2.2.3",
+     "title": "SECT. III.§. 3.",
+     "segments": 3
+    },
+    {
+     "file": "0133.json",
+     "ref": "3.2.2.4",
+     "title": "SECT. IV.§. 4.",
+     "segments": 1
+    },
+    {
+     "file": "0134.json",
+     "ref": "3.2.2.5",
+     "title": "SECT. V.§. 5.",
+     "segments": 3
+    },
+    {
+     "file": "0135.json",
+     "ref": "3.2.2.6",
+     "title": "SECT. VI.§. 6.",
+     "segments": 1
+    },
+    {
+     "file": "0136.json",
+     "ref": "3.2.2.7",
+     "title": "SECT. VII.§. 7.",
+     "segments": 1
+    },
+    {
+     "file": "0137.json",
+     "ref": "3.2.2.8",
+     "title": "SECT. VIII.§. 8.",
+     "segments": 2
+    },
+    {
+     "file": "0138.json",
+     "ref": "3.2.2.9",
+     "title": "§. 9.SECT. IX.",
+     "segments": 2
+    },
+    {
+     "file": "0139.json",
+     "ref": "3.2.2.10",
+     "title": "SECT. X.§. 10.",
+     "segments": 1
+    },
+    {
+     "file": "0140.json",
+     "ref": "3.2.2.11",
+     "title": "SECT. XI.§. 11.",
+     "segments": 2
+    },
+    {
+     "file": "0141.json",
+     "ref": "3.2.2.12",
+     "title": "SECT. XII.§. 12.",
+     "segments": 2
+    },
+    {
+     "file": "0142.json",
+     "ref": "3.2.2.13",
+     "title": "SECT. XIII.§. 13.",
+     "segments": 1
+    },
+    {
+     "file": "0143.json",
+     "ref": "3.2.2.14",
+     "title": "§. 14.SECT. XIV.",
+     "segments": 1
+    },
+    {
+     "file": "0144.json",
+     "ref": "3.2.2.15",
+     "title": "§. 15.SECT. XV.",
+     "segments": 6
+    },
+    {
+     "file": "0145.json",
+     "ref": "3.2.3.1",
+     "title": "SECT. I.§. 1.",
+     "segments": 2
+    },
+    {
+     "file": "0146.json",
+     "ref": "3.2.3.2",
+     "title": "§. 2.SECT. II.",
+     "segments": 1
+    },
+    {
+     "file": "0147.json",
+     "ref": "3.2.3.3",
+     "title": "SECT. III.§. 3.",
+     "segments": 3
+    },
+    {
+     "file": "0148.json",
+     "ref": "3.2.3.4",
+     "title": "SECT. IV.§. 4.",
+     "segments": 1
+    },
+    {
+     "file": "0149.json",
+     "ref": "3.2.3.5",
+     "title": "SECT. V.§. 5.",
+     "segments": 1
+    },
+    {
+     "file": "0150.json",
+     "ref": "3.2.3.6",
+     "title": "§. 6.SECT. VI.",
+     "segments": 1
+    },
+    {
+     "file": "0151.json",
+     "ref": "3.2.4.1",
+     "title": "§. 1.SECT. I.",
+     "segments": 2
+    },
+    {
+     "file": "0152.json",
+     "ref": "3.2.4.2",
+     "title": "SECT. II.§. 2.",
+     "segments": 1
+    },
+    {
+     "file": "0153.json",
+     "ref": "3.2.4.3",
+     "title": "SECT. III.§. 3.",
+     "segments": 1
+    },
+    {
+     "file": "0154.json",
+     "ref": "3.2.4.4",
+     "title": "§ 4.SECT. IIII.",
+     "segments": 1
+    },
+    {
+     "file": "0155.json",
+     "ref": "3.2.4.5",
+     "title": "§. 5.SECT. V.",
+     "segments": 1
+    },
+    {
+     "file": "0156.json",
+     "ref": "3.2.4.6",
+     "title": "§. 6.SECT. VI.",
+     "segments": 3
+    },
+    {
+     "file": "0157.json",
+     "ref": "3.2.4.7",
+     "title": "§. 7.SECT. VII.",
+     "segments": 1
+    },
+    {
+     "file": "0158.json",
+     "ref": "3.2.4.8",
+     "title": "SECT. VIII.§. 8.",
+     "segments": 1
+    },
+    {
+     "file": "0159.json",
+     "ref": "3.2.4.9",
+     "title": "SECT. IX.",
+     "segments": 6
+    },
+    {
+     "file": "0160.json",
+     "ref": "3.2.4.10",
+     "title": "§. 10.SECT. X.",
+     "segments": 13
+    },
+    {
+     "file": "0161.json",
+     "ref": "3.2.4.11",
+     "title": "LECT. XI.§. 11.",
+     "segments": 1
+    },
+    {
+     "file": "0162.json",
+     "ref": "3.2.5.1",
+     "title": "SECT. I.§. 1.",
+     "segments": 1
+    },
+    {
+     "file": "0163.json",
+     "ref": "3.2.5.2",
+     "title": "§. 2.SECT. II.",
+     "segments": 2
+    },
+    {
+     "file": "0164.json",
+     "ref": "3.2.5.3",
+     "title": "SECT. III.",
+     "segments": 1
+    },
+    {
+     "file": "0165.json",
+     "ref": "3.2.5.4",
+     "title": "§. 4.SECT. IV.",
+     "segments": 2
+    },
+    {
+     "file": "0166.json",
+     "ref": "3.2.5.5",
+     "title": "SECT. V.§. 5.",
+     "segments": 3
+    },
+    {
+     "file": "0167.json",
+     "ref": "3.2.6.1",
+     "title": "SECT. I.",
+     "segments": 1
+    },
+    {
+     "file": "0168.json",
+     "ref": "3.2.6.2",
+     "title": "SECT. II.",
+     "segments": 2
+    },
+    {
+     "file": "0169.json",
+     "ref": "3.2.6.3",
+     "title": "SECT. III.",
+     "segments": 2
+    },
+    {
+     "file": "0170.json",
+     "ref": "3.2.6.4",
+     "title": "SECT. IV.",
+     "segments": 1
+    },
+    {
+     "file": "0171.json",
+     "ref": "3.2.6.5",
+     "title": "SECT. V.",
+     "segments": 1
+    },
+    {
+     "file": "0172.json",
+     "ref": "3.2.6.6",
+     "title": "SECT. VI.",
+     "segments": 1
+    },
+    {
+     "file": "0173.json",
+     "ref": "3.2.6.7",
+     "title": "SECT. VII.",
+     "segments": 1
+    },
+    {
+     "file": "0174.json",
+     "ref": "3.2.6.8",
+     "title": "SECT. VIII.",
+     "segments": 1
+    },
+    {
+     "file": "0175.json",
+     "ref": "3.2.6.9",
+     "title": "SECT. IX.",
+     "segments": 1
+    },
+    {
+     "file": "0176.json",
+     "ref": "3.2.6.10",
+     "title": "SECT. X.",
+     "segments": 1
+    },
+    {
+     "file": "0177.json",
+     "ref": "3.2.6.11",
+     "title": "SECT. XI.",
+     "segments": 1
+    },
+    {
+     "file": "0178.json",
+     "ref": "3.2.6.12",
+     "title": "SECT. XII.",
+     "segments": 1
+    },
+    {
+     "file": "0179.json",
+     "ref": "3.2.6.13",
+     "title": "SECT. XIII.",
+     "segments": 1
+    },
+    {
+     "file": "0180.json",
+     "ref": "3.2.6.14",
+     "title": "SECT. XIV.",
+     "segments": 1
+    },
+    {
+     "file": "0181.json",
+     "ref": "3.2.6.15",
+     "title": "SECT. XV.",
+     "segments": 1
+    },
+    {
+     "file": "0182.json",
+     "ref": "3.2.6.16",
+     "title": "SECT. XVI.",
+     "segments": 1
+    },
+    {
+     "file": "0183.json",
+     "ref": "3.2.6.17",
+     "title": "SECT. XVII.",
+     "segments": 1
+    },
+    {
+     "file": "0184.json",
+     "ref": "3.2.6.18",
+     "title": "SECT. XVIII.",
+     "segments": 1
+    },
+    {
+     "file": "0185.json",
+     "ref": "3.2.6.19",
+     "title": "SECT. XIX.",
+     "segments": 1
+    },
+    {
+     "file": "0186.json",
+     "ref": "3.2.6.20",
+     "title": "SECT. XX.",
+     "segments": 1
+    },
+    {
+     "file": "0187.json",
+     "ref": "3.2.6.21",
+     "title": "SECT. XXI.",
+     "segments": 1
+    },
+    {
+     "file": "0188.json",
+     "ref": "3.2.6.22",
+     "title": "SECT. XXII.",
+     "segments": 11
+    },
+    {
+     "file": "0189.json",
+     "ref": "3.2.6.23",
+     "title": "SECT. XXIII.",
+     "segments": 2
+    },
+    {
+     "file": "0190.json",
+     "ref": "3.2.6.24",
+     "title": "SECT. XXIV.",
+     "segments": 10
+    },
+    {
+     "file": "0191.json",
+     "ref": "3.2.6.25",
+     "title": "SECT. XXV.",
+     "segments": 1
+    },
+    {
+     "file": "0192.json",
+     "ref": "3.2.6.26",
+     "title": "SECT. XXVI.",
+     "segments": 11
+    },
+    {
+     "file": "0193.json",
+     "ref": "3.2.6.27",
+     "title": "SECT. XXVII.",
+     "segments": 1
+    },
+    {
+     "file": "0194.json",
+     "ref": "3.2.7.1",
+     "title": "SECT. I.",
+     "segments": 11
+    },
+    {
+     "file": "0195.json",
+     "ref": "3.2.7.2",
+     "title": "SECT. II.",
+     "segments": 2
+    },
+    {
+     "file": "0196.json",
+     "ref": "3.2.7.3",
+     "title": "SECT. III.",
+     "segments": 5
+    },
+    {
+     "file": "0197.json",
+     "ref": "3.2.7.4",
+     "title": "SECT. IV.",
+     "segments": 23
+    },
+    {
+     "file": "0198.json",
+     "ref": "3.2.7.5",
+     "title": "SECT. V.",
+     "segments": 11
+    },
+    {
+     "file": "0199.json",
+     "ref": "3.2.7.6",
+     "title": "SECT. VI.",
+     "segments": 4
+    },
+    {
+     "file": "0200.json",
+     "ref": "3.2.7.7",
+     "title": "SECT. VII.",
+     "segments": 1
+    },
+    {
+     "file": "0201.json",
+     "ref": "3.2.7.8",
+     "title": "SECT. VIII.",
+     "segments": 12
+    },
+    {
+     "file": "0202.json",
+     "ref": "3.2.7.9",
+     "title": "§. 9. Hinderances which keep many that do Examine from attaining strong Assurance, & cause many to be de • ceived.SECT. IX.",
+     "segments": 10
+    },
+    {
+     "file": "0203.json",
+     "ref": "3.2.7.10",
+     "title": "SECT. X.",
+     "segments": 5
+    },
+    {
+     "file": "0204.json",
+     "ref": "3.2.7.11",
+     "title": "SECT. XI.",
+     "segments": 1
+    },
+    {
+     "file": "0205.json",
+     "ref": "3.2.7.12",
+     "title": "SECT. XII.",
+     "segments": 1
+    },
+    {
+     "file": "0206.json",
+     "ref": "3.2.7.13",
+     "title": "SECT. XIII.",
+     "segments": 2
+    },
+    {
+     "file": "0207.json",
+     "ref": "3.2.7.14",
+     "title": "SECT. XIV.",
+     "segments": 1
+    },
+    {
+     "file": "0208.json",
+     "ref": "3.2.7.15",
+     "title": "SECT. XV.",
+     "segments": 1
+    },
+    {
+     "file": "0209.json",
+     "ref": "3.2.7.16",
+     "title": "SECT. XVI.",
+     "segments": 1
+    },
+    {
+     "file": "0210.json",
+     "ref": "3.2.7.17",
+     "title": "SECT. XVII.",
+     "segments": 2
+    },
+    {
+     "file": "0211.json",
+     "ref": "3.2.7.18",
+     "title": "SECT. XVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0212.json",
+     "ref": "3.2.7.19",
+     "title": "SECT. XIX.",
+     "segments": 2
+    },
+    {
+     "file": "0213.json",
+     "ref": "3.2.8.1",
+     "title": "SECT. I.",
+     "segments": 3
+    },
+    {
+     "file": "0214.json",
+     "ref": "3.2.8.2",
+     "title": "SECT. II.",
+     "segments": 7
+    },
+    {
+     "file": "0215.json",
+     "ref": "3.2.8.3",
+     "title": "SECT. III.",
+     "segments": 2
+    },
+    {
+     "file": "0216.json",
+     "ref": "3.2.8.4",
+     "title": "SECT. IV.",
+     "segments": 7
+    },
+    {
+     "file": "0217.json",
+     "ref": "3.2.8.5",
+     "title": "SECT. V.",
+     "segments": 1
+    },
+    {
+     "file": "0218.json",
+     "ref": "3.2.8.6",
+     "title": "SECT. VI.",
+     "segments": 1
+    },
+    {
+     "file": "0219.json",
+     "ref": "3.2.8.7",
+     "title": "SECT. VII.",
+     "segments": 1
+    },
+    {
+     "file": "0220.json",
+     "ref": "3.2.8.8",
+     "title": "SECT. VIII.",
+     "segments": 17
+    },
+    {
+     "file": "0221.json",
+     "ref": "3.2.8.9",
+     "title": "SECT. IX.",
+     "segments": 5
+    },
+    {
+     "file": "0222.json",
+     "ref": "3.2.9.1",
+     "title": "SECT. I.",
+     "segments": 6
+    },
+    {
+     "file": "0223.json",
+     "ref": "3.2.9.2",
+     "title": "SECT. II.",
+     "segments": 19
+    },
+    {
+     "file": "0224.json",
+     "ref": "3.2.9.3",
+     "title": "SECT. III.",
+     "segments": 8
+    },
+    {
+     "file": "0225.json",
+     "ref": "3.2.9.4",
+     "title": "SECT. IV.",
+     "segments": 4
+    },
+    {
+     "file": "0226.json",
+     "ref": "3.2.10.1",
+     "title": "SECT. I.",
+     "segments": 1
+    },
+    {
+     "file": "0227.json",
+     "ref": "3.2.10.2",
+     "title": "SECT. II.",
+     "segments": 1
+    },
+    {
+     "file": "0228.json",
+     "ref": "3.2.10.3",
+     "title": "SECT. III.",
+     "segments": 1
+    },
+    {
+     "file": "0229.json",
+     "ref": "3.2.10.4",
+     "title": "SECT. IV.",
+     "segments": 1
+    },
+    {
+     "file": "0230.json",
+     "ref": "3.2.10.5",
+     "title": "SECT. V.",
+     "segments": 1
+    },
+    {
+     "file": "0231.json",
+     "ref": "3.2.10.6",
+     "title": "SECT. VI.",
+     "segments": 2
+    },
+    {
+     "file": "0232.json",
+     "ref": "3.2.10.7",
+     "title": "SECT. VII.",
+     "segments": 1
+    },
+    {
+     "file": "0233.json",
+     "ref": "3.2.10.8",
+     "title": "SECT. VIII.",
+     "segments": 16
+    },
+    {
+     "file": "0234.json",
+     "ref": "3.2.11.1",
+     "title": "SECT. I.",
+     "segments": 2
+    },
+    {
+     "file": "0235.json",
+     "ref": "3.2.11.2",
+     "title": "SECT. II.",
+     "segments": 4
+    },
+    {
+     "file": "0236.json",
+     "ref": "3.2.11.3",
+     "title": "SECT. III.",
+     "segments": 5
+    },
+    {
+     "file": "0237.json",
+     "ref": "3.2.11.4",
+     "title": "SECT. IV.",
+     "segments": 2
+    },
+    {
+     "file": "0238.json",
+     "ref": "3.2.11.5",
+     "title": "SECT. V.",
+     "segments": 1
+    },
+    {
+     "file": "0239.json",
+     "ref": "3.2.11.6",
+     "title": "SECT. VI.",
+     "segments": 1
+    },
+    {
+     "file": "0240.json",
+     "ref": "3.2.11.7",
+     "title": "SECT. VII.",
+     "segments": 1
+    },
+    {
+     "file": "0241.json",
+     "ref": "3.2.11.8",
+     "title": "SECT. VIII.",
+     "segments": 1
+    },
+    {
+     "file": "0242.json",
+     "ref": "3.2.11.9",
+     "title": "SECT. IX.",
+     "segments": 3
+    },
+    {
+     "file": "0243.json",
+     "ref": "3.2.11.10",
+     "title": "SECT. X.",
+     "segments": 1
+    },
+    {
+     "file": "0244.json",
+     "ref": "3.2.11.11",
+     "title": "SECT. XI.",
+     "segments": 1
+    },
+    {
+     "file": "0245.json",
+     "ref": "3.2.11.12",
+     "title": "SECT. XII.",
+     "segments": 1
+    },
+    {
+     "file": "0246.json",
+     "ref": "3.2.11.13",
+     "title": "SECT. XIII.",
+     "segments": 2
+    },
+    {
+     "file": "0247.json",
+     "ref": "3.2.11.14",
+     "title": "SECT. XIV.",
+     "segments": 1
+    },
+    {
+     "file": "0248.json",
+     "ref": "3.2.11.15",
+     "title": "SECT. XV.",
+     "segments": 2
+    },
+    {
+     "file": "0249.json",
+     "ref": "3.2.11.16",
+     "title": "SECT. XVI.",
+     "segments": 2
+    },
+    {
+     "file": "0250.json",
+     "ref": "3.2.11.17",
+     "title": "SECT. XVII.",
+     "segments": 3
+    },
+    {
+     "file": "0251.json",
+     "ref": "3.2.11.18",
+     "title": "SECT. XVIII.",
+     "segments": 46
+    },
+    {
+     "file": "0252.json",
+     "ref": "3.2.12.1",
+     "title": "SECT. I.§. 1.",
+     "segments": 1
+    },
+    {
+     "file": "0253.json",
+     "ref": "3.2.12.2",
+     "title": "§. 2.SECT. II.",
+     "segments": 2
+    },
+    {
+     "file": "0254.json",
+     "ref": "3.2.12.3",
+     "title": "§. 3.SECT. III.",
+     "segments": 1
+    },
+    {
+     "file": "0255.json",
+     "ref": "3.2.12.4",
+     "title": "SECT. IV.§. 4.",
+     "segments": 1
+    },
+    {
+     "file": "0256.json",
+     "ref": "3.2.12.5",
+     "title": "SECT. V.§. 5.",
+     "segments": 2
+    },
+    {
+     "file": "0257.json",
+     "ref": "3.2.12.6",
+     "title": "§. 6.SECT. VI.",
+     "segments": 2
+    },
+    {
+     "file": "0258.json",
+     "ref": "3.2.12.7",
+     "title": "SECT. VII.",
+     "segments": 2
+    },
+    {
+     "file": "0259.json",
+     "ref": "3.2.12.8",
+     "title": "§. 8.SECT. VIII.",
+     "segments": 3
+    },
+    {
+     "file": "0260.json",
+     "ref": "3.2.12.9",
+     "title": "SECT. IX.",
+     "segments": 2
+    },
+    {
+     "file": "0261.json",
+     "ref": "3.2.12.10",
+     "title": "SECT. X.§. 10.",
+     "segments": 12
+    },
+    {
+     "file": "0262.json",
+     "ref": "3.2.12.11",
+     "title": "SECT. XI.§. 11.",
+     "segments": 23
+    },
+    {
+     "file": "0263.json",
+     "ref": "3.2.12.12",
+     "title": "SECT. XII.§. 12.",
+     "segments": 7
+    },
+    {
+     "file": "0264.json",
+     "ref": "3.2.12.13",
+     "title": "§. 13.SECT. XIII.",
+     "segments": 3
+    },
+    {
+     "file": "0265.json",
+     "ref": "3.2.12.14",
+     "title": "SECT. XIV.§. 14.",
+     "segments": 1
+    },
+    {
+     "file": "0266.json",
+     "ref": "3.2.12.15",
+     "title": "SECT. XV.§. 15.",
+     "segments": 5
+    },
+    {
+     "file": "0267.json",
+     "ref": "3.2.12.16",
+     "title": "§. 16.SECT. XVI.",
+     "segments": 3
+    },
+    {
+     "file": "0268.json",
+     "ref": "3.2.12.17",
+     "title": "§. 17.SECT. XVII.",
+     "segments": 2
+    },
+    {
+     "file": "0269.json",
+     "ref": "3.2.12.18",
+     "title": "§. 18.SECT. XVIII.",
+     "segments": 4
+    },
+    {
+     "file": "0270.json",
+     "ref": "3.2.end",
+     "title": "3.2.end",
+     "segments": 1
+    },
+    {
+     "file": "0271.json",
+     "ref": "4.1",
+     "title": "TO MY Dearly beloved friends in the Lord, The Inhabitants of the Town of SHREWSBVRY, Both Magistrates, Ministers, and People, As also Of the Neighbouring Parts. Rich. Baxter Devoteth this Practicall P",
+     "segments": 1
+    },
+    {
+     "file": "0272.json",
+     "ref": "4.2",
+     "title": "The Introduction.",
+     "segments": 2
+    },
+    {
+     "file": "0273.json",
+     "ref": "4.3.1.1",
+     "title": "SECT. I.§. 1.",
+     "segments": 1
+    },
+    {
+     "file": "0274.json",
+     "ref": "4.3.1.2",
+     "title": "§. 2.SECT. II.",
+     "segments": 1
+    },
+    {
+     "file": "0275.json",
+     "ref": "4.3.1.3",
+     "title": "§. 3.SECT. III.",
+     "segments": 1
+    },
+    {
+     "file": "0276.json",
+     "ref": "4.3.1.4",
+     "title": "§. 4.SECT. IV.",
+     "segments": 1
+    },
+    {
+     "file": "0277.json",
+     "ref": "4.3.1.5",
+     "title": "§. 5.SECT. V.",
+     "segments": 1
+    },
+    {
+     "file": "0278.json",
+     "ref": "4.3.1.6",
+     "title": "§. 6.SECT. VI.",
+     "segments": 6
+    },
+    {
+     "file": "0279.json",
+     "ref": "4.3.1.7",
+     "title": "§. 7.SECT. VII.",
+     "segments": 3
+    },
+    {
+     "file": "0280.json",
+     "ref": "4.3.2.1",
+     "title": "§. 1.SECT. I.",
+     "segments": 1
+    },
+    {
+     "file": "0281.json",
+     "ref": "4.3.2.2",
+     "title": "SECT. II.§. 2.",
+     "segments": 1
+    },
+    {
+     "file": "0282.json",
+     "ref": "4.3.2.3",
+     "title": "§. 3.SECT. III",
+     "segments": 1
+    },
+    {
+     "file": "0283.json",
+     "ref": "4.3.2.4",
+     "title": "§. 4.SECT. IV.",
+     "segments": 1
+    },
+    {
+     "file": "0284.json",
+     "ref": "4.3.2.5",
+     "title": "SECT. V.§. 5.",
+     "segments": 1
+    },
+    {
+     "file": "0285.json",
+     "ref": "4.3.2.6",
+     "title": "SECT. VI.§. 6.",
+     "segments": 1
+    },
+    {
+     "file": "0286.json",
+     "ref": "4.3.2.7",
+     "title": "SECT. VII.§. 7.",
+     "segments": 1
+    },
+    {
+     "file": "0287.json",
+     "ref": "4.3.2.8",
+     "title": "§. 8.SECT. VIII.",
+     "segments": 1
+    },
+    {
+     "file": "0288.json",
+     "ref": "4.3.2.9",
+     "title": "§. 9.SECT. IX.",
+     "segments": 2
+    },
+    {
+     "file": "0289.json",
+     "ref": "4.3.2.10",
+     "title": "SECT. X.§. 10.",
+     "segments": 1
+    },
+    {
+     "file": "0290.json",
+     "ref": "4.3.2.11",
+     "title": "§. 11.SECT. XI.",
+     "segments": 1
+    },
+    {
+     "file": "0291.json",
+     "ref": "4.3.2.12",
+     "title": "SECT. XII.§. 12.",
+     "segments": 1
+    },
+    {
+     "file": "0292.json",
+     "ref": "4.3.2.13",
+     "title": "§. 13.SECT. XIII.",
+     "segments": 1
+    },
+    {
+     "file": "0293.json",
+     "ref": "4.3.2.14",
+     "title": "§. 14.SECT. XIV.",
+     "segments": 1
+    },
+    {
+     "file": "0294.json",
+     "ref": "4.3.2.15",
+     "title": "SECT. XV.§. 15.",
+     "segments": 1
+    },
+    {
+     "file": "0295.json",
+     "ref": "4.3.2.16",
+     "title": "SECT. XVI.§. 16.",
+     "segments": 1
+    },
+    {
+     "file": "0296.json",
+     "ref": "4.3.2.17",
+     "title": "SECT. XVII.",
+     "segments": 3
+    },
+    {
+     "file": "0297.json",
+     "ref": "4.3.2.18",
+     "title": "SECT. XVIII.§. 18.",
+     "segments": 1
+    },
+    {
+     "file": "0298.json",
+     "ref": "4.3.2.19",
+     "title": "§. 19.SECT. XIX.",
+     "segments": 1
+    },
+    {
+     "file": "0299.json",
+     "ref": "4.3.2.20",
+     "title": "§. 20.SECT. XX.",
+     "segments": 1
+    },
+    {
+     "file": "0300.json",
+     "ref": "4.3.2.21",
+     "title": "SECT. XXI.§. 21.",
+     "segments": 3
+    },
+    {
+     "file": "0301.json",
+     "ref": "4.3.2.22",
+     "title": "§. 22.SECT. XXII.",
+     "segments": 6
+    },
+    {
+     "file": "0302.json",
+     "ref": "4.3.2.23",
+     "title": "SECT. XXIII.§. 23.",
+     "segments": 3
+    },
+    {
+     "file": "0303.json",
+     "ref": "4.3.2.24",
+     "title": "§. 24.SECT. XXIV.",
+     "segments": 3
+    },
+    {
+     "file": "0304.json",
+     "ref": "4.3.2.25",
+     "title": "SECT. XXV.§. 25.",
+     "segments": 1
+    },
+    {
+     "file": "0305.json",
+     "ref": "4.3.3.1",
+     "title": "§. 1.SECT. I.",
+     "segments": 2
+    },
+    {
+     "file": "0306.json",
+     "ref": "4.3.3.2",
+     "title": "§. 2.SECT. II.",
+     "segments": 2
+    },
+    {
+     "file": "0307.json",
+     "ref": "4.3.3.3",
+     "title": "§. 3.SECT. III.",
+     "segments": 1
+    },
+    {
+     "file": "0308.json",
+     "ref": "4.3.3.4",
+     "title": "SECT. IIII.§. 4.",
+     "segments": 1
+    },
+    {
+     "file": "0309.json",
+     "ref": "4.3.3.5",
+     "title": "§. 5.SECT. V.",
+     "segments": 2
+    },
+    {
+     "file": "0310.json",
+     "ref": "4.3.3.6",
+     "title": "§. 6.SECT. VI.",
+     "segments": 9
+    },
+    {
+     "file": "0311.json",
+     "ref": "4.3.3.7",
+     "title": "§. 7.SECT. VII.",
+     "segments": 3
+    },
+    {
+     "file": "0312.json",
+     "ref": "4.3.3.8",
+     "title": "SECT. VIII.§. 8.",
+     "segments": 2
+    },
+    {
+     "file": "0313.json",
+     "ref": "4.3.3.9",
+     "title": "§. 9.SECT. IX.",
+     "segments": 1
+    },
+    {
+     "file": "0314.json",
+     "ref": "4.3.3.10",
+     "title": "SECT. X.§ 10.",
+     "segments": 1
+    },
+    {
+     "file": "0315.json",
+     "ref": "4.3.3.11",
+     "title": "SECT. XI.§. 11.",
+     "segments": 2
+    },
+    {
+     "file": "0316.json",
+     "ref": "4.3.3.12",
+     "title": "§. 12.SECT. XII.",
+     "segments": 1
+    },
+    {
+     "file": "0317.json",
+     "ref": "4.3.3.13",
+     "title": "SECT. XIII.",
+     "segments": 1
+    },
+    {
+     "file": "0318.json",
+     "ref": "4.3.3.14",
+     "title": "§. 14.SECT. XIIII.",
+     "segments": 8
+    },
+    {
+     "file": "0319.json",
+     "ref": "4.3.3.15",
+     "title": "§ 15.SECT. XV.",
+     "segments": 1
+    },
+    {
+     "file": "0320.json",
+     "ref": "4.3.4.1",
+     "title": "SECT. I.§. 1.",
+     "segments": 3
+    },
+    {
+     "file": "0321.json",
+     "ref": "4.3.4.2",
+     "title": "§. 2.SECT. II.",
+     "segments": 1
+    },
+    {
+     "file": "0322.json",
+     "ref": "4.3.4.3",
+     "title": "§. 3.SECT. III.",
+     "segments": 2
+    },
+    {
+     "file": "0323.json",
+     "ref": "4.3.4.4",
+     "title": "§. 4.SECT. IIII.",
+     "segments": 2
+    },
+    {
+     "file": "0324.json",
+     "ref": "4.3.4.5",
+     "title": "§. 5.SECT. V.",
+     "segments": 4
+    },
+    {
+     "file": "0325.json",
+     "ref": "4.3.4.6",
+     "title": "§. 6.SECT. VI.",
+     "segments": 3
+    },
+    {
+     "file": "0326.json",
+     "ref": "4.3.4.7",
+     "title": "§. 7.SECT. VII.",
+     "segments": 2
+    },
+    {
+     "file": "0327.json",
+     "ref": "4.3.5.1",
+     "title": "§. 1.SECT. I.",
+     "segments": 2
+    },
+    {
+     "file": "0328.json",
+     "ref": "4.3.5.2",
+     "title": "SECT. II.§. 2.",
+     "segments": 1
+    },
+    {
+     "file": "0329.json",
+     "ref": "4.3.5.3",
+     "title": "§. 2.SECT. II.",
+     "segments": 1
+    },
+    {
+     "file": "0330.json",
+     "ref": "4.3.5.4",
+     "title": "SECT. III.§. 3.",
+     "segments": 1
+    },
+    {
+     "file": "0331.json",
+     "ref": "4.3.5.5",
+     "title": "SECT. IV.",
+     "segments": 1
+    },
+    {
+     "file": "0332.json",
+     "ref": "4.3.5.6",
+     "title": "§. 5.SECT. V.",
+     "segments": 3
+    },
+    {
+     "file": "0333.json",
+     "ref": "4.3.5.7",
+     "title": "§. 6.SECT. VI.",
+     "segments": 1
+    },
+    {
+     "file": "0334.json",
+     "ref": "4.3.5.8",
+     "title": "§. 7.SECT. VII.",
+     "segments": 3
+    },
+    {
+     "file": "0335.json",
+     "ref": "4.3.5.9",
+     "title": "SECT. VIII.§. 8.",
+     "segments": 1
+    },
+    {
+     "file": "0336.json",
+     "ref": "4.3.5.10",
+     "title": "§. 9.SECT. IX.",
+     "segments": 1
+    },
+    {
+     "file": "0337.json",
+     "ref": "4.3.5.11",
+     "title": "SECT. X.§. 10.",
+     "segments": 1
+    },
+    {
+     "file": "0338.json",
+     "ref": "4.3.6.1",
+     "title": "§. 1.SECT. I.",
+     "segments": 1
+    },
+    {
+     "file": "0339.json",
+     "ref": "4.3.6.2",
+     "title": "SECT. II.§. 2.",
+     "segments": 3
+    },
+    {
+     "file": "0340.json",
+     "ref": "4.3.6.3",
+     "title": "SECT. III.§. 3.",
+     "segments": 3
+    },
+    {
+     "file": "0341.json",
+     "ref": "4.3.6.4",
+     "title": "SECT. IV.§. 4.",
+     "segments": 1
+    },
+    {
+     "file": "0342.json",
+     "ref": "4.3.6.5",
+     "title": "SECT. V.§. 5.",
+     "segments": 8
+    },
+    {
+     "file": "0343.json",
+     "ref": "4.3.6.6",
+     "title": "§. 6.SECT. VI.",
+     "segments": 1
+    },
+    {
+     "file": "0344.json",
+     "ref": "4.3.6.7",
+     "title": "§. 7.SECT. VII.",
+     "segments": 2
+    },
+    {
+     "file": "0345.json",
+     "ref": "4.3.7.1",
+     "title": "§. 1.SECT. I.",
+     "segments": 3
+    },
+    {
+     "file": "0346.json",
+     "ref": "4.3.7.2",
+     "title": "SECT. II.§. 2.",
+     "segments": 6
+    },
+    {
+     "file": "0347.json",
+     "ref": "4.3.7.3",
+     "title": "§. 3.SECT. III.",
+     "segments": 3
+    },
+    {
+     "file": "0348.json",
+     "ref": "4.3.7.4",
+     "title": "SECT. IIII.§. 4.",
+     "segments": 6
+    },
+    {
+     "file": "0349.json",
+     "ref": "4.3.7.5",
+     "title": "SECT. V.§. 5.",
+     "segments": 1
+    },
+    {
+     "file": "0350.json",
+     "ref": "4.3.7.6",
+     "title": "§. 6.SECT. VI.",
+     "segments": 1
+    },
+    {
+     "file": "0351.json",
+     "ref": "4.3.7.7",
+     "title": "SECT. VII.§. 7.",
+     "segments": 3
+    },
+    {
+     "file": "0352.json",
+     "ref": "4.3.7.8",
+     "title": "§. 8.SECT. VIII.",
+     "segments": 3
+    },
+    {
+     "file": "0353.json",
+     "ref": "4.3.7.9",
+     "title": "§. 9.SECT. IX.",
+     "segments": 3
+    },
+    {
+     "file": "0354.json",
+     "ref": "4.3.7.10",
+     "title": "§. 10SECT. X.",
+     "segments": 3
+    },
+    {
+     "file": "0355.json",
+     "ref": "4.3.8.1",
+     "title": "§. 1.SECT. I.",
+     "segments": 1
+    },
+    {
+     "file": "0356.json",
+     "ref": "4.3.8.2",
+     "title": "SECT. II.§. 2.",
+     "segments": 2
+    },
+    {
+     "file": "0357.json",
+     "ref": "4.3.8.3",
+     "title": "§. 3.SECT. III.",
+     "segments": 2
+    },
+    {
+     "file": "0358.json",
+     "ref": "4.3.8.4",
+     "title": "SECT. IV.§. 4.",
+     "segments": 1
+    },
+    {
+     "file": "0359.json",
+     "ref": "4.3.8.5",
+     "title": "SECT. V.§. 5.",
+     "segments": 1
+    },
+    {
+     "file": "0360.json",
+     "ref": "4.3.8.6",
+     "title": "§. 6.SECT. VI.",
+     "segments": 1
+    },
+    {
+     "file": "0361.json",
+     "ref": "4.3.8.7",
+     "title": "SECT. VII.§. 7.",
+     "segments": 1
+    },
+    {
+     "file": "0362.json",
+     "ref": "4.3.8.8",
+     "title": "SECT. VIII.§. 8.",
+     "segments": 2
+    },
+    {
+     "file": "0363.json",
+     "ref": "4.3.9.1",
+     "title": "§. 1.SECT. I.",
+     "segments": 3
+    },
+    {
+     "file": "0364.json",
+     "ref": "4.3.9.2",
+     "title": "§. 2.SECT. II.",
+     "segments": 2
+    },
+    {
+     "file": "0365.json",
+     "ref": "4.3.9.3",
+     "title": "SECT. III.§. 3.",
+     "segments": 2
+    },
+    {
+     "file": "0366.json",
+     "ref": "4.3.9.4",
+     "title": "§. 4.SECT. IV.",
+     "segments": 3
+    },
+    {
+     "file": "0367.json",
+     "ref": "4.3.9.5",
+     "title": "SECT. V.§. 5.",
+     "segments": 5
+    },
+    {
+     "file": "0368.json",
+     "ref": "4.3.9.6",
+     "title": "§. 6.SECT. VI.",
+     "segments": 3
+    },
+    {
+     "file": "0369.json",
+     "ref": "4.3.9.7",
+     "title": "SECT. VII.§. 7.",
+     "segments": 3
+    },
+    {
+     "file": "0370.json",
+     "ref": "4.3.9.8",
+     "title": "§. 8.SECT. VIII.",
+     "segments": 1
+    },
+    {
+     "file": "0371.json",
+     "ref": "4.3.9.9",
+     "title": "§. 9.SECT. IX.",
+     "segments": 6
+    },
+    {
+     "file": "0372.json",
+     "ref": "4.3.9.10",
+     "title": "§. 10.SECT. X.",
+     "segments": 4
+    },
+    {
+     "file": "0373.json",
+     "ref": "4.3.10.1",
+     "title": "SECT. I.§. 1.",
+     "segments": 2
+    },
+    {
+     "file": "0374.json",
+     "ref": "4.3.10.2",
+     "title": "§. 2.SECT. II.",
+     "segments": 9
+    },
+    {
+     "file": "0375.json",
+     "ref": "4.3.10.3",
+     "title": "SECT. III.§. 3.",
+     "segments": 2
+    },
+    {
+     "file": "0376.json",
+     "ref": "4.3.10.4",
+     "title": "§. 4.SECT. IV.",
+     "segments": 3
+    },
+    {
+     "file": "0377.json",
+     "ref": "4.3.10.5",
+     "title": "SECT. V.§. 5.",
+     "segments": 2
+    },
+    {
+     "file": "0378.json",
+     "ref": "4.3.11.1",
+     "title": "§. 1.SECT. I.",
+     "segments": 3
+    },
+    {
+     "file": "0379.json",
+     "ref": "4.3.11.2",
+     "title": "SECT. II.§. 2.",
+     "segments": 1
+    },
+    {
+     "file": "0380.json",
+     "ref": "4.3.11.3",
+     "title": "SECT. III.§. 3.",
+     "segments": 2
+    },
+    {
+     "file": "0381.json",
+     "ref": "4.3.11.4",
+     "title": "§. 4.SECT. IIII.",
+     "segments": 1
+    },
+    {
+     "file": "0382.json",
+     "ref": "4.3.11.5",
+     "title": "SECT. V.§. 5.",
+     "segments": 1
+    },
+    {
+     "file": "0383.json",
+     "ref": "4.3.11.6",
+     "title": "§. 6.SECT. VI.",
+     "segments": 1
+    },
+    {
+     "file": "0384.json",
+     "ref": "4.3.11.7",
+     "title": "SECT. VII.§. 7.",
+     "segments": 1
+    },
+    {
+     "file": "0385.json",
+     "ref": "4.3.11.8",
+     "title": "§. 8.SECT. VIII.",
+     "segments": 1
+    },
+    {
+     "file": "0386.json",
+     "ref": "4.3.11.9",
+     "title": "SECT. IX.§. 9.",
+     "segments": 1
+    },
+    {
+     "file": "0387.json",
+     "ref": "4.3.11.10",
+     "title": "SECT. X.§. 10.",
+     "segments": 4
+    },
+    {
+     "file": "0388.json",
+     "ref": "4.3.11.11",
+     "title": "SECT. XI.§. 11.",
+     "segments": 1
+    },
+    {
+     "file": "0389.json",
+     "ref": "4.3.11.12",
+     "title": "§. 12.SECT. XII.",
+     "segments": 1
+    },
+    {
+     "file": "0390.json",
+     "ref": "4.3.11.13",
+     "title": "§. 13.SECT. XIII.",
+     "segments": 1
+    },
+    {
+     "file": "0391.json",
+     "ref": "4.3.11.14",
+     "title": "§. 14.SECT. XIIII.",
+     "segments": 3
+    },
+    {
+     "file": "0392.json",
+     "ref": "4.3.12.1",
+     "title": "SECT. 1.§. 1.",
+     "segments": 4
+    },
+    {
+     "file": "0393.json",
+     "ref": "4.3.12.2",
+     "title": "§. 2.SECT. II.",
+     "segments": 3
+    },
+    {
+     "file": "0394.json",
+     "ref": "4.3.12.3",
+     "title": "§. 3.SECT. III.",
+     "segments": 1
+    },
+    {
+     "file": "0395.json",
+     "ref": "4.3.12.4",
+     "title": "SECT. IV.§. 4.",
+     "segments": 1
+    },
+    {
+     "file": "0396.json",
+     "ref": "4.3.13.1",
+     "title": "SECT. I.§. 1.",
+     "segments": 4
+    },
+    {
+     "file": "0397.json",
+     "ref": "4.3.14.1",
+     "title": "§. 2.SECT. II.",
+     "segments": 32
+    },
+    {
+     "file": "0398.json",
+     "ref": "4.4",
+     "title": "The Conclusion.",
+     "segments": 18
+    },
+    {
+     "file": "0399.json",
+     "ref": "4.5",
+     "title": "BROVGHTON In the Conclusion of His Concent of Scripture: Concerning the New-Jerusalem, and the Everlasting Sabbatism meant in my Text, as begun here, and perfected in Heaven.",
+     "segments": 1
+    },
+    {
+     "file": "0400.json",
+     "ref": "4.6",
+     "title": "A Poem of Master I. Herberts in his Temple.",
+     "segments": 14
+    }
+   ]
+  }
+ ]
+}

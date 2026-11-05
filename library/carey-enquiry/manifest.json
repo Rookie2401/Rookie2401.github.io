@@ -1,0 +1,103 @@
+{
+ "workId": "carey-enquiry",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "carey-enquiry-gutenberg",
+   "role": "english",
+   "language": "english",
+   "credit": "An Enquiry into the Obligations of Christians, to Use Means for the Conversion of the Heathens, in Project Gutenberg eBook #11449 (Leicester: Ann Ireland (per the Internet Archive record of the 1792 edition; the Gutenberg file names no imprint), 1792). Transcription: Project Gutenberg volunteers (Online Distributed Proofreading Team) (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/11449/pg11449.txt",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 117565,
+   "sourceSha256": "7f6b57e43173550f74ac824cf22427ef3a65023b9ceffc24851321d80a1d5476",
+   "leftOut": {
+    "noteMark": 5,
+    "note": 5
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "https://www.gutenberg.org/cache/epub/11449/pg11449.txt",
+     "bytes": 117565,
+     "sha256": "7f6b57e43173550f74ac824cf22427ef3a65023b9ceffc24851321d80a1d5476"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "s4",
+     "title": "CONVERSION OF THE HEATHENS.",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "s5",
+     "title": "BY WILLIAM CAREY.",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "s8",
+     "title": "INTRODUCTION",
+     "segments": 5
+    },
+    {
+     "file": "0004.json",
+     "ref": "s9",
+     "title": "SECT. I.",
+     "segments": 8
+    },
+    {
+     "file": "0005.json",
+     "ref": "s10",
+     "title": "SECT. II.",
+     "segments": 35
+    },
+    {
+     "file": "0006.json",
+     "ref": "s11",
+     "title": "SECT. III.",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "s12",
+     "title": "EUROPE.",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "s13",
+     "title": "ASIA.",
+     "segments": 10
+    },
+    {
+     "file": "0009.json",
+     "ref": "s14",
+     "title": "AFRICA.",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "s15",
+     "title": "AMERICA.",
+     "segments": 15
+    },
+    {
+     "file": "0011.json",
+     "ref": "s16",
+     "title": "SECT. IV.",
+     "segments": 12
+    },
+    {
+     "file": "0012.json",
+     "ref": "s17",
+     "title": "SECT.  V.",
+     "segments": 19
+    }
+   ]
+  }
+ ]
+}

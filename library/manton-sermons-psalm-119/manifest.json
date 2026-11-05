@@ -1,0 +1,2908 @@
+{
+ "workId": "manton-sermons-psalm-119",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "manton-psalm-119-1681-tcp",
+   "role": "english",
+   "language": "english",
+   "credit": "One hundred and ninety sermons on the hundred and nineteenth Psalm, in EEBO-TCP A51842 (London: T.P., sold by Michael Hide (Exeter), 1681). Transcription: Text Creation Partnership (EEBO-TCP Phase 1): keyboarded and encoded from page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A51842/master/A51842.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 7222761,
+   "sourceSha256": "5b0e734ab59b2c9da1c742981e496cc048e31b84c3561eb7647305e7e62b3123",
+   "leftOut": {
+    "pb": 1274,
+    "unread": 817
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 1083860,
+    "unreadPerThousand": 0.8
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "To the READER.",
+     "segments": 3
+    },
+    {
+     "file": "0002.json",
+     "ref": "front.2",
+     "title": "front.2",
+     "segments": 9
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.1.0",
+     "title": "SERMON I.",
+     "segments": 14
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.1.1",
+     "title": "Doct. 2. That sincere, constant, uniform obedience to Gods Law, is the only way to true blessedness.",
+     "segments": 29
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.2.0",
+     "title": "SERMON II.",
+     "segments": 3
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.2.1",
+     "title": "Doct. 1. They that keep close to Gods testimonies, are blessed.",
+     "segments": 20
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.2.2",
+     "title": "Doct. 2. Those that would be blessed, must make this their business, sincerely to seek after God.",
+     "segments": 7
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.3.0",
+     "title": "SERMON III.",
+     "segments": 15
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.3.1",
+     "title": "Doct. Whoever would seek God aright, they must seek him with their whole heart.",
+     "segments": 16
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.4.0",
+     "title": "SERMON IV.",
+     "segments": 9
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.4.1",
+     "title": "Doct. 1. They that are and shall be blessed are such as make it their business to avoid all sin.",
+     "segments": 30
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.4.2",
+     "title": "Doct. 2. It is not enough only to avoid evil, but we must do good.",
+     "segments": 5
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.5.0",
+     "title": "SERMON V.",
+     "segments": 4
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.5.1",
+     "title": "Doct. To gain the heart to a full obedience it is good to consider the authority of God in his Word.",
+     "segments": 21
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.5.2",
+     "title": "Doct. That we should not only do what God hath required, but we should do it diligently.",
+     "segments": 10
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.6.0",
+     "title": "SERMON VI.",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.6.1",
+     "title": "1. Note. That it is the use and duty of the people of God to turn precepts into prayers.",
+     "segments": 35
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.6.2",
+     "title": "The USES.",
+     "segments": 4
+    },
+    {
+     "file": "0019.json",
+     "ref": "7",
+     "title": "SERMON VII.",
+     "segments": 40
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.8.0",
+     "title": "SERMON VIII.",
+     "segments": 5
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.8.1",
+     "title": "Doct. Gods precepts are, and are so accounted of by his people as righteous judgments, or judgments of righteousness.",
+     "segments": 22
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.8.2",
+     "title": "Doct. The best of Gods servants are but Scholars and studients in the knowledg and obedience of his Word.",
+     "segments": 14
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.9.0",
+     "title": "SERMON IX.",
+     "segments": 5
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.9.1",
+     "title": "Doct. 1. That it is a great advantage to come to a resolution in a course of godliness.",
+     "segments": 14
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.9.2",
+     "title": "Doct. 2. Those that will keep Gods statutes, must flye to Gods help.",
+     "segments": 11
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.9.3",
+     "title": "Doct. 3. Though we flye to Gods help, yet sometimes God may withdraw and forsake us.",
+     "segments": 22
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.9.4",
+     "title": "Doct. 4. When God seemeth to forsake us and really doth so in part, yet we should pray that it be not an utter and total desertion.",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.10",
+     "title": "SERMON X.",
+     "segments": 31
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.11.0",
+     "title": "SERMON XI.",
+     "segments": 18
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.11.1",
+     "title": "Doct. We may mention the good which is wrought in us, and urge it to God in Prayer.",
+     "segments": 9
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.11.2",
+     "title": "Doct. 1. The more experience men have of the ways of God, the more sensible will they be of their readiness to wander.",
+     "segments": 8
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.11.3",
+     "title": "Doct. 2. It is God alone that can keep us from wandering.",
+     "segments": 3
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.12.0",
+     "title": "SERMON XII.",
+     "segments": 10
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.12.1",
+     "title": "Doct. 1. One duty and necessary practice of Gods children, is to hide the word in their hearts. Doct. 2. That in hiding the word in our hearts, there must be a right end; Our knowledg of it, and delig",
+     "segments": 26
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.12.2",
+     "title": "Doct. 2. In hiding the word in our hearts there must be a right end, our knowledg of it, and delight in it must be directed to practice.",
+     "segments": 4
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.13.0",
+     "title": "SERMON XIII.",
+     "segments": 12
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.13.1",
+     "title": "I. That God is over all, and above all; blessed enough in himself, and needeth nothing from us to add to his Happiness and Perfection.",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.13.2",
+     "title": "II. Though God stand in no need of us, yet he is willing to communicate his blessedness, and to make us happy in the enjoyment of himself.",
+     "segments": 7
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.13.3",
+     "title": "III. The Word of God, especially the Gospel-part doth only teach us the way how we may be blessed in the enjoyment of God.",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.13.4",
+     "title": "IV. If we would profit by the Word of God, we must go to God, and desire the light and strength of his grace.",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.13.5",
+     "title": "V. The more we are brought to attend upon the Word, and the more influence the Word hath upon us, the nearer the blessing.",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.13.6",
+     "title": "VI. It is not only an affront put upon God, but also a great wrong, to neglect the Word of God, and the way he preseribes, and to seek blessedness in temporal things.",
+     "segments": 7
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.13.7",
+     "title": "Doct. If we would know Gods statutes so as to keep them, we must be taught of God.",
+     "segments": 14
+    },
+    {
+     "file": "0044.json",
+     "ref": "1.14.0",
+     "title": "SERMON XIV.",
+     "segments": 15
+    },
+    {
+     "file": "0045.json",
+     "ref": "1.14.1",
+     "title": "Doct. It concerns all that fear God to declare upon meet occasions the Iudgments of his mouth.",
+     "segments": 22
+    },
+    {
+     "file": "0046.json",
+     "ref": "1.15.0",
+     "title": "SERMON XV.",
+     "segments": 4
+    },
+    {
+     "file": "0047.json",
+     "ref": "1.15.1",
+     "title": "Doct. A gracious heart finds more true joy in the way of Gods word, than in all worldly things whatsoever.",
+     "segments": 33
+    },
+    {
+     "file": "0048.json",
+     "ref": "1.16",
+     "title": "SERMON XVI.",
+     "segments": 37
+    },
+    {
+     "file": "0049.json",
+     "ref": "1.17.0",
+     "title": "SERMON XVII.",
+     "segments": 5
+    },
+    {
+     "file": "0050.json",
+     "ref": "1.17.1",
+     "title": "Doct. 1. One great respect which the Saints owe to the word of God, is to delight therein.",
+     "segments": 33
+    },
+    {
+     "file": "0051.json",
+     "ref": "1.17.2",
+     "title": "Doct. It standeth Gods children upon, to see that they do not forget the word.",
+     "segments": 16
+    },
+    {
+     "file": "0052.json",
+     "ref": "1.18",
+     "title": "SERMON XVIII.",
+     "segments": 42
+    },
+    {
+     "file": "0053.json",
+     "ref": "1.19.0",
+     "title": "SERMON XIX.",
+     "segments": 3
+    },
+    {
+     "file": "0054.json",
+     "ref": "1.19.1",
+     "title": "Doct. 1. That we need that God should open our eyes, if we would have a right understanding of his word.",
+     "segments": 33
+    },
+    {
+     "file": "0055.json",
+     "ref": "1.19.2",
+     "title": "Doct. 2. Those whose eyes are opened by God, they see wondrous things in his word, more than ever they thought.",
+     "segments": 7
+    },
+    {
+     "file": "0056.json",
+     "ref": "1.20.0",
+     "title": "SERMON XX.",
+     "segments": 8
+    },
+    {
+     "file": "0057.json",
+     "ref": "1.20.1",
+     "title": "Doct. Gods children are strangers upon earth, and do so account themselves.",
+     "segments": 43
+    },
+    {
+     "file": "0058.json",
+     "ref": "1.21.0",
+     "title": "SERMON XXI.",
+     "segments": 7
+    },
+    {
+     "file": "0059.json",
+     "ref": "1.21.1",
+     "title": "Doct. Gods children have a strong, constant, and earnest bent of affection towards his word.",
+     "segments": 41
+    },
+    {
+     "file": "0060.json",
+     "ref": "1.22.0",
+     "title": "SERMON XXII.",
+     "segments": 5
+    },
+    {
+     "file": "0061.json",
+     "ref": "1.22.1",
+     "title": "Doct. 1. That the worst sort of proud creatures are those that err from Gods Commandments.",
+     "segments": 27
+    },
+    {
+     "file": "0062.json",
+     "ref": "1.22.2",
+     "title": "Doct. 2. These proud are cursed. Or, Those that obstinately and impenitently continue in their sins, they are under a curse.",
+     "segments": 20
+    },
+    {
+     "file": "0063.json",
+     "ref": "1.22.3",
+     "title": "Doct. 3. The rebukes of Gods Providence upon impenitent sinners, they are of great use to the Saints.",
+     "segments": 5
+    },
+    {
+     "file": "0064.json",
+     "ref": "1.23.0",
+     "title": "SERMON XXIII.",
+     "segments": 7
+    },
+    {
+     "file": "0065.json",
+     "ref": "1.23.1",
+     "title": "Doct. That reproaches are an usual, but yet a great and grievous affliction to the children of God. I will shew,",
+     "segments": 33
+    },
+    {
+     "file": "0066.json",
+     "ref": "1.24.0",
+     "title": "SERMON XXIV.",
+     "segments": 16
+    },
+    {
+     "file": "0067.json",
+     "ref": "1.24.1",
+     "title": "Doct. It is many times the lot of Gods people, that Princes do sit and speak against them in Councils, and upon the Throne of Iudgment.",
+     "segments": 20
+    },
+    {
+     "file": "0068.json",
+     "ref": "1.24.2",
+     "title": "Doct. The best way to ease the heart from trouble that doth arise from the opposition of men of Power and Place, is by serious consulting with Gods word.",
+     "segments": 12
+    },
+    {
+     "file": "0069.json",
+     "ref": "1.25.0",
+     "title": "SERMON XXV.",
+     "segments": 6
+    },
+    {
+     "file": "0070.json",
+     "ref": "1.25.1",
+     "title": "Doct. That a child of God though under deep affliction, finds a great deal of delight and comfort in the word of God.",
+     "segments": 26
+    },
+    {
+     "file": "0071.json",
+     "ref": "1.25.2",
+     "title": "Doct. 2. That one great benefit we have from the word of God, is counsel how to direct our affairs according to his will.",
+     "segments": 23
+    },
+    {
+     "file": "0072.json",
+     "ref": "1.26",
+     "title": "SERMON XXVI.",
+     "segments": 47
+    },
+    {
+     "file": "0073.json",
+     "ref": "1.27.0",
+     "title": "SERMON XXVII.",
+     "segments": 3
+    },
+    {
+     "file": "0074.json",
+     "ref": "1.27.1",
+     "title": "Doct. They that would speed with God, should learn this point of Christian ingenuity, unfeignedly to lay open their whole case to him.",
+     "segments": 26
+    },
+    {
+     "file": "0075.json",
+     "ref": "1.27.2",
+     "title": "Doct. After an ingenuous and open declaration of our selves to God, we find audience with him.",
+     "segments": 17
+    },
+    {
+     "file": "0076.json",
+     "ref": "1.27.3",
+     "title": "Doct. 1. Those that have sped with God in one address, they will be dealing with God for more mercy: For so doth David. The reason is,",
+     "segments": 5
+    },
+    {
+     "file": "0077.json",
+     "ref": "1.27.4",
+     "title": "Doct. 2. They that upon declaring their ways have found mercy with God, their care should be to walk worthy of the mercy.",
+     "segments": 4
+    },
+    {
+     "file": "0078.json",
+     "ref": "1.28.0",
+     "title": "SERMON XXVIII.",
+     "segments": 5
+    },
+    {
+     "file": "0079.json",
+     "ref": "1.28.1",
+     "title": "Doct. That a sound and saving knowledg of the Truths of the Gospel, is such a blessing as the children and people of God think they can never enough ask of him.",
+     "segments": 29
+    },
+    {
+     "file": "0080.json",
+     "ref": "1.29.0",
+     "title": "SERMON XXIX.",
+     "segments": 3
+    },
+    {
+     "file": "0081.json",
+     "ref": "1.29.1",
+     "title": "Doct. That Gods children oftentimes lye under the exercise of such deep and pressing sorrow as is not incident to other men.",
+     "segments": 14
+    },
+    {
+     "file": "0082.json",
+     "ref": "1.29.2",
+     "title": "Doct. 1. Observe this in the general, He doth but now and then drop out a request for temporal safety; but all along his main desire is for grace, and for support, rather than deliverance.",
+     "segments": 32
+    },
+    {
+     "file": "0083.json",
+     "ref": "1.30.0",
+     "title": "SERMON XXX.",
+     "segments": 12
+    },
+    {
+     "file": "0084.json",
+     "ref": "1.30.1",
+     "title": "Doct. That lying, especially a way or course of lying should be far from Gods people.",
+     "segments": 37
+    },
+    {
+     "file": "0085.json",
+     "ref": "1.31.0",
+     "title": "SERMON XXXI.",
+     "segments": 7
+    },
+    {
+     "file": "0086.json",
+     "ref": "1.31.1",
+     "title": "Doct. 1. That there being many crooked paths in the world, it concerns us to chuse the way of Truth.",
+     "segments": 14
+    },
+    {
+     "file": "0087.json",
+     "ref": "1.31.2",
+     "title": "Object. But is every private Christian bound to study Controversie, so as to be able to answer all the adversaries of the Truth?",
+     "segments": 15
+    },
+    {
+     "file": "0088.json",
+     "ref": "1.32.0",
+     "title": "SERMON XXXII.",
+     "segments": 2
+    },
+    {
+     "file": "0089.json",
+     "ref": "1.32.1",
+     "title": "Obj. But if you be so earnest to maintain unity among your own Sects, why do you separate from the Papists, who are Christians as well as you, and own many things of Christianity wherein you may agree",
+     "segments": 33
+    },
+    {
+     "file": "0090.json",
+     "ref": "1.32.2",
+     "title": "Doct. 2. When we have chosen the way of truth, or taken up the profession of the true Religion, the rules of it should be ever before us.",
+     "segments": 9
+    },
+    {
+     "file": "0091.json",
+     "ref": "1.33.0",
+     "title": "SERMON XXXIII.",
+     "segments": 5
+    },
+    {
+     "file": "0092.json",
+     "ref": "1.33.1",
+     "title": "Doct. Those that have chosen the way of God, and begin to conform their practice thereunto, ought with all constancy to persevere therein.",
+     "segments": 26
+    },
+    {
+     "file": "0093.json",
+     "ref": "1.33.2",
+     "title": "Doct. The fruit of sin is shame.",
+     "segments": 3
+    },
+    {
+     "file": "0094.json",
+     "ref": "1.33.3",
+     "title": "Doct. A man that hath long kept close to God in the way of his testimonies, yet he should pray to be kept from falling into shameful sin. Why?",
+     "segments": 6
+    },
+    {
+     "file": "0095.json",
+     "ref": "1.34.0",
+     "title": "SERMON XXXIV.",
+     "segments": 5
+    },
+    {
+     "file": "0096.json",
+     "ref": "1.34.1",
+     "title": "Doct. Enlargement of heart is a blessing necessary for them that would keep God's Laws.",
+     "segments": 31
+    },
+    {
+     "file": "0097.json",
+     "ref": "1.35",
+     "title": "SERMON XXXV.",
+     "segments": 32
+    },
+    {
+     "file": "0098.json",
+     "ref": "1.36.0",
+     "title": "SERMON XXXVI.",
+     "segments": 9
+    },
+    {
+     "file": "0099.json",
+     "ref": "1.36.1",
+     "title": "2. Doct. Divine Teaching is necessary for all those that would walk in the way of Gods Statutes.",
+     "segments": 25
+    },
+    {
+     "file": "0100.json",
+     "ref": "1.36.2",
+     "title": "2. Doct. That Divine Teaching is earnestly desired by Gods children.",
+     "segments": 6
+    },
+    {
+     "file": "0101.json",
+     "ref": "1.36.3",
+     "title": "Doct. 3. All that teaching that we expect or get from God, must still be directed to Practice. Teach me O Lord the way of thy statutes, and I shall keep it unto the end.",
+     "segments": 6
+    },
+    {
+     "file": "0102.json",
+     "ref": "1.36.4",
+     "title": "Doct. IV. In this practice we must be sincere and constant, I will keep it.",
+     "segments": 4
+    },
+    {
+     "file": "0103.json",
+     "ref": "1.37.0",
+     "title": "SERMON XXXVII.",
+     "segments": 13
+    },
+    {
+     "file": "0104.json",
+     "ref": "1.37.1",
+     "title": "Doct. They that have understanding given by God will keep his law.",
+     "segments": 7
+    },
+    {
+     "file": "0105.json",
+     "ref": "1.38.0",
+     "title": "SERMON XXXVIII.",
+     "segments": 2
+    },
+    {
+     "file": "0106.json",
+     "ref": "1.38.1",
+     "title": "Doct. That it is not enough to keep Gods law, but we must keep it with the whole heart.",
+     "segments": 15
+    },
+    {
+     "file": "0107.json",
+     "ref": "1.38.2",
+     "title": "Use 1. Is to reprove those that do not give God the heart in their service. 2ly. Not the whole heart.",
+     "segments": 5
+    },
+    {
+     "file": "0108.json",
+     "ref": "1.38.3",
+     "title": "Use 2. Is to press you to give up the whole heart to God in a course of obedience.",
+     "segments": 4
+    },
+    {
+     "file": "0109.json",
+     "ref": "1.39.0",
+     "title": "SERMON XXXIX.",
+     "segments": 7
+    },
+    {
+     "file": "0110.json",
+     "ref": "1.39.1",
+     "title": "Doct. 1. For the first, That God from first to last doth make us to go in the path of his Commandments.",
+     "segments": 12
+    },
+    {
+     "file": "0111.json",
+     "ref": "1.39.2",
+     "title": "Object. I, but are we to do nothing when we are indisposed?",
+     "segments": 12
+    },
+    {
+     "file": "0112.json",
+     "ref": "1.39.3",
+     "title": "Doct. 2. That they which delight in Gods Commandments will beg his gracious assistance, and are most likely to speed in their requests.",
+     "segments": 18
+    },
+    {
+     "file": "0113.json",
+     "ref": "1.40.0",
+     "title": "SERMON XL.",
+     "segments": 16
+    },
+    {
+     "file": "0114.json",
+     "ref": "1.40.1",
+     "title": "Doct. That it is God alone that sets our hearts right, or inclines them from their carnal bent, to his own testimonies.",
+     "segments": 18
+    },
+    {
+     "file": "0115.json",
+     "ref": "1.41.0",
+     "title": "SERMON XLI.",
+     "segments": 1
+    },
+    {
+     "file": "0116.json",
+     "ref": "1.41.1",
+     "title": "DOCTRINE 2.",
+     "segments": 34
+    },
+    {
+     "file": "0117.json",
+     "ref": "1.42.0",
+     "title": "SERMON XLII.",
+     "segments": 7
+    },
+    {
+     "file": "0118.json",
+     "ref": "1.42.1",
+     "title": "Doct. It concerneth those that would walk with God, to have their Eyes turned away from worldly things. I shall give you the meaning in these Propositions.",
+     "segments": 18
+    },
+    {
+     "file": "0119.json",
+     "ref": "1.42.2",
+     "title": "Doct. Quickning is very necessary for them that would walk in Gods ways.",
+     "segments": 15
+    },
+    {
+     "file": "0120.json",
+     "ref": "1.43.0",
+     "title": "SERMON XLIII.",
+     "segments": 27
+    },
+    {
+     "file": "0121.json",
+     "ref": "1.43.1",
+     "title": "Doct. That Particular Application of general Promises is necessary.",
+     "segments": 2
+    },
+    {
+     "file": "0122.json",
+     "ref": "1.43.2",
+     "title": "Doct. He that is a Servant of God may seek and expect Grace from him.",
+     "segments": 20
+    },
+    {
+     "file": "0123.json",
+     "ref": "1.44",
+     "title": "SERMON XLIV.",
+     "segments": 44
+    },
+    {
+     "file": "0124.json",
+     "ref": "1.45.0",
+     "title": "SERMON XLV.",
+     "segments": 4
+    },
+    {
+     "file": "0125.json",
+     "ref": "1.45.1",
+     "title": "Doct. 1. To love and long for a holy, and perfect, and intire Subjection to the Will of God is a good frame of heart.",
+     "segments": 22
+    },
+    {
+     "file": "0126.json",
+     "ref": "1.46.0",
+     "title": "SERMON XLVI.",
+     "segments": 17
+    },
+    {
+     "file": "0127.json",
+     "ref": "1.46.1",
+     "title": "Doct. 2. Those that indeed long for Holiness, will see a need of new quickning.",
+     "segments": 23
+    },
+    {
+     "file": "0128.json",
+     "ref": "1.47.0",
+     "title": "SERMON XLVII",
+     "segments": 2
+    },
+    {
+     "file": "0129.json",
+     "ref": "1.47.1",
+     "title": "Doct. That the Salvation of God is the fruit of his Mercy, and effectually dispensed and applied to his People according to his Word. There is a twofold Salvation. Temporal and Eternal.",
+     "segments": 42
+    },
+    {
+     "file": "0130.json",
+     "ref": "1.48.0",
+     "title": "SERMON XLVIII.",
+     "segments": 39
+    },
+    {
+     "file": "0131.json",
+     "ref": "1.48.1",
+     "title": "II. Doct. Those that do trust in God must look to be Reproached for it by carnal Men.",
+     "segments": 4
+    },
+    {
+     "file": "0132.json",
+     "ref": "1.48.2",
+     "title": "Doct. III. That these Reproaches are grievous to Gods Children, and go near their hearts, therefore David desires God to appear for him, that they may have somewhat to answer them that Reproached him.",
+     "segments": 10
+    },
+    {
+     "file": "0133.json",
+     "ref": "1.49.0",
+     "title": "SERMON XLIX.",
+     "segments": 38
+    },
+    {
+     "file": "0134.json",
+     "ref": "1.49.1",
+     "title": "Doct. II. Such Tryals may befall Gods Children that the word of Truth may seem to be taken out of their Mouths.",
+     "segments": 3
+    },
+    {
+     "file": "0135.json",
+     "ref": "1.49.2",
+     "title": "Doct. III. At such a time God must be dealt withal about it, upon two grounds.",
+     "segments": 8
+    },
+    {
+     "file": "0136.json",
+     "ref": "1.49.3",
+     "title": "Doct. IV. We should not give over dealing with God though he is pleased to desert us in some passages of our Tryals that he may not forsake us utterly.",
+     "segments": 2
+    },
+    {
+     "file": "0137.json",
+     "ref": "1.49.4",
+     "title": "Doct. V. They will not be utterly overcome in their Tryals that hope in Gods Iudgments. Why?",
+     "segments": 4
+    },
+    {
+     "file": "0138.json",
+     "ref": "1.50.0",
+     "title": "SERMON L.",
+     "segments": 12
+    },
+    {
+     "file": "0139.json",
+     "ref": "1.50.1",
+     "title": "Doct. Constancy and Perseverance in Obedience, is the Commendation of it.",
+     "segments": 40
+    },
+    {
+     "file": "0140.json",
+     "ref": "1.51",
+     "title": "SERMON LI.",
+     "segments": 24
+    },
+    {
+     "file": "0141.json",
+     "ref": "1.52",
+     "title": "SERMON LII.",
+     "segments": 49
+    },
+    {
+     "file": "0142.json",
+     "ref": "1.53",
+     "title": "SERMON LIII.",
+     "segments": 30
+    },
+    {
+     "file": "0143.json",
+     "ref": "1.54",
+     "title": "SERMON LIV.",
+     "segments": 58
+    },
+    {
+     "file": "0144.json",
+     "ref": "1.55",
+     "title": "SERMON LV.",
+     "segments": 36
+    },
+    {
+     "file": "0145.json",
+     "ref": "1.56",
+     "title": "SERMON LVI.",
+     "segments": 50
+    },
+    {
+     "file": "0146.json",
+     "ref": "1.57",
+     "title": "SERMON LVII.",
+     "segments": 50
+    },
+    {
+     "file": "0147.json",
+     "ref": "1.58",
+     "title": "SERMON LVIII.",
+     "segments": 40
+    },
+    {
+     "file": "0148.json",
+     "ref": "1.59",
+     "title": "SERMON LIX.",
+     "segments": 42
+    },
+    {
+     "file": "0149.json",
+     "ref": "1.60",
+     "title": "SERMON LX.",
+     "segments": 55
+    },
+    {
+     "file": "0150.json",
+     "ref": "1.61.0",
+     "title": "SERMON LXI.",
+     "segments": 39
+    },
+    {
+     "file": "0151.json",
+     "ref": "1.61.1",
+     "title": "2. Doctr. God is best Remembred when his Name is studied.",
+     "segments": 8
+    },
+    {
+     "file": "0152.json",
+     "ref": "1.62",
+     "title": "SERMON LXII.",
+     "segments": 32
+    },
+    {
+     "file": "0153.json",
+     "ref": "1.63",
+     "title": "SERMON LXIII.",
+     "segments": 30
+    },
+    {
+     "file": "0154.json",
+     "ref": "1.64.0",
+     "title": "SERMON LXIV.",
+     "segments": 11
+    },
+    {
+     "file": "0155.json",
+     "ref": "1.64.1",
+     "title": "Doct. 1. That God alone is the Godly Mans Portion.",
+     "segments": 26
+    },
+    {
+     "file": "0156.json",
+     "ref": "1.64.2",
+     "title": "Doct. 2. Those which have chosen God for their Portion will manifest it by a fixed Resolution, and strict care of Obedience.",
+     "segments": 6
+    },
+    {
+     "file": "0157.json",
+     "ref": "1.65.0",
+     "title": "SERMON LXV.",
+     "segments": 4
+    },
+    {
+     "file": "0158.json",
+     "ref": "1.65.1",
+     "title": "Doct. Gods People, those that have made him their Portion, they earnestly, and constantly, above all things, desire his Favour.",
+     "segments": 14
+    },
+    {
+     "file": "0159.json",
+     "ref": "1.65.2",
+     "title": "Doct. When we pray for the Favour of God, it must be with our whole heart.",
+     "segments": 10
+    },
+    {
+     "file": "0160.json",
+     "ref": "1.66.0",
+     "title": "SERMON LXVI.",
+     "segments": 5
+    },
+    {
+     "file": "0161.json",
+     "ref": "1.66.1",
+     "title": "Doct. That serious Consideration of our own Ways maketh way for sound Conversion to God.",
+     "segments": 43
+    },
+    {
+     "file": "0162.json",
+     "ref": "1.67.0",
+     "title": "SERMON LXVII.",
+     "segments": 2
+    },
+    {
+     "file": "0163.json",
+     "ref": "1.67.1",
+     "title": "Doct. That the call of God whether to amendment and newness of Life, or to any particular Duty must be without delay obeyed.",
+     "segments": 26
+    },
+    {
+     "file": "0164.json",
+     "ref": "1.68",
+     "title": "SERMON LXVIII.",
+     "segments": 34
+    },
+    {
+     "file": "0165.json",
+     "ref": "1.69.0",
+     "title": "SERMON LXIX.",
+     "segments": 6
+    },
+    {
+     "file": "0166.json",
+     "ref": "1.69.1",
+     "title": "Doct. That no temporal loss which can accrue to us by the violence of evil men should make us forsake our duty to God.",
+     "segments": 33
+    },
+    {
+     "file": "0167.json",
+     "ref": "1.70.0",
+     "title": "SERMON LXX.",
+     "segments": 36
+    },
+    {
+     "file": "0168.json",
+     "ref": "1.70.1",
+     "title": "3 Doct. That an heart deeply affected with God's Providence will take all occasions to praise and give thanks.",
+     "segments": 10
+    },
+    {
+     "file": "0169.json",
+     "ref": "1.71.0",
+     "title": "SERMON LXXI.",
+     "segments": 28
+    },
+    {
+     "file": "0170.json",
+     "ref": "1.71.1",
+     "title": "2 Doct. That we should associate our selves, and keep communion with those who are truly gracious.",
+     "segments": 25
+    },
+    {
+     "file": "0171.json",
+     "ref": "1.72",
+     "title": "SERMON LXXII.",
+     "segments": 33
+    },
+    {
+     "file": "0172.json",
+     "ref": "1.73",
+     "title": "SERMON LXXIII.",
+     "segments": 46
+    },
+    {
+     "file": "0173.json",
+     "ref": "1.74.0",
+     "title": "SERMON LXXIV.",
+     "segments": 4
+    },
+    {
+     "file": "0174.json",
+     "ref": "1.74.1",
+     "title": "Doct. That a judicious sound mind is a great Blessing, and should earnestly be sought of God by all that would please him.",
+     "segments": 23
+    },
+    {
+     "file": "0175.json",
+     "ref": "1.75.0",
+     "title": "SERMON LXXV.",
+     "segments": 6
+    },
+    {
+     "file": "0176.json",
+     "ref": "1.75.1",
+     "title": "Doct. That the Commandments of God must be believed as well as his Promises. Or, The Precepts of Sanctity and Holiness bind the Conscience to obey God as well as the Promises bind us to trust in God.",
+     "segments": 34
+    },
+    {
+     "file": "0177.json",
+     "ref": "1.76.0",
+     "title": "SERMON LXXVI.",
+     "segments": 9
+    },
+    {
+     "file": "0178.json",
+     "ref": "1.76.1",
+     "title": "Doctr. That the end of God's afflicting, is to reduce his afflicted and straying▪ People into the right way.",
+     "segments": 24
+    },
+    {
+     "file": "0179.json",
+     "ref": "1.77.0",
+     "title": "SERMON LXXVII.",
+     "segments": 3
+    },
+    {
+     "file": "0180.json",
+     "ref": "1.77.1",
+     "title": "Doctr. It becometh all those that have to doe with God, to have a deep sense of his Goodness.",
+     "segments": 36
+    },
+    {
+     "file": "0181.json",
+     "ref": "1.78.0",
+     "title": "SERMON LXXVIII.",
+     "segments": 2
+    },
+    {
+     "file": "0182.json",
+     "ref": "1.78.1",
+     "title": "Doctr. One chief thing which they that believe, and have a sufficient apprehension of God's Goodness, should seek of him in this world is, Understanding, and keeping the way of Salvation.",
+     "segments": 23
+    },
+    {
+     "file": "0183.json",
+     "ref": "1.79.0",
+     "title": "SERMON LXXIX.",
+     "segments": 3
+    },
+    {
+     "file": "0184.json",
+     "ref": "1.79.1",
+     "title": "Doctr. That affliction, all things considered, is rather good than evil.",
+     "segments": 32
+    },
+    {
+     "file": "0185.json",
+     "ref": "1.80.0",
+     "title": "SERMON LXXX.",
+     "segments": 9
+    },
+    {
+     "file": "0186.json",
+     "ref": "1.80.1",
+     "title": "Doctr. The Word of God is dearer to a gracious heart than all the Riches in the World.",
+     "segments": 28
+    },
+    {
+     "file": "0187.json",
+     "ref": "1.81.0",
+     "title": "SERMON LXXXI.",
+     "segments": 4
+    },
+    {
+     "file": "0188.json",
+     "ref": "1.81.1",
+     "title": "Doctr. That as we are Creatures, we are some way incouraged to ask of God the Grace of the New Creature.",
+     "segments": 23
+    },
+    {
+     "file": "0189.json",
+     "ref": "1.82",
+     "title": "SERMON LXXXII.",
+     "segments": 20
+    },
+    {
+     "file": "0190.json",
+     "ref": "1.83.0",
+     "title": "SERMON LXXXIII.",
+     "segments": 7
+    },
+    {
+     "file": "0191.json",
+     "ref": "1.83.1",
+     "title": "Doct. That it would much quiet the minds of the people of God about all the sad dispensations of his Providence, if they would seriously consider the justice and faithfulness of them.",
+     "segments": 32
+    },
+    {
+     "file": "0192.json",
+     "ref": "1.84.0",
+     "title": "SERMON LXXXIV.",
+     "segments": 6
+    },
+    {
+     "file": "0193.json",
+     "ref": "1.84.1",
+     "title": "Doct. That the people of God have liberty and much incouragement from God's mercifull Nature and Promises to ask comfort in their Afflictions.",
+     "segments": 32
+    },
+    {
+     "file": "0194.json",
+     "ref": "1.85",
+     "title": "SERMON LXXXV.",
+     "segments": 67
+    },
+    {
+     "file": "0195.json",
+     "ref": "1.86.0",
+     "title": "SERMON LXXXVI.",
+     "segments": 5
+    },
+    {
+     "file": "0196.json",
+     "ref": "1.86.1",
+     "title": "DOCT. That Pride puts wicked men upon being troublesom and injurious to the People of God.",
+     "segments": 27
+    },
+    {
+     "file": "0197.json",
+     "ref": "1.86.2",
+     "title": "DOCT. That when the Proud are troublesom, and injurious to God's People, they may boldly commend their Cause to God. The Reasons.",
+     "segments": 8
+    },
+    {
+     "file": "0198.json",
+     "ref": "1.87.0",
+     "title": "SERMON LXXXVII.",
+     "segments": 3
+    },
+    {
+     "file": "0199.json",
+     "ref": "1.87.1",
+     "title": "DOCT. It is a blessed thing when the Molestations we meet with in the World, do excite us to a more diligent study of the Word of God, and a greater mindfulness of spiritual and heavenly things.",
+     "segments": 39
+    },
+    {
+     "file": "0200.json",
+     "ref": "1.88.0",
+     "title": "SERMON LXXXVIII.",
+     "segments": 4
+    },
+    {
+     "file": "0201.json",
+     "ref": "1.88.1",
+     "title": "DOCT. That Sincerity and Soundness in an Holy Course is a great Blessing, and earnestly to be sought of God in Prayer.",
+     "segments": 37
+    },
+    {
+     "file": "0202.json",
+     "ref": "1.89.0",
+     "title": "SERMON LXXXIX.",
+     "segments": 9
+    },
+    {
+     "file": "0203.json",
+     "ref": "1.89.1",
+     "title": "I. DOCT. The Afflictions of God's People may be long and grievous, before any Comfort and Deliverance cometh.",
+     "segments": 19
+    },
+    {
+     "file": "0204.json",
+     "ref": "1.89.2",
+     "title": "II Doct. When Salvation is delayed, or Deliverance long a coming, the Soul fainteth.",
+     "segments": 16
+    },
+    {
+     "file": "0205.json",
+     "ref": "1.89.3",
+     "title": "III. DOCT. Though the Soul be in a fainting condition, yet it will accept of nothing but God's Salvation, [Thy] Salvation.",
+     "segments": 6
+    },
+    {
+     "file": "0206.json",
+     "ref": "1.89.4",
+     "title": "IV. DOCT. Hope keepeth us alive in the midst of Faintings. My soul fainteth: But I hope.",
+     "segments": 11
+    },
+    {
+     "file": "0207.json",
+     "ref": "1.89.5",
+     "title": "V. DOCT. This Hope is bred or nourished in us by the Word of God.",
+     "segments": 6
+    },
+    {
+     "file": "0208.json",
+     "ref": "1.90.0",
+     "title": "SERMON XC.",
+     "segments": 22
+    },
+    {
+     "file": "0209.json",
+     "ref": "1.90.1",
+     "title": "II. DOCT. Though his People wait for him, yet God may so long delay and suspend the performance of the Promises, till they count it an hopeless business.",
+     "segments": 21
+    },
+    {
+     "file": "0210.json",
+     "ref": "1.90.2",
+     "title": "III. DOCT. When our Hope and Help is delayed, we may complain to God for want of comfort.",
+     "segments": 12
+    },
+    {
+     "file": "0211.json",
+     "ref": "1.91.0",
+     "title": "SERMON XCI.",
+     "segments": 7
+    },
+    {
+     "file": "0212.json",
+     "ref": "1.91.1",
+     "title": "DOCT. That though our Tryals be never so sharp and tedious, yet this must not lessen our respect to God, or his Word.",
+     "segments": 27
+    },
+    {
+     "file": "0213.json",
+     "ref": "1.92",
+     "title": "SERMON XCII. On the Fifth of November, 1668.",
+     "segments": 55
+    },
+    {
+     "file": "0214.json",
+     "ref": "1.93",
+     "title": "SERMON XCIII.",
+     "segments": 44
+    },
+    {
+     "file": "0215.json",
+     "ref": "1.94.0",
+     "title": "SERMON XCIV.",
+     "segments": 4
+    },
+    {
+     "file": "0216.json",
+     "ref": "1.94.1",
+     "title": "DOCT. That God's Word is of an Eternal Truth and Immutable Constancy.",
+     "segments": 32
+    },
+    {
+     "file": "0217.json",
+     "ref": "1.95.0",
+     "title": "SERMON XCV.",
+     "segments": 2
+    },
+    {
+     "file": "0218.json",
+     "ref": "1.95.1",
+     "title": "DOCT. That in all Ages, God ever shewed himself a true God, and faithful in all his Promises. 'Tis here confirmed by Experience, and represented by an Emblem.",
+     "segments": 31
+    },
+    {
+     "file": "0219.json",
+     "ref": "1.96.0",
+     "title": "SERMON XCVI.",
+     "segments": 5
+    },
+    {
+     "file": "0220.json",
+     "ref": "1.96.1",
+     "title": "DOCT. That it is a great help to Faith, to consider God as the Omnipotent Creator, Preserver, and absolute Governor of the World, disposing of all things as he pleaseth.",
+     "segments": 34
+    },
+    {
+     "file": "0221.json",
+     "ref": "1.97.0",
+     "title": "SERMON XCVII.",
+     "segments": 14
+    },
+    {
+     "file": "0222.json",
+     "ref": "1.97.1",
+     "title": "DOCT. That the afflicted mans true consolation, is in the Word of God.",
+     "segments": 42
+    },
+    {
+     "file": "0223.json",
+     "ref": "1.98.0",
+     "title": "SERMON XCVIII.",
+     "segments": 9
+    },
+    {
+     "file": "0224.json",
+     "ref": "1.98.1",
+     "title": "Doct. Those that have received Comfort, Life, and Quickning by the Word of God, find themselves obliged to remember it for ever.",
+     "segments": 50
+    },
+    {
+     "file": "0225.json",
+     "ref": "1.99.0",
+     "title": "SERMON XCIX.",
+     "segments": 3
+    },
+    {
+     "file": "0226.json",
+     "ref": "1.99.1.0",
+     "title": "Doct. 1. That God hath a special People in the world, whom he will own for his.",
+     "segments": 6
+    },
+    {
+     "file": "0227.json",
+     "ref": "1.99.1.1",
+     "title": "USE I. For Tryal.",
+     "segments": 5
+    },
+    {
+     "file": "0228.json",
+     "ref": "1.99.1.2",
+     "title": "USE II. To persuade us to resign up our selves to God, and to live as those that are Gods.",
+     "segments": 16
+    },
+    {
+     "file": "0229.json",
+     "ref": "1.99.2.0",
+     "title": "Doct. 2. God's interest in his People, is the ground of his care for their safety.",
+     "segments": 9
+    },
+    {
+     "file": "0230.json",
+     "ref": "1.99.2.1",
+     "title": "USE.",
+     "segments": 3
+    },
+    {
+     "file": "0231.json",
+     "ref": "1.100",
+     "title": "SERMON C.",
+     "segments": 54
+    },
+    {
+     "file": "0232.json",
+     "ref": "1.101.0",
+     "title": "SERMON CI.",
+     "segments": 7
+    },
+    {
+     "file": "0233.json",
+     "ref": "1.101.1",
+     "title": "Doct. 1. That God's People have a great love to his Word; yea, such an hearty affection, as cannot easily be exprest.",
+     "segments": 23
+    },
+    {
+     "file": "0234.json",
+     "ref": "1.102.0",
+     "title": "SERMON CII.",
+     "segments": 20
+    },
+    {
+     "file": "0235.json",
+     "ref": "1.102.1",
+     "title": "Doct. 2. They that love the Word, will be meditating therein continually.",
+     "segments": 18
+    },
+    {
+     "file": "0236.json",
+     "ref": "1.103.0",
+     "title": "SERMON CIII.",
+     "segments": 3
+    },
+    {
+     "file": "0237.json",
+     "ref": "1.103.1",
+     "title": "Doct. That God, through his Commands, doth make his People wiser than their Enemies.",
+     "segments": 25
+    },
+    {
+     "file": "0238.json",
+     "ref": "1.104",
+     "title": "SERMON CIV.",
+     "segments": 25
+    },
+    {
+     "file": "0239.json",
+     "ref": "1.105",
+     "title": "SERMON CV.",
+     "segments": 23
+    },
+    {
+     "file": "0240.json",
+     "ref": "1.106.0",
+     "title": "SERMON CVI.",
+     "segments": 9
+    },
+    {
+     "file": "0241.json",
+     "ref": "1.106.1",
+     "title": "Doct. 1. That understanding gotten by the precepts of the Word, is better than understanding gotten by long experience. It is better in four regards.",
+     "segments": 8
+    },
+    {
+     "file": "0242.json",
+     "ref": "1.106.2",
+     "title": "Doct. 2. That young ones may have many times more of this wisdom, than those that are ancient.",
+     "segments": 19
+    },
+    {
+     "file": "0243.json",
+     "ref": "1.106.3",
+     "title": "Doct. 3. That the way to increase in spiritual understanding, is to be studious in practical holiness.",
+     "segments": 8
+    },
+    {
+     "file": "0244.json",
+     "ref": "1.107",
+     "title": "SERMON CVII.",
+     "segments": 38
+    },
+    {
+     "file": "0245.json",
+     "ref": "1.108",
+     "title": "SERMON CVIII.",
+     "segments": 29
+    },
+    {
+     "file": "0246.json",
+     "ref": "1.109.0",
+     "title": "SERMON CIX.",
+     "segments": 2
+    },
+    {
+     "file": "0247.json",
+     "ref": "1.109.1",
+     "title": "Doct. 1. That there is such a thing as spiritual taste.",
+     "segments": 37
+    },
+    {
+     "file": "0248.json",
+     "ref": "1.110.0",
+     "title": "SERMON CX.",
+     "segments": 19
+    },
+    {
+     "file": "0249.json",
+     "ref": "1.110.1",
+     "title": "Doct. By the Word of God we get that true sound wisdom, which maketh us to hate every false way.",
+     "segments": 13
+    },
+    {
+     "file": "0250.json",
+     "ref": "1.111",
+     "title": "SERMON CXI.",
+     "segments": 22
+    },
+    {
+     "file": "0251.json",
+     "ref": "1.112.0",
+     "title": "SERMON CXII.",
+     "segments": 5
+    },
+    {
+     "file": "0252.json",
+     "ref": "1.112.1",
+     "title": "Doct. That the Word of God is a clear and a full Rule to direct us, in all the conditions and affairs of the present life.",
+     "segments": 34
+    },
+    {
+     "file": "0253.json",
+     "ref": "1.113.0",
+     "title": "SERMON CXIII.",
+     "segments": 2
+    },
+    {
+     "file": "0254.json",
+     "ref": "1.113.1",
+     "title": "Object. 1. First, If it be so clear a Light, why do men so often mistake that have the Scriptures, and consult with them? yea, why is there such differences among good men?",
+     "segments": 8
+    },
+    {
+     "file": "0255.json",
+     "ref": "1.113.2",
+     "title": "Object. 2. If there be such a Light in the Scriptures, what need is there of the Spirit?",
+     "segments": 1
+    },
+    {
+     "file": "0256.json",
+     "ref": "1.113.3",
+     "title": "Object. 3. If the Scriptures be so plain, what need the Ministry? I answer:",
+     "segments": 5
+    },
+    {
+     "file": "0257.json",
+     "ref": "1.113.4",
+     "title": "Object. 4. It is said, 2 Pet. 3. 16. That there are some things hard to be understood, therefore how should it be a clear Rule to us? Thereupon many take occasion to tax the Scriptures of obscurity, a",
+     "segments": 2
+    },
+    {
+     "file": "0258.json",
+     "ref": "1.113.5",
+     "title": "Object. 5. Another Objection is from experience, a poor Christian complaineth, as Job 19. 8. He hath set darkness in my path that I cannot pass. They would fain know the mind of God in some particular",
+     "segments": 14
+    },
+    {
+     "file": "0259.json",
+     "ref": "1.114.0",
+     "title": "SERMON CXIV.",
+     "segments": 4
+    },
+    {
+     "file": "0260.json",
+     "ref": "1.114.1",
+     "title": "Doct. 1. That it concerns us sometimes to bind our selves to God, and the duty that we owe to him by an Oath.",
+     "segments": 13
+    },
+    {
+     "file": "0261.json",
+     "ref": "1.114.2.0",
+     "title": "Doct. 2. That this help of an Oath, or holy Vow, should be used in a matter lawful, weighty, necessary.",
+     "segments": 4
+    },
+    {
+     "file": "0262.json",
+     "ref": "1.114.2.1",
+     "title": "OBJECTION.",
+     "segments": 1
+    },
+    {
+     "file": "0263.json",
+     "ref": "1.114.2.2",
+     "title": "ANSWER.",
+     "segments": 6
+    },
+    {
+     "file": "0264.json",
+     "ref": "1.114.3",
+     "title": "Doct. 3. That when we have sworn Obedience to God, we must Religiously perform and observe what we have sworn to God.",
+     "segments": 4
+    },
+    {
+     "file": "0265.json",
+     "ref": "1.115.0",
+     "title": "SERMON CXV.",
+     "segments": 1
+    },
+    {
+     "file": "0266.json",
+     "ref": "1.115.1",
+     "title": "Doctr. 4. I Now come to the fourth Point: That our Oath of Obedience to God should be often revived and renewed upon us.",
+     "segments": 3
+    },
+    {
+     "file": "0267.json",
+     "ref": "1.115.2",
+     "title": "Quest. But when should we renew our Covenant, or our Oath of Allegiance to God?",
+     "segments": 24
+    },
+    {
+     "file": "0268.json",
+     "ref": "1.116.0",
+     "title": "SERMON CXVI.",
+     "segments": 3
+    },
+    {
+     "file": "0269.json",
+     "ref": "1.116.1",
+     "title": "Doct. God's People are liable to sad and sore afflictions here in the world.",
+     "segments": 8
+    },
+    {
+     "file": "0270.json",
+     "ref": "1.116.2",
+     "title": "Doct. The Afflictions of God's People may not only be many, but very sore and heavy.",
+     "segments": 19
+    },
+    {
+     "file": "0271.json",
+     "ref": "1.117.0",
+     "title": "SERMON CXVII.",
+     "segments": 4
+    },
+    {
+     "file": "0272.json",
+     "ref": "1.117.1",
+     "title": "Doct. We must not give over Prayer, though our afflictions be never so great and heavy. Why? because,",
+     "segments": 4
+    },
+    {
+     "file": "0273.json",
+     "ref": "1.117.2",
+     "title": "Doct. Strength and Support under Afflictions is a great Blessing, to be sought from God, and acknowledged as a Favor, as well as Deliverance.",
+     "segments": 5
+    },
+    {
+     "file": "0274.json",
+     "ref": "1.117.3",
+     "title": "Doct. Quickning Grace must be asked of God.",
+     "segments": 14
+    },
+    {
+     "file": "0275.json",
+     "ref": "1.118.0",
+     "title": "SERMON CXVIII.",
+     "segments": 5
+    },
+    {
+     "file": "0276.json",
+     "ref": "1.118.1",
+     "title": "Doct. 1. First, That God's People have their spiritual offerings. I shall give the sense of this Point in five Propositions.",
+     "segments": 26
+    },
+    {
+     "file": "0277.json",
+     "ref": "1.119.0",
+     "title": "SERMON CXIX.",
+     "segments": 9
+    },
+    {
+     "file": "0278.json",
+     "ref": "1.119.1",
+     "title": "Doct. 1. That such things may befal God's Children, that they may carry their Lives in their hands from day to day.",
+     "segments": 24
+    },
+    {
+     "file": "0279.json",
+     "ref": "1.119.2",
+     "title": "Doct. 2. That when our Souls are continually in our hands, no kind of danger should make us warp and turn aside from the direction of God's Word. Why?",
+     "segments": 20
+    },
+    {
+     "file": "0280.json",
+     "ref": "1.120.0",
+     "title": "SERMON CXX. On the Fifth of NOVEMBER.",
+     "segments": 2
+    },
+    {
+     "file": "0281.json",
+     "ref": "1.120.1",
+     "title": "Doct. The Godly have often Snares laid for them, not only by Satan, but by wicked men.",
+     "segments": 19
+    },
+    {
+     "file": "0282.json",
+     "ref": "1.120.2",
+     "title": "USE II. As they are Inticements to Sin, so we may make many uses of it.",
+     "segments": 5
+    },
+    {
+     "file": "0283.json",
+     "ref": "1.120.3",
+     "title": "Doct. It is the property of a wicked heart to plot, and lay snares for the mischief and ruine of others, especially God's People. David saith here, The wicked have laid snares for me.",
+     "segments": 9
+    },
+    {
+     "file": "0284.json",
+     "ref": "1.121",
+     "title": "SERMON CXXI.",
+     "segments": 18
+    },
+    {
+     "file": "0285.json",
+     "ref": "1.122.0",
+     "title": "SERMON CXXII.",
+     "segments": 17
+    },
+    {
+     "file": "0286.json",
+     "ref": "1.122.1",
+     "title": "Doct. 2. The taking of Gods Testimonies for our heritage, breeds joy and rejoycing in the heart.",
+     "segments": 5
+    },
+    {
+     "file": "0287.json",
+     "ref": "1.123.0",
+     "title": "SERMON CXXIII.",
+     "segments": 4
+    },
+    {
+     "file": "0288.json",
+     "ref": "1.123.1",
+     "title": "Doct. They that would sincerely and throughly obey God, must have an heart inclined to his Statutes.",
+     "segments": 21
+    },
+    {
+     "file": "0289.json",
+     "ref": "1.124.0",
+     "title": "SERMON CXXIV.",
+     "segments": 3
+    },
+    {
+     "file": "0290.json",
+     "ref": "1.124.1",
+     "title": "Doct. It is a sign of an unfeigned love to the Law of God, when we hate vain thoughts.",
+     "segments": 36
+    },
+    {
+     "file": "0291.json",
+     "ref": "1.125.0",
+     "title": "SERMON CXXV.",
+     "segments": 2
+    },
+    {
+     "file": "0292.json",
+     "ref": "1.125.1",
+     "title": "Doct. They that hope in Gods word for the protection which he hath promised, will find God to be a shield and a hiding place to them.",
+     "segments": 45
+    },
+    {
+     "file": "0293.json",
+     "ref": "1.126.0",
+     "title": "SERMON CXXVI.",
+     "segments": 7
+    },
+    {
+     "file": "0294.json",
+     "ref": "1.126.1",
+     "title": "Doctr. 1. They that would have God for their God, must keep his Commandments.",
+     "segments": 11
+    },
+    {
+     "file": "0295.json",
+     "ref": "1.126.2",
+     "title": "Doctr. 2. They that would keep the Commandments of God, must avoid the company of the wicked.",
+     "segments": 30
+    },
+    {
+     "file": "0296.json",
+     "ref": "1.127.0",
+     "title": "SERMON CXXVII.",
+     "segments": 5
+    },
+    {
+     "file": "0297.json",
+     "ref": "1.127.1",
+     "title": "Doctr. Sustaining Grace is necessary to the Saints: Confirmation in a state of Grace is as necessary to them, as Conversion to it.",
+     "segments": 23
+    },
+    {
+     "file": "0298.json",
+     "ref": "1.127.2",
+     "title": "Doctr. The Children of God do not count themselves to live, unless their spiritual life be kept in good plight.",
+     "segments": 9
+    },
+    {
+     "file": "0299.json",
+     "ref": "1.128.0",
+     "title": "SERMON CXXVIII.",
+     "segments": 24
+    },
+    {
+     "file": "0300.json",
+     "ref": "1.128.1",
+     "title": "Doctr. I. That sustaining Grace must be sought with all earnestness and importunity. Uphold me before, and now again, hold thou me up, and I shall be safe.",
+     "segments": 13
+    },
+    {
+     "file": "0301.json",
+     "ref": "1.128.2",
+     "title": "Doctr. 2. The constant safety of Gods people lies in sustaining Grace.",
+     "segments": 8
+    },
+    {
+     "file": "0302.json",
+     "ref": "1.128.3",
+     "title": "Doctr. 3. The more experience we have of Gods Grace in the preserving us from sin and danger, the more we should be encouraged in his ways. Why so?",
+     "segments": 6
+    },
+    {
+     "file": "0303.json",
+     "ref": "1.128.4",
+     "title": "Doctr. 4. Gods Precepts must be respected and consulted with, as the constant measure and direction of our lives.",
+     "segments": 1
+    },
+    {
+     "file": "0304.json",
+     "ref": "1.129.0",
+     "title": "SERMON CXXIX.",
+     "segments": 3
+    },
+    {
+     "file": "0305.json",
+     "ref": "1.129.1",
+     "title": "Doctr. Those that proudly erre from Gods Statutes, God can, hath and will soon pull them down with ignominy and contempt.",
+     "segments": 33
+    },
+    {
+     "file": "0306.json",
+     "ref": "1.129.2",
+     "title": "Doctr. All fraudulency and hypocrisy is hateful to God; therefore he will sooner or later discover and destroy those that practise it.",
+     "segments": 11
+    },
+    {
+     "file": "0307.json",
+     "ref": "1.130.0",
+     "title": "SERMON CXXX.",
+     "segments": 29
+    },
+    {
+     "file": "0308.json",
+     "ref": "1.130.1",
+     "title": "Doctr. A gracious heart that observeth the Providence of God, and the course of his judicial dispensations, will find more cause to love the word of God, than ever before.",
+     "segments": 9
+    },
+    {
+     "file": "0309.json",
+     "ref": "1.131.0",
+     "title": "SERMON CXXXI.",
+     "segments": 5
+    },
+    {
+     "file": "0310.json",
+     "ref": "1.131.1",
+     "title": "Doctr. That when God is angry, and his Iudgments are abroad in the world, it becometh his own people to observe them, and have a deep awe and sense thereof.",
+     "segments": 19
+    },
+    {
+     "file": "0311.json",
+     "ref": "1.132.0",
+     "title": "SERMON CXXXII.",
+     "segments": 4
+    },
+    {
+     "file": "0312.json",
+     "ref": "1.132.1",
+     "title": "Doctr. It is a comely property in Gods Children, and very comfortable to them to do judgment and justice.",
+     "segments": 30
+    },
+    {
+     "file": "0313.json",
+     "ref": "1.133.0",
+     "title": "SERMON CXXXIII.",
+     "segments": 4
+    },
+    {
+     "file": "0314.json",
+     "ref": "1.133.1",
+     "title": "Doctr. In deep distress we have leave and encouragement to desire God to interpose for his peoples relief.",
+     "segments": 19
+    },
+    {
+     "file": "0315.json",
+     "ref": "1.133.2",
+     "title": "Doctr. We should only desire the interposing of Gods Providence so as may be for good to us.",
+     "segments": 13
+    },
+    {
+     "file": "0316.json",
+     "ref": "1.134.0",
+     "title": "SERMON CXXXIV.",
+     "segments": 7
+    },
+    {
+     "file": "0317.json",
+     "ref": "1.134.1",
+     "title": "Doctr. Oppression is a very grievous evil, and often deprecated by the people of God.",
+     "segments": 18
+    },
+    {
+     "file": "0318.json",
+     "ref": "1.134.2",
+     "title": "Doctr. The proud are they that especially persecute the Godly.",
+     "segments": 4
+    },
+    {
+     "file": "0319.json",
+     "ref": "1.135.0",
+     "title": "SERMON CXXXV.",
+     "segments": 4
+    },
+    {
+     "file": "0320.json",
+     "ref": "1.135.1",
+     "title": "Doctr. That Gods word, wherein he hath promised deliverance to his suffering servants, is a word of righteousness.",
+     "segments": 29
+    },
+    {
+     "file": "0321.json",
+     "ref": "1.135.2",
+     "title": "Doctr. That sometimes Gods people wait so long, that their eyes even fail in waiting; that is, their faith, hope and patience is almost spent, and they are ready to give over looking.",
+     "segments": 14
+    },
+    {
+     "file": "0322.json",
+     "ref": "1.136.0",
+     "title": "SERMON CXXXVI.",
+     "segments": 4
+    },
+    {
+     "file": "0323.json",
+     "ref": "1.136.1",
+     "title": "Doctr. That Gods best servants have no other and no better plea, than that God would deal with them in mercy.",
+     "segments": 17
+    },
+    {
+     "file": "0324.json",
+     "ref": "1.136.2",
+     "title": "Doctr. 'Tis God must teach us his Statutes.",
+     "segments": 10
+    },
+    {
+     "file": "0325.json",
+     "ref": "1.136.3",
+     "title": "Doctr. Direction how to carry our selves in trouble, till the deliverance cometh, is a great mercy, and should be earnestly sought of God.",
+     "segments": 12
+    },
+    {
+     "file": "0326.json",
+     "ref": "1.136.4",
+     "title": "Doctr. When the Lord suspends the promised deliverance, the Godly suspect not the truth of his Word; but the darkness of their own unbelieving hearts.",
+     "segments": 2
+    },
+    {
+     "file": "0327.json",
+     "ref": "1.136.5",
+     "title": "Doct. They that would have mercy by the Covenant, must be earnest to be taught Gods Statutes.",
+     "segments": 6
+    },
+    {
+     "file": "0328.json",
+     "ref": "1.137.0",
+     "title": "SERMON CXXXVII.",
+     "segments": 4
+    },
+    {
+     "file": "0329.json",
+     "ref": "1.137.1",
+     "title": "Doctr. That 'tis a good Plea, when we want any mercy spiritual or temporal, to be able to plead that we are Gods servants.",
+     "segments": 28
+    },
+    {
+     "file": "0330.json",
+     "ref": "1.137.2",
+     "title": "Doctr. Gods best Servants think they can never enough beg Divine illumination.",
+     "segments": 15
+    },
+    {
+     "file": "0331.json",
+     "ref": "1.138.0",
+     "title": "SERMON CXXXVIII.",
+     "segments": 8
+    },
+    {
+     "file": "0332.json",
+     "ref": "1.138.1",
+     "title": "Doctr. That when a flood of wickedness is broken out, we may put God in mind of doing his work, of punishing the wicked, and delivering his people.",
+     "segments": 32
+    },
+    {
+     "file": "0333.json",
+     "ref": "1.139.0",
+     "title": "SERMON CXXXIX.",
+     "segments": 7
+    },
+    {
+     "file": "0334.json",
+     "ref": "1.139.1",
+     "title": "Doctr. The more others despise the ways and laws of God, the more should a gracious heart love and esteem them.",
+     "segments": 21
+    },
+    {
+     "file": "0335.json",
+     "ref": "1.139.2",
+     "title": "Doctr. We ought not only to love the word, but to love it above all worldly things whatsoever.",
+     "segments": 22
+    },
+    {
+     "file": "0336.json",
+     "ref": "1.140.0",
+     "title": "SERMON CXL.",
+     "segments": 5
+    },
+    {
+     "file": "0337.json",
+     "ref": "1.140.1",
+     "title": "Doctr. In times of defection, when others sleight, contemn and forsake the ways of God, we should approve and esteem them the more.",
+     "segments": 12
+    },
+    {
+     "file": "0338.json",
+     "ref": "1.140.2",
+     "title": "Doctr. That it becometh the people of God to have a practical heart-engaging esteem of all the precepts of God, and all things contained therein.",
+     "segments": 30
+    },
+    {
+     "file": "0339.json",
+     "ref": "1.140.3",
+     "title": "Doctr. That 'tis a good note of a renewed and obedient heart, to hate every false way.",
+     "segments": 15
+    },
+    {
+     "file": "0340.json",
+     "ref": "1.141.0",
+     "title": "SERMON CXLI.",
+     "segments": 5
+    },
+    {
+     "file": "0341.json",
+     "ref": "1.141.1",
+     "title": "Doctr. 1. The Testimonies of God are wonderful.",
+     "segments": 17
+    },
+    {
+     "file": "0342.json",
+     "ref": "1.142",
+     "title": "SERMON CXLII.",
+     "segments": 20
+    },
+    {
+     "file": "0343.json",
+     "ref": "1.143.0",
+     "title": "SERMON CXLIII.",
+     "segments": 15
+    },
+    {
+     "file": "0344.json",
+     "ref": "1.143.1",
+     "title": "Doctr. I. That in getting knowledge there is a Porch and Entrance that we must pass through, before we can attain to deeper matters.",
+     "segments": 8
+    },
+    {
+     "file": "0345.json",
+     "ref": "1.143.2",
+     "title": "Doctr. II. By the word of God we get light, or our understandings are enlightened. Prov. 6. 23. For the Commandment is a lamp, and the Law is light, and reproofs of instruction are the way of life.",
+     "segments": 13
+    },
+    {
+     "file": "0346.json",
+     "ref": "1.143.3",
+     "title": "Doctr. III. That the Scriptures are written so, that plain and private men may get this light and spiritual understanding by them. Psal. 19. 7. The Law of the Lord is perfect converting the soul; the ",
+     "segments": 10
+    },
+    {
+     "file": "0347.json",
+     "ref": "1.144.0",
+     "title": "SERMON CXLIV.",
+     "segments": 3
+    },
+    {
+     "file": "0348.json",
+     "ref": "1.144.1",
+     "title": "Doctr. That Gods Children have strong and vehement affections and desires after the comfort and benefit of the word of God.",
+     "segments": 28
+    },
+    {
+     "file": "0349.json",
+     "ref": "1.145.0",
+     "title": "SERMON CXLV.",
+     "segments": 10
+    },
+    {
+     "file": "0350.json",
+     "ref": "1.145.1",
+     "title": "Doctr. The Children of God apprehend it as a great favour, if he will but look upon them.",
+     "segments": 16
+    },
+    {
+     "file": "0351.json",
+     "ref": "1.145.2",
+     "title": "Doctr. Gods mercy is the cause of all his favour to us, or gracious dealing with us.",
+     "segments": 10
+    },
+    {
+     "file": "0352.json",
+     "ref": "1.146.0",
+     "title": "SERMON CXLVI.",
+     "segments": 4
+    },
+    {
+     "file": "0353.json",
+     "ref": "1.146.1",
+     "title": "Doctr. That there is a gracious way of right established between God and his people, according to which they may expect mercies.",
+     "segments": 24
+    },
+    {
+     "file": "0354.json",
+     "ref": "1.146.2",
+     "title": "Doctr. I. That it is Gods constant method to encourgae all those that serve him, by shewing to them all manner of expressions of favour and mercy.",
+     "segments": 14
+    },
+    {
+     "file": "0355.json",
+     "ref": "1.146.3",
+     "title": "Doctr. 2. Gods accustomed goodness, and gracious dispensations to his people throughout all Ages, should encourage us in waiting upon him and praying to him.",
+     "segments": 5
+    },
+    {
+     "file": "0356.json",
+     "ref": "1.146.4",
+     "title": "Doctr. 3. We should beg the favour of Gods people.",
+     "segments": 2
+    },
+    {
+     "file": "0357.json",
+     "ref": "1.146.5",
+     "title": "Doct. 4. We must not affect singularity of dispensations, but be content to be dealt with as others of Gods Children have been dealt with before us.",
+     "segments": 1
+    },
+    {
+     "file": "0358.json",
+     "ref": "1.147.0",
+     "title": "SERMON CXLVII.",
+     "segments": 11
+    },
+    {
+     "file": "0359.json",
+     "ref": "1.147.1",
+     "title": "Doctr. I. That there is a constant, daily necessity of Grace to direct and order our motions and actions according to the Word of God.",
+     "segments": 7
+    },
+    {
+     "file": "0360.json",
+     "ref": "1.148.0",
+     "title": "SERMON CXLVIII.",
+     "segments": 2
+    },
+    {
+     "file": "0361.json",
+     "ref": "1.148.1",
+     "title": "Doctr. 2. That the dominion of sin is a great evil, and ought earnestly to be deprecated, even by the Children of God.",
+     "segments": 29
+    },
+    {
+     "file": "0362.json",
+     "ref": "1.149",
+     "title": "SERMON CXLIX.",
+     "segments": 38
+    },
+    {
+     "file": "0363.json",
+     "ref": "1.150",
+     "title": "SERMON CL.",
+     "segments": 56
+    },
+    {
+     "file": "0364.json",
+     "ref": "1.151.0",
+     "title": "SERMON CLI.",
+     "segments": 6
+    },
+    {
+     "file": "0365.json",
+     "ref": "1.151.1",
+     "title": "Doctr. That it is the duty and property of a godly man to mourn bitterly, even for other mens sins.",
+     "segments": 24
+    },
+    {
+     "file": "0366.json",
+     "ref": "1.152",
+     "title": "SERMON CLII.",
+     "segments": 17
+    },
+    {
+     "file": "0367.json",
+     "ref": "1.153",
+     "title": "SERMON CLIII.",
+     "segments": 33
+    },
+    {
+     "file": "0368.json",
+     "ref": "1.154",
+     "title": "SERMON CLIV.",
+     "segments": 19
+    },
+    {
+     "file": "0369.json",
+     "ref": "1.155.0",
+     "title": "SERMON CLV.",
+     "segments": 5
+    },
+    {
+     "file": "0370.json",
+     "ref": "1.155.1",
+     "title": "Doctr. They that would profit by the word or rule of faith and manners, which God hath commanded them to observe, should look upon it as righteous and very faithful.",
+     "segments": 27
+    },
+    {
+     "file": "0371.json",
+     "ref": "1.156.0",
+     "title": "SERMON CLVI.",
+     "segments": 8
+    },
+    {
+     "file": "0372.json",
+     "ref": "1.156.1",
+     "title": "Doctrine, That Great and Pure Zeal becomes those that have any affection for the Word, and for the Ways of God.",
+     "segments": 37
+    },
+    {
+     "file": "0373.json",
+     "ref": "1.157.0",
+     "title": "SERMON CLVII.",
+     "segments": 7
+    },
+    {
+     "file": "0374.json",
+     "ref": "1.157.1",
+     "title": "Doctrine, That Gods Children see such purity in his Word, that therefore they value it and love it exceedingly.",
+     "segments": 40
+    },
+    {
+     "file": "0375.json",
+     "ref": "1.158.0",
+     "title": "SERMON CLVIII.",
+     "segments": 5
+    },
+    {
+     "file": "0376.json",
+     "ref": "1.158.1",
+     "title": "Doctrine, They that love God may be reduced to a Mean, Low and Afflicted Condition, (I am small, saith David.) The Lord seeth it meet for divers reasons.",
+     "segments": 8
+    },
+    {
+     "file": "0377.json",
+     "ref": "1.158.2",
+     "title": "2. Doctrine. Gods people when they are brought low are usually a very despised people, the most despised people under Heaven.",
+     "segments": 13
+    },
+    {
+     "file": "0378.json",
+     "ref": "1.158.3",
+     "title": "3. Doctrine. That though our Condition be small and despicable, yet we should be still faithful, in our respects to God and his Word.",
+     "segments": 6
+    },
+    {
+     "file": "0379.json",
+     "ref": "1.159.0",
+     "title": "SERMON CLIX.",
+     "segments": 22
+    },
+    {
+     "file": "0380.json",
+     "ref": "1.159.1",
+     "title": "Doctrine. That the Word of God hath the Nature and Force of a Law.",
+     "segments": 17
+    },
+    {
+     "file": "0381.json",
+     "ref": "1.159.2",
+     "title": "Doctrine. Gods Law is Truth.",
+     "segments": 15
+    },
+    {
+     "file": "0382.json",
+     "ref": "1.160.0",
+     "title": "SERMON CLX.",
+     "segments": 19
+    },
+    {
+     "file": "0383.json",
+     "ref": "1.160.1",
+     "title": "2. Doctrine. This trouble may breed much Vexation and Anguish of Spirit even in a Gracious Soul. David speaketh of Anguish as well as Trouble.",
+     "segments": 5
+    },
+    {
+     "file": "0384.json",
+     "ref": "1.160.2",
+     "title": "3. Doctrine. That 'tis the property of a gracious Soul to delight in Gods Commandments.",
+     "segments": 21
+    },
+    {
+     "file": "0385.json",
+     "ref": "1.160.3",
+     "title": "4. Doctrine. In the days of our Trouble and Anguish Gods Word will be a great delight and comfort to us.",
+     "segments": 13
+    },
+    {
+     "file": "0386.json",
+     "ref": "1.161.0",
+     "title": "SERMON CLXI.",
+     "segments": 6
+    },
+    {
+     "file": "0387.json",
+     "ref": "1.161.1",
+     "title": "Doctrine. That the Righteousness, and everlasting Righteousness of Gods Testimonies, should be deeply imprinted on our Minds, and often thought of by us.",
+     "segments": 21
+    },
+    {
+     "file": "0388.json",
+     "ref": "1.161.2",
+     "title": "Doctrine. One great request that we have to put up to God, should be for the saving knowledge of his Testimonies.",
+     "segments": 11
+    },
+    {
+     "file": "0389.json",
+     "ref": "1.161.3",
+     "title": "Doctrine. None know so much of God and his Wayes, but they still need to know more: Petitions for understanding do not only become beginners, but grown Christians.",
+     "segments": 6
+    },
+    {
+     "file": "0390.json",
+     "ref": "1.161.4",
+     "title": "Doctrine. If we would have the knowledge of Divine things, we must seek to God.",
+     "segments": 2
+    },
+    {
+     "file": "0391.json",
+     "ref": "1.161.5",
+     "title": "Doctrine. The saving knowledge of Gods Testimonies, is the only way to live.",
+     "segments": 10
+    },
+    {
+     "file": "0392.json",
+     "ref": "1.162.0",
+     "title": "SERMON CLXII.",
+     "segments": 6
+    },
+    {
+     "file": "0393.json",
+     "ref": "1.162.1",
+     "title": "Doctrine. That there is a Holy Vehemency and Fervour required in Prayer.",
+     "segments": 31
+    },
+    {
+     "file": "0394.json",
+     "ref": "1.162.2",
+     "title": "Doctrine. Our Prayers to God, must be Sincere as well as Fervent.",
+     "segments": 16
+    },
+    {
+     "file": "0395.json",
+     "ref": "1.163.0",
+     "title": "SERMON CLXIII.",
+     "segments": 2
+    },
+    {
+     "file": "0396.json",
+     "ref": "1.163.1",
+     "title": "Doctrine. Gods Children when they pray are earnest for an Answer.",
+     "segments": 25
+    },
+    {
+     "file": "0397.json",
+     "ref": "1.163.2",
+     "title": "Doct. 2. From the manner of praying with the whole Heart, the Saints have the more confidence of being heard in Prayer. David alledgeth his crying with the whole heart, as an hopeful intimation of a g",
+     "segments": 5
+    },
+    {
+     "file": "0398.json",
+     "ref": "1.163.3",
+     "title": "Doctrine. Gods Children, when they think of Mercy, are at the same time thinking of Duty and Obedience.",
+     "segments": 4
+    },
+    {
+     "file": "0399.json",
+     "ref": "1.164.0",
+     "title": "SERMON CLXIV.",
+     "segments": 4
+    },
+    {
+     "file": "0400.json",
+     "ref": "1.164.1",
+     "title": "Doctrine. I. We should not lightly give over our Suits to God.",
+     "segments": 21
+    },
+    {
+     "file": "0401.json",
+     "ref": "1.164.2",
+     "title": "Doctrine, 2. That Purposes and Promises of Obedience should not be slightly made but with the greatest advertency and seriousness of Mind.",
+     "segments": 8
+    },
+    {
+     "file": "0402.json",
+     "ref": "1.164.3",
+     "title": "Doctrine. III. That great Trouble and sense of Danger, puts an edge upon Prayer, and kindleth our Affection in it.",
+     "segments": 9
+    },
+    {
+     "file": "0403.json",
+     "ref": "1.164.4",
+     "title": "Doctrine. IV. In our Troubles we must have recourse to God, and sue to him by Prayer and Supplication for help and deliverance in due time.",
+     "segments": 12
+    },
+    {
+     "file": "0404.json",
+     "ref": "1.164.5",
+     "title": "Doctrine. V. That Prayer for Deliverance, should be accompanied with serious purposes of Obedience. Then, saith David, I will keep thy Testimonies.",
+     "segments": 8
+    },
+    {
+     "file": "0405.json",
+     "ref": "1.165.0",
+     "title": "SERMON CLXV.",
+     "segments": 5
+    },
+    {
+     "file": "0406.json",
+     "ref": "1.165.1",
+     "title": "Doctrine. Those that make a business of Prayer, will use great Vigilancy, and diligence therein.",
+     "segments": 15
+    },
+    {
+     "file": "0407.json",
+     "ref": "1.165.2",
+     "title": "Doctrine. 'Twas earnest, though private; and 'twas earnest, though he could get no satisfactory Answer.",
+     "segments": 13
+    },
+    {
+     "file": "0408.json",
+     "ref": "1.165.3",
+     "title": "Doctrine. A lively hope, grounded upon the Word of God, will put us upon this Vigilancy and Diligence in Prayer.",
+     "segments": 8
+    },
+    {
+     "file": "0409.json",
+     "ref": "1.166.0",
+     "title": "SERMON CLXVI.",
+     "segments": 9
+    },
+    {
+     "file": "0410.json",
+     "ref": "1.166.1",
+     "title": "Doctrine. That Meditation on the Word of God is one duty that Christians should take care to perform.",
+     "segments": 1
+    },
+    {
+     "file": "0411.json",
+     "ref": "1.166.2",
+     "title": "Doctrine. A Gracious heart will take all occasions to set itself a work on Holy things, and sometimes in the Night.",
+     "segments": 1
+    },
+    {
+     "file": "0412.json",
+     "ref": "1.166.3",
+     "title": "Doctrine. That 'tis needful to Meditate on Gods promises at such a time as our suit hangeth at the Throne of Grace, without grant and effect.",
+     "segments": 12
+    },
+    {
+     "file": "0413.json",
+     "ref": "1.166.4",
+     "title": "Doctrine. II. That a gracious heart will take all occasions to set itself a-work on holy things, and sometimes in the Night.",
+     "segments": 13
+    },
+    {
+     "file": "0414.json",
+     "ref": "1.166.5",
+     "title": "Doctrine. III. That Meditation of the Promises is very seasonable when the answer of our Prayers is denied.",
+     "segments": 1
+    },
+    {
+     "file": "0415.json",
+     "ref": "1.167.0",
+     "title": "SERMON CLXVII.",
+     "segments": 25
+    },
+    {
+     "file": "0416.json",
+     "ref": "1.167.1",
+     "title": "Doctrine. II. The main Argument which Gods Children have to plead in Prayer, is his own favour and loving-kindness. I shall shew,",
+     "segments": 20
+    },
+    {
+     "file": "0417.json",
+     "ref": "1.167.2",
+     "title": "Doctrine. III. That Gods Mercy and Loving-kindness manifested and impledged in the Promises of the Gospel, doth notably incourage us to ask help from him.",
+     "segments": 11
+    },
+    {
+     "file": "0418.json",
+     "ref": "1.168.0",
+     "title": "SERMON CLXVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0419.json",
+     "ref": "1.168.1",
+     "title": "Doctrine. Extream danger may sometimes draw nigh unto and even tread upon the heels of Gods People.",
+     "segments": 16
+    },
+    {
+     "file": "0420.json",
+     "ref": "1.168.2",
+     "title": "Doctrine. The iniquity of Persecutors, is some matter of Confidence to the Oppressed. As David, from those that drew near to mischief him, conceiveth some incouragement, Because they were far from God",
+     "segments": 8
+    },
+    {
+     "file": "0421.json",
+     "ref": "1.169.0",
+     "title": "SERMON CLXIX.",
+     "segments": 5
+    },
+    {
+     "file": "0422.json",
+     "ref": "1.169.1",
+     "title": "Doctrine. That it is the Priviledge and Happiness of God's Children, to have God near unto them upon all occasions.",
+     "segments": 31
+    },
+    {
+     "file": "0423.json",
+     "ref": "1.170.0",
+     "title": "SERMON CLXX.",
+     "segments": 9
+    },
+    {
+     "file": "0424.json",
+     "ref": "1.170.1",
+     "title": "Doct. I. There is an everlasting Stability, and a constant Unchangeable Truth in Gods Testimonies.",
+     "segments": 19
+    },
+    {
+     "file": "0425.json",
+     "ref": "1.170.2",
+     "title": "Doct. II. That this unchangeable Certainty and everlasting Verity of Gods testimonies should be known by us, that so a sure word should be entertained by a pure Faith. David acknowledgeth here his own",
+     "segments": 14
+    },
+    {
+     "file": "0426.json",
+     "ref": "1.170.3",
+     "title": "Doct. III. That Experiences of former times should give us encouragement to trust God for what is future. Thy Testimonies I have known of old, saith David.",
+     "segments": 13
+    },
+    {
+     "file": "0427.json",
+     "ref": "1.171.0",
+     "title": "SERMON CLXXI.",
+     "segments": 7
+    },
+    {
+     "file": "0428.json",
+     "ref": "1.171.1",
+     "title": "Doctrine. I. That Gods Choicest Servants in this World have their Afflictions.",
+     "segments": 9
+    },
+    {
+     "file": "0429.json",
+     "ref": "1.171.2",
+     "title": "Doctrine. II. That in our Afflictions we should run to God by Prayer. So doth David here, so should we.",
+     "segments": 6
+    },
+    {
+     "file": "0430.json",
+     "ref": "1.171.3",
+     "title": "Doctrine. III. One great request of the Children of God in Prayer, is, that he would Consider their Affliction.",
+     "segments": 10
+    },
+    {
+     "file": "0431.json",
+     "ref": "1.171.4",
+     "title": "Doctrine. IV. We may ask Deliverance from Temporal Troubles: not only Support, but Deliverance. So doth David.",
+     "segments": 4
+    },
+    {
+     "file": "0432.json",
+     "ref": "1.171.5",
+     "title": "Doctrine. V. Those that would have God to deliver them out of their Afflictions, should be sure they do not forsake their Duty.",
+     "segments": 5
+    },
+    {
+     "file": "0433.json",
+     "ref": "1.172.0",
+     "title": "SERMON CLXXII.",
+     "segments": 12
+    },
+    {
+     "file": "0434.json",
+     "ref": "1.172.1",
+     "title": "Doctrine. When we have to do with unjust and wicked Adversaries, we should desire God to plead our Cause: or as the Original will bear, to judge our Iudgment; or contend our Contention. 〈 in non-Latin",
+     "segments": 26
+    },
+    {
+     "file": "0435.json",
+     "ref": "1.172.2",
+     "title": "Doctrine. We may beg a Deliverance or a Release from our Troubles, provided we do not beg it out of an impatiency of the Flesh, but a desire of Gods Glory.",
+     "segments": 2
+    },
+    {
+     "file": "0436.json",
+     "ref": "1.172.3",
+     "title": "Doctrine. We need continual influence from God, and lively encouragement especially in our Troubles.",
+     "segments": 3
+    },
+    {
+     "file": "0437.json",
+     "ref": "1.173.0",
+     "title": "SERMON CLXXIII.",
+     "segments": 44
+    },
+    {
+     "file": "0438.json",
+     "ref": "1.173.1",
+     "title": "Doctrine. They are wicked men who seek not Gods Statutes.",
+     "segments": 17
+    },
+    {
+     "file": "0439.json",
+     "ref": "1.174.0",
+     "title": "SERMON CLXXIV.",
+     "segments": 10
+    },
+    {
+     "file": "0440.json",
+     "ref": "1.174.1",
+     "title": "Doctrine. That in the Lord Iehovah there are great and tender Mercies.",
+     "segments": 25
+    },
+    {
+     "file": "0441.json",
+     "ref": "1.175.0",
+     "title": "SERMON CLXXV.",
+     "segments": 13
+    },
+    {
+     "file": "0442.json",
+     "ref": "1.175.1",
+     "title": "Doctrine. 'Tis a gracious frame of Heart, to stand in Awe of the Word of God.",
+     "segments": 30
+    },
+    {
+     "file": "0443.json",
+     "ref": "1.176.0",
+     "title": "SERMON CLXXVI.",
+     "segments": 10
+    },
+    {
+     "file": "0444.json",
+     "ref": "1.176.1",
+     "title": "Doctrine, That Gods People do greatly Rejoice in his Word.",
+     "segments": 15
+    },
+    {
+     "file": "0445.json",
+     "ref": "1.177.0",
+     "title": "SERMON CLXXVII.",
+     "segments": 8
+    },
+    {
+     "file": "0446.json",
+     "ref": "1.177.1",
+     "title": "Doct. I. They that love the Word of God, must hate sin.",
+     "segments": 22
+    },
+    {
+     "file": "0447.json",
+     "ref": "1.177.2",
+     "title": "Doctrine. III. That among other sins, we must hate falshood and lying, and all kind of frauds and deceits.",
+     "segments": 8
+    },
+    {
+     "file": "0448.json",
+     "ref": "1.178.0",
+     "title": "SERM. CLXXVIII.",
+     "segments": 10
+    },
+    {
+     "file": "0449.json",
+     "ref": "1.178.1",
+     "title": "Doctrine. That the People of God should never cease lauding and magnifying the name of God, because of his Righteous Iudgments.",
+     "segments": 44
+    },
+    {
+     "file": "0450.json",
+     "ref": "1.179.0",
+     "title": "SERMON CLXXIX.",
+     "segments": 35
+    },
+    {
+     "file": "0451.json",
+     "ref": "1.179.1",
+     "title": "Doctrine. II. Those that love the law shall have great peace: let me prove this,",
+     "segments": 23
+    },
+    {
+     "file": "0452.json",
+     "ref": "1.180.0",
+     "title": "SERMON CLXXX.",
+     "segments": 2
+    },
+    {
+     "file": "0453.json",
+     "ref": "1.180.1",
+     "title": "Doctrine. That the Love of Gods Law is a great means to carry a Believer streight on his way to Heaven, what ever Temptations he hath to the Contrary.",
+     "segments": 35
+    },
+    {
+     "file": "0454.json",
+     "ref": "1.181.0",
+     "title": "SERMON CLXXXI.",
+     "segments": 2
+    },
+    {
+     "file": "0455.json",
+     "ref": "1.181.1",
+     "title": "Doctrine. Sound hope of Salvation is, and must be joyned with a care of keeping Gods Commandments.",
+     "segments": 33
+    },
+    {
+     "file": "0456.json",
+     "ref": "1.182.0",
+     "title": "SERMON CLXXXII.",
+     "segments": 11
+    },
+    {
+     "file": "0457.json",
+     "ref": "1.182.1",
+     "title": "Doctrine, God must be served with our Souls as well as our Bodies. David saith, My soul hath kept thy Testimonies.",
+     "segments": 23
+    },
+    {
+     "file": "0458.json",
+     "ref": "1.182.2",
+     "title": "Doctrine. That 'tis not enough to keep the Commandments, but we must love them, and that obedience they require from us.",
+     "segments": 16
+    },
+    {
+     "file": "0459.json",
+     "ref": "1.182.3",
+     "title": "Doctrine. Our Love to the Law must be an exceeding Love.",
+     "segments": 5
+    },
+    {
+     "file": "0460.json",
+     "ref": "1.183.0",
+     "title": "SERM. CLXXXIII.",
+     "segments": 12
+    },
+    {
+     "file": "0461.json",
+     "ref": "1.183.1",
+     "title": "Doctrine. That walking as in the sight of God is a note of sincerity, and a good means to make us keep his precepts.",
+     "segments": 26
+    },
+    {
+     "file": "0462.json",
+     "ref": "1.184.0",
+     "title": "SERM. CLXXXIV.",
+     "segments": 7
+    },
+    {
+     "file": "0463.json",
+     "ref": "1.184.1",
+     "title": "Doctrine. Divine Illumination is so great a gift, that all who are made partakers of it, are especially obliged to praise and thanksgiving.",
+     "segments": 38
+    },
+    {
+     "file": "0464.json",
+     "ref": "1.185.0",
+     "title": "SERMON CLXXXV.",
+     "segments": 7
+    },
+    {
+     "file": "0465.json",
+     "ref": "1.185.1",
+     "title": "Doctrine. The Subject of a Believers ordinary Discourse should be the Word, and those spiritual and heavenly matters contained therein.",
+     "segments": 32
+    },
+    {
+     "file": "0466.json",
+     "ref": "1.185.2",
+     "title": "Doctrine. There is Righteousness, nothing but Righteousness, all Righteousness to be found in the Word of God.",
+     "segments": 15
+    },
+    {
+     "file": "0467.json",
+     "ref": "1.186.0",
+     "title": "SERM. CLXXXVI.",
+     "segments": 7
+    },
+    {
+     "file": "0468.json",
+     "ref": "1.186.1",
+     "title": "Doctrine. I. It is the plain Character of a good man, to be good, and do good out of Choice.",
+     "segments": 52
+    },
+    {
+     "file": "0469.json",
+     "ref": "1.186.2",
+     "title": "Doctrine. II. That man which makes Conscience of Gods Commands, is encouraged to seek help from him in straits.",
+     "segments": 2
+    },
+    {
+     "file": "0470.json",
+     "ref": "1.187.0",
+     "title": "SERM. CLXXXVII.",
+     "segments": 7
+    },
+    {
+     "file": "0471.json",
+     "ref": "1.187.1",
+     "title": "That Gods people do look to God for deliverance, and longingly expect it.",
+     "segments": 25
+    },
+    {
+     "file": "0472.json",
+     "ref": "1.187.2",
+     "title": "Doctrine. II. That we should delight in the Promise, before the Salvation cometh.",
+     "segments": 14
+    },
+    {
+     "file": "0473.json",
+     "ref": "1.188.0",
+     "title": "SERM. CLXXXVIII.",
+     "segments": 33
+    },
+    {
+     "file": "0474.json",
+     "ref": "1.188.1",
+     "title": "Doctrine. II. That we should not only Long for Salvation, but delight in the way which leadeth to it.",
+     "segments": 9
+    },
+    {
+     "file": "0475.json",
+     "ref": "1.189.0",
+     "title": "SERM. CLXXXIX.",
+     "segments": 9
+    },
+    {
+     "file": "0476.json",
+     "ref": "1.189.1",
+     "title": "That we may beg the Continuation of Life, for the honouring of God.",
+     "segments": 43
+    },
+    {
+     "file": "0477.json",
+     "ref": "1.189.2",
+     "title": "Doctrine. II. That Gods Iudgments are a great help and relief to his People, who desire to praise him, even when they are in danger of their lives.",
+     "segments": 8
+    },
+    {
+     "file": "0478.json",
+     "ref": "1.190.0",
+     "title": "SERMON CXC.",
+     "segments": 7
+    },
+    {
+     "file": "0479.json",
+     "ref": "1.190.1",
+     "title": "Doctrine. That a Christian that is obedient for the main, yet may run into many Faylings and Errors of Life.",
+     "segments": 40
+    },
+    {
+     "file": "0480.json",
+     "ref": "1.end",
+     "title": "1.end",
+     "segments": 1
+    }
+   ]
+  }
+ ]
+}

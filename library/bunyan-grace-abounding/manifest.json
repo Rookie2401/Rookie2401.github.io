@@ -1,0 +1,64 @@
+{
+ "workId": "bunyan-grace-abounding",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "bunyan-grace-abounding-1666-tcp-a30143",
+   "role": "english",
+   "language": "english",
+   "credit": "Grace abounding to the chief of sinners, or, A brief and faithful relation of the exceeding mercy of God in Christ to his poor servant John Bunyan, in EEBO-TCP text A30143 (STC Wing B5523; STC) (London: Printed by George Larkin, 1666). Transcription: Text Creation Partnership (EEBO-TCP Phase I), keyboarded from images of the original (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A30143/master/A30143.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 275294,
+   "sourceSha256": "6d927ab6622091da3b311a9615a019788695f870b8f6ba44012e2a9dfe744c7c",
+   "leftOut": {
+    "pb": 106,
+    "unread": 490
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 33608,
+    "unreadPerThousand": 14.6
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "A PREFACE: Or brief Account of the publishing of this Work: Written by the Author thereof, and dedicated to those whom God hath counted him worthy to beget to Faith, by his Ministry in the Word.",
+     "segments": 10
+    },
+    {
+     "file": "0002.json",
+     "ref": "0",
+     "title": "GRACE Abounding to the chief of Sinners: OR, A Brief Relation Of the exceeding mercy of God in Christ, to his poor Servant John Bunyan.",
+     "segments": 219
+    },
+    {
+     "file": "0003.json",
+     "ref": "1",
+     "title": "A brief Account of the Authors Call to the Work of the Ministery.",
+     "segments": 33
+    },
+    {
+     "file": "0004.json",
+     "ref": "2",
+     "title": "A brief Account of the Authors Imprisonment",
+     "segments": 22
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.3",
+     "title": "The CONCLUSION.",
+     "segments": 6
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.end",
+     "title": "1.end",
+     "segments": 1
+    }
+   ]
+  }
+ ]
+}

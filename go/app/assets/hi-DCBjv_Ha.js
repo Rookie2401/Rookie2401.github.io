@@ -1,0 +1,1 @@
+import{t as e}from"./hi-CrWC0Wri.js";export{e as adapter};

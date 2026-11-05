@@ -1,0 +1,238 @@
+{
+ "workId": "vulgate-1ma",
+ "parallel": "segment",
+ "editions": [
+  {
+   "editionId": "clementine-1ma",
+   "role": "original",
+   "language": "latin",
+   "credit": "Biblia Sacra Vulgatae editionis, Sixti V Pontificis Maximi jussu recognita et edita (the Clementine Vulgate; Editio Typica 1598), in the Clementine Vulgate Project's transcription, ed. Clementine Vulgate Project (text derived principally from the printing of A. Colunga and L. Turrado, Madrid 1946, compared with Vercellone 1861 and Hetzenauer 1914) (Rome: Typographus Vaticanus (the edition); Clementine Vulgate Project (the transcription), 1598). Transcription: Clementine Vulgate Project (via seven1m/open-bibles, USFX) (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://raw.githubusercontent.com/seven1m/open-bibles/master/lat-clementine.usfx.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 4652377,
+   "sourceSha256": "5da5f3c07fa6896d4a2b45f5f309c3ece43e554fd059b31b8ae3688bbd182baf",
+   "leftOut": {},
+   "segmentRefs": "citation",
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1MA.1",
+     "title": "1 Maccabees 1",
+     "segments": 67
+    },
+    {
+     "file": "0002.json",
+     "ref": "1MA.2",
+     "title": "1 Maccabees 2",
+     "segments": 70
+    },
+    {
+     "file": "0003.json",
+     "ref": "1MA.3",
+     "title": "1 Maccabees 3",
+     "segments": 60
+    },
+    {
+     "file": "0004.json",
+     "ref": "1MA.4",
+     "title": "1 Maccabees 4",
+     "segments": 61
+    },
+    {
+     "file": "0005.json",
+     "ref": "1MA.5",
+     "title": "1 Maccabees 5",
+     "segments": 68
+    },
+    {
+     "file": "0006.json",
+     "ref": "1MA.6",
+     "title": "1 Maccabees 6",
+     "segments": 63
+    },
+    {
+     "file": "0007.json",
+     "ref": "1MA.7",
+     "title": "1 Maccabees 7",
+     "segments": 50
+    },
+    {
+     "file": "0008.json",
+     "ref": "1MA.8",
+     "title": "1 Maccabees 8",
+     "segments": 32
+    },
+    {
+     "file": "0009.json",
+     "ref": "1MA.9",
+     "title": "1 Maccabees 9",
+     "segments": 73
+    },
+    {
+     "file": "0010.json",
+     "ref": "1MA.10",
+     "title": "1 Maccabees 10",
+     "segments": 89
+    },
+    {
+     "file": "0011.json",
+     "ref": "1MA.11",
+     "title": "1 Maccabees 11",
+     "segments": 74
+    },
+    {
+     "file": "0012.json",
+     "ref": "1MA.12",
+     "title": "1 Maccabees 12",
+     "segments": 54
+    },
+    {
+     "file": "0013.json",
+     "ref": "1MA.13",
+     "title": "1 Maccabees 13",
+     "segments": 54
+    },
+    {
+     "file": "0014.json",
+     "ref": "1MA.14",
+     "title": "1 Maccabees 14",
+     "segments": 49
+    },
+    {
+     "file": "0015.json",
+     "ref": "1MA.15",
+     "title": "1 Maccabees 15",
+     "segments": 41
+    },
+    {
+     "file": "0016.json",
+     "ref": "1MA.16",
+     "title": "1 Maccabees 16",
+     "segments": 24
+    }
+   ]
+  },
+  {
+   "editionId": "douay-rheims-1899-1ma",
+   "role": "english",
+   "language": "english",
+   "credit": "The Holy Bible, translated from the Latin Vulgate (Douay-Rheims; revised by Bishop Richard Challoner, 1749–1752), American edition of 1899, trans. English College, Douai and Rheims; revised by Richard Challoner (Baltimore: John Murphy Company, 1899). Transcription: eBible.org (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://ebible.org/Scriptures/engDRA_usfx.zip",
+   "sourceMember": "engDRA_usfx.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 2948574,
+   "sourceSha256": "f6560ec0cb95e8ed97207ca83298f0bda5c32261b9188844b2d7ecb6bfb67adb",
+   "leftOut": {
+    "id": 73,
+    "toc": 219,
+    "cl": 1
+   },
+   "segmentRefs": "citation",
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1MA.1",
+     "title": "1 Maccabees 1",
+     "segments": 67
+    },
+    {
+     "file": "0002.json",
+     "ref": "1MA.2",
+     "title": "1 Maccabees 2",
+     "segments": 70
+    },
+    {
+     "file": "0003.json",
+     "ref": "1MA.3",
+     "title": "1 Maccabees 3",
+     "segments": 60
+    },
+    {
+     "file": "0004.json",
+     "ref": "1MA.4",
+     "title": "1 Maccabees 4",
+     "segments": 61
+    },
+    {
+     "file": "0005.json",
+     "ref": "1MA.5",
+     "title": "1 Maccabees 5",
+     "segments": 68
+    },
+    {
+     "file": "0006.json",
+     "ref": "1MA.6",
+     "title": "1 Maccabees 6",
+     "segments": 63
+    },
+    {
+     "file": "0007.json",
+     "ref": "1MA.7",
+     "title": "1 Maccabees 7",
+     "segments": 50
+    },
+    {
+     "file": "0008.json",
+     "ref": "1MA.8",
+     "title": "1 Maccabees 8",
+     "segments": 32
+    },
+    {
+     "file": "0009.json",
+     "ref": "1MA.9",
+     "title": "1 Maccabees 9",
+     "segments": 73
+    },
+    {
+     "file": "0010.json",
+     "ref": "1MA.10",
+     "title": "1 Maccabees 10",
+     "segments": 89
+    },
+    {
+     "file": "0011.json",
+     "ref": "1MA.11",
+     "title": "1 Maccabees 11",
+     "segments": 74
+    },
+    {
+     "file": "0012.json",
+     "ref": "1MA.12",
+     "title": "1 Maccabees 12",
+     "segments": 54
+    },
+    {
+     "file": "0013.json",
+     "ref": "1MA.13",
+     "title": "1 Maccabees 13",
+     "segments": 54
+    },
+    {
+     "file": "0014.json",
+     "ref": "1MA.14",
+     "title": "1 Maccabees 14",
+     "segments": 49
+    },
+    {
+     "file": "0015.json",
+     "ref": "1MA.15",
+     "title": "1 Maccabees 15",
+     "segments": 41
+    },
+    {
+     "file": "0016.json",
+     "ref": "1MA.16",
+     "title": "1 Maccabees 16",
+     "segments": 24
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "divisionOnly": [],
+  "missingInOriginal": [],
+  "missingInEnglish": []
+ }
+}

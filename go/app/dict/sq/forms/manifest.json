@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "lang": "sq",
+  "buckets": 16,
+  "forms": 94880,
+  "lemmas": 13579,
+  "fromTables": 10613,
+  "shardFiles": [
+    "f-00.json",
+    "f-01.json",
+    "f-02.json",
+    "f-03.json",
+    "f-04.json",
+    "f-05.json",
+    "f-06.json",
+    "f-07.json",
+    "f-08.json",
+    "f-09.json",
+    "f-0a.json",
+    "f-0b.json",
+    "f-0c.json",
+    "f-0d.json",
+    "f-0e.json",
+    "f-0f.json"
+  ],
+  "builtFrom": "kaikki-sq@2026-09-28"
+}

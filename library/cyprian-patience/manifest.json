@@ -1,0 +1,355 @@
+{
+ "workId": "cyprian-patience",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "csel3-hartel-patience",
+   "role": "original",
+   "language": "latin",
+   "credit": "De Bono Patientiae, in Corpus Scriptorum Ecclesiasticorum Latinorum, vol. 3.1 (S. Thasci Caecili Cypriani opera omnia, pars I), ed. Wilhelm von Hartel (Vienna: Gerold, 1868). University of Leipzig / Open Greek and Latin (csel-dev), CC BY-SA 4.0; text of the CSEL volume as cited (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0104a/stoa003/stoa0104a.stoa003.opp-lat1.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 70395,
+   "sourceSha256": "459d4956098115b06f5300627603bf8c2e89579eebc885c3507e08a0ee25a694",
+   "leftOut": {
+    "lb": 477,
+    "note": 36,
+    "pb": 18
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 4113,
+    "garbledPerThousand": 0,
+    "joinedPerThousand": 0,
+    "numbersPerThousand": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "anf5-wallis-patience",
+   "role": "english",
+   "language": "english",
+   "credit": "On the Advantage of Patience, in The Ante-Nicene Fathers, vol. V (American edition, ed. A. Cleveland Coxe), Cyprian, trans. Robert Ernest Wallis (Buffalo: Christian Literature Publishing Co., 1886). Wikisource contributors, \"Ante-Nicene Fathers\" (Robert Ernest Wallis), en.wikisource.org, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_V/Cyprian/The_Treatises_of_Cyprian/On_the_Advantage_of_Patience",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 42036,
+   "sourceSha256": "5d919b5511d90a9e6ad84f177bfc9296db4bd3285eee1392c63fe4751c3bee00",
+   "leftOut": {
+    "note": 57
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/On the Advantage of Patience",
+     "bytes": 42036,
+     "sha256": "5d919b5511d90a9e6ad84f177bfc9296db4bd3285eee1392c63fe4751c3bee00"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front",
+     "title": "front",
+     "segments": 3
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 24,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 1
+ }
+}

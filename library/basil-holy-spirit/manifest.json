@@ -1,0 +1,373 @@
+{
+ "workId": "basil-holy-spirit",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "basil-holy-spirit-npnf2-8-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "On the Holy Spirit (De Spiritu Sancto), in A Select Library of Nicene and Post-Nicene Fathers of the Christian Church, Second Series, vol. VIII: Basil, Letters and Select Works (American edition; ed. Philip Schaff and Henry Wace), trans. Blomfield Jackson (New York: The Christian Literature Company, 1895). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers, Series II), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_VIII/De_Spiritu_Sancto",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 368821,
+   "sourceSha256": "6dbade626cf5c30274e10a7d58263a84dd9acae137b47255705d60a921b04746",
+   "leftOut": {
+    "note": 656
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 1",
+     "bytes": 9068,
+     "sha256": "239cd9637d075308f0d43d01a603a32de08f057911f648981f2ae2fa5944210d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 2",
+     "bytes": 7609,
+     "sha256": "3ebdab249b336eaa5048a1bf87680d67ef19821b821e57f4303e2c2bdbba52b4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 3",
+     "bytes": 7823,
+     "sha256": "a733174e189e32ffb216f47c2509d91d84deb1961d2ba7fb49162324daf9dd73"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 4",
+     "bytes": 4419,
+     "sha256": "ad7b3d2cc18ab64f5af34e85d9e14da993cfee45435b4578355b237296fecbc9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 5",
+     "bytes": 17847,
+     "sha256": "109e1f1c74c810722108e4724590a04b1f2683b5ccfc9459587b135f81f25d38"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 6",
+     "bytes": 15288,
+     "sha256": "705bd63ca3a4cc6dea85912ad881162d5e07f143fe2947b76d20abd12d6bc9e9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 7",
+     "bytes": 6086,
+     "sha256": "7ab380badfed0c4cd39961f8299543188a9773521fd62fdabf38beb5e2c26dee"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 8",
+     "bytes": 33380,
+     "sha256": "29e6b0b4a3caf7fefa7dd99dbe534ca0993d2a9dcaff453307b0960b1419ce15"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 9",
+     "bytes": 8515,
+     "sha256": "75629a98b300e946fb1101eb3208ac5b85552684b668b745ed60354b3f88ebac"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 10",
+     "bytes": 12097,
+     "sha256": "fab87d1a8985f26e317c0d2fce2937a4ff1423369a1856a9e290004cbcaaaa4a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 11",
+     "bytes": 3611,
+     "sha256": "55de339127b85c47301b0aef8dee3cbadccaeb7d796f51cb4971573daff46b70"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 12",
+     "bytes": 4773,
+     "sha256": "21614ff9b7d419e9f7a5b826123217ab00dd9fc4fb8f4882dee80db6dc9eb3b6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 13",
+     "bytes": 5333,
+     "sha256": "d61c1c67245df5abd347a17d8f70bd77f88f4aec8a7dd0c04777568634f2fed7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 14",
+     "bytes": 10543,
+     "sha256": "7ff466c17bf7fed1aaf45d6b43c2164507ee8f6782fd26a214990be32b95c713"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 15",
+     "bytes": 12167,
+     "sha256": "e65c8b47936369841ec979deadfb92985ea6854aa3e5ad2cb2b273243ea7432e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 16",
+     "bytes": 21238,
+     "sha256": "e2b19f2c376aeb9be7736a11b85b103f42df3292fb15502ff155794e4f2a874c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 17",
+     "bytes": 10352,
+     "sha256": "ab18c4caa29efe4a9ff85c5417833c24816de7239ae4bfde58b741e0cb11aca9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 18",
+     "bytes": 21995,
+     "sha256": "99522e175e89e8ffcf1cf6d3c8e951fd6de20280813e46a3732298528d0df7c9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 19",
+     "bytes": 12114,
+     "sha256": "9a4f1daeb4905c2b5dc4901ce55de9911d86ce5cdeca382a500e2a05f2a44a31"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 20",
+     "bytes": 9485,
+     "sha256": "a71ca14e5f849fb332150d3d6f94b58f5e2c95d706c1d14972225d59ddcac96d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 21",
+     "bytes": 7002,
+     "sha256": "4d3f2f3268f0284471985e152f3fcfd69a49562ba742bb56aafa6401c9bdb4fb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 22",
+     "bytes": 6657,
+     "sha256": "fd58f2a91496ce93ba8c040e82cc2c6a348749f34af30c7e90fa8ec627deddce"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 23",
+     "bytes": 3962,
+     "sha256": "3f4045e2cf8211c80debab108af6706467747f24957c7d13229f45a7e19acb58"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 24",
+     "bytes": 8358,
+     "sha256": "67d0895ae53da7b255f0e1d20e2f227abf7dbc89fdc843046b4f2eb28b1e6cfb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 25",
+     "bytes": 10768,
+     "sha256": "0d168dc98b9466f002673094825db19e985d2875abc1501455f5ba69507b6e6f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 26",
+     "bytes": 20246,
+     "sha256": "a267177791138babb96e6085b874f58ea521ac2e610ed64885dd8f4488dbc220"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 27",
+     "bytes": 28133,
+     "sha256": "c19716bc71c993de72950f4dcc59464bb78dea0ecc5bccb1dbd915ec23ec8992"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 28",
+     "bytes": 7210,
+     "sha256": "e46a24ae2cb184ddff5956f7bf992ba8999d3d62344a4a7162b0aa6c029e276f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 29",
+     "bytes": 25852,
+     "sha256": "bcbdbce5f5ed26f3295f7ceb5588742d0f84691bba3aa923b570ff1ba4a09e37"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VIII/De Spiritu Sancto/Chapter 30",
+     "bytes": 16890,
+     "sha256": "f00e394257db19af1697af819abfe2974168fa859388495c3688e0293fadf78e"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.front",
+     "title": "1.front",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.2",
+     "title": "2",
+     "segments": 4
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 4
+    },
+    {
+     "file": "0006.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 4
+    },
+    {
+     "file": "0007.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 3
+    },
+    {
+     "file": "0008.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 14
+    },
+    {
+     "file": "0009.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 9
+    },
+    {
+     "file": "0010.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 5
+    },
+    {
+     "file": "0011.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 10
+    },
+    {
+     "file": "0012.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 4
+    },
+    {
+     "file": "0013.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 8
+    },
+    {
+     "file": "0014.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 4
+    },
+    {
+     "file": "0015.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 4
+    },
+    {
+     "file": "0016.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 4
+    },
+    {
+     "file": "0017.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 5
+    },
+    {
+     "file": "0018.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 5
+    },
+    {
+     "file": "0019.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 7
+    },
+    {
+     "file": "0020.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 5
+    },
+    {
+     "file": "0021.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 7
+    },
+    {
+     "file": "0022.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 6
+    },
+    {
+     "file": "0023.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 3
+    },
+    {
+     "file": "0024.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 3
+    },
+    {
+     "file": "0025.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 3
+    },
+    {
+     "file": "0026.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 3
+    },
+    {
+     "file": "0027.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 6
+    },
+    {
+     "file": "0028.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 5
+    },
+    {
+     "file": "0029.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 6
+    },
+    {
+     "file": "0030.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 6
+    },
+    {
+     "file": "0031.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 4
+    },
+    {
+     "file": "0032.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 8
+    },
+    {
+     "file": "0033.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 6
+    }
+   ]
+  }
+ ]
+}

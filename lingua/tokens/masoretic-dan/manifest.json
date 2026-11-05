@@ -1,0 +1,151 @@
+{
+ "workId": "masoretic-dan",
+ "editions": [
+  {
+   "editionId": "wlc-oshb-dan",
+   "language": "he",
+   "variety": "he-bib",
+   "textSource": "self",
+   "analysis": {
+    "id": "oshb@2019.01.13",
+    "kind": "verified-dataset",
+    "status": "verified"
+   },
+   "credit": "Open Scriptures Hebrew Bible (OSHB), morphology and lemmas by the OSHB project; text: Westminster Leningrad Codex (WLC)",
+   "licence": "OSHB lemma and morphology: CC BY 4.0; WLC text: public domain; headwords and glosses: Open Scriptures Lexical Index (CC BY 4.0), BDB (public domain), Strong's (public domain, JSON CC BY-SA), curated glosses of the Biblia build",
+   "source": "biblia-v0/data/oshb/Dan.xml",
+   "sourceUrl": "https://github.com/openscriptures/morphhb",
+   "version": "oshb 2018.12.14 (WLC version 4.20.); newest file 2019.01.13",
+   "scope": "the Hebrew of Daniel; its Aramaic (2:4–7:28) is a separate edition",
+   "coverage": {
+    "tokens": 2320,
+    "withLemma": 2320,
+    "withMorphology": 2059,
+    "verified": 2320,
+    "ambiguous": 0,
+    "unanalysed": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "DAN.1",
+     "title": "Daniel 1",
+     "segments": 21,
+     "tokens": 305
+    },
+    {
+     "file": "0002.json",
+     "ref": "DAN.2",
+     "title": "Daniel 2",
+     "segments": 4,
+     "tokens": 40
+    },
+    {
+     "file": "0003.json",
+     "ref": "DAN.8",
+     "title": "Daniel 8",
+     "segments": 27,
+     "tokens": 383
+    },
+    {
+     "file": "0004.json",
+     "ref": "DAN.9",
+     "title": "Daniel 9",
+     "segments": 27,
+     "tokens": 462
+    },
+    {
+     "file": "0005.json",
+     "ref": "DAN.10",
+     "title": "Daniel 10",
+     "segments": 21,
+     "tokens": 342
+    },
+    {
+     "file": "0006.json",
+     "ref": "DAN.11",
+     "title": "Daniel 11",
+     "segments": 45,
+     "tokens": 611
+    },
+    {
+     "file": "0007.json",
+     "ref": "DAN.12",
+     "title": "Daniel 12",
+     "segments": 13,
+     "tokens": 177
+    }
+   ]
+  },
+  {
+   "editionId": "wlc-oshb-dan-arc",
+   "storeEdition": "wlc-oshb-dan",
+   "language": "arc",
+   "variety": "arc-bib",
+   "textSource": "self",
+   "analysis": {
+    "id": "oshb@2019.01.13",
+    "kind": "verified-dataset",
+    "status": "verified"
+   },
+   "credit": "Open Scriptures Hebrew Bible (OSHB), morphology and lemmas by the OSHB project; text: Westminster Leningrad Codex (WLC)",
+   "licence": "OSHB lemma and morphology: CC BY 4.0; WLC text: public domain; headwords and glosses: Open Scriptures Lexical Index (CC BY 4.0), BDB (public domain), Strong's (public domain, JSON CC BY-SA), curated glosses of the Biblia build",
+   "source": "biblia-v0/data/oshb/Dan.xml",
+   "sourceUrl": "https://github.com/openscriptures/morphhb",
+   "version": "oshb 2018.12.14 (WLC version 4.20.); newest file 2019.01.13",
+   "scope": "the Aramaic of Daniel (2:4–7:28)",
+   "coverage": {
+    "tokens": 3599,
+    "withLemma": 3599,
+    "withMorphology": 3195,
+    "verified": 3599,
+    "ambiguous": 0,
+    "unanalysed": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "DAN.2",
+     "title": "Daniel 2",
+     "segments": 46,
+     "tokens": 802
+    },
+    {
+     "file": "0002.json",
+     "ref": "DAN.3",
+     "title": "Daniel 3",
+     "segments": 33,
+     "tokens": 631
+    },
+    {
+     "file": "0003.json",
+     "ref": "DAN.4",
+     "title": "Daniel 4",
+     "segments": 34,
+     "tokens": 599
+    },
+    {
+     "file": "0004.json",
+     "ref": "DAN.5",
+     "title": "Daniel 5",
+     "segments": 30,
+     "tokens": 524
+    },
+    {
+     "file": "0005.json",
+     "ref": "DAN.6",
+     "title": "Daniel 6",
+     "segments": 29,
+     "tokens": 551
+    },
+    {
+     "file": "0006.json",
+     "ref": "DAN.7",
+     "title": "Daniel 7",
+     "segments": 28,
+     "tokens": 492
+    }
+   ]
+  }
+ ]
+}

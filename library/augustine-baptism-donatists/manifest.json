@@ -1,0 +1,2380 @@
+{
+ "workId": "augustine-baptism-donatists",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "de-baptismo-petschenig-csel51",
+   "role": "original",
+   "language": "latin",
+   "credit": "De baptismo libri VII, in Sancti Aureli Augustini Opera, Sectio VII, Pars I (CSEL 51), ed. Michael Petschenig (Prague; Vienna; Leipzig: F. Tempsky; G. Freytag, 1908). Open Greek and Latin / University of Leipzig (csel-dev): Latin text of Augustine, De baptismo, ed. M. Petschenig (CSEL 51, 1908), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa033a/stoa0040.stoa033a.opp-lat1.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 788857,
+   "sourceSha256": "869e89690a35d06a4f2ba8ac9fa32467c0fda29e4931d561d44ce481ff1051dd",
+   "leftOut": {
+    "milestone": 208,
+    "lb": 6029,
+    "note": 498,
+    "pb": 231
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 52468,
+    "garbledPerThousand": 0.1,
+    "joinedPerThousand": 0,
+    "numbersPerThousand": 0.2
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 29
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 21
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 29
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 34
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 40
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 84
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 104
+    },
+    {
+     "file": "0008.json",
+     "ref": "retractationes",
+     "title": "AVGVSTINI RETRACTATIONVM LIB. II CAP. XLIIII (XVIII)",
+     "segments": 5
+    }
+   ]
+  },
+  {
+   "editionId": "baptism-king-npnf4-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "On Baptism, against the Donatists, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. IV: St. Augustin: The Writings against the Manichaeans and against the Donatists (ed. Philip Schaff; Buffalo; New York, Christian Literature Co., 1887); copy on English Wikisource, trans. J. R. King (revised and annotated by C. D. Hartranft) (Buffalo; New York: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_IV/Donatist_Controversy/On_Baptism",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 722314,
+   "sourceSha256": "f06c770e280429f9cdc1328f55876f31a2e7dcf1983f5d6dcbec27c40c1c903c",
+   "leftOut": {
+    "note": 775
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book I/Chapter 1",
+     "bytes": 7969,
+     "sha256": "56de968ea7fa05fe83ee347815830058d0fb71600afb32c7588fc8472d355130"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book I/Chapter 10",
+     "bytes": 5965,
+     "sha256": "8ce73dbb82cb683281592a734491fb0a47de79f836256d70652c2088a4b93633"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book I/Chapter 11",
+     "bytes": 4690,
+     "sha256": "48aee43b8a06914e9cf561739fbb0f045f2d3ec41c6d4d7253ab35e0b43f9942"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book I/Chapter 12",
+     "bytes": 7697,
+     "sha256": "4538dbe8e74c0cc7e149b3e07234c9b79fa5bd3e9b105651870f34b544fc2ae8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book I/Chapter 13",
+     "bytes": 2853,
+     "sha256": "f3b8d20861b2205fce450037e644837c7ac4b18fe4dd1ffaa79ecc7d7e198bd7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book I/Chapter 14",
+     "bytes": 2615,
+     "sha256": "1756a634bc769e0aba353c4935e3569669e84b087fea1a24298659aca0a29698"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book I/Chapter 15",
+     "bytes": 5614,
+     "sha256": "75ef3a9730acedd8b5516260a785fd8998a8f67dad5819df8309915e1c99ff9d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book I/Chapter 16",
+     "bytes": 3065,
+     "sha256": "1f2dc73a0b178a07b9b190777a35ea530480d5ac44b5763e9bfc1c221e680547"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book I/Chapter 17",
+     "bytes": 2583,
+     "sha256": "716a7402d7354464588494f655c7500c363c72d5a718cf1b07c3569c30c20350"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book I/Chapter 18",
+     "bytes": 6892,
+     "sha256": "e6130d7f78f228105e4e512ca2e1ee9737a6f514fdae9f04272b3f32ce4db265"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book I/Chapter 19",
+     "bytes": 2913,
+     "sha256": "2e0f9d268b5dd8c0a9a37ed6c66b881deee9e6ace01a2a2b149802b5c53b55fb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book I/Chapter 2",
+     "bytes": 3191,
+     "sha256": "8fb2350517eed0dc6d3a2d16a4bae96ab58e9f6c481ef947d1bcc899bc0577fc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book I/Chapter 3",
+     "bytes": 5645,
+     "sha256": "7fb1ce1cdedf09d246816a64dc41887455bcc8d22c3c6f0b54f6a657750cffd6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book I/Chapter 4",
+     "bytes": 4606,
+     "sha256": "4528863c32379b5c9b61ea19571f3b729bfcd2290bb21739f441c52b91eb141b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book I/Chapter 5",
+     "bytes": 4836,
+     "sha256": "8a52b56f930742117269a03b65e9d4d926acec4d34b81d3b48d375edfd040199"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book I/Chapter 6",
+     "bytes": 2885,
+     "sha256": "9d4162e42183b5af78276e1144d117c87e0f6c8cf6bae64b935ef5e9045a7858"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book I/Chapter 7",
+     "bytes": 4078,
+     "sha256": "76489d8af0262274ff484db1054b58fd3c8eb878f368702fbe8699a2f2ddb562"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book I/Chapter 8",
+     "bytes": 5467,
+     "sha256": "c10795fb231f263bce9a8b95be9ae1db241a2f50519e2dfb00a3a3b15c9e66e8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book I/Chapter 9",
+     "bytes": 2784,
+     "sha256": "b1066b13a1e08ff34b4489eba8d26553e2e8c78bd350b0c1021caf7e4147c2ec"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book II/Chapter 1",
+     "bytes": 7728,
+     "sha256": "b6a96bba17c776869e7e5049de7b72719b5a636acf5cc9ec4336a245454d707f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book II/Chapter 10",
+     "bytes": 4039,
+     "sha256": "dedc6465857ec82448989af6fdd854b967d20c1f157e965c5800ca2297033c23"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book II/Chapter 11",
+     "bytes": 3952,
+     "sha256": "69c5f4506efd359f9f0d61b85c6ef040d499fd127eefcaa83e7cbf8c35fc1135"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book II/Chapter 12",
+     "bytes": 3002,
+     "sha256": "ec6a23784ae597e9314e7477485be156c0fc4d40df13b9d1cfba520c8ef766db"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book II/Chapter 13",
+     "bytes": 2791,
+     "sha256": "da605a0940a3d52cfd2ab1f0d722540db8b327375753a46e875b709461044a6c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book II/Chapter 14",
+     "bytes": 3498,
+     "sha256": "c7c9b7d5720c5efee421a6a6ad2a7413d50bbe673128857c886a045efc2075d8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book II/Chapter 15",
+     "bytes": 3252,
+     "sha256": "4ae6d4844730f1743324cdec47b9109638895c1291d2dd4a045d9243e48633c2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book II/Chapter 2",
+     "bytes": 2840,
+     "sha256": "3f834c45f87dd6578313d6441e4b88c475b38dc67aec4cfd5d725d711d5f72fb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book II/Chapter 3",
+     "bytes": 2856,
+     "sha256": "46d33b0e699ef4d23b2493134e9e08ae04942e462eca5a8b39d8ed3accdf325e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book II/Chapter 4",
+     "bytes": 3569,
+     "sha256": "2086093454e821e4e44fe8876adeb784dc8c7a0ce1d823b5762a92df6e84920a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book II/Chapter 5",
+     "bytes": 4603,
+     "sha256": "8f7b6023d75e33a3ba8bf9410f72643df2f10dd696b4bd670db2556f7b731c78"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book II/Chapter 6",
+     "bytes": 7745,
+     "sha256": "8acf921564012f4f7d07c814ee049d4437964198730398b04ff53452a293ebe2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book II/Chapter 7",
+     "bytes": 7534,
+     "sha256": "cf54ecbfe759728684bbe43f3b202631bcdb6a645e02e4b49eeb751ff816bc87"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book II/Chapter 8",
+     "bytes": 4417,
+     "sha256": "50065527b8e4ec8b05fbe05bef6325122fde756edbe49930018b96d9c8abd747"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book II/Chapter 9",
+     "bytes": 5270,
+     "sha256": "ceea6d00f42de81cadce35a4a28abc881abdaf1f590cb4c8a31d99bb459f4fce"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book III/Chapter 1",
+     "bytes": 2002,
+     "sha256": "806b41ee76191c6ec4ee0a4b7f80e1b0bc3f4b6c9d4656fbe46c2efedeaf4120"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book III/Chapter 10",
+     "bytes": 3953,
+     "sha256": "3f9fe55d8911b093764f12c9cf5f01435fb4bf83c57065f6f354dfd2d86f3ee7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book III/Chapter 11",
+     "bytes": 2939,
+     "sha256": "4a32f761c436cf55f460de2df89d18f564a2d6ace710701770e86d3d40f6c728"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book III/Chapter 12",
+     "bytes": 2711,
+     "sha256": "5f2835fced018a66edc942c564f8692c0e14b923b5d1ea33ab2776ff34b96652"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book III/Chapter 13",
+     "bytes": 3271,
+     "sha256": "9ced43bb4bea6bf06d9dca7309786d09eb23fdba9a41409b592046a4a5d2ed1b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book III/Chapter 14",
+     "bytes": 6220,
+     "sha256": "38d2c57ac92e60d47e44ad94833c99002b84e37b842549b5155871e010753d6a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book III/Chapter 15",
+     "bytes": 4120,
+     "sha256": "c6acccd4fc4233e48f8d0b0c722209289e500492a96abb360b7109ebb3a378fd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book III/Chapter 16",
+     "bytes": 4338,
+     "sha256": "3df57bfe99c49f73b6a887fa8bb272e8082aa514e335dd241de2d4d4a501fa2e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book III/Chapter 17",
+     "bytes": 2892,
+     "sha256": "76d9371f6c213beba62fc10f11697632748ac9fc7e79054d4c870603f71d383d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book III/Chapter 18",
+     "bytes": 4766,
+     "sha256": "6e778e69ac58a02cd5f9a0e4f5dec9afeb6d647e9d253d3568e9b23181e9a398"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book III/Chapter 19",
+     "bytes": 14303,
+     "sha256": "7fe3b202085bd9141b537c50fca8ec1948413d390e58a3b9554a0c363147a3cb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book III/Chapter 2",
+     "bytes": 6102,
+     "sha256": "849b0173c4ae4a6106099e7fbf877fc058afaeaf0f532513aa44f440ba1ca692"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book III/Chapter 3",
+     "bytes": 5025,
+     "sha256": "d73b7ee012a59bd44f4e2ff5cb696a16a66c342892e207913e240f1e9a6e5820"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book III/Chapter 4",
+     "bytes": 3307,
+     "sha256": "d6812b3a42697af963e9a0093348cc56c10ec1edc531b7946d1bcfe022704222"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book III/Chapter 5",
+     "bytes": 2443,
+     "sha256": "e2d8b853090d07159eec8b7f81bd62e0757c846f881a57cbb2cc8b40dcf47822"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book III/Chapter 6",
+     "bytes": 1456,
+     "sha256": "54793cae93fb643d332a4ae73567cb6cad51117f7eceea6693578b60b8181d2d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book III/Chapter 7",
+     "bytes": 1789,
+     "sha256": "1dae9276aaf0efd3d7e1b4d18094112e4d83d6993fc4bd2db692b35b9673db9d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book III/Chapter 8",
+     "bytes": 1375,
+     "sha256": "20e531e3af99a7d176e2e43d86d053fac7867e4177659eaf721bf18344156300"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book III/Chapter 9",
+     "bytes": 1848,
+     "sha256": "a9b43444d47a3cbee6d79a1bb8060e4175ff244838ee942b56502d111e77074b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 1",
+     "bytes": 2372,
+     "sha256": "3e6ea512dd46d0f88ef993b22fd5fbd9621c0ffa11f61bd44a845c24fec9f921"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 10",
+     "bytes": 7139,
+     "sha256": "ecf3cf8e48c36974fe69b8abeb821d424b0ec280198145da2823c28ca8665e41"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 11",
+     "bytes": 2916,
+     "sha256": "5f851fc12edac22cb6ded09c015b65b207986bec275bb5a55fbafbefb31ed6c3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 12",
+     "bytes": 6874,
+     "sha256": "27fcbd8393a518e25721f57a790289dde84c96263eaf48ee5e75983a0149da7f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 13",
+     "bytes": 3874,
+     "sha256": "5ba2d5da7561676ca23eace9f118760b257de4506ec863829abf7ee339232145"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 14",
+     "bytes": 3811,
+     "sha256": "705ae394f5392124a3ec5da860bf6d0f1d354850b694d3c3e00a8e2191cbac0d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 15",
+     "bytes": 4195,
+     "sha256": "21badd808cb6af18731691a3356ddba5698707f070cfa154a6f6c7de4a764d11"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 16",
+     "bytes": 3959,
+     "sha256": "66d457bddfc770f3e4388ed81bb895e6db786855b3d5a552e8e07b7c25a8ebe8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 17",
+     "bytes": 3473,
+     "sha256": "e22e8ea9f0e2ad645277bd67abed4192c9c71342e63e6138e19664de76835ed7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 18",
+     "bytes": 3190,
+     "sha256": "3e6e738ef1e599faed1030d5c97e0f97ad6a6805c90da3ba5276676f9130cf83"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 19",
+     "bytes": 3411,
+     "sha256": "706d89456929b648547e4e4ce05e51720187ff56f79e33e1d2a7428b2d79149f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 2",
+     "bytes": 3395,
+     "sha256": "125b856c9d2b42f512be2fff9279ff09ffc80c1a4a1562cd1e3ef6ca34353c26"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 20",
+     "bytes": 3638,
+     "sha256": "70243eaf5486ad1ab5c5ff7a1398626d1e7f527d0019b23c36680db3f38ccef8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 21",
+     "bytes": 5499,
+     "sha256": "70917e4138b05551dd141528127c3a3121949e0ccd523bdec9560cc0c4062c5c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 22",
+     "bytes": 4164,
+     "sha256": "24887ebf0423603153fc3cb44a7b588d6e486d446f6dd5be19cde14e651d66d6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 23",
+     "bytes": 2388,
+     "sha256": "fb23c959ed4568614cdd5d0b42588d59c3df2530d1ab76fdcdb61cbf16d78d16"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 24",
+     "bytes": 4200,
+     "sha256": "f22005880b54a56bee2f668ab9cd4a0380f80c7c39350d568d7a07d149b188d8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 25",
+     "bytes": 2608,
+     "sha256": "a70dec96bf628433c84c88f441b2517bbe7fd608f005407d075c7384623a03bb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 26",
+     "bytes": 1494,
+     "sha256": "1712f053d8f5cab0a465926a4614cdeeb4ac73aed93bd4ee06f506b59fa4648a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 3",
+     "bytes": 4550,
+     "sha256": "546a127ed5bc80b5775b349b89f8444d19c184e7b5a72e79bbd0c547c3ea9acf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 4",
+     "bytes": 4415,
+     "sha256": "fe2f94192e395784be7110b1ca30a0ecf6665dbffced9885c114d9d390728145"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 5",
+     "bytes": 6302,
+     "sha256": "a9b8bf4ff7bf64f2d27487da0e393edec9738e46c5cf00c904d044244f85e2db"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 6",
+     "bytes": 4806,
+     "sha256": "a3307235807ed578e229d3687931e45777cb772f240dec49cebb612dd637fbbe"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 7",
+     "bytes": 4563,
+     "sha256": "890b8255565f4310e1b2a2953ebc77677e3d4dd50f6746a6f5169d33470a09f3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 8",
+     "bytes": 4737,
+     "sha256": "8c2d00f0d77819f42ec072f7f2363c1a4019b80fda15a16a850469cb9b56abd1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book IV/Chapter 9",
+     "bytes": 5812,
+     "sha256": "47e26bcdd6357284e497072a8a993884f7b231984f41032215472941108a798c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 1",
+     "bytes": 4539,
+     "sha256": "458905e9eedcfe0d68e3404bf83cc0108640e9765cc4a18a0998b7287ec5d47b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 10",
+     "bytes": 2961,
+     "sha256": "a9772c8c38378b48fadb5f6983c801286f0339aad3a9b28c586c8be3446420cd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 11",
+     "bytes": 3067,
+     "sha256": "9475becfd4fc549740ffb16baf7655d475fc29a74aa7e2e8496e11d9cea4e685"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 12",
+     "bytes": 2635,
+     "sha256": "e3c32a3989016d65c4935d90b900bda71c58e86792307797fcdcf63da89c7ee6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 13",
+     "bytes": 4116,
+     "sha256": "22a19f438782252285e460bae623f18be4ceafaecf14169341e3de12947a50bb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 14",
+     "bytes": 2626,
+     "sha256": "1642d181d655945d9eec9ad88602d918d64f5db60cc03cc6218f238dfb1b29e0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 15",
+     "bytes": 3763,
+     "sha256": "36949875eadf0e4270331fc901767d03c8ebbfa7e1ae58d2425eeb52b238f7df"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 16",
+     "bytes": 3074,
+     "sha256": "988d84a4cfdfa963bbe5eb8ee2ed88ed0d8eb1a5be33da501f9d1507e395f69b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 17",
+     "bytes": 7286,
+     "sha256": "3efe67611764e742f8752d9c11eb8752c424060d436a4e52716db9382da7f209"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 18",
+     "bytes": 2756,
+     "sha256": "46461763979b39652c905705e74c88d8a3ccee3fa3fafd307614b5c452675dc5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 19",
+     "bytes": 4510,
+     "sha256": "e6dcee70956ce87a30a6827220ad3dfeeef44f861c0035605d7f04b4597889eb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 2",
+     "bytes": 3564,
+     "sha256": "bf55ae97ba41f31337eb32b911a7841be48eeac0ea54bd5608301f1e4f1eae35"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 20",
+     "bytes": 3902,
+     "sha256": "4f582ec6e7a422262b167d84b94bc649dda5abcc344d71bf107df5281ceabf8a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 21",
+     "bytes": 5106,
+     "sha256": "ed5e7ca61c2910e3648eabff9b3b677d76c2ee67a7548f7baa168e477fea24b6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 22",
+     "bytes": 2609,
+     "sha256": "a6be56e248db549ed31b3e9e576137fc970393f2cc19586a5fd1704f64884fb6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 23",
+     "bytes": 5242,
+     "sha256": "662c5de06a2b0adf7045e94ff206c015add28a99bfaa0acc11f1e82bdd4b30d8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 24",
+     "bytes": 3311,
+     "sha256": "302e93b0ffc7e537150373ca0de447508a2698b92f6307c3f47abcddcc9fcc51"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 25",
+     "bytes": 2152,
+     "sha256": "8907f6f0b26250bb9736aa1b03a861c510e90f5ac28c03205d88b9f1da3cde26"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 26",
+     "bytes": 3444,
+     "sha256": "0eca76d8c3b0715569cbbab3b65045235a85855ac4eb0fca585f27da202a0889"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 27",
+     "bytes": 5542,
+     "sha256": "4eef21aa21689a0533a22e33ffebc34f04bddef64f85c1cbf4f2a686cdb0846a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 28",
+     "bytes": 4170,
+     "sha256": "dca55115a9acbd123d07d3cc2dded6103e0a371a2128d63f64d9644e1f5553d9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 3",
+     "bytes": 3700,
+     "sha256": "400b48c7ca61bfc4b6f7acfaf7359d65d5aa3eda57a2aff42e3bbc8d9061c664"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 4",
+     "bytes": 3448,
+     "sha256": "a94f1eb91f11402f35536f9632c10612ce5a6f77dd97b33e2c6e2b8e6f03b8cd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 5",
+     "bytes": 3673,
+     "sha256": "ae13878d7be38427263c00718e456bc45814a03d8d29f4dcb1e50b9c6c9e5013"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 6",
+     "bytes": 3103,
+     "sha256": "1aa5b3bc61b8c7bfedcb0795aeec43a2a01dce387dc9294d8c674aa7b7ae2774"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 7",
+     "bytes": 2348,
+     "sha256": "8eaf7d0749c7cca77d9a4a6c1882b941ec16d8de850da158f767c735cbb62488"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 8",
+     "bytes": 3244,
+     "sha256": "7b166b2a52a018973f9baf77c10891771a940193bbc7af948ee8cb28f5273b34"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book V/Chapter 9",
+     "bytes": 5394,
+     "sha256": "245e51dba62c13c394c75894cfd872a1ee3705f1e55eba1a9d71e7acbb81bc82"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 1",
+     "bytes": 5579,
+     "sha256": "9cd78481cfe88335b17251c112b1f1a1313abf3f2c8b1408d088aeca18636b94"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 10",
+     "bytes": 1779,
+     "sha256": "82e7d5f691ffdbe31f3995a9004a8f9ed2ab61d99f4269ecf54cc6ffd8720adc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 11",
+     "bytes": 2253,
+     "sha256": "46efcbb78541d3e9a8970aa53ceae8314334abca29abf653d2e8f2bf6f42f602"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 12",
+     "bytes": 10349,
+     "sha256": "87e566fa828f18dbe67400112fdb181cebe8a1acdd35c5bb79620b3ed0ef092e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 13",
+     "bytes": 1851,
+     "sha256": "cee2b9c3810f3652e2f6709ec23a17049975bf1f3d676ecf25ec2fedd42bc7fe"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 14",
+     "bytes": 6097,
+     "sha256": "d8e8bc062d379653404b49c9ec731073c8cd196ff9ec882f6e41267b091cec9c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 15",
+     "bytes": 4484,
+     "sha256": "7ae770421577434d4bd2a6bd7b3a7bcd32a7e48afe724a8bae89804e7163d9ab"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 16",
+     "bytes": 1643,
+     "sha256": "fb675edb285c89677281341aaf3c02b07d052e6144b0ea8a64fdab00e8d1f9a3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 17",
+     "bytes": 2374,
+     "sha256": "4af25dfefe66d58f353a0d3b9577e8c0f15dce36864d0a9c51a08edaf27610fa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 18",
+     "bytes": 2663,
+     "sha256": "e2a58dde59922131fb56c066256f5c111e5ffab92de9b7e7cf59ec261e4d9ed2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 19",
+     "bytes": 2641,
+     "sha256": "a74410b3c8866581e08bbb0ed8af5f9a6ff0881a1b396963fd7d1e4c41ed5811"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 2",
+     "bytes": 4453,
+     "sha256": "88230649d5fa4f9d6fb7523c2b2c16dad0e53da5309cf3182e2d8a7703615827"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 20",
+     "bytes": 1540,
+     "sha256": "4d4c1bb37b79ca530aa2ff7573a54d1096c5feb2ca591c65763d9b59e97b9901"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 21",
+     "bytes": 3391,
+     "sha256": "92026bf8d3499102bb0cbb877eb3df462eef6c6b224cfa2434e85c125d8098e2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 22",
+     "bytes": 3172,
+     "sha256": "ceab0bea7299ad79567f6801f97ec5563e20abe6d90b524e9b23016cab9bff39"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 23",
+     "bytes": 2300,
+     "sha256": "351cffbb274593ccd98b52817e27546826a49eaab3a5e85af465fdd98713fc30"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 24",
+     "bytes": 6530,
+     "sha256": "853b1120f25c6e032dc9885b02619d649566fc9f2f071fdee5cf8df3652b4ae7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 25",
+     "bytes": 6235,
+     "sha256": "fca36e6a07d0a9b9f1b3f2b0bb18cfc30703fc700805a3cfa43c0f615f126878"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 26",
+     "bytes": 2405,
+     "sha256": "aba4930b0b89115cc8a53ff8cf2a650acfe852d0fd37d714b70fabdc8c15cb1f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 27",
+     "bytes": 1781,
+     "sha256": "5c7cff20ad1d16a5c1d6d02957050000a93b657f5949416df08a59fe0fc83536"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 28",
+     "bytes": 2054,
+     "sha256": "54a15a36a95f3b52ed4e3427d45c65df48b16f3d498475e0cf79545fcf1ab94b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 29",
+     "bytes": 5037,
+     "sha256": "60cbf6b7790c992daaa5db72ae343aa306602010ccc690b4ffe505c2c8e650f5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 3",
+     "bytes": 2103,
+     "sha256": "f2a221aa5b3c06096a55962fed01a4335aaaffda5d117340a4a7024fa8568332"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 30",
+     "bytes": 1911,
+     "sha256": "26ab81606bd9018a2b75b850a431397d1b6d0b6fd3bc4da1bfd1f1698bc7b340"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 31",
+     "bytes": 4769,
+     "sha256": "9cab9d5c3eb7efe573eb26ef43843cef7b3c92a7e9a9894f37559b99ad868e7d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 32",
+     "bytes": 2016,
+     "sha256": "9adb2a20e8668c4a0487c8f7d9af572029dd809bcf82f6db5d3f198c74344a6b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 33",
+     "bytes": 2696,
+     "sha256": "91069ef60678b784c7729958e1c9663e37411a52ea35ae0d74070afe9ec5a12a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 34",
+     "bytes": 4398,
+     "sha256": "7fa848e2ca233f6abeed013d020b42c7e180ac7c518413b72854ed6d0e91c255"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 35",
+     "bytes": 2916,
+     "sha256": "8f0e3a90b60d9eaa86fd3b16ff0b8308ecfe4f5964eb9e455fc75ad6cc202b38"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 36",
+     "bytes": 2319,
+     "sha256": "5a489b9405a37df3b22f3d81abc30b65feffac906561a769b4df49692606ebc5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 37",
+     "bytes": 2637,
+     "sha256": "a3379e65760240ab3d972f67a72bfed09139bd3e7b4319f49e5fa884d9561543"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 38",
+     "bytes": 1542,
+     "sha256": "9208c8bf4cbc5af89794c45d7d1634c9b74a7936cbf3ee3620335541b84f12a4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 39",
+     "bytes": 1450,
+     "sha256": "cefc18d5451c0941740f828ae5006cf89b469b95072c32f3a605f96c2564d967"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 4",
+     "bytes": 2085,
+     "sha256": "74737f5b24e384cccaea4917a9895b823a14d1afd3d189855d6c5bac10e252ae"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 40",
+     "bytes": 3950,
+     "sha256": "d867c4a717fcd5a7ca03063ade0246143fae57b688eb3b18aeed7ecea489d061"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 41",
+     "bytes": 2366,
+     "sha256": "9fae78a63c0ce50a963b0d663d987d163467c7ddf6c2e54952512cdb4115b383"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 42",
+     "bytes": 1543,
+     "sha256": "fd1a9d08f54afce47dc16c4bb6b70b894215ae087e55b5126d42a9aa8b315c75"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 43",
+     "bytes": 1964,
+     "sha256": "0f0f8185eecd8268d6963aa42d19ebbe3583eb5c41acdae5b48fe57eb602dead"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 44",
+     "bytes": 6400,
+     "sha256": "8253143a1c4ab267070b2c61f9bdd6423d27dd9b202532cb204a33cfd92d26c2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 5",
+     "bytes": 3940,
+     "sha256": "4b7008d8aa3a0912d9bf75b295d4815dff7e8bb475c9541ff9dd779bcc06e11f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 6",
+     "bytes": 2635,
+     "sha256": "5f15a21a1a55872fe2a4cbefeaec6dfbf3f4f8141967ec25b0aa381b44905ceb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 7",
+     "bytes": 5088,
+     "sha256": "876e4d23e0408fa4b5289c4628e37f18a1050cb7a41ddcfac90e4697e11307b2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 8",
+     "bytes": 5408,
+     "sha256": "dd69612330245268bd27cac12f2ff278bf62f8edf8fdb78ac6f5938e5b69102b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VI/Chapter 9",
+     "bytes": 2680,
+     "sha256": "d1917d7ab7333df7688f66192c61b19742f43995a5a4bca382622a8de2bb9df3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 1",
+     "bytes": 4585,
+     "sha256": "f82f49ab9c7098c098af52a4fab796bae73e19b8e5957af2d8124f160673a902"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 10",
+     "bytes": 1982,
+     "sha256": "6bf4190bd6574f27ce191502f1ace860664cfed6128f9f090f573023d7219ce5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 11",
+     "bytes": 2094,
+     "sha256": "a1bfa703e76ab37efc626eaee47f67ca01a3dcc12766a4034e4df135dd80f6f3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 12",
+     "bytes": 1750,
+     "sha256": "f5f81afd22b9bdfd09f00c197813fb906f25fda6bf5aadb2bd2bc14def736f25"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 13",
+     "bytes": 2667,
+     "sha256": "4d6b4c3b03de0826a631c945d16ed162b88f7f5e61de0c890e85a85a5496c3eb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 14",
+     "bytes": 2181,
+     "sha256": "bce0be16fb047869ce958b2b8abd1df807e6b728b5ca78a1e823cd2f45758c81"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 15",
+     "bytes": 2803,
+     "sha256": "a3bdfcbe1ae74ec60fcc57e266ba63b79b9624e1c673c0c989a8870e9ceb5721"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 16",
+     "bytes": 3173,
+     "sha256": "a59f4c0ced5329fcd9629a1075500b90d75a3ea881d3503e270e11e837eac60d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 17",
+     "bytes": 2134,
+     "sha256": "2c1e340993c7e14a33e03df0fc7a2ba92e49cfca434398d9d223d7820db290d8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 18",
+     "bytes": 1486,
+     "sha256": "728d5b2e192a42646c039e6d6fee29aca5f9ab496c1954080d8146b1e9d0fa81"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 19",
+     "bytes": 1956,
+     "sha256": "a67341f8fb909ea1893787628d03a36b9632d6cf234bd9bd103f1ad46bcb1f35"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 2",
+     "bytes": 6524,
+     "sha256": "2d60fb5bf3768653e8fdb56baa7dc8142b1cdaa5231d981fea975c24372ace69"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 20",
+     "bytes": 2012,
+     "sha256": "2b3c2e3c86379156c3817b4414f1a6755c32dd82baf152b0cbc8d8d25d4e11ea"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 21",
+     "bytes": 1438,
+     "sha256": "081ff0c5df484c8af34c1301a106e9f20aa830f060bac27414a1d065e67ff914"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 22",
+     "bytes": 1806,
+     "sha256": "b6808d70739baaef8e3bb354d66cee8c8e2ff93968ca55433a9846b70ef64b77"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 23",
+     "bytes": 1937,
+     "sha256": "62c412b17b5b8bf05ed9707aadb48da96f7559c00c96271e19c8d5aa01e460dd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 24",
+     "bytes": 1522,
+     "sha256": "936c8016476d4a8fdd13567d09ba4939504e6890c92ffb6053828f1b885c581c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 25",
+     "bytes": 4691,
+     "sha256": "34c31cc9aaa4b7f88ad9cdb2f16951d1d574648f4a25ae6e256b8cf22327e7ab"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 26",
+     "bytes": 1481,
+     "sha256": "5832d12e3cff81127cf86745c1f299bcff2684e6a232ed937330c4325770a060"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 27",
+     "bytes": 1709,
+     "sha256": "861660601e426653e993dc22b77d1d213fa728e6114333f2cac75dfa7f386a4e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 28",
+     "bytes": 1559,
+     "sha256": "f8bb7f9d7f220eefdc009d37ceeb2b961f02173633b22f31726ef1918d134fc5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 29",
+     "bytes": 1751,
+     "sha256": "225200fffc2265b3513c794401151285aa72b9d5c966219a931bbea0a727a9f3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 3",
+     "bytes": 3297,
+     "sha256": "68c4a1a5af8b71298d5b4b4acc3a116f85cb6ec625b652a6724908d40a0a1ac3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 30",
+     "bytes": 1617,
+     "sha256": "3c1a8aca5bd208500ef45a206f7189ab41c7074e01bc55b5ea3fe076531fb962"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 31",
+     "bytes": 1469,
+     "sha256": "665af4d26d40a34d7e8b84b0d8d66bb65f119eaa0a11425a82e563f443029f69"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 32",
+     "bytes": 1527,
+     "sha256": "bc83da517c25eeacc9dbeb3f1f8e9a1b841e056f9f188644c6a79b4ed8fd5f4f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 33",
+     "bytes": 1591,
+     "sha256": "16fa0c892cc07be15e579e48f1b3e6016c1d7342fa9a240c2018f68897a6c1b8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 34",
+     "bytes": 1609,
+     "sha256": "f609a64a6c66bd53df07fd99ed2d7f03022ad63732c106c28a8d5005301d42af"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 35",
+     "bytes": 1492,
+     "sha256": "a20e23bb7591a66d6ecb1aa6f6f2c7a18fd5ac3a27d5e97422cb401b4473b9a1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 36",
+     "bytes": 1799,
+     "sha256": "d5fe0dec1783c8f68815887770be8269ea74b3064b5eceab688506675b3b068f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 37",
+     "bytes": 2253,
+     "sha256": "7db0c9a88b47e067c52ab06c440768ff8a672e22e33735212e4eb30ec8e11d80"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 38",
+     "bytes": 1749,
+     "sha256": "f8186c8eb6e4391a0cafb5ac408f76a35e1574c7496e84b30d4dac9a8caf3f9a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 39",
+     "bytes": 2359,
+     "sha256": "a4a2cf20c6b375e2ad934d2de8af63d6e9261118c3477c46e9548b7b624127ba"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 4",
+     "bytes": 3767,
+     "sha256": "b5cd49190e73a9e8577206e17560817bb584dc0bc6992833b86746663bfc67ce"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 40",
+     "bytes": 1656,
+     "sha256": "18b539f1c743a3f5bda652cefd25e56ea824aafc8f9e403423fca89d46bbe51e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 41",
+     "bytes": 1820,
+     "sha256": "9e8a801150dd45b0c8f90131f611b27e88d21cec25a0224f065dab65c947d70a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 42",
+     "bytes": 1453,
+     "sha256": "81281a74a5f1897494723b7dfb4e1c7ebad434b8821c5c49be30b507262247a6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 43",
+     "bytes": 1799,
+     "sha256": "3e01ee17558989cb59aa597bc068019aebe8fa401f90d76e4dd4552cc7dbdcc3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 44",
+     "bytes": 2382,
+     "sha256": "ee03fb6d85707fa510b4a233e821fdd179f3fd8c9e6188cc946a54947c6f29ef"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 45",
+     "bytes": 3688,
+     "sha256": "1cc0df07f99ab11ed609f09f59fbab21697b75e1793e0e1db3e1367ff61b3a3c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 46",
+     "bytes": 1904,
+     "sha256": "35a67d138b36a912d636a73764c8f2bbad0f4c21597d7528398061da0824832c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 47",
+     "bytes": 2542,
+     "sha256": "113b07961594b84bf6a3c7668c41e17306131f0ddbf98b53139b5743c0ded760"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 48",
+     "bytes": 1373,
+     "sha256": "e1001348424bb934d7f00f590d403a3b2d86e82d846096bcabd4cc35e53a3607"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 49",
+     "bytes": 3908,
+     "sha256": "c2151ae2be13cfc3fdc4f2e7e73de5b822888bf75aa31de9db336b80896222e6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 5",
+     "bytes": 3032,
+     "sha256": "30be9115a930d378845659bcbe399b81799b206410ea668b59346476220a0b2c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 50",
+     "bytes": 3110,
+     "sha256": "bec854aa3150c33c41bfeb54c65471fa443a1da26b7b5e8042d8588c401184d9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 51",
+     "bytes": 4759,
+     "sha256": "be836dbfbf009db55b9be7306b54c354fa4d179cf493009d6186952a80744676"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 52",
+     "bytes": 2931,
+     "sha256": "c1f85d999aae86579d94bf95cc0a6d8970d5e9eb2e80c486572a66324db7dc0f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 53",
+     "bytes": 6095,
+     "sha256": "a80207dc3b2111a921c908e5b4064b194af40b9a9791b64b9668e38008042de4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 54",
+     "bytes": 3120,
+     "sha256": "9555a7a66d6b1d3717c27699c2d9d86b79f6452915c42a7175768c5142e53c40"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 6",
+     "bytes": 2169,
+     "sha256": "4ca685d48fc351d2609d2a268bfa65567973913c165d30082d7f22be6bd1a3a1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 7",
+     "bytes": 1854,
+     "sha256": "f82932e0cd5b94266ca524dd31100bf0b4850ee23b7bff96109f62f416317ff7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 8",
+     "bytes": 2035,
+     "sha256": "77bb8698f5a1fe3c38e642a252dfad6a1fafbec36922cafdea805372203bd1aa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Book VII/Chapter 9",
+     "bytes": 1575,
+     "sha256": "b8a1a99923e473954513c833260b35c83643de246d307bd2e70d81c174a81ca7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Preface",
+     "bytes": 1382,
+     "sha256": "590c95c79e2a0c1ad7f8b0a62f56b45e2ece44b082dc3b0daa6cec967cbe2a9a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/On Baptism/Title Page",
+     "bytes": 1156,
+     "sha256": "50798e6fc17dad50b494a13c869fc9d8e058263fe83b89ffcc28864dce792612"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.1",
+     "title": "1.1",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.2",
+     "title": "1.2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.3",
+     "title": "1.3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.4",
+     "title": "1.4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.5",
+     "title": "1.5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.6",
+     "title": "1.6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.7",
+     "title": "1.7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.8",
+     "title": "1.8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.9",
+     "title": "1.9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.10",
+     "title": "1.10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.11",
+     "title": "1.11",
+     "segments": 3
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.12",
+     "title": "1.12",
+     "segments": 3
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.13",
+     "title": "1.13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.14",
+     "title": "1.14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.15",
+     "title": "1.15",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.16",
+     "title": "1.16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.17",
+     "title": "1.17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.18",
+     "title": "1.18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.19",
+     "title": "1.19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "2.1",
+     "title": "2.1",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "2.2",
+     "title": "2.2",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "2.3",
+     "title": "2.3",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "2.4",
+     "title": "2.4",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "2.5",
+     "title": "2.5",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "2.6",
+     "title": "2.6",
+     "segments": 3
+    },
+    {
+     "file": "0026.json",
+     "ref": "2.7",
+     "title": "2.7",
+     "segments": 3
+    },
+    {
+     "file": "0027.json",
+     "ref": "2.8",
+     "title": "2.8",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "2.9",
+     "title": "2.9",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "2.10",
+     "title": "2.10",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "2.11",
+     "title": "2.11",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "2.12",
+     "title": "2.12",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "2.13",
+     "title": "2.13",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "2.14",
+     "title": "2.14",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "2.15",
+     "title": "2.15",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "3.1",
+     "title": "3.1",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "3.2",
+     "title": "3.2",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "3.3",
+     "title": "3.3",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "3.4",
+     "title": "3.4",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "3.5",
+     "title": "3.5",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "3.6",
+     "title": "3.6",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "3.7",
+     "title": "3.7",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "3.8",
+     "title": "3.8",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "3.9",
+     "title": "3.9",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "3.10",
+     "title": "3.10",
+     "segments": 3
+    },
+    {
+     "file": "0045.json",
+     "ref": "3.11",
+     "title": "3.11",
+     "segments": 1
+    },
+    {
+     "file": "0046.json",
+     "ref": "3.12",
+     "title": "3.12",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "3.13",
+     "title": "3.13",
+     "segments": 1
+    },
+    {
+     "file": "0048.json",
+     "ref": "3.14",
+     "title": "3.14",
+     "segments": 1
+    },
+    {
+     "file": "0049.json",
+     "ref": "3.15",
+     "title": "3.15",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "3.16",
+     "title": "3.16",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "3.17",
+     "title": "3.17",
+     "segments": 1
+    },
+    {
+     "file": "0052.json",
+     "ref": "3.18",
+     "title": "3.18",
+     "segments": 2
+    },
+    {
+     "file": "0053.json",
+     "ref": "3.19",
+     "title": "3.19",
+     "segments": 4
+    },
+    {
+     "file": "0054.json",
+     "ref": "4.1",
+     "title": "4.1",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "4.2",
+     "title": "4.2",
+     "segments": 2
+    },
+    {
+     "file": "0056.json",
+     "ref": "4.3",
+     "title": "4.3",
+     "segments": 2
+    },
+    {
+     "file": "0057.json",
+     "ref": "4.4",
+     "title": "4.4",
+     "segments": 2
+    },
+    {
+     "file": "0058.json",
+     "ref": "4.5",
+     "title": "4.5",
+     "segments": 1
+    },
+    {
+     "file": "0059.json",
+     "ref": "4.6",
+     "title": "4.6",
+     "segments": 2
+    },
+    {
+     "file": "0060.json",
+     "ref": "4.7",
+     "title": "4.7",
+     "segments": 1
+    },
+    {
+     "file": "0061.json",
+     "ref": "4.8",
+     "title": "4.8",
+     "segments": 1
+    },
+    {
+     "file": "0062.json",
+     "ref": "4.9",
+     "title": "4.9",
+     "segments": 2
+    },
+    {
+     "file": "0063.json",
+     "ref": "4.10",
+     "title": "4.10",
+     "segments": 3
+    },
+    {
+     "file": "0064.json",
+     "ref": "4.11",
+     "title": "4.11",
+     "segments": 1
+    },
+    {
+     "file": "0065.json",
+     "ref": "4.12",
+     "title": "4.12",
+     "segments": 1
+    },
+    {
+     "file": "0066.json",
+     "ref": "4.13",
+     "title": "4.13",
+     "segments": 2
+    },
+    {
+     "file": "0067.json",
+     "ref": "4.14",
+     "title": "4.14",
+     "segments": 1
+    },
+    {
+     "file": "0068.json",
+     "ref": "4.15",
+     "title": "4.15",
+     "segments": 1
+    },
+    {
+     "file": "0069.json",
+     "ref": "4.16",
+     "title": "4.16",
+     "segments": 1
+    },
+    {
+     "file": "0070.json",
+     "ref": "4.17",
+     "title": "4.17",
+     "segments": 1
+    },
+    {
+     "file": "0071.json",
+     "ref": "4.18",
+     "title": "4.18",
+     "segments": 1
+    },
+    {
+     "file": "0072.json",
+     "ref": "4.19",
+     "title": "4.19",
+     "segments": 1
+    },
+    {
+     "file": "0073.json",
+     "ref": "4.20",
+     "title": "4.20",
+     "segments": 1
+    },
+    {
+     "file": "0074.json",
+     "ref": "4.21",
+     "title": "4.21",
+     "segments": 1
+    },
+    {
+     "file": "0075.json",
+     "ref": "4.22",
+     "title": "4.22",
+     "segments": 1
+    },
+    {
+     "file": "0076.json",
+     "ref": "4.23",
+     "title": "4.23",
+     "segments": 1
+    },
+    {
+     "file": "0077.json",
+     "ref": "4.24",
+     "title": "4.24",
+     "segments": 1
+    },
+    {
+     "file": "0078.json",
+     "ref": "4.25",
+     "title": "4.25",
+     "segments": 1
+    },
+    {
+     "file": "0079.json",
+     "ref": "4.26",
+     "title": "4.26",
+     "segments": 1
+    },
+    {
+     "file": "0080.json",
+     "ref": "5.1",
+     "title": "5.1",
+     "segments": 1
+    },
+    {
+     "file": "0081.json",
+     "ref": "5.2",
+     "title": "5.2",
+     "segments": 1
+    },
+    {
+     "file": "0082.json",
+     "ref": "5.3",
+     "title": "5.3",
+     "segments": 1
+    },
+    {
+     "file": "0083.json",
+     "ref": "5.4",
+     "title": "5.4",
+     "segments": 1
+    },
+    {
+     "file": "0084.json",
+     "ref": "5.5",
+     "title": "5.5",
+     "segments": 2
+    },
+    {
+     "file": "0085.json",
+     "ref": "5.6",
+     "title": "5.6",
+     "segments": 1
+    },
+    {
+     "file": "0086.json",
+     "ref": "5.7",
+     "title": "5.7",
+     "segments": 1
+    },
+    {
+     "file": "0087.json",
+     "ref": "5.8",
+     "title": "5.8",
+     "segments": 1
+    },
+    {
+     "file": "0088.json",
+     "ref": "5.9",
+     "title": "5.9",
+     "segments": 2
+    },
+    {
+     "file": "0089.json",
+     "ref": "5.10",
+     "title": "5.10",
+     "segments": 1
+    },
+    {
+     "file": "0090.json",
+     "ref": "5.11",
+     "title": "5.11",
+     "segments": 1
+    },
+    {
+     "file": "0091.json",
+     "ref": "5.12",
+     "title": "5.12",
+     "segments": 1
+    },
+    {
+     "file": "0092.json",
+     "ref": "5.13",
+     "title": "5.13",
+     "segments": 1
+    },
+    {
+     "file": "0093.json",
+     "ref": "5.14",
+     "title": "5.14",
+     "segments": 1
+    },
+    {
+     "file": "0094.json",
+     "ref": "5.15",
+     "title": "5.15",
+     "segments": 4
+    },
+    {
+     "file": "0095.json",
+     "ref": "5.16",
+     "title": "5.16",
+     "segments": 2
+    },
+    {
+     "file": "0096.json",
+     "ref": "5.17",
+     "title": "5.17",
+     "segments": 2
+    },
+    {
+     "file": "0097.json",
+     "ref": "5.18",
+     "title": "5.18",
+     "segments": 1
+    },
+    {
+     "file": "0098.json",
+     "ref": "5.19",
+     "title": "5.19",
+     "segments": 3
+    },
+    {
+     "file": "0099.json",
+     "ref": "5.20",
+     "title": "5.20",
+     "segments": 2
+    },
+    {
+     "file": "0100.json",
+     "ref": "5.21",
+     "title": "5.21",
+     "segments": 1
+    },
+    {
+     "file": "0101.json",
+     "ref": "5.22",
+     "title": "5.22",
+     "segments": 1
+    },
+    {
+     "file": "0102.json",
+     "ref": "5.23",
+     "title": "5.23",
+     "segments": 3
+    },
+    {
+     "file": "0103.json",
+     "ref": "5.24",
+     "title": "5.24",
+     "segments": 2
+    },
+    {
+     "file": "0104.json",
+     "ref": "5.25",
+     "title": "5.25",
+     "segments": 1
+    },
+    {
+     "file": "0105.json",
+     "ref": "5.26",
+     "title": "5.26",
+     "segments": 1
+    },
+    {
+     "file": "0106.json",
+     "ref": "5.27",
+     "title": "5.27",
+     "segments": 1
+    },
+    {
+     "file": "0107.json",
+     "ref": "5.28",
+     "title": "5.28",
+     "segments": 1
+    },
+    {
+     "file": "0108.json",
+     "ref": "6.1",
+     "title": "6.1",
+     "segments": 2
+    },
+    {
+     "file": "0109.json",
+     "ref": "6.2",
+     "title": "6.2",
+     "segments": 2
+    },
+    {
+     "file": "0110.json",
+     "ref": "6.3",
+     "title": "6.3",
+     "segments": 1
+    },
+    {
+     "file": "0111.json",
+     "ref": "6.4",
+     "title": "6.4",
+     "segments": 1
+    },
+    {
+     "file": "0112.json",
+     "ref": "6.5",
+     "title": "6.5",
+     "segments": 2
+    },
+    {
+     "file": "0113.json",
+     "ref": "6.6",
+     "title": "6.6",
+     "segments": 1
+    },
+    {
+     "file": "0114.json",
+     "ref": "6.7",
+     "title": "6.7",
+     "segments": 1
+    },
+    {
+     "file": "0115.json",
+     "ref": "6.8",
+     "title": "6.8",
+     "segments": 2
+    },
+    {
+     "file": "0116.json",
+     "ref": "6.9",
+     "title": "6.9",
+     "segments": 2
+    },
+    {
+     "file": "0117.json",
+     "ref": "6.10",
+     "title": "6.10",
+     "segments": 1
+    },
+    {
+     "file": "0118.json",
+     "ref": "6.11",
+     "title": "6.11",
+     "segments": 2
+    },
+    {
+     "file": "0119.json",
+     "ref": "6.12",
+     "title": "6.12",
+     "segments": 2
+    },
+    {
+     "file": "0120.json",
+     "ref": "6.13",
+     "title": "6.13",
+     "segments": 2
+    },
+    {
+     "file": "0121.json",
+     "ref": "6.14",
+     "title": "6.14",
+     "segments": 2
+    },
+    {
+     "file": "0122.json",
+     "ref": "6.15",
+     "title": "6.15",
+     "segments": 2
+    },
+    {
+     "file": "0123.json",
+     "ref": "6.16",
+     "title": "6.16",
+     "segments": 2
+    },
+    {
+     "file": "0124.json",
+     "ref": "6.17",
+     "title": "6.17",
+     "segments": 2
+    },
+    {
+     "file": "0125.json",
+     "ref": "6.18",
+     "title": "6.18",
+     "segments": 2
+    },
+    {
+     "file": "0126.json",
+     "ref": "6.19",
+     "title": "6.19",
+     "segments": 2
+    },
+    {
+     "file": "0127.json",
+     "ref": "6.20",
+     "title": "6.20",
+     "segments": 2
+    },
+    {
+     "file": "0128.json",
+     "ref": "6.21",
+     "title": "6.21",
+     "segments": 2
+    },
+    {
+     "file": "0129.json",
+     "ref": "6.22",
+     "title": "6.22",
+     "segments": 2
+    },
+    {
+     "file": "0130.json",
+     "ref": "6.23",
+     "title": "6.23",
+     "segments": 2
+    },
+    {
+     "file": "0131.json",
+     "ref": "6.24",
+     "title": "6.24",
+     "segments": 4
+    },
+    {
+     "file": "0132.json",
+     "ref": "6.25",
+     "title": "6.25",
+     "segments": 3
+    },
+    {
+     "file": "0133.json",
+     "ref": "6.26",
+     "title": "6.26",
+     "segments": 2
+    },
+    {
+     "file": "0134.json",
+     "ref": "6.27",
+     "title": "6.27",
+     "segments": 2
+    },
+    {
+     "file": "0135.json",
+     "ref": "6.28",
+     "title": "6.28",
+     "segments": 2
+    },
+    {
+     "file": "0136.json",
+     "ref": "6.29",
+     "title": "6.29",
+     "segments": 2
+    },
+    {
+     "file": "0137.json",
+     "ref": "6.30",
+     "title": "6.30",
+     "segments": 2
+    },
+    {
+     "file": "0138.json",
+     "ref": "6.31",
+     "title": "6.31",
+     "segments": 2
+    },
+    {
+     "file": "0139.json",
+     "ref": "6.32",
+     "title": "6.32",
+     "segments": 2
+    },
+    {
+     "file": "0140.json",
+     "ref": "6.33",
+     "title": "6.33",
+     "segments": 2
+    },
+    {
+     "file": "0141.json",
+     "ref": "6.34",
+     "title": "6.34",
+     "segments": 2
+    },
+    {
+     "file": "0142.json",
+     "ref": "6.35",
+     "title": "6.35",
+     "segments": 2
+    },
+    {
+     "file": "0143.json",
+     "ref": "6.36",
+     "title": "6.36",
+     "segments": 2
+    },
+    {
+     "file": "0144.json",
+     "ref": "6.37",
+     "title": "6.37",
+     "segments": 2
+    },
+    {
+     "file": "0145.json",
+     "ref": "6.38",
+     "title": "6.38",
+     "segments": 2
+    },
+    {
+     "file": "0146.json",
+     "ref": "6.39",
+     "title": "6.39",
+     "segments": 2
+    },
+    {
+     "file": "0147.json",
+     "ref": "6.40",
+     "title": "6.40",
+     "segments": 2
+    },
+    {
+     "file": "0148.json",
+     "ref": "6.41",
+     "title": "6.41",
+     "segments": 2
+    },
+    {
+     "file": "0149.json",
+     "ref": "6.42",
+     "title": "6.42",
+     "segments": 2
+    },
+    {
+     "file": "0150.json",
+     "ref": "6.43",
+     "title": "6.43",
+     "segments": 2
+    },
+    {
+     "file": "0151.json",
+     "ref": "6.44",
+     "title": "6.44",
+     "segments": 3
+    },
+    {
+     "file": "0152.json",
+     "ref": "7.1",
+     "title": "7.1",
+     "segments": 1
+    },
+    {
+     "file": "0153.json",
+     "ref": "7.2",
+     "title": "7.2",
+     "segments": 2
+    },
+    {
+     "file": "0154.json",
+     "ref": "7.3",
+     "title": "7.3",
+     "segments": 2
+    },
+    {
+     "file": "0155.json",
+     "ref": "7.4",
+     "title": "7.4",
+     "segments": 2
+    },
+    {
+     "file": "0156.json",
+     "ref": "7.5",
+     "title": "7.5",
+     "segments": 2
+    },
+    {
+     "file": "0157.json",
+     "ref": "7.6",
+     "title": "7.6",
+     "segments": 2
+    },
+    {
+     "file": "0158.json",
+     "ref": "7.7",
+     "title": "7.7",
+     "segments": 2
+    },
+    {
+     "file": "0159.json",
+     "ref": "7.8",
+     "title": "7.8",
+     "segments": 2
+    },
+    {
+     "file": "0160.json",
+     "ref": "7.9",
+     "title": "7.9",
+     "segments": 2
+    },
+    {
+     "file": "0161.json",
+     "ref": "7.10",
+     "title": "7.10",
+     "segments": 2
+    },
+    {
+     "file": "0162.json",
+     "ref": "7.11",
+     "title": "7.11",
+     "segments": 2
+    },
+    {
+     "file": "0163.json",
+     "ref": "7.12",
+     "title": "7.12",
+     "segments": 2
+    },
+    {
+     "file": "0164.json",
+     "ref": "7.13",
+     "title": "7.13",
+     "segments": 2
+    },
+    {
+     "file": "0165.json",
+     "ref": "7.14",
+     "title": "7.14",
+     "segments": 2
+    },
+    {
+     "file": "0166.json",
+     "ref": "7.15",
+     "title": "7.15",
+     "segments": 2
+    },
+    {
+     "file": "0167.json",
+     "ref": "7.16",
+     "title": "7.16",
+     "segments": 2
+    },
+    {
+     "file": "0168.json",
+     "ref": "7.17",
+     "title": "7.17",
+     "segments": 2
+    },
+    {
+     "file": "0169.json",
+     "ref": "7.18",
+     "title": "7.18",
+     "segments": 2
+    },
+    {
+     "file": "0170.json",
+     "ref": "7.19",
+     "title": "7.19",
+     "segments": 2
+    },
+    {
+     "file": "0171.json",
+     "ref": "7.20",
+     "title": "7.20",
+     "segments": 2
+    },
+    {
+     "file": "0172.json",
+     "ref": "7.21",
+     "title": "7.21",
+     "segments": 2
+    },
+    {
+     "file": "0173.json",
+     "ref": "7.22",
+     "title": "7.22",
+     "segments": 2
+    },
+    {
+     "file": "0174.json",
+     "ref": "7.23",
+     "title": "7.23",
+     "segments": 2
+    },
+    {
+     "file": "0175.json",
+     "ref": "7.24",
+     "title": "7.24",
+     "segments": 2
+    },
+    {
+     "file": "0176.json",
+     "ref": "7.25",
+     "title": "7.25",
+     "segments": 2
+    },
+    {
+     "file": "0177.json",
+     "ref": "7.26",
+     "title": "7.26",
+     "segments": 2
+    },
+    {
+     "file": "0178.json",
+     "ref": "7.27",
+     "title": "7.27",
+     "segments": 2
+    },
+    {
+     "file": "0179.json",
+     "ref": "7.28",
+     "title": "7.28",
+     "segments": 2
+    },
+    {
+     "file": "0180.json",
+     "ref": "7.29",
+     "title": "7.29",
+     "segments": 2
+    },
+    {
+     "file": "0181.json",
+     "ref": "7.30",
+     "title": "7.30",
+     "segments": 2
+    },
+    {
+     "file": "0182.json",
+     "ref": "7.31",
+     "title": "7.31",
+     "segments": 2
+    },
+    {
+     "file": "0183.json",
+     "ref": "7.32",
+     "title": "7.32",
+     "segments": 2
+    },
+    {
+     "file": "0184.json",
+     "ref": "7.33",
+     "title": "7.33",
+     "segments": 2
+    },
+    {
+     "file": "0185.json",
+     "ref": "7.34",
+     "title": "7.34",
+     "segments": 2
+    },
+    {
+     "file": "0186.json",
+     "ref": "7.35",
+     "title": "7.35",
+     "segments": 2
+    },
+    {
+     "file": "0187.json",
+     "ref": "7.36",
+     "title": "7.36",
+     "segments": 2
+    },
+    {
+     "file": "0188.json",
+     "ref": "7.37",
+     "title": "7.37",
+     "segments": 2
+    },
+    {
+     "file": "0189.json",
+     "ref": "7.38",
+     "title": "7.38",
+     "segments": 2
+    },
+    {
+     "file": "0190.json",
+     "ref": "7.39",
+     "title": "7.39",
+     "segments": 2
+    },
+    {
+     "file": "0191.json",
+     "ref": "7.40",
+     "title": "7.40",
+     "segments": 2
+    },
+    {
+     "file": "0192.json",
+     "ref": "7.41",
+     "title": "7.41",
+     "segments": 2
+    },
+    {
+     "file": "0193.json",
+     "ref": "7.42",
+     "title": "7.42",
+     "segments": 2
+    },
+    {
+     "file": "0194.json",
+     "ref": "7.43",
+     "title": "7.43",
+     "segments": 2
+    },
+    {
+     "file": "0195.json",
+     "ref": "7.44",
+     "title": "7.44",
+     "segments": 2
+    },
+    {
+     "file": "0196.json",
+     "ref": "7.45",
+     "title": "7.45",
+     "segments": 2
+    },
+    {
+     "file": "0197.json",
+     "ref": "7.46",
+     "title": "7.46",
+     "segments": 2
+    },
+    {
+     "file": "0198.json",
+     "ref": "7.47",
+     "title": "7.47",
+     "segments": 2
+    },
+    {
+     "file": "0199.json",
+     "ref": "7.48",
+     "title": "7.48",
+     "segments": 2
+    },
+    {
+     "file": "0200.json",
+     "ref": "7.49",
+     "title": "7.49",
+     "segments": 2
+    },
+    {
+     "file": "0201.json",
+     "ref": "7.50",
+     "title": "7.50",
+     "segments": 1
+    },
+    {
+     "file": "0202.json",
+     "ref": "7.51",
+     "title": "7.51",
+     "segments": 1
+    },
+    {
+     "file": "0203.json",
+     "ref": "7.52",
+     "title": "7.52",
+     "segments": 1
+    },
+    {
+     "file": "0204.json",
+     "ref": "7.53",
+     "title": "7.53",
+     "segments": 2
+    },
+    {
+     "file": "0205.json",
+     "ref": "7.54",
+     "title": "7.54",
+     "segments": 1
+    },
+    {
+     "file": "0206.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 5
+    },
+    {
+     "file": "0207.json",
+     "ref": "p2",
+     "title": "p2",
+     "segments": 10
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 0,
+  "shared": 0
+ }
+}

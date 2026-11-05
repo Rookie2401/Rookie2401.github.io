@@ -1,0 +1,1247 @@
+{
+ "workId": "perkins-cases-of-conscience",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "perkins-whole-treatise-cases-conscience-1606-tcp-a09365",
+   "role": "english",
+   "language": "english",
+   "credit": "The whole treatise of the cases of conscience distinguished into three bookes, in EEBO-TCP text A09365 (STC STC 19669; STC) (Cambridge: Printed by Iohn Legat, Printer to the Vniuersitie of Cambridge, 1606). Transcription: Text Creation Partnership (EEBO-TCP Phase I), keyboarded from images of the original (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A09365/master/A09365.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1255726,
+   "sourceSha256": "5cc990d39a0e3dde757409cc7902e349f589ae92ca2d4ac1acf4b610a141661a",
+   "leftOut": {
+    "pb": 662,
+    "note": 418,
+    "unread": 245
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 152021,
+    "unreadPerThousand": 1.6
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "TO THE RIGHT HONOVRABLE, EDWARD Lord Dennie, Baron of Waltham, &c.",
+     "segments": 15
+    },
+    {
+     "file": "0002.json",
+     "ref": "front.2",
+     "title": "To the godly and wellaffected Reader whosoeuer.",
+     "segments": 4
+    },
+    {
+     "file": "0003.json",
+     "ref": "front.3",
+     "title": "The Table of the Texts of Scripture.",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.1",
+     "title": "The Preface declaring the Ground and Order of the Treatise following.",
+     "segments": 7
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.2.0",
+     "title": "CHAP. I.",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.2.1",
+     "title": "Sect. 1.",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.2.2",
+     "title": "Sect. 2.",
+     "segments": 4
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.3.0",
+     "title": "CHAP. II.",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.3.1",
+     "title": "Sect. 1.",
+     "segments": 3
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.3.2",
+     "title": "Sect. 3.",
+     "segments": 17
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.3.3",
+     "title": "Sect. 4.",
+     "segments": 5
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.3.4",
+     "title": "Sect. 5.",
+     "segments": 7
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.3.5",
+     "title": "Sect. 6.",
+     "segments": 3
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.3.6",
+     "title": "Sect. 7.",
+     "segments": 3
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.3.7",
+     "title": "Sect. 8.",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.3.8",
+     "title": "Sect. 9.",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.3.9",
+     "title": "Sect. 10.",
+     "segments": 10
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.3.10",
+     "title": "Sect. 11.",
+     "segments": 5
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.4",
+     "title": "CHAP. III.",
+     "segments": 4
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.5.0",
+     "title": "CHAP. IIII.",
+     "segments": 5
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.5.1",
+     "title": "1.5.1",
+     "segments": 4
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.6.0",
+     "title": "CHAP. V.",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.6.1.0",
+     "title": "I. Question. What must a man doe, that he may come into Gods fauor, and be saued?",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.6.1.1",
+     "title": "Sect. 1.",
+     "segments": 4
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.6.1.2",
+     "title": "Sect. 2.",
+     "segments": 8
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.6.1.3",
+     "title": "Sect. 3.",
+     "segments": 3
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.6.1.4",
+     "title": "Sect. 4.",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.6.1.5",
+     "title": "Sect. 5.",
+     "segments": 10
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.7.0",
+     "title": "CHAP. VI.",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.7.1.0",
+     "title": "II. Question. How a man may be in conscience assured, of his owne saluation?",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.7.1.1",
+     "title": "Sect. 1.",
+     "segments": 4
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.7.1.2",
+     "title": "Sect. 2.",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.7.1.3",
+     "title": "Sect. 3.",
+     "segments": 4
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.7.1.4",
+     "title": "Sect. 4.",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.7.1.5",
+     "title": "Sect. 5.",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.8.0",
+     "title": "CHAP. VII.",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.8.1.0",
+     "title": "III. Question. How a man beeing in distresse of minde, may be comforted and releeued?",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.8.1.1",
+     "title": "Sect. 1.",
+     "segments": 4
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.8.1.2",
+     "title": "Sect. 2.",
+     "segments": 7
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.8.1.3",
+     "title": "Sect. 3.",
+     "segments": 5
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.8.1.4",
+     "title": "Sect. 4.",
+     "segments": 10
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.8.1.5",
+     "title": "Sect. 5.",
+     "segments": 12
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.9.0",
+     "title": "CHAP. VIII.",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "1.9.1",
+     "title": "Sect. 1.",
+     "segments": 3
+    },
+    {
+     "file": "0045.json",
+     "ref": "1.9.2",
+     "title": "Sect. 2.",
+     "segments": 1
+    },
+    {
+     "file": "0046.json",
+     "ref": "1.9.3",
+     "title": "Sect. 3.",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "1.9.4",
+     "title": "Sect. 4.",
+     "segments": 9
+    },
+    {
+     "file": "0048.json",
+     "ref": "1.9.5",
+     "title": "Sect. 5.",
+     "segments": 11
+    },
+    {
+     "file": "0049.json",
+     "ref": "1.10.0",
+     "title": "CHAP. IX.",
+     "segments": 3
+    },
+    {
+     "file": "0050.json",
+     "ref": "1.10.1",
+     "title": "Sect. 1.",
+     "segments": 2
+    },
+    {
+     "file": "0051.json",
+     "ref": "1.10.2",
+     "title": "Sect. 2.",
+     "segments": 25
+    },
+    {
+     "file": "0052.json",
+     "ref": "1.10.3",
+     "title": "Sect. 2.",
+     "segments": 27
+    },
+    {
+     "file": "0053.json",
+     "ref": "1.10.4",
+     "title": "Sect. 3.",
+     "segments": 32
+    },
+    {
+     "file": "0054.json",
+     "ref": "1.10.5",
+     "title": "Sect. 4.",
+     "segments": 19
+    },
+    {
+     "file": "0055.json",
+     "ref": "1.11.0",
+     "title": "CHAP. X.",
+     "segments": 2
+    },
+    {
+     "file": "0056.json",
+     "ref": "1.11.1",
+     "title": "Sect. 1.",
+     "segments": 3
+    },
+    {
+     "file": "0057.json",
+     "ref": "1.11.2",
+     "title": "Sect. 2.",
+     "segments": 18
+    },
+    {
+     "file": "0058.json",
+     "ref": "1.12.0",
+     "title": "CHAP. XI.",
+     "segments": 2
+    },
+    {
+     "file": "0059.json",
+     "ref": "1.12.1",
+     "title": "Sect. 1.",
+     "segments": 16
+    },
+    {
+     "file": "0060.json",
+     "ref": "1.12.2",
+     "title": "Sect. 2.",
+     "segments": 18
+    },
+    {
+     "file": "0061.json",
+     "ref": "1.13.0",
+     "title": "CHAP. XII.",
+     "segments": 3
+    },
+    {
+     "file": "0062.json",
+     "ref": "1.13.1",
+     "title": "Sect. 1.",
+     "segments": 5
+    },
+    {
+     "file": "0063.json",
+     "ref": "1.13.2",
+     "title": "Sect. 2.",
+     "segments": 13
+    },
+    {
+     "file": "0064.json",
+     "ref": "1.13.3",
+     "title": "Sect. 3.",
+     "segments": 8
+    },
+    {
+     "file": "0065.json",
+     "ref": "1.end",
+     "title": "1.end",
+     "segments": 1
+    },
+    {
+     "file": "0066.json",
+     "ref": "2",
+     "title": "TO THE RIGHT HONOVRABLE, EDWARD LORD DENNIE, BARON of Waltham, &c.",
+     "segments": 10
+    },
+    {
+     "file": "0067.json",
+     "ref": "3.1",
+     "title": "CHAP. I.",
+     "segments": 4
+    },
+    {
+     "file": "0068.json",
+     "ref": "3.2.0",
+     "title": "CHAP. II.",
+     "segments": 2
+    },
+    {
+     "file": "0069.json",
+     "ref": "3.2.1.0",
+     "title": "I. Question. Whether there be a God?",
+     "segments": 4
+    },
+    {
+     "file": "0070.json",
+     "ref": "3.2.1.1",
+     "title": "Sect. 1.",
+     "segments": 33
+    },
+    {
+     "file": "0071.json",
+     "ref": "3.2.1.2",
+     "title": "Sect. 2.",
+     "segments": 5
+    },
+    {
+     "file": "0072.json",
+     "ref": "3.2.1.3",
+     "title": "Sect. 3.",
+     "segments": 2
+    },
+    {
+     "file": "0073.json",
+     "ref": "3.2.2",
+     "title": "II. Question. Whether Iesus the sonne of Mary, be the sonne of God, and Redeemer of the world?",
+     "segments": 13
+    },
+    {
+     "file": "0074.json",
+     "ref": "3.3.0",
+     "title": "CHAP. III.",
+     "segments": 1
+    },
+    {
+     "file": "0075.json",
+     "ref": "3.3.1.0",
+     "title": "The second maine question, is touching the truth of scripture, Whether the scriptures be the true word of God?",
+     "segments": 1
+    },
+    {
+     "file": "0076.json",
+     "ref": "3.3.1.1",
+     "title": "Sect. 1.",
+     "segments": 6
+    },
+    {
+     "file": "0077.json",
+     "ref": "3.3.1.2",
+     "title": "Sect. 2.",
+     "segments": 10
+    },
+    {
+     "file": "0078.json",
+     "ref": "3.3.1.3",
+     "title": "Sect. 3.",
+     "segments": 3
+    },
+    {
+     "file": "0079.json",
+     "ref": "3.3.1.4",
+     "title": "Sect. 4.",
+     "segments": 3
+    },
+    {
+     "file": "0080.json",
+     "ref": "3.3.1.5",
+     "title": "Sect. 5.",
+     "segments": 2
+    },
+    {
+     "file": "0081.json",
+     "ref": "3.3.1.6",
+     "title": "Sect. 6.",
+     "segments": 7
+    },
+    {
+     "file": "0082.json",
+     "ref": "3.3.1.7",
+     "title": "Sect. 7.",
+     "segments": 42
+    },
+    {
+     "file": "0083.json",
+     "ref": "3.4.0",
+     "title": "CHAP. IV.",
+     "segments": 5
+    },
+    {
+     "file": "0084.json",
+     "ref": "3.4.1",
+     "title": "I. Question. How God is to be conceiued in our mindes, when wee performe any seruice or worship vnto him?",
+     "segments": 7
+    },
+    {
+     "file": "0085.json",
+     "ref": "3.5.0",
+     "title": "CHAP. V.",
+     "segments": 1
+    },
+    {
+     "file": "0086.json",
+     "ref": "3.5.1.0",
+     "title": "II. Question. How God is to be worshipped and serued.",
+     "segments": 1
+    },
+    {
+     "file": "0087.json",
+     "ref": "3.5.1.1",
+     "title": "Sect. 1.",
+     "segments": 10
+    },
+    {
+     "file": "0088.json",
+     "ref": "3.5.1.2",
+     "title": "Sect. 2.",
+     "segments": 6
+    },
+    {
+     "file": "0089.json",
+     "ref": "3.6.0",
+     "title": "CHAP. VI.",
+     "segments": 4
+    },
+    {
+     "file": "0090.json",
+     "ref": "3.6.1.0",
+     "title": "I. Question. How shall a man make a Lawfull praier. lawfull and acceptable praier to God?",
+     "segments": 1
+    },
+    {
+     "file": "0091.json",
+     "ref": "3.6.1.1",
+     "title": "Sect. 1.",
+     "segments": 5
+    },
+    {
+     "file": "0092.json",
+     "ref": "3.6.1.2",
+     "title": "Sect. 2.",
+     "segments": 12
+    },
+    {
+     "file": "0093.json",
+     "ref": "3.6.1.3",
+     "title": "Sect. 3.",
+     "segments": 4
+    },
+    {
+     "file": "0094.json",
+     "ref": "3.6.2.1",
+     "title": "Sect. 1.",
+     "segments": 6
+    },
+    {
+     "file": "0095.json",
+     "ref": "3.6.2.2",
+     "title": "Sect. 2.",
+     "segments": 3
+    },
+    {
+     "file": "0096.json",
+     "ref": "3.6.3.0",
+     "title": "III. Question. What be the particular Circumstances Of the Circumstances of Prayer. of Prayer?",
+     "segments": 1
+    },
+    {
+     "file": "0097.json",
+     "ref": "3.6.3.1",
+     "title": "Sect. 1.",
+     "segments": 10
+    },
+    {
+     "file": "0098.json",
+     "ref": "3.6.3.2",
+     "title": "Sect. 2.",
+     "segments": 4
+    },
+    {
+     "file": "0099.json",
+     "ref": "3.6.3.3",
+     "title": "Sect. 3.",
+     "segments": 5
+    },
+    {
+     "file": "0100.json",
+     "ref": "3.6.3.4",
+     "title": "Sect. 4.",
+     "segments": 11
+    },
+    {
+     "file": "0101.json",
+     "ref": "3.6.4",
+     "title": "IV. Question touching prayer is, How their mindes are to be pacified, which are troubled by sundry accidents, that fall out in their praiers.",
+     "segments": 11
+    },
+    {
+     "file": "0102.json",
+     "ref": "3.7.0",
+     "title": "CHAP. VII.",
+     "segments": 4
+    },
+    {
+     "file": "0103.json",
+     "ref": "3.7.1",
+     "title": "How any man may profitably, to his owne comfort and saluation, heare the word of God?",
+     "segments": 25
+    },
+    {
+     "file": "0104.json",
+     "ref": "3.7.2",
+     "title": "II. Question touching hearers is, How are they to be comforted, who after long hearing of the word, either profit very litle, or not at all?",
+     "segments": 6
+    },
+    {
+     "file": "0105.json",
+     "ref": "3.8.0",
+     "title": "CHAP. VIII.",
+     "segments": 3
+    },
+    {
+     "file": "0106.json",
+     "ref": "3.8.1",
+     "title": "Whether the Sacraments ministred by Heretickes, Idolatours and vnsufficient ministers be Sacraments or no?",
+     "segments": 7
+    },
+    {
+     "file": "0107.json",
+     "ref": "3.9.0",
+     "title": "CHAP. IX.",
+     "segments": 2
+    },
+    {
+     "file": "0108.json",
+     "ref": "3.9.1.0",
+     "title": "I. Question. Whether Baptisme be necessarie to saluation, or no?",
+     "segments": 1
+    },
+    {
+     "file": "0109.json",
+     "ref": "3.9.1.1",
+     "title": "Sect. 1.",
+     "segments": 4
+    },
+    {
+     "file": "0110.json",
+     "ref": "3.9.1.2",
+     "title": "Sect. 2.",
+     "segments": 15
+    },
+    {
+     "file": "0111.json",
+     "ref": "3.9.2",
+     "title": "II. Question. Whether witnesses which we commonly call Godfathers and Godmothers be necessarie?",
+     "segments": 28
+    },
+    {
+     "file": "0112.json",
+     "ref": "3.9.3",
+     "title": "III. Question, touching Baptisme. Whether children of excommunicate persons, which are cast out, and not holden as members of the Church, haue right to Baptisme?",
+     "segments": 20
+    },
+    {
+     "file": "0113.json",
+     "ref": "3.9.4",
+     "title": "IV. Question. How men are to make a right vse of their baptisme, when they become to yeares?",
+     "segments": 13
+    },
+    {
+     "file": "0114.json",
+     "ref": "3.9.5",
+     "title": "V. Question. Whether a man falling into sinne, after he is baptized, may haue any benefit of his Baptisme?",
+     "segments": 4
+    },
+    {
+     "file": "0115.json",
+     "ref": "3.10.0",
+     "title": "CHAP. X.",
+     "segments": 2
+    },
+    {
+     "file": "0116.json",
+     "ref": "3.10.1",
+     "title": "I. Question. How farre forth men haue libertie, to vse or not vse the Lords Supper?",
+     "segments": 7
+    },
+    {
+     "file": "0117.json",
+     "ref": "3.10.2.0",
+     "title": "II. Question. How may a man rightly vse the Lords Supper, to his comfort and saluation?",
+     "segments": 1
+    },
+    {
+     "file": "0118.json",
+     "ref": "3.10.2.1",
+     "title": "Sect. 1.",
+     "segments": 17
+    },
+    {
+     "file": "0119.json",
+     "ref": "3.10.2.2",
+     "title": "Sect. 2.",
+     "segments": 19
+    },
+    {
+     "file": "0120.json",
+     "ref": "3.10.2.3",
+     "title": "Sect. 3.",
+     "segments": 3
+    },
+    {
+     "file": "0121.json",
+     "ref": "3.11.0",
+     "title": "CHAP. XI.",
+     "segments": 2
+    },
+    {
+     "file": "0122.json",
+     "ref": "3.11.1",
+     "title": "Sect. 1.",
+     "segments": 4
+    },
+    {
+     "file": "0123.json",
+     "ref": "3.11.2.0",
+     "title": "Sect. 2.",
+     "segments": 1
+    },
+    {
+     "file": "0124.json",
+     "ref": "3.11.2.1",
+     "title": "1. Question. To what things is Adoration due, and in what manner?",
+     "segments": 18
+    },
+    {
+     "file": "0125.json",
+     "ref": "3.12.0",
+     "title": "CHAP. XII.",
+     "segments": 2
+    },
+    {
+     "file": "0126.json",
+     "ref": "3.12.1",
+     "title": "I. Question. Whether Confession of faith be necessarie, and when?",
+     "segments": 8
+    },
+    {
+     "file": "0127.json",
+     "ref": "3.12.2",
+     "title": "II. Question. Whether it be lawfull for a man being vrged, to goe to Idol-seruice, and heare Masse, so as he keepe his heart to God?",
+     "segments": 13
+    },
+    {
+     "file": "0128.json",
+     "ref": "3.12.3.1",
+     "title": "Sect. 1.",
+     "segments": 10
+    },
+    {
+     "file": "0129.json",
+     "ref": "3.12.3.2",
+     "title": "Sect. 2.",
+     "segments": 11
+    },
+    {
+     "file": "0130.json",
+     "ref": "3.12.3.3",
+     "title": "Sect. 3.",
+     "segments": 8
+    },
+    {
+     "file": "0131.json",
+     "ref": "3.13.0",
+     "title": "CHAP. XIII.",
+     "segments": 3
+    },
+    {
+     "file": "0132.json",
+     "ref": "3.13.1.1",
+     "title": "I. Question. What is an oathe?",
+     "segments": 15
+    },
+    {
+     "file": "0133.json",
+     "ref": "3.13.2.1",
+     "title": "II. Question. How an Oathe is to be taken in a good and godly manner?",
+     "segments": 14
+    },
+    {
+     "file": "0134.json",
+     "ref": "3.13.3.1",
+     "title": "III. Question. How farre-forth doth an Oath binde, and is to be kept?",
+     "segments": 28
+    },
+    {
+     "file": "0135.json",
+     "ref": "3.14.0",
+     "title": "CHAP. XIIII.",
+     "segments": 2
+    },
+    {
+     "file": "0136.json",
+     "ref": "3.14.1",
+     "title": "I. Question. What is a Vowe?",
+     "segments": 2
+    },
+    {
+     "file": "0137.json",
+     "ref": "3.14.2",
+     "title": "II. Question. Whether a vowe, be now in the newe Testament, any part of Religion, or Gods worship?",
+     "segments": 10
+    },
+    {
+     "file": "0138.json",
+     "ref": "3.14.3",
+     "title": "III. Question. When a Uow made, doth binde, and when not?",
+     "segments": 17
+    },
+    {
+     "file": "0139.json",
+     "ref": "3.14.4",
+     "title": "IV. Question. Whether Monasticall, or Monkish vowes binde or no?",
+     "segments": 35
+    },
+    {
+     "file": "0140.json",
+     "ref": "3.15.0",
+     "title": "CHAP. XV.",
+     "segments": 3
+    },
+    {
+     "file": "0141.json",
+     "ref": "3.15.1",
+     "title": "I. Question. What is a Religious Fast?",
+     "segments": 2
+    },
+    {
+     "file": "0142.json",
+     "ref": "3.15.2.0",
+     "title": "II. Question. How a Religious Fast is to be obserued?",
+     "segments": 2
+    },
+    {
+     "file": "0143.json",
+     "ref": "3.15.2.1",
+     "title": "Sect. 1.",
+     "segments": 3
+    },
+    {
+     "file": "0144.json",
+     "ref": "3.15.2.2",
+     "title": "Sect. 2.",
+     "segments": 13
+    },
+    {
+     "file": "0145.json",
+     "ref": "3.15.2.3",
+     "title": "Sect. 3.",
+     "segments": 5
+    },
+    {
+     "file": "0146.json",
+     "ref": "3.15.3",
+     "title": "III. Question. Whether Popish Fasts be lawfull, and approoued of God?",
+     "segments": 13
+    },
+    {
+     "file": "0147.json",
+     "ref": "3.16.0",
+     "title": "CHAP. XVI.",
+     "segments": 3
+    },
+    {
+     "file": "0148.json",
+     "ref": "3.16.1.0",
+     "title": "Whether it be in the libertie of the Church of God vpon earth, to alter the Sabboth day from the seuenth day, to any other?",
+     "segments": 4
+    },
+    {
+     "file": "0149.json",
+     "ref": "3.16.1.1",
+     "title": "Sect. 1.",
+     "segments": 8
+    },
+    {
+     "file": "0150.json",
+     "ref": "3.16.1.2",
+     "title": "Sect. 2.",
+     "segments": 13
+    },
+    {
+     "file": "0151.json",
+     "ref": "3.16.1.3",
+     "title": "Sect. 2.",
+     "segments": 1
+    },
+    {
+     "file": "0152.json",
+     "ref": "3.16.1.4",
+     "title": "Sect. 3.",
+     "segments": 9
+    },
+    {
+     "file": "0153.json",
+     "ref": "3.16.2.0",
+     "title": "How the Sabboth of the New Testament is to be obserued?",
+     "segments": 1
+    },
+    {
+     "file": "0154.json",
+     "ref": "3.16.2.1",
+     "title": "Sect. 1.",
+     "segments": 17
+    },
+    {
+     "file": "0155.json",
+     "ref": "3.16.2.2",
+     "title": "Sect. 2.",
+     "segments": 4
+    },
+    {
+     "file": "0156.json",
+     "ref": "3.16.3",
+     "title": "When the Sabboth doth beginne?",
+     "segments": 7
+    },
+    {
+     "file": "0157.json",
+     "ref": "3.end",
+     "title": "3.end",
+     "segments": 1
+    },
+    {
+     "file": "0158.json",
+     "ref": "4.1",
+     "title": "CHAP. I.",
+     "segments": 19
+    },
+    {
+     "file": "0159.json",
+     "ref": "4.2.0",
+     "title": "CHAP. II.",
+     "segments": 2
+    },
+    {
+     "file": "0160.json",
+     "ref": "4.2.1",
+     "title": "I. Question. How a man should practise Prudence or Wisedome?",
+     "segments": 17
+    },
+    {
+     "file": "0161.json",
+     "ref": "4.2.2",
+     "title": "II. Question. Whether a man may lawfully and with good conscience, vse Pollicie in the affaires of this life?",
+     "segments": 4
+    },
+    {
+     "file": "0162.json",
+     "ref": "4.3.0",
+     "title": "CHAP. III.",
+     "segments": 4
+    },
+    {
+     "file": "0163.json",
+     "ref": "4.3.1",
+     "title": "I. Question. How may a man carrie himselfe, in respect of iniuries and offences done vnto him?",
+     "segments": 51
+    },
+    {
+     "file": "0164.json",
+     "ref": "4.3.2.0",
+     "title": "II. Question. When Anger is a vertue, and so, good and lawfull, and whē it is a vice, & consequētly euill and vnlawfull?",
+     "segments": 1
+    },
+    {
+     "file": "0165.json",
+     "ref": "4.3.2.1",
+     "title": "Sect. 1.",
+     "segments": 11
+    },
+    {
+     "file": "0166.json",
+     "ref": "4.3.2.2",
+     "title": "Sect. 2.",
+     "segments": 7
+    },
+    {
+     "file": "0167.json",
+     "ref": "4.3.3.0",
+     "title": "III. Question. What is the Remedie of vniust Anger?",
+     "segments": 1
+    },
+    {
+     "file": "0168.json",
+     "ref": "4.3.3.1",
+     "title": "Sect. 1.",
+     "segments": 16
+    },
+    {
+     "file": "0169.json",
+     "ref": "4.3.3.2",
+     "title": "Sect. 2.",
+     "segments": 8
+    },
+    {
+     "file": "0170.json",
+     "ref": "4.4.0",
+     "title": "CHAP. IIII.",
+     "segments": 3
+    },
+    {
+     "file": "0171.json",
+     "ref": "4.4.1.0",
+     "title": "Sect. 1.",
+     "segments": 1
+    },
+    {
+     "file": "0172.json",
+     "ref": "4.4.1.1",
+     "title": "I. Question. How farre a man may, with good conscience, proceed in the desiring and seeking of Riches?",
+     "segments": 25
+    },
+    {
+     "file": "0173.json",
+     "ref": "4.4.1.2",
+     "title": "II. Question. How a man may, with good conscience, possesse and vse Riches!",
+     "segments": 20
+    },
+    {
+     "file": "0174.json",
+     "ref": "4.4.2.0",
+     "title": "Sect. 2.",
+     "segments": 1
+    },
+    {
+     "file": "0175.json",
+     "ref": "4.4.2.1",
+     "title": "I. Question. Whether there be any difference in the vse of Meates & Drinks, now in the times of the New Testament?",
+     "segments": 17
+    },
+    {
+     "file": "0176.json",
+     "ref": "4.4.2.2.0",
+     "title": "II. Question. How we may rightly vse meates and drinks, in such sort as our eating may be to Gods glory, and our owne comfort?",
+     "segments": 1
+    },
+    {
+     "file": "0177.json",
+     "ref": "4.4.2.2.1",
+     "title": "§ect. 1.",
+     "segments": 4
+    },
+    {
+     "file": "0178.json",
+     "ref": "4.4.2.2.2",
+     "title": "§ect. 2.",
+     "segments": 25
+    },
+    {
+     "file": "0179.json",
+     "ref": "4.4.2.2.3",
+     "title": "Sect. 3.",
+     "segments": 8
+    },
+    {
+     "file": "0180.json",
+     "ref": "4.4.3.0",
+     "title": "Sect. 3.",
+     "segments": 1
+    },
+    {
+     "file": "0181.json",
+     "ref": "4.4.3.1",
+     "title": "I. Question. Whether ornaments of gold, siluer, precious stones, silkes & veluets, &c. may not lawfully be vsed?",
+     "segments": 8
+    },
+    {
+     "file": "0182.json",
+     "ref": "4.4.3.2.0",
+     "title": "II. Question. What is the right, lawfull, and holy vse of apparell.",
+     "segments": 1
+    },
+    {
+     "file": "0183.json",
+     "ref": "4.4.3.2.1",
+     "title": "§ect. 1. In the right Preparation of our apparell, two Rules are propounded in Scripture, Preparation of apparell. for our direction.",
+     "segments": 17
+    },
+    {
+     "file": "0184.json",
+     "ref": "4.4.3.2.2",
+     "title": "§ect. 2.",
+     "segments": 32
+    },
+    {
+     "file": "0185.json",
+     "ref": "4.4.4.0",
+     "title": "Sect. 4.",
+     "segments": 1
+    },
+    {
+     "file": "0186.json",
+     "ref": "4.4.4.1",
+     "title": "I. Question. Whether Recreation be lawfull for a Christian man?",
+     "segments": 3
+    },
+    {
+     "file": "0187.json",
+     "ref": "4.4.4.2",
+     "title": "II. Question. What kindes of recreations and sports, are lawfull & conuenient, and what be vnlawfull and vnconuenient?",
+     "segments": 15
+    },
+    {
+     "file": "0188.json",
+     "ref": "4.4.4.3",
+     "title": "III. Question. How are we to vse recreations?",
+     "segments": 8
+    },
+    {
+     "file": "0189.json",
+     "ref": "4.5.0",
+     "title": "CHAP. V.",
+     "segments": 6
+    },
+    {
+     "file": "0190.json",
+     "ref": "4.5.1.0",
+     "title": "Sect. 1.",
+     "segments": 2
+    },
+    {
+     "file": "0191.json",
+     "ref": "4.5.1.1",
+     "title": "I. Question. Who, or what persons must giue Almes?",
+     "segments": 8
+    },
+    {
+     "file": "0192.json",
+     "ref": "4.5.1.2",
+     "title": "II. Question. To whome must almes be giuen?",
+     "segments": 13
+    },
+    {
+     "file": "0193.json",
+     "ref": "4.5.1.3",
+     "title": "III. Question. How much releefe must every man giue?",
+     "segments": 6
+    },
+    {
+     "file": "0194.json",
+     "ref": "4.5.1.4",
+     "title": "IV. Question. How many waies is a man to giue almes?",
+     "segments": 1
+    },
+    {
+     "file": "0195.json",
+     "ref": "4.5.1.5",
+     "title": "V. Question. How should almes be giuen, that they may be good workes, and pleasing vnto God?",
+     "segments": 7
+    },
+    {
+     "file": "0196.json",
+     "ref": "4.5.2",
+     "title": "Sect. 2.",
+     "segments": 18
+    },
+    {
+     "file": "0197.json",
+     "ref": "4.6.0",
+     "title": "CHAP. VI.",
+     "segments": 10
+    },
+    {
+     "file": "0198.json",
+     "ref": "4.6.1",
+     "title": "I. Question. What is that iudgement, which men are to giue, and hold, one to and of another?",
+     "segments": 23
+    },
+    {
+     "file": "0199.json",
+     "ref": "4.6.2.0",
+     "title": "II. Question. How one man should honour an other?",
+     "segments": 7
+    },
+    {
+     "file": "0200.json",
+     "ref": "4.6.2.1",
+     "title": "Sect. 1.",
+     "segments": 8
+    },
+    {
+     "file": "0201.json",
+     "ref": "4.6.2.2",
+     "title": "Sect. 2.",
+     "segments": 3
+    },
+    {
+     "file": "0202.json",
+     "ref": "4.6.2.3",
+     "title": "Sect. 3.",
+     "segments": 1
+    },
+    {
+     "file": "0203.json",
+     "ref": "4.6.2.4",
+     "title": "Sect. 4. 〈◊〉",
+     "segments": 8
+    }
+   ]
+  }
+ ]
+}

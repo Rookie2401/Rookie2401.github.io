@@ -1,0 +1,322 @@
+{
+ "workId": "athanasius-defence-flight",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "athanasius-defence-flight-npnf2-4-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Defence of His Flight (Apologia de fuga sua), in A Select Library of Nicene and Post-Nicene Fathers of the Christian Church, Second Series, vol. IV: Athanasius, Select Works and Letters (American edition; ed. Philip Schaff and Henry Wace; vol. edited by Archibald Robertson), trans. John Henry Newman and others (Oxford Library of the Fathers, 'Historical Tracts of S. Athanasius', 1843), revised by Archibald Robertson (New York: The Christian Literature Company, 1892). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers, Series II), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IV/Defence_of_His_Flight/Apologia_de_Fuga",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 76840,
+   "sourceSha256": "3ad4d58c7a1df2cf67d87b25b6b3b7a2a0d6534db4e23d5a6af04e987de3a234",
+   "leftOut": {
+    "note": 122
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 1",
+     "bytes": 2143,
+     "sha256": "29fd13f78ad23f17be95203d4bc59551cfef3f12f0ba5bc6ee60929932995651"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 2",
+     "bytes": 3682,
+     "sha256": "18f6e7fb4e955cab07afd28dc79ab25a7884389e59018ddb8263763fa243e536"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 3",
+     "bytes": 3662,
+     "sha256": "2cca783d7b91be2908a5723800031c14934b604bfe94f36ca84a32e5066012c9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 4",
+     "bytes": 1948,
+     "sha256": "2f4da9dda8bbf241be70de360fbc853d6f13e620cdb79c804546cce8d1793b98"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 5",
+     "bytes": 2254,
+     "sha256": "d19fca779982d15c016da5ac85b6fe8848c3fc93e00ea651fccf8484979d8d77"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 6",
+     "bytes": 3279,
+     "sha256": "72bee6bef1a5538e18741bdedfbd5f53a8bb22895e938f1426f6eb3348a0a8b4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 7",
+     "bytes": 3010,
+     "sha256": "1ee5a868a50333f45bbe50f0c34e4ccaef0de6e12f55d5da7769c185a10af9e8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 8",
+     "bytes": 2988,
+     "sha256": "7a906243cf39f982df5b6bf9153825a46d02d4ebcff17999642ccf1ef721c8c1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 9",
+     "bytes": 2944,
+     "sha256": "73e01f3a6dda11e7af97f5837bb75c87d4c56a2711741784c4c187eeb8f6d9e5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 10",
+     "bytes": 2884,
+     "sha256": "150a36023e376043b659e2914246afbe277b15003b26d0cf40f4e3228e98ac98"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 11",
+     "bytes": 2662,
+     "sha256": "0f85029bb6e9f490664f5bd7413f10ea767fe60a161584bd5b9b9c30b0cb858e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 12",
+     "bytes": 2467,
+     "sha256": "d770e8b67897ed26b65d95e74e128d5d99a450917d5951b2de018f4b316496d9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 13",
+     "bytes": 2730,
+     "sha256": "db24fe50b4cee77913e4da989c3fb3893d3d91e90763f30f8e163f48c3c207e6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 14",
+     "bytes": 2700,
+     "sha256": "0a7e51536bbe3bba6da680074d91a427a8252e97e7b38afb14e783a742458cd6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 15",
+     "bytes": 3337,
+     "sha256": "23a7f977d1800d6c1ca56b2c1727013669e131250c52412437f4e3a27ba35434"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 16",
+     "bytes": 2554,
+     "sha256": "6cb0c60cc6039a44d424bc4aac9e4910ab447441f65a5991f691599c5ff74e95"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 17",
+     "bytes": 3375,
+     "sha256": "d1f2c0acc3ad7a7eed017cb52cace7b1ee81c5e22fa26baa569c451a647e9a14"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 18",
+     "bytes": 2686,
+     "sha256": "dd548abebe9505c88d63d56d260698f21d387e82c61aaa18cf146324c2019ea9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 19",
+     "bytes": 2218,
+     "sha256": "40597c52edb8350b9e38f018d33f3d32161febc14446609359131483691b2054"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 20",
+     "bytes": 3629,
+     "sha256": "e69a5eb4d99c0e06f402ba89322d1f9589dbdedbcf839bf20666719ed66861cc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 21",
+     "bytes": 3788,
+     "sha256": "a87e3d69d28edd3903ae388b9c806c2aa418e5dac2f49239d33e976f53d00c05"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 22",
+     "bytes": 2102,
+     "sha256": "e8923a7b839cec1011fca205bc972a64426cac614fe39727e4242b8c65c969e6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 23",
+     "bytes": 2305,
+     "sha256": "186b832112ff5a022518b97107838ce382756c9e1d38680d21a63665ec97ddae"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 24",
+     "bytes": 3506,
+     "sha256": "d73f9110b9bc94dcb07f6fd983c6f94d5fab763e170f9a6a305f50bd51ffcdb9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 25",
+     "bytes": 2232,
+     "sha256": "03db0c398e4ca1ed5b5a8d9f81b8a68db7686976c98d1e56dd75db3568b0163d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 26",
+     "bytes": 3247,
+     "sha256": "c0e4a2f44ba06aa1571b70d4355a9d92b97f77cf69698d9a0dfeb8a5d38aea22"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of His Flight/Apologia de Fuga/Chapter 27",
+     "bytes": 2508,
+     "sha256": "e385a3c0114544da9f2de2c0b7265bf30aedecb92251f03931e9a47091dd4d12"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 3
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 3
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 2
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "workId": "hooker-two-sermons-on-jude",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "hooker-two-sermons-on-jude-tcp-a03598-1614",
+   "role": "english",
+   "language": "english",
+   "credit": "Two sermons upon part of S. Judes Epistle, in EEBO-TCP A03598, from the 1614 Oxford printing, ed. Henry Jackson (under the direction of John Spenser) (Oxford: Joseph Barnes, 1614). Transcription: Text Creation Partnership (EEBO-TCP Phase 1); keyboarded from page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A03598/master/A03598.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 131175,
+   "sourceSha256": "47a4a35048793c5ad72683d16266778f974a93600a77dcb18a384a16db7b11d1",
+   "leftOut": {
+    "pb": 64,
+    "note": 75,
+    "unread": 20
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 16974,
+    "unreadPerThousand": 1.2
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "TO THE WORSHIPFVLL Mr GEORGE SVMMASTER, Principall of Broad-Gates Hall in Oxford, HENRY IACKSON wisheth all happinesse.",
+     "segments": 6
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "THE FIRST SERMON.",
+     "segments": 18
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "The second Sermon.",
+     "segments": 36
+    }
+   ]
+  }
+ ]
+}

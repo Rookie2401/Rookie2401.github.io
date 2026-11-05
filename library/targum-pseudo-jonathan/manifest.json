@@ -1,0 +1,1301 @@
+{
+ "workId": "targum-pseudo-jonathan",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "targum-pseudo-jonathan-etheridge-sefaria",
+   "role": "english",
+   "language": "english",
+   "credit": "The Targum of Palestine, commonly entitled the Targum of Jonathan ben Uzziel, on the Pentateuch (Etheridge's translation), in J. W. Etheridge, The Targums of Onkelos and Jonathan ben Uzziel on the Pentateuch, with the Fragments of the Jerusalem Targum, from the Chaldee (London: Longman, Green, Longman and Roberts, 2 vols, 1862 and 1865). Transcription: Sefaria, from targum.info (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://www.sefaria.org/download/version/Targum%20Jonathan%20on%20Genesis%20-%20en%20-%20The%20Targum%20of%20Jonathan%20ben%20Uzziel%2C%20trans.%20J.%20W.%20Etheridge%2C%20London%2C%201862.json",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1138472,
+   "sourceSha256": "aaf6992c508d7440dbeabe04d120807ded069fe97eb916fdafafd8c02a847dff",
+   "sourcePages": [
+    {
+     "title": "Targum Jonathan on Genesis",
+     "bytes": 294241,
+     "sha256": "ac04fca9443932a6bf23690964a60463310e5542e42c92c604df84849d1bc125"
+    },
+    {
+     "title": "Targum Jonathan on Exodus",
+     "bytes": 236785,
+     "sha256": "4747ca7bb5efbaf168d36557fed2498657cd3cba31c9dd5ede0d0b3a52c1b7b0"
+    },
+    {
+     "title": "Targum Jonathan on Leviticus",
+     "bytes": 167698,
+     "sha256": "498f7c3bff97d5afdc88395fb3585befc9deb4aca00013e891157481cb327c16"
+    },
+    {
+     "title": "Targum Jonathan on Numbers",
+     "bytes": 232546,
+     "sha256": "1bcd45e30dca599a8e6dff9322fb85fb052ed020f61bb7a8ece33050fd3e70ed"
+    },
+    {
+     "title": "Targum Jonathan on Deuteronomy",
+     "bytes": 207202,
+     "sha256": "0821b178f711fff86a06ec0d3a1d999cf27e48872b69c9d461d17900239b44e0"
+    }
+   ],
+   "leftOut": {
+    "emptyVerses": 84,
+    "additions": 17,
+    "additionWords": 120,
+    "glosses": 8,
+    "note": 3,
+    "bracketsKept": 3
+   },
+   "segmentRefs": "citation",
+   "passagesLeftOut": {
+    "segments": 116,
+    "words": 3913,
+    "refs": [
+     "GEN.9.5",
+     "GEN.17.25",
+     "GEN.20.14",
+     "GEN.22.12",
+     "GEN.22.23",
+     "GEN.24.5",
+     "GEN.24.48",
+     "GEN.27.4",
+     "GEN.30.2",
+     "GEN.31.43",
+     "GEN.31.48",
+     "GEN.32.13",
+     "GEN.33.5",
+     "GEN.34.22",
+     "GEN.35.2",
+     "GEN.37.22",
+     "GEN.40.8",
+     "GEN.44.4",
+     "GEN.44.17",
+     "GEN.46.16",
+     "GEN.49.32",
+     "EXO.9.2",
+     "EXO.12.49",
+     "EXO.18.18",
+     "EXO.19.3",
+     "EXO.24.11",
+     "EXO.27.14",
+     "EXO.30.14",
+     "LEV.5.22",
+     "LEV.7.24",
+     "LEV.8.23",
+     "LEV.11.20",
+     "LEV.14.12",
+     "LEV.14.57",
+     "LEV.19.34",
+     "LEV.22.11",
+     "LEV.23.21",
+     "NUM.1.9",
+     "NUM.1.18",
+     "NUM.1.25",
+     "NUM.1.26",
+     "NUM.1.27",
+     "NUM.1.28",
+     "NUM.1.30",
+     "NUM.1.32",
+     "NUM.1.36",
+     "NUM.1.38",
+     "NUM.1.40",
+     "NUM.1.42",
+     "NUM.3.31",
+     "NUM.5.6",
+     "NUM.7.8",
+     "NUM.7.16",
+     "NUM.7.36",
+     "NUM.11.16",
+     "NUM.14.11",
+     "NUM.16.6",
+     "NUM.16.10",
+     "NUM.19.5",
+     "NUM.21.2",
+     "NUM.21.35",
+     "NUM.22.29",
+     "NUM.22.37",
+     "NUM.26.8",
+     "NUM.26.12",
+     "NUM.26.15",
+     "NUM.26.17",
+     "NUM.26.18",
+     "NUM.26.20",
+     "NUM.26.23",
+     "NUM.26.24",
+     "NUM.26.26",
+     "NUM.26.30",
+     "NUM.26.33",
+     "NUM.26.35",
+     "NUM.26.37",
+     "NUM.26.38",
+     "NUM.26.39",
+     "NUM.26.41",
+     "NUM.26.43",
+     "NUM.26.44",
+     "NUM.26.47",
+     "NUM.26.48",
+     "NUM.26.49",
+     "NUM.28.14",
+     "NUM.29.33",
+     "NUM.32.7",
+     "NUM.34.10",
+     "NUM.34.23",
+     "NUM.34.24",
+     "NUM.34.25",
+     "NUM.36.11",
+     "DEU.1.27",
+     "DEU.2.18",
+     "DEU.4.46",
+     "DEU.5.13",
+     "DEU.7.17",
+     "DEU.9.6",
+     "DEU.10.6",
+     "DEU.11.2",
+     "DEU.11.19",
+     "DEU.11.28",
+     "DEU.13.9",
+     "DEU.16.3",
+     "DEU.21.21",
+     "DEU.22.2",
+     "DEU.22.7",
+     "DEU.23.24",
+     "DEU.24.22",
+     "DEU.27.23",
+     "DEU.28.45",
+     "DEU.29.11",
+     "DEU.32.50",
+     "DEU.33.4",
+     "DEU.33.11",
+     "DEU.33.13"
+    ],
+    "reason": "Sefaria's copy comes from a web edition that reworded or expanded some verses of Etheridge's translation. A verse is stored only when scans of the 1862 and 1865 volumes confirm its wording; these verses are not confirmed."
+   },
+   "numbering": "The verse numbers are Sefaria's: the printed book numbers the chapters and only a few verses. Verse numbers with no words are verses this Targum, or Etheridge's printing of it, does not have.",
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "GEN.1",
+     "title": "Genesis 1",
+     "segments": 31
+    },
+    {
+     "file": "0002.json",
+     "ref": "GEN.2",
+     "title": "Genesis 2",
+     "segments": 25
+    },
+    {
+     "file": "0003.json",
+     "ref": "GEN.3",
+     "title": "Genesis 3",
+     "segments": 24
+    },
+    {
+     "file": "0004.json",
+     "ref": "GEN.4",
+     "title": "Genesis 4",
+     "segments": 26
+    },
+    {
+     "file": "0005.json",
+     "ref": "GEN.5",
+     "title": "Genesis 5",
+     "segments": 29
+    },
+    {
+     "file": "0006.json",
+     "ref": "GEN.6",
+     "title": "Genesis 6",
+     "segments": 21
+    },
+    {
+     "file": "0007.json",
+     "ref": "GEN.7",
+     "title": "Genesis 7",
+     "segments": 24
+    },
+    {
+     "file": "0008.json",
+     "ref": "GEN.8",
+     "title": "Genesis 8",
+     "segments": 22
+    },
+    {
+     "file": "0009.json",
+     "ref": "GEN.9",
+     "title": "Genesis 9",
+     "segments": 29
+    },
+    {
+     "file": "0010.json",
+     "ref": "GEN.10",
+     "title": "Genesis 10",
+     "segments": 31
+    },
+    {
+     "file": "0011.json",
+     "ref": "GEN.11",
+     "title": "Genesis 11",
+     "segments": 32
+    },
+    {
+     "file": "0012.json",
+     "ref": "GEN.12",
+     "title": "Genesis 12",
+     "segments": 20
+    },
+    {
+     "file": "0013.json",
+     "ref": "GEN.13",
+     "title": "Genesis 13",
+     "segments": 18
+    },
+    {
+     "file": "0014.json",
+     "ref": "GEN.14",
+     "title": "Genesis 14",
+     "segments": 24
+    },
+    {
+     "file": "0015.json",
+     "ref": "GEN.15",
+     "title": "Genesis 15",
+     "segments": 21
+    },
+    {
+     "file": "0016.json",
+     "ref": "GEN.16",
+     "title": "Genesis 16",
+     "segments": 16
+    },
+    {
+     "file": "0017.json",
+     "ref": "GEN.17",
+     "title": "Genesis 17",
+     "segments": 27
+    },
+    {
+     "file": "0018.json",
+     "ref": "GEN.18",
+     "title": "Genesis 18",
+     "segments": 33
+    },
+    {
+     "file": "0019.json",
+     "ref": "GEN.19",
+     "title": "Genesis 19",
+     "segments": 38
+    },
+    {
+     "file": "0020.json",
+     "ref": "GEN.20",
+     "title": "Genesis 20",
+     "segments": 15
+    },
+    {
+     "file": "0021.json",
+     "ref": "GEN.21",
+     "title": "Genesis 21",
+     "segments": 33
+    },
+    {
+     "file": "0022.json",
+     "ref": "GEN.22",
+     "title": "Genesis 22",
+     "segments": 24
+    },
+    {
+     "file": "0023.json",
+     "ref": "GEN.23",
+     "title": "Genesis 23",
+     "segments": 20
+    },
+    {
+     "file": "0024.json",
+     "ref": "GEN.24",
+     "title": "Genesis 24",
+     "segments": 66
+    },
+    {
+     "file": "0025.json",
+     "ref": "GEN.25",
+     "title": "Genesis 25",
+     "segments": 34
+    },
+    {
+     "file": "0026.json",
+     "ref": "GEN.26",
+     "title": "Genesis 26",
+     "segments": 34
+    },
+    {
+     "file": "0027.json",
+     "ref": "GEN.27",
+     "title": "Genesis 27",
+     "segments": 46
+    },
+    {
+     "file": "0028.json",
+     "ref": "GEN.28",
+     "title": "Genesis 28",
+     "segments": 22
+    },
+    {
+     "file": "0029.json",
+     "ref": "GEN.29",
+     "title": "Genesis 29",
+     "segments": 35
+    },
+    {
+     "file": "0030.json",
+     "ref": "GEN.30",
+     "title": "Genesis 30",
+     "segments": 43
+    },
+    {
+     "file": "0031.json",
+     "ref": "GEN.31",
+     "title": "Genesis 31",
+     "segments": 54
+    },
+    {
+     "file": "0032.json",
+     "ref": "GEN.32",
+     "title": "Genesis 32",
+     "segments": 33
+    },
+    {
+     "file": "0033.json",
+     "ref": "GEN.33",
+     "title": "Genesis 33",
+     "segments": 20
+    },
+    {
+     "file": "0034.json",
+     "ref": "GEN.34",
+     "title": "Genesis 34",
+     "segments": 31
+    },
+    {
+     "file": "0035.json",
+     "ref": "GEN.35",
+     "title": "Genesis 35",
+     "segments": 29
+    },
+    {
+     "file": "0036.json",
+     "ref": "GEN.36",
+     "title": "Genesis 36",
+     "segments": 43
+    },
+    {
+     "file": "0037.json",
+     "ref": "GEN.37",
+     "title": "Genesis 37",
+     "segments": 36
+    },
+    {
+     "file": "0038.json",
+     "ref": "GEN.38",
+     "title": "Genesis 38",
+     "segments": 30
+    },
+    {
+     "file": "0039.json",
+     "ref": "GEN.39",
+     "title": "Genesis 39",
+     "segments": 22
+    },
+    {
+     "file": "0040.json",
+     "ref": "GEN.40",
+     "title": "Genesis 40",
+     "segments": 23
+    },
+    {
+     "file": "0041.json",
+     "ref": "GEN.41",
+     "title": "Genesis 41",
+     "segments": 56
+    },
+    {
+     "file": "0042.json",
+     "ref": "GEN.42",
+     "title": "Genesis 42",
+     "segments": 38
+    },
+    {
+     "file": "0043.json",
+     "ref": "GEN.43",
+     "title": "Genesis 43",
+     "segments": 34
+    },
+    {
+     "file": "0044.json",
+     "ref": "GEN.44",
+     "title": "Genesis 44",
+     "segments": 32
+    },
+    {
+     "file": "0045.json",
+     "ref": "GEN.45",
+     "title": "Genesis 45",
+     "segments": 28
+    },
+    {
+     "file": "0046.json",
+     "ref": "GEN.46",
+     "title": "Genesis 46",
+     "segments": 34
+    },
+    {
+     "file": "0047.json",
+     "ref": "GEN.47",
+     "title": "Genesis 47",
+     "segments": 31
+    },
+    {
+     "file": "0048.json",
+     "ref": "GEN.48",
+     "title": "Genesis 48",
+     "segments": 22
+    },
+    {
+     "file": "0049.json",
+     "ref": "GEN.49",
+     "title": "Genesis 49",
+     "segments": 33
+    },
+    {
+     "file": "0050.json",
+     "ref": "GEN.50",
+     "title": "Genesis 50",
+     "segments": 26
+    },
+    {
+     "file": "0051.json",
+     "ref": "EXO.1",
+     "title": "Exodus 1",
+     "segments": 22
+    },
+    {
+     "file": "0052.json",
+     "ref": "EXO.2",
+     "title": "Exodus 2",
+     "segments": 25
+    },
+    {
+     "file": "0053.json",
+     "ref": "EXO.3",
+     "title": "Exodus 3",
+     "segments": 22
+    },
+    {
+     "file": "0054.json",
+     "ref": "EXO.4",
+     "title": "Exodus 4",
+     "segments": 30
+    },
+    {
+     "file": "0055.json",
+     "ref": "EXO.5",
+     "title": "Exodus 5",
+     "segments": 23
+    },
+    {
+     "file": "0056.json",
+     "ref": "EXO.6",
+     "title": "Exodus 6",
+     "segments": 30
+    },
+    {
+     "file": "0057.json",
+     "ref": "EXO.7",
+     "title": "Exodus 7",
+     "segments": 28
+    },
+    {
+     "file": "0058.json",
+     "ref": "EXO.8",
+     "title": "Exodus 8",
+     "segments": 28
+    },
+    {
+     "file": "0059.json",
+     "ref": "EXO.9",
+     "title": "Exodus 9",
+     "segments": 35
+    },
+    {
+     "file": "0060.json",
+     "ref": "EXO.10",
+     "title": "Exodus 10",
+     "segments": 29
+    },
+    {
+     "file": "0061.json",
+     "ref": "EXO.11",
+     "title": "Exodus 11",
+     "segments": 10
+    },
+    {
+     "file": "0062.json",
+     "ref": "EXO.12",
+     "title": "Exodus 12",
+     "segments": 49
+    },
+    {
+     "file": "0063.json",
+     "ref": "EXO.13",
+     "title": "Exodus 13",
+     "segments": 22
+    },
+    {
+     "file": "0064.json",
+     "ref": "EXO.14",
+     "title": "Exodus 14",
+     "segments": 31
+    },
+    {
+     "file": "0065.json",
+     "ref": "EXO.15",
+     "title": "Exodus 15",
+     "segments": 27
+    },
+    {
+     "file": "0066.json",
+     "ref": "EXO.16",
+     "title": "Exodus 16",
+     "segments": 36
+    },
+    {
+     "file": "0067.json",
+     "ref": "EXO.17",
+     "title": "Exodus 17",
+     "segments": 16
+    },
+    {
+     "file": "0068.json",
+     "ref": "EXO.18",
+     "title": "Exodus 18",
+     "segments": 27
+    },
+    {
+     "file": "0069.json",
+     "ref": "EXO.19",
+     "title": "Exodus 19",
+     "segments": 25
+    },
+    {
+     "file": "0070.json",
+     "ref": "EXO.20",
+     "title": "Exodus 20",
+     "segments": 23
+    },
+    {
+     "file": "0071.json",
+     "ref": "EXO.21",
+     "title": "Exodus 21",
+     "segments": 37
+    },
+    {
+     "file": "0072.json",
+     "ref": "EXO.22",
+     "title": "Exodus 22",
+     "segments": 30
+    },
+    {
+     "file": "0073.json",
+     "ref": "EXO.23",
+     "title": "Exodus 23",
+     "segments": 33
+    },
+    {
+     "file": "0074.json",
+     "ref": "EXO.24",
+     "title": "Exodus 24",
+     "segments": 18
+    },
+    {
+     "file": "0075.json",
+     "ref": "EXO.25",
+     "title": "Exodus 25",
+     "segments": 39
+    },
+    {
+     "file": "0076.json",
+     "ref": "EXO.26",
+     "title": "Exodus 26",
+     "segments": 37
+    },
+    {
+     "file": "0077.json",
+     "ref": "EXO.27",
+     "title": "Exodus 27",
+     "segments": 20
+    },
+    {
+     "file": "0078.json",
+     "ref": "EXO.28",
+     "title": "Exodus 28",
+     "segments": 43
+    },
+    {
+     "file": "0079.json",
+     "ref": "EXO.29",
+     "title": "Exodus 29",
+     "segments": 46
+    },
+    {
+     "file": "0080.json",
+     "ref": "EXO.30",
+     "title": "Exodus 30",
+     "segments": 38
+    },
+    {
+     "file": "0081.json",
+     "ref": "EXO.31",
+     "title": "Exodus 31",
+     "segments": 18
+    },
+    {
+     "file": "0082.json",
+     "ref": "EXO.32",
+     "title": "Exodus 32",
+     "segments": 35
+    },
+    {
+     "file": "0083.json",
+     "ref": "EXO.33",
+     "title": "Exodus 33",
+     "segments": 23
+    },
+    {
+     "file": "0084.json",
+     "ref": "EXO.34",
+     "title": "Exodus 34",
+     "segments": 35
+    },
+    {
+     "file": "0085.json",
+     "ref": "EXO.35",
+     "title": "Exodus 35",
+     "segments": 35
+    },
+    {
+     "file": "0086.json",
+     "ref": "EXO.36",
+     "title": "Exodus 36",
+     "segments": 38
+    },
+    {
+     "file": "0087.json",
+     "ref": "EXO.37",
+     "title": "Exodus 37",
+     "segments": 28
+    },
+    {
+     "file": "0088.json",
+     "ref": "EXO.38",
+     "title": "Exodus 38",
+     "segments": 31
+    },
+    {
+     "file": "0089.json",
+     "ref": "EXO.39",
+     "title": "Exodus 39",
+     "segments": 40
+    },
+    {
+     "file": "0090.json",
+     "ref": "EXO.40",
+     "title": "Exodus 40",
+     "segments": 38
+    },
+    {
+     "file": "0091.json",
+     "ref": "LEV.1",
+     "title": "Leviticus 1",
+     "segments": 17
+    },
+    {
+     "file": "0092.json",
+     "ref": "LEV.2",
+     "title": "Leviticus 2",
+     "segments": 16
+    },
+    {
+     "file": "0093.json",
+     "ref": "LEV.3",
+     "title": "Leviticus 3",
+     "segments": 17
+    },
+    {
+     "file": "0094.json",
+     "ref": "LEV.4",
+     "title": "Leviticus 4",
+     "segments": 35
+    },
+    {
+     "file": "0095.json",
+     "ref": "LEV.5",
+     "title": "Leviticus 5",
+     "segments": 26
+    },
+    {
+     "file": "0096.json",
+     "ref": "LEV.6",
+     "title": "Leviticus 6",
+     "segments": 23
+    },
+    {
+     "file": "0097.json",
+     "ref": "LEV.7",
+     "title": "Leviticus 7",
+     "segments": 38
+    },
+    {
+     "file": "0098.json",
+     "ref": "LEV.8",
+     "title": "Leviticus 8",
+     "segments": 36
+    },
+    {
+     "file": "0099.json",
+     "ref": "LEV.9",
+     "title": "Leviticus 9",
+     "segments": 24
+    },
+    {
+     "file": "0100.json",
+     "ref": "LEV.10",
+     "title": "Leviticus 10",
+     "segments": 20
+    },
+    {
+     "file": "0101.json",
+     "ref": "LEV.11",
+     "title": "Leviticus 11",
+     "segments": 47
+    },
+    {
+     "file": "0102.json",
+     "ref": "LEV.12",
+     "title": "Leviticus 12",
+     "segments": 8
+    },
+    {
+     "file": "0103.json",
+     "ref": "LEV.13",
+     "title": "Leviticus 13",
+     "segments": 57
+    },
+    {
+     "file": "0104.json",
+     "ref": "LEV.14",
+     "title": "Leviticus 14",
+     "segments": 57
+    },
+    {
+     "file": "0105.json",
+     "ref": "LEV.15",
+     "title": "Leviticus 15",
+     "segments": 33
+    },
+    {
+     "file": "0106.json",
+     "ref": "LEV.16",
+     "title": "Leviticus 16",
+     "segments": 34
+    },
+    {
+     "file": "0107.json",
+     "ref": "LEV.17",
+     "title": "Leviticus 17",
+     "segments": 16
+    },
+    {
+     "file": "0108.json",
+     "ref": "LEV.18",
+     "title": "Leviticus 18",
+     "segments": 30
+    },
+    {
+     "file": "0109.json",
+     "ref": "LEV.19",
+     "title": "Leviticus 19",
+     "segments": 37
+    },
+    {
+     "file": "0110.json",
+     "ref": "LEV.20",
+     "title": "Leviticus 20",
+     "segments": 27
+    },
+    {
+     "file": "0111.json",
+     "ref": "LEV.21",
+     "title": "Leviticus 21",
+     "segments": 24
+    },
+    {
+     "file": "0112.json",
+     "ref": "LEV.22",
+     "title": "Leviticus 22",
+     "segments": 33
+    },
+    {
+     "file": "0113.json",
+     "ref": "LEV.23",
+     "title": "Leviticus 23",
+     "segments": 44
+    },
+    {
+     "file": "0114.json",
+     "ref": "LEV.24",
+     "title": "Leviticus 24",
+     "segments": 23
+    },
+    {
+     "file": "0115.json",
+     "ref": "LEV.25",
+     "title": "Leviticus 25",
+     "segments": 55
+    },
+    {
+     "file": "0116.json",
+     "ref": "LEV.26",
+     "title": "Leviticus 26",
+     "segments": 46
+    },
+    {
+     "file": "0117.json",
+     "ref": "LEV.27",
+     "title": "Leviticus 27",
+     "segments": 34
+    },
+    {
+     "file": "0118.json",
+     "ref": "NUM.1",
+     "title": "Numbers 1",
+     "segments": 53
+    },
+    {
+     "file": "0119.json",
+     "ref": "NUM.2",
+     "title": "Numbers 2",
+     "segments": 33
+    },
+    {
+     "file": "0120.json",
+     "ref": "NUM.3",
+     "title": "Numbers 3",
+     "segments": 50
+    },
+    {
+     "file": "0121.json",
+     "ref": "NUM.4",
+     "title": "Numbers 4",
+     "segments": 49
+    },
+    {
+     "file": "0122.json",
+     "ref": "NUM.5",
+     "title": "Numbers 5",
+     "segments": 31
+    },
+    {
+     "file": "0123.json",
+     "ref": "NUM.6",
+     "title": "Numbers 6",
+     "segments": 27
+    },
+    {
+     "file": "0124.json",
+     "ref": "NUM.7",
+     "title": "Numbers 7",
+     "segments": 35
+    },
+    {
+     "file": "0125.json",
+     "ref": "NUM.8",
+     "title": "Numbers 8",
+     "segments": 26
+    },
+    {
+     "file": "0126.json",
+     "ref": "NUM.9",
+     "title": "Numbers 9",
+     "segments": 23
+    },
+    {
+     "file": "0127.json",
+     "ref": "NUM.10",
+     "title": "Numbers 10",
+     "segments": 36
+    },
+    {
+     "file": "0128.json",
+     "ref": "NUM.11",
+     "title": "Numbers 11",
+     "segments": 35
+    },
+    {
+     "file": "0129.json",
+     "ref": "NUM.12",
+     "title": "Numbers 12",
+     "segments": 16
+    },
+    {
+     "file": "0130.json",
+     "ref": "NUM.13",
+     "title": "Numbers 13",
+     "segments": 33
+    },
+    {
+     "file": "0131.json",
+     "ref": "NUM.14",
+     "title": "Numbers 14",
+     "segments": 45
+    },
+    {
+     "file": "0132.json",
+     "ref": "NUM.15",
+     "title": "Numbers 15",
+     "segments": 41
+    },
+    {
+     "file": "0133.json",
+     "ref": "NUM.16",
+     "title": "Numbers 16",
+     "segments": 35
+    },
+    {
+     "file": "0134.json",
+     "ref": "NUM.17",
+     "title": "Numbers 17",
+     "segments": 28
+    },
+    {
+     "file": "0135.json",
+     "ref": "NUM.18",
+     "title": "Numbers 18",
+     "segments": 32
+    },
+    {
+     "file": "0136.json",
+     "ref": "NUM.19",
+     "title": "Numbers 19",
+     "segments": 22
+    },
+    {
+     "file": "0137.json",
+     "ref": "NUM.20",
+     "title": "Numbers 20",
+     "segments": 29
+    },
+    {
+     "file": "0138.json",
+     "ref": "NUM.21",
+     "title": "Numbers 21",
+     "segments": 35
+    },
+    {
+     "file": "0139.json",
+     "ref": "NUM.22",
+     "title": "Numbers 22",
+     "segments": 41
+    },
+    {
+     "file": "0140.json",
+     "ref": "NUM.23",
+     "title": "Numbers 23",
+     "segments": 30
+    },
+    {
+     "file": "0141.json",
+     "ref": "NUM.24",
+     "title": "Numbers 24",
+     "segments": 25
+    },
+    {
+     "file": "0142.json",
+     "ref": "NUM.25",
+     "title": "Numbers 25",
+     "segments": 18
+    },
+    {
+     "file": "0143.json",
+     "ref": "NUM.26",
+     "title": "Numbers 26",
+     "segments": 65
+    },
+    {
+     "file": "0144.json",
+     "ref": "NUM.27",
+     "title": "Numbers 27",
+     "segments": 23
+    },
+    {
+     "file": "0145.json",
+     "ref": "NUM.28",
+     "title": "Numbers 28",
+     "segments": 31
+    },
+    {
+     "file": "0146.json",
+     "ref": "NUM.29",
+     "title": "Numbers 29",
+     "segments": 39
+    },
+    {
+     "file": "0147.json",
+     "ref": "NUM.30",
+     "title": "Numbers 30",
+     "segments": 17
+    },
+    {
+     "file": "0148.json",
+     "ref": "NUM.31",
+     "title": "Numbers 31",
+     "segments": 54
+    },
+    {
+     "file": "0149.json",
+     "ref": "NUM.32",
+     "title": "Numbers 32",
+     "segments": 42
+    },
+    {
+     "file": "0150.json",
+     "ref": "NUM.33",
+     "title": "Numbers 33",
+     "segments": 56
+    },
+    {
+     "file": "0151.json",
+     "ref": "NUM.34",
+     "title": "Numbers 34",
+     "segments": 29
+    },
+    {
+     "file": "0152.json",
+     "ref": "NUM.35",
+     "title": "Numbers 35",
+     "segments": 34
+    },
+    {
+     "file": "0153.json",
+     "ref": "NUM.36",
+     "title": "Numbers 36",
+     "segments": 11
+    },
+    {
+     "file": "0154.json",
+     "ref": "DEU.1",
+     "title": "Deuteronomy 1",
+     "segments": 46
+    },
+    {
+     "file": "0155.json",
+     "ref": "DEU.2",
+     "title": "Deuteronomy 2",
+     "segments": 37
+    },
+    {
+     "file": "0156.json",
+     "ref": "DEU.3",
+     "title": "Deuteronomy 3",
+     "segments": 29
+    },
+    {
+     "file": "0157.json",
+     "ref": "DEU.4",
+     "title": "Deuteronomy 4",
+     "segments": 49
+    },
+    {
+     "file": "0158.json",
+     "ref": "DEU.5",
+     "title": "Deuteronomy 5",
+     "segments": 29
+    },
+    {
+     "file": "0159.json",
+     "ref": "DEU.6",
+     "title": "Deuteronomy 6",
+     "segments": 25
+    },
+    {
+     "file": "0160.json",
+     "ref": "DEU.7",
+     "title": "Deuteronomy 7",
+     "segments": 26
+    },
+    {
+     "file": "0161.json",
+     "ref": "DEU.8",
+     "title": "Deuteronomy 8",
+     "segments": 20
+    },
+    {
+     "file": "0162.json",
+     "ref": "DEU.9",
+     "title": "Deuteronomy 9",
+     "segments": 29
+    },
+    {
+     "file": "0163.json",
+     "ref": "DEU.10",
+     "title": "Deuteronomy 10",
+     "segments": 22
+    },
+    {
+     "file": "0164.json",
+     "ref": "DEU.11",
+     "title": "Deuteronomy 11",
+     "segments": 32
+    },
+    {
+     "file": "0165.json",
+     "ref": "DEU.12",
+     "title": "Deuteronomy 12",
+     "segments": 31
+    },
+    {
+     "file": "0166.json",
+     "ref": "DEU.13",
+     "title": "Deuteronomy 13",
+     "segments": 19
+    },
+    {
+     "file": "0167.json",
+     "ref": "DEU.14",
+     "title": "Deuteronomy 14",
+     "segments": 29
+    },
+    {
+     "file": "0168.json",
+     "ref": "DEU.15",
+     "title": "Deuteronomy 15",
+     "segments": 23
+    },
+    {
+     "file": "0169.json",
+     "ref": "DEU.16",
+     "title": "Deuteronomy 16",
+     "segments": 22
+    },
+    {
+     "file": "0170.json",
+     "ref": "DEU.17",
+     "title": "Deuteronomy 17",
+     "segments": 20
+    },
+    {
+     "file": "0171.json",
+     "ref": "DEU.18",
+     "title": "Deuteronomy 18",
+     "segments": 22
+    },
+    {
+     "file": "0172.json",
+     "ref": "DEU.19",
+     "title": "Deuteronomy 19",
+     "segments": 21
+    },
+    {
+     "file": "0173.json",
+     "ref": "DEU.20",
+     "title": "Deuteronomy 20",
+     "segments": 20
+    },
+    {
+     "file": "0174.json",
+     "ref": "DEU.21",
+     "title": "Deuteronomy 21",
+     "segments": 23
+    },
+    {
+     "file": "0175.json",
+     "ref": "DEU.22",
+     "title": "Deuteronomy 22",
+     "segments": 29
+    },
+    {
+     "file": "0176.json",
+     "ref": "DEU.23",
+     "title": "Deuteronomy 23",
+     "segments": 26
+    },
+    {
+     "file": "0177.json",
+     "ref": "DEU.24",
+     "title": "Deuteronomy 24",
+     "segments": 22
+    },
+    {
+     "file": "0178.json",
+     "ref": "DEU.25",
+     "title": "Deuteronomy 25",
+     "segments": 19
+    },
+    {
+     "file": "0179.json",
+     "ref": "DEU.26",
+     "title": "Deuteronomy 26",
+     "segments": 19
+    },
+    {
+     "file": "0180.json",
+     "ref": "DEU.27",
+     "title": "Deuteronomy 27",
+     "segments": 26
+    },
+    {
+     "file": "0181.json",
+     "ref": "DEU.28",
+     "title": "Deuteronomy 28",
+     "segments": 69
+    },
+    {
+     "file": "0182.json",
+     "ref": "DEU.29",
+     "title": "Deuteronomy 29",
+     "segments": 28
+    },
+    {
+     "file": "0183.json",
+     "ref": "DEU.30",
+     "title": "Deuteronomy 30",
+     "segments": 20
+    },
+    {
+     "file": "0184.json",
+     "ref": "DEU.31",
+     "title": "Deuteronomy 31",
+     "segments": 30
+    },
+    {
+     "file": "0185.json",
+     "ref": "DEU.32",
+     "title": "Deuteronomy 32",
+     "segments": 52
+    },
+    {
+     "file": "0186.json",
+     "ref": "DEU.33",
+     "title": "Deuteronomy 33",
+     "segments": 29
+    },
+    {
+     "file": "0187.json",
+     "ref": "DEU.34",
+     "title": "Deuteronomy 34",
+     "segments": 12
+    }
+   ]
+  }
+ ]
+}

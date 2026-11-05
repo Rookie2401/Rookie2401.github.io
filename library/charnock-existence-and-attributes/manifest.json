@@ -1,0 +1,517 @@
+{
+ "workId": "charnock-existence-and-attributes",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "charnock-existence-attributes-carter-1853-gutenberg-53527",
+   "role": "english",
+   "language": "english",
+   "credit": "Discourses upon the Existence and Attributes of God (Carter, 1853), Volumes 1 and 2, in Project Gutenberg eBook #53527, ed. William Symington (life of the author) (Robert Carter & Brothers, New York, 1853). Transcription: Distributed Proofreaders (Richard Hulse, Colin Bell, Jonathan Cone, Alexander Bauer) (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/53527/pg53527.txt",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 3949931,
+   "sourceSha256": "fb4682d3cd97af96fbb82b5418349a9fcc1b78c281b7e8a73f1607c4790edf8e",
+   "leftOut": {
+    "noteMark": 1045,
+    "note": 12
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "https://www.gutenberg.org/cache/epub/53527/pg53527.txt",
+     "bytes": 3949931,
+     "sha256": "fb4682d3cd97af96fbb82b5418349a9fcc1b78c281b7e8a73f1607c4790edf8e"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "s1",
+     "title": "s1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "s4",
+     "title": "TWO VOLUMES IN ONE",
+     "segments": 7
+    },
+    {
+     "file": "0003.json",
+     "ref": "s5",
+     "title": "ISBN: 0‒8010‒1112‒4",
+     "segments": 5
+    },
+    {
+     "file": "0004.json",
+     "ref": "s7",
+     "title": "ON THE EXISTENCE OF GOD.",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "s9",
+     "title": "ON PRACTICAL ATHEISM.",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "s11",
+     "title": "ON GOD’S BEING A SPIRIT.",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "s13",
+     "title": "ON SPIRITUAL WORSHIP.",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "s15",
+     "title": "ON THE ETERNITY OF GOD.",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "s16",
+     "title": "ON THE IMMUTABILITY OF GOD.",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "s18",
+     "title": "ON GOD’S OMNIPRESENCE.",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "s20",
+     "title": "ON GOD’S KNOWLEDGE.",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "s22",
+     "title": "ON THE WISDOM OF GOD.",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "s23",
+     "title": "BY WM. SYMINGTON, D.D.",
+     "segments": 35
+    },
+    {
+     "file": "0014.json",
+     "ref": "s24",
+     "title": "EDW. VEEL. RI. ADAMS.",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "s25",
+     "title": "ON THE EXISTENCE OF GOD.",
+     "segments": 159
+    },
+    {
+     "file": "0016.json",
+     "ref": "s26",
+     "title": "ON PRACTICAL ATHEISM.",
+     "segments": 150
+    },
+    {
+     "file": "0017.json",
+     "ref": "s27",
+     "title": "ON GOD’S BEING A SPIRIT.",
+     "segments": 51
+    },
+    {
+     "file": "0018.json",
+     "ref": "s28",
+     "title": "ON SPIRITUAL WORSHIP.",
+     "segments": 116
+    },
+    {
+     "file": "0019.json",
+     "ref": "s29",
+     "title": "ON THE ETERNITY OF GOD.",
+     "segments": 62
+    },
+    {
+     "file": "0020.json",
+     "ref": "s30",
+     "title": "ON THE IMMUTABILITY OF GOD.",
+     "segments": 96
+    },
+    {
+     "file": "0021.json",
+     "ref": "s31",
+     "title": "ON GOD’S OMNIPRESENCE.",
+     "segments": 69
+    },
+    {
+     "file": "0022.json",
+     "ref": "s32",
+     "title": "ON GOD’S KNOWLEDGE.",
+     "segments": 123
+    },
+    {
+     "file": "0023.json",
+     "ref": "s33",
+     "title": "ON THE WISDOM OF GOD.",
+     "segments": 184
+    },
+    {
+     "file": "0024.json",
+     "ref": "s35",
+     "title": "TWO VOLUMES IN ONE",
+     "segments": 3
+    },
+    {
+     "file": "0025.json",
+     "ref": "s37",
+     "title": "ON THE POWER OF GOD.",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "s39",
+     "title": "ON THE HOLINESS OF GOD.",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "s41",
+     "title": "ON THE GOODNESS OF GOD.",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "s43",
+     "title": "ON GOD’S DOMINION.",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "s45",
+     "title": "ON GOD’S PATIENCE.",
+     "segments": 5
+    },
+    {
+     "file": "0030.json",
+     "ref": "s46",
+     "title": "ON THE POWER OF GOD.",
+     "segments": 151
+    },
+    {
+     "file": "0031.json",
+     "ref": "s47",
+     "title": "ON THE HOLINESS OF GOD.",
+     "segments": 161
+    },
+    {
+     "file": "0032.json",
+     "ref": "s48",
+     "title": "ON THE GOODNESS OF GOD.",
+     "segments": 220
+    },
+    {
+     "file": "0033.json",
+     "ref": "s49",
+     "title": "ON GOD’S DOMINION.",
+     "segments": 198
+    },
+    {
+     "file": "0034.json",
+     "ref": "s50",
+     "title": "ON GOD’S PATIENCE.",
+     "segments": 433
+    },
+    {
+     "file": "0035.json",
+     "ref": "s52",
+     "title": "GENESIS.",
+     "segments": 13
+    },
+    {
+     "file": "0036.json",
+     "ref": "s53",
+     "title": "EXODUS.",
+     "segments": 9
+    },
+    {
+     "file": "0037.json",
+     "ref": "s54",
+     "title": "NUMBERS.",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "s55",
+     "title": "DEUTERONOMY.",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "s56",
+     "title": "1 KINGS.",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "s57",
+     "title": "2 KINGS.",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "s58",
+     "title": "2 CHRONICLES.",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "s59",
+     "title": "JOB.",
+     "segments": 12
+    },
+    {
+     "file": "0043.json",
+     "ref": "s60",
+     "title": "PSALMS.",
+     "segments": 53
+    },
+    {
+     "file": "0044.json",
+     "ref": "s61",
+     "title": "PROVERBS.",
+     "segments": 6
+    },
+    {
+     "file": "0045.json",
+     "ref": "s62",
+     "title": "ECCLESIASTES.",
+     "segments": 1
+    },
+    {
+     "file": "0046.json",
+     "ref": "s63",
+     "title": "ISAIAH.",
+     "segments": 15
+    },
+    {
+     "file": "0047.json",
+     "ref": "s64",
+     "title": "JEREMIAH.",
+     "segments": 8
+    },
+    {
+     "file": "0048.json",
+     "ref": "s65",
+     "title": "LAMENTATIONS.",
+     "segments": 1
+    },
+    {
+     "file": "0049.json",
+     "ref": "s66",
+     "title": "EZEKIEL.",
+     "segments": 6
+    },
+    {
+     "file": "0050.json",
+     "ref": "s67",
+     "title": "DANIEL.",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "s68",
+     "title": "HOSEA.",
+     "segments": 16
+    },
+    {
+     "file": "0052.json",
+     "ref": "s69",
+     "title": "JOEL.",
+     "segments": 1
+    },
+    {
+     "file": "0053.json",
+     "ref": "s70",
+     "title": "AMOS.",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "s71",
+     "title": "JONAH.",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "s72",
+     "title": "MICAH.",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "s73",
+     "title": "NAHUM.",
+     "segments": 2
+    },
+    {
+     "file": "0057.json",
+     "ref": "s74",
+     "title": "HABAKKUK.",
+     "segments": 1
+    },
+    {
+     "file": "0058.json",
+     "ref": "s75",
+     "title": "ZEPHANIAH.",
+     "segments": 1
+    },
+    {
+     "file": "0059.json",
+     "ref": "s76",
+     "title": "ZECHARIAH.",
+     "segments": 3
+    },
+    {
+     "file": "0060.json",
+     "ref": "s77",
+     "title": "MALACHI.",
+     "segments": 12
+    },
+    {
+     "file": "0061.json",
+     "ref": "s78",
+     "title": "MARK.",
+     "segments": 1
+    },
+    {
+     "file": "0062.json",
+     "ref": "s79",
+     "title": "LUKE.",
+     "segments": 2
+    },
+    {
+     "file": "0063.json",
+     "ref": "s80",
+     "title": "JOHN.",
+     "segments": 11
+    },
+    {
+     "file": "0064.json",
+     "ref": "s81",
+     "title": "ACTS.",
+     "segments": 4
+    },
+    {
+     "file": "0065.json",
+     "ref": "s82",
+     "title": "ROMANS.",
+     "segments": 21
+    },
+    {
+     "file": "0066.json",
+     "ref": "s83",
+     "title": "1 CORINTHIANS.",
+     "segments": 4
+    },
+    {
+     "file": "0067.json",
+     "ref": "s84",
+     "title": "2 CORINTHIANS.",
+     "segments": 1
+    },
+    {
+     "file": "0068.json",
+     "ref": "s85",
+     "title": "GALATIANS.",
+     "segments": 1
+    },
+    {
+     "file": "0069.json",
+     "ref": "s86",
+     "title": "EPHESIANS.",
+     "segments": 6
+    },
+    {
+     "file": "0070.json",
+     "ref": "s87",
+     "title": "PHILIPPIANS.",
+     "segments": 1
+    },
+    {
+     "file": "0071.json",
+     "ref": "s88",
+     "title": "COLOSSIANS.",
+     "segments": 3
+    },
+    {
+     "file": "0072.json",
+     "ref": "s89",
+     "title": "2 TIMOTHY.",
+     "segments": 2
+    },
+    {
+     "file": "0073.json",
+     "ref": "s90",
+     "title": "TITUS.",
+     "segments": 1
+    },
+    {
+     "file": "0074.json",
+     "ref": "s91",
+     "title": "HEBREWS.",
+     "segments": 7
+    },
+    {
+     "file": "0075.json",
+     "ref": "s92",
+     "title": "JAMES.",
+     "segments": 2
+    },
+    {
+     "file": "0076.json",
+     "ref": "s93",
+     "title": "2 PETER.",
+     "segments": 4
+    },
+    {
+     "file": "0077.json",
+     "ref": "s94",
+     "title": "REVELATION.",
+     "segments": 4
+    },
+    {
+     "file": "0078.json",
+     "ref": "s95",
+     "title": "FOOTNOTES.",
+     "segments": 544
+    },
+    {
+     "file": "0079.json",
+     "ref": "s96",
+     "title": "545 – אל עולם.",
+     "segments": 312
+    },
+    {
+     "file": "0080.json",
+     "ref": "s97",
+     "title": "858 – מקום.",
+     "segments": 185
+    },
+    {
+     "file": "0081.json",
+     "ref": "s98",
+     "title": "TRANSCRIBER’S NOTES.",
+     "segments": 105
+    }
+   ]
+  }
+ ]
+}

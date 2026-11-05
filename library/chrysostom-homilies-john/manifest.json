@@ -1,0 +1,1015 @@
+{
+ "workId": "chrysostom-homilies-john",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "chrysostom-john-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Homilies of St. John Chrysostom on the Gospel of St. John, in A Select Library of the Nicene and Post-Nicene Fathers, series I, vol. XIV (Homilies on the Gospel of St. John and the Epistle to the Hebrews), trans. The Oxford translation (Library of the Fathers), revised for the American edition; the original Oxford translators are not named on the pages opened, edited with additional notes by Philip Schaff (Buffalo; New York: Christian Literature Co., 1889). Wikisource contributors, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_XIV/On_the_Gospel_of_John",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1897251,
+   "sourceSha256": "886e1ce5b649c2bb28d25024ceedd0f52db973635e0ad04e388b91141df59dc3",
+   "leftOut": {
+    "note": 2645
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 1",
+     "bytes": 29981,
+     "sha256": "cec82a18b0db0734ee602335882a9b50194e46ae80a9efa9ffb44c846068778a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 10",
+     "bytes": 13456,
+     "sha256": "6796172479adf50f8123c50507acd59006493d3eeb161889ca8e04d8add27849"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 11",
+     "bytes": 19729,
+     "sha256": "1c7881f17e3c9a7cd56a90d407e3a4e1da2043433e1a7ced3cf7fbac4ca4fac7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 12",
+     "bytes": 23340,
+     "sha256": "452bc235fb7f34419799fa1c257ede5c7346baf765b653dbff20a27651cfd1bd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 13",
+     "bytes": 21780,
+     "sha256": "5a91b539f8e69d583261c8f1cefcc585efdb891c692ea9c0e7e7404f4a8913ce"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 14",
+     "bytes": 20154,
+     "sha256": "29cc93a7dda3952bc2ff2ec63d021c2d01f4c483e31bd4ea1003031285fe52d3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 15",
+     "bytes": 22164,
+     "sha256": "ffd53325b4a9312688a39cbbc6d1805780baffe807ffdc3a35cd25b22b7429c6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 16",
+     "bytes": 22664,
+     "sha256": "3c7d619a750ffe28c9ba10f22296d97af8fc55d1011564bc0d7c2cf0b264159a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 17",
+     "bytes": 24626,
+     "sha256": "727132b03127e7f8ea81f2c2e5d71bbc16d614f1a99352efc66293359b76ecd6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 18",
+     "bytes": 16210,
+     "sha256": "2bf4f2a0ca01cc4ccb46df2f2691f9538f67f3f09e75ec21db878a659262377b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 19",
+     "bytes": 16939,
+     "sha256": "854429c4a6d6b04bd447dc3d65d03624aaa680d20bce21a0ad275d74971695a7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 2",
+     "bytes": 35522,
+     "sha256": "850b29aa8a55ab0ba938fb02625cffe72b492fc466b39e366db10b4d687eade7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 20",
+     "bytes": 20525,
+     "sha256": "09bba7d28d222e987e34e3ad9d1123d070da19a37028416130a798228f331fe0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 21",
+     "bytes": 20319,
+     "sha256": "ced1fbeb1ed97622b4c45a2b8746970d878ed91291099bf1b4deb75ba49a6fdf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 22",
+     "bytes": 22766,
+     "sha256": "27fa5cffb05e54fc05338ee09721aaf2db45151f8e863873166079ee6a94c509"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 23",
+     "bytes": 20081,
+     "sha256": "610e70d6fc6598bc3f604e3fdc067c24caec8db5fb502445778eb158d110e4c6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 24",
+     "bytes": 20114,
+     "sha256": "f66eef4bb71d87e15de2e8facff2da82f1e494284bb8cd0ce49d905b5680fb6b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 25",
+     "bytes": 16469,
+     "sha256": "630597b59e4ee77204d2369e8f89f843b9b2799c27bd54af80f552414bbb608c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 26",
+     "bytes": 16495,
+     "sha256": "4ce4c5fa038e33321ca44cd07012dd5fa7b9cffbdb16214c24e810a259a336dc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 27",
+     "bytes": 19881,
+     "sha256": "c51bdfd521eb7a53dd1d0870de5f2b52dfbe5aba4ead8dfb544c98eea72d2854"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 28",
+     "bytes": 19368,
+     "sha256": "7ad6a6ebb2d80ed17b14f4d0f87ee94916071fc4f6caf3259783ca138a991104"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 29",
+     "bytes": 16110,
+     "sha256": "6677a06b6e7e5c7a44eda8d5bfbf1099c3ba0bebda7232c2d2f25fdb1c785ced"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 3",
+     "bytes": 27767,
+     "sha256": "d27de360d81f830a2922a164d38f03fff2f5a21f49be00683445813c5699a76c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 30",
+     "bytes": 31694,
+     "sha256": "ca6028ddcde14c1bbe59af2e4dcec58183e2a607aa49fdf35ac1bcaec2e68981"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 31",
+     "bytes": 21262,
+     "sha256": "dddae3a319d95d5c454f68da73f8d0295eae0a020649ddb37385ee53aefcb627"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 32",
+     "bytes": 19323,
+     "sha256": "d07d6008d0ce752179a6683c6a4ed41efa6b614c5601b74cc29498d4f110cfa2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 33",
+     "bytes": 21499,
+     "sha256": "215a49f06eca7d5b1dd191cedd44c1e37533258f44ad55dc7d66c6eabdaa101b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 34",
+     "bytes": 19827,
+     "sha256": "a339ce3bb87cf6676dcb8287d537562996e878b1a38dc0b60f7ab85a8a727090"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 35",
+     "bytes": 15934,
+     "sha256": "68edaeebe311be48f53d182ebd318db09820c3273e035087822d67b840b52378"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 36",
+     "bytes": 16560,
+     "sha256": "904faabdee251f0f1c03098555423478b3f30c0698eeaca62185c1b0236b2d00"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 37",
+     "bytes": 33261,
+     "sha256": "294ca721bafdbdee8059f89f3749c7a2226e3a114b357e2de89272e51b59428c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 38",
+     "bytes": 37947,
+     "sha256": "b15e9b19906e646ab89548eb72547ccbe5835d82b78aa7f2c871aeaaa6dc8ad9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 39",
+     "bytes": 23666,
+     "sha256": "c9fcc0096217a39fbc832795b9a5b06331add045b4e08e1f2f78205232ddce99"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 4",
+     "bytes": 27032,
+     "sha256": "50d86172c4b4991197ca4857231010dcb07189251802397777155a4fd51fb222"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 40",
+     "bytes": 16918,
+     "sha256": "109e67aefa4f9377d862b979982c5381413942832a67683a1fdc23c7085582f7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 41",
+     "bytes": 27170,
+     "sha256": "923a743a32779c10c0eda9e8c41cf0fa0bfc2488f4454a8a8f0df882525a6fcb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 42",
+     "bytes": 13838,
+     "sha256": "a4826210e6ac091d9b07d765e181174fef855fe7abdbf56a4159d1057be4fd4d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 43",
+     "bytes": 11853,
+     "sha256": "746ee2aa0305b4572c01dea3cda4e17a7d441f60d5ee8654aa4437b40b1ab50e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 44",
+     "bytes": 25906,
+     "sha256": "5c74e3de3eedf6b098f6077f86418281cc0974962f980bf1d6fd88bcb4d783d9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 45",
+     "bytes": 21060,
+     "sha256": "0d7c852b39e917d1c42102315dad0c0c24a1e55f95e8974df2bc3b4911f838ee"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 46",
+     "bytes": 27613,
+     "sha256": "948ca579e251dc171d985c5dd5395664275926faff4cbd8d3cc73e0a0c9b0022"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 47",
+     "bytes": 15834,
+     "sha256": "31be70be67fd0c7d3aa227c9c9cf5daf9f2234cfbf388bedf5c1c19aae4dc3a5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 48",
+     "bytes": 22739,
+     "sha256": "48d39a69b5cb58f1f23e12b3deba68cdbc9e6b61c9339c9cda24bc66b8583bec"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 49",
+     "bytes": 18466,
+     "sha256": "504a7750eb5f87db93e96a5e13ad9e57a0565a3b13fa2fb6edc855979731e898"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 5",
+     "bytes": 9678,
+     "sha256": "7d0edcb2cc77016af47a6807acf8f75d6fc2c4a7288edf3e786c7d96c5267a17"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 50",
+     "bytes": 17018,
+     "sha256": "46aa289c86f88f5f47feeceb7c72835854aeda6a84435c708a62caa033756196"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 51",
+     "bytes": 20215,
+     "sha256": "0ffefd035011a2f7dcd7200db8f15bd758658324d9cdada6ab71c1ebf921ad1e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 52",
+     "bytes": 16254,
+     "sha256": "ce65c3c26bdd489363562f738150bd3ce7e652ab2b65ff23ff67495fe2d9da49"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 53",
+     "bytes": 22188,
+     "sha256": "af296c091d28c7b4f7b2d937244bde2c1b9e77f4c57b5fceb2b576e0892dccd4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 54",
+     "bytes": 16013,
+     "sha256": "417e821c86e5be0b0224bed979a4b745727898459ac599e099eaa2ecb2154700"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 55",
+     "bytes": 19914,
+     "sha256": "4efde308b62439c1b32b39438a7b670e8a02609e8fd237af0ddeaf9aa69a5cbc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 56",
+     "bytes": 17214,
+     "sha256": "1d677d32c8d760db1ca7dec51ddccb5b0bd8e78aa41d0331e8310f8725bd137f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 57",
+     "bytes": 27604,
+     "sha256": "46afa5e10b881d69f25b5f9f2be8104ebab8760bee85e6adb482b331a140049c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 58",
+     "bytes": 24642,
+     "sha256": "a67f4f49d32a47626c7ec93f40efb93f29a605ba322004e12141262c637e4be3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 59",
+     "bytes": 32258,
+     "sha256": "e45398ee3b3ccb2e1ccb86b7cd4b48a4a54665f4ab988588f5560d340cfdc7bf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 6",
+     "bytes": 12242,
+     "sha256": "3777acfa619f5a76dabb9a0d9cf32ee6d3c94dc2448c15c7eb29b46cd5909768"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 60",
+     "bytes": 24684,
+     "sha256": "610f1e1958519d7077bef35746aba127eac732860246933f03001b9db01cdf8d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 61",
+     "bytes": 27558,
+     "sha256": "e019c1b9bbe5ef87b7541497d808e333ed3f25d82be2c8d9823ced98b7243788"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 62",
+     "bytes": 22495,
+     "sha256": "e5fa3f0f4686b868272e64e2f53c32b75a76b51181e3a7d4a08b2d2ad256b35d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 63",
+     "bytes": 28254,
+     "sha256": "b9f4ac0fa353696214747d9c5c08496273d9b3852cf5b4d8057e018f466cd7ee"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 64",
+     "bytes": 19803,
+     "sha256": "5a3733fc34fb726b0569ec33fa8b75cb603c6248bc653ce8dda4e8aced6aaffc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 65",
+     "bytes": 20672,
+     "sha256": "13939d4edcdf6579262c31a8a53aa70059c6f83a59109678ec4c6da6b2b649ca"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 66",
+     "bytes": 15243,
+     "sha256": "26755e6afb7beadd9defcbb39ee3efc799be67d53e89265c4047874b8c32a33b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 67",
+     "bytes": 15437,
+     "sha256": "ee52d576879a6592f2db4f0d7002549233f2ac01ac94ca054a3921a7b25311f0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 68",
+     "bytes": 15426,
+     "sha256": "47bf8c8e3c7bfcec709ac83dd93c7c8cce53f8034574b37c2d76824b2497021f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 69",
+     "bytes": 17598,
+     "sha256": "94dca9a626f38cfbc8de197fd17632c61ba2b59ac28c0af073e0e14ea90e30ad"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 7",
+     "bytes": 15269,
+     "sha256": "d7164279feabff42b9bf17765e9cdf2bb78106c608fa4e99587b1eab7a05d7c8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 70",
+     "bytes": 17025,
+     "sha256": "d8d3fe16cae0ae40d5b037b02c2fa6399270a5701767f5d1b2e6b9b630edc1e9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 71",
+     "bytes": 25762,
+     "sha256": "44511b54593d3b2fade11315d0a09461e6a4ddf4980477b94e693f51f0bd5c5c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 72",
+     "bytes": 20037,
+     "sha256": "c5128f68c6b8695e78e360ad263c668828229c0100fe1439ebb7b31a75ff76a3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 73",
+     "bytes": 14645,
+     "sha256": "4733c5d65fb5fa904ad54b7f4f3d180db751d3d97ce4b89c80bc870d4cecd384"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 74",
+     "bytes": 27733,
+     "sha256": "461cbb7d8305b08e5552862641478a812e7a0ea1f1a1729fc88c5a225094f000"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 75",
+     "bytes": 17603,
+     "sha256": "55595c868d5c928753a60a59c02f29136c5887e764d36b82fa71afe6068fbb30"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 76",
+     "bytes": 25530,
+     "sha256": "72005b45ebe7bbd1303e3d001aa04a1667dd4615e02cc4ea5519572cf9af0c15"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 77",
+     "bytes": 25904,
+     "sha256": "06efb450fffbe3ba87770e91e430014fc38812673736ab91034d908b89fe2e1b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 78",
+     "bytes": 27394,
+     "sha256": "612411eee17485fd901aefbdfd527da6cde7ffd392d6fda3175231f8e52a2c1d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 79",
+     "bytes": 18905,
+     "sha256": "24f9b8611864935026192e620a0a3d5075410f093894f848b336c854ddb731b3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 8",
+     "bytes": 16070,
+     "sha256": "8f06619b968a5dca89d3c3cb4c3c165562fa99f116f4399c9635fbe492ab4ac3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 80",
+     "bytes": 19919,
+     "sha256": "0118312c5d65d3df0aa691b5afbf3b205af2e5bfc9e8f6d90d73784decb66150"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 81",
+     "bytes": 22961,
+     "sha256": "45296e64a6e045a77fc70edd04b813fa18becc7dd2bdd9249e69f52412a51a01"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 82",
+     "bytes": 34774,
+     "sha256": "5971bcb3c722718a4cc2e20ec351349fa3d16e3c8e08d035b1defdfd7e63b524"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 83",
+     "bytes": 21437,
+     "sha256": "aa58a685971dc04dc3ab85350b5ae5e2cbd245db8776ac58070dec8d8e2ee7e2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 84",
+     "bytes": 37829,
+     "sha256": "4f9af930a581061755ce45132d70722afdedcdba88eeb741e2e7feb04f3ef197"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 85",
+     "bytes": 23684,
+     "sha256": "5d8923efd95d0354708d6bfaf546604c1c6136cdc9fb88758b95898df46b13c7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 86",
+     "bytes": 24084,
+     "sha256": "833fa7a0f68396cda7c5c6ea32d36d4b11ca359f335c07367fd19579aea1a474"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 87",
+     "bytes": 17543,
+     "sha256": "1589f106efb3330895c726b88e80e0a22a72cf7dffad39f66877e0253d85ace2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Homily 9",
+     "bytes": 16956,
+     "sha256": "f058766f8499ae18c259c08cd4998b65999d5a9dcb0ea106a9cbff1b117eb531"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Preface",
+     "bytes": 18091,
+     "sha256": "aa781e96ab59304805e634012d6c556cb9a162dd86abb9e66fd0bca3a7a2f6cb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Preface to the Homilies on the Gospel of St. John",
+     "bytes": 8853,
+     "sha256": "caa6c58377b3c5e2608a4eb2a506e6c87a5b6e17f230ed42f9c820ca050b7ac1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Gospel of John/Title Page",
+     "bytes": 971,
+     "sha256": "6e6161a739885a577d691ffc4775d03e0abceec435c7f0a4ecd2d4204bcf8fb6"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 40
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 22
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 21
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 21
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 13
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 12
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 13
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 11
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 13
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 12
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 13
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 11
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 20
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 12
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 25
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 27
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 23
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 11
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 18
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 21
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 21
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 37
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 27
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 14
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 22
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 19
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 20
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 28
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 18
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 37
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 15
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 18
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 26
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 29
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 12
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 16
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 35
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 30
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 33
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 20
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 32
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 24
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 9
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 29
+    },
+    {
+     "file": "0045.json",
+     "ref": "45",
+     "title": "45",
+     "segments": 27
+    },
+    {
+     "file": "0046.json",
+     "ref": "46",
+     "title": "46",
+     "segments": 43
+    },
+    {
+     "file": "0047.json",
+     "ref": "47",
+     "title": "47",
+     "segments": 19
+    },
+    {
+     "file": "0048.json",
+     "ref": "48",
+     "title": "48",
+     "segments": 36
+    },
+    {
+     "file": "0049.json",
+     "ref": "49",
+     "title": "49",
+     "segments": 27
+    },
+    {
+     "file": "0050.json",
+     "ref": "50",
+     "title": "50",
+     "segments": 17
+    },
+    {
+     "file": "0051.json",
+     "ref": "51",
+     "title": "51",
+     "segments": 39
+    },
+    {
+     "file": "0052.json",
+     "ref": "52",
+     "title": "52",
+     "segments": 34
+    },
+    {
+     "file": "0053.json",
+     "ref": "53",
+     "title": "53",
+     "segments": 39
+    },
+    {
+     "file": "0054.json",
+     "ref": "54",
+     "title": "54",
+     "segments": 36
+    },
+    {
+     "file": "0055.json",
+     "ref": "55",
+     "title": "55",
+     "segments": 22
+    },
+    {
+     "file": "0056.json",
+     "ref": "56",
+     "title": "56",
+     "segments": 26
+    },
+    {
+     "file": "0057.json",
+     "ref": "57",
+     "title": "57",
+     "segments": 46
+    },
+    {
+     "file": "0058.json",
+     "ref": "58",
+     "title": "58",
+     "segments": 40
+    },
+    {
+     "file": "0059.json",
+     "ref": "59",
+     "title": "59",
+     "segments": 26
+    },
+    {
+     "file": "0060.json",
+     "ref": "60",
+     "title": "60",
+     "segments": 28
+    },
+    {
+     "file": "0061.json",
+     "ref": "61",
+     "title": "61",
+     "segments": 56
+    },
+    {
+     "file": "0062.json",
+     "ref": "62",
+     "title": "62",
+     "segments": 21
+    },
+    {
+     "file": "0063.json",
+     "ref": "63",
+     "title": "63",
+     "segments": 20
+    },
+    {
+     "file": "0064.json",
+     "ref": "64",
+     "title": "64",
+     "segments": 22
+    },
+    {
+     "file": "0065.json",
+     "ref": "65",
+     "title": "65",
+     "segments": 24
+    },
+    {
+     "file": "0066.json",
+     "ref": "66",
+     "title": "66",
+     "segments": 27
+    },
+    {
+     "file": "0067.json",
+     "ref": "67",
+     "title": "67",
+     "segments": 24
+    },
+    {
+     "file": "0068.json",
+     "ref": "68",
+     "title": "68",
+     "segments": 19
+    },
+    {
+     "file": "0069.json",
+     "ref": "69",
+     "title": "69",
+     "segments": 23
+    },
+    {
+     "file": "0070.json",
+     "ref": "70",
+     "title": "70",
+     "segments": 15
+    },
+    {
+     "file": "0071.json",
+     "ref": "71",
+     "title": "71",
+     "segments": 30
+    },
+    {
+     "file": "0072.json",
+     "ref": "72",
+     "title": "72",
+     "segments": 26
+    },
+    {
+     "file": "0073.json",
+     "ref": "73",
+     "title": "73",
+     "segments": 21
+    },
+    {
+     "file": "0074.json",
+     "ref": "74",
+     "title": "74",
+     "segments": 38
+    },
+    {
+     "file": "0075.json",
+     "ref": "75",
+     "title": "75",
+     "segments": 30
+    },
+    {
+     "file": "0076.json",
+     "ref": "76",
+     "title": "76",
+     "segments": 43
+    },
+    {
+     "file": "0077.json",
+     "ref": "77",
+     "title": "77",
+     "segments": 30
+    },
+    {
+     "file": "0078.json",
+     "ref": "78",
+     "title": "78",
+     "segments": 33
+    },
+    {
+     "file": "0079.json",
+     "ref": "79",
+     "title": "79",
+     "segments": 20
+    },
+    {
+     "file": "0080.json",
+     "ref": "80",
+     "title": "80",
+     "segments": 23
+    },
+    {
+     "file": "0081.json",
+     "ref": "81",
+     "title": "81",
+     "segments": 45
+    },
+    {
+     "file": "0082.json",
+     "ref": "82",
+     "title": "82",
+     "segments": 67
+    },
+    {
+     "file": "0083.json",
+     "ref": "83",
+     "title": "83",
+     "segments": 34
+    },
+    {
+     "file": "0084.json",
+     "ref": "84",
+     "title": "84",
+     "segments": 35
+    },
+    {
+     "file": "0085.json",
+     "ref": "85",
+     "title": "85",
+     "segments": 31
+    },
+    {
+     "file": "0086.json",
+     "ref": "86",
+     "title": "86",
+     "segments": 34
+    },
+    {
+     "file": "0087.json",
+     "ref": "87",
+     "title": "87",
+     "segments": 26
+    },
+    {
+     "file": "0088.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 19
+    },
+    {
+     "file": "0089.json",
+     "ref": "p2",
+     "title": "p2",
+     "segments": 12
+    },
+    {
+     "file": "0090.json",
+     "ref": "p3",
+     "title": "p3",
+     "segments": 6
+    }
+   ]
+  }
+ ]
+}

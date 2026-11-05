@@ -1,0 +1,18 @@
+{
+  "name": "GoReview",
+  "short_name": "GoReview",
+  "description": "Review the words you met while reading with GoLearn. Sign in with the same account; new lookups arrive while the app is open.",
+  "lang": "en",
+  "id": "./index.html",
+  "start_url": "./index.html#/review",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f2e8",
+  "theme_color": "#f7f2e8",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

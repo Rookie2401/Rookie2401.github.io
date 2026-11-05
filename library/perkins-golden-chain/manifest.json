@@ -1,0 +1,3658 @@
+{
+ "workId": "perkins-golden-chain",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "perkins-armilla-aurea-1590-tcp-a09349",
+   "role": "original",
+   "language": "latin",
+   "credit": "Armilla aurea, id est, Miranda series causarum et salutis & damnationis iuxta verbum Dei, in EEBO-TCP text A09349 (STC STC 19655; STC) (Cantabrigiæ: Ex officina Iohannis Legatt, 1590). Transcription: Text Creation Partnership (EEBO-TCP Phase I), keyboarded from images of the original (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A09349/master/A09349.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 225005,
+   "sourceSha256": "7b74dfa74b07d75b1dfc6e2ae51dacba5ae6278fc9ee4e9d42edeafaf1d28378",
+   "leftOut": {
+    "pb": 137,
+    "note": 510,
+    "unread": 44
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 14254,
+    "unreadPerThousand": 3.1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "ILLVSTRISSIMAE Apud Cantabrigienses Academiae, bonarum omnium literarum & Christianae pietatis nutrici, & altero Anglicanae Ecclesiae seminario gratiam & pacem in Christo sempiternam precatur",
+     "segments": 5
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "CAP. I. De Deo, & de Deitate.",
+     "segments": 3
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "CAP. II. De Attributis DEI.",
+     "segments": 16
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.3",
+     "title": "CAP. III. DE PERSONIS TRINITATIS.",
+     "segments": 5
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.4",
+     "title": "CAP. IIII. DE DECRETO DEI, ET PRAEDESTINATIONE.",
+     "segments": 3
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.5",
+     "title": "CAP. V. DE CREATIONE, ET DE STATV INNOCENTIAE.",
+     "segments": 10
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.6",
+     "title": "CAP. VI. ¶ DE LAPSV ET STATV 〈 in non-Latin alphabet 〉.",
+     "segments": 38
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.7",
+     "title": "CAP. VII. DE DECRETO ELECTIONIS, ET eius fundamento IESV CHRISTO.",
+     "segments": 36
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.8.0",
+     "title": "CAP. VIII. DE EXTERNIS MEdiis exequendi decretum Electionis: & de Decalogo.",
+     "segments": 4
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.8.1.0",
+     "title": "Series causarum PRJMVM Mandatum de habendo & eligendo Deo.",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.8.1.1",
+     "title": "Explicatio.",
+     "segments": 10
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.8.1.2",
+     "title": "Pars affirmativa.",
+     "segments": 3
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.8.1.3",
+     "title": "Pars negativa.",
+     "segments": 4
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.8.2.0",
+     "title": "SECVNDVM MANdatum de modo colendi Deum.",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.8.2.1",
+     "title": "Explicatio.",
+     "segments": 10
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.8.2.2",
+     "title": "Pars negativa.",
+     "segments": 12
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.8.2.3",
+     "title": "Pars affirmativa.",
+     "segments": 5
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.8.3.0",
+     "title": "MANDATVM TERtium de glorificando Deo.",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.8.3.1",
+     "title": "Expositio.",
+     "segments": 5
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.8.3.2",
+     "title": "Pars negativa.",
+     "segments": 16
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.8.3.3",
+     "title": "Pars affirmativa.",
+     "segments": 6
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.8.4.0",
+     "title": "QVARTVM MANDATVM DE Sabbatho, id est, de sacro tempore colendi & glorificandi Deum.",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.8.4.1",
+     "title": "Explicatio.",
+     "segments": 7
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.8.4.2",
+     "title": "Pars affirmativa.",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.8.4.3",
+     "title": "Pars negativa.",
+     "segments": 9
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.8.5.0",
+     "title": "MANDATVM QVINtum de Dignitate & excellentia proximi.",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.8.5.1",
+     "title": "Explicatio.",
+     "segments": 4
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.8.5.2.0",
+     "title": "Pars affirmativa.",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.8.5.2.1",
+     "title": "Sub hac parte jubentur officia.",
+     "segments": 7
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.8.5.3",
+     "title": "Pars negativa.",
+     "segments": 5
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.8.6.0",
+     "title": "MANDATVM SEXtum de vita proximi.",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.8.6.1",
+     "title": "Expositio.",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.8.6.2",
+     "title": "Pars negativa.",
+     "segments": 24
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.8.6.3",
+     "title": "Pars affirmativa.",
+     "segments": 7
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.8.7.0",
+     "title": "MANDATUM SEPtimum de castitate proximi.",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.8.7.1",
+     "title": "Expositio.",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.8.7.2",
+     "title": "Pars negativa.",
+     "segments": 6
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.8.7.3",
+     "title": "Pars affirmativa.",
+     "segments": 5
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.8.8.0",
+     "title": "MANDATVM OCtavum de Bonis proximi.",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.8.8.1",
+     "title": "Expositio.",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.8.8.2.0",
+     "title": "Pars negativa.",
+     "segments": 13
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.8.8.2.1",
+     "title": "Extra contractum Iniustitia est.",
+     "segments": 7
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.8.8.3",
+     "title": "Pars affirmativa.",
+     "segments": 15
+    },
+    {
+     "file": "0044.json",
+     "ref": "1.8.9.0",
+     "title": "MANDATVM NOnum de Fama proximi.",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "1.8.9.1",
+     "title": "Expositio.",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "1.8.9.2",
+     "title": "Pars negativa.",
+     "segments": 9
+    },
+    {
+     "file": "0047.json",
+     "ref": "1.8.9.3",
+     "title": "Pars affirmativa.",
+     "segments": 5
+    },
+    {
+     "file": "0048.json",
+     "ref": "1.8.10.0",
+     "title": "MANDATVM DEcimum de Concupiscentia.",
+     "segments": 1
+    },
+    {
+     "file": "0049.json",
+     "ref": "1.8.10.1",
+     "title": "Expositio.",
+     "segments": 2
+    },
+    {
+     "file": "0050.json",
+     "ref": "1.8.10.2",
+     "title": "Pars negativa.",
+     "segments": 4
+    },
+    {
+     "file": "0051.json",
+     "ref": "1.8.10.3",
+     "title": "Pars negativa.",
+     "segments": 4
+    },
+    {
+     "file": "0052.json",
+     "ref": "1.9",
+     "title": "CAP IX. De vsutegis.",
+     "segments": 5
+    },
+    {
+     "file": "0053.json",
+     "ref": "1.10",
+     "title": "CAP. X. De Evangelio & eius vsit.",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "1.11",
+     "title": "CAP. XI. De Sacramentis.",
+     "segments": 10
+    },
+    {
+     "file": "0055.json",
+     "ref": "1.12",
+     "title": "CAP. XII. De Baptismo.",
+     "segments": 5
+    },
+    {
+     "file": "0056.json",
+     "ref": "1.13",
+     "title": "CAP. XIII. De Coena Domini.",
+     "segments": 9
+    },
+    {
+     "file": "0057.json",
+     "ref": "1.14",
+     "title": "CAP. XV. De gradibus exequutionis decreti Electionis.",
+     "segments": 6
+    },
+    {
+     "file": "0058.json",
+     "ref": "1.15",
+     "title": "CAP. XVI. De primo gradu declarationis amoris Dei.",
+     "segments": 22
+    },
+    {
+     "file": "0059.json",
+     "ref": "1.16",
+     "title": "CAP. XVII. De secundo gradu declarationis amoris Dei.",
+     "segments": 6
+    },
+    {
+     "file": "0060.json",
+     "ref": "1.17",
+     "title": "CAP. XVIII. De tertio gradu declarationis amoris Dei.",
+     "segments": 15
+    },
+    {
+     "file": "0061.json",
+     "ref": "1.18",
+     "title": "CAP. XIX. DE RESIPISCENtia, & eius fructibus.",
+     "segments": 9
+    },
+    {
+     "file": "0062.json",
+     "ref": "1.19",
+     "title": "CAP. XX. DE CHRISTIANA MILITIA.",
+     "segments": 36
+    },
+    {
+     "file": "0063.json",
+     "ref": "1.20",
+     "title": "CAP. XXI. DE TOLERANtia crucis.",
+     "segments": 5
+    },
+    {
+     "file": "0064.json",
+     "ref": "1.21",
+     "title": "CAP. XXII. DE INVOCATIONE DEI.",
+     "segments": 8
+    },
+    {
+     "file": "0065.json",
+     "ref": "1.22",
+     "title": "CAP. XXIII. DE APOLOGIA & Martyrio.",
+     "segments": 4
+    },
+    {
+     "file": "0066.json",
+     "ref": "1.23",
+     "title": "CAP. XXIIII. DE AEDIFICATIone & Eleemosyna inter fideles.",
+     "segments": 3
+    },
+    {
+     "file": "0067.json",
+     "ref": "1.24",
+     "title": "CAP. XXV. DE QVARTO GRADV declarationis amoris Dei: & de statu Electorum quando sunt mortui.",
+     "segments": 4
+    },
+    {
+     "file": "0068.json",
+     "ref": "1.25",
+     "title": "CAP. XXVI. DE STATV ELECTOrum in vltimo Iudicio.",
+     "segments": 5
+    },
+    {
+     "file": "0069.json",
+     "ref": "1.26.0",
+     "title": "CAP. XXVII. De statu Electorum post vltimum iudicium.",
+     "segments": 9
+    },
+    {
+     "file": "0070.json",
+     "ref": "1.26.1",
+     "title": "Corollarium.",
+     "segments": 2
+    },
+    {
+     "file": "0071.json",
+     "ref": "1.27",
+     "title": "CAP. XXIII. DE REPROBATIonis decreto.",
+     "segments": 4
+    },
+    {
+     "file": "0072.json",
+     "ref": "1.28",
+     "title": "CAP. XXVIII. De gradibus exequutionis detreti Reprobationis.",
+     "segments": 15
+    },
+    {
+     "file": "0073.json",
+     "ref": "1.29",
+     "title": "CAP. XXIX. De statu Reproborum quando sunt mortui.",
+     "segments": 2
+    },
+    {
+     "file": "0074.json",
+     "ref": "1.30",
+     "title": "CAP. XXX. De damnatione Reproborum in vltimo Iudicio.",
+     "segments": 1
+    },
+    {
+     "file": "0075.json",
+     "ref": "1.31.0",
+     "title": "CAP. XXXI. De statu Reproborum in inferno.",
+     "segments": 5
+    },
+    {
+     "file": "0076.json",
+     "ref": "1.31.1",
+     "title": "COROLLARIVM.",
+     "segments": 2
+    }
+   ]
+  },
+  {
+   "editionId": "perkins-golden-chaine-1600-tcp-a09339",
+   "role": "english",
+   "language": "english",
+   "credit": "A golden chaine: or The description of theologie containing the order of the causes of saluation and damnation, according to Gods word, in EEBO-TCP text A09339 (STC STC 19646; STC), trans. not named in the TCP header (Cambridge: Printed by Iohn Legat, printer to the Vniuersitie of Cambridge, 1600). Transcription: Text Creation Partnership (EEBO-TCP Phase I), keyboarded from images of the original (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A09339/master/A09339.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 4915852,
+   "sourceSha256": "7f6e78ed2196e7bd1bdf1d3dff372cf1ffc8065fae50f73de775397d28df07dd",
+   "leftOut": {
+    "pb": 1080,
+    "unread": 1343,
+    "note": 3152,
+    "figure": 2,
+    "milestone": 52
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 638344,
+    "unreadPerThousand": 2.1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.1",
+     "title": "To the Christian Reader.",
+     "segments": 5
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.2",
+     "title": "CHAP. 1. Of the bodie of Scripture and Theologie.",
+     "segments": 5
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.3",
+     "title": "CHAP. 2. Of God, and the nature of God.",
+     "segments": 14
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.4",
+     "title": "CHAP. 3. Of the life of God.",
+     "segments": 30
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.5",
+     "title": "CHAP. 5. Of Gods glorie, and blessednesse.",
+     "segments": 7
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.6",
+     "title": "CHAP. 5. Concerning the persons of the Godhead.",
+     "segments": 21
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.7",
+     "title": "CHAP. 6. Of Gods workes, and his decree.",
+     "segments": 20
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.8",
+     "title": "CHAP. 7. Of Predestination and Creation.",
+     "segments": 12
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.9",
+     "title": "CHAP. 8. Of Angels.",
+     "segments": 7
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.10",
+     "title": "CHAP. 7. Of man, and the estate of innocencie.",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.11",
+     "title": "CHAP. 10. Of sinne, and the fall of Angels.",
+     "segments": 16
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.12",
+     "title": "CHAP. 11. Of mans fall and disobedience.",
+     "segments": 5
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.13",
+     "title": "CHAP. 12. Of Originall sinne.",
+     "segments": 26
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.14",
+     "title": "CHAP. 13. Of actuall sinne.",
+     "segments": 24
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.15",
+     "title": "CHAP. 14. Of the punishment of sinne.",
+     "segments": 5
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.16",
+     "title": "CHAP. 15. Of Election, and of Iesus Christ the foundation thereof.",
+     "segments": 19
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.17",
+     "title": "CHAP. 16. Of the Vnion of the two natures in Christ.",
+     "segments": 7
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.18",
+     "title": "CHAP. 17. Of the distinction of both Natures.",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.19",
+     "title": "CHAP. 18. Of Christs Natiuitie and Office.",
+     "segments": 58
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.20",
+     "title": "CHAP. 19. CONCERNING THE OVTWARD MEANES of executing the decree of election, and of the Decalogue.",
+     "segments": 15
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.21.0",
+     "title": "CHAP. 20. Of the first commandement.",
+     "segments": 3
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.21.1",
+     "title": "The Resolution.",
+     "segments": 14
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.21.2",
+     "title": "The affirmatiue part.",
+     "segments": 10
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.21.3",
+     "title": "The negatiue part.",
+     "segments": 3
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.22.0",
+     "title": "CHAP. 21. Of the second Commandement.",
+     "segments": 5
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.22.1",
+     "title": "The Resolution.",
+     "segments": 15
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.22.2",
+     "title": "The negatiue part.",
+     "segments": 21
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.22.3",
+     "title": "The affirmatiue part.",
+     "segments": 4
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.23.0",
+     "title": "CHAP. 22. Of the third commandement.",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.23.1",
+     "title": "The Resolution.",
+     "segments": 5
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.23.2",
+     "title": "The negatiue part.",
+     "segments": 3
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.23.3",
+     "title": "The affirmatiue part.",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.24.0",
+     "title": "CHAP. 23. Of the fourth Commandement.",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.24.1",
+     "title": "The Resolution.",
+     "segments": 28
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.24.2",
+     "title": "The affirmative part.",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.24.3",
+     "title": "The negatiue part.",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.25.0",
+     "title": "CHAP. 24. Of the fifth commandement.",
+     "segments": 6
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.25.1",
+     "title": "The Resolution.",
+     "segments": 10
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.25.2",
+     "title": "The affirmative part.",
+     "segments": 16
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.25.3",
+     "title": "The negatiue part.",
+     "segments": 8
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.26.0",
+     "title": "CHAP. 25. Concerning the sixt commandement.",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.26.1",
+     "title": "The Resolution.",
+     "segments": 3
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.26.2",
+     "title": "The negatiue part.",
+     "segments": 18
+    },
+    {
+     "file": "0044.json",
+     "ref": "1.26.3",
+     "title": "The affirmatiue part.",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "1.27.0",
+     "title": "CHAP. 26. Of the seuenth Commandement.",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "1.27.1",
+     "title": "The Resolution.",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "1.27.2",
+     "title": "The negatiue part.",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "1.27.3",
+     "title": "The affirmatiue part.",
+     "segments": 7
+    },
+    {
+     "file": "0049.json",
+     "ref": "1.28.0",
+     "title": "CHAP. 27. Of the eight Commandement.",
+     "segments": 2
+    },
+    {
+     "file": "0050.json",
+     "ref": "1.28.1",
+     "title": "The Resolution.",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "1.28.2",
+     "title": "The negatiue part.",
+     "segments": 13
+    },
+    {
+     "file": "0052.json",
+     "ref": "1.28.3",
+     "title": "The affirmatiue part.",
+     "segments": 2
+    },
+    {
+     "file": "0053.json",
+     "ref": "1.29.0",
+     "title": "CHAP. 28. Concerning the ninth Commandement.",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "1.29.1",
+     "title": "The Resolution.",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "1.29.2",
+     "title": "The negatiue part.",
+     "segments": 2
+    },
+    {
+     "file": "0056.json",
+     "ref": "1.29.3",
+     "title": "The affirmatiue part.",
+     "segments": 6
+    },
+    {
+     "file": "0057.json",
+     "ref": "1.30.0",
+     "title": "CHAP. 29. Of the tenth Commandement.",
+     "segments": 2
+    },
+    {
+     "file": "0058.json",
+     "ref": "1.30.1",
+     "title": "The Resolution.",
+     "segments": 3
+    },
+    {
+     "file": "0059.json",
+     "ref": "1.30.2",
+     "title": "The negatiue part.",
+     "segments": 2
+    },
+    {
+     "file": "0060.json",
+     "ref": "1.30.3",
+     "title": "The affirmatiue part.",
+     "segments": 2
+    },
+    {
+     "file": "0061.json",
+     "ref": "1.31",
+     "title": "CHAP. 30. Of the vse of the Law.",
+     "segments": 8
+    },
+    {
+     "file": "0062.json",
+     "ref": "1.32",
+     "title": "CHAP. 31. Of the couenant of Grace.",
+     "segments": 9
+    },
+    {
+     "file": "0063.json",
+     "ref": "1.33",
+     "title": "CHAP. 32. Of the Sacraments.",
+     "segments": 23
+    },
+    {
+     "file": "0064.json",
+     "ref": "1.34",
+     "title": "CHAP. 33. Of Baptisme.",
+     "segments": 29
+    },
+    {
+     "file": "0065.json",
+     "ref": "1.35",
+     "title": "CHAP. 34. Of the Lords Supper.",
+     "segments": 23
+    },
+    {
+     "file": "0066.json",
+     "ref": "1.36",
+     "title": "CHAP. 35. Of the degrees of executing Gods decree of Election.",
+     "segments": 7
+    },
+    {
+     "file": "0067.json",
+     "ref": "1.37",
+     "title": "CHAP. 36. Concerning the first degree of the declaration of Gods loue.",
+     "segments": 49
+    },
+    {
+     "file": "0068.json",
+     "ref": "1.38",
+     "title": "CHAP. 37. Concerning the second degree of the declaration of Gods loue.",
+     "segments": 24
+    },
+    {
+     "file": "0069.json",
+     "ref": "1.39",
+     "title": "CHAP. 38. Concerning the third degree of the declaration of Gods loue.",
+     "segments": 23
+    },
+    {
+     "file": "0070.json",
+     "ref": "1.40",
+     "title": "CHAP. 39. Of Repentance and the fruits thereof.",
+     "segments": 7
+    },
+    {
+     "file": "0071.json",
+     "ref": "1.41",
+     "title": "CHAP. 40. Of Christian warfare.",
+     "segments": 16
+    },
+    {
+     "file": "0072.json",
+     "ref": "1.42",
+     "title": "CHAP. 41. Of the first Assault.",
+     "segments": 7
+    },
+    {
+     "file": "0073.json",
+     "ref": "1.43",
+     "title": "CHAP. 42. Of the second Assault.",
+     "segments": 10
+    },
+    {
+     "file": "0074.json",
+     "ref": "1.44",
+     "title": "CHAP. 43. Of the third Assault.",
+     "segments": 18
+    },
+    {
+     "file": "0075.json",
+     "ref": "1.45",
+     "title": "CHAP. 44. Of the patient bearing of the crosse.",
+     "segments": 6
+    },
+    {
+     "file": "0076.json",
+     "ref": "1.46",
+     "title": "CHAP. 45. Of the calling vpon God.",
+     "segments": 10
+    },
+    {
+     "file": "0077.json",
+     "ref": "1.47",
+     "title": "CHAP. 46. Of Christian Apologie, and Martyrdome.",
+     "segments": 5
+    },
+    {
+     "file": "0078.json",
+     "ref": "1.48",
+     "title": "CHAP. 47. Of Edification, and Almes among the faithfull.",
+     "segments": 6
+    },
+    {
+     "file": "0079.json",
+     "ref": "1.49",
+     "title": "CHAP. 48. Of the fourth degree, of the declaration of Gods loue: and of the estate of the Elect, after this life.",
+     "segments": 6
+    },
+    {
+     "file": "0080.json",
+     "ref": "1.50",
+     "title": "CHAP. 49. Of the estate of the Elect, at the last day of iudgement.",
+     "segments": 2
+    },
+    {
+     "file": "0081.json",
+     "ref": "1.51.0",
+     "title": "CHAP. 50. Of the estate of the Elect after iudgement.",
+     "segments": 9
+    },
+    {
+     "file": "0082.json",
+     "ref": "1.51.1",
+     "title": "A Corollarie, or the last conclusion.",
+     "segments": 2
+    },
+    {
+     "file": "0083.json",
+     "ref": "1.52.0",
+     "title": "CHAP. 50. Concerning the order of the causes of saluation according to the doctrine of the Church of Rome.",
+     "segments": 26
+    },
+    {
+     "file": "0084.json",
+     "ref": "1.52.1",
+     "title": "Errours of the Papists in their distributing of the causes of saluation.",
+     "segments": 1
+    },
+    {
+     "file": "0085.json",
+     "ref": "1.52.2.0",
+     "title": "The I. errour.",
+     "segments": 1
+    },
+    {
+     "file": "0086.json",
+     "ref": "1.52.2.1",
+     "title": "The Confutation.",
+     "segments": 2
+    },
+    {
+     "file": "0087.json",
+     "ref": "1.52.3.0",
+     "title": "The II. errour.",
+     "segments": 1
+    },
+    {
+     "file": "0088.json",
+     "ref": "1.52.3.1",
+     "title": "The Confutation.",
+     "segments": 2
+    },
+    {
+     "file": "0089.json",
+     "ref": "1.52.4.0",
+     "title": "The III. errour.",
+     "segments": 1
+    },
+    {
+     "file": "0090.json",
+     "ref": "1.52.4.1",
+     "title": "The Confutation.",
+     "segments": 1
+    },
+    {
+     "file": "0091.json",
+     "ref": "1.52.5.0",
+     "title": "The IV. errour.",
+     "segments": 1
+    },
+    {
+     "file": "0092.json",
+     "ref": "1.52.5.1",
+     "title": "The Confutation.",
+     "segments": 1
+    },
+    {
+     "file": "0093.json",
+     "ref": "1.52.6.0",
+     "title": "The V. errour.",
+     "segments": 1
+    },
+    {
+     "file": "0094.json",
+     "ref": "1.52.6.1",
+     "title": "The Confutation.",
+     "segments": 1
+    },
+    {
+     "file": "0095.json",
+     "ref": "1.52.7.0",
+     "title": "The VI. errour.",
+     "segments": 1
+    },
+    {
+     "file": "0096.json",
+     "ref": "1.52.7.1",
+     "title": "The Confutation.",
+     "segments": 1
+    },
+    {
+     "file": "0097.json",
+     "ref": "1.52.8.0",
+     "title": "The VII. errour.",
+     "segments": 1
+    },
+    {
+     "file": "0098.json",
+     "ref": "1.52.8.1",
+     "title": "The Confutation.",
+     "segments": 6
+    },
+    {
+     "file": "0099.json",
+     "ref": "1.52.9.0",
+     "title": "The VIII. errour.",
+     "segments": 1
+    },
+    {
+     "file": "0100.json",
+     "ref": "1.52.9.1",
+     "title": "The Confutation.",
+     "segments": 1
+    },
+    {
+     "file": "0101.json",
+     "ref": "1.52.10.0",
+     "title": "The IX. errour.",
+     "segments": 1
+    },
+    {
+     "file": "0102.json",
+     "ref": "1.52.10.1",
+     "title": "The Confutation.",
+     "segments": 1
+    },
+    {
+     "file": "0103.json",
+     "ref": "1.52.11.0",
+     "title": "The X. errour.",
+     "segments": 1
+    },
+    {
+     "file": "0104.json",
+     "ref": "1.52.11.1",
+     "title": "The Confutation.",
+     "segments": 9
+    },
+    {
+     "file": "0105.json",
+     "ref": "1.52.12.0",
+     "title": "The XI. errour.",
+     "segments": 1
+    },
+    {
+     "file": "0106.json",
+     "ref": "1.52.12.1",
+     "title": "The Confutation.",
+     "segments": 1
+    },
+    {
+     "file": "0107.json",
+     "ref": "1.52.13.0",
+     "title": "The XII. errour.",
+     "segments": 1
+    },
+    {
+     "file": "0108.json",
+     "ref": "1.52.13.1",
+     "title": "The Confutation.",
+     "segments": 4
+    },
+    {
+     "file": "0109.json",
+     "ref": "1.52.14.0",
+     "title": "The XIII. errour.",
+     "segments": 1
+    },
+    {
+     "file": "0110.json",
+     "ref": "1.52.14.1",
+     "title": "The Confutation.",
+     "segments": 15
+    },
+    {
+     "file": "0111.json",
+     "ref": "1.52.15.0",
+     "title": "The XIIII. errour.",
+     "segments": 1
+    },
+    {
+     "file": "0112.json",
+     "ref": "1.52.15.1",
+     "title": "The Confutation.",
+     "segments": 2
+    },
+    {
+     "file": "0113.json",
+     "ref": "1.52.16.0",
+     "title": "The XV. errour.",
+     "segments": 1
+    },
+    {
+     "file": "0114.json",
+     "ref": "1.52.16.1",
+     "title": "The Confutation.",
+     "segments": 2
+    },
+    {
+     "file": "0115.json",
+     "ref": "1.52.17.0",
+     "title": "The XVI. errour.",
+     "segments": 1
+    },
+    {
+     "file": "0116.json",
+     "ref": "1.52.17.1",
+     "title": "The Confutation.",
+     "segments": 5
+    },
+    {
+     "file": "0117.json",
+     "ref": "1.52.18.0",
+     "title": "The XVII. errour.",
+     "segments": 1
+    },
+    {
+     "file": "0118.json",
+     "ref": "1.52.18.1",
+     "title": "The Confutation.",
+     "segments": 4
+    },
+    {
+     "file": "0119.json",
+     "ref": "1.53",
+     "title": "CHAP. 52. Concerning the decree of Reprobation.",
+     "segments": 4
+    },
+    {
+     "file": "0120.json",
+     "ref": "1.54",
+     "title": "CHAP. 53. Concerning the execution of the decree of Reprobation.",
+     "segments": 19
+    },
+    {
+     "file": "0121.json",
+     "ref": "1.55.0",
+     "title": "CHAP. 54. Concerning a newe deuised doctrine of Predestination, taught by some new and late Diuines.",
+     "segments": 2
+    },
+    {
+     "file": "0122.json",
+     "ref": "1.55.1.0",
+     "title": "The I. errour.",
+     "segments": 1
+    },
+    {
+     "file": "0123.json",
+     "ref": "1.55.1.1",
+     "title": "The Confutation.",
+     "segments": 22
+    },
+    {
+     "file": "0124.json",
+     "ref": "1.55.2.0",
+     "title": "The II. errour.",
+     "segments": 1
+    },
+    {
+     "file": "0125.json",
+     "ref": "1.55.2.1",
+     "title": "The Confutation.",
+     "segments": 1
+    },
+    {
+     "file": "0126.json",
+     "ref": "1.55.3.0",
+     "title": "The III. errour.",
+     "segments": 1
+    },
+    {
+     "file": "0127.json",
+     "ref": "1.55.3.1",
+     "title": "The Confutation.",
+     "segments": 2
+    },
+    {
+     "file": "0128.json",
+     "ref": "1.55.4.0",
+     "title": "The IIII. errour.",
+     "segments": 1
+    },
+    {
+     "file": "0129.json",
+     "ref": "1.55.4.1",
+     "title": "The Confutation.",
+     "segments": 4
+    },
+    {
+     "file": "0130.json",
+     "ref": "1.55.5",
+     "title": "The conclusion.",
+     "segments": 1
+    },
+    {
+     "file": "0131.json",
+     "ref": "1.56",
+     "title": "CHAP. 55. Of the state and condition of the Reprobates when they are dead.",
+     "segments": 2
+    },
+    {
+     "file": "0132.json",
+     "ref": "1.57",
+     "title": "CHAP. 56. Of the condemnation of the Reprobates at the last iudgement.",
+     "segments": 1
+    },
+    {
+     "file": "0133.json",
+     "ref": "1.58.0",
+     "title": "CHAP. 57. Of the estate of the Reprobates in hell.",
+     "segments": 3
+    },
+    {
+     "file": "0134.json",
+     "ref": "1.58.1",
+     "title": "A Corollarie.",
+     "segments": 1
+    },
+    {
+     "file": "0135.json",
+     "ref": "1.59",
+     "title": "CHAP. 58. Of the application of Predestination.",
+     "segments": 8
+    },
+    {
+     "file": "0136.json",
+     "ref": "1.60",
+     "title": "AN EXCELLENT TREATISE of comforting such, as are troubled about their Predestination, Taken out of the second answer of M. Beza, to D. Andreas, in the act of their Colloquie at Mompelgart, &c.",
+     "segments": 13
+    },
+    {
+     "file": "0137.json",
+     "ref": "2.1",
+     "title": "TO THE RIGHT HONOVRABLE, EDWARD Lord Russell, Earle of Bedford. Grace, and peace, &c.",
+     "segments": 4
+    },
+    {
+     "file": "0138.json",
+     "ref": "2.2",
+     "title": "2.2",
+     "segments": 1
+    },
+    {
+     "file": "0139.json",
+     "ref": "2.3",
+     "title": "AN EXPOSITION OF THE CREED. I beleeue in God. &c.",
+     "segments": 720
+    },
+    {
+     "file": "0140.json",
+     "ref": "3.1",
+     "title": "To the right Honourable Edward, Lord Russell Earle of Bedford: Grace and peace be multiplied.",
+     "segments": 4
+    },
+    {
+     "file": "0141.json",
+     "ref": "3.2",
+     "title": "An aduertisement to the Reader.",
+     "segments": 20
+    },
+    {
+     "file": "0142.json",
+     "ref": "3.3.0",
+     "title": "AN EXPOSITION OF THE Lords praier, in the way of Catechisme. Seruing for ignorant people, by M. Perkins. Matth. 6. vers. 9. After this manner therefore pray ye: Our Father, &c.",
+     "segments": 19
+    },
+    {
+     "file": "0143.json",
+     "ref": "3.3.1",
+     "title": "Our Father which art, &c.]",
+     "segments": 6
+    },
+    {
+     "file": "0144.json",
+     "ref": "3.3.2.1",
+     "title": "1. The meaning.",
+     "segments": 5
+    },
+    {
+     "file": "0145.json",
+     "ref": "3.3.2.2",
+     "title": "2. The vse.",
+     "segments": 2
+    },
+    {
+     "file": "0146.json",
+     "ref": "3.3.3.1",
+     "title": "1. The meaning.",
+     "segments": 2
+    },
+    {
+     "file": "0147.json",
+     "ref": "3.3.3.2",
+     "title": "2. The vses.",
+     "segments": 9
+    },
+    {
+     "file": "0148.json",
+     "ref": "3.3.4.1",
+     "title": "1. The meaning.",
+     "segments": 1
+    },
+    {
+     "file": "0149.json",
+     "ref": "3.3.4.2",
+     "title": "2. The vse.",
+     "segments": 3
+    },
+    {
+     "file": "0150.json",
+     "ref": "3.3.5.1",
+     "title": "1. The Coherence.",
+     "segments": 4
+    },
+    {
+     "file": "0151.json",
+     "ref": "3.3.5.2",
+     "title": "2. The meaning.",
+     "segments": 1
+    },
+    {
+     "file": "0152.json",
+     "ref": "3.3.6",
+     "title": "Name]",
+     "segments": 2
+    },
+    {
+     "file": "0153.json",
+     "ref": "3.3.7.0",
+     "title": "Hallowed]",
+     "segments": 3
+    },
+    {
+     "file": "0154.json",
+     "ref": "3.3.7.1",
+     "title": "3. The wants which are to be bewailed.",
+     "segments": 4
+    },
+    {
+     "file": "0155.json",
+     "ref": "3.3.7.2",
+     "title": "4. Graces to be desired.",
+     "segments": 3
+    },
+    {
+     "file": "0156.json",
+     "ref": "3.3.8.1",
+     "title": "1. The Coherence.",
+     "segments": 1
+    },
+    {
+     "file": "0157.json",
+     "ref": "3.3.8.2",
+     "title": "2. The meaning.",
+     "segments": 11
+    },
+    {
+     "file": "0158.json",
+     "ref": "3.3.8.3",
+     "title": "3. The wants which are to be bewailed.",
+     "segments": 5
+    },
+    {
+     "file": "0159.json",
+     "ref": "3.3.8.4",
+     "title": "4. Graces to be desired.",
+     "segments": 6
+    },
+    {
+     "file": "0160.json",
+     "ref": "3.3.9.1",
+     "title": "1. The Coherence.",
+     "segments": 1
+    },
+    {
+     "file": "0161.json",
+     "ref": "3.3.9.2",
+     "title": "2. The meaning.",
+     "segments": 3
+    },
+    {
+     "file": "0162.json",
+     "ref": "3.3.9.3",
+     "title": "3. The wants to be praied against.",
+     "segments": 3
+    },
+    {
+     "file": "0163.json",
+     "ref": "3.3.9.4",
+     "title": "4. Graces to be desired.",
+     "segments": 4
+    },
+    {
+     "file": "0164.json",
+     "ref": "3.3.9.5",
+     "title": "5. Error confuted:",
+     "segments": 1
+    },
+    {
+     "file": "0165.json",
+     "ref": "3.3.10.1",
+     "title": "1. The meaning.",
+     "segments": 4
+    },
+    {
+     "file": "0166.json",
+     "ref": "3.3.10.2",
+     "title": "2. The wants to be bewailed.",
+     "segments": 1
+    },
+    {
+     "file": "0167.json",
+     "ref": "3.3.10.3",
+     "title": "3. Grace to be desired.",
+     "segments": 1
+    },
+    {
+     "file": "0168.json",
+     "ref": "3.3.11.1",
+     "title": "1. The Goberence.",
+     "segments": 2
+    },
+    {
+     "file": "0169.json",
+     "ref": "3.3.11.2",
+     "title": "2. The meaning.",
+     "segments": 11
+    },
+    {
+     "file": "0170.json",
+     "ref": "3.3.11.3",
+     "title": "3. The wants which are to be bewailed.",
+     "segments": 2
+    },
+    {
+     "file": "0171.json",
+     "ref": "3.3.11.4",
+     "title": "4. Graces to be desired.",
+     "segments": 1
+    },
+    {
+     "file": "0172.json",
+     "ref": "3.3.11.5",
+     "title": "5. Errours confuted.",
+     "segments": 2
+    },
+    {
+     "file": "0173.json",
+     "ref": "3.3.12.1",
+     "title": "1. The Coherence.",
+     "segments": 2
+    },
+    {
+     "file": "0174.json",
+     "ref": "3.3.12.2",
+     "title": "2. The meaning.",
+     "segments": 2
+    },
+    {
+     "file": "0175.json",
+     "ref": "3.3.12.3",
+     "title": "3. The vses of the words.",
+     "segments": 6
+    },
+    {
+     "file": "0176.json",
+     "ref": "3.3.12.4",
+     "title": "4. Wants to be bewailed.",
+     "segments": 1
+    },
+    {
+     "file": "0177.json",
+     "ref": "3.3.12.5",
+     "title": "5. Graces to be desired.",
+     "segments": 1
+    },
+    {
+     "file": "0178.json",
+     "ref": "3.3.13.1",
+     "title": "1. The Coherence.",
+     "segments": 1
+    },
+    {
+     "file": "0179.json",
+     "ref": "3.3.13.2",
+     "title": "2. The meaning.",
+     "segments": 3
+    },
+    {
+     "file": "0180.json",
+     "ref": "3.3.13.3",
+     "title": "3. The vse.",
+     "segments": 2
+    },
+    {
+     "file": "0181.json",
+     "ref": "3.3.14.1",
+     "title": "1. The Coherence.",
+     "segments": 3
+    },
+    {
+     "file": "0182.json",
+     "ref": "3.3.14.2",
+     "title": "2. The meaning.",
+     "segments": 6
+    },
+    {
+     "file": "0183.json",
+     "ref": "3.3.14.3",
+     "title": "3. The vses.",
+     "segments": 4
+    },
+    {
+     "file": "0184.json",
+     "ref": "3.3.14.4",
+     "title": "4. Wants to be bewailed.",
+     "segments": 1
+    },
+    {
+     "file": "0185.json",
+     "ref": "3.3.14.5",
+     "title": "5. Graces to be desired.",
+     "segments": 1
+    },
+    {
+     "file": "0186.json",
+     "ref": "3.3.15.1",
+     "title": "1. The meaning.",
+     "segments": 9
+    },
+    {
+     "file": "0187.json",
+     "ref": "3.3.15.2",
+     "title": "2. The vses.",
+     "segments": 6
+    },
+    {
+     "file": "0188.json",
+     "ref": "3.3.16.1",
+     "title": "1. The meaning.",
+     "segments": 1
+    },
+    {
+     "file": "0189.json",
+     "ref": "3.3.16.2",
+     "title": "2. Graces to be desired.",
+     "segments": 3
+    },
+    {
+     "file": "0190.json",
+     "ref": "3.3.17",
+     "title": "Of the vse of the Lords praier.",
+     "segments": 3
+    },
+    {
+     "file": "0191.json",
+     "ref": "3.3.18",
+     "title": "Of the circumstances of praier.",
+     "segments": 6
+    },
+    {
+     "file": "0192.json",
+     "ref": "3.3.19",
+     "title": "Of Gods hearing our praiers.",
+     "segments": 5
+    },
+    {
+     "file": "0193.json",
+     "ref": "3.3.20.0",
+     "title": "To the Reader.",
+     "segments": 6
+    },
+    {
+     "file": "0194.json",
+     "ref": "3.3.20.1",
+     "title": "The Exposition.",
+     "segments": 7
+    },
+    {
+     "file": "0195.json",
+     "ref": "3.3.21.0",
+     "title": "Ephes. 3.",
+     "segments": 8
+    },
+    {
+     "file": "0196.json",
+     "ref": "3.3.21.1",
+     "title": "The Exposition.",
+     "segments": 5
+    },
+    {
+     "file": "0197.json",
+     "ref": "3.3.22.0",
+     "title": "Philip. 1.",
+     "segments": 3
+    },
+    {
+     "file": "0198.json",
+     "ref": "3.3.22.1",
+     "title": "The Exposition.",
+     "segments": 3
+    },
+    {
+     "file": "0199.json",
+     "ref": "3.3.23.0",
+     "title": "Coloss. 1.",
+     "segments": 5
+    },
+    {
+     "file": "0200.json",
+     "ref": "3.3.23.1",
+     "title": "The Exposition.",
+     "segments": 4
+    },
+    {
+     "file": "0201.json",
+     "ref": "3.3.24",
+     "title": "1. Thess. 3.",
+     "segments": 2
+    },
+    {
+     "file": "0202.json",
+     "ref": "3.3.25",
+     "title": "2. Thess. 2.",
+     "segments": 2
+    },
+    {
+     "file": "0203.json",
+     "ref": "3.3.26",
+     "title": "1. Thess. 5.",
+     "segments": 1
+    },
+    {
+     "file": "0204.json",
+     "ref": "3.3.27",
+     "title": "A Song gathered out of the Psalmes, containing the sobbes and sighs of all repentant sinners.",
+     "segments": 31
+    },
+    {
+     "file": "0205.json",
+     "ref": "4.1",
+     "title": "TO THE RIGHT WORSHIPFVL AND MY CHISTIAN FRIEND MASTER Valentine Knightly, Esquire, one of her Maiesties Iustices of peace in Northampton shiere.",
+     "segments": 3
+    },
+    {
+     "file": "0206.json",
+     "ref": "4.2",
+     "title": "To the Christian Reader.",
+     "segments": 9
+    },
+    {
+     "file": "0207.json",
+     "ref": "4.3.1",
+     "title": "I.",
+     "segments": 1
+    },
+    {
+     "file": "0208.json",
+     "ref": "4.3.2",
+     "title": "II.",
+     "segments": 1
+    },
+    {
+     "file": "0209.json",
+     "ref": "4.3.3",
+     "title": "III.",
+     "segments": 1
+    },
+    {
+     "file": "0210.json",
+     "ref": "4.3.4",
+     "title": "IV.",
+     "segments": 1
+    },
+    {
+     "file": "0211.json",
+     "ref": "4.3.5",
+     "title": "V.",
+     "segments": 1
+    },
+    {
+     "file": "0212.json",
+     "ref": "4.3.6",
+     "title": "VI.",
+     "segments": 1
+    },
+    {
+     "file": "0213.json",
+     "ref": "4.3.7",
+     "title": "VII.",
+     "segments": 1
+    },
+    {
+     "file": "0214.json",
+     "ref": "4.3.8",
+     "title": "VIII.",
+     "segments": 1
+    },
+    {
+     "file": "0215.json",
+     "ref": "4.3.9",
+     "title": "IX.",
+     "segments": 1
+    },
+    {
+     "file": "0216.json",
+     "ref": "4.3.10",
+     "title": "X.",
+     "segments": 1
+    },
+    {
+     "file": "0217.json",
+     "ref": "4.3.11",
+     "title": "XI.",
+     "segments": 1
+    },
+    {
+     "file": "0218.json",
+     "ref": "4.3.12",
+     "title": "XII.",
+     "segments": 1
+    },
+    {
+     "file": "0219.json",
+     "ref": "4.3.13",
+     "title": "XIII.",
+     "segments": 1
+    },
+    {
+     "file": "0220.json",
+     "ref": "4.3.14",
+     "title": "XIV.",
+     "segments": 1
+    },
+    {
+     "file": "0221.json",
+     "ref": "4.3.15",
+     "title": "XV.",
+     "segments": 1
+    },
+    {
+     "file": "0222.json",
+     "ref": "4.3.16",
+     "title": "XVI.",
+     "segments": 1
+    },
+    {
+     "file": "0223.json",
+     "ref": "4.3.17",
+     "title": "XVII.",
+     "segments": 1
+    },
+    {
+     "file": "0224.json",
+     "ref": "4.3.18",
+     "title": "XVIII.",
+     "segments": 1
+    },
+    {
+     "file": "0225.json",
+     "ref": "4.3.19",
+     "title": "XIX.",
+     "segments": 1
+    },
+    {
+     "file": "0226.json",
+     "ref": "4.3.20",
+     "title": "XX.",
+     "segments": 1
+    },
+    {
+     "file": "0227.json",
+     "ref": "4.3.21",
+     "title": "XXI.",
+     "segments": 1
+    },
+    {
+     "file": "0228.json",
+     "ref": "4.3.22",
+     "title": "XXII.",
+     "segments": 1
+    },
+    {
+     "file": "0229.json",
+     "ref": "4.3.23",
+     "title": "XXIII.",
+     "segments": 1
+    },
+    {
+     "file": "0230.json",
+     "ref": "4.3.24",
+     "title": "XXIIII.",
+     "segments": 1
+    },
+    {
+     "file": "0231.json",
+     "ref": "4.3.25",
+     "title": "XXV.",
+     "segments": 1
+    },
+    {
+     "file": "0232.json",
+     "ref": "4.3.26",
+     "title": "XXVI.",
+     "segments": 1
+    },
+    {
+     "file": "0233.json",
+     "ref": "4.3.27",
+     "title": "XXVII.",
+     "segments": 1
+    },
+    {
+     "file": "0234.json",
+     "ref": "4.3.28",
+     "title": "XXVIII.",
+     "segments": 1
+    },
+    {
+     "file": "0235.json",
+     "ref": "4.3.29",
+     "title": "XXIX.",
+     "segments": 1
+    },
+    {
+     "file": "0236.json",
+     "ref": "4.3.30",
+     "title": "XXX.",
+     "segments": 1
+    },
+    {
+     "file": "0237.json",
+     "ref": "4.3.31",
+     "title": "XXXI.",
+     "segments": 1
+    },
+    {
+     "file": "0238.json",
+     "ref": "4.3.32",
+     "title": "XXXII.",
+     "segments": 1
+    },
+    {
+     "file": "0239.json",
+     "ref": "4.3.33",
+     "title": "XXXIII.",
+     "segments": 2
+    },
+    {
+     "file": "0240.json",
+     "ref": "4.3.34",
+     "title": "XXXIIII.",
+     "segments": 2
+    },
+    {
+     "file": "0241.json",
+     "ref": "4.3.35",
+     "title": "XXXV.",
+     "segments": 2
+    },
+    {
+     "file": "0242.json",
+     "ref": "4.3.36",
+     "title": "XXXVI.",
+     "segments": 2
+    },
+    {
+     "file": "0243.json",
+     "ref": "4.4.1",
+     "title": "I",
+     "segments": 1
+    },
+    {
+     "file": "0244.json",
+     "ref": "4.4.2",
+     "title": "II",
+     "segments": 1
+    },
+    {
+     "file": "0245.json",
+     "ref": "4.4.3",
+     "title": "III.",
+     "segments": 1
+    },
+    {
+     "file": "0246.json",
+     "ref": "4.4.4",
+     "title": "IIII.",
+     "segments": 3
+    },
+    {
+     "file": "0247.json",
+     "ref": "4.4.5",
+     "title": "V.",
+     "segments": 1
+    },
+    {
+     "file": "0248.json",
+     "ref": "4.4.6",
+     "title": "VI.",
+     "segments": 1
+    },
+    {
+     "file": "0249.json",
+     "ref": "4.4.7",
+     "title": "VII.",
+     "segments": 2
+    },
+    {
+     "file": "0250.json",
+     "ref": "4.4.8",
+     "title": "VIII.",
+     "segments": 1
+    },
+    {
+     "file": "0251.json",
+     "ref": "4.4.9",
+     "title": "IX.",
+     "segments": 1
+    },
+    {
+     "file": "0252.json",
+     "ref": "4.4.10",
+     "title": "X.",
+     "segments": 2
+    },
+    {
+     "file": "0253.json",
+     "ref": "4.4.11",
+     "title": "XI.",
+     "segments": 1
+    },
+    {
+     "file": "0254.json",
+     "ref": "4.4.12",
+     "title": "XII.",
+     "segments": 1
+    },
+    {
+     "file": "0255.json",
+     "ref": "4.4.13",
+     "title": "XIII.",
+     "segments": 1
+    },
+    {
+     "file": "0256.json",
+     "ref": "4.4.14",
+     "title": "XIIII.",
+     "segments": 1
+    },
+    {
+     "file": "0257.json",
+     "ref": "4.4.15",
+     "title": "XV.",
+     "segments": 2
+    },
+    {
+     "file": "0258.json",
+     "ref": "4.4.16",
+     "title": "XVI.",
+     "segments": 1
+    },
+    {
+     "file": "0259.json",
+     "ref": "4.4.17",
+     "title": "XVII.",
+     "segments": 1
+    },
+    {
+     "file": "0260.json",
+     "ref": "4.4.18",
+     "title": "XVIII.",
+     "segments": 2
+    },
+    {
+     "file": "0261.json",
+     "ref": "4.4.19",
+     "title": "XIX.",
+     "segments": 1
+    },
+    {
+     "file": "0262.json",
+     "ref": "4.4.20",
+     "title": "XX.",
+     "segments": 1
+    },
+    {
+     "file": "0263.json",
+     "ref": "4.4.21",
+     "title": "XXI.",
+     "segments": 1
+    },
+    {
+     "file": "0264.json",
+     "ref": "4.4.22",
+     "title": "XXII.",
+     "segments": 1
+    },
+    {
+     "file": "0265.json",
+     "ref": "4.4.23",
+     "title": "XXIII.",
+     "segments": 1
+    },
+    {
+     "file": "0266.json",
+     "ref": "4.4.24",
+     "title": "XXIIII.",
+     "segments": 1
+    },
+    {
+     "file": "0267.json",
+     "ref": "4.4.25",
+     "title": "XXV.",
+     "segments": 1
+    },
+    {
+     "file": "0268.json",
+     "ref": "4.4.26",
+     "title": "XXVI.",
+     "segments": 1
+    },
+    {
+     "file": "0269.json",
+     "ref": "4.4.27",
+     "title": "XXVII.",
+     "segments": 1
+    },
+    {
+     "file": "0270.json",
+     "ref": "4.4.28",
+     "title": "XXVIII.",
+     "segments": 1
+    },
+    {
+     "file": "0271.json",
+     "ref": "4.4.29",
+     "title": "XXIX.",
+     "segments": 1
+    },
+    {
+     "file": "0272.json",
+     "ref": "4.4.30",
+     "title": "XXX.",
+     "segments": 2
+    },
+    {
+     "file": "0273.json",
+     "ref": "4.4.31",
+     "title": "XXXI.",
+     "segments": 1
+    },
+    {
+     "file": "0274.json",
+     "ref": "4.4.32",
+     "title": "XXXII.",
+     "segments": 1
+    },
+    {
+     "file": "0275.json",
+     "ref": "4.4.33",
+     "title": "XXXIII.",
+     "segments": 1
+    },
+    {
+     "file": "0276.json",
+     "ref": "4.4.34",
+     "title": "XXXIIII.",
+     "segments": 1
+    },
+    {
+     "file": "0277.json",
+     "ref": "4.4.35",
+     "title": "XXXV.",
+     "segments": 1
+    },
+    {
+     "file": "0278.json",
+     "ref": "4.4.36",
+     "title": "XXXVI.",
+     "segments": 1
+    },
+    {
+     "file": "0279.json",
+     "ref": "4.4.37",
+     "title": "XXXVII.",
+     "segments": 1
+    },
+    {
+     "file": "0280.json",
+     "ref": "4.4.38",
+     "title": "XXXVIII.",
+     "segments": 1
+    },
+    {
+     "file": "0281.json",
+     "ref": "4.4.39",
+     "title": "XXXIX.",
+     "segments": 1
+    },
+    {
+     "file": "0282.json",
+     "ref": "4.4.40",
+     "title": "XL.",
+     "segments": 1
+    },
+    {
+     "file": "0283.json",
+     "ref": "4.4.41",
+     "title": "XLI.",
+     "segments": 1
+    },
+    {
+     "file": "0284.json",
+     "ref": "4.4.42",
+     "title": "XLII.",
+     "segments": 1
+    },
+    {
+     "file": "0285.json",
+     "ref": "4.4.43",
+     "title": "XLIII.",
+     "segments": 1
+    },
+    {
+     "file": "0286.json",
+     "ref": "4.4.44",
+     "title": "XLIV.",
+     "segments": 1
+    },
+    {
+     "file": "0287.json",
+     "ref": "4.4.45",
+     "title": "XLV.",
+     "segments": 1
+    },
+    {
+     "file": "0288.json",
+     "ref": "4.4.46",
+     "title": "XLVI.",
+     "segments": 1
+    },
+    {
+     "file": "0289.json",
+     "ref": "4.4.47",
+     "title": "XLVII.",
+     "segments": 3
+    },
+    {
+     "file": "0290.json",
+     "ref": "4.4.48",
+     "title": "XLVIII.",
+     "segments": 1
+    },
+    {
+     "file": "0291.json",
+     "ref": "4.4.49",
+     "title": "XLIX.",
+     "segments": 1
+    },
+    {
+     "file": "0292.json",
+     "ref": "4.4.50",
+     "title": "L.",
+     "segments": 6
+    },
+    {
+     "file": "0293.json",
+     "ref": "4.4.51",
+     "title": "LI.",
+     "segments": 1
+    },
+    {
+     "file": "0294.json",
+     "ref": "4.4.52",
+     "title": "LII.",
+     "segments": 1
+    },
+    {
+     "file": "0295.json",
+     "ref": "4.4.53",
+     "title": "LIII.",
+     "segments": 4
+    },
+    {
+     "file": "0296.json",
+     "ref": "4.4.54",
+     "title": "LIV.",
+     "segments": 2
+    },
+    {
+     "file": "0297.json",
+     "ref": "4.4.55",
+     "title": "LV.",
+     "segments": 2
+    },
+    {
+     "file": "0298.json",
+     "ref": "4.4.56",
+     "title": "LVI.",
+     "segments": 2
+    },
+    {
+     "file": "0299.json",
+     "ref": "4.4.57",
+     "title": "LVII.",
+     "segments": 1
+    },
+    {
+     "file": "0300.json",
+     "ref": "4.4.58",
+     "title": "LVIII.",
+     "segments": 2
+    },
+    {
+     "file": "0301.json",
+     "ref": "4.4.59",
+     "title": "LIX.",
+     "segments": 1
+    },
+    {
+     "file": "0302.json",
+     "ref": "4.4.60",
+     "title": "LX.",
+     "segments": 1
+    },
+    {
+     "file": "0303.json",
+     "ref": "4.4.61",
+     "title": "LXI.",
+     "segments": 1
+    },
+    {
+     "file": "0304.json",
+     "ref": "4.4.62",
+     "title": "LXII.",
+     "segments": 10
+    },
+    {
+     "file": "0305.json",
+     "ref": "4.5",
+     "title": "A DIALOGVE OF THE STATE OF A CHRISTIan man, gathered here and there out of the sweet and sauorie writings of Master Tindall and Master Bradford.",
+     "segments": 85
+    },
+    {
+     "file": "0306.json",
+     "ref": "4.6.0",
+     "title": "The assertion.",
+     "segments": 1
+    },
+    {
+     "file": "0307.json",
+     "ref": "4.6.1",
+     "title": "The first argument.",
+     "segments": 1
+    },
+    {
+     "file": "0308.json",
+     "ref": "4.6.2",
+     "title": "The proofe of the Argument.",
+     "segments": 5
+    },
+    {
+     "file": "0309.json",
+     "ref": "4.6.3",
+     "title": "The second argument.",
+     "segments": 1
+    },
+    {
+     "file": "0310.json",
+     "ref": "4.6.4",
+     "title": "The proofe.",
+     "segments": 10
+    },
+    {
+     "file": "0311.json",
+     "ref": "4.6.5",
+     "title": "The third argument.",
+     "segments": 1
+    },
+    {
+     "file": "0312.json",
+     "ref": "4.6.6",
+     "title": "The proofe.",
+     "segments": 18
+    },
+    {
+     "file": "0313.json",
+     "ref": "4.6.7",
+     "title": "The fourth Argument.",
+     "segments": 1
+    },
+    {
+     "file": "0314.json",
+     "ref": "4.6.8",
+     "title": "The Proofe.",
+     "segments": 3
+    },
+    {
+     "file": "0315.json",
+     "ref": "4.6.9",
+     "title": "A Corollarie gathered out of the former assertion.",
+     "segments": 1
+    },
+    {
+     "file": "0316.json",
+     "ref": "4.7.0",
+     "title": "A DIALOGVE CONTAINING THE CONFLICTS betweene Satan and the Christian.",
+     "segments": 34
+    },
+    {
+     "file": "0317.json",
+     "ref": "4.7.1",
+     "title": "The conflicts of Sathan with the strong Christian.",
+     "segments": 21
+    },
+    {
+     "file": "0318.json",
+     "ref": "4.7.2",
+     "title": "The conflicts of Sathan with the weake Christian.",
+     "segments": 16
+    },
+    {
+     "file": "0319.json",
+     "ref": "4.8.1",
+     "title": "I.",
+     "segments": 1
+    },
+    {
+     "file": "0320.json",
+     "ref": "4.8.2",
+     "title": "II",
+     "segments": 1
+    },
+    {
+     "file": "0321.json",
+     "ref": "4.8.3",
+     "title": "III",
+     "segments": 1
+    },
+    {
+     "file": "0322.json",
+     "ref": "4.8.4",
+     "title": "IV.",
+     "segments": 1
+    },
+    {
+     "file": "0323.json",
+     "ref": "4.8.5",
+     "title": "V.",
+     "segments": 1
+    },
+    {
+     "file": "0324.json",
+     "ref": "4.8.6",
+     "title": "VI.",
+     "segments": 1
+    },
+    {
+     "file": "0325.json",
+     "ref": "4.8.7",
+     "title": "VII.",
+     "segments": 1
+    },
+    {
+     "file": "0326.json",
+     "ref": "4.8.8",
+     "title": "VIII.",
+     "segments": 1
+    },
+    {
+     "file": "0327.json",
+     "ref": "4.8.9",
+     "title": "IX.",
+     "segments": 1
+    },
+    {
+     "file": "0328.json",
+     "ref": "4.8.10",
+     "title": "X.",
+     "segments": 2
+    },
+    {
+     "file": "0329.json",
+     "ref": "4.9",
+     "title": "CONSOLATIONS FOR THE TROVBLED consciences of repentant Sinners.",
+     "segments": 69
+    },
+    {
+     "file": "0330.json",
+     "ref": "4.10",
+     "title": "A DECLARATION OF CERTAINE SPIRItuall Desertions, seruing to terrifie all drowsie Protestants, and to comfort them which mourne for their sinnes.",
+     "segments": 32
+    },
+    {
+     "file": "0331.json",
+     "ref": "5.1",
+     "title": "To the godly Reader.",
+     "segments": 5
+    },
+    {
+     "file": "0332.json",
+     "ref": "5.2.1",
+     "title": "CHAP. I.",
+     "segments": 20
+    },
+    {
+     "file": "0333.json",
+     "ref": "5.2.2",
+     "title": "CHAP. II.",
+     "segments": 49
+    },
+    {
+     "file": "0334.json",
+     "ref": "5.2.3",
+     "title": "CHAP. II.",
+     "segments": 43
+    },
+    {
+     "file": "0335.json",
+     "ref": "5.2.4",
+     "title": "CHAP. IIII.",
+     "segments": 36
+    },
+    {
+     "file": "0336.json",
+     "ref": "5.2.5",
+     "title": "CHAP. V.",
+     "segments": 36
+    },
+    {
+     "file": "0337.json",
+     "ref": "5.2.6",
+     "title": "PSALME XV.",
+     "segments": 10
+    },
+    {
+     "file": "0338.json",
+     "ref": "5.3.1",
+     "title": "Assertion. I.",
+     "segments": 15
+    },
+    {
+     "file": "0339.json",
+     "ref": "5.3.2",
+     "title": "Assertion. II.",
+     "segments": 8
+    },
+    {
+     "file": "0340.json",
+     "ref": "6.1",
+     "title": "To the reader.",
+     "segments": 3
+    },
+    {
+     "file": "0341.json",
+     "ref": "6.2.1",
+     "title": "CHAP. I. Of the generall meanes of ruling the Tongue.",
+     "segments": 9
+    },
+    {
+     "file": "0342.json",
+     "ref": "6.2.2",
+     "title": "CHAP. II. Of the matter of our speech.",
+     "segments": 12
+    },
+    {
+     "file": "0343.json",
+     "ref": "6.2.3",
+     "title": "CHAP. III. Of the manner of our speech, and what must be done before we speake.",
+     "segments": 4
+    },
+    {
+     "file": "0344.json",
+     "ref": "6.2.4",
+     "title": "CHAP. IV. What is to be done in speaking; and of wisdome.",
+     "segments": 16
+    },
+    {
+     "file": "0345.json",
+     "ref": "6.2.5",
+     "title": "CHAP. V. Of Truth, and of Reuerence in speech.",
+     "segments": 29
+    },
+    {
+     "file": "0346.json",
+     "ref": "6.2.6",
+     "title": "CHAP. VI. Of Modestie and of Meekenesse.",
+     "segments": 17
+    },
+    {
+     "file": "0347.json",
+     "ref": "6.2.7",
+     "title": "CHAP. VII. Of Sobrietie, Vrbanitie, Fidelitie, and care of others good name.",
+     "segments": 22
+    },
+    {
+     "file": "0348.json",
+     "ref": "6.2.8",
+     "title": "CHAP. VIII. Of the bondes of Truth.",
+     "segments": 8
+    },
+    {
+     "file": "0349.json",
+     "ref": "6.2.9",
+     "title": "CHAP. IX. What is to be done when we haue spoken.",
+     "segments": 5
+    },
+    {
+     "file": "0350.json",
+     "ref": "6.2.10",
+     "title": "CHAP. X. Of writing.",
+     "segments": 1
+    },
+    {
+     "file": "0351.json",
+     "ref": "6.2.11",
+     "title": "CHAP. XI. Of silence.",
+     "segments": 10
+    },
+    {
+     "file": "0352.json",
+     "ref": "6.2.12",
+     "title": "CHAP. XII. An exhortation to keepe the tongue.",
+     "segments": 8
+    },
+    {
+     "file": "0353.json",
+     "ref": "7.1",
+     "title": "To the Reader whosoeuer.",
+     "segments": 21
+    },
+    {
+     "file": "0354.json",
+     "ref": "7.2",
+     "title": "CHAP. I. What Repentance is.",
+     "segments": 11
+    },
+    {
+     "file": "0355.json",
+     "ref": "7.3",
+     "title": "CHAP. II. Of the causes of Repentance.",
+     "segments": 4
+    },
+    {
+     "file": "0356.json",
+     "ref": "7.4",
+     "title": "CHAP. III. Howe Repentance is wrought.",
+     "segments": 12
+    },
+    {
+     "file": "0357.json",
+     "ref": "7.5",
+     "title": "CHAP. IV. Of the parts of Repentance.",
+     "segments": 9
+    },
+    {
+     "file": "0358.json",
+     "ref": "7.6",
+     "title": "CHAP. V. Of the degrees of Repentance.",
+     "segments": 4
+    },
+    {
+     "file": "0359.json",
+     "ref": "7.7",
+     "title": "CHAP. VI. Of the persons which must repent.",
+     "segments": 1
+    },
+    {
+     "file": "0360.json",
+     "ref": "7.8.0",
+     "title": "CHAP. VII. Of the practise of Repentance.",
+     "segments": 3
+    },
+    {
+     "file": "0361.json",
+     "ref": "7.8.1.1",
+     "title": "I. COM. Thou shalt haue none other Gods, &c.",
+     "segments": 1
+    },
+    {
+     "file": "0362.json",
+     "ref": "7.8.1.2",
+     "title": "II. COM. Thou shalt make to thy selfe no grauen Image, &c.",
+     "segments": 1
+    },
+    {
+     "file": "0363.json",
+     "ref": "7.8.1.3",
+     "title": "III. COM. Thou shalt not take the name of the Lord, &c.",
+     "segments": 1
+    },
+    {
+     "file": "0364.json",
+     "ref": "7.8.1.4",
+     "title": "IV. COM. Remember the Sabbath daie to, &c.",
+     "segments": 1
+    },
+    {
+     "file": "0365.json",
+     "ref": "7.8.1.5",
+     "title": "V. COM. Honour thy father, &c.",
+     "segments": 1
+    },
+    {
+     "file": "0366.json",
+     "ref": "7.8.1.6",
+     "title": "VI. COM. Thou shalt not kill.",
+     "segments": 1
+    },
+    {
+     "file": "0367.json",
+     "ref": "7.8.1.7",
+     "title": "VII. COM. Thou shalt not commit, &c.",
+     "segments": 1
+    },
+    {
+     "file": "0368.json",
+     "ref": "7.8.1.8",
+     "title": "VIII. COM. Thou shalt not steale.",
+     "segments": 1
+    },
+    {
+     "file": "0369.json",
+     "ref": "7.8.1.9",
+     "title": "IX. COM. Thou shalt not beare, &c.",
+     "segments": 1
+    },
+    {
+     "file": "0370.json",
+     "ref": "7.8.1.10",
+     "title": "X. COM. Thou shalt not lust.",
+     "segments": 1
+    },
+    {
+     "file": "0371.json",
+     "ref": "7.8.2",
+     "title": "SINNES DIRECTLY AGAINST THE GOSPEL.",
+     "segments": 9
+    },
+    {
+     "file": "0372.json",
+     "ref": "7.9",
+     "title": "CHAP. VIII. Of legall motiues to Repentance.",
+     "segments": 16
+    },
+    {
+     "file": "0373.json",
+     "ref": "7.10",
+     "title": "CHAP. IX. Of motiues Euangelicall.",
+     "segments": 6
+    },
+    {
+     "file": "0374.json",
+     "ref": "7.11",
+     "title": "CHAP. X. Of the time of Repentance.",
+     "segments": 1
+    },
+    {
+     "file": "0375.json",
+     "ref": "7.12.1",
+     "title": "I. Case of a Reuolt.",
+     "segments": 3
+    },
+    {
+     "file": "0376.json",
+     "ref": "7.12.2",
+     "title": "7.12.2",
+     "segments": 1
+    },
+    {
+     "file": "0377.json",
+     "ref": "7.12.3",
+     "title": "III. Case of Restitution.",
+     "segments": 1
+    },
+    {
+     "file": "0378.json",
+     "ref": "7.12.4",
+     "title": "IV. Case of teares.",
+     "segments": 1
+    },
+    {
+     "file": "0379.json",
+     "ref": "7.12.5",
+     "title": "V. Case of death.",
+     "segments": 1
+    },
+    {
+     "file": "0380.json",
+     "ref": "7.13",
+     "title": "CHAP. XII. Of the contraries to Repentance.",
+     "segments": 8
+    },
+    {
+     "file": "0381.json",
+     "ref": "7.14",
+     "title": "CHAP. XIII. Of corruptions in the doctrine of Repentance.",
+     "segments": 9
+    },
+    {
+     "file": "0382.json",
+     "ref": "7.15",
+     "title": "THE COMBAT OF THE FLESH AND SPIRIT.",
+     "segments": 45
+    },
+    {
+     "file": "0383.json",
+     "ref": "8.1",
+     "title": "TO THE RIGHT HONOVRABLE AND VERTVOVS LAdie the Ladie Lucie, Countesse of Bedford.",
+     "segments": 3
+    },
+    {
+     "file": "0384.json",
+     "ref": "8.2",
+     "title": "8.2",
+     "segments": 86
+    },
+    {
+     "file": "0385.json",
+     "ref": "9.1",
+     "title": "To the Reader.",
+     "segments": 3
+    },
+    {
+     "file": "0386.json",
+     "ref": "9.2",
+     "title": "Of the right knowledge of Christ crucified.",
+     "segments": 40
+    },
+    {
+     "file": "0387.json",
+     "ref": "10.1",
+     "title": "TO THE RIGHT HONOVABLE SIR WILLIam Piryam Knight, Lord chiefe Baron of her Maiesties Exchequer. Grace and peace.",
+     "segments": 3
+    },
+    {
+     "file": "0388.json",
+     "ref": "10.2.1",
+     "title": "CHAP. I. What Conscience is.",
+     "segments": 8
+    },
+    {
+     "file": "0389.json",
+     "ref": "10.2.2",
+     "title": "CHAP. II. Of the duties of Conscience.",
+     "segments": 136
+    },
+    {
+     "file": "0390.json",
+     "ref": "10.2.3",
+     "title": "CHAP. III. Of the kindes of conscience: and of conscience regenerate.",
+     "segments": 85
+    },
+    {
+     "file": "0391.json",
+     "ref": "10.2.4",
+     "title": "CHAP. IIII. Mans dutie touching conscience.",
+     "segments": 22
+    },
+    {
+     "file": "0392.json",
+     "ref": "11.1",
+     "title": "TO THE RIGHT WORSHIPfull, Sir William Bowes Knight, &c. Grace and peace.",
+     "segments": 2
+    },
+    {
+     "file": "0393.json",
+     "ref": "11.2",
+     "title": "THE AVTHOR TO THE Christian Reader.",
+     "segments": 4
+    },
+    {
+     "file": "0394.json",
+     "ref": "11.3.0",
+     "title": "11.3.0",
+     "segments": 6
+    },
+    {
+     "file": "0395.json",
+     "ref": "11.3.1",
+     "title": "I. Our consent.",
+     "segments": 6
+    },
+    {
+     "file": "0396.json",
+     "ref": "11.3.2",
+     "title": "II. The dissent or difference.",
+     "segments": 1
+    },
+    {
+     "file": "0397.json",
+     "ref": "11.3.3",
+     "title": "III. Our reasons.",
+     "segments": 6
+    },
+    {
+     "file": "0398.json",
+     "ref": "11.3.4",
+     "title": "III. Obiections of Papists.",
+     "segments": 3
+    },
+    {
+     "file": "0399.json",
+     "ref": "11.4.0",
+     "title": "The second point: of Originall sinne.",
+     "segments": 1
+    },
+    {
+     "file": "0400.json",
+     "ref": "11.4.1",
+     "title": "I. Our Consent.",
+     "segments": 1
+    },
+    {
+     "file": "0401.json",
+     "ref": "11.4.2",
+     "title": "II. The dissent or difference.",
+     "segments": 7
+    },
+    {
+     "file": "0402.json",
+     "ref": "11.4.3",
+     "title": "Obiections of Papists.",
+     "segments": 4
+    },
+    {
+     "file": "0403.json",
+     "ref": "11.5.1",
+     "title": "I. Our Consent.",
+     "segments": 6
+    },
+    {
+     "file": "0404.json",
+     "ref": "11.5.2",
+     "title": "II. The dissent or difference.",
+     "segments": 5
+    },
+    {
+     "file": "0405.json",
+     "ref": "11.5.3",
+     "title": "III. Obiections of Papists.",
+     "segments": 3
+    },
+    {
+     "file": "0406.json",
+     "ref": "11.5.4",
+     "title": "Our reasons to the contrarie.",
+     "segments": 11
+    },
+    {
+     "file": "0407.json",
+     "ref": "11.6.0",
+     "title": "The fourth point: touching the iustification of a sinner.",
+     "segments": 11
+    },
+    {
+     "file": "0408.json",
+     "ref": "11.6.1",
+     "title": "I. Our consent and difference.",
+     "segments": 8
+    },
+    {
+     "file": "0409.json",
+     "ref": "11.6.2",
+     "title": "Our reasons.",
+     "segments": 5
+    },
+    {
+     "file": "0410.json",
+     "ref": "11.6.3",
+     "title": "Obiections of Papists.",
+     "segments": 6
+    },
+    {
+     "file": "0411.json",
+     "ref": "11.6.4",
+     "title": "II. Difference about the manner of iustification.",
+     "segments": 11
+    },
+    {
+     "file": "0412.json",
+     "ref": "11.6.5",
+     "title": "III. Difference.",
+     "segments": 5
+    },
+    {
+     "file": "0413.json",
+     "ref": "11.6.6",
+     "title": "Our reasons.",
+     "segments": 4
+    },
+    {
+     "file": "0414.json",
+     "ref": "11.6.7",
+     "title": "Obiections of Papists.",
+     "segments": 9
+    },
+    {
+     "file": "0415.json",
+     "ref": "11.7.0",
+     "title": "The V. point: Of merits.",
+     "segments": 1
+    },
+    {
+     "file": "0416.json",
+     "ref": "11.7.1",
+     "title": "Our Consent.",
+     "segments": 2
+    },
+    {
+     "file": "0417.json",
+     "ref": "11.7.2",
+     "title": "The dissent or difference.",
+     "segments": 2
+    },
+    {
+     "file": "0418.json",
+     "ref": "11.7.3",
+     "title": "Our reasons.",
+     "segments": 6
+    },
+    {
+     "file": "0419.json",
+     "ref": "11.7.4",
+     "title": "Obiections of Papists.",
+     "segments": 6
+    },
+    {
+     "file": "0420.json",
+     "ref": "11.8.1",
+     "title": "Our consent.",
+     "segments": 3
+    },
+    {
+     "file": "0421.json",
+     "ref": "11.8.2",
+     "title": "The dissent or difference.",
+     "segments": 1
+    },
+    {
+     "file": "0422.json",
+     "ref": "11.8.3",
+     "title": "Our reasons.",
+     "segments": 4
+    },
+    {
+     "file": "0423.json",
+     "ref": "11.8.4",
+     "title": "Obiections of Papists.",
+     "segments": 8
+    },
+    {
+     "file": "0424.json",
+     "ref": "11.9.1",
+     "title": "Our Consent.",
+     "segments": 3
+    },
+    {
+     "file": "0425.json",
+     "ref": "11.9.2",
+     "title": "The difference.",
+     "segments": 1
+    },
+    {
+     "file": "0426.json",
+     "ref": "11.9.3",
+     "title": "Our Reasons.",
+     "segments": 6
+    },
+    {
+     "file": "0427.json",
+     "ref": "11.9.4",
+     "title": "Obiections for Traditions.",
+     "segments": 7
+    },
+    {
+     "file": "0428.json",
+     "ref": "11.10.1",
+     "title": "Our Consent.",
+     "segments": 3
+    },
+    {
+     "file": "0429.json",
+     "ref": "11.10.2",
+     "title": "The dissent or difference.",
+     "segments": 8
+    },
+    {
+     "file": "0430.json",
+     "ref": "11.11.1",
+     "title": "Our consent.",
+     "segments": 4
+    },
+    {
+     "file": "0431.json",
+     "ref": "11.11.2",
+     "title": "The difference.",
+     "segments": 1
+    },
+    {
+     "file": "0432.json",
+     "ref": "11.11.3",
+     "title": "Arguments of the Papists.",
+     "segments": 9
+    },
+    {
+     "file": "0433.json",
+     "ref": "11.12.1",
+     "title": "Our Consent.",
+     "segments": 1
+    },
+    {
+     "file": "0434.json",
+     "ref": "11.12.2",
+     "title": "The dissent.",
+     "segments": 1
+    },
+    {
+     "file": "0435.json",
+     "ref": "11.12.3",
+     "title": "Our reasons.",
+     "segments": 7
+    },
+    {
+     "file": "0436.json",
+     "ref": "11.12.4",
+     "title": "Obiections of Papists.",
+     "segments": 3
+    },
+    {
+     "file": "0437.json",
+     "ref": "11.13.0",
+     "title": "The eleuenth point. Of the sacrifice in the Lords Supper, which the Papists call the sacrifice of the Masse.",
+     "segments": 1
+    },
+    {
+     "file": "0438.json",
+     "ref": "11.13.1",
+     "title": "Our Consent.",
+     "segments": 2
+    },
+    {
+     "file": "0439.json",
+     "ref": "11.13.2",
+     "title": "II. The difference.",
+     "segments": 1
+    },
+    {
+     "file": "0440.json",
+     "ref": "11.13.3",
+     "title": "III. Our reasons.",
+     "segments": 6
+    },
+    {
+     "file": "0441.json",
+     "ref": "11.13.4",
+     "title": "IV. Obiections of Papists.",
+     "segments": 5
+    },
+    {
+     "file": "0442.json",
+     "ref": "11.14.1",
+     "title": "Our consent.",
+     "segments": 3
+    },
+    {
+     "file": "0443.json",
+     "ref": "11.14.2",
+     "title": "The difference or dissent.",
+     "segments": 7
+    },
+    {
+     "file": "0444.json",
+     "ref": "11.15.1",
+     "title": "Our consent.",
+     "segments": 2
+    },
+    {
+     "file": "0445.json",
+     "ref": "11.15.2",
+     "title": "The difference.",
+     "segments": 4
+    },
+    {
+     "file": "0446.json",
+     "ref": "11.15.3",
+     "title": "Obiections of Papists.",
+     "segments": 5
+    },
+    {
+     "file": "0447.json",
+     "ref": "11.16.1",
+     "title": "Our consent.",
+     "segments": 2
+    },
+    {
+     "file": "0448.json",
+     "ref": "11.16.2",
+     "title": "The dissent.",
+     "segments": 1
+    },
+    {
+     "file": "0449.json",
+     "ref": "11.16.3",
+     "title": "Our reasons.",
+     "segments": 4
+    },
+    {
+     "file": "0450.json",
+     "ref": "11.16.4",
+     "title": "Obiections of Papists.",
+     "segments": 3
+    },
+    {
+     "file": "0451.json",
+     "ref": "11.17.1",
+     "title": "Our Consent.",
+     "segments": 2
+    },
+    {
+     "file": "0452.json",
+     "ref": "11.17.2",
+     "title": "The dissent or difference.",
+     "segments": 5
+    },
+    {
+     "file": "0453.json",
+     "ref": "11.17.3",
+     "title": "Obiections of Papists.",
+     "segments": 4
+    },
+    {
+     "file": "0454.json",
+     "ref": "11.18.1",
+     "title": "Our consent.",
+     "segments": 3
+    },
+    {
+     "file": "0455.json",
+     "ref": "11.18.2",
+     "title": "The difference.",
+     "segments": 1
+    },
+    {
+     "file": "0456.json",
+     "ref": "11.19.1",
+     "title": "Our consent.",
+     "segments": 1
+    },
+    {
+     "file": "0457.json",
+     "ref": "11.19.2",
+     "title": "The difference or dissent.",
+     "segments": 5
+    },
+    {
+     "file": "0458.json",
+     "ref": "11.20.1",
+     "title": "Our consent.",
+     "segments": 2
+    },
+    {
+     "file": "0459.json",
+     "ref": "11.20.2",
+     "title": "The difference.",
+     "segments": 8
+    },
+    {
+     "file": "0460.json",
+     "ref": "11.21.1",
+     "title": "Our Consent.",
+     "segments": 2
+    },
+    {
+     "file": "0461.json",
+     "ref": "11.21.2",
+     "title": "The difference.",
+     "segments": 5
+    },
+    {
+     "file": "0462.json",
+     "ref": "11.21.3",
+     "title": "Our Reasons.",
+     "segments": 6
+    },
+    {
+     "file": "0463.json",
+     "ref": "11.22.1",
+     "title": "Our Consent.",
+     "segments": 6
+    },
+    {
+     "file": "0464.json",
+     "ref": "11.22.2",
+     "title": "The difference.",
+     "segments": 6
+    },
+    {
+     "file": "0465.json",
+     "ref": "11.23.1",
+     "title": "Our consent.",
+     "segments": 3
+    },
+    {
+     "file": "0466.json",
+     "ref": "11.23.2",
+     "title": "The difference.",
+     "segments": 22
+    },
+    {
+     "file": "0467.json",
+     "ref": "11.24",
+     "title": "An aduertisement to all fauourers of the Romane religion, shewing that the said religion is against the Catholike principles and grounds of the Catechisme.",
+     "segments": 24
+    },
+    {
+     "file": "0468.json",
+     "ref": "12.1",
+     "title": "To all ignorant people that desire to be instructed.",
+     "segments": 7
+    },
+    {
+     "file": "0469.json",
+     "ref": "12.2.1.0",
+     "title": "The first Principle.",
+     "segments": 2
+    },
+    {
+     "file": "0470.json",
+     "ref": "12.2.1.1",
+     "title": "1. There is a God.",
+     "segments": 2
+    },
+    {
+     "file": "0471.json",
+     "ref": "12.2.1.2",
+     "title": "2. This God one.",
+     "segments": 1
+    },
+    {
+     "file": "0472.json",
+     "ref": "12.2.1.3",
+     "title": "3. He is creatour of all things.",
+     "segments": 2
+    },
+    {
+     "file": "0473.json",
+     "ref": "12.2.1.4",
+     "title": "4. He is gouernour of all things.",
+     "segments": 2
+    },
+    {
+     "file": "0474.json",
+     "ref": "12.2.1.5",
+     "title": "5. Distinguished into the Father, the Sonne, and the holy Ghost.",
+     "segments": 3
+    },
+    {
+     "file": "0475.json",
+     "ref": "12.2.2.0",
+     "title": "The second Principle.",
+     "segments": 2
+    },
+    {
+     "file": "0476.json",
+     "ref": "12.2.2.1",
+     "title": "1. All men are corrupted with sinne.",
+     "segments": 1
+    },
+    {
+     "file": "0477.json",
+     "ref": "12.2.2.2",
+     "title": "2. They are wholly corrupted.",
+     "segments": 4
+    },
+    {
+     "file": "0478.json",
+     "ref": "12.2.2.3",
+     "title": "3. Through Adams fall",
+     "segments": 1
+    },
+    {
+     "file": "0479.json",
+     "ref": "12.2.2.4",
+     "title": "4. And so are become slaues of Sathan.",
+     "segments": 3
+    },
+    {
+     "file": "0480.json",
+     "ref": "12.2.2.5",
+     "title": "5. And guiltie of eternall damnation.",
+     "segments": 1
+    },
+    {
+     "file": "0481.json",
+     "ref": "12.2.3.0",
+     "title": "The third Principle.",
+     "segments": 2
+    },
+    {
+     "file": "0482.json",
+     "ref": "12.2.3.1",
+     "title": "1. Iesus Christ the eternall sonne of God,",
+     "segments": 1
+    },
+    {
+     "file": "0483.json",
+     "ref": "12.2.3.2",
+     "title": "2. Being made man.",
+     "segments": 1
+    },
+    {
+     "file": "0484.json",
+     "ref": "12.2.3.3",
+     "title": "3. By his death vpon the crosse.",
+     "segments": 1
+    },
+    {
+     "file": "0485.json",
+     "ref": "12.2.3.4",
+     "title": "4. And by his righteousnes.",
+     "segments": 2
+    },
+    {
+     "file": "0486.json",
+     "ref": "12.2.3.5",
+     "title": "5. Hath perfectly",
+     "segments": 1
+    },
+    {
+     "file": "0487.json",
+     "ref": "12.2.3.6",
+     "title": "6. Alone by himselfe",
+     "segments": 1
+    },
+    {
+     "file": "0488.json",
+     "ref": "12.2.3.7",
+     "title": "7. Accomplished all things needefull for the saluation of mankind.",
+     "segments": 1
+    },
+    {
+     "file": "0489.json",
+     "ref": "12.2.4.0",
+     "title": "The fourth Principle.",
+     "segments": 2
+    },
+    {
+     "file": "0490.json",
+     "ref": "12.2.4.1",
+     "title": "1. A man of a contrite and humble spirit",
+     "segments": 2
+    },
+    {
+     "file": "0491.json",
+     "ref": "12.2.4.2",
+     "title": "2. By faith alone.",
+     "segments": 4
+    },
+    {
+     "file": "0492.json",
+     "ref": "12.2.4.3",
+     "title": "3. Apprehending and applying Christ with all his merits vnto himselfe.",
+     "segments": 1
+    },
+    {
+     "file": "0493.json",
+     "ref": "12.2.4.4",
+     "title": "4. Is iustified before God.",
+     "segments": 3
+    },
+    {
+     "file": "0494.json",
+     "ref": "12.2.4.5",
+     "title": "5. And sanctified.",
+     "segments": 2
+    },
+    {
+     "file": "0495.json",
+     "ref": "12.2.5.0",
+     "title": "The fift Principle.",
+     "segments": 2
+    },
+    {
+     "file": "0496.json",
+     "ref": "12.2.5.1",
+     "title": "1. Faith cōmeth only by the preaching of the word, & increaseth daily by it.",
+     "segments": 2
+    },
+    {
+     "file": "0497.json",
+     "ref": "12.2.5.2",
+     "title": "2. As also by the administration of the Sacraments.",
+     "segments": 2
+    },
+    {
+     "file": "0498.json",
+     "ref": "12.2.5.3",
+     "title": "3. And Praier.",
+     "segments": 1
+    },
+    {
+     "file": "0499.json",
+     "ref": "12.2.6.0",
+     "title": "The sixt Principle.",
+     "segments": 2
+    },
+    {
+     "file": "0500.json",
+     "ref": "12.2.6.1",
+     "title": "1. All men shall rise againe with their owne bodies.",
+     "segments": 2
+    },
+    {
+     "file": "0501.json",
+     "ref": "12.2.6.2",
+     "title": "2. To the last iudgement.",
+     "segments": 2
+    },
+    {
+     "file": "0502.json",
+     "ref": "12.2.6.3",
+     "title": "3. VVhich beeing ended; the godly",
+     "segments": 2
+    },
+    {
+     "file": "0503.json",
+     "ref": "12.2.6.4",
+     "title": "4. Shall possesse the kingdome of God.",
+     "segments": 1
+    },
+    {
+     "file": "0504.json",
+     "ref": "12.2.6.5",
+     "title": "5. But vnbeleeuers and rebrobates shall bee in hell tormented with the deuill and his angels.",
+     "segments": 3
+    },
+    {
+     "file": "0505.json",
+     "ref": "12.3.1",
+     "title": "The first Principle expounded. Question.",
+     "segments": 20
+    },
+    {
+     "file": "0506.json",
+     "ref": "12.3.2",
+     "title": "The second Principle expounded.",
+     "segments": 30
+    },
+    {
+     "file": "0507.json",
+     "ref": "12.3.3",
+     "title": "The third principle expounded.",
+     "segments": 48
+    },
+    {
+     "file": "0508.json",
+     "ref": "12.3.4",
+     "title": "The fourth principle expounded.",
+     "segments": 91
+    },
+    {
+     "file": "0509.json",
+     "ref": "12.3.5",
+     "title": "The fifth Principle expounded.",
+     "segments": 56
+    },
+    {
+     "file": "0510.json",
+     "ref": "12.3.6",
+     "title": "The sixth Principle expounded.",
+     "segments": 27
+    },
+    {
+     "file": "0511.json",
+     "ref": "13.1",
+     "title": "TO THE RIHGT HONOVrable and vertuous Ladie, the Ladie Margaret, Countesse of Cumberland, Grace and peace.",
+     "segments": 2
+    },
+    {
+     "file": "0512.json",
+     "ref": "13.2.0",
+     "title": "A Graine of Musterd-seede: or, the least measure of grace that is, or can be effectuall to saluation.",
+     "segments": 1
+    },
+    {
+     "file": "0513.json",
+     "ref": "13.2.1.0",
+     "title": "I. Conclusion.",
+     "segments": 1
+    },
+    {
+     "file": "0514.json",
+     "ref": "13.2.1.1",
+     "title": "The Exposition.",
+     "segments": 1
+    },
+    {
+     "file": "0515.json",
+     "ref": "13.2.2.0",
+     "title": "II. Conclusion.",
+     "segments": 1
+    },
+    {
+     "file": "0516.json",
+     "ref": "13.2.2.1",
+     "title": "The exposition.",
+     "segments": 1
+    },
+    {
+     "file": "0517.json",
+     "ref": "13.2.3.0",
+     "title": "III. Conclusion.",
+     "segments": 1
+    },
+    {
+     "file": "0518.json",
+     "ref": "13.2.3.1",
+     "title": "The Exposition.",
+     "segments": 6
+    },
+    {
+     "file": "0519.json",
+     "ref": "13.2.4.0",
+     "title": "IV. Conclusion.",
+     "segments": 1
+    },
+    {
+     "file": "0520.json",
+     "ref": "13.2.4.1",
+     "title": "The Exposition.",
+     "segments": 1
+    },
+    {
+     "file": "0521.json",
+     "ref": "13.2.5.0",
+     "title": "V. Conclusion.",
+     "segments": 1
+    },
+    {
+     "file": "0522.json",
+     "ref": "13.2.5.1",
+     "title": "The Exposition.",
+     "segments": 1
+    },
+    {
+     "file": "0523.json",
+     "ref": "13.2.6.0",
+     "title": "VI. Conclusion.",
+     "segments": 1
+    },
+    {
+     "file": "0524.json",
+     "ref": "13.2.6.1",
+     "title": "The Exposition.",
+     "segments": 4
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 0,
+  "shared": 0
+ }
+}

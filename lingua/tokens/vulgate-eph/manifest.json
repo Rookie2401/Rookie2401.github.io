@@ -1,0 +1,72 @@
+{
+ "workId": "vulgate-eph",
+ "editions": [
+  {
+   "editionId": "clementine-eph",
+   "language": "la",
+   "variety": "la-ecc",
+   "textSource": "store",
+   "analysis": {
+    "id": "golearn-la@1",
+    "kind": "analyser",
+    "status": "automatic"
+   },
+   "credit": "GoLearn Latin analyser (adapter-la; Whitaker's Words, Lewis & Short, Perseus treebank form priors, hand-written Vulgate priors); no Latinist has checked its data",
+   "licence": "Whitaker's Words: free for any use; Lewis & Short via Perseus: CC BY-SA 4.0; Perseus Latin Treebank priors: CC BY-SA 3.0; analyser code: the user's own",
+   "source": "local: go-v0-ecclesia/src/adapters/la.ts",
+   "version": "1",
+   "coverage": {
+    "tokens": 2150,
+    "withLemma": 2150,
+    "withMorphology": 1519,
+    "verified": 0,
+    "ambiguous": 984,
+    "unanalysed": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "EPH.1",
+     "title": "Ephesians 1",
+     "segments": 23,
+     "tokens": 355
+    },
+    {
+     "file": "0002.json",
+     "ref": "EPH.2",
+     "title": "Ephesians 2",
+     "segments": 22,
+     "tokens": 326
+    },
+    {
+     "file": "0003.json",
+     "ref": "EPH.3",
+     "title": "Ephesians 3",
+     "segments": 21,
+     "tokens": 278
+    },
+    {
+     "file": "0004.json",
+     "ref": "EPH.4",
+     "title": "Ephesians 4",
+     "segments": 32,
+     "tokens": 428
+    },
+    {
+     "file": "0005.json",
+     "ref": "EPH.5",
+     "title": "Ephesians 5",
+     "segments": 33,
+     "tokens": 416
+    },
+    {
+     "file": "0006.json",
+     "ref": "EPH.6",
+     "title": "Ephesians 6",
+     "segments": 24,
+     "tokens": 347
+    }
+   ]
+  }
+ ]
+}

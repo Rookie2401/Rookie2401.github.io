@@ -1,0 +1,1177 @@
+{
+ "workId": "calvin-institutes",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "calvin-institutes-allen-gutenberg",
+   "role": "english",
+   "language": "english",
+   "credit": "Institutes of the Christian Religion, translated by John Allen (Gutenberg vols 1 and 2), in Project Gutenberg eBook #45001 (volume 1 of 2); volume 2 is eBook #64392, trans. John Allen (Philadelphia: Presbyterian Board of Publication, 1813). Transcription: Project Gutenberg volunteers, Distributed Proofreaders (volume 2: Richard Hulse, Heather Clark, David King and the Online Distributed Proofreading Team) (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/45001/pg45001.txt",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 4060181,
+   "sourceSha256": "794311cc5c8591a19fca1c75023bdce88ba9f5d95aeb75cc4dcb111214538fd1",
+   "leftOut": {
+    "gutenbergLine": 1,
+    "noteMark": 1490,
+    "note": 1490
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "https://www.gutenberg.org/cache/epub/45001/pg45001.txt",
+     "bytes": 1925334,
+     "sha256": "7318da7684a4b9e9cf55bd7d0eb0da19c16dec59117ff51cda2050f5f601f9e9"
+    },
+    {
+     "title": "https://www.gutenberg.org/cache/epub/64392/pg64392.txt",
+     "bytes": 2134847,
+     "sha256": "a1e35c9f41d978f7b3257f9115b59acfd2a80c41ae11736628710b773cef1003"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "v1.s1",
+     "title": "v1.s1",
+     "segments": 10
+    },
+    {
+     "file": "0002.json",
+     "ref": "v1.s2",
+     "title": "CONTENTS",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "v1.s3",
+     "title": "ADVERTISEMENT.",
+     "segments": 6
+    },
+    {
+     "file": "0004.json",
+     "ref": "v1.s4",
+     "title": "THE TRANSLATOR’S PREFACE.",
+     "segments": 19
+    },
+    {
+     "file": "0005.json",
+     "ref": "v1.s5",
+     "title": "THE AUTHOR’S PREFACE TO AN EDITION PUBLISHED IN THE YEAR 1559, WITH HIS LAST CORRECTIONS AND ADDITIONS.",
+     "segments": 5
+    },
+    {
+     "file": "0006.json",
+     "ref": "v1.s6",
+     "title": "DEDICATION.",
+     "segments": 14
+    },
+    {
+     "file": "0007.json",
+     "ref": "v1.s7",
+     "title": "GENERAL SYLLABUS.",
+     "segments": 13
+    },
+    {
+     "file": "0008.json",
+     "ref": "v1.b1",
+     "title": "BOOK I. ON THE KNOWLEDGE OF GOD THE CREATOR.",
+     "segments": 20
+    },
+    {
+     "file": "0009.json",
+     "ref": "v1.c2",
+     "title": "Chapter II. The Nature And Tendency Of The Knowledge Of God.",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "v1.c3",
+     "title": "Chapter III. The Human Mind Naturally Endued With The Knowledge Of God.",
+     "segments": 39
+    },
+    {
+     "file": "0011.json",
+     "ref": "v1.c8",
+     "title": "Chapter VIII. Rational Proofs To Establish The Belief Of The Scripture.",
+     "segments": 203
+    },
+    {
+     "file": "0012.json",
+     "ref": "v1.c4",
+     "title": "Chapter IV. The Operation Of God In The Hearts Of Men.",
+     "segments": 28
+    },
+    {
+     "file": "0013.json",
+     "ref": "v1.c6",
+     "title": "Chapter VI. Redemption For Lost Man To Be Sought In Christ.",
+     "segments": 22
+    },
+    {
+     "file": "0014.json",
+     "ref": "v1.c8~2",
+     "title": "Chapter VIII. An Exposition Of The Moral Law",
+     "segments": 87
+    },
+    {
+     "file": "0015.json",
+     "ref": "v1.c10",
+     "title": "Chapter X. The Similarity Of The Old And New Testaments.",
+     "segments": 23
+    },
+    {
+     "file": "0016.json",
+     "ref": "v1.c11",
+     "title": "Chapter XI. The Difference Of The Two Testaments.",
+     "segments": 22
+    },
+    {
+     "file": "0017.json",
+     "ref": "v1.c13",
+     "title": "Chapter XIII. Christ’s Assumption Of Real Humanity.",
+     "segments": 47
+    },
+    {
+     "file": "0018.json",
+     "ref": "v1.b3",
+     "title": "BOOK III. ON THE MANNER OF RECEIVING THE GRACE OF CHRIST, THE BENEFITS WHICH WE DERIVE FROM IT, AND THE EFFECTS WHICH FOLLOW IT.",
+     "segments": 15
+    },
+    {
+     "file": "0019.json",
+     "ref": "v1.c2~2",
+     "title": "Chapter II. Faith Defined, And Its Properties Described.",
+     "segments": 45
+    },
+    {
+     "file": "0020.json",
+     "ref": "v1.c3~2",
+     "title": "Chapter III. On Repentance.",
+     "segments": 82
+    },
+    {
+     "file": "0021.json",
+     "ref": "v1.c7",
+     "title": "Chapter VII. Summary Of The Christian Life. Self‐Denial.",
+     "segments": 10
+    },
+    {
+     "file": "0022.json",
+     "ref": "v1.c8~3",
+     "title": "Chapter VIII. Bearing The Cross, Which Is A Branch Of Self‐Denial.",
+     "segments": 11
+    },
+    {
+     "file": "0023.json",
+     "ref": "v1.c9",
+     "title": "Chapter IX. Meditation On The Future Life.",
+     "segments": 6
+    },
+    {
+     "file": "0024.json",
+     "ref": "v1.c10~2",
+     "title": "Chapter X. The Right Use Of The Present Life And Its Supports.",
+     "segments": 6
+    },
+    {
+     "file": "0025.json",
+     "ref": "v1.c11~2",
+     "title": "Chapter XI. Justification By Faith. The Name And Thing Defined.",
+     "segments": 38
+    },
+    {
+     "file": "0026.json",
+     "ref": "v1.s26",
+     "title": "FOOTNOTES",
+     "segments": 2016
+    },
+    {
+     "file": "0027.json",
+     "ref": "v2.s1",
+     "title": "v2.s1",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "v2.s2",
+     "title": "INSTITUTES OF THE CHRISTIAN RELIGION.",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "v2.s5",
+     "title": "BY JOHN ALLEN.",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "v2.c14",
+     "title": "CHAPTER XIV. THE COMMENCEMENT AND CONTINUAL PROGRESS OF JUSTIFICATION.",
+     "segments": 23
+    },
+    {
+     "file": "0031.json",
+     "ref": "v2.p14",
+     "title": "Psalm xiv. 1-3. Rom. iii. 11.",
+     "segments": 47
+    },
+    {
+     "file": "0032.json",
+     "ref": "v2.p143",
+     "title": "Psalm cxliii. 2.",
+     "segments": 84
+    },
+    {
+     "file": "0033.json",
+     "ref": "v2.p130",
+     "title": "Psalm cxxx. 4.",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "v2.c17",
+     "title": "CHAPTER XVII. THE HARMONY BETWEEN THE PROMISES OF THE LAW AND THOSE OF THE GOSPEL.",
+     "segments": 19
+    },
+    {
+     "file": "0035.json",
+     "ref": "v2.p25",
+     "title": "Psalm xxv. 10, 11.",
+     "segments": 9
+    },
+    {
+     "file": "0036.json",
+     "ref": "v2.p15",
+     "title": "Psalm xv. 1, 2.",
+     "segments": 3
+    },
+    {
+     "file": "0037.json",
+     "ref": "v2.p106",
+     "title": "Psalm cvi. 30, 31.",
+     "segments": 3
+    },
+    {
+     "file": "0038.json",
+     "ref": "v2.p106~2",
+     "title": "Psalm cvi. 31.",
+     "segments": 3
+    },
+    {
+     "file": "0039.json",
+     "ref": "v2.p112",
+     "title": "Psalm cxii. 1.",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "v2.p1",
+     "title": "Psalm i. 1.",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "v2.p119",
+     "title": "Psalm cxix. 1.",
+     "segments": 5
+    },
+    {
+     "file": "0042.json",
+     "ref": "v2.p26",
+     "title": "Psalm xxvi. 1, 4, 9-11.",
+     "segments": 3
+    },
+    {
+     "file": "0043.json",
+     "ref": "v2.p63",
+     "title": "Psalm lxiii. 3.",
+     "segments": 4
+    },
+    {
+     "file": "0044.json",
+     "ref": "v2.c18",
+     "title": "CHAPTER XVIII. JUSTIFICATION BY WORKS NOT TO BE INFERRED FROM THE PROMISE OF A REWARD.",
+     "segments": 58
+    },
+    {
+     "file": "0045.json",
+     "ref": "v2.c19",
+     "title": "CHAPTER XIX. ON CHRISTIAN LIBERTY.",
+     "segments": 109
+    },
+    {
+     "file": "0046.json",
+     "ref": "v2.p145~2",
+     "title": "Psalm cxlv. 19.",
+     "segments": 4
+    },
+    {
+     "file": "0047.json",
+     "ref": "v2.p32",
+     "title": "Psalm xxxii. 6.",
+     "segments": 8
+    },
+    {
+     "file": "0048.json",
+     "ref": "v2.p143~3",
+     "title": "Psalm cxliii. 2.",
+     "segments": 3
+    },
+    {
+     "file": "0049.json",
+     "ref": "v2.p51",
+     "title": "Psalm li. 5.",
+     "segments": 2
+    },
+    {
+     "file": "0050.json",
+     "ref": "v2.p86",
+     "title": "Psalm lxxxvi. 2.",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "v2.p34~2",
+     "title": "Psalm xxxiv. 15.",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "v2.p5",
+     "title": "Psalm v. 7.",
+     "segments": 7
+    },
+    {
+     "file": "0053.json",
+     "ref": "v2.p5~2",
+     "title": "Psalm v. 3.",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "v2.p50",
+     "title": "Psalm l. 15.",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "v2.p50~2",
+     "title": "Psalm l. 15.",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "v2.p145~3",
+     "title": "Psalm cxlv. 19.",
+     "segments": 3
+    },
+    {
+     "file": "0057.json",
+     "ref": "v2.p145~4",
+     "title": "Psalm cxlv. 18.",
+     "segments": 1
+    },
+    {
+     "file": "0058.json",
+     "ref": "v2.p119~2",
+     "title": "Psalm cxix. 76.",
+     "segments": 4
+    },
+    {
+     "file": "0059.json",
+     "ref": "v2.p141",
+     "title": "Psalm cxli. 2.",
+     "segments": 2
+    },
+    {
+     "file": "0060.json",
+     "ref": "v2.p106~4",
+     "title": "Psalm cvi. 39.",
+     "segments": 3
+    },
+    {
+     "file": "0061.json",
+     "ref": "v2.p80",
+     "title": "Psalm lxxx. 4.",
+     "segments": 6
+    },
+    {
+     "file": "0062.json",
+     "ref": "v2.p20",
+     "title": "Psalm xx. 3.",
+     "segments": 15
+    },
+    {
+     "file": "0063.json",
+     "ref": "v2.p22",
+     "title": "Psalm xxii. 5.",
+     "segments": 1
+    },
+    {
+     "file": "0064.json",
+     "ref": "v2.p32~2",
+     "title": "Psalm xxxii. 6.",
+     "segments": 1
+    },
+    {
+     "file": "0065.json",
+     "ref": "v2.p44",
+     "title": "Psalm xliv. 20, 21.",
+     "segments": 1
+    },
+    {
+     "file": "0066.json",
+     "ref": "v2.p50~3",
+     "title": "Psalm l. 15.",
+     "segments": 1
+    },
+    {
+     "file": "0067.json",
+     "ref": "v2.p40",
+     "title": "Psalm xl. 3.",
+     "segments": 1
+    },
+    {
+     "file": "0068.json",
+     "ref": "v2.p51~3",
+     "title": "Psalm li. 15.",
+     "segments": 1
+    },
+    {
+     "file": "0069.json",
+     "ref": "v2.p102",
+     "title": "Psalm cii. 17, &c.",
+     "segments": 1
+    },
+    {
+     "file": "0070.json",
+     "ref": "v2.p18~2",
+     "title": "Psalm xviii. 1.",
+     "segments": 9
+    },
+    {
+     "file": "0071.json",
+     "ref": "v2.p65~2",
+     "title": "Psalm lxv. 1.",
+     "segments": 28
+    },
+    {
+     "file": "0072.json",
+     "ref": "v2.p48",
+     "title": "Psalm xlviii. 10.",
+     "segments": 2
+    },
+    {
+     "file": "0073.json",
+     "ref": "v2.p103",
+     "title": "Psalm ciii. 20.",
+     "segments": 8
+    },
+    {
+     "file": "0074.json",
+     "ref": "v2.p60",
+     "title": "Psalm lx. 12.",
+     "segments": 23
+    },
+    {
+     "file": "0075.json",
+     "ref": "v2.p47",
+     "title": "Psalm xlvii. 4.",
+     "segments": 1
+    },
+    {
+     "file": "0076.json",
+     "ref": "v2.p33~2",
+     "title": "Psalm xxxiii. 12.",
+     "segments": 1
+    },
+    {
+     "file": "0077.json",
+     "ref": "v2.p65~3",
+     "title": "Psalm lxv. 4.",
+     "segments": 3
+    },
+    {
+     "file": "0078.json",
+     "ref": "v2.p147",
+     "title": "Psalm cxlvii. 20.",
+     "segments": 1
+    },
+    {
+     "file": "0079.json",
+     "ref": "v2.c22",
+     "title": "CHAPTER XXII. TESTIMONIES OF SCRIPTURE IN CONFIRMATION OF THIS DOCTRINE.",
+     "segments": 66
+    },
+    {
+     "file": "0080.json",
+     "ref": "v2.p51~4",
+     "title": "Psalm li. 4.",
+     "segments": 61
+    },
+    {
+     "file": "0081.json",
+     "ref": "v2.p138",
+     "title": "Psalm cxxxviii. 8.",
+     "segments": 2
+    },
+    {
+     "file": "0082.json",
+     "ref": "v2.p24",
+     "title": "Psalm xxiv. 6.",
+     "segments": 5
+    },
+    {
+     "file": "0083.json",
+     "ref": "v2.p69",
+     "title": "Psalm lxix. 28.",
+     "segments": 28
+    },
+    {
+     "file": "0084.json",
+     "ref": "v2.p115",
+     "title": "Psalm cxv. 3.",
+     "segments": 12
+    },
+    {
+     "file": "0085.json",
+     "ref": "v2.c25",
+     "title": "CHAPTER XXV. THE FINAL RESURRECTION.",
+     "segments": 32
+    },
+    {
+     "file": "0086.json",
+     "ref": "v2.p16",
+     "title": "Psalm xvi. 10.",
+     "segments": 13
+    },
+    {
+     "file": "0087.json",
+     "ref": "v2.p68",
+     "title": "Psalm lxviii. 20.",
+     "segments": 54
+    },
+    {
+     "file": "0088.json",
+     "ref": "v2.p17~2",
+     "title": "Psalm xvii. 15.",
+     "segments": 13
+    },
+    {
+     "file": "0089.json",
+     "ref": "v2.s107",
+     "title": "ARGUMENT.",
+     "segments": 66
+    },
+    {
+     "file": "0090.json",
+     "ref": "v2.p46",
+     "title": "Psalm xlvi. 5.",
+     "segments": 3
+    },
+    {
+     "file": "0091.json",
+     "ref": "v2.p106~6",
+     "title": "Psalm cvi. 4, 5.",
+     "segments": 3
+    },
+    {
+     "file": "0092.json",
+     "ref": "v2.p132",
+     "title": "Psalm cxxxii. 14; lxxx. 1.",
+     "segments": 1
+    },
+    {
+     "file": "0093.json",
+     "ref": "v2.p105~2",
+     "title": "Psalm cv. 4.",
+     "segments": 2
+    },
+    {
+     "file": "0094.json",
+     "ref": "v2.p132~2",
+     "title": "Psalm cxxxii. 7. xcix. 5.",
+     "segments": 30
+    },
+    {
+     "file": "0095.json",
+     "ref": "v2.p132~3",
+     "title": "Psalm cxxxii. 13, 14.",
+     "segments": 22
+    },
+    {
+     "file": "0096.json",
+     "ref": "v2.c2",
+     "title": "CHAPTER II. THE TRUE AND FALSE CHURCH COMPARED.",
+     "segments": 29
+    },
+    {
+     "file": "0097.json",
+     "ref": "v2.c3",
+     "title": "CHAPTER III. THE TEACHERS AND MINISTERS OF THE CHURCH; THEIR ELECTION AND OFFICE.",
+     "segments": 88
+    },
+    {
+     "file": "0098.json",
+     "ref": "v2.c5",
+     "title": "CHAPTER V. THE ANCIENT FORM OF GOVERNMENT ENTIRELY SUBVERTED BY THE PAPAL TYRANNY.",
+     "segments": 23
+    },
+    {
+     "file": "0099.json",
+     "ref": "v2.p72",
+     "title": "Psalm lxxii. 10, 11.",
+     "segments": 3
+    },
+    {
+     "file": "0100.json",
+     "ref": "v2.c6",
+     "title": "CHAPTER VI. THE PRIMACY OF THE ROMAN SEE.",
+     "segments": 147
+    },
+    {
+     "file": "0101.json",
+     "ref": "v2.c9",
+     "title": "CHAPTER IX. COUNCILS; THEIR AUTHORITY.",
+     "segments": 131
+    },
+    {
+     "file": "0102.json",
+     "ref": "v2.c11",
+     "title": "CHAPTER XI. THE JURISDICTION OF THE CHURCH, AND ITS ABUSE UNDER THE PAPACY.",
+     "segments": 89
+    },
+    {
+     "file": "0103.json",
+     "ref": "v2.c13",
+     "title": "CHAPTER XIII. VOWS: THE MISERY OF RASHLY MAKING THEM.",
+     "segments": 28
+    },
+    {
+     "file": "0104.json",
+     "ref": "v2.p22~2",
+     "title": "Psalm xxii. 25; lvi. 12; cxvi. 14, 18.",
+     "segments": 15
+    },
+    {
+     "file": "0105.json",
+     "ref": "v2.c14~2",
+     "title": "CHAPTER XIV. THE SACRAMENTS.",
+     "segments": 39
+    },
+    {
+     "file": "0106.json",
+     "ref": "v2.p12",
+     "title": "Psalm xii. 2.",
+     "segments": 25
+    },
+    {
+     "file": "0107.json",
+     "ref": "v2.c15",
+     "title": "CHAPTER XV. BAPTISM.",
+     "segments": 108
+    },
+    {
+     "file": "0108.json",
+     "ref": "v2.p51~5",
+     "title": "Psalm li. 5.",
+     "segments": 49
+    },
+    {
+     "file": "0109.json",
+     "ref": "v2.c17~2",
+     "title": "CHAPTER XVII. THE LORD’S SUPPER AND ITS ADVANTAGES.",
+     "segments": 78
+    },
+    {
+     "file": "0110.json",
+     "ref": "v2.p69~2",
+     "title": "Psalm lxix. 21.",
+     "segments": 7
+    },
+    {
+     "file": "0111.json",
+     "ref": "v2.p84~2",
+     "title": "Psalm lxxxiv. 7; xlii. 2.",
+     "segments": 42
+    },
+    {
+     "file": "0112.json",
+     "ref": "v2.p50~4",
+     "title": "Psalm l. 15.",
+     "segments": 56
+    },
+    {
+     "file": "0113.json",
+     "ref": "v2.p141~2",
+     "title": "Psalm cxli. 2.",
+     "segments": 1
+    },
+    {
+     "file": "0114.json",
+     "ref": "v2.p50~5",
+     "title": "Psalm l. 14, 23.",
+     "segments": 15
+    },
+    {
+     "file": "0115.json",
+     "ref": "v2.s137",
+     "title": "CONFIRMATION.",
+     "segments": 10
+    },
+    {
+     "file": "0116.json",
+     "ref": "v2.s138",
+     "title": "PENANCE.",
+     "segments": 4
+    },
+    {
+     "file": "0117.json",
+     "ref": "v2.s139",
+     "title": "EXTREME UNCTION.",
+     "segments": 4
+    },
+    {
+     "file": "0118.json",
+     "ref": "v2.s140",
+     "title": "ECCLESIASTICAL ORDERS.",
+     "segments": 12
+    },
+    {
+     "file": "0119.json",
+     "ref": "v2.s141",
+     "title": "MATRIMONY.",
+     "segments": 42
+    },
+    {
+     "file": "0120.json",
+     "ref": "v2.c20",
+     "title": "CHAPTER XX. ON CIVIL GOVERNMENT.",
+     "segments": 32
+    },
+    {
+     "file": "0121.json",
+     "ref": "v2.s143",
+     "title": "END OF THE INSTITUTES.",
+     "segments": 4
+    },
+    {
+     "file": "0122.json",
+     "ref": "v2.p82",
+     "title": "Psalm lxxxii. 1, 6.",
+     "segments": 6
+    },
+    {
+     "file": "0123.json",
+     "ref": "v2.p2",
+     "title": "Psalm ii. 10-12.",
+     "segments": 5
+    },
+    {
+     "file": "0124.json",
+     "ref": "v2.p82~2",
+     "title": "Psalm lxxxii. 1.",
+     "segments": 5
+    },
+    {
+     "file": "0125.json",
+     "ref": "v2.p82~3",
+     "title": "Psalm lxxxii. 3, 4.",
+     "segments": 2
+    },
+    {
+     "file": "0126.json",
+     "ref": "v2.p101",
+     "title": "Psalm ci. 3-6.",
+     "segments": 8
+    },
+    {
+     "file": "0127.json",
+     "ref": "v2.p45",
+     "title": "Psalm xlv. 7.",
+     "segments": 42
+    },
+    {
+     "file": "0128.json",
+     "ref": "v2.p2~2",
+     "title": "Psalm ii. 10-12.",
+     "segments": 6
+    },
+    {
+     "file": "0129.json",
+     "ref": "v2.s153",
+     "title": "INDEX OF THE PRINCIPAL MATTERS.",
+     "segments": 200
+    },
+    {
+     "file": "0130.json",
+     "ref": "v2.s156",
+     "title": "ARRANGED AND PRESENTED",
+     "segments": 1
+    },
+    {
+     "file": "0131.json",
+     "ref": "v2.s162",
+     "title": "GENESIS.",
+     "segments": 38
+    },
+    {
+     "file": "0132.json",
+     "ref": "v2.s163",
+     "title": "EXODUS.",
+     "segments": 28
+    },
+    {
+     "file": "0133.json",
+     "ref": "v2.s164",
+     "title": "LEVITICUS.",
+     "segments": 8
+    },
+    {
+     "file": "0134.json",
+     "ref": "v2.s165",
+     "title": "NUMBERS.",
+     "segments": 9
+    },
+    {
+     "file": "0135.json",
+     "ref": "v2.s166",
+     "title": "DEUTERONOMY",
+     "segments": 27
+    },
+    {
+     "file": "0136.json",
+     "ref": "v2.s167",
+     "title": "JOSHUA.",
+     "segments": 7
+    },
+    {
+     "file": "0137.json",
+     "ref": "v2.s168",
+     "title": "JUDGES.",
+     "segments": 10
+    },
+    {
+     "file": "0138.json",
+     "ref": "v2.s169",
+     "title": "RUTH.",
+     "segments": 2
+    },
+    {
+     "file": "0139.json",
+     "ref": "v2.s170",
+     "title": "1. SAMUEL.",
+     "segments": 16
+    },
+    {
+     "file": "0140.json",
+     "ref": "v2.s171",
+     "title": "2 SAMUEL.",
+     "segments": 9
+    },
+    {
+     "file": "0141.json",
+     "ref": "v2.s172",
+     "title": "1 KINGS.",
+     "segments": 11
+    },
+    {
+     "file": "0142.json",
+     "ref": "v2.s173",
+     "title": "2 KINGS.",
+     "segments": 12
+    },
+    {
+     "file": "0143.json",
+     "ref": "v2.s174",
+     "title": "1 CHRONICLES.",
+     "segments": 2
+    },
+    {
+     "file": "0144.json",
+     "ref": "v2.s175",
+     "title": "2 CHRON.",
+     "segments": 4
+    },
+    {
+     "file": "0145.json",
+     "ref": "v2.s176",
+     "title": "EZRA.",
+     "segments": 2
+    },
+    {
+     "file": "0146.json",
+     "ref": "v2.s177",
+     "title": "NEHEMIAH.",
+     "segments": 3
+    },
+    {
+     "file": "0147.json",
+     "ref": "v2.s178",
+     "title": "JOB.",
+     "segments": 17
+    },
+    {
+     "file": "0148.json",
+     "ref": "v2.s179",
+     "title": "PSALMS.",
+     "segments": 108
+    },
+    {
+     "file": "0149.json",
+     "ref": "v2.s180",
+     "title": "PROVERBS.",
+     "segments": 25
+    },
+    {
+     "file": "0150.json",
+     "ref": "v2.s181",
+     "title": "ECCL.",
+     "segments": 4
+    },
+    {
+     "file": "0151.json",
+     "ref": "v2.s182",
+     "title": "ISAIAH.",
+     "segments": 50
+    },
+    {
+     "file": "0152.json",
+     "ref": "v2.s183",
+     "title": "JEREMIAH.",
+     "segments": 28
+    },
+    {
+     "file": "0153.json",
+     "ref": "v2.s184",
+     "title": "LAMENTA.",
+     "segments": 3
+    },
+    {
+     "file": "0154.json",
+     "ref": "v2.s185",
+     "title": "EZEKIEL.",
+     "segments": 23
+    },
+    {
+     "file": "0155.json",
+     "ref": "v2.s186",
+     "title": "DANIEL.",
+     "segments": 10
+    },
+    {
+     "file": "0156.json",
+     "ref": "v2.s187",
+     "title": "HOSEA.",
+     "segments": 12
+    },
+    {
+     "file": "0157.json",
+     "ref": "v2.s188",
+     "title": "JOEL.",
+     "segments": 3
+    },
+    {
+     "file": "0158.json",
+     "ref": "v2.s189",
+     "title": "AMOS.",
+     "segments": 8
+    },
+    {
+     "file": "0159.json",
+     "ref": "v2.s190",
+     "title": "OBADIAH.",
+     "segments": 2
+    },
+    {
+     "file": "0160.json",
+     "ref": "v2.s191",
+     "title": "JONAH.",
+     "segments": 4
+    },
+    {
+     "file": "0161.json",
+     "ref": "v2.s192",
+     "title": "MICAH.",
+     "segments": 5
+    },
+    {
+     "file": "0162.json",
+     "ref": "v2.s193",
+     "title": "HABAKKUK.",
+     "segments": 4
+    },
+    {
+     "file": "0163.json",
+     "ref": "v2.s194",
+     "title": "ZEPHANIAH.",
+     "segments": 2
+    },
+    {
+     "file": "0164.json",
+     "ref": "v2.s195",
+     "title": "HAGGAI.",
+     "segments": 2
+    },
+    {
+     "file": "0165.json",
+     "ref": "v2.s196",
+     "title": "ZECHARIAH.",
+     "segments": 8
+    },
+    {
+     "file": "0166.json",
+     "ref": "v2.s197",
+     "title": "MALACHI.",
+     "segments": 5
+    },
+    {
+     "file": "0167.json",
+     "ref": "v2.s198",
+     "title": "MATTHEW.",
+     "segments": 27
+    },
+    {
+     "file": "0168.json",
+     "ref": "v2.s199",
+     "title": "MARK.",
+     "segments": 13
+    },
+    {
+     "file": "0169.json",
+     "ref": "v2.s200",
+     "title": "LUKE.",
+     "segments": 25
+    },
+    {
+     "file": "0170.json",
+     "ref": "v2.s201",
+     "title": "JOHN.",
+     "segments": 22
+    },
+    {
+     "file": "0171.json",
+     "ref": "v2.s202",
+     "title": "ACTS.",
+     "segments": 26
+    },
+    {
+     "file": "0172.json",
+     "ref": "v2.s203",
+     "title": "ROMANS.",
+     "segments": 17
+    },
+    {
+     "file": "0173.json",
+     "ref": "v2.s204",
+     "title": "1 CORINTH.",
+     "segments": 17
+    },
+    {
+     "file": "0174.json",
+     "ref": "v2.s205",
+     "title": "2 CORINTH.",
+     "segments": 13
+    },
+    {
+     "file": "0175.json",
+     "ref": "v2.s206",
+     "title": "GALATIANS.",
+     "segments": 7
+    },
+    {
+     "file": "0176.json",
+     "ref": "v2.s207",
+     "title": "EPHESIANS.",
+     "segments": 7
+    },
+    {
+     "file": "0177.json",
+     "ref": "v2.s208",
+     "title": "PHILIPPIANS.",
+     "segments": 5
+    },
+    {
+     "file": "0178.json",
+     "ref": "v2.s209",
+     "title": "COLOSSIANS.",
+     "segments": 6
+    },
+    {
+     "file": "0179.json",
+     "ref": "v2.s210",
+     "title": "1 THESSALON.",
+     "segments": 6
+    },
+    {
+     "file": "0180.json",
+     "ref": "v2.s211",
+     "title": "2 THESSALON.",
+     "segments": 4
+    },
+    {
+     "file": "0181.json",
+     "ref": "v2.s212",
+     "title": "1 TIMOTHY.",
+     "segments": 7
+    },
+    {
+     "file": "0182.json",
+     "ref": "v2.s213",
+     "title": "2 TIMOTHY.",
+     "segments": 5
+    },
+    {
+     "file": "0183.json",
+     "ref": "v2.s214",
+     "title": "TITUS.",
+     "segments": 4
+    },
+    {
+     "file": "0184.json",
+     "ref": "v2.s215",
+     "title": "HEBREWS.",
+     "segments": 15
+    },
+    {
+     "file": "0185.json",
+     "ref": "v2.s216",
+     "title": "JAMES.",
+     "segments": 5
+    },
+    {
+     "file": "0186.json",
+     "ref": "v2.s217",
+     "title": "1 PETER.",
+     "segments": 6
+    },
+    {
+     "file": "0187.json",
+     "ref": "v2.s218",
+     "title": "2 PETER.",
+     "segments": 4
+    },
+    {
+     "file": "0188.json",
+     "ref": "v2.s219",
+     "title": "1 JOHN.",
+     "segments": 6
+    },
+    {
+     "file": "0189.json",
+     "ref": "v2.s220",
+     "title": "JUDE.",
+     "segments": 1
+    },
+    {
+     "file": "0190.json",
+     "ref": "v2.s221",
+     "title": "REVELATIONS.",
+     "segments": 10
+    }
+   ]
+  }
+ ]
+}

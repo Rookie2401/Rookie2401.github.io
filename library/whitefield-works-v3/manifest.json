@@ -1,0 +1,3124 @@
+{
+ "workId": "whitefield-works-v3",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "whitefield-works-v3-gutenberg",
+   "role": "english",
+   "language": "english",
+   "credit": "The Works of the Reverend George Whitefield, M.A., vol. 3 of 6, in Project Gutenberg eBook #73012 (London: Edward and Charles Dilly, 1771). Transcription: Project Gutenberg volunteers (Online Distributed Proofreading Team) (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/73012/pg73012.txt",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1153621,
+   "sourceSha256": "73d578754ec895ea63a1b6a86bcbd5ff03708b2987bcd62714a6222ac4a744a1",
+   "leftOut": {},
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "https://www.gutenberg.org/cache/epub/73012/pg73012.txt",
+     "bytes": 1153621,
+     "sha256": "73d578754ec895ea63a1b6a86bcbd5ff03708b2987bcd62714a6222ac4a744a1"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "s1",
+     "title": "s1",
+     "segments": 4
+    },
+    {
+     "file": "0002.json",
+     "ref": "s2",
+     "title": "CONTAINING",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "s3",
+     "title": "WITH",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "s4",
+     "title": "ALSO",
+     "segments": 3
+    },
+    {
+     "file": "0005.json",
+     "ref": "s6",
+     "title": "LONDON:",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "l965",
+     "title": "LETTER DCCCCLXV.",
+     "segments": 7
+    },
+    {
+     "file": "0007.json",
+     "ref": "l966",
+     "title": "LETTER DCCCCLXVI.",
+     "segments": 6
+    },
+    {
+     "file": "0008.json",
+     "ref": "l967",
+     "title": "LETTER DCCCCLXVII.",
+     "segments": 7
+    },
+    {
+     "file": "0009.json",
+     "ref": "l968",
+     "title": "LETTER DCCCCLXVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0010.json",
+     "ref": "s13",
+     "title": "LETTER ♦DCCCCLXIX.",
+     "segments": 7
+    },
+    {
+     "file": "0011.json",
+     "ref": "l970",
+     "title": "LETTER DCCCCLXX.",
+     "segments": 6
+    },
+    {
+     "file": "0012.json",
+     "ref": "l971",
+     "title": "LETTER DCCCCLXXI.",
+     "segments": 6
+    },
+    {
+     "file": "0013.json",
+     "ref": "l972",
+     "title": "LETTER DCCCCLXXII.",
+     "segments": 6
+    },
+    {
+     "file": "0014.json",
+     "ref": "l973",
+     "title": "LETTER DCCCCLXXIII.",
+     "segments": 6
+    },
+    {
+     "file": "0015.json",
+     "ref": "l974",
+     "title": "LETTER DCCCCLXXIV.",
+     "segments": 5
+    },
+    {
+     "file": "0016.json",
+     "ref": "l975",
+     "title": "LETTER DCCCCLXXV.",
+     "segments": 6
+    },
+    {
+     "file": "0017.json",
+     "ref": "l976",
+     "title": "LETTER DCCCCLXXVI.",
+     "segments": 5
+    },
+    {
+     "file": "0018.json",
+     "ref": "l977",
+     "title": "LETTER DCCCCLXXVII.",
+     "segments": 6
+    },
+    {
+     "file": "0019.json",
+     "ref": "l978",
+     "title": "LETTER DCCCCLXXVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0020.json",
+     "ref": "l979",
+     "title": "LETTER DCCCCLXXIX.",
+     "segments": 6
+    },
+    {
+     "file": "0021.json",
+     "ref": "l980",
+     "title": "LETTER DCCCCLXXX.",
+     "segments": 8
+    },
+    {
+     "file": "0022.json",
+     "ref": "l981",
+     "title": "LETTER DCCCCLXXXI.",
+     "segments": 6
+    },
+    {
+     "file": "0023.json",
+     "ref": "l982",
+     "title": "LETTER DCCCCLXXXII.",
+     "segments": 6
+    },
+    {
+     "file": "0024.json",
+     "ref": "l983",
+     "title": "LETTER DCCCCLXXXIII.",
+     "segments": 5
+    },
+    {
+     "file": "0025.json",
+     "ref": "l984",
+     "title": "LETTER DCCCCLXXXIV.",
+     "segments": 8
+    },
+    {
+     "file": "0026.json",
+     "ref": "l985",
+     "title": "LETTER DCCCCLXXXV.",
+     "segments": 6
+    },
+    {
+     "file": "0027.json",
+     "ref": "s30",
+     "title": "LETTER [DCCCCLXXXV.]",
+     "segments": 5
+    },
+    {
+     "file": "0028.json",
+     "ref": "l986",
+     "title": "LETTER DCCCCLXXXVI.",
+     "segments": 7
+    },
+    {
+     "file": "0029.json",
+     "ref": "l987",
+     "title": "LETTER DCCCCLXXXVII.",
+     "segments": 6
+    },
+    {
+     "file": "0030.json",
+     "ref": "l988",
+     "title": "LETTER DCCCCLXXXVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0031.json",
+     "ref": "s34",
+     "title": "LETTER ♦DCCCCLXXXIX.",
+     "segments": 7
+    },
+    {
+     "file": "0032.json",
+     "ref": "l990",
+     "title": "LETTER DCCCCXC.",
+     "segments": 6
+    },
+    {
+     "file": "0033.json",
+     "ref": "l991",
+     "title": "LETTER DCCCCXCI.",
+     "segments": 7
+    },
+    {
+     "file": "0034.json",
+     "ref": "l992",
+     "title": "LETTER DCCCCXCII.",
+     "segments": 6
+    },
+    {
+     "file": "0035.json",
+     "ref": "l993",
+     "title": "LETTER DCCCCXCIII.",
+     "segments": 9
+    },
+    {
+     "file": "0036.json",
+     "ref": "l994",
+     "title": "LETTER DCCCCXCIV.",
+     "segments": 6
+    },
+    {
+     "file": "0037.json",
+     "ref": "l995",
+     "title": "LETTER DCCCCXCV.",
+     "segments": 5
+    },
+    {
+     "file": "0038.json",
+     "ref": "l996",
+     "title": "LETTER DCCCCXCVI.",
+     "segments": 6
+    },
+    {
+     "file": "0039.json",
+     "ref": "l997",
+     "title": "LETTER DCCCCXCVII.",
+     "segments": 6
+    },
+    {
+     "file": "0040.json",
+     "ref": "l998",
+     "title": "LETTER DCCCCXCVIII.",
+     "segments": 11
+    },
+    {
+     "file": "0041.json",
+     "ref": "l999",
+     "title": "LETTER DCCCCXCIX.",
+     "segments": 8
+    },
+    {
+     "file": "0042.json",
+     "ref": "l1000",
+     "title": "LETTER M.",
+     "segments": 6
+    },
+    {
+     "file": "0043.json",
+     "ref": "l1001",
+     "title": "LETTER MI.",
+     "segments": 8
+    },
+    {
+     "file": "0044.json",
+     "ref": "l1002",
+     "title": "LETTER MII.",
+     "segments": 6
+    },
+    {
+     "file": "0045.json",
+     "ref": "l1003",
+     "title": "LETTER MIII.",
+     "segments": 8
+    },
+    {
+     "file": "0046.json",
+     "ref": "l1004",
+     "title": "LETTER MIV.",
+     "segments": 6
+    },
+    {
+     "file": "0047.json",
+     "ref": "l1005",
+     "title": "LETTER MV.",
+     "segments": 8
+    },
+    {
+     "file": "0048.json",
+     "ref": "l1006",
+     "title": "LETTER MVI.",
+     "segments": 5
+    },
+    {
+     "file": "0049.json",
+     "ref": "l1007",
+     "title": "LETTER MVII.",
+     "segments": 6
+    },
+    {
+     "file": "0050.json",
+     "ref": "l1008",
+     "title": "LETTER MVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0051.json",
+     "ref": "l1009",
+     "title": "LETTER MIX.",
+     "segments": 8
+    },
+    {
+     "file": "0052.json",
+     "ref": "l1010",
+     "title": "LETTER MX.",
+     "segments": 8
+    },
+    {
+     "file": "0053.json",
+     "ref": "l1011",
+     "title": "LETTER MXI.",
+     "segments": 8
+    },
+    {
+     "file": "0054.json",
+     "ref": "l1012",
+     "title": "LETTER MXII.",
+     "segments": 8
+    },
+    {
+     "file": "0055.json",
+     "ref": "l1013",
+     "title": "LETTER MXIII.",
+     "segments": 6
+    },
+    {
+     "file": "0056.json",
+     "ref": "l1014",
+     "title": "LETTER MXIV.",
+     "segments": 6
+    },
+    {
+     "file": "0057.json",
+     "ref": "l1015",
+     "title": "LETTER MXV.",
+     "segments": 6
+    },
+    {
+     "file": "0058.json",
+     "ref": "l1016",
+     "title": "LETTER MXVI.",
+     "segments": 8
+    },
+    {
+     "file": "0059.json",
+     "ref": "l1017",
+     "title": "LETTER MXVII.",
+     "segments": 6
+    },
+    {
+     "file": "0060.json",
+     "ref": "l1018",
+     "title": "LETTER MXVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0061.json",
+     "ref": "l1019",
+     "title": "LETTER MXIX.",
+     "segments": 10
+    },
+    {
+     "file": "0062.json",
+     "ref": "l1020",
+     "title": "LETTER MXX.",
+     "segments": 8
+    },
+    {
+     "file": "0063.json",
+     "ref": "l1021",
+     "title": "LETTER MXXI.",
+     "segments": 6
+    },
+    {
+     "file": "0064.json",
+     "ref": "l1022",
+     "title": "LETTER MXXII.",
+     "segments": 6
+    },
+    {
+     "file": "0065.json",
+     "ref": "l1023",
+     "title": "LETTER MXXIII.",
+     "segments": 8
+    },
+    {
+     "file": "0066.json",
+     "ref": "l1024",
+     "title": "LETTER MXXIV.",
+     "segments": 8
+    },
+    {
+     "file": "0067.json",
+     "ref": "l1025",
+     "title": "LETTER MXXV.",
+     "segments": 8
+    },
+    {
+     "file": "0068.json",
+     "ref": "l1026",
+     "title": "LETTER MXXVI.",
+     "segments": 6
+    },
+    {
+     "file": "0069.json",
+     "ref": "l1027",
+     "title": "LETTER MXXVII.",
+     "segments": 6
+    },
+    {
+     "file": "0070.json",
+     "ref": "l1028",
+     "title": "LETTER MXXVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0071.json",
+     "ref": "l1029",
+     "title": "LETTER MXXIX.",
+     "segments": 6
+    },
+    {
+     "file": "0072.json",
+     "ref": "l1030",
+     "title": "LETTER MXXX.",
+     "segments": 6
+    },
+    {
+     "file": "0073.json",
+     "ref": "l1031",
+     "title": "LETTER MXXXI.",
+     "segments": 8
+    },
+    {
+     "file": "0074.json",
+     "ref": "l1032",
+     "title": "LETTER MXXXII.",
+     "segments": 6
+    },
+    {
+     "file": "0075.json",
+     "ref": "l1033",
+     "title": "LETTER MXXXIII.",
+     "segments": 6
+    },
+    {
+     "file": "0076.json",
+     "ref": "l1034",
+     "title": "LETTER MXXXIV.",
+     "segments": 7
+    },
+    {
+     "file": "0077.json",
+     "ref": "l1035",
+     "title": "LETTER MXXXV.",
+     "segments": 6
+    },
+    {
+     "file": "0078.json",
+     "ref": "l1036",
+     "title": "LETTER MXXXVI.",
+     "segments": 6
+    },
+    {
+     "file": "0079.json",
+     "ref": "l1037",
+     "title": "LETTER MXXXVII.",
+     "segments": 6
+    },
+    {
+     "file": "0080.json",
+     "ref": "l1038",
+     "title": "LETTER MXXXVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0081.json",
+     "ref": "l1039",
+     "title": "LETTER MXXXIX.",
+     "segments": 6
+    },
+    {
+     "file": "0082.json",
+     "ref": "l1040",
+     "title": "LETTER MXL.",
+     "segments": 6
+    },
+    {
+     "file": "0083.json",
+     "ref": "l1041",
+     "title": "LETTER MXLI.",
+     "segments": 6
+    },
+    {
+     "file": "0084.json",
+     "ref": "l1042",
+     "title": "LETTER MXLII.",
+     "segments": 6
+    },
+    {
+     "file": "0085.json",
+     "ref": "l1043",
+     "title": "LETTER MXLIII.",
+     "segments": 8
+    },
+    {
+     "file": "0086.json",
+     "ref": "l1044",
+     "title": "LETTER MXLIV.",
+     "segments": 6
+    },
+    {
+     "file": "0087.json",
+     "ref": "l1045",
+     "title": "LETTER MXLV.",
+     "segments": 6
+    },
+    {
+     "file": "0088.json",
+     "ref": "l1046",
+     "title": "LETTER MXLVI.",
+     "segments": 5
+    },
+    {
+     "file": "0089.json",
+     "ref": "l1047",
+     "title": "LETTER MXLVII.",
+     "segments": 6
+    },
+    {
+     "file": "0090.json",
+     "ref": "l1048",
+     "title": "LETTER MXLVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0091.json",
+     "ref": "l1049",
+     "title": "LETTER MXLIX.",
+     "segments": 6
+    },
+    {
+     "file": "0092.json",
+     "ref": "l1050",
+     "title": "LETTER ML.",
+     "segments": 6
+    },
+    {
+     "file": "0093.json",
+     "ref": "l1051",
+     "title": "LETTER MLI.",
+     "segments": 6
+    },
+    {
+     "file": "0094.json",
+     "ref": "l1052",
+     "title": "LETTER MLII.",
+     "segments": 6
+    },
+    {
+     "file": "0095.json",
+     "ref": "l1053",
+     "title": "LETTER MLIII.",
+     "segments": 6
+    },
+    {
+     "file": "0096.json",
+     "ref": "l1054",
+     "title": "LETTER MLIV.",
+     "segments": 6
+    },
+    {
+     "file": "0097.json",
+     "ref": "l1055",
+     "title": "LETTER MLV.",
+     "segments": 6
+    },
+    {
+     "file": "0098.json",
+     "ref": "l1056",
+     "title": "LETTER MLVI.",
+     "segments": 8
+    },
+    {
+     "file": "0099.json",
+     "ref": "l1057",
+     "title": "LETTER MLVII.",
+     "segments": 6
+    },
+    {
+     "file": "0100.json",
+     "ref": "l1058",
+     "title": "LETTER MLVIII.",
+     "segments": 5
+    },
+    {
+     "file": "0101.json",
+     "ref": "l1059",
+     "title": "LETTER MLIX.",
+     "segments": 6
+    },
+    {
+     "file": "0102.json",
+     "ref": "l1060",
+     "title": "LETTER MLX.",
+     "segments": 6
+    },
+    {
+     "file": "0103.json",
+     "ref": "l1061",
+     "title": "LETTER MLXI.",
+     "segments": 6
+    },
+    {
+     "file": "0104.json",
+     "ref": "l1062",
+     "title": "LETTER MLXII.",
+     "segments": 6
+    },
+    {
+     "file": "0105.json",
+     "ref": "l1063",
+     "title": "LETTER MLXIII.",
+     "segments": 6
+    },
+    {
+     "file": "0106.json",
+     "ref": "l1064",
+     "title": "LETTER MLXIV.",
+     "segments": 6
+    },
+    {
+     "file": "0107.json",
+     "ref": "l1065",
+     "title": "LETTER MLXV.",
+     "segments": 6
+    },
+    {
+     "file": "0108.json",
+     "ref": "l1066",
+     "title": "LETTER MLXVI.",
+     "segments": 6
+    },
+    {
+     "file": "0109.json",
+     "ref": "l1067",
+     "title": "LETTER MLXVII.",
+     "segments": 6
+    },
+    {
+     "file": "0110.json",
+     "ref": "l1068",
+     "title": "LETTER MLXVIII.",
+     "segments": 10
+    },
+    {
+     "file": "0111.json",
+     "ref": "l1069",
+     "title": "LETTER MLXIX.",
+     "segments": 6
+    },
+    {
+     "file": "0112.json",
+     "ref": "l1070",
+     "title": "LETTER MLXX.",
+     "segments": 6
+    },
+    {
+     "file": "0113.json",
+     "ref": "l1071",
+     "title": "LETTER MLXXI.",
+     "segments": 5
+    },
+    {
+     "file": "0114.json",
+     "ref": "l1072",
+     "title": "LETTER MLXXII.",
+     "segments": 6
+    },
+    {
+     "file": "0115.json",
+     "ref": "l1073",
+     "title": "LETTER MLXXIII.",
+     "segments": 8
+    },
+    {
+     "file": "0116.json",
+     "ref": "l1074",
+     "title": "LETTER MLXXIV.",
+     "segments": 6
+    },
+    {
+     "file": "0117.json",
+     "ref": "l1075",
+     "title": "LETTER MLXXV.",
+     "segments": 6
+    },
+    {
+     "file": "0118.json",
+     "ref": "l1076",
+     "title": "LETTER MLXXVI.",
+     "segments": 7
+    },
+    {
+     "file": "0119.json",
+     "ref": "l1077",
+     "title": "LETTER MLXXVII.",
+     "segments": 6
+    },
+    {
+     "file": "0120.json",
+     "ref": "l1078",
+     "title": "LETTER MLXXVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0121.json",
+     "ref": "l1079",
+     "title": "LETTER MLXXIX.",
+     "segments": 5
+    },
+    {
+     "file": "0122.json",
+     "ref": "l1080",
+     "title": "LETTER MLXXX.",
+     "segments": 6
+    },
+    {
+     "file": "0123.json",
+     "ref": "l1081",
+     "title": "LETTER MLXXXI.",
+     "segments": 6
+    },
+    {
+     "file": "0124.json",
+     "ref": "l1082",
+     "title": "LETTER MLXXXII.",
+     "segments": 6
+    },
+    {
+     "file": "0125.json",
+     "ref": "l1083",
+     "title": "LETTER MLXXXIII.",
+     "segments": 6
+    },
+    {
+     "file": "0126.json",
+     "ref": "l1084",
+     "title": "LETTER MLXXXIV.",
+     "segments": 6
+    },
+    {
+     "file": "0127.json",
+     "ref": "l1085",
+     "title": "LETTER MLXXXV.",
+     "segments": 6
+    },
+    {
+     "file": "0128.json",
+     "ref": "l1086",
+     "title": "LETTER MLXXXVI.",
+     "segments": 6
+    },
+    {
+     "file": "0129.json",
+     "ref": "l1087",
+     "title": "LETTER MLXXXVII.",
+     "segments": 6
+    },
+    {
+     "file": "0130.json",
+     "ref": "l1088",
+     "title": "LETTER MLXXXVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0131.json",
+     "ref": "l1089",
+     "title": "LETTER MLXXXIX.",
+     "segments": 6
+    },
+    {
+     "file": "0132.json",
+     "ref": "l1090",
+     "title": "LETTER MXC.",
+     "segments": 6
+    },
+    {
+     "file": "0133.json",
+     "ref": "l1091",
+     "title": "LETTER MXCI.",
+     "segments": 6
+    },
+    {
+     "file": "0134.json",
+     "ref": "l1092",
+     "title": "LETTER MXCII.",
+     "segments": 7
+    },
+    {
+     "file": "0135.json",
+     "ref": "l1093",
+     "title": "LETTER MXCIII.",
+     "segments": 6
+    },
+    {
+     "file": "0136.json",
+     "ref": "l1094",
+     "title": "LETTER MXCIV.",
+     "segments": 6
+    },
+    {
+     "file": "0137.json",
+     "ref": "l1095",
+     "title": "LETTER MXCV.",
+     "segments": 8
+    },
+    {
+     "file": "0138.json",
+     "ref": "l1096",
+     "title": "LETTER MXCVI.",
+     "segments": 6
+    },
+    {
+     "file": "0139.json",
+     "ref": "l1097",
+     "title": "LETTER MXCVII",
+     "segments": 8
+    },
+    {
+     "file": "0140.json",
+     "ref": "l1098",
+     "title": "LETTER MXCVIII.",
+     "segments": 5
+    },
+    {
+     "file": "0141.json",
+     "ref": "l1099",
+     "title": "LETTER MXCIX.",
+     "segments": 6
+    },
+    {
+     "file": "0142.json",
+     "ref": "l1100",
+     "title": "LETTER MC.",
+     "segments": 10
+    },
+    {
+     "file": "0143.json",
+     "ref": "l1101",
+     "title": "LETTER MCI.",
+     "segments": 8
+    },
+    {
+     "file": "0144.json",
+     "ref": "l1102",
+     "title": "LETTER MCII.",
+     "segments": 9
+    },
+    {
+     "file": "0145.json",
+     "ref": "l1103",
+     "title": "LETTER MCIII.",
+     "segments": 6
+    },
+    {
+     "file": "0146.json",
+     "ref": "l1104",
+     "title": "LETTER MCIV.",
+     "segments": 6
+    },
+    {
+     "file": "0147.json",
+     "ref": "l1105",
+     "title": "LETTER MCV.",
+     "segments": 6
+    },
+    {
+     "file": "0148.json",
+     "ref": "l1106",
+     "title": "LETTER MCVI.",
+     "segments": 6
+    },
+    {
+     "file": "0149.json",
+     "ref": "l1107",
+     "title": "LETTER MCVII.",
+     "segments": 6
+    },
+    {
+     "file": "0150.json",
+     "ref": "l1108",
+     "title": "LETTER MCVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0151.json",
+     "ref": "l1109",
+     "title": "LETTER MCIX.",
+     "segments": 6
+    },
+    {
+     "file": "0152.json",
+     "ref": "l1110",
+     "title": "LETTER MCX.",
+     "segments": 6
+    },
+    {
+     "file": "0153.json",
+     "ref": "l1111",
+     "title": "LETTER MCXI.",
+     "segments": 6
+    },
+    {
+     "file": "0154.json",
+     "ref": "l1112",
+     "title": "LETTER MCXII.",
+     "segments": 6
+    },
+    {
+     "file": "0155.json",
+     "ref": "l1113",
+     "title": "LETTER MCXIII.",
+     "segments": 8
+    },
+    {
+     "file": "0156.json",
+     "ref": "l1114",
+     "title": "LETTER MCXIV.",
+     "segments": 6
+    },
+    {
+     "file": "0157.json",
+     "ref": "l1115",
+     "title": "LETTER MCXV.",
+     "segments": 6
+    },
+    {
+     "file": "0158.json",
+     "ref": "l1116",
+     "title": "LETTER MCXVI.",
+     "segments": 6
+    },
+    {
+     "file": "0159.json",
+     "ref": "l1117",
+     "title": "LETTER MCXVII.",
+     "segments": 6
+    },
+    {
+     "file": "0160.json",
+     "ref": "l1118",
+     "title": "LETTER MCXVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0161.json",
+     "ref": "l1119",
+     "title": "LETTER MCXIX.",
+     "segments": 8
+    },
+    {
+     "file": "0162.json",
+     "ref": "l1120",
+     "title": "LETTER MCXX.",
+     "segments": 6
+    },
+    {
+     "file": "0163.json",
+     "ref": "l1121",
+     "title": "LETTER MCXXI.",
+     "segments": 6
+    },
+    {
+     "file": "0164.json",
+     "ref": "l1122",
+     "title": "LETTER MCXXII.",
+     "segments": 6
+    },
+    {
+     "file": "0165.json",
+     "ref": "l1123",
+     "title": "LETTER MCXXIII.",
+     "segments": 6
+    },
+    {
+     "file": "0166.json",
+     "ref": "l1124",
+     "title": "LETTER MCXXIV.",
+     "segments": 5
+    },
+    {
+     "file": "0167.json",
+     "ref": "l1125",
+     "title": "LETTER MCXXV.",
+     "segments": 6
+    },
+    {
+     "file": "0168.json",
+     "ref": "l1126",
+     "title": "LETTER MCXXVI.",
+     "segments": 6
+    },
+    {
+     "file": "0169.json",
+     "ref": "l1127",
+     "title": "LETTER MCXXVII.",
+     "segments": 6
+    },
+    {
+     "file": "0170.json",
+     "ref": "l1128",
+     "title": "LETTER MCXXVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0171.json",
+     "ref": "l1129",
+     "title": "LETTER MCXXIX.",
+     "segments": 6
+    },
+    {
+     "file": "0172.json",
+     "ref": "l1130",
+     "title": "LETTER MCXXX.",
+     "segments": 6
+    },
+    {
+     "file": "0173.json",
+     "ref": "l1131",
+     "title": "LETTER MCXXXI.",
+     "segments": 6
+    },
+    {
+     "file": "0174.json",
+     "ref": "l1132",
+     "title": "LETTER MCXXXII.",
+     "segments": 6
+    },
+    {
+     "file": "0175.json",
+     "ref": "l1133",
+     "title": "LETTER MCXXXIII.",
+     "segments": 6
+    },
+    {
+     "file": "0176.json",
+     "ref": "l1134",
+     "title": "LETTER MCXXXIV.",
+     "segments": 6
+    },
+    {
+     "file": "0177.json",
+     "ref": "l1135",
+     "title": "LETTER MCXXXV.",
+     "segments": 6
+    },
+    {
+     "file": "0178.json",
+     "ref": "l1136",
+     "title": "LETTER MCXXXVI.",
+     "segments": 6
+    },
+    {
+     "file": "0179.json",
+     "ref": "l1137",
+     "title": "LETTER MCXXXVII.",
+     "segments": 6
+    },
+    {
+     "file": "0180.json",
+     "ref": "l1138",
+     "title": "LETTER MCXXXVIII.",
+     "segments": 10
+    },
+    {
+     "file": "0181.json",
+     "ref": "l1139",
+     "title": "LETTER MCXXXIX.",
+     "segments": 6
+    },
+    {
+     "file": "0182.json",
+     "ref": "l1140",
+     "title": "LETTER MCXL.",
+     "segments": 6
+    },
+    {
+     "file": "0183.json",
+     "ref": "l1141",
+     "title": "LETTER MCXLI.",
+     "segments": 6
+    },
+    {
+     "file": "0184.json",
+     "ref": "l1142",
+     "title": "LETTER MCXLII.",
+     "segments": 6
+    },
+    {
+     "file": "0185.json",
+     "ref": "l1143",
+     "title": "LETTER MCXLIII.",
+     "segments": 6
+    },
+    {
+     "file": "0186.json",
+     "ref": "l1144",
+     "title": "LETTER MCXLIV.",
+     "segments": 6
+    },
+    {
+     "file": "0187.json",
+     "ref": "l1145",
+     "title": "LETTER MCXLV.",
+     "segments": 7
+    },
+    {
+     "file": "0188.json",
+     "ref": "l1146",
+     "title": "LETTER MCXLVI.",
+     "segments": 6
+    },
+    {
+     "file": "0189.json",
+     "ref": "l1147",
+     "title": "LETTER MCXLVII.",
+     "segments": 6
+    },
+    {
+     "file": "0190.json",
+     "ref": "l1148",
+     "title": "LETTER MCXLVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0191.json",
+     "ref": "l1149",
+     "title": "LETTER MCXLIX.",
+     "segments": 6
+    },
+    {
+     "file": "0192.json",
+     "ref": "l1150",
+     "title": "LETTER MCL.",
+     "segments": 6
+    },
+    {
+     "file": "0193.json",
+     "ref": "l1151",
+     "title": "LETTER MCLI.",
+     "segments": 6
+    },
+    {
+     "file": "0194.json",
+     "ref": "l1152",
+     "title": "LETTER MCLII.",
+     "segments": 6
+    },
+    {
+     "file": "0195.json",
+     "ref": "l1153",
+     "title": "LETTER MCLIII.",
+     "segments": 6
+    },
+    {
+     "file": "0196.json",
+     "ref": "l1154",
+     "title": "LETTER MCLIV.",
+     "segments": 6
+    },
+    {
+     "file": "0197.json",
+     "ref": "l1155",
+     "title": "LETTER MCLV.",
+     "segments": 6
+    },
+    {
+     "file": "0198.json",
+     "ref": "l1156",
+     "title": "LETTER MCLVI.",
+     "segments": 6
+    },
+    {
+     "file": "0199.json",
+     "ref": "l1157",
+     "title": "LETTER MCLVII.",
+     "segments": 11
+    },
+    {
+     "file": "0200.json",
+     "ref": "l1158",
+     "title": "LETTER MCLVIII.",
+     "segments": 8
+    },
+    {
+     "file": "0201.json",
+     "ref": "l1159",
+     "title": "LETTER MCLIX.",
+     "segments": 6
+    },
+    {
+     "file": "0202.json",
+     "ref": "s205",
+     "title": "LETTER ♦MCLX.",
+     "segments": 7
+    },
+    {
+     "file": "0203.json",
+     "ref": "l1161",
+     "title": "LETTER MCLXI.",
+     "segments": 5
+    },
+    {
+     "file": "0204.json",
+     "ref": "l1162",
+     "title": "LETTER MCLXII.",
+     "segments": 6
+    },
+    {
+     "file": "0205.json",
+     "ref": "l1163",
+     "title": "LETTER MCLXIII.",
+     "segments": 6
+    },
+    {
+     "file": "0206.json",
+     "ref": "l1164",
+     "title": "LETTER MCLXIV.",
+     "segments": 6
+    },
+    {
+     "file": "0207.json",
+     "ref": "l1165",
+     "title": "LETTER MCLXV.",
+     "segments": 6
+    },
+    {
+     "file": "0208.json",
+     "ref": "l1166",
+     "title": "LETTER MCLXVI.",
+     "segments": 6
+    },
+    {
+     "file": "0209.json",
+     "ref": "l1167",
+     "title": "LETTER MCLXVII.",
+     "segments": 8
+    },
+    {
+     "file": "0210.json",
+     "ref": "l1168",
+     "title": "LETTER MCLXVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0211.json",
+     "ref": "l1169",
+     "title": "LETTER MCLXIX.",
+     "segments": 8
+    },
+    {
+     "file": "0212.json",
+     "ref": "l1170",
+     "title": "LETTER MCLXX.",
+     "segments": 6
+    },
+    {
+     "file": "0213.json",
+     "ref": "l1171",
+     "title": "LETTER MCLXXI.",
+     "segments": 6
+    },
+    {
+     "file": "0214.json",
+     "ref": "l1172",
+     "title": "LETTER MCLXXII.",
+     "segments": 7
+    },
+    {
+     "file": "0215.json",
+     "ref": "l1173",
+     "title": "LETTER MCLXXIII.",
+     "segments": 6
+    },
+    {
+     "file": "0216.json",
+     "ref": "l1174",
+     "title": "LETTER MCLXXIV.",
+     "segments": 11
+    },
+    {
+     "file": "0217.json",
+     "ref": "l1175",
+     "title": "LETTER MCLXXV.",
+     "segments": 6
+    },
+    {
+     "file": "0218.json",
+     "ref": "l1176",
+     "title": "LETTER MCLXXVI.",
+     "segments": 6
+    },
+    {
+     "file": "0219.json",
+     "ref": "l1177",
+     "title": "LETTER MCLXXVII.",
+     "segments": 6
+    },
+    {
+     "file": "0220.json",
+     "ref": "l1178",
+     "title": "LETTER MCLXXVIII.",
+     "segments": 8
+    },
+    {
+     "file": "0221.json",
+     "ref": "l1179",
+     "title": "LETTER MCLXXIX.",
+     "segments": 6
+    },
+    {
+     "file": "0222.json",
+     "ref": "l1180",
+     "title": "LETTER MCLXXX.",
+     "segments": 6
+    },
+    {
+     "file": "0223.json",
+     "ref": "l1181",
+     "title": "LETTER MCLXXXI.",
+     "segments": 7
+    },
+    {
+     "file": "0224.json",
+     "ref": "l1182",
+     "title": "LETTER MCLXXXII.",
+     "segments": 6
+    },
+    {
+     "file": "0225.json",
+     "ref": "l1183",
+     "title": "LETTER MCLXXXIII.",
+     "segments": 7
+    },
+    {
+     "file": "0226.json",
+     "ref": "l1184",
+     "title": "LETTER MCLXXXIV.",
+     "segments": 6
+    },
+    {
+     "file": "0227.json",
+     "ref": "l1185",
+     "title": "LETTER MCLXXXV.",
+     "segments": 6
+    },
+    {
+     "file": "0228.json",
+     "ref": "l1186",
+     "title": "LETTER MCLXXXVI.",
+     "segments": 6
+    },
+    {
+     "file": "0229.json",
+     "ref": "l1187",
+     "title": "LETTER MCLXXXVII.",
+     "segments": 6
+    },
+    {
+     "file": "0230.json",
+     "ref": "l1188",
+     "title": "LETTER MCLXXXVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0231.json",
+     "ref": "l1189",
+     "title": "LETTER MCLXXXIX.",
+     "segments": 6
+    },
+    {
+     "file": "0232.json",
+     "ref": "l1190",
+     "title": "LETTER MCXC.",
+     "segments": 6
+    },
+    {
+     "file": "0233.json",
+     "ref": "l1191",
+     "title": "LETTER MCXCI.",
+     "segments": 6
+    },
+    {
+     "file": "0234.json",
+     "ref": "l1192",
+     "title": "LETTER MCXCII.",
+     "segments": 6
+    },
+    {
+     "file": "0235.json",
+     "ref": "l1193",
+     "title": "LETTER MCXCIII.",
+     "segments": 6
+    },
+    {
+     "file": "0236.json",
+     "ref": "l1194",
+     "title": "LETTER MCXCIV.",
+     "segments": 8
+    },
+    {
+     "file": "0237.json",
+     "ref": "l1195",
+     "title": "LETTER MCXCV.",
+     "segments": 6
+    },
+    {
+     "file": "0238.json",
+     "ref": "l1196",
+     "title": "LETTER MCXCVI.",
+     "segments": 6
+    },
+    {
+     "file": "0239.json",
+     "ref": "l1197",
+     "title": "LETTER MCXCVII.",
+     "segments": 6
+    },
+    {
+     "file": "0240.json",
+     "ref": "l1198",
+     "title": "LETTER MCXCVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0241.json",
+     "ref": "l1199",
+     "title": "LETTER MCXCIX.",
+     "segments": 6
+    },
+    {
+     "file": "0242.json",
+     "ref": "l1200",
+     "title": "LETTER MCC.",
+     "segments": 6
+    },
+    {
+     "file": "0243.json",
+     "ref": "l1201",
+     "title": "LETTER MCCI.",
+     "segments": 8
+    },
+    {
+     "file": "0244.json",
+     "ref": "l1202",
+     "title": "LETTER MCCII.",
+     "segments": 5
+    },
+    {
+     "file": "0245.json",
+     "ref": "l1203",
+     "title": "LETTER MCCIII.",
+     "segments": 6
+    },
+    {
+     "file": "0246.json",
+     "ref": "l1204",
+     "title": "LETTER MCCIV.",
+     "segments": 6
+    },
+    {
+     "file": "0247.json",
+     "ref": "l1205",
+     "title": "LETTER MCCV.",
+     "segments": 6
+    },
+    {
+     "file": "0248.json",
+     "ref": "l1206",
+     "title": "LETTER MCCVI.",
+     "segments": 6
+    },
+    {
+     "file": "0249.json",
+     "ref": "l1207",
+     "title": "LETTER MCCVII.",
+     "segments": 6
+    },
+    {
+     "file": "0250.json",
+     "ref": "l1208",
+     "title": "LETTER MCCVIII.",
+     "segments": 7
+    },
+    {
+     "file": "0251.json",
+     "ref": "l1209",
+     "title": "LETTER MCCIX.",
+     "segments": 6
+    },
+    {
+     "file": "0252.json",
+     "ref": "l1210",
+     "title": "LETTER MCCX.",
+     "segments": 6
+    },
+    {
+     "file": "0253.json",
+     "ref": "l1211",
+     "title": "LETTER MCCXI.",
+     "segments": 6
+    },
+    {
+     "file": "0254.json",
+     "ref": "l1212",
+     "title": "LETTER MCCXII.",
+     "segments": 6
+    },
+    {
+     "file": "0255.json",
+     "ref": "l1213",
+     "title": "LETTER MCCXIII.",
+     "segments": 6
+    },
+    {
+     "file": "0256.json",
+     "ref": "l1214",
+     "title": "LETTER MCCXIV.",
+     "segments": 6
+    },
+    {
+     "file": "0257.json",
+     "ref": "l1215",
+     "title": "LETTER MCCXV.",
+     "segments": 5
+    },
+    {
+     "file": "0258.json",
+     "ref": "l1216",
+     "title": "LETTER MCCXVI.",
+     "segments": 6
+    },
+    {
+     "file": "0259.json",
+     "ref": "l1217",
+     "title": "LETTER MCCXVII.",
+     "segments": 7
+    },
+    {
+     "file": "0260.json",
+     "ref": "l1218",
+     "title": "LETTER MCCXVIII.",
+     "segments": 5
+    },
+    {
+     "file": "0261.json",
+     "ref": "l1219",
+     "title": "LETTER MCCXIX.",
+     "segments": 6
+    },
+    {
+     "file": "0262.json",
+     "ref": "l1220",
+     "title": "LETTER MCCXX.",
+     "segments": 6
+    },
+    {
+     "file": "0263.json",
+     "ref": "l1221",
+     "title": "LETTER MCCXXI.",
+     "segments": 6
+    },
+    {
+     "file": "0264.json",
+     "ref": "l1222",
+     "title": "LETTER MCCXXII.",
+     "segments": 6
+    },
+    {
+     "file": "0265.json",
+     "ref": "l1223",
+     "title": "LETTER MCCXXIII.",
+     "segments": 6
+    },
+    {
+     "file": "0266.json",
+     "ref": "l1224",
+     "title": "LETTER MCCXXIV.",
+     "segments": 6
+    },
+    {
+     "file": "0267.json",
+     "ref": "l1225",
+     "title": "LETTER MCCXXV.",
+     "segments": 7
+    },
+    {
+     "file": "0268.json",
+     "ref": "l1226",
+     "title": "LETTER MCCXXVI.",
+     "segments": 6
+    },
+    {
+     "file": "0269.json",
+     "ref": "l1227",
+     "title": "LETTER MCCXXVII.",
+     "segments": 6
+    },
+    {
+     "file": "0270.json",
+     "ref": "l1228",
+     "title": "LETTER MCCXXVIII.",
+     "segments": 8
+    },
+    {
+     "file": "0271.json",
+     "ref": "l1229",
+     "title": "LETTER MCCXXIX.",
+     "segments": 6
+    },
+    {
+     "file": "0272.json",
+     "ref": "l1230",
+     "title": "LETTER MCCXXX.",
+     "segments": 6
+    },
+    {
+     "file": "0273.json",
+     "ref": "l1231",
+     "title": "LETTER MCCXXXI.",
+     "segments": 5
+    },
+    {
+     "file": "0274.json",
+     "ref": "l1232",
+     "title": "LETTER MCCXXXII.",
+     "segments": 6
+    },
+    {
+     "file": "0275.json",
+     "ref": "l1233",
+     "title": "LETTER MCCXXXIII.",
+     "segments": 10
+    },
+    {
+     "file": "0276.json",
+     "ref": "l1234",
+     "title": "LETTER MCCXXXIV.",
+     "segments": 6
+    },
+    {
+     "file": "0277.json",
+     "ref": "l1235",
+     "title": "LETTER MCCXXXV.",
+     "segments": 6
+    },
+    {
+     "file": "0278.json",
+     "ref": "l1236",
+     "title": "LETTER MCCXXXVI.",
+     "segments": 6
+    },
+    {
+     "file": "0279.json",
+     "ref": "l1237",
+     "title": "LETTER MCCXXXVII.",
+     "segments": 6
+    },
+    {
+     "file": "0280.json",
+     "ref": "l1238",
+     "title": "LETTER MCCXXXVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0281.json",
+     "ref": "l1239",
+     "title": "LETTER MCCXXXIX.",
+     "segments": 6
+    },
+    {
+     "file": "0282.json",
+     "ref": "l1240",
+     "title": "LETTER MCCXL.",
+     "segments": 6
+    },
+    {
+     "file": "0283.json",
+     "ref": "l1241",
+     "title": "LETTER MCCXLI.",
+     "segments": 6
+    },
+    {
+     "file": "0284.json",
+     "ref": "l1242",
+     "title": "LETTER MCCXLII.",
+     "segments": 6
+    },
+    {
+     "file": "0285.json",
+     "ref": "l1243",
+     "title": "LETTER MCCXLIII.",
+     "segments": 6
+    },
+    {
+     "file": "0286.json",
+     "ref": "l1244",
+     "title": "LETTER MCCXLIV.",
+     "segments": 6
+    },
+    {
+     "file": "0287.json",
+     "ref": "l1245",
+     "title": "LETTER MCCXLV.",
+     "segments": 9
+    },
+    {
+     "file": "0288.json",
+     "ref": "l1246",
+     "title": "LETTER MCCXLVI.",
+     "segments": 6
+    },
+    {
+     "file": "0289.json",
+     "ref": "l1247",
+     "title": "LETTER MCCXLVII.",
+     "segments": 6
+    },
+    {
+     "file": "0290.json",
+     "ref": "l1248",
+     "title": "LETTER MCCXLVIII.",
+     "segments": 5
+    },
+    {
+     "file": "0291.json",
+     "ref": "l1249",
+     "title": "LETTER MCCXLIX.",
+     "segments": 7
+    },
+    {
+     "file": "0292.json",
+     "ref": "l1250",
+     "title": "LETTER MCCL.",
+     "segments": 6
+    },
+    {
+     "file": "0293.json",
+     "ref": "l1251",
+     "title": "LETTER MCCLI.",
+     "segments": 9
+    },
+    {
+     "file": "0294.json",
+     "ref": "l1252",
+     "title": "LETTER MCCLII.",
+     "segments": 6
+    },
+    {
+     "file": "0295.json",
+     "ref": "l1253",
+     "title": "LETTER MCCLIII.",
+     "segments": 6
+    },
+    {
+     "file": "0296.json",
+     "ref": "l1254",
+     "title": "LETTER MCCLIV.",
+     "segments": 6
+    },
+    {
+     "file": "0297.json",
+     "ref": "l1255",
+     "title": "LETTER MCCLV.",
+     "segments": 6
+    },
+    {
+     "file": "0298.json",
+     "ref": "l1256",
+     "title": "LETTER MCCLVI.",
+     "segments": 6
+    },
+    {
+     "file": "0299.json",
+     "ref": "l1257",
+     "title": "LETTER MCCLVII.",
+     "segments": 5
+    },
+    {
+     "file": "0300.json",
+     "ref": "l1258",
+     "title": "LETTER MCCLVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0301.json",
+     "ref": "l1259",
+     "title": "LETTER MCCLIX.",
+     "segments": 6
+    },
+    {
+     "file": "0302.json",
+     "ref": "l1260",
+     "title": "LETTER MCCLX.",
+     "segments": 5
+    },
+    {
+     "file": "0303.json",
+     "ref": "l1261",
+     "title": "LETTER MCCLXI.",
+     "segments": 6
+    },
+    {
+     "file": "0304.json",
+     "ref": "l1262",
+     "title": "LETTER MCCLXII.",
+     "segments": 6
+    },
+    {
+     "file": "0305.json",
+     "ref": "l1263",
+     "title": "LETTER MCCLXIII.",
+     "segments": 6
+    },
+    {
+     "file": "0306.json",
+     "ref": "l1264",
+     "title": "LETTER MCCLXIV.",
+     "segments": 6
+    },
+    {
+     "file": "0307.json",
+     "ref": "s310",
+     "title": "♦LETTER MCCLXV.",
+     "segments": 9
+    },
+    {
+     "file": "0308.json",
+     "ref": "l1266",
+     "title": "LETTER MCCLXVI.",
+     "segments": 6
+    },
+    {
+     "file": "0309.json",
+     "ref": "l1267",
+     "title": "LETTER MCCLXVII.",
+     "segments": 6
+    },
+    {
+     "file": "0310.json",
+     "ref": "l1268",
+     "title": "LETTER MCCLXVIII.",
+     "segments": 9
+    },
+    {
+     "file": "0311.json",
+     "ref": "l1269",
+     "title": "LETTER MCCLXIX.",
+     "segments": 6
+    },
+    {
+     "file": "0312.json",
+     "ref": "l1270",
+     "title": "LETTER MCCLXX.",
+     "segments": 6
+    },
+    {
+     "file": "0313.json",
+     "ref": "l1271",
+     "title": "LETTER MCCLXXI.",
+     "segments": 6
+    },
+    {
+     "file": "0314.json",
+     "ref": "l1272",
+     "title": "LETTER MCCLXXII.",
+     "segments": 5
+    },
+    {
+     "file": "0315.json",
+     "ref": "l1273",
+     "title": "LETTER MCCLXXIII.",
+     "segments": 5
+    },
+    {
+     "file": "0316.json",
+     "ref": "l1274",
+     "title": "LETTER MCCLXXIV.",
+     "segments": 5
+    },
+    {
+     "file": "0317.json",
+     "ref": "l1275",
+     "title": "LETTER MCCLXXV.",
+     "segments": 6
+    },
+    {
+     "file": "0318.json",
+     "ref": "l1276",
+     "title": "LETTER MCCLXXVI.",
+     "segments": 5
+    },
+    {
+     "file": "0319.json",
+     "ref": "l1277",
+     "title": "LETTER MCCLXXVII.",
+     "segments": 6
+    },
+    {
+     "file": "0320.json",
+     "ref": "l1278",
+     "title": "LETTER MCCLXXVIII.",
+     "segments": 13
+    },
+    {
+     "file": "0321.json",
+     "ref": "l1279",
+     "title": "LETTER MCCLXXIX.",
+     "segments": 10
+    },
+    {
+     "file": "0322.json",
+     "ref": "l1280",
+     "title": "LETTER MCCLXXX.",
+     "segments": 10
+    },
+    {
+     "file": "0323.json",
+     "ref": "l1281",
+     "title": "LETTER MCCLXXXI.",
+     "segments": 8
+    },
+    {
+     "file": "0324.json",
+     "ref": "l1282",
+     "title": "LETTER MCCLXXXII.",
+     "segments": 8
+    },
+    {
+     "file": "0325.json",
+     "ref": "l1283",
+     "title": "LETTER MCCLXXXIII.",
+     "segments": 7
+    },
+    {
+     "file": "0326.json",
+     "ref": "l1284",
+     "title": "LETTER MCCLXXXIV.",
+     "segments": 6
+    },
+    {
+     "file": "0327.json",
+     "ref": "l1285",
+     "title": "LETTER MCCLXXXV.",
+     "segments": 6
+    },
+    {
+     "file": "0328.json",
+     "ref": "l1286",
+     "title": "LETTER MCCLXXXVI.",
+     "segments": 6
+    },
+    {
+     "file": "0329.json",
+     "ref": "l1287",
+     "title": "LETTER MCCLXXXVII.",
+     "segments": 5
+    },
+    {
+     "file": "0330.json",
+     "ref": "l1288",
+     "title": "LETTER MCCLXXXVIII.",
+     "segments": 8
+    },
+    {
+     "file": "0331.json",
+     "ref": "l1289",
+     "title": "LETTER MCCLXXXIX.",
+     "segments": 6
+    },
+    {
+     "file": "0332.json",
+     "ref": "l1290",
+     "title": "LETTER MCCXC.",
+     "segments": 10
+    },
+    {
+     "file": "0333.json",
+     "ref": "l1291",
+     "title": "LETTER MCCXCI.",
+     "segments": 6
+    },
+    {
+     "file": "0334.json",
+     "ref": "l1292",
+     "title": "LETTER MCCXCII.",
+     "segments": 6
+    },
+    {
+     "file": "0335.json",
+     "ref": "l1293",
+     "title": "LETTER MCCXCIII.",
+     "segments": 8
+    },
+    {
+     "file": "0336.json",
+     "ref": "l1294",
+     "title": "LETTER MCCXCIV.",
+     "segments": 6
+    },
+    {
+     "file": "0337.json",
+     "ref": "l1295",
+     "title": "LETTER MCCXCV.",
+     "segments": 6
+    },
+    {
+     "file": "0338.json",
+     "ref": "l1296",
+     "title": "LETTER MCCXCVI.",
+     "segments": 6
+    },
+    {
+     "file": "0339.json",
+     "ref": "l1297",
+     "title": "LETTER MCCXCVII.",
+     "segments": 6
+    },
+    {
+     "file": "0340.json",
+     "ref": "l1298",
+     "title": "LETTER MCCXCVIII.",
+     "segments": 9
+    },
+    {
+     "file": "0341.json",
+     "ref": "l1299",
+     "title": "LETTER MCCXCIX.",
+     "segments": 6
+    },
+    {
+     "file": "0342.json",
+     "ref": "l1300",
+     "title": "LETTER MCCC.",
+     "segments": 6
+    },
+    {
+     "file": "0343.json",
+     "ref": "l1301",
+     "title": "LETTER MCCCI.",
+     "segments": 6
+    },
+    {
+     "file": "0344.json",
+     "ref": "l1302",
+     "title": "LETTER MCCCII.",
+     "segments": 7
+    },
+    {
+     "file": "0345.json",
+     "ref": "l1303",
+     "title": "LETTER MCCCIII.",
+     "segments": 6
+    },
+    {
+     "file": "0346.json",
+     "ref": "l1304",
+     "title": "LETTER MCCCIV.",
+     "segments": 7
+    },
+    {
+     "file": "0347.json",
+     "ref": "l1305",
+     "title": "LETTER MCCCV.",
+     "segments": 6
+    },
+    {
+     "file": "0348.json",
+     "ref": "l1306",
+     "title": "LETTER MCCCVI.",
+     "segments": 6
+    },
+    {
+     "file": "0349.json",
+     "ref": "l1307",
+     "title": "LETTER MCCCVII.",
+     "segments": 8
+    },
+    {
+     "file": "0350.json",
+     "ref": "l1308",
+     "title": "LETTER MCCCVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0351.json",
+     "ref": "l1309",
+     "title": "LETTER MCCCIX.",
+     "segments": 6
+    },
+    {
+     "file": "0352.json",
+     "ref": "l1310",
+     "title": "LETTER MCCCX.",
+     "segments": 6
+    },
+    {
+     "file": "0353.json",
+     "ref": "l1311",
+     "title": "LETTER MCCCXI.",
+     "segments": 10
+    },
+    {
+     "file": "0354.json",
+     "ref": "l1312",
+     "title": "LETTER MCCCXII.",
+     "segments": 6
+    },
+    {
+     "file": "0355.json",
+     "ref": "l1313",
+     "title": "LETTER MCCCXIII.",
+     "segments": 8
+    },
+    {
+     "file": "0356.json",
+     "ref": "l1314",
+     "title": "LETTER MCCCXIV.",
+     "segments": 6
+    },
+    {
+     "file": "0357.json",
+     "ref": "l1315",
+     "title": "LETTER MCCCXV.",
+     "segments": 6
+    },
+    {
+     "file": "0358.json",
+     "ref": "l1316",
+     "title": "LETTER MCCCXVI.",
+     "segments": 8
+    },
+    {
+     "file": "0359.json",
+     "ref": "l1317",
+     "title": "LETTER MCCCXVII.",
+     "segments": 10
+    },
+    {
+     "file": "0360.json",
+     "ref": "l1318",
+     "title": "LETTER MCCCXVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0361.json",
+     "ref": "l1319",
+     "title": "LETTER MCCCXIX.",
+     "segments": 6
+    },
+    {
+     "file": "0362.json",
+     "ref": "l1320",
+     "title": "LETTER MCCCXX.",
+     "segments": 10
+    },
+    {
+     "file": "0363.json",
+     "ref": "l1321",
+     "title": "LETTER MCCCXXI.",
+     "segments": 6
+    },
+    {
+     "file": "0364.json",
+     "ref": "l1322",
+     "title": "LETTER MCCCXXII.",
+     "segments": 8
+    },
+    {
+     "file": "0365.json",
+     "ref": "l1323",
+     "title": "LETTER MCCCXXIII.",
+     "segments": 6
+    },
+    {
+     "file": "0366.json",
+     "ref": "l1324",
+     "title": "LETTER MCCCXXIV.",
+     "segments": 6
+    },
+    {
+     "file": "0367.json",
+     "ref": "l1325",
+     "title": "LETTER MCCCXXV.",
+     "segments": 8
+    },
+    {
+     "file": "0368.json",
+     "ref": "l1326",
+     "title": "LETTER MCCCXXVI.",
+     "segments": 6
+    },
+    {
+     "file": "0369.json",
+     "ref": "l1327",
+     "title": "LETTER MCCCXXVII.",
+     "segments": 6
+    },
+    {
+     "file": "0370.json",
+     "ref": "l1328",
+     "title": "LETTER MCCCXXVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0371.json",
+     "ref": "l1329",
+     "title": "LETTER MCCCXXIX.",
+     "segments": 6
+    },
+    {
+     "file": "0372.json",
+     "ref": "l1330",
+     "title": "LETTER MCCCXXX.",
+     "segments": 6
+    },
+    {
+     "file": "0373.json",
+     "ref": "l1331",
+     "title": "LETTER MCCCXXXI.",
+     "segments": 6
+    },
+    {
+     "file": "0374.json",
+     "ref": "l1332",
+     "title": "LETTER MCCCXXXII.",
+     "segments": 6
+    },
+    {
+     "file": "0375.json",
+     "ref": "l1333",
+     "title": "LETTER MCCCXXXIII.",
+     "segments": 10
+    },
+    {
+     "file": "0376.json",
+     "ref": "l1334",
+     "title": "LETTER MCCCXXXIV.",
+     "segments": 6
+    },
+    {
+     "file": "0377.json",
+     "ref": "l1335",
+     "title": "LETTER MCCCXXXV.",
+     "segments": 8
+    },
+    {
+     "file": "0378.json",
+     "ref": "l1336",
+     "title": "LETTER MCCCXXXVI.",
+     "segments": 8
+    },
+    {
+     "file": "0379.json",
+     "ref": "l1337",
+     "title": "LETTER MCCCXXXVII.",
+     "segments": 6
+    },
+    {
+     "file": "0380.json",
+     "ref": "l1338",
+     "title": "LETTER MCCCXXXVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0381.json",
+     "ref": "l1339",
+     "title": "LETTER MCCCXXXIX.",
+     "segments": 8
+    },
+    {
+     "file": "0382.json",
+     "ref": "l1340",
+     "title": "LETTER MCCCXL.",
+     "segments": 6
+    },
+    {
+     "file": "0383.json",
+     "ref": "l1341",
+     "title": "LETTER MCCCXLI.",
+     "segments": 10
+    },
+    {
+     "file": "0384.json",
+     "ref": "l1342",
+     "title": "LETTER MCCCXLII.",
+     "segments": 5
+    },
+    {
+     "file": "0385.json",
+     "ref": "l1343",
+     "title": "LETTER MCCCXLIII.",
+     "segments": 5
+    },
+    {
+     "file": "0386.json",
+     "ref": "l1344",
+     "title": "LETTER MCCCXLIV.",
+     "segments": 5
+    },
+    {
+     "file": "0387.json",
+     "ref": "l1345",
+     "title": "LETTER MCCCXLV.",
+     "segments": 6
+    },
+    {
+     "file": "0388.json",
+     "ref": "l1346",
+     "title": "LETTER MCCCXLVI.",
+     "segments": 8
+    },
+    {
+     "file": "0389.json",
+     "ref": "l1347",
+     "title": "LETTER MCCCXLVII.",
+     "segments": 6
+    },
+    {
+     "file": "0390.json",
+     "ref": "l1348",
+     "title": "LETTER MCCCXLVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0391.json",
+     "ref": "l1349",
+     "title": "LETTER MCCCXLIX.",
+     "segments": 6
+    },
+    {
+     "file": "0392.json",
+     "ref": "l1350",
+     "title": "LETTER MCCCL.",
+     "segments": 6
+    },
+    {
+     "file": "0393.json",
+     "ref": "l1351",
+     "title": "LETTER MCCCLI.",
+     "segments": 8
+    },
+    {
+     "file": "0394.json",
+     "ref": "l1352",
+     "title": "LETTER MCCCLII.",
+     "segments": 6
+    },
+    {
+     "file": "0395.json",
+     "ref": "l1353",
+     "title": "LETTER MCCCLIII.",
+     "segments": 6
+    },
+    {
+     "file": "0396.json",
+     "ref": "l1354",
+     "title": "LETTER MCCCLIV.",
+     "segments": 9
+    },
+    {
+     "file": "0397.json",
+     "ref": "l1355",
+     "title": "LETTER MCCCLV.",
+     "segments": 8
+    },
+    {
+     "file": "0398.json",
+     "ref": "l1356",
+     "title": "LETTER MCCCLVI.",
+     "segments": 6
+    },
+    {
+     "file": "0399.json",
+     "ref": "l1357",
+     "title": "LETTER MCCCLVII.",
+     "segments": 6
+    },
+    {
+     "file": "0400.json",
+     "ref": "l1358",
+     "title": "LETTER MCCCLVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0401.json",
+     "ref": "l1359",
+     "title": "LETTER MCCCLIX.",
+     "segments": 6
+    },
+    {
+     "file": "0402.json",
+     "ref": "l1360",
+     "title": "LETTER MCCCLX.",
+     "segments": 5
+    },
+    {
+     "file": "0403.json",
+     "ref": "l1361",
+     "title": "LETTER MCCCLXI.",
+     "segments": 7
+    },
+    {
+     "file": "0404.json",
+     "ref": "l1362",
+     "title": "LETTER MCCCLXII.",
+     "segments": 6
+    },
+    {
+     "file": "0405.json",
+     "ref": "l1363",
+     "title": "LETTER MCCCLXIII.",
+     "segments": 6
+    },
+    {
+     "file": "0406.json",
+     "ref": "l1364",
+     "title": "LETTER MCCCLXIV.",
+     "segments": 6
+    },
+    {
+     "file": "0407.json",
+     "ref": "l1365",
+     "title": "LETTER MCCCLXV.",
+     "segments": 6
+    },
+    {
+     "file": "0408.json",
+     "ref": "l1366",
+     "title": "LETTER MCCCLXVI.",
+     "segments": 6
+    },
+    {
+     "file": "0409.json",
+     "ref": "l1367",
+     "title": "LETTER MCCCLXVII.",
+     "segments": 8
+    },
+    {
+     "file": "0410.json",
+     "ref": "l1368",
+     "title": "LETTER MCCCLXVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0411.json",
+     "ref": "l1369",
+     "title": "LETTER MCCCLXIX.",
+     "segments": 8
+    },
+    {
+     "file": "0412.json",
+     "ref": "l1370",
+     "title": "LETTER MCCCLXX.",
+     "segments": 6
+    },
+    {
+     "file": "0413.json",
+     "ref": "l1371",
+     "title": "LETTER MCCCLXXI.",
+     "segments": 6
+    },
+    {
+     "file": "0414.json",
+     "ref": "l1372",
+     "title": "LETTER MCCCLXXII.",
+     "segments": 6
+    },
+    {
+     "file": "0415.json",
+     "ref": "l1373",
+     "title": "LETTER MCCCLXXIII.",
+     "segments": 6
+    },
+    {
+     "file": "0416.json",
+     "ref": "l1374",
+     "title": "LETTER MCCCLXXIV.",
+     "segments": 6
+    },
+    {
+     "file": "0417.json",
+     "ref": "l1375",
+     "title": "LETTER MCCCLXXV.",
+     "segments": 7
+    },
+    {
+     "file": "0418.json",
+     "ref": "l1376",
+     "title": "LETTER MCCCLXXVI.",
+     "segments": 6
+    },
+    {
+     "file": "0419.json",
+     "ref": "l1377",
+     "title": "LETTER MCCCLXXVII.",
+     "segments": 6
+    },
+    {
+     "file": "0420.json",
+     "ref": "l1378",
+     "title": "LETTER MCCCLXXVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0421.json",
+     "ref": "l1379",
+     "title": "LETTER MCCCLXXIX.",
+     "segments": 6
+    },
+    {
+     "file": "0422.json",
+     "ref": "l1380",
+     "title": "LETTER MCCCLXXX.",
+     "segments": 11
+    },
+    {
+     "file": "0423.json",
+     "ref": "l1381",
+     "title": "LETTER MCCCLXXXI.",
+     "segments": 5
+    },
+    {
+     "file": "0424.json",
+     "ref": "l1382",
+     "title": "LETTER MCCCLXXXII.",
+     "segments": 6
+    },
+    {
+     "file": "0425.json",
+     "ref": "l1383",
+     "title": "LETTER MCCCLXXXIII.",
+     "segments": 6
+    },
+    {
+     "file": "0426.json",
+     "ref": "l1384",
+     "title": "LETTER MCCCLXXXIV.",
+     "segments": 8
+    },
+    {
+     "file": "0427.json",
+     "ref": "l1385",
+     "title": "LETTER MCCCLXXXV.",
+     "segments": 6
+    },
+    {
+     "file": "0428.json",
+     "ref": "l1386",
+     "title": "LETTER MCCCLXXXVI.",
+     "segments": 6
+    },
+    {
+     "file": "0429.json",
+     "ref": "l1387",
+     "title": "LETTER MCCCLXXXVII.",
+     "segments": 6
+    },
+    {
+     "file": "0430.json",
+     "ref": "l1388",
+     "title": "LETTER MCCCLXXXVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0431.json",
+     "ref": "l1389",
+     "title": "LETTER MCCCLXXXIX.",
+     "segments": 12
+    },
+    {
+     "file": "0432.json",
+     "ref": "l1390",
+     "title": "LETTER MCCCXC.",
+     "segments": 6
+    },
+    {
+     "file": "0433.json",
+     "ref": "l1391",
+     "title": "LETTER MCCCXCI.",
+     "segments": 7
+    },
+    {
+     "file": "0434.json",
+     "ref": "l1392",
+     "title": "LETTER MCCCXCII.",
+     "segments": 6
+    },
+    {
+     "file": "0435.json",
+     "ref": "l1393",
+     "title": "LETTER MCCCXCIII.",
+     "segments": 11
+    },
+    {
+     "file": "0436.json",
+     "ref": "l1394",
+     "title": "LETTER MCCCXCIV.",
+     "segments": 8
+    },
+    {
+     "file": "0437.json",
+     "ref": "l1395",
+     "title": "LETTER MCCCXCV.",
+     "segments": 6
+    },
+    {
+     "file": "0438.json",
+     "ref": "l1396",
+     "title": "LETTER MCCCXCVI.",
+     "segments": 6
+    },
+    {
+     "file": "0439.json",
+     "ref": "l1397",
+     "title": "LETTER MCCCXCVII.",
+     "segments": 6
+    },
+    {
+     "file": "0440.json",
+     "ref": "l1398",
+     "title": "LETTER MCCCXCVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0441.json",
+     "ref": "l1399",
+     "title": "LETTER MCCCXCIX.",
+     "segments": 8
+    },
+    {
+     "file": "0442.json",
+     "ref": "l1400",
+     "title": "LETTER MCCCC.",
+     "segments": 5
+    },
+    {
+     "file": "0443.json",
+     "ref": "l1401",
+     "title": "LETTER MCCCCI.",
+     "segments": 5
+    },
+    {
+     "file": "0444.json",
+     "ref": "l1402",
+     "title": "LETTER MCCCCII.",
+     "segments": 6
+    },
+    {
+     "file": "0445.json",
+     "ref": "l1403",
+     "title": "LETTER MCCCCIII.",
+     "segments": 5
+    },
+    {
+     "file": "0446.json",
+     "ref": "l1404",
+     "title": "LETTER MCCCCIV.",
+     "segments": 8
+    },
+    {
+     "file": "0447.json",
+     "ref": "l1405",
+     "title": "LETTER MCCCCV.",
+     "segments": 7
+    },
+    {
+     "file": "0448.json",
+     "ref": "l1406",
+     "title": "LETTER MCCCCVI.",
+     "segments": 8
+    },
+    {
+     "file": "0449.json",
+     "ref": "l1407",
+     "title": "LETTER MCCCCVII.",
+     "segments": 6
+    },
+    {
+     "file": "0450.json",
+     "ref": "l1408",
+     "title": "LETTER MCCCCVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0451.json",
+     "ref": "l1409",
+     "title": "LETTER MCCCCIX.",
+     "segments": 8
+    },
+    {
+     "file": "0452.json",
+     "ref": "l1410",
+     "title": "LETTER MCCCCX.",
+     "segments": 6
+    },
+    {
+     "file": "0453.json",
+     "ref": "l1411",
+     "title": "LETTER MCCCCXI.",
+     "segments": 6
+    },
+    {
+     "file": "0454.json",
+     "ref": "l1412",
+     "title": "LETTER MCCCCXII.",
+     "segments": 6
+    },
+    {
+     "file": "0455.json",
+     "ref": "l1413",
+     "title": "LETTER MCCCCXIII.",
+     "segments": 7
+    },
+    {
+     "file": "0456.json",
+     "ref": "l1414",
+     "title": "LETTER MCCCCXIV.",
+     "segments": 5
+    },
+    {
+     "file": "0457.json",
+     "ref": "l1415",
+     "title": "LETTER MCCCCXV.",
+     "segments": 8
+    },
+    {
+     "file": "0458.json",
+     "ref": "l1416",
+     "title": "LETTER MCCCCXVI.",
+     "segments": 6
+    },
+    {
+     "file": "0459.json",
+     "ref": "l1417",
+     "title": "LETTER MCCCCXVII.",
+     "segments": 8
+    },
+    {
+     "file": "0460.json",
+     "ref": "l1418",
+     "title": "LETTER MCCCCXVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0461.json",
+     "ref": "l1419",
+     "title": "LETTER MCCCCXIX.",
+     "segments": 7
+    },
+    {
+     "file": "0462.json",
+     "ref": "l1420",
+     "title": "LETTER MCCCCXX.",
+     "segments": 6
+    },
+    {
+     "file": "0463.json",
+     "ref": "l1421",
+     "title": "LETTER MCCCCXXI.",
+     "segments": 6
+    },
+    {
+     "file": "0464.json",
+     "ref": "l1422",
+     "title": "LETTER MCCCCXXII.",
+     "segments": 6
+    },
+    {
+     "file": "0465.json",
+     "ref": "l1423",
+     "title": "LETTER MCCCCXXIII.",
+     "segments": 6
+    },
+    {
+     "file": "0466.json",
+     "ref": "l1424",
+     "title": "LETTER MCCCCXXIV.",
+     "segments": 6
+    },
+    {
+     "file": "0467.json",
+     "ref": "l1425",
+     "title": "LETTER MCCCCXXV.",
+     "segments": 6
+    },
+    {
+     "file": "0468.json",
+     "ref": "l1426",
+     "title": "LETTER MCCCCXXVI.",
+     "segments": 6
+    },
+    {
+     "file": "0469.json",
+     "ref": "l1427",
+     "title": "LETTER MCCCCXXVII.",
+     "segments": 5
+    },
+    {
+     "file": "0470.json",
+     "ref": "l1428",
+     "title": "LETTER MCCCCXXVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0471.json",
+     "ref": "l1429",
+     "title": "LETTER MCCCCXXIX.",
+     "segments": 7
+    },
+    {
+     "file": "0472.json",
+     "ref": "l1430",
+     "title": "LETTER MCCCCXXX.",
+     "segments": 8
+    },
+    {
+     "file": "0473.json",
+     "ref": "l1431",
+     "title": "LETTER MCCCCXXXI.",
+     "segments": 9
+    },
+    {
+     "file": "0474.json",
+     "ref": "l1432",
+     "title": "LETTER MCCCCXXXII.",
+     "segments": 6
+    },
+    {
+     "file": "0475.json",
+     "ref": "l1433",
+     "title": "LETTER MCCCCXXXIII.",
+     "segments": 11
+    },
+    {
+     "file": "0476.json",
+     "ref": "l1434",
+     "title": "LETTER MCCCCXXXIV.",
+     "segments": 8
+    },
+    {
+     "file": "0477.json",
+     "ref": "l1435",
+     "title": "LETTER MCCCCXXXV.",
+     "segments": 8
+    },
+    {
+     "file": "0478.json",
+     "ref": "l1436",
+     "title": "LETTER MCCCCXXXVI.",
+     "segments": 8
+    },
+    {
+     "file": "0479.json",
+     "ref": "l1437",
+     "title": "LETTER MCCCCXXXVII.",
+     "segments": 6
+    },
+    {
+     "file": "0480.json",
+     "ref": "l1438",
+     "title": "LETTER MCCCCXXXVIII.",
+     "segments": 8
+    },
+    {
+     "file": "0481.json",
+     "ref": "l1439",
+     "title": "LETTER MCCCCXXXIX.",
+     "segments": 11
+    },
+    {
+     "file": "0482.json",
+     "ref": "l1440",
+     "title": "LETTER MCCCCXL.",
+     "segments": 11
+    },
+    {
+     "file": "0483.json",
+     "ref": "l1441",
+     "title": "LETTER MCCCCXLI.",
+     "segments": 10
+    },
+    {
+     "file": "0484.json",
+     "ref": "l1442",
+     "title": "LETTER MCCCCXLII.",
+     "segments": 8
+    },
+    {
+     "file": "0485.json",
+     "ref": "l1443",
+     "title": "LETTER MCCCCXLIII.",
+     "segments": 8
+    },
+    {
+     "file": "0486.json",
+     "ref": "l1444",
+     "title": "LETTER MCCCCXLIV.",
+     "segments": 6
+    },
+    {
+     "file": "0487.json",
+     "ref": "l1445",
+     "title": "LETTER MCCCCXLV.",
+     "segments": 9
+    },
+    {
+     "file": "0488.json",
+     "ref": "l1446",
+     "title": "LETTER MCCCCXLVI.",
+     "segments": 8
+    },
+    {
+     "file": "0489.json",
+     "ref": "l1447",
+     "title": "LETTER MCCCCXLVII.",
+     "segments": 6
+    },
+    {
+     "file": "0490.json",
+     "ref": "l1448",
+     "title": "LETTER MCCCCXLVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0491.json",
+     "ref": "l1449",
+     "title": "LETTER MCCCCXLIX.",
+     "segments": 10
+    },
+    {
+     "file": "0492.json",
+     "ref": "l1450",
+     "title": "LETTER MCCCCL.",
+     "segments": 6
+    },
+    {
+     "file": "0493.json",
+     "ref": "l1451",
+     "title": "LETTER MCCCCLI.",
+     "segments": 6
+    },
+    {
+     "file": "0494.json",
+     "ref": "l1452",
+     "title": "LETTER MCCCCLII.",
+     "segments": 6
+    },
+    {
+     "file": "0495.json",
+     "ref": "l1453",
+     "title": "LETTER MCCCCLIII.",
+     "segments": 6
+    },
+    {
+     "file": "0496.json",
+     "ref": "l1454",
+     "title": "LETTER MCCCCLIV.",
+     "segments": 6
+    },
+    {
+     "file": "0497.json",
+     "ref": "l1455",
+     "title": "LETTER MCCCCLV.",
+     "segments": 6
+    },
+    {
+     "file": "0498.json",
+     "ref": "l1456",
+     "title": "LETTER MCCCCLVI.",
+     "segments": 6
+    },
+    {
+     "file": "0499.json",
+     "ref": "l1457",
+     "title": "LETTER MCCCCLVII.",
+     "segments": 6
+    },
+    {
+     "file": "0500.json",
+     "ref": "l1458",
+     "title": "LETTER MCCCCLVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0501.json",
+     "ref": "l1459",
+     "title": "LETTER MCCCCLIX.",
+     "segments": 6
+    },
+    {
+     "file": "0502.json",
+     "ref": "l1460",
+     "title": "LETTER MCCCCLX.",
+     "segments": 6
+    },
+    {
+     "file": "0503.json",
+     "ref": "l1461",
+     "title": "LETTER MCCCCLXI.",
+     "segments": 6
+    },
+    {
+     "file": "0504.json",
+     "ref": "l1462",
+     "title": "LETTER MCCCCLXII.",
+     "segments": 6
+    },
+    {
+     "file": "0505.json",
+     "ref": "l1463",
+     "title": "LETTER MCCCCLXIII.",
+     "segments": 6
+    },
+    {
+     "file": "0506.json",
+     "ref": "l1464",
+     "title": "LETTER MCCCCLXIV.",
+     "segments": 6
+    },
+    {
+     "file": "0507.json",
+     "ref": "l1465",
+     "title": "LETTER MCCCCLXV.",
+     "segments": 26
+    },
+    {
+     "file": "0508.json",
+     "ref": "s511",
+     "title": "PREFACE.",
+     "segments": 156
+    },
+    {
+     "file": "0509.json",
+     "ref": "s512",
+     "title": "SHEWETH,",
+     "segments": 22
+    },
+    {
+     "file": "0510.json",
+     "ref": "s513",
+     "title": "JAMES WRIGHT.",
+     "segments": 7
+    },
+    {
+     "file": "0511.json",
+     "ref": "s514",
+     "title": "SHEWETH,",
+     "segments": 75
+    },
+    {
+     "file": "0512.json",
+     "ref": "s515",
+     "title": "GEORGE WHITEFIELD, JAMES HABERSHAM.",
+     "segments": 4
+    },
+    {
+     "file": "0513.json",
+     "ref": "s516",
+     "title": "HENRY PARKER, WILLIAM SPENCER.",
+     "segments": 17
+    },
+    {
+     "file": "0514.json",
+     "ref": "s517",
+     "title": "GEORGE WHITEFIELD, THOMAS DIXON.",
+     "segments": 6
+    },
+    {
+     "file": "0515.json",
+     "ref": "s518",
+     "title": "JAMES EDWARD POWELL, GREY ELLIOT.",
+     "segments": 81
+    },
+    {
+     "file": "0516.json",
+     "ref": "s519",
+     "title": "END OF THE THIRD VOLUME.",
+     "segments": 26
+    }
+   ]
+  }
+ ]
+}

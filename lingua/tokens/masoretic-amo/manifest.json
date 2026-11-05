@@ -1,0 +1,94 @@
+{
+ "workId": "masoretic-amo",
+ "editions": [
+  {
+   "editionId": "wlc-oshb-amo",
+   "language": "he",
+   "variety": "he-bib",
+   "textSource": "self",
+   "analysis": {
+    "id": "oshb@2019.01.13",
+    "kind": "verified-dataset",
+    "status": "verified"
+   },
+   "credit": "Open Scriptures Hebrew Bible (OSHB), morphology and lemmas by the OSHB project; text: Westminster Leningrad Codex (WLC)",
+   "licence": "OSHB lemma and morphology: CC BY 4.0; WLC text: public domain; headwords and glosses: Open Scriptures Lexical Index (CC BY 4.0), BDB (public domain), Strong's (public domain, JSON CC BY-SA), curated glosses of the Biblia build",
+   "source": "biblia-v0/data/oshb/Amos.xml",
+   "sourceUrl": "https://github.com/openscriptures/morphhb",
+   "version": "oshb 2018.4.23 (WLC version 4.20.); newest file 2019.01.13",
+   "coverage": {
+    "tokens": 2042,
+    "withLemma": 2042,
+    "withMorphology": 1655,
+    "verified": 2042,
+    "ambiguous": 0,
+    "unanalysed": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "AMO.1",
+     "title": "Amos 1",
+     "segments": 15,
+     "tokens": 212
+    },
+    {
+     "file": "0002.json",
+     "ref": "AMO.2",
+     "title": "Amos 2",
+     "segments": 16,
+     "tokens": 214
+    },
+    {
+     "file": "0003.json",
+     "ref": "AMO.3",
+     "title": "Amos 3",
+     "segments": 15,
+     "tokens": 207
+    },
+    {
+     "file": "0004.json",
+     "ref": "AMO.4",
+     "title": "Amos 4",
+     "segments": 13,
+     "tokens": 215
+    },
+    {
+     "file": "0005.json",
+     "ref": "AMO.5",
+     "title": "Amos 5",
+     "segments": 27,
+     "tokens": 321
+    },
+    {
+     "file": "0006.json",
+     "ref": "AMO.6",
+     "title": "Amos 6",
+     "segments": 14,
+     "tokens": 177
+    },
+    {
+     "file": "0007.json",
+     "ref": "AMO.7",
+     "title": "Amos 7",
+     "segments": 17,
+     "tokens": 255
+    },
+    {
+     "file": "0008.json",
+     "ref": "AMO.8",
+     "title": "Amos 8",
+     "segments": 14,
+     "tokens": 190
+    },
+    {
+     "file": "0009.json",
+     "ref": "AMO.9",
+     "title": "Amos 9",
+     "segments": 15,
+     "tokens": 251
+    }
+   ]
+  }
+ ]
+}

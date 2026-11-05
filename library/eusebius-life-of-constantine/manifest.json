@@ -1,0 +1,4679 @@
+{
+ "workId": "eusebius-life-of-constantine",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "gcs-heikel-vita-constantini",
+   "role": "original",
+   "language": "greek",
+   "credit": "Vita Constantini, in Eusebius Werke, vol. 1 (Die griechischen christlichen Schriftsteller), ed. Ivar A. Heikel (Leipzig: J. C. Hinrichs'sche Buchhandlung, 1902). Perseus Digital Library (Tufts) / Open Greek and Latin First1KGreek, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2018/tlg020/tlg2018.tlg020.1st1K-grc1.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 735774,
+   "sourceSha256": "1de5b204e5cf24773690120bc67a022706ff3d6f241df06e34ed58911a0abf7b",
+   "leftOut": {
+    "pb": 144,
+    "lb": 819,
+    "note": 218,
+    "del": 64
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 38411,
+    "barePerThousand": 30,
+    "digitWords": 19
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.TOC",
+     "title": "1.TOC",
+     "segments": 4
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.1",
+     "title": "1.1",
+     "segments": 3
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.2",
+     "title": "1.2",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.3",
+     "title": "1.3",
+     "segments": 4
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.4",
+     "title": "1.4",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.5",
+     "title": "1.5",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.6",
+     "title": "1.6",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.7",
+     "title": "1.7",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.8",
+     "title": "1.8",
+     "segments": 4
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.9",
+     "title": "1.9",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.10",
+     "title": "1.10",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.11",
+     "title": "1.11",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.12",
+     "title": "1.12",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.13",
+     "title": "1.13",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.14",
+     "title": "1.14",
+     "segments": 6
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.15",
+     "title": "1.15",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.16",
+     "title": "1.16",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.17",
+     "title": "1.17",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.18",
+     "title": "1.18",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.19",
+     "title": "1.19",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.20",
+     "title": "1.20",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.21",
+     "title": "1.21",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.22",
+     "title": "1.22",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.23",
+     "title": "1.23",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.24",
+     "title": "1.24",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.25",
+     "title": "1.25",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.26",
+     "title": "1.26",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.27",
+     "title": "1.27",
+     "segments": 3
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.28",
+     "title": "1.28",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.29",
+     "title": "1.29",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.30",
+     "title": "1.30",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.31",
+     "title": "1.31",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.32",
+     "title": "1.32",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.33",
+     "title": "1.33",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.34",
+     "title": "1.34",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.35",
+     "title": "1.35",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.36",
+     "title": "1.36",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.37",
+     "title": "1.37",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.38",
+     "title": "1.38",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.39",
+     "title": "1.39",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.40",
+     "title": "1.40",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.41",
+     "title": "1.41",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.42",
+     "title": "1.42",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "1.43",
+     "title": "1.43",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "1.44",
+     "title": "1.44",
+     "segments": 1
+    },
+    {
+     "file": "0046.json",
+     "ref": "1.45",
+     "title": "1.45",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "1.46",
+     "title": "1.46",
+     "segments": 1
+    },
+    {
+     "file": "0048.json",
+     "ref": "1.47",
+     "title": "1.47",
+     "segments": 4
+    },
+    {
+     "file": "0049.json",
+     "ref": "1.48",
+     "title": "1.48",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "1.49",
+     "title": "1.49",
+     "segments": 2
+    },
+    {
+     "file": "0051.json",
+     "ref": "1.50",
+     "title": "1.50",
+     "segments": 1
+    },
+    {
+     "file": "0052.json",
+     "ref": "1.51",
+     "title": "1.51",
+     "segments": 1
+    },
+    {
+     "file": "0053.json",
+     "ref": "1.52",
+     "title": "1.52",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "1.53",
+     "title": "1.53",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "1.54",
+     "title": "1.54",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "1.55",
+     "title": "1.55",
+     "segments": 1
+    },
+    {
+     "file": "0057.json",
+     "ref": "1.56",
+     "title": "1.56",
+     "segments": 1
+    },
+    {
+     "file": "0058.json",
+     "ref": "1.57",
+     "title": "1.57",
+     "segments": 1
+    },
+    {
+     "file": "0059.json",
+     "ref": "1.58",
+     "title": "1.58",
+     "segments": 3
+    },
+    {
+     "file": "0060.json",
+     "ref": "2.1",
+     "title": "2.1",
+     "segments": 1
+    },
+    {
+     "file": "0061.json",
+     "ref": "2.2",
+     "title": "2.2",
+     "segments": 3
+    },
+    {
+     "file": "0062.json",
+     "ref": "2.3",
+     "title": "2.3",
+     "segments": 1
+    },
+    {
+     "file": "0063.json",
+     "ref": "2.4",
+     "title": "2.4",
+     "segments": 1
+    },
+    {
+     "file": "0064.json",
+     "ref": "2.5",
+     "title": "2.5",
+     "segments": 5
+    },
+    {
+     "file": "0065.json",
+     "ref": "2.6",
+     "title": "2.6",
+     "segments": 1
+    },
+    {
+     "file": "0066.json",
+     "ref": "2.8",
+     "title": "2.8",
+     "segments": 1
+    },
+    {
+     "file": "0067.json",
+     "ref": "2.9",
+     "title": "2.9",
+     "segments": 1
+    },
+    {
+     "file": "0068.json",
+     "ref": "2.10",
+     "title": "2.10",
+     "segments": 1
+    },
+    {
+     "file": "0069.json",
+     "ref": "2.11",
+     "title": "2.11",
+     "segments": 2
+    },
+    {
+     "file": "0070.json",
+     "ref": "2.12",
+     "title": "2.12",
+     "segments": 2
+    },
+    {
+     "file": "0071.json",
+     "ref": "2.13",
+     "title": "2.13",
+     "segments": 2
+    },
+    {
+     "file": "0072.json",
+     "ref": "2.14",
+     "title": "2.14",
+     "segments": 1
+    },
+    {
+     "file": "0073.json",
+     "ref": "2.15",
+     "title": "2.15",
+     "segments": 1
+    },
+    {
+     "file": "0074.json",
+     "ref": "2.16",
+     "title": "2.16",
+     "segments": 1
+    },
+    {
+     "file": "0075.json",
+     "ref": "2.17",
+     "title": "2.17",
+     "segments": 1
+    },
+    {
+     "file": "0076.json",
+     "ref": "2.18",
+     "title": "2.18",
+     "segments": 1
+    },
+    {
+     "file": "0077.json",
+     "ref": "2.19",
+     "title": "2.19",
+     "segments": 1
+    },
+    {
+     "file": "0078.json",
+     "ref": "2.20",
+     "title": "2.20",
+     "segments": 3
+    },
+    {
+     "file": "0079.json",
+     "ref": "2.21",
+     "title": "2.21",
+     "segments": 1
+    },
+    {
+     "file": "0080.json",
+     "ref": "2.22",
+     "title": "2.22",
+     "segments": 1
+    },
+    {
+     "file": "0081.json",
+     "ref": "2.23",
+     "title": "2.23",
+     "segments": 1
+    },
+    {
+     "file": "0082.json",
+     "ref": "2.24",
+     "title": "2.24",
+     "segments": 3
+    },
+    {
+     "file": "0083.json",
+     "ref": "2.25",
+     "title": "2.25",
+     "segments": 1
+    },
+    {
+     "file": "0084.json",
+     "ref": "2.26",
+     "title": "2.26",
+     "segments": 1
+    },
+    {
+     "file": "0085.json",
+     "ref": "2.27",
+     "title": "2.27",
+     "segments": 1
+    },
+    {
+     "file": "0086.json",
+     "ref": "2.28",
+     "title": "2.28",
+     "segments": 1
+    },
+    {
+     "file": "0087.json",
+     "ref": "2.29",
+     "title": "2.29",
+     "segments": 1
+    },
+    {
+     "file": "0088.json",
+     "ref": "2.30",
+     "title": "2.30",
+     "segments": 1
+    },
+    {
+     "file": "0089.json",
+     "ref": "2.31",
+     "title": "2.31",
+     "segments": 1
+    },
+    {
+     "file": "0090.json",
+     "ref": "2.32",
+     "title": "2.32",
+     "segments": 1
+    },
+    {
+     "file": "0091.json",
+     "ref": "2.33",
+     "title": "2.33",
+     "segments": 1
+    },
+    {
+     "file": "0092.json",
+     "ref": "2.34",
+     "title": "2.34",
+     "segments": 1
+    },
+    {
+     "file": "0093.json",
+     "ref": "2.35",
+     "title": "2.35",
+     "segments": 1
+    },
+    {
+     "file": "0094.json",
+     "ref": "2.36",
+     "title": "2.36",
+     "segments": 1
+    },
+    {
+     "file": "0095.json",
+     "ref": "2.37",
+     "title": "2.37",
+     "segments": 1
+    },
+    {
+     "file": "0096.json",
+     "ref": "2.38",
+     "title": "2.38",
+     "segments": 1
+    },
+    {
+     "file": "0097.json",
+     "ref": "2.39",
+     "title": "2.39",
+     "segments": 1
+    },
+    {
+     "file": "0098.json",
+     "ref": "2.40",
+     "title": "2.40",
+     "segments": 1
+    },
+    {
+     "file": "0099.json",
+     "ref": "2.41",
+     "title": "2.41",
+     "segments": 1
+    },
+    {
+     "file": "0100.json",
+     "ref": "2.42",
+     "title": "2.42",
+     "segments": 1
+    },
+    {
+     "file": "0101.json",
+     "ref": "2.43",
+     "title": "2.43",
+     "segments": 1
+    },
+    {
+     "file": "0102.json",
+     "ref": "2.44",
+     "title": "2.44",
+     "segments": 1
+    },
+    {
+     "file": "0103.json",
+     "ref": "2.45",
+     "title": "2.45",
+     "segments": 2
+    },
+    {
+     "file": "0104.json",
+     "ref": "2.46",
+     "title": "2.46",
+     "segments": 4
+    },
+    {
+     "file": "0105.json",
+     "ref": "2.47",
+     "title": "2.47",
+     "segments": 1
+    },
+    {
+     "file": "0106.json",
+     "ref": "2.48",
+     "title": "2.48",
+     "segments": 1
+    },
+    {
+     "file": "0107.json",
+     "ref": "2.49",
+     "title": "2.49",
+     "segments": 1
+    },
+    {
+     "file": "0108.json",
+     "ref": "2.50",
+     "title": "2.50",
+     "segments": 1
+    },
+    {
+     "file": "0109.json",
+     "ref": "2.51",
+     "title": "2.51",
+     "segments": 1
+    },
+    {
+     "file": "0110.json",
+     "ref": "2.52",
+     "title": "2.52",
+     "segments": 1
+    },
+    {
+     "file": "0111.json",
+     "ref": "2.53",
+     "title": "2.53",
+     "segments": 1
+    },
+    {
+     "file": "0112.json",
+     "ref": "2.54",
+     "title": "2.54",
+     "segments": 1
+    },
+    {
+     "file": "0113.json",
+     "ref": "2.55",
+     "title": "2.55",
+     "segments": 2
+    },
+    {
+     "file": "0114.json",
+     "ref": "2.56",
+     "title": "2.56",
+     "segments": 2
+    },
+    {
+     "file": "0115.json",
+     "ref": "2.57",
+     "title": "2.57",
+     "segments": 1
+    },
+    {
+     "file": "0116.json",
+     "ref": "2.58",
+     "title": "2.58",
+     "segments": 2
+    },
+    {
+     "file": "0117.json",
+     "ref": "2.59",
+     "title": "2.59",
+     "segments": 1
+    },
+    {
+     "file": "0118.json",
+     "ref": "2.60",
+     "title": "2.60",
+     "segments": 1
+    },
+    {
+     "file": "0119.json",
+     "ref": "2.61",
+     "title": "2.61",
+     "segments": 5
+    },
+    {
+     "file": "0120.json",
+     "ref": "2.62",
+     "title": "2.62",
+     "segments": 1
+    },
+    {
+     "file": "0121.json",
+     "ref": "2.63",
+     "title": "2.63",
+     "segments": 1
+    },
+    {
+     "file": "0122.json",
+     "ref": "2.64",
+     "title": "2.64",
+     "segments": 1
+    },
+    {
+     "file": "0123.json",
+     "ref": "2.65",
+     "title": "2.65",
+     "segments": 2
+    },
+    {
+     "file": "0124.json",
+     "ref": "2.66",
+     "title": "2.66",
+     "segments": 1
+    },
+    {
+     "file": "0125.json",
+     "ref": "2.67",
+     "title": "2.67",
+     "segments": 1
+    },
+    {
+     "file": "0126.json",
+     "ref": "2.68",
+     "title": "2.68",
+     "segments": 3
+    },
+    {
+     "file": "0127.json",
+     "ref": "2.69",
+     "title": "2.69",
+     "segments": 4
+    },
+    {
+     "file": "0128.json",
+     "ref": "2.70",
+     "title": "2.70",
+     "segments": 1
+    },
+    {
+     "file": "0129.json",
+     "ref": "2.71",
+     "title": "2.71",
+     "segments": 6
+    },
+    {
+     "file": "0130.json",
+     "ref": "2.72",
+     "title": "2.72",
+     "segments": 2
+    },
+    {
+     "file": "0131.json",
+     "ref": "2.73",
+     "title": "2.73",
+     "segments": 1
+    },
+    {
+     "file": "0132.json",
+     "ref": "3.1",
+     "title": "3.1",
+     "segments": 8
+    },
+    {
+     "file": "0133.json",
+     "ref": "3.2",
+     "title": "3.2",
+     "segments": 1
+    },
+    {
+     "file": "0134.json",
+     "ref": "3.3",
+     "title": "3.3",
+     "segments": 2
+    },
+    {
+     "file": "0135.json",
+     "ref": "3.4",
+     "title": "3.4",
+     "segments": 1
+    },
+    {
+     "file": "0136.json",
+     "ref": "3.5",
+     "title": "3.5",
+     "segments": 2
+    },
+    {
+     "file": "0137.json",
+     "ref": "3.6",
+     "title": "3.6",
+     "segments": 1
+    },
+    {
+     "file": "0138.json",
+     "ref": "3.7",
+     "title": "3.7",
+     "segments": 2
+    },
+    {
+     "file": "0139.json",
+     "ref": "3.8",
+     "title": "3.8",
+     "segments": 1
+    },
+    {
+     "file": "0140.json",
+     "ref": "3.9",
+     "title": "3.9",
+     "segments": 1
+    },
+    {
+     "file": "0141.json",
+     "ref": "3.10",
+     "title": "3.10",
+     "segments": 4
+    },
+    {
+     "file": "0142.json",
+     "ref": "3.11",
+     "title": "3.11",
+     "segments": 1
+    },
+    {
+     "file": "0143.json",
+     "ref": "3.12",
+     "title": "3.12",
+     "segments": 5
+    },
+    {
+     "file": "0144.json",
+     "ref": "3.13",
+     "title": "3.13",
+     "segments": 2
+    },
+    {
+     "file": "0145.json",
+     "ref": "3.14",
+     "title": "3.14",
+     "segments": 1
+    },
+    {
+     "file": "0146.json",
+     "ref": "3.15",
+     "title": "3.15",
+     "segments": 3
+    },
+    {
+     "file": "0147.json",
+     "ref": "3.16",
+     "title": "3.16",
+     "segments": 1
+    },
+    {
+     "file": "0148.json",
+     "ref": "3.17",
+     "title": "3.17",
+     "segments": 1
+    },
+    {
+     "file": "0149.json",
+     "ref": "3.18",
+     "title": "3.18",
+     "segments": 6
+    },
+    {
+     "file": "0150.json",
+     "ref": "3.19",
+     "title": "3.19",
+     "segments": 2
+    },
+    {
+     "file": "0151.json",
+     "ref": "3.20",
+     "title": "3.20",
+     "segments": 3
+    },
+    {
+     "file": "0152.json",
+     "ref": "3.21",
+     "title": "3.21",
+     "segments": 4
+    },
+    {
+     "file": "0153.json",
+     "ref": "3.22",
+     "title": "3.22",
+     "segments": 1
+    },
+    {
+     "file": "0154.json",
+     "ref": "3.23",
+     "title": "3.23",
+     "segments": 1
+    },
+    {
+     "file": "0155.json",
+     "ref": "3.24",
+     "title": "3.24",
+     "segments": 2
+    },
+    {
+     "file": "0156.json",
+     "ref": "3.25",
+     "title": "3.25",
+     "segments": 1
+    },
+    {
+     "file": "0157.json",
+     "ref": "3.26",
+     "title": "3.26",
+     "segments": 7
+    },
+    {
+     "file": "0158.json",
+     "ref": "3.27",
+     "title": "3.27",
+     "segments": 1
+    },
+    {
+     "file": "0159.json",
+     "ref": "3.28",
+     "title": "3.28",
+     "segments": 1
+    },
+    {
+     "file": "0160.json",
+     "ref": "3.29",
+     "title": "3.29",
+     "segments": 1
+    },
+    {
+     "file": "0161.json",
+     "ref": "3.30",
+     "title": "3.30",
+     "segments": 4
+    },
+    {
+     "file": "0162.json",
+     "ref": "3.31",
+     "title": "3.31",
+     "segments": 3
+    },
+    {
+     "file": "0163.json",
+     "ref": "3.32",
+     "title": "3.32",
+     "segments": 2
+    },
+    {
+     "file": "0164.json",
+     "ref": "3.33",
+     "title": "3.33",
+     "segments": 2
+    },
+    {
+     "file": "0165.json",
+     "ref": "3.34",
+     "title": "3.34",
+     "segments": 1
+    },
+    {
+     "file": "0166.json",
+     "ref": "3.35",
+     "title": "3.35",
+     "segments": 1
+    },
+    {
+     "file": "0167.json",
+     "ref": "3.36",
+     "title": "3.36",
+     "segments": 2
+    },
+    {
+     "file": "0168.json",
+     "ref": "3.37",
+     "title": "3.37",
+     "segments": 1
+    },
+    {
+     "file": "0169.json",
+     "ref": "3.38",
+     "title": "3.38",
+     "segments": 1
+    },
+    {
+     "file": "0170.json",
+     "ref": "3.39",
+     "title": "3.39",
+     "segments": 1
+    },
+    {
+     "file": "0171.json",
+     "ref": "3.40",
+     "title": "3.40",
+     "segments": 1
+    },
+    {
+     "file": "0172.json",
+     "ref": "3.41",
+     "title": "3.41",
+     "segments": 1
+    },
+    {
+     "file": "0173.json",
+     "ref": "3.42",
+     "title": "3.42",
+     "segments": 1
+    },
+    {
+     "file": "0174.json",
+     "ref": "3.43",
+     "title": "3.43",
+     "segments": 5
+    },
+    {
+     "file": "0175.json",
+     "ref": "3.44",
+     "title": "3.44",
+     "segments": 1
+    },
+    {
+     "file": "0176.json",
+     "ref": "3.45",
+     "title": "3.45",
+     "segments": 1
+    },
+    {
+     "file": "0177.json",
+     "ref": "3.46",
+     "title": "3.46",
+     "segments": 2
+    },
+    {
+     "file": "0178.json",
+     "ref": "3.47",
+     "title": "3.47",
+     "segments": 4
+    },
+    {
+     "file": "0179.json",
+     "ref": "3.48",
+     "title": "3.48",
+     "segments": 2
+    },
+    {
+     "file": "0180.json",
+     "ref": "3.49",
+     "title": "3.49",
+     "segments": 1
+    },
+    {
+     "file": "0181.json",
+     "ref": "3.50",
+     "title": "3.50",
+     "segments": 1
+    },
+    {
+     "file": "0182.json",
+     "ref": "3.51",
+     "title": "3.51",
+     "segments": 2
+    },
+    {
+     "file": "0183.json",
+     "ref": "3.52",
+     "title": "3.52",
+     "segments": 1
+    },
+    {
+     "file": "0184.json",
+     "ref": "3.53",
+     "title": "3.53",
+     "segments": 4
+    },
+    {
+     "file": "0185.json",
+     "ref": "3.54",
+     "title": "3.54",
+     "segments": 7
+    },
+    {
+     "file": "0186.json",
+     "ref": "3.55",
+     "title": "3.55",
+     "segments": 5
+    },
+    {
+     "file": "0187.json",
+     "ref": "3.56",
+     "title": "3.56",
+     "segments": 3
+    },
+    {
+     "file": "0188.json",
+     "ref": "3.57",
+     "title": "3.57",
+     "segments": 4
+    },
+    {
+     "file": "0189.json",
+     "ref": "3.58",
+     "title": "3.58",
+     "segments": 4
+    },
+    {
+     "file": "0190.json",
+     "ref": "3.59",
+     "title": "3.59",
+     "segments": 5
+    },
+    {
+     "file": "0191.json",
+     "ref": "3.60",
+     "title": "3.60",
+     "segments": 9
+    },
+    {
+     "file": "0192.json",
+     "ref": "3.61",
+     "title": "3.61",
+     "segments": 3
+    },
+    {
+     "file": "0193.json",
+     "ref": "3.62",
+     "title": "3.62",
+     "segments": 3
+    },
+    {
+     "file": "0194.json",
+     "ref": "3.63",
+     "title": "3.63",
+     "segments": 3
+    },
+    {
+     "file": "0195.json",
+     "ref": "3.64",
+     "title": "3.64",
+     "segments": 4
+    },
+    {
+     "file": "0196.json",
+     "ref": "3.65",
+     "title": "3.65",
+     "segments": 2
+    },
+    {
+     "file": "0197.json",
+     "ref": "3.66",
+     "title": "3.66",
+     "segments": 3
+    },
+    {
+     "file": "0198.json",
+     "ref": "4.1",
+     "title": "4.1",
+     "segments": 1
+    },
+    {
+     "file": "0199.json",
+     "ref": "4.2",
+     "title": "4.2",
+     "segments": 1
+    },
+    {
+     "file": "0200.json",
+     "ref": "4.3",
+     "title": "4.3",
+     "segments": 1
+    },
+    {
+     "file": "0201.json",
+     "ref": "4.4",
+     "title": "4.4",
+     "segments": 1
+    },
+    {
+     "file": "0202.json",
+     "ref": "4.5",
+     "title": "4.5",
+     "segments": 2
+    },
+    {
+     "file": "0203.json",
+     "ref": "4.6",
+     "title": "4.6",
+     "segments": 2
+    },
+    {
+     "file": "0204.json",
+     "ref": "4.7",
+     "title": "4.7",
+     "segments": 3
+    },
+    {
+     "file": "0205.json",
+     "ref": "4.8",
+     "title": "4.8",
+     "segments": 1
+    },
+    {
+     "file": "0206.json",
+     "ref": "4.9",
+     "title": "4.9",
+     "segments": 1
+    },
+    {
+     "file": "0207.json",
+     "ref": "4.10",
+     "title": "4.10",
+     "segments": 4
+    },
+    {
+     "file": "0208.json",
+     "ref": "4.11",
+     "title": "4.11",
+     "segments": 2
+    },
+    {
+     "file": "0209.json",
+     "ref": "4.12",
+     "title": "4.12",
+     "segments": 1
+    },
+    {
+     "file": "0210.json",
+     "ref": "4.13",
+     "title": "4.13",
+     "segments": 1
+    },
+    {
+     "file": "0211.json",
+     "ref": "4.14",
+     "title": "4.14",
+     "segments": 1
+    },
+    {
+     "file": "0212.json",
+     "ref": "4.15",
+     "title": "4.15",
+     "segments": 2
+    },
+    {
+     "file": "0213.json",
+     "ref": "4.16",
+     "title": "4.16",
+     "segments": 1
+    },
+    {
+     "file": "0214.json",
+     "ref": "4.17",
+     "title": "4.17",
+     "segments": 1
+    },
+    {
+     "file": "0215.json",
+     "ref": "4.18",
+     "title": "4.18",
+     "segments": 3
+    },
+    {
+     "file": "0216.json",
+     "ref": "4.19",
+     "title": "4.19",
+     "segments": 1
+    },
+    {
+     "file": "0217.json",
+     "ref": "4.20",
+     "title": "4.20",
+     "segments": 1
+    },
+    {
+     "file": "0218.json",
+     "ref": "4.21",
+     "title": "4.21",
+     "segments": 1
+    },
+    {
+     "file": "0219.json",
+     "ref": "4.22",
+     "title": "4.22",
+     "segments": 2
+    },
+    {
+     "file": "0220.json",
+     "ref": "4.23",
+     "title": "4.23",
+     "segments": 1
+    },
+    {
+     "file": "0221.json",
+     "ref": "4.24",
+     "title": "4.24",
+     "segments": 1
+    },
+    {
+     "file": "0222.json",
+     "ref": "4.25",
+     "title": "4.25",
+     "segments": 3
+    },
+    {
+     "file": "0223.json",
+     "ref": "4.26",
+     "title": "4.26",
+     "segments": 6
+    },
+    {
+     "file": "0224.json",
+     "ref": "4.27",
+     "title": "4.27",
+     "segments": 3
+    },
+    {
+     "file": "0225.json",
+     "ref": "4.28",
+     "title": "4.28",
+     "segments": 1
+    },
+    {
+     "file": "0226.json",
+     "ref": "4.29",
+     "title": "4.29",
+     "segments": 5
+    },
+    {
+     "file": "0227.json",
+     "ref": "4.30",
+     "title": "4.30",
+     "segments": 1
+    },
+    {
+     "file": "0228.json",
+     "ref": "4.31",
+     "title": "4.31",
+     "segments": 1
+    },
+    {
+     "file": "0229.json",
+     "ref": "4.32",
+     "title": "4.32",
+     "segments": 1
+    },
+    {
+     "file": "0230.json",
+     "ref": "4.33",
+     "title": "4.33",
+     "segments": 2
+    },
+    {
+     "file": "0231.json",
+     "ref": "4.34",
+     "title": "4.34",
+     "segments": 1
+    },
+    {
+     "file": "0232.json",
+     "ref": "4.35",
+     "title": "4.35",
+     "segments": 2
+    },
+    {
+     "file": "0233.json",
+     "ref": "4.36",
+     "title": "4.36",
+     "segments": 3
+    },
+    {
+     "file": "0234.json",
+     "ref": "4.37",
+     "title": "4.37",
+     "segments": 1
+    },
+    {
+     "file": "0235.json",
+     "ref": "4.38",
+     "title": "4.38",
+     "segments": 1
+    },
+    {
+     "file": "0236.json",
+     "ref": "4.39",
+     "title": "4.39",
+     "segments": 2
+    },
+    {
+     "file": "0237.json",
+     "ref": "4.40",
+     "title": "4.40",
+     "segments": 2
+    },
+    {
+     "file": "0238.json",
+     "ref": "4.41",
+     "title": "4.41",
+     "segments": 4
+    },
+    {
+     "file": "0239.json",
+     "ref": "4.42",
+     "title": "4.42",
+     "segments": 5
+    },
+    {
+     "file": "0240.json",
+     "ref": "4.43",
+     "title": "4.43",
+     "segments": 4
+    },
+    {
+     "file": "0241.json",
+     "ref": "4.44",
+     "title": "4.44",
+     "segments": 1
+    },
+    {
+     "file": "0242.json",
+     "ref": "4.45",
+     "title": "4.45",
+     "segments": 2
+    },
+    {
+     "file": "0243.json",
+     "ref": "4.46",
+     "title": "4.46",
+     "segments": 1
+    },
+    {
+     "file": "0244.json",
+     "ref": "4.47",
+     "title": "4.47",
+     "segments": 1
+    },
+    {
+     "file": "0245.json",
+     "ref": "4.48",
+     "title": "4.48",
+     "segments": 1
+    },
+    {
+     "file": "0246.json",
+     "ref": "4.49",
+     "title": "4.49",
+     "segments": 1
+    },
+    {
+     "file": "0247.json",
+     "ref": "4.50",
+     "title": "4.50",
+     "segments": 1
+    },
+    {
+     "file": "0248.json",
+     "ref": "4.51",
+     "title": "4.51",
+     "segments": 3
+    },
+    {
+     "file": "0249.json",
+     "ref": "4.52",
+     "title": "4.52",
+     "segments": 2
+    },
+    {
+     "file": "0250.json",
+     "ref": "4.53",
+     "title": "4.53",
+     "segments": 1
+    },
+    {
+     "file": "0251.json",
+     "ref": "4.54",
+     "title": "4.54",
+     "segments": 3
+    },
+    {
+     "file": "0252.json",
+     "ref": "4.55",
+     "title": "4.55",
+     "segments": 3
+    },
+    {
+     "file": "0253.json",
+     "ref": "4.56",
+     "title": "4.56",
+     "segments": 3
+    },
+    {
+     "file": "0254.json",
+     "ref": "4.58",
+     "title": "4.58",
+     "segments": 1
+    },
+    {
+     "file": "0255.json",
+     "ref": "4.59",
+     "title": "4.59",
+     "segments": 1
+    },
+    {
+     "file": "0256.json",
+     "ref": "4.60",
+     "title": "4.60",
+     "segments": 4
+    },
+    {
+     "file": "0257.json",
+     "ref": "4.61",
+     "title": "4.61",
+     "segments": 3
+    },
+    {
+     "file": "0258.json",
+     "ref": "4.62",
+     "title": "4.62",
+     "segments": 5
+    },
+    {
+     "file": "0259.json",
+     "ref": "4.63",
+     "title": "4.63",
+     "segments": 3
+    },
+    {
+     "file": "0260.json",
+     "ref": "4.64",
+     "title": "4.64",
+     "segments": 2
+    },
+    {
+     "file": "0261.json",
+     "ref": "4.65",
+     "title": "4.65",
+     "segments": 3
+    },
+    {
+     "file": "0262.json",
+     "ref": "4.66",
+     "title": "4.66",
+     "segments": 1
+    },
+    {
+     "file": "0263.json",
+     "ref": "4.67",
+     "title": "4.67",
+     "segments": 2
+    },
+    {
+     "file": "0264.json",
+     "ref": "4.68",
+     "title": "4.68",
+     "segments": 3
+    },
+    {
+     "file": "0265.json",
+     "ref": "4.69",
+     "title": "4.69",
+     "segments": 2
+    },
+    {
+     "file": "0266.json",
+     "ref": "4.70",
+     "title": "4.70",
+     "segments": 2
+    },
+    {
+     "file": "0267.json",
+     "ref": "4.71",
+     "title": "4.71",
+     "segments": 2
+    },
+    {
+     "file": "0268.json",
+     "ref": "4.72",
+     "title": "4.72",
+     "segments": 1
+    },
+    {
+     "file": "0269.json",
+     "ref": "4.73",
+     "title": "4.73",
+     "segments": 1
+    },
+    {
+     "file": "0270.json",
+     "ref": "4.74",
+     "title": "4.74",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "npnf2-richardson-life-of-constantine",
+   "role": "english",
+   "language": "english",
+   "credit": "The Life of Constantine, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, Second Series, vol. I (Eusebius Pamphilus: Church History, Life of Constantine, Oration in Praise of Constantine), trans. Ernest Cushing Richardson (Buffalo / New York: Christian Literature Publishing Co., 1890). Wikisource contributors, \"Nicene and Post-Nicene Fathers: Series II, Volume I\" (Ernest Cushing Richardson), en.wikisource.org, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_I/Constantine/The_Life_of_Constantine",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 655996,
+   "sourceSha256": "6bf6358487c4d9ece2e5be6bfb89e374ac7d5ecb7b9004eb0d46e962fe10d76d",
+   "leftOut": {
+    "note": 317
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 1",
+     "bytes": 5100,
+     "sha256": "736c9050205d5385426caf0f24bcdf71a5c281d0633b72a0f09506dbb69bd967"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 2",
+     "bytes": 3053,
+     "sha256": "1c54fdbe0df5bbe623ac2970ba13f67e51bbf55ffe860d5ca73564e4a86ed418"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 3",
+     "bytes": 3654,
+     "sha256": "95be0f90bf4111c01c9374528abf22c440d810e2b1209f0d401cf8a932bf6705"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 4",
+     "bytes": 1704,
+     "sha256": "1415df05a7edf19e8ccde8afcc0ef7a5c04e57011defc197b64aefaffef7128e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 5",
+     "bytes": 2471,
+     "sha256": "57fb5f5e782fef21a0433dcfb15df9368c2f7bc3f03632ca938861697ffee6b8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 6",
+     "bytes": 1879,
+     "sha256": "d1a0f60c1515741a2cc4711ef0ab885851dec2a38aa1e2925f2edd6dc3046827"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 7",
+     "bytes": 3489,
+     "sha256": "ec97be817decff58521950edfb07f6811778af34f7a1eea697b40b9ab90fa319"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 8",
+     "bytes": 2397,
+     "sha256": "15cd8364cfeeb0fc3ee3a69d1b0916a4ff79f5ddf86925e327f0acba27cd5590"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 9",
+     "bytes": 2346,
+     "sha256": "ff7a74f8ca7bb7d27864ab2ef276e760a429548762287503385528ead2276043"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 10",
+     "bytes": 3667,
+     "sha256": "ad7abbe5c89d38b420a37b1d2ebfaf2b728bfe24ffe4219a5c1fbdde295a1ee5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 11",
+     "bytes": 2655,
+     "sha256": "47f6c66d849428f0480db52968881543d8fd572e233463c1dc8bfd927c38fa4a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 12",
+     "bytes": 3323,
+     "sha256": "12c0b2ca03528d5ab0099f16dd8bfcea711f288f98454ff658ad7bff0cb7ce8e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 13",
+     "bytes": 3055,
+     "sha256": "e0d31db628375921e4b94a934202d032a4d1fca814017c8104268eb98c967a0b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 14",
+     "bytes": 3807,
+     "sha256": "c89e59d331c0aac932e48695f7b1d028cc6d6403520d3bbf4dd8db3b33d265c6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 15",
+     "bytes": 1800,
+     "sha256": "f36ce8b62b9eaf9f6ae560144e7a2dfbf7960e3ff5add4804d7875a3472841b6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 16",
+     "bytes": 2767,
+     "sha256": "817674558539e3465e2474e08a129147cac575f5e97b6db2467fd51ae79994ea"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 17",
+     "bytes": 2610,
+     "sha256": "21f4b1f6e1bf75835565e2d593586ef349ea4a5f2038f6624c3fbe97bddd948e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 18",
+     "bytes": 2947,
+     "sha256": "2b981de6a67da25ee71dc3ec5a578a76ff52265ab8ace3e0ee6de23b693dd242"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 19",
+     "bytes": 2326,
+     "sha256": "cbd424547a7dd4bc2cc66ff35c5753e19a9ae57835252f477ebea9b5a146a5ef"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 20",
+     "bytes": 1840,
+     "sha256": "8c1cd2a9764798e4c76fd7f55222a26f34da0b31a157d12f7b959a66b8073315"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 21",
+     "bytes": 3336,
+     "sha256": "9ffd64d001460712e05cea1d9a94a09f76b6ed57308cb9f98310639291dc43df"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 22",
+     "bytes": 2531,
+     "sha256": "3bc0ccd54eea95634c59b0b15c4b79733143c5968a65d099c36c493c50c00540"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 23",
+     "bytes": 1565,
+     "sha256": "87189fc70dab640dfdf3aafba7cd589bbc4bd1e94ac2c8b4f4a6f8b4fd2879c2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 24",
+     "bytes": 1353,
+     "sha256": "d07c72462b8debe21bfead915974b8512edfe6875d73e4378d2c21c36b706152"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 25",
+     "bytes": 2623,
+     "sha256": "d685f823c645e970b25940da9f5da718b1cdce30a72da865992cfc6b48c3f097"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 26",
+     "bytes": 1723,
+     "sha256": "473c9a5c3708acfd8a2bafbc66a6b0d1b12ebb018aef9db2f9f48e0a020ea0c6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 27",
+     "bytes": 3565,
+     "sha256": "82bbf2c732ad32eab65bf561922866d487ade6da8797e30d98962973c86cf130"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 28",
+     "bytes": 6245,
+     "sha256": "f029e24eea36443d608604fe0c6726171b3be3cd9e906d96152b2d03a7c01f05"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 29",
+     "bytes": 1489,
+     "sha256": "9d1905d3817cc7740a0d43947be34c0f3bb05e419d3fbf206036c7bd03f3454e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 30",
+     "bytes": 1311,
+     "sha256": "088d64f762230c7e4277818a37350c75c5fbd0c6fe793603cdc3e67bf747b067"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 31",
+     "bytes": 4717,
+     "sha256": "488955fc46f84d0c6b955e2cb2c4d9302f541bd7f0e7054f34c894065311218a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 32",
+     "bytes": 3044,
+     "sha256": "88623c2b71cbf720950757f45bfd45510f77591d18b6268dc0ef522cdce471cc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 33",
+     "bytes": 2301,
+     "sha256": "3346456dadb036e6fcff8e4eb628d3901c40c76a676140ef854894dcb9a09da8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 34",
+     "bytes": 1907,
+     "sha256": "f29e0267988f13f1db918688e2d0dc6ef0e89231446a4529b4951983596e8c8f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 35",
+     "bytes": 1844,
+     "sha256": "2b581a5dc0072f3644f58106c0574afa6efea7b6edf1ba14d9b8e87bec4a137b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 36",
+     "bytes": 1942,
+     "sha256": "47e13ccf762272502223d85cc4f5610668d9b3774729705ca8bdfc14314832d7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 37",
+     "bytes": 2611,
+     "sha256": "2f1389073de8ca2941e73f18e1d940ca2cbc249351fb924c965506f44f207a21"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 38",
+     "bytes": 4823,
+     "sha256": "a1cfe7aa08ce21e1bfa89d1b163a2b6b50ddc2f70100aff2f715425ca037a418"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 39",
+     "bytes": 2014,
+     "sha256": "6066119d1f8ce9c0372ddf79bd72c94f778c1fa301e420e30caa52821f19e701"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 40",
+     "bytes": 2244,
+     "sha256": "ccb4cbba1293abefda0fedf13a9a4a8b4615c13d241a3c18219f7bc7d8802416"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 41",
+     "bytes": 2156,
+     "sha256": "221096f02a0cfad53475b55958b0417f3db4af52a901bb98d20dabb643bf7dab"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 42",
+     "bytes": 2334,
+     "sha256": "00e5259c889c8d7295c33f6d750f91835562a3a9cab48d1ff9d9a5d0724e72d1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 43",
+     "bytes": 3162,
+     "sha256": "5948d2b04b2dcb31fea728343c8577267b0ec1eb4b818460da1e868fcb7ef021"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 44",
+     "bytes": 2267,
+     "sha256": "018beb6b5fa09a8eec95a673705b508e4d8b4f48ecbab1185a5b809427d7cd6a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 45",
+     "bytes": 2600,
+     "sha256": "578418bb0220701cd8394836a016734d1eec3156a77260bf61bc648a34bcef2f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 46",
+     "bytes": 1546,
+     "sha256": "60478a7b4e9cc0d569136884602d1c93d614a5d2f141f30c68924e372991d9c3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 47",
+     "bytes": 2570,
+     "sha256": "2008655455d27f60b51f2eeb5a5d9124e0d517072c9bf47441370cb4ac74d85b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 48",
+     "bytes": 1428,
+     "sha256": "0a8045bd4a19fa50c20d700dedee631cb7d33d1586f10bafcab980f4c413bb84"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 49",
+     "bytes": 2295,
+     "sha256": "e725193b6f8b05958ffebaedb10410310aa2a8403082ec2782da1381078b0247"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 50",
+     "bytes": 2593,
+     "sha256": "cd24ecec98b24274c45561bbdf814072b87daac84501c771d4632312e0093d7b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 51",
+     "bytes": 2450,
+     "sha256": "331c2ee779e4e5f5956a47ad49cb08e661677b9893f8f54541f363a20f6d3b99"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 52",
+     "bytes": 1947,
+     "sha256": "1e412ee862adec5326a71726a21adc4f03a8eca7a3f2fcaeec1a4543e96ccf47"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 53",
+     "bytes": 1635,
+     "sha256": "1fe28b2d281262ff197d2a26acc02466bbccd9f8c45e8f0444c245aa65e462a1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 54",
+     "bytes": 2388,
+     "sha256": "78a1c4964b532bf25ca06cd42b6b6ed77fdda333316bcc62deb5683982951cf1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 55",
+     "bytes": 2555,
+     "sha256": "c452d01d7f2f92bc7ce424d14e207b76296bb84a3fdc9b8072dbec20dab52f7f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 56",
+     "bytes": 1753,
+     "sha256": "7704b4ddbd4f76e936b89a7f0e7cac9daf8515dba66f3070f859d07ef36a3b92"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 57",
+     "bytes": 2587,
+     "sha256": "c479fc64255c8db505b2682dd6db1c47c1811de281f6de7e983f3c9d6aeeecab"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 58",
+     "bytes": 3345,
+     "sha256": "dca0e4deef07c5f7b266445b1dd59085fda4563d1308b21a91edcfeba4aa4817"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book I/Chapter 59",
+     "bytes": 1941,
+     "sha256": "08d575b2cb0379794c2e08f94c9aa44ae5772e055cb7839b12ac5b8e0b6b76d8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 1",
+     "bytes": 2169,
+     "sha256": "64ca98f1334d948cbce2f8d76a4150c068bca79bf4d444a45f98ce1d5553039b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 2",
+     "bytes": 3109,
+     "sha256": "875a196dbc28078d26cb9cd8f2b4606b55b4b35690e8103ad28026b451decbc1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 3",
+     "bytes": 2425,
+     "sha256": "e8a0e5334d2ae9990586ea467caa2f3fbba02bc7272dcde5527f88e6099bb345"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 4",
+     "bytes": 2857,
+     "sha256": "d4568474945eb4f93b1f667ee2554245722b9a8888e93a3d63cc45e279d6cbbb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 5",
+     "bytes": 3898,
+     "sha256": "affad5720ee0f2f526635ec18adbf1d14493503d0f715a81a2d8720d03f11aa5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 6",
+     "bytes": 2335,
+     "sha256": "1a24a8a42fbd9f11a00ef3a72d8946f7db00b0457f9c29783b30ba1a23767279"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 7",
+     "bytes": 1524,
+     "sha256": "8402783bb296c0c7b1cec7d33310719ba422bbf424f7f3241c0f8d56e20c03b8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 8",
+     "bytes": 1529,
+     "sha256": "071c97abd9ae94d9814b197fcf09733adbf7f65348909f2690da08fe9449f738"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 9",
+     "bytes": 2694,
+     "sha256": "d7511c2076f3820068ba6a40fd3b2e330afe34aa0d270887ed9cf6a84834e1df"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 10",
+     "bytes": 1630,
+     "sha256": "ed9d139231b0341197ff6416a30c6be52faa440d5884ec5d2bbd4c114e218286"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 11",
+     "bytes": 2403,
+     "sha256": "c35f93648bfdab02a18e4a1f61db66a85d479838727983cff453a795267ba48e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 12",
+     "bytes": 2592,
+     "sha256": "e5c7a3c38c093c7069e6a7a81dc87407043b78a03913b24aad693e968d77366d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 13",
+     "bytes": 1913,
+     "sha256": "ce080e39bca17b8e2ebb59f624be8929e07f3ec7a10d17194a89388d89d46938"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 14",
+     "bytes": 1701,
+     "sha256": "c8c1beff03abc830af671496010fc0673a06c80aefdb48446cada6dd34ae2353"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 15",
+     "bytes": 3359,
+     "sha256": "9a1742ba716dfb3d12ea7ea6e47a621ff8c54b7e417d11e6df0a2f69c554e1a5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 16",
+     "bytes": 2292,
+     "sha256": "6e87a5f4457d55e9da26f405652c3a4e5e6ea1c0f00a82741f7c2f6b9b9dc8db"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 17",
+     "bytes": 1547,
+     "sha256": "a32ec800502e978895da2414aa9606159ec066b0348715409d54c6a1c172f745"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 18",
+     "bytes": 1488,
+     "sha256": "955e11320eef7804b0129eb5bcb36e229a1fb2d5a832b96d47b274c778052433"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 19",
+     "bytes": 3191,
+     "sha256": "845b227aa54b31cfea774e783f19b5a9400907eb33c7a37b3be80c73f4caa6fb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 20",
+     "bytes": 2946,
+     "sha256": "f2a4eb5fd9546d520d06cc75482f79cd4f27d9be981a03472c9cb217580a5f43"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 21",
+     "bytes": 1801,
+     "sha256": "8a9226caff3de6223fef2a4914e6eef65b5b0c259344ce678fab13fff0c03542"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 22",
+     "bytes": 1643,
+     "sha256": "7ebbbf623e1e6157b6c421ba808390e4a784f6f3041b10e460eb72e3738ef8d3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 23",
+     "bytes": 2358,
+     "sha256": "195f9df6c507fc62492c015faab1124fcfa95ba55fa446652ba798f671b11d8b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 24",
+     "bytes": 2379,
+     "sha256": "4ee9b1de6c7bbab44dc1db745a18a2d6416015bb537473cc1ac16f81d6bfb34b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 25",
+     "bytes": 2345,
+     "sha256": "3133a5373d32e729821fdfc46097f48178b7bf837d2e3bb617937bd9f3c377a3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 26",
+     "bytes": 2223,
+     "sha256": "13b9f1ba5c4aafc200ae3a56aaada5d562803e5b2c1681d3863f08a3adc89e8a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 27",
+     "bytes": 2068,
+     "sha256": "4e5ec6d2f61856a4bcced0d9a1d25b45ac384c3ce56583711f39cb6cc41e8e2d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 28",
+     "bytes": 2143,
+     "sha256": "18dd5ab4119c3ec6f33d3942b0dd70de582ef504589dcf4ab1ab1e6e37c17bc3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 29",
+     "bytes": 2874,
+     "sha256": "9715f4398d02817102fa0d637bc42445b853ff4d7500c122f56548c4cec7ada8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 30",
+     "bytes": 1884,
+     "sha256": "fba5a7066b028cf3ab78dbeba536499d09c66bae377bbfdf7f79689e0e219a00"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 31",
+     "bytes": 1903,
+     "sha256": "390093a1996df1a5e85586ca295724999df98e7f605586dd8a2cfa9ba728a5c7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 32",
+     "bytes": 1770,
+     "sha256": "fa63597a208155ec47a78d0326e10ac61987e8845a9217e21480612aa5f1ffdc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 33",
+     "bytes": 1711,
+     "sha256": "5fe04dd97a4108a4861f6bc9b1599e39aec6f49ea9b40e0e9eca9573b06fdb3b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 34",
+     "bytes": 2336,
+     "sha256": "27e9792e33fe74db35e3e0e17a71db582097948aa9d12eef8edb2aa8d95dd49a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 35",
+     "bytes": 2145,
+     "sha256": "890803a11a671715a482060b31fd21c990713dc9cf809f53ba0aff028244b49a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 36",
+     "bytes": 1770,
+     "sha256": "fe40b67be0db3a9e813f12b9afc266b03800adb6ec7aee4936bbf0b78df4380e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 37",
+     "bytes": 1994,
+     "sha256": "9ae44c60456e9a651113e7cb021b45e0ca56abf9e9959ab574fdceab7f8a4679"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 38",
+     "bytes": 2094,
+     "sha256": "6fbfa3679e9874677d474286603f903cd57cf95d0ed894c309b1dc27f1f48a5d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 39",
+     "bytes": 1582,
+     "sha256": "d49aeef67d718c5e493e6a21642fbb705972ba5ae47f35997001bd17ea5fac5e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 40",
+     "bytes": 1637,
+     "sha256": "612e781e3a85a7a1ef4445eabe9e7cf03fec2bd544b4b50aff34ed83d7a541c0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 41",
+     "bytes": 1628,
+     "sha256": "3d6cb257bfe7912eb64fa2ebde435abc740fecbb457f59d90ff10faa5e99b051"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 42",
+     "bytes": 2315,
+     "sha256": "6d7f22b02410714b227ed617ae1343f725f845e98e815c7906a4e7bf2975db6f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 43",
+     "bytes": 1426,
+     "sha256": "25144d27da714e140d08f2513f5b6142fe2e7a6b760a0b9678ee8dd6511fe473"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 44",
+     "bytes": 2983,
+     "sha256": "b1a269e11d4bce4934f644ffc3584a10d55dafb3b1f51e7be10c6b4d532a1781"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 45",
+     "bytes": 2261,
+     "sha256": "f1c0af5fcdb40bac8408701740b0199802c51072ba469e35bc222aa6d773fab1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 46",
+     "bytes": 3544,
+     "sha256": "f7bccb7ff0ff3989d4bb9cda64bde7426c20122c7b4ecafd32a384cd384b3977"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 47",
+     "bytes": 1610,
+     "sha256": "2ce85b2779b06a5c8e9c9a86a610e06969c077599b1bb5a64e74162a39977d18"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 48",
+     "bytes": 2709,
+     "sha256": "6699da6a71e3b2913e3732f64415041da976c25b1a3310fec95c464d44d8d779"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 49",
+     "bytes": 2225,
+     "sha256": "e1510c4fe0a4f772e0bbd91aac3420605a8f1949f9dd30039fefbe4a87d93659"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 50",
+     "bytes": 1699,
+     "sha256": "80268b3e22e36eb86d813b49309a8b3fd11b8da5b3853a864258acf6336918a8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 51",
+     "bytes": 1839,
+     "sha256": "c25632df5a19c945fc81ea0c4e2c248127c4dd7127c3c1862add9fc8ec40d12b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 52",
+     "bytes": 1779,
+     "sha256": "048247cce7ff8a7530a9f13e7b1877c51a64fffc877e4c628c92db929485dd48"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 53",
+     "bytes": 1492,
+     "sha256": "27dede36b1fc14ace247ad89e95c8ca29c350190cb5f3e22550f36ad38cff362"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 54",
+     "bytes": 1685,
+     "sha256": "85f1a41b376c8b5f6c973c05c8715cb0f8afd28a4d9b24cc68c954df2674c10d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 55",
+     "bytes": 2031,
+     "sha256": "a23320d7b35375670bbfa5c29c86b53cc3d7c0a3e3e68cd17419558264c48183"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 56",
+     "bytes": 3542,
+     "sha256": "1035022cde551ed8011069d6aa3a9b6803ede892478462b35cf7d5fee08aad3f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 57",
+     "bytes": 1468,
+     "sha256": "034b372209883a9da0639af52f01f0dca8f56c2da78f71eed0fa8efd11ee4cdd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 58",
+     "bytes": 2276,
+     "sha256": "039cf3ad8e060e01eb611c8e11cd4fc456b3378ccc615d18c98d5f7da10f14c3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 59",
+     "bytes": 1831,
+     "sha256": "0553aa8c8b07ebece92a1a96d344069f8738643566c97c48cf21fefba92f8637"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 60",
+     "bytes": 2262,
+     "sha256": "8313b0e131f0af4522a8c509b27d63ae78554c452d539dcb83f7192eb106abd5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 61",
+     "bytes": 3393,
+     "sha256": "b696ebf4063ca9355aeeaf36ae4c7b306f4bbd8da0381cbb5d4ec974ba750f35"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 62",
+     "bytes": 1806,
+     "sha256": "542cce1dffafc17635f0e96ab3d37ca458f97c44cb6bc2d8cd0e4157b5098b0e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 63",
+     "bytes": 2074,
+     "sha256": "a12e8f2edc519b61467255d56a27870aac2019a7d6898dafcb7663461feb0c6c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 64",
+     "bytes": 1273,
+     "sha256": "0c04fef88fa2245d5b35db7672a61af9c5e334b8cc2eca8d7c6b46fdfacc8a92"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 65",
+     "bytes": 1661,
+     "sha256": "a42fa5214997b8e947b32d57c25066785b1066e669c7503cd9d1ea342f3d09b6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 66",
+     "bytes": 1844,
+     "sha256": "2c7895d60284c1a336bd290e17b8db39a181a435b78ad234d1ae8c129f1d9583"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 67",
+     "bytes": 1574,
+     "sha256": "3d7b63b339b1397ca428f1f30f08cfcd31fb85b6504601e4278b07b194fe388e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 68",
+     "bytes": 2432,
+     "sha256": "da7cd891808af2ad60346b458d1a0599dbf47ef30292b40acdb4d49836dd8d19"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 69",
+     "bytes": 3825,
+     "sha256": "d620c64ad962fc84abeb84a7c8cb4967212befb4874a528ed3718969df31452f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 70",
+     "bytes": 2114,
+     "sha256": "7e82b313b2af565f83890a93d22abc388b9bc43ea63e4027b35f788edfed5d91"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 71",
+     "bytes": 4544,
+     "sha256": "0acfdad43f908a5d530768a82f8195a045893c0bf66ea57af9b1d88ed85985f6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 72",
+     "bytes": 2350,
+     "sha256": "866d7efdb2f65f1d346d7647746a7705c1bc2a4cdc018703aa87275cb5a8bbc3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book II/Chapter 73",
+     "bytes": 1800,
+     "sha256": "1cabdc1087a4dd1a2b4ae76b6832f6b1d7359720efcab76b5225145a8f045ea6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 1",
+     "bytes": 6911,
+     "sha256": "bf71f46f9726d8b1becfca708a52e59c00fd9b57ea9be380eba0192237d0191d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 2",
+     "bytes": 2048,
+     "sha256": "60822d1d3fe9539499cea6227af8e013b32a877914e70241d1a288a05b422a17"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 3",
+     "bytes": 3197,
+     "sha256": "92e2b636f55b11917ad6df00ad2f97216275407b5aa674477376587998cc942c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 4",
+     "bytes": 2035,
+     "sha256": "b2f1005331f056ab832148d2745135092da91ead6b393c4d040e9c9e1e3e3ba5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 5",
+     "bytes": 3026,
+     "sha256": "e30c3a7481e2643f40335f12221d1ffe19934e2219ebebe44700daa2997bc7c2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 6",
+     "bytes": 2706,
+     "sha256": "a6b56bab673823b62fdc7d94f274bff382579b3d92a5f6726225f8680201f4aa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 7",
+     "bytes": 3156,
+     "sha256": "4cf63db0ac2e6b219dc1efabd82ab809291ff80dbe7526f1571e5ea7009aef96"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 8",
+     "bytes": 2182,
+     "sha256": "40dba99331f5f5995d6204d21b976d03bd813b1bb77e47da30bc32fa4f627dcf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 9",
+     "bytes": 1793,
+     "sha256": "af198468868b7f8f6b99b4b1a04beee7a84ce5e5640dff34850763559e2f85cd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 10",
+     "bytes": 3390,
+     "sha256": "5664372bd711b9fa05e489587b92371da90a889ad5fa3daa986c820b962b75be"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 11",
+     "bytes": 1622,
+     "sha256": "ef94d858497686c14a343695267f39a16345e2b616dac6a32bdebc8b97c2fcf1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 12",
+     "bytes": 3688,
+     "sha256": "8f5def1122c67362d0efbf6d39c5c393815d3ab8bcb71cc0b968fde856285efb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 13",
+     "bytes": 2089,
+     "sha256": "333eba3f337c688dbb1225e38cbedfd3f77c79e6a4fdae522e8c84fb12181b79"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 14",
+     "bytes": 1618,
+     "sha256": "c58c1efb6bfb458196987bdbf3565b9154d2ba3325090cfe73008936e459ee17"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 15",
+     "bytes": 2342,
+     "sha256": "b08c3b70bcf37a6ff5b33acb04c318c6de4efd5d86c4599382ac7628c6fe182e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 16",
+     "bytes": 1487,
+     "sha256": "b2539a9f89f0492f0143559481154f15e76faa067dd5d01f643f5e43eb32dc81"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 17",
+     "bytes": 2177,
+     "sha256": "34287e279e225c0359ca90f095b42b38fd8e1400416da969f4dd31467dcea21e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 18",
+     "bytes": 5056,
+     "sha256": "bc6cee08c34e09030153cb4c5a355eec00205d75c906a53da4bf855121a5e689"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 19",
+     "bytes": 2919,
+     "sha256": "40b8af99a8a9315f8e90b4b2254a20306760a5067dbe14df217709618d62a8d9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 20",
+     "bytes": 2259,
+     "sha256": "c2d96287a96f52caa6adef1b10f8e2262bc1898693057c3e56c7141778a9e7a2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 21",
+     "bytes": 3569,
+     "sha256": "0cd5ce3751b6201b9916a16f63c0b21ce52908d6a748449a8e3f659f3ba5949a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 22",
+     "bytes": 1373,
+     "sha256": "f8534bc4ad9033282cc09c90f63da488579f3b639249938de395934ec91a0038"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 23",
+     "bytes": 1848,
+     "sha256": "e97535eedc542af02c8fa3ef857bec9a571e727bd2e81eaba0521adf53a7fedc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 24",
+     "bytes": 1558,
+     "sha256": "f5eafba4ea0fc1651f27cc88797dcc02f07dbeeba65bce077b1c8211c36a9494"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 25",
+     "bytes": 1547,
+     "sha256": "925c2636975210f5691faeaa66c44c64be5ebd1e8759cd0d7986f067e4ba954c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 26",
+     "bytes": 4104,
+     "sha256": "0c520a89f151f54b9e60188ac52e9862cdee4d72394dfc620004b7ee39bdb2de"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 27",
+     "bytes": 1588,
+     "sha256": "01979a122e5e42dea41c5776d5ba62c816719f647c8191928220fd8e4577021b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 28",
+     "bytes": 2072,
+     "sha256": "1006d711ca804a2251f04a55b2d65c20038547f047915c9604108264ad04e738"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 29",
+     "bytes": 1949,
+     "sha256": "b528dece233e817c2a34e5dd6663648ff186a14532f2889c9c4081e91b038301"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 30",
+     "bytes": 2863,
+     "sha256": "28c1a1a7c7f1befa52aa045b6af4c835e91b73664684781b65cbd98e9cef87c1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 31",
+     "bytes": 2289,
+     "sha256": "2af1d354f5a5b942c501fb02b37a79b1c43a2bd6b8368e1b9e24d68bb0c72155"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 32",
+     "bytes": 2464,
+     "sha256": "149585d7e1d2f62b341a82bf26233cc8e849b692ca58116c6dda9c21fdfc3146"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 33",
+     "bytes": 2482,
+     "sha256": "8d77d534264408041333443be47b5831d5e7a116f7126102dd5c4093c0bfb7b2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 34",
+     "bytes": 1201,
+     "sha256": "cd8202e971fdd053fcca29b25d9486820e3d6c50ef38bc882280c2d0a9c75178"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 35",
+     "bytes": 1200,
+     "sha256": "ed0465e0a2ae0304aacfe217562dbca4d01aa39c8ec0ccfc0b8dcd3f07b0d8ed"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 36",
+     "bytes": 2053,
+     "sha256": "b0004ecd57292c06e72e41629963999af84a97f6a7a6ef90ff85d76dd35977a2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 37",
+     "bytes": 2084,
+     "sha256": "faa426ecd060aef996fbeaa0376f992b55b2c14719c8c798cb51b93372165751"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 38",
+     "bytes": 1572,
+     "sha256": "c03a509943899c95ce17137482191b511571c8a415e23d145d26653eb0fae369"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 39",
+     "bytes": 1842,
+     "sha256": "1364bc9252bfb8fced41ea0d878a7acbf09fb724fffd10706803e9d62549134b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 40",
+     "bytes": 1771,
+     "sha256": "82dc416503d5dfebfe41e8d52e66477e372d3729dd691d44e261135b8b2fe7bb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 41",
+     "bytes": 1727,
+     "sha256": "4b3f963605e886d969dd4042b1744ed046ac5f6adfa7dcd74b44e8b2b78a3c5e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 42",
+     "bytes": 2228,
+     "sha256": "d569b4397fd2d74d0765980d6b606415c6111eadc6e332acd4d4b7f5ef43bbe6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 43",
+     "bytes": 3666,
+     "sha256": "797e6d4242d61ea0ad1042936cb0fc3f468536a2c92301e805276c9bc26f771a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 44",
+     "bytes": 1648,
+     "sha256": "6db6f348eede0dd8737a038966305263eaa4598c9257a8eb916405c978df00f8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 45",
+     "bytes": 1756,
+     "sha256": "1d6d6811388b1c74789edd3a2238c9aa32fa7a5a8c4dfc985e6f1ebea2af239c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 46",
+     "bytes": 2443,
+     "sha256": "fa6773d6fc7010de5fbf84d7326b634d345f5b6276ce86dc90d502450d54cb10"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 47",
+     "bytes": 2812,
+     "sha256": "edeaa51f984c862b771c8617c7177e4ad87570011242e57ecf4933d097c2a510"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 48",
+     "bytes": 1876,
+     "sha256": "e01041e170abf6ea5de47dd8eb68a82b9fdea24f0a65bff82ecf6e75c3971bd4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 49",
+     "bytes": 1932,
+     "sha256": "cc82857552276138a195925e20a911897b8e1216116889e0aac54a89ef729ac4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 50",
+     "bytes": 2174,
+     "sha256": "81d8e827370f4fc2b6ab678d3d614efda7960cedecd9b03471e318c98ce3765d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 51",
+     "bytes": 3188,
+     "sha256": "40bdb361016e3c5e4f2dc8eaad1795e41437c3851a3d2025c0cc61e3ad5d46de"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 52",
+     "bytes": 2078,
+     "sha256": "cee2de76f3a27233d6d43e01af5209e33072f8014cc66f72e92dfad051574df0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 53",
+     "bytes": 3753,
+     "sha256": "6f5f4c6046d2d253e56d967940757e0e3b8a9faf240450b0ca6978d55580b6ba"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 54",
+     "bytes": 4195,
+     "sha256": "179d4217e5ceb39a501ec488e7ecebdd55bb56ba25034b34e01039e7fb922eaf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 55",
+     "bytes": 3129,
+     "sha256": "2e8e3fa3c7dd8487d1729401cc54355f4a28086d35d3b7d77b338f192a375463"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 56",
+     "bytes": 2594,
+     "sha256": "90fb2cdcdce1bf591df3336b243ef01971b61d171f5a5e351c3566479087f885"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 57",
+     "bytes": 2805,
+     "sha256": "d5a7200d7e5b363bbc4888e0352213c3fb58f8deb6d4f8416f78c8c9a7edef24"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 58",
+     "bytes": 2859,
+     "sha256": "e38d548f3ac6fefac216a541ac6fc91ea6e843725851dcb50bf0c3016c9372e2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 59",
+     "bytes": 4259,
+     "sha256": "9acb5e2a4a33a0cfd0613e2a940f4d09504877b0a0bec0b8601ee1e25aaaf20c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 60",
+     "bytes": 8492,
+     "sha256": "1cb3330f939cd1a1d871afca6be311f79acc5ea68a00d7fa30900b9e1d5f3955"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 61",
+     "bytes": 2683,
+     "sha256": "1ed5452685665cbc6047f0cf04cf990d320063e85cbc08b9bc8089dcb1b527b3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 62",
+     "bytes": 3951,
+     "sha256": "4659042f5e0ab97101d8f3287a0654074e111b4c904f11a9a54b4fee4123025d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 63",
+     "bytes": 2359,
+     "sha256": "8fc872293dd2fbabcaba6cc334b2fabfb2e9d71d6b531be0a64505e7573a9c95"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 64",
+     "bytes": 3243,
+     "sha256": "93b4fe9e774b9540afa70e3ca4971461c01e8ebaa6fdbb8878fff94f840a63c6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 65",
+     "bytes": 3596,
+     "sha256": "0ed9baea1056d333f1d76d08b59687148751aa8761f6c7df17a6c7829abf0cc6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book III/Chapter 66",
+     "bytes": 3393,
+     "sha256": "e1dedbf3b29f13f9ff4a0603289a33504651ef9382c792402f6d7f32fedcc9bd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 1",
+     "bytes": 2360,
+     "sha256": "8a19e70a988a2a2bbd3156910e006e5164a4daba697b1942bac79eb485dabbc2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 2",
+     "bytes": 1779,
+     "sha256": "eba11e702379bb8de609a69611a4959a3fb0eb708b0c7d09510a1f1749aff439"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 3",
+     "bytes": 1286,
+     "sha256": "54941118f7e0a43acf9b02e91a49e2779d986c71840dc8da862b7f3cee089087"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 4",
+     "bytes": 1953,
+     "sha256": "673bb5096671edfbf12dd181696692d23f2f3a96535a45b29bd2d5c6a0afd2ed"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 5",
+     "bytes": 2307,
+     "sha256": "4404158478360d69138817be3df33785f72f527d2bf0bd8084cdfb3aaa2899ca"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 6",
+     "bytes": 2128,
+     "sha256": "b9490e0643f44b4374c6714c9309a4a7b5f57133878079ae8a98d8d6207d2906"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 7",
+     "bytes": 3106,
+     "sha256": "7b01ab6c6a237c0ddd7a1445101bd7b23c5016e0b8d800620522b5a1b7669b29"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 8",
+     "bytes": 2122,
+     "sha256": "212827cf07216f833f13cd9d43f74ca80b2cbabbfaf042b72d56269c552a582a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 9",
+     "bytes": 1978,
+     "sha256": "146fb4c855098f852a10cc36085fb7c3c559c76c8f181155e8b03c4c7981ac76"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 10",
+     "bytes": 2336,
+     "sha256": "2d5c4652a75d5e64add6945a5aa9a03bb305b2669cc998245e873c379f04f84f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 11",
+     "bytes": 1916,
+     "sha256": "052371e471f7c8d99346ab3999169926006ab222eb73cc81f2ca3a28c9d9c84c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 12",
+     "bytes": 1749,
+     "sha256": "3c697a2d9c88270f6e0ed93082d7eaca4a64fbff5cade9140de86b569113b1ad"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 13",
+     "bytes": 2096,
+     "sha256": "9d9ba5f91182c0f2949ed1d439efb1477272cacf0b348ec055ed073dd9be47d8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 14",
+     "bytes": 1658,
+     "sha256": "c8aaaff32ad82fcbcebfcad4b0092b57d7ef6fe963d4a44a8e97ef9e5e5f4c74"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 15",
+     "bytes": 1491,
+     "sha256": "9d0716981e33da4381c3c5df14583659ebc652323fe8c711f0ebedda44ec7aa6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 16",
+     "bytes": 1340,
+     "sha256": "7f6f953b14111d16306e0820de5c042d0e756598fce99ec3f4ea5ff95ab36c1c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 17",
+     "bytes": 1407,
+     "sha256": "1f84776bcf62fb1d76d0a68bb63bff881e39aba09156bfcfa827878bc9bbd64d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 18",
+     "bytes": 3275,
+     "sha256": "9aa84fd22637daffeae1cf53e3360ddcff8980241cfe9f427e37968181f5ef5e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 19",
+     "bytes": 1889,
+     "sha256": "66649627ec7ec4696e96790388a907277d248e7e178c173659d65f2327d81f02"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 20",
+     "bytes": 1497,
+     "sha256": "37a9eddd349ccbc278d8ce3ea71d7d42315a27d6580f399c2bf3f74a45e6e679"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 21",
+     "bytes": 1505,
+     "sha256": "29f8c6d7f4b3682140af68622f55d0ec29631f502a4c59e49159537569b9890c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 22",
+     "bytes": 2177,
+     "sha256": "b1a321fd15451c00ead7e91a87e792c66a0199b6aa8e34519fac74fb41bd7366"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 23",
+     "bytes": 1997,
+     "sha256": "f0f6929156ab9a78f605a8fb892597b45d75b4f95346adb19adee730cbb9ada2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 24",
+     "bytes": 1826,
+     "sha256": "76637570080ccd9cb031a26c37486d4916d09a65e2d7f071d47f2011578140ea"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 25",
+     "bytes": 2769,
+     "sha256": "a96dff2390d4f4612785c5e75e06bc38c4fa1e304b60c8e1f90038762fcba983"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 26",
+     "bytes": 4598,
+     "sha256": "705c7f364e4af9da17cd6ef880368ad7302ea83de0ac6b54da40b6806c4aa857"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 27",
+     "bytes": 2159,
+     "sha256": "e7858d1a511153ac22de80039a5c7d6677ad3f95d60cd46e17f070a4446f4307"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 28",
+     "bytes": 1657,
+     "sha256": "d137df27e3824799e4626fb5705d43dbec4db19dcb88c0b303be78a01b14220e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 29",
+     "bytes": 3762,
+     "sha256": "fe22253517c887d634724cd62e9500490667b7cb929f639b2bdc3e473175eb50"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 30",
+     "bytes": 1967,
+     "sha256": "c3d0d05c9866d6e85d8458cb4aac624eb14df7f2597155e0a89e6bda738b275a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 31",
+     "bytes": 1523,
+     "sha256": "30eca343cff2f24d0485d3a9f15df850aefd3fb63b8512510a58e9781ed349fd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 32",
+     "bytes": 1569,
+     "sha256": "8abe61e2fdbee4f21830b16a5adba17887c3b18e51e2c38ad7f164f90d673736"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 33",
+     "bytes": 2324,
+     "sha256": "c68d16b6dfb96667104eb7244c9717fa0a93158428278b16e16bcab968225dbc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 34",
+     "bytes": 1435,
+     "sha256": "d6fe55a94cbce32a4336458ba31ed62c1dbecbfe591672415dadfb8db6f65473"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 35",
+     "bytes": 2662,
+     "sha256": "7c999525cafe32c90b18048a3c16c6fa382dacfa2ae6a8a4f8950e6366b359c5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 36",
+     "bytes": 4243,
+     "sha256": "befe4caf4b12fdbb0436368d282b330d7bb85fb451d8f5e8cb1eb315fa9e8290"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 37",
+     "bytes": 1926,
+     "sha256": "fb02b9cbd894ba57e574b15bb5a43f7e29a14bcb29011b82383abd26d074e09d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 38",
+     "bytes": 1398,
+     "sha256": "e55280de38aca86b01e6cbd23a03fad53bccf71d1b683c106e230801419ede35"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 39",
+     "bytes": 2088,
+     "sha256": "47e04173a9944c6a9485fc2e22da13127822ba0e283585bb06f8c0236b518483"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 40",
+     "bytes": 2651,
+     "sha256": "c18724d1bf8fc24b748b73c51de041efbb4d758716b9e3a48e4227cd3a89cc7f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 41",
+     "bytes": 2327,
+     "sha256": "8f1928a1dc2e224cd2ab66912a8c62a3444fcf0c6ad0b56127553ede5d9c2cdd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 42",
+     "bytes": 4009,
+     "sha256": "653ebfc7c6706beab2e5eb23638afcf6189386f92e80918ab5ab0d0acc72b836"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 43",
+     "bytes": 2887,
+     "sha256": "1de237a37182167c6ecfdc8b7aaccdd98b4e5e55f3ba3ee981e18e99670f30e7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 44",
+     "bytes": 1973,
+     "sha256": "bcaa7d65b73fc87b2abaa38c46619836f31af8fe9231d9018d593526740c28cb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 45",
+     "bytes": 3378,
+     "sha256": "86a08f58cc73f544910129633a30db323d1c3f5a800e26f8f6803553ec49dc6d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 46",
+     "bytes": 1955,
+     "sha256": "1cf7d5968924f3312aa980b0406d26551ded0a0d44324788dee831e6c788f34d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 47",
+     "bytes": 1689,
+     "sha256": "e5803f6a9b4f4445ba14d6b722d01bf619bfde8f2f215ca6186b01a14089181d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 48",
+     "bytes": 1893,
+     "sha256": "a092d44ac8e9448a9c8a4c2fdcdf3b5784548d7686a2a5f48c08ad447c1181ec"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 49",
+     "bytes": 1597,
+     "sha256": "35f6f8e70a8e82165a17f1916a1903550f903830cb92d27cb9b98efdc92e4149"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 50",
+     "bytes": 1589,
+     "sha256": "248d013ab2187dc4839fa7ceb6d045570da796f508c91ad0e8001a67a53954c4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 51",
+     "bytes": 2817,
+     "sha256": "575ce94155b401019aa17bad176a41a9f6990806d8ca6a713121bab829efa5eb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 52",
+     "bytes": 2956,
+     "sha256": "35e0f5bdfd29350e33086832bb30b3065815e09bc0634af43f72b2b2753c014f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 53",
+     "bytes": 1959,
+     "sha256": "ed5190bb034a1cd03f52a7aa01df7e68dbf715d07d84d19dcc12ff2b4b9b528e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 54",
+     "bytes": 2477,
+     "sha256": "82091ffc6ccb204a3b28c51eaf5c4bdcc4e319559492829aab8c699653f032b3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 55",
+     "bytes": 2694,
+     "sha256": "7a7527cb2875a149add59e6dd501cae96137405558da7484553cd466ced26423"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 56",
+     "bytes": 2278,
+     "sha256": "21a3832d4a6cab450f9ee2e5a71e016c605742ac5cc77aa0fe195c8f18a9ca2d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 57",
+     "bytes": 1560,
+     "sha256": "abf23c492d5feebd006267af23e1b7387f83a4d3a7ee1abee61e05d9ca02483c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 58",
+     "bytes": 1694,
+     "sha256": "f9d78114d1b9f3ad3fe7a36f104cf1c88b505c2bc9090357003df057c5481929"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 59",
+     "bytes": 1383,
+     "sha256": "20df14761a981d9bd8832b6625f5278bbfaad0f2c97750eee60b8f98c84a9e3a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 60",
+     "bytes": 2553,
+     "sha256": "d1d432f156ce5727dd861ebba6a2fc4106cc85a88f3b88af9053d835a9babed0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 61",
+     "bytes": 3700,
+     "sha256": "a6f380f2e76b489936e32b4fcf3cf3fb25a2b979d618128214277b81b755d85c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 62",
+     "bytes": 3725,
+     "sha256": "b79a71b901d2d4547c9fb83860ec7039c9a1ef7081302af859776082a76413ac"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 63",
+     "bytes": 2618,
+     "sha256": "82e247f87bde8465489e3df23ee534bf80ccd3b02c64c7f76b3eb97638853a66"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 64",
+     "bytes": 1958,
+     "sha256": "a4a28f9f8beba1b0b06b232333166205f653e927446f5e8ed7ee9b6cfcda29cf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 65",
+     "bytes": 1777,
+     "sha256": "9368db9c76575c34098bc06cd364f2a73e958b49326c501946c40fdc34faa578"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 66",
+     "bytes": 1751,
+     "sha256": "1c4b4d7a8038b0ef670bbc1525741167722a06087e88380d85d1f489250837ca"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 67",
+     "bytes": 2440,
+     "sha256": "605705cd106cc03961e69590b03f1b203d969961b843e2c196840f853f2814c0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 68",
+     "bytes": 2018,
+     "sha256": "bf0759096b12b5a167602c37fff02f119ad63e9da6f41f84ff4ce0a982b67336"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 69",
+     "bytes": 2162,
+     "sha256": "92ae00789b21e71361089e0c12f14105d90c3af47139931d0969e097fcdc055f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 70",
+     "bytes": 1707,
+     "sha256": "161cc344b527c0470feed2ae7129838d9c76e4e996cdc8edcc3c62c22436f308"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 71",
+     "bytes": 2746,
+     "sha256": "f28ad46156056e788f592179bf8fe2d190cc5b6dc883df9397b7fe93f49b61a3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 72",
+     "bytes": 1661,
+     "sha256": "8908fe8353061af3f0ce87b7b05b52b7f49ac734f72bd854087635850d816e13"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 73",
+     "bytes": 1293,
+     "sha256": "bd9d2d41cc5849c7738dc9c8d84f925090b0d187dcc4c4187e78c0bc374663cc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 74",
+     "bytes": 1552,
+     "sha256": "b0ec78bca4cb07c8d1bde0af58b3fc3d562f9a16761398f40992be3e50a2213c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume I/Constantine/The Life of Constantine/Book IV/Chapter 75",
+     "bytes": 2155,
+     "sha256": "0d6e06a6e220e406efd5c64f44f1e598613f57ac489ccc674320130984dc8b98"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.1",
+     "title": "1.1",
+     "segments": 9
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.2",
+     "title": "1.2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.3",
+     "title": "1.3",
+     "segments": 3
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.4",
+     "title": "1.4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.5",
+     "title": "1.5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.6",
+     "title": "1.6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.7",
+     "title": "1.7",
+     "segments": 3
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.8",
+     "title": "1.8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.9",
+     "title": "1.9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.10",
+     "title": "1.10",
+     "segments": 3
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.11",
+     "title": "1.11",
+     "segments": 3
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.12",
+     "title": "1.12",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.13",
+     "title": "1.13",
+     "segments": 3
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.14",
+     "title": "1.14",
+     "segments": 4
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.15",
+     "title": "1.15",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.16",
+     "title": "1.16",
+     "segments": 3
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.17",
+     "title": "1.17",
+     "segments": 3
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.18",
+     "title": "1.18",
+     "segments": 3
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.19",
+     "title": "1.19",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.20",
+     "title": "1.20",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.21",
+     "title": "1.21",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.22",
+     "title": "1.22",
+     "segments": 3
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.23",
+     "title": "1.23",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.24",
+     "title": "1.24",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.25",
+     "title": "1.25",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.26",
+     "title": "1.26",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.27",
+     "title": "1.27",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.28",
+     "title": "1.28",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.29",
+     "title": "1.29",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.30",
+     "title": "1.30",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.31",
+     "title": "1.31",
+     "segments": 3
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.32",
+     "title": "1.32",
+     "segments": 3
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.33",
+     "title": "1.33",
+     "segments": 3
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.34",
+     "title": "1.34",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.35",
+     "title": "1.35",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.36",
+     "title": "1.36",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.37",
+     "title": "1.37",
+     "segments": 3
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.38",
+     "title": "1.38",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.39",
+     "title": "1.39",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.40",
+     "title": "1.40",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.41",
+     "title": "1.41",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.42",
+     "title": "1.42",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.43",
+     "title": "1.43",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "1.44",
+     "title": "1.44",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "1.45",
+     "title": "1.45",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "1.46",
+     "title": "1.46",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "1.47",
+     "title": "1.47",
+     "segments": 3
+    },
+    {
+     "file": "0048.json",
+     "ref": "1.48",
+     "title": "1.48",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "1.49",
+     "title": "1.49",
+     "segments": 2
+    },
+    {
+     "file": "0050.json",
+     "ref": "1.50",
+     "title": "1.50",
+     "segments": 2
+    },
+    {
+     "file": "0051.json",
+     "ref": "1.51",
+     "title": "1.51",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "1.52",
+     "title": "1.52",
+     "segments": 2
+    },
+    {
+     "file": "0053.json",
+     "ref": "1.53",
+     "title": "1.53",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "1.54",
+     "title": "1.54",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "1.55",
+     "title": "1.55",
+     "segments": 2
+    },
+    {
+     "file": "0056.json",
+     "ref": "1.56",
+     "title": "1.56",
+     "segments": 2
+    },
+    {
+     "file": "0057.json",
+     "ref": "1.57",
+     "title": "1.57",
+     "segments": 2
+    },
+    {
+     "file": "0058.json",
+     "ref": "1.58",
+     "title": "1.58",
+     "segments": 3
+    },
+    {
+     "file": "0059.json",
+     "ref": "1.59",
+     "title": "1.59",
+     "segments": 2
+    },
+    {
+     "file": "0060.json",
+     "ref": "2.1",
+     "title": "2.1",
+     "segments": 4
+    },
+    {
+     "file": "0061.json",
+     "ref": "2.2",
+     "title": "2.2",
+     "segments": 3
+    },
+    {
+     "file": "0062.json",
+     "ref": "2.3",
+     "title": "2.3",
+     "segments": 3
+    },
+    {
+     "file": "0063.json",
+     "ref": "2.4",
+     "title": "2.4",
+     "segments": 4
+    },
+    {
+     "file": "0064.json",
+     "ref": "2.5",
+     "title": "2.5",
+     "segments": 4
+    },
+    {
+     "file": "0065.json",
+     "ref": "2.6",
+     "title": "2.6",
+     "segments": 2
+    },
+    {
+     "file": "0066.json",
+     "ref": "2.7",
+     "title": "2.7",
+     "segments": 2
+    },
+    {
+     "file": "0067.json",
+     "ref": "2.8",
+     "title": "2.8",
+     "segments": 2
+    },
+    {
+     "file": "0068.json",
+     "ref": "2.9",
+     "title": "2.9",
+     "segments": 3
+    },
+    {
+     "file": "0069.json",
+     "ref": "2.10",
+     "title": "2.10",
+     "segments": 2
+    },
+    {
+     "file": "0070.json",
+     "ref": "2.11",
+     "title": "2.11",
+     "segments": 2
+    },
+    {
+     "file": "0071.json",
+     "ref": "2.12",
+     "title": "2.12",
+     "segments": 2
+    },
+    {
+     "file": "0072.json",
+     "ref": "2.13",
+     "title": "2.13",
+     "segments": 2
+    },
+    {
+     "file": "0073.json",
+     "ref": "2.14",
+     "title": "2.14",
+     "segments": 2
+    },
+    {
+     "file": "0074.json",
+     "ref": "2.15",
+     "title": "2.15",
+     "segments": 2
+    },
+    {
+     "file": "0075.json",
+     "ref": "2.16",
+     "title": "2.16",
+     "segments": 2
+    },
+    {
+     "file": "0076.json",
+     "ref": "2.17",
+     "title": "2.17",
+     "segments": 2
+    },
+    {
+     "file": "0077.json",
+     "ref": "2.18",
+     "title": "2.18",
+     "segments": 2
+    },
+    {
+     "file": "0078.json",
+     "ref": "2.19",
+     "title": "2.19",
+     "segments": 2
+    },
+    {
+     "file": "0079.json",
+     "ref": "2.20",
+     "title": "2.20",
+     "segments": 2
+    },
+    {
+     "file": "0080.json",
+     "ref": "2.21",
+     "title": "2.21",
+     "segments": 3
+    },
+    {
+     "file": "0081.json",
+     "ref": "2.22",
+     "title": "2.22",
+     "segments": 2
+    },
+    {
+     "file": "0082.json",
+     "ref": "2.23",
+     "title": "2.23",
+     "segments": 2
+    },
+    {
+     "file": "0083.json",
+     "ref": "2.24",
+     "title": "2.24",
+     "segments": 3
+    },
+    {
+     "file": "0084.json",
+     "ref": "2.25",
+     "title": "2.25",
+     "segments": 2
+    },
+    {
+     "file": "0085.json",
+     "ref": "2.26",
+     "title": "2.26",
+     "segments": 2
+    },
+    {
+     "file": "0086.json",
+     "ref": "2.27",
+     "title": "2.27",
+     "segments": 2
+    },
+    {
+     "file": "0087.json",
+     "ref": "2.28",
+     "title": "2.28",
+     "segments": 2
+    },
+    {
+     "file": "0088.json",
+     "ref": "2.29",
+     "title": "2.29",
+     "segments": 2
+    },
+    {
+     "file": "0089.json",
+     "ref": "2.30",
+     "title": "2.30",
+     "segments": 2
+    },
+    {
+     "file": "0090.json",
+     "ref": "2.31",
+     "title": "2.31",
+     "segments": 2
+    },
+    {
+     "file": "0091.json",
+     "ref": "2.32",
+     "title": "2.32",
+     "segments": 2
+    },
+    {
+     "file": "0092.json",
+     "ref": "2.33",
+     "title": "2.33",
+     "segments": 2
+    },
+    {
+     "file": "0093.json",
+     "ref": "2.34",
+     "title": "2.34",
+     "segments": 2
+    },
+    {
+     "file": "0094.json",
+     "ref": "2.35",
+     "title": "2.35",
+     "segments": 2
+    },
+    {
+     "file": "0095.json",
+     "ref": "2.36",
+     "title": "2.36",
+     "segments": 2
+    },
+    {
+     "file": "0096.json",
+     "ref": "2.37",
+     "title": "2.37",
+     "segments": 2
+    },
+    {
+     "file": "0097.json",
+     "ref": "2.38",
+     "title": "2.38",
+     "segments": 2
+    },
+    {
+     "file": "0098.json",
+     "ref": "2.39",
+     "title": "2.39",
+     "segments": 2
+    },
+    {
+     "file": "0099.json",
+     "ref": "2.40",
+     "title": "2.40",
+     "segments": 2
+    },
+    {
+     "file": "0100.json",
+     "ref": "2.41",
+     "title": "2.41",
+     "segments": 2
+    },
+    {
+     "file": "0101.json",
+     "ref": "2.42",
+     "title": "2.42",
+     "segments": 3
+    },
+    {
+     "file": "0102.json",
+     "ref": "2.43",
+     "title": "2.43",
+     "segments": 2
+    },
+    {
+     "file": "0103.json",
+     "ref": "2.44",
+     "title": "2.44",
+     "segments": 2
+    },
+    {
+     "file": "0104.json",
+     "ref": "2.45",
+     "title": "2.45",
+     "segments": 2
+    },
+    {
+     "file": "0105.json",
+     "ref": "2.46",
+     "title": "2.46",
+     "segments": 5
+    },
+    {
+     "file": "0106.json",
+     "ref": "2.47",
+     "title": "2.47",
+     "segments": 2
+    },
+    {
+     "file": "0107.json",
+     "ref": "2.48",
+     "title": "2.48",
+     "segments": 4
+    },
+    {
+     "file": "0108.json",
+     "ref": "2.49",
+     "title": "2.49",
+     "segments": 2
+    },
+    {
+     "file": "0109.json",
+     "ref": "2.50",
+     "title": "2.50",
+     "segments": 2
+    },
+    {
+     "file": "0110.json",
+     "ref": "2.51",
+     "title": "2.51",
+     "segments": 2
+    },
+    {
+     "file": "0111.json",
+     "ref": "2.52",
+     "title": "2.52",
+     "segments": 2
+    },
+    {
+     "file": "0112.json",
+     "ref": "2.53",
+     "title": "2.53",
+     "segments": 2
+    },
+    {
+     "file": "0113.json",
+     "ref": "2.54",
+     "title": "2.54",
+     "segments": 2
+    },
+    {
+     "file": "0114.json",
+     "ref": "2.55",
+     "title": "2.55",
+     "segments": 2
+    },
+    {
+     "file": "0115.json",
+     "ref": "2.56",
+     "title": "2.56",
+     "segments": 2
+    },
+    {
+     "file": "0116.json",
+     "ref": "2.57",
+     "title": "2.57",
+     "segments": 2
+    },
+    {
+     "file": "0117.json",
+     "ref": "2.58",
+     "title": "2.58",
+     "segments": 3
+    },
+    {
+     "file": "0118.json",
+     "ref": "2.59",
+     "title": "2.59",
+     "segments": 2
+    },
+    {
+     "file": "0119.json",
+     "ref": "2.60",
+     "title": "2.60",
+     "segments": 3
+    },
+    {
+     "file": "0120.json",
+     "ref": "2.61",
+     "title": "2.61",
+     "segments": 2
+    },
+    {
+     "file": "0121.json",
+     "ref": "2.62",
+     "title": "2.62",
+     "segments": 2
+    },
+    {
+     "file": "0122.json",
+     "ref": "2.63",
+     "title": "2.63",
+     "segments": 2
+    },
+    {
+     "file": "0123.json",
+     "ref": "2.64",
+     "title": "2.64",
+     "segments": 3
+    },
+    {
+     "file": "0124.json",
+     "ref": "2.65",
+     "title": "2.65",
+     "segments": 2
+    },
+    {
+     "file": "0125.json",
+     "ref": "2.66",
+     "title": "2.66",
+     "segments": 2
+    },
+    {
+     "file": "0126.json",
+     "ref": "2.67",
+     "title": "2.67",
+     "segments": 2
+    },
+    {
+     "file": "0127.json",
+     "ref": "2.68",
+     "title": "2.68",
+     "segments": 2
+    },
+    {
+     "file": "0128.json",
+     "ref": "2.69",
+     "title": "2.69",
+     "segments": 2
+    },
+    {
+     "file": "0129.json",
+     "ref": "2.70",
+     "title": "2.70",
+     "segments": 2
+    },
+    {
+     "file": "0130.json",
+     "ref": "2.71",
+     "title": "2.71",
+     "segments": 2
+    },
+    {
+     "file": "0131.json",
+     "ref": "2.72",
+     "title": "2.72",
+     "segments": 2
+    },
+    {
+     "file": "0132.json",
+     "ref": "2.73",
+     "title": "2.73",
+     "segments": 2
+    },
+    {
+     "file": "0133.json",
+     "ref": "3.1",
+     "title": "3.1",
+     "segments": 3
+    },
+    {
+     "file": "0134.json",
+     "ref": "3.2",
+     "title": "3.2",
+     "segments": 2
+    },
+    {
+     "file": "0135.json",
+     "ref": "3.3",
+     "title": "3.3",
+     "segments": 3
+    },
+    {
+     "file": "0136.json",
+     "ref": "3.4",
+     "title": "3.4",
+     "segments": 2
+    },
+    {
+     "file": "0137.json",
+     "ref": "3.5",
+     "title": "3.5",
+     "segments": 3
+    },
+    {
+     "file": "0138.json",
+     "ref": "3.6",
+     "title": "3.6",
+     "segments": 2
+    },
+    {
+     "file": "0139.json",
+     "ref": "3.7",
+     "title": "3.7",
+     "segments": 2
+    },
+    {
+     "file": "0140.json",
+     "ref": "3.8",
+     "title": "3.8",
+     "segments": 2
+    },
+    {
+     "file": "0141.json",
+     "ref": "3.9",
+     "title": "3.9",
+     "segments": 2
+    },
+    {
+     "file": "0142.json",
+     "ref": "3.10",
+     "title": "3.10",
+     "segments": 2
+    },
+    {
+     "file": "0143.json",
+     "ref": "3.11",
+     "title": "3.11",
+     "segments": 2
+    },
+    {
+     "file": "0144.json",
+     "ref": "3.12",
+     "title": "3.12",
+     "segments": 2
+    },
+    {
+     "file": "0145.json",
+     "ref": "3.13",
+     "title": "3.13",
+     "segments": 2
+    },
+    {
+     "file": "0146.json",
+     "ref": "3.14",
+     "title": "3.14",
+     "segments": 2
+    },
+    {
+     "file": "0147.json",
+     "ref": "3.15",
+     "title": "3.15",
+     "segments": 2
+    },
+    {
+     "file": "0148.json",
+     "ref": "3.16",
+     "title": "3.16",
+     "segments": 2
+    },
+    {
+     "file": "0149.json",
+     "ref": "3.17",
+     "title": "3.17",
+     "segments": 3
+    },
+    {
+     "file": "0150.json",
+     "ref": "3.18",
+     "title": "3.18",
+     "segments": 2
+    },
+    {
+     "file": "0151.json",
+     "ref": "3.19",
+     "title": "3.19",
+     "segments": 2
+    },
+    {
+     "file": "0152.json",
+     "ref": "3.20",
+     "title": "3.20",
+     "segments": 3
+    },
+    {
+     "file": "0153.json",
+     "ref": "3.21",
+     "title": "3.21",
+     "segments": 2
+    },
+    {
+     "file": "0154.json",
+     "ref": "3.22",
+     "title": "3.22",
+     "segments": 2
+    },
+    {
+     "file": "0155.json",
+     "ref": "3.23",
+     "title": "3.23",
+     "segments": 2
+    },
+    {
+     "file": "0156.json",
+     "ref": "3.24",
+     "title": "3.24",
+     "segments": 2
+    },
+    {
+     "file": "0157.json",
+     "ref": "3.25",
+     "title": "3.25",
+     "segments": 2
+    },
+    {
+     "file": "0158.json",
+     "ref": "3.26",
+     "title": "3.26",
+     "segments": 2
+    },
+    {
+     "file": "0159.json",
+     "ref": "3.27",
+     "title": "3.27",
+     "segments": 2
+    },
+    {
+     "file": "0160.json",
+     "ref": "3.28",
+     "title": "3.28",
+     "segments": 2
+    },
+    {
+     "file": "0161.json",
+     "ref": "3.29",
+     "title": "3.29",
+     "segments": 2
+    },
+    {
+     "file": "0162.json",
+     "ref": "3.30",
+     "title": "3.30",
+     "segments": 3
+    },
+    {
+     "file": "0163.json",
+     "ref": "3.31",
+     "title": "3.31",
+     "segments": 2
+    },
+    {
+     "file": "0164.json",
+     "ref": "3.32",
+     "title": "3.32",
+     "segments": 2
+    },
+    {
+     "file": "0165.json",
+     "ref": "3.33",
+     "title": "3.33",
+     "segments": 3
+    },
+    {
+     "file": "0166.json",
+     "ref": "3.34",
+     "title": "3.34",
+     "segments": 2
+    },
+    {
+     "file": "0167.json",
+     "ref": "3.35",
+     "title": "3.35",
+     "segments": 2
+    },
+    {
+     "file": "0168.json",
+     "ref": "3.36",
+     "title": "3.36",
+     "segments": 2
+    },
+    {
+     "file": "0169.json",
+     "ref": "3.37",
+     "title": "3.37",
+     "segments": 2
+    },
+    {
+     "file": "0170.json",
+     "ref": "3.38",
+     "title": "3.38",
+     "segments": 2
+    },
+    {
+     "file": "0171.json",
+     "ref": "3.39",
+     "title": "3.39",
+     "segments": 2
+    },
+    {
+     "file": "0172.json",
+     "ref": "3.40",
+     "title": "3.40",
+     "segments": 2
+    },
+    {
+     "file": "0173.json",
+     "ref": "3.41",
+     "title": "3.41",
+     "segments": 2
+    },
+    {
+     "file": "0174.json",
+     "ref": "3.42",
+     "title": "3.42",
+     "segments": 2
+    },
+    {
+     "file": "0175.json",
+     "ref": "3.43",
+     "title": "3.43",
+     "segments": 2
+    },
+    {
+     "file": "0176.json",
+     "ref": "3.44",
+     "title": "3.44",
+     "segments": 2
+    },
+    {
+     "file": "0177.json",
+     "ref": "3.45",
+     "title": "3.45",
+     "segments": 2
+    },
+    {
+     "file": "0178.json",
+     "ref": "3.46",
+     "title": "3.46",
+     "segments": 2
+    },
+    {
+     "file": "0179.json",
+     "ref": "3.47",
+     "title": "3.47",
+     "segments": 2
+    },
+    {
+     "file": "0180.json",
+     "ref": "3.48",
+     "title": "3.48",
+     "segments": 2
+    },
+    {
+     "file": "0181.json",
+     "ref": "3.49",
+     "title": "3.49",
+     "segments": 2
+    },
+    {
+     "file": "0182.json",
+     "ref": "3.50",
+     "title": "3.50",
+     "segments": 2
+    },
+    {
+     "file": "0183.json",
+     "ref": "3.51",
+     "title": "3.51",
+     "segments": 2
+    },
+    {
+     "file": "0184.json",
+     "ref": "3.52",
+     "title": "3.52",
+     "segments": 3
+    },
+    {
+     "file": "0185.json",
+     "ref": "3.53",
+     "title": "3.53",
+     "segments": 2
+    },
+    {
+     "file": "0186.json",
+     "ref": "3.54",
+     "title": "3.54",
+     "segments": 2
+    },
+    {
+     "file": "0187.json",
+     "ref": "3.55",
+     "title": "3.55",
+     "segments": 2
+    },
+    {
+     "file": "0188.json",
+     "ref": "3.56",
+     "title": "3.56",
+     "segments": 2
+    },
+    {
+     "file": "0189.json",
+     "ref": "3.57",
+     "title": "3.57",
+     "segments": 2
+    },
+    {
+     "file": "0190.json",
+     "ref": "3.58",
+     "title": "3.58",
+     "segments": 2
+    },
+    {
+     "file": "0191.json",
+     "ref": "3.59",
+     "title": "3.59",
+     "segments": 2
+    },
+    {
+     "file": "0192.json",
+     "ref": "3.60",
+     "title": "3.60",
+     "segments": 3
+    },
+    {
+     "file": "0193.json",
+     "ref": "3.61",
+     "title": "3.61",
+     "segments": 4
+    },
+    {
+     "file": "0194.json",
+     "ref": "3.62",
+     "title": "3.62",
+     "segments": 3
+    },
+    {
+     "file": "0195.json",
+     "ref": "3.63",
+     "title": "3.63",
+     "segments": 2
+    },
+    {
+     "file": "0196.json",
+     "ref": "3.64",
+     "title": "3.64",
+     "segments": 3
+    },
+    {
+     "file": "0197.json",
+     "ref": "3.65",
+     "title": "3.65",
+     "segments": 2
+    },
+    {
+     "file": "0198.json",
+     "ref": "3.66",
+     "title": "3.66",
+     "segments": 2
+    },
+    {
+     "file": "0199.json",
+     "ref": "4.1",
+     "title": "4.1",
+     "segments": 3
+    },
+    {
+     "file": "0200.json",
+     "ref": "4.2",
+     "title": "4.2",
+     "segments": 2
+    },
+    {
+     "file": "0201.json",
+     "ref": "4.3",
+     "title": "4.3",
+     "segments": 2
+    },
+    {
+     "file": "0202.json",
+     "ref": "4.4",
+     "title": "4.4",
+     "segments": 2
+    },
+    {
+     "file": "0203.json",
+     "ref": "4.5",
+     "title": "4.5",
+     "segments": 2
+    },
+    {
+     "file": "0204.json",
+     "ref": "4.6",
+     "title": "4.6",
+     "segments": 2
+    },
+    {
+     "file": "0205.json",
+     "ref": "4.7",
+     "title": "4.7",
+     "segments": 2
+    },
+    {
+     "file": "0206.json",
+     "ref": "4.8",
+     "title": "4.8",
+     "segments": 2
+    },
+    {
+     "file": "0207.json",
+     "ref": "4.9",
+     "title": "4.9",
+     "segments": 3
+    },
+    {
+     "file": "0208.json",
+     "ref": "4.10",
+     "title": "4.10",
+     "segments": 2
+    },
+    {
+     "file": "0209.json",
+     "ref": "4.11",
+     "title": "4.11",
+     "segments": 2
+    },
+    {
+     "file": "0210.json",
+     "ref": "4.12",
+     "title": "4.12",
+     "segments": 2
+    },
+    {
+     "file": "0211.json",
+     "ref": "4.13",
+     "title": "4.13",
+     "segments": 2
+    },
+    {
+     "file": "0212.json",
+     "ref": "4.14",
+     "title": "4.14",
+     "segments": 2
+    },
+    {
+     "file": "0213.json",
+     "ref": "4.15",
+     "title": "4.15",
+     "segments": 2
+    },
+    {
+     "file": "0214.json",
+     "ref": "4.16",
+     "title": "4.16",
+     "segments": 2
+    },
+    {
+     "file": "0215.json",
+     "ref": "4.17",
+     "title": "4.17",
+     "segments": 2
+    },
+    {
+     "file": "0216.json",
+     "ref": "4.18",
+     "title": "4.18",
+     "segments": 2
+    },
+    {
+     "file": "0217.json",
+     "ref": "4.19",
+     "title": "4.19",
+     "segments": 2
+    },
+    {
+     "file": "0218.json",
+     "ref": "4.20",
+     "title": "4.20",
+     "segments": 2
+    },
+    {
+     "file": "0219.json",
+     "ref": "4.21",
+     "title": "4.21",
+     "segments": 2
+    },
+    {
+     "file": "0220.json",
+     "ref": "4.22",
+     "title": "4.22",
+     "segments": 2
+    },
+    {
+     "file": "0221.json",
+     "ref": "4.23",
+     "title": "4.23",
+     "segments": 2
+    },
+    {
+     "file": "0222.json",
+     "ref": "4.24",
+     "title": "4.24",
+     "segments": 2
+    },
+    {
+     "file": "0223.json",
+     "ref": "4.25",
+     "title": "4.25",
+     "segments": 2
+    },
+    {
+     "file": "0224.json",
+     "ref": "4.26",
+     "title": "4.26",
+     "segments": 2
+    },
+    {
+     "file": "0225.json",
+     "ref": "4.27",
+     "title": "4.27",
+     "segments": 3
+    },
+    {
+     "file": "0226.json",
+     "ref": "4.28",
+     "title": "4.28",
+     "segments": 2
+    },
+    {
+     "file": "0227.json",
+     "ref": "4.29",
+     "title": "4.29",
+     "segments": 2
+    },
+    {
+     "file": "0228.json",
+     "ref": "4.30",
+     "title": "4.30",
+     "segments": 2
+    },
+    {
+     "file": "0229.json",
+     "ref": "4.31",
+     "title": "4.31",
+     "segments": 2
+    },
+    {
+     "file": "0230.json",
+     "ref": "4.32",
+     "title": "4.32",
+     "segments": 2
+    },
+    {
+     "file": "0231.json",
+     "ref": "4.33",
+     "title": "4.33",
+     "segments": 2
+    },
+    {
+     "file": "0232.json",
+     "ref": "4.34",
+     "title": "4.34",
+     "segments": 2
+    },
+    {
+     "file": "0233.json",
+     "ref": "4.35",
+     "title": "4.35",
+     "segments": 3
+    },
+    {
+     "file": "0234.json",
+     "ref": "4.36",
+     "title": "4.36",
+     "segments": 3
+    },
+    {
+     "file": "0235.json",
+     "ref": "4.37",
+     "title": "4.37",
+     "segments": 2
+    },
+    {
+     "file": "0236.json",
+     "ref": "4.38",
+     "title": "4.38",
+     "segments": 2
+    },
+    {
+     "file": "0237.json",
+     "ref": "4.39",
+     "title": "4.39",
+     "segments": 2
+    },
+    {
+     "file": "0238.json",
+     "ref": "4.40",
+     "title": "4.40",
+     "segments": 2
+    },
+    {
+     "file": "0239.json",
+     "ref": "4.41",
+     "title": "4.41",
+     "segments": 2
+    },
+    {
+     "file": "0240.json",
+     "ref": "4.42",
+     "title": "4.42",
+     "segments": 3
+    },
+    {
+     "file": "0241.json",
+     "ref": "4.43",
+     "title": "4.43",
+     "segments": 2
+    },
+    {
+     "file": "0242.json",
+     "ref": "4.44",
+     "title": "4.44",
+     "segments": 2
+    },
+    {
+     "file": "0243.json",
+     "ref": "4.45",
+     "title": "4.45",
+     "segments": 2
+    },
+    {
+     "file": "0244.json",
+     "ref": "4.46",
+     "title": "4.46",
+     "segments": 2
+    },
+    {
+     "file": "0245.json",
+     "ref": "4.47",
+     "title": "4.47",
+     "segments": 2
+    },
+    {
+     "file": "0246.json",
+     "ref": "4.48",
+     "title": "4.48",
+     "segments": 2
+    },
+    {
+     "file": "0247.json",
+     "ref": "4.49",
+     "title": "4.49",
+     "segments": 2
+    },
+    {
+     "file": "0248.json",
+     "ref": "4.50",
+     "title": "4.50",
+     "segments": 2
+    },
+    {
+     "file": "0249.json",
+     "ref": "4.51",
+     "title": "4.51",
+     "segments": 2
+    },
+    {
+     "file": "0250.json",
+     "ref": "4.52",
+     "title": "4.52",
+     "segments": 2
+    },
+    {
+     "file": "0251.json",
+     "ref": "4.53",
+     "title": "4.53",
+     "segments": 2
+    },
+    {
+     "file": "0252.json",
+     "ref": "4.54",
+     "title": "4.54",
+     "segments": 2
+    },
+    {
+     "file": "0253.json",
+     "ref": "4.55",
+     "title": "4.55",
+     "segments": 2
+    },
+    {
+     "file": "0254.json",
+     "ref": "4.56",
+     "title": "4.56",
+     "segments": 2
+    },
+    {
+     "file": "0255.json",
+     "ref": "4.57",
+     "title": "4.57",
+     "segments": 2
+    },
+    {
+     "file": "0256.json",
+     "ref": "4.58",
+     "title": "4.58",
+     "segments": 2
+    },
+    {
+     "file": "0257.json",
+     "ref": "4.59",
+     "title": "4.59",
+     "segments": 2
+    },
+    {
+     "file": "0258.json",
+     "ref": "4.60",
+     "title": "4.60",
+     "segments": 2
+    },
+    {
+     "file": "0259.json",
+     "ref": "4.61",
+     "title": "4.61",
+     "segments": 2
+    },
+    {
+     "file": "0260.json",
+     "ref": "4.62",
+     "title": "4.62",
+     "segments": 2
+    },
+    {
+     "file": "0261.json",
+     "ref": "4.63",
+     "title": "4.63",
+     "segments": 2
+    },
+    {
+     "file": "0262.json",
+     "ref": "4.64",
+     "title": "4.64",
+     "segments": 2
+    },
+    {
+     "file": "0263.json",
+     "ref": "4.65",
+     "title": "4.65",
+     "segments": 2
+    },
+    {
+     "file": "0264.json",
+     "ref": "4.66",
+     "title": "4.66",
+     "segments": 2
+    },
+    {
+     "file": "0265.json",
+     "ref": "4.67",
+     "title": "4.67",
+     "segments": 2
+    },
+    {
+     "file": "0266.json",
+     "ref": "4.68",
+     "title": "4.68",
+     "segments": 2
+    },
+    {
+     "file": "0267.json",
+     "ref": "4.69",
+     "title": "4.69",
+     "segments": 2
+    },
+    {
+     "file": "0268.json",
+     "ref": "4.70",
+     "title": "4.70",
+     "segments": 2
+    },
+    {
+     "file": "0269.json",
+     "ref": "4.71",
+     "title": "4.71",
+     "segments": 2
+    },
+    {
+     "file": "0270.json",
+     "ref": "4.72",
+     "title": "4.72",
+     "segments": 2
+    },
+    {
+     "file": "0271.json",
+     "ref": "4.73",
+     "title": "4.73",
+     "segments": 2
+    },
+    {
+     "file": "0272.json",
+     "ref": "4.74",
+     "title": "4.74",
+     "segments": 2
+    },
+    {
+     "file": "0273.json",
+     "ref": "4.75",
+     "title": "4.75",
+     "segments": 2
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 2,
+  "shared": 269,
+  "onlyInOriginal": 1,
+  "onlyInEnglish": 4
+ }
+}

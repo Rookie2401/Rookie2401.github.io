@@ -1,0 +1,671 @@
+{
+ "workId": "septuagint-sir",
+ "parallel": "segment",
+ "editions": [
+  {
+   "editionId": "brenton-greek-sir",
+   "role": "original",
+   "language": "greek",
+   "credit": "The Septuagint Version of the Old Testament, with an English Translation … and the Apocrypha (the Greek according to the Vatican text), ed. Lancelot Charles Lee Brenton (London: Samuel Bagster and Sons, 1851). Transcription: eBible.org (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://ebible.org/Scriptures/grcbrent_usfx.zip",
+   "sourceMember": "grcbrent_usfx.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1816960,
+   "sourceSha256": "ff88d6bdd6f21f279b24fe7ebcefd7747991cc24f232df95a676c5609fc25356",
+   "leftOut": {
+    "id": 52,
+    "toc": 108,
+    "s": 1
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 18624,
+    "barePerThousand": 30,
+    "digitWords": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "SIR.1",
+     "title": "Sirach 1",
+     "segments": 35
+    },
+    {
+     "file": "0002.json",
+     "ref": "SIR.2",
+     "title": "Sirach 2",
+     "segments": 18
+    },
+    {
+     "file": "0003.json",
+     "ref": "SIR.3",
+     "title": "Sirach 3",
+     "segments": 29
+    },
+    {
+     "file": "0004.json",
+     "ref": "SIR.4",
+     "title": "Sirach 4",
+     "segments": 31
+    },
+    {
+     "file": "0005.json",
+     "ref": "SIR.5",
+     "title": "Sirach 5",
+     "segments": 15
+    },
+    {
+     "file": "0006.json",
+     "ref": "SIR.6",
+     "title": "Sirach 6",
+     "segments": 37
+    },
+    {
+     "file": "0007.json",
+     "ref": "SIR.7",
+     "title": "Sirach 7",
+     "segments": 38
+    },
+    {
+     "file": "0008.json",
+     "ref": "SIR.8",
+     "title": "Sirach 8",
+     "segments": 19
+    },
+    {
+     "file": "0009.json",
+     "ref": "SIR.9",
+     "title": "Sirach 9",
+     "segments": 18
+    },
+    {
+     "file": "0010.json",
+     "ref": "SIR.10",
+     "title": "Sirach 10",
+     "segments": 30
+    },
+    {
+     "file": "0011.json",
+     "ref": "SIR.11",
+     "title": "Sirach 11",
+     "segments": 32
+    },
+    {
+     "file": "0012.json",
+     "ref": "SIR.12",
+     "title": "Sirach 12",
+     "segments": 18
+    },
+    {
+     "file": "0013.json",
+     "ref": "SIR.13",
+     "title": "Sirach 13",
+     "segments": 25
+    },
+    {
+     "file": "0014.json",
+     "ref": "SIR.14",
+     "title": "Sirach 14",
+     "segments": 27
+    },
+    {
+     "file": "0015.json",
+     "ref": "SIR.15",
+     "title": "Sirach 15",
+     "segments": 20
+    },
+    {
+     "file": "0016.json",
+     "ref": "SIR.16",
+     "title": "Sirach 16",
+     "segments": 28
+    },
+    {
+     "file": "0017.json",
+     "ref": "SIR.17",
+     "title": "Sirach 17",
+     "segments": 27
+    },
+    {
+     "file": "0018.json",
+     "ref": "SIR.18",
+     "title": "Sirach 18",
+     "segments": 32
+    },
+    {
+     "file": "0019.json",
+     "ref": "SIR.19",
+     "title": "Sirach 19",
+     "segments": 27
+    },
+    {
+     "file": "0020.json",
+     "ref": "SIR.20",
+     "title": "Sirach 20",
+     "segments": 31
+    },
+    {
+     "file": "0021.json",
+     "ref": "SIR.21",
+     "title": "Sirach 21",
+     "segments": 28
+    },
+    {
+     "file": "0022.json",
+     "ref": "SIR.22",
+     "title": "Sirach 22",
+     "segments": 25
+    },
+    {
+     "file": "0023.json",
+     "ref": "SIR.23",
+     "title": "Sirach 23",
+     "segments": 27
+    },
+    {
+     "file": "0024.json",
+     "ref": "SIR.24",
+     "title": "Sirach 24",
+     "segments": 32
+    },
+    {
+     "file": "0025.json",
+     "ref": "SIR.25",
+     "title": "Sirach 25",
+     "segments": 25
+    },
+    {
+     "file": "0026.json",
+     "ref": "SIR.26",
+     "title": "Sirach 26",
+     "segments": 20
+    },
+    {
+     "file": "0027.json",
+     "ref": "SIR.27",
+     "title": "Sirach 27",
+     "segments": 30
+    },
+    {
+     "file": "0028.json",
+     "ref": "SIR.28",
+     "title": "Sirach 28",
+     "segments": 26
+    },
+    {
+     "file": "0029.json",
+     "ref": "SIR.29",
+     "title": "Sirach 29",
+     "segments": 28
+    },
+    {
+     "file": "0030.json",
+     "ref": "SIR.30",
+     "title": "Sirach 30",
+     "segments": 42
+    },
+    {
+     "file": "0031.json",
+     "ref": "SIR.31",
+     "title": "Sirach 31",
+     "segments": 26
+    },
+    {
+     "file": "0032.json",
+     "ref": "SIR.32",
+     "title": "Sirach 32",
+     "segments": 20
+    },
+    {
+     "file": "0033.json",
+     "ref": "SIR.33",
+     "title": "Sirach 33",
+     "segments": 12
+    },
+    {
+     "file": "0034.json",
+     "ref": "SIR.34",
+     "title": "Sirach 34",
+     "segments": 31
+    },
+    {
+     "file": "0035.json",
+     "ref": "SIR.35",
+     "title": "Sirach 35",
+     "segments": 24
+    },
+    {
+     "file": "0036.json",
+     "ref": "SIR.36",
+     "title": "Sirach 36",
+     "segments": 31
+    },
+    {
+     "file": "0037.json",
+     "ref": "SIR.37",
+     "title": "Sirach 37",
+     "segments": 31
+    },
+    {
+     "file": "0038.json",
+     "ref": "SIR.38",
+     "title": "Sirach 38",
+     "segments": 34
+    },
+    {
+     "file": "0039.json",
+     "ref": "SIR.39",
+     "title": "Sirach 39",
+     "segments": 35
+    },
+    {
+     "file": "0040.json",
+     "ref": "SIR.40",
+     "title": "Sirach 40",
+     "segments": 30
+    },
+    {
+     "file": "0041.json",
+     "ref": "SIR.41",
+     "title": "Sirach 41",
+     "segments": 24
+    },
+    {
+     "file": "0042.json",
+     "ref": "SIR.42",
+     "title": "Sirach 42",
+     "segments": 25
+    },
+    {
+     "file": "0043.json",
+     "ref": "SIR.43",
+     "title": "Sirach 43",
+     "segments": 33
+    },
+    {
+     "file": "0044.json",
+     "ref": "SIR.44",
+     "title": "Sirach 44",
+     "segments": 23
+    },
+    {
+     "file": "0045.json",
+     "ref": "SIR.45",
+     "title": "Sirach 45",
+     "segments": 26
+    },
+    {
+     "file": "0046.json",
+     "ref": "SIR.46",
+     "title": "Sirach 46",
+     "segments": 20
+    },
+    {
+     "file": "0047.json",
+     "ref": "SIR.47",
+     "title": "Sirach 47",
+     "segments": 25
+    },
+    {
+     "file": "0048.json",
+     "ref": "SIR.48",
+     "title": "Sirach 48",
+     "segments": 25
+    },
+    {
+     "file": "0049.json",
+     "ref": "SIR.49",
+     "title": "Sirach 49",
+     "segments": 16
+    },
+    {
+     "file": "0050.json",
+     "ref": "SIR.50",
+     "title": "Sirach 50",
+     "segments": 29
+    },
+    {
+     "file": "0051.json",
+     "ref": "SIR.51",
+     "title": "Sirach 51",
+     "segments": 30
+    }
+   ]
+  },
+  {
+   "editionId": "brenton-english-sir",
+   "role": "english",
+   "language": "english",
+   "credit": "The Septuagint Version of the Old Testament, with an English Translation … and the Apocrypha, trans. Lancelot Charles Lee Brenton (London: Samuel Bagster and Sons, 1851). Transcription: eBible.org (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://ebible.org/Scriptures/eng-Brenton_usfx.zip",
+   "sourceMember": "eng-Brenton_usfx.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1548145,
+   "sourceSha256": "363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554",
+   "leftOut": {
+    "id": 60,
+    "toc": 179,
+    "f": 2600,
+    "x": 150
+   },
+   "segmentRefs": "citation",
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "SIR.1",
+     "title": "Sirach 1",
+     "segments": 35
+    },
+    {
+     "file": "0002.json",
+     "ref": "SIR.2",
+     "title": "Sirach 2",
+     "segments": 18
+    },
+    {
+     "file": "0003.json",
+     "ref": "SIR.3",
+     "title": "Sirach 3",
+     "segments": 29
+    },
+    {
+     "file": "0004.json",
+     "ref": "SIR.4",
+     "title": "Sirach 4",
+     "segments": 31
+    },
+    {
+     "file": "0005.json",
+     "ref": "SIR.5",
+     "title": "Sirach 5",
+     "segments": 15
+    },
+    {
+     "file": "0006.json",
+     "ref": "SIR.6",
+     "title": "Sirach 6",
+     "segments": 37
+    },
+    {
+     "file": "0007.json",
+     "ref": "SIR.7",
+     "title": "Sirach 7",
+     "segments": 36
+    },
+    {
+     "file": "0008.json",
+     "ref": "SIR.8",
+     "title": "Sirach 8",
+     "segments": 19
+    },
+    {
+     "file": "0009.json",
+     "ref": "SIR.9",
+     "title": "Sirach 9",
+     "segments": 18
+    },
+    {
+     "file": "0010.json",
+     "ref": "SIR.10",
+     "title": "Sirach 10",
+     "segments": 30
+    },
+    {
+     "file": "0011.json",
+     "ref": "SIR.11",
+     "title": "Sirach 11",
+     "segments": 32
+    },
+    {
+     "file": "0012.json",
+     "ref": "SIR.12",
+     "title": "Sirach 12",
+     "segments": 18
+    },
+    {
+     "file": "0013.json",
+     "ref": "SIR.13",
+     "title": "Sirach 13",
+     "segments": 25
+    },
+    {
+     "file": "0014.json",
+     "ref": "SIR.14",
+     "title": "Sirach 14",
+     "segments": 27
+    },
+    {
+     "file": "0015.json",
+     "ref": "SIR.15",
+     "title": "Sirach 15",
+     "segments": 20
+    },
+    {
+     "file": "0016.json",
+     "ref": "SIR.16",
+     "title": "Sirach 16",
+     "segments": 28
+    },
+    {
+     "file": "0017.json",
+     "ref": "SIR.17",
+     "title": "Sirach 17",
+     "segments": 27
+    },
+    {
+     "file": "0018.json",
+     "ref": "SIR.18",
+     "title": "Sirach 18",
+     "segments": 32
+    },
+    {
+     "file": "0019.json",
+     "ref": "SIR.19",
+     "title": "Sirach 19",
+     "segments": 27
+    },
+    {
+     "file": "0020.json",
+     "ref": "SIR.20",
+     "title": "Sirach 20",
+     "segments": 31
+    },
+    {
+     "file": "0021.json",
+     "ref": "SIR.21",
+     "title": "Sirach 21",
+     "segments": 28
+    },
+    {
+     "file": "0022.json",
+     "ref": "SIR.22",
+     "title": "Sirach 22",
+     "segments": 25
+    },
+    {
+     "file": "0023.json",
+     "ref": "SIR.23",
+     "title": "Sirach 23",
+     "segments": 27
+    },
+    {
+     "file": "0024.json",
+     "ref": "SIR.24",
+     "title": "Sirach 24",
+     "segments": 32
+    },
+    {
+     "file": "0025.json",
+     "ref": "SIR.25",
+     "title": "Sirach 25",
+     "segments": 25
+    },
+    {
+     "file": "0026.json",
+     "ref": "SIR.26",
+     "title": "Sirach 26",
+     "segments": 20
+    },
+    {
+     "file": "0027.json",
+     "ref": "SIR.27",
+     "title": "Sirach 27",
+     "segments": 30
+    },
+    {
+     "file": "0028.json",
+     "ref": "SIR.28",
+     "title": "Sirach 28",
+     "segments": 26
+    },
+    {
+     "file": "0029.json",
+     "ref": "SIR.29",
+     "title": "Sirach 29",
+     "segments": 28
+    },
+    {
+     "file": "0030.json",
+     "ref": "SIR.30",
+     "title": "Sirach 30",
+     "segments": 42
+    },
+    {
+     "file": "0031.json",
+     "ref": "SIR.31",
+     "title": "Sirach 31",
+     "segments": 26
+    },
+    {
+     "file": "0032.json",
+     "ref": "SIR.32",
+     "title": "Sirach 32",
+     "segments": 20
+    },
+    {
+     "file": "0033.json",
+     "ref": "SIR.33",
+     "title": "Sirach 33",
+     "segments": 12
+    },
+    {
+     "file": "0034.json",
+     "ref": "SIR.34",
+     "title": "Sirach 34",
+     "segments": 31
+    },
+    {
+     "file": "0035.json",
+     "ref": "SIR.35",
+     "title": "Sirach 35",
+     "segments": 24
+    },
+    {
+     "file": "0036.json",
+     "ref": "SIR.36",
+     "title": "Sirach 36",
+     "segments": 31
+    },
+    {
+     "file": "0037.json",
+     "ref": "SIR.37",
+     "title": "Sirach 37",
+     "segments": 31
+    },
+    {
+     "file": "0038.json",
+     "ref": "SIR.38",
+     "title": "Sirach 38",
+     "segments": 34
+    },
+    {
+     "file": "0039.json",
+     "ref": "SIR.39",
+     "title": "Sirach 39",
+     "segments": 35
+    },
+    {
+     "file": "0040.json",
+     "ref": "SIR.40",
+     "title": "Sirach 40",
+     "segments": 30
+    },
+    {
+     "file": "0041.json",
+     "ref": "SIR.41",
+     "title": "Sirach 41",
+     "segments": 24
+    },
+    {
+     "file": "0042.json",
+     "ref": "SIR.42",
+     "title": "Sirach 42",
+     "segments": 25
+    },
+    {
+     "file": "0043.json",
+     "ref": "SIR.43",
+     "title": "Sirach 43",
+     "segments": 33
+    },
+    {
+     "file": "0044.json",
+     "ref": "SIR.44",
+     "title": "Sirach 44",
+     "segments": 23
+    },
+    {
+     "file": "0045.json",
+     "ref": "SIR.45",
+     "title": "Sirach 45",
+     "segments": 26
+    },
+    {
+     "file": "0046.json",
+     "ref": "SIR.46",
+     "title": "Sirach 46",
+     "segments": 20
+    },
+    {
+     "file": "0047.json",
+     "ref": "SIR.47",
+     "title": "Sirach 47",
+     "segments": 25
+    },
+    {
+     "file": "0048.json",
+     "ref": "SIR.48",
+     "title": "Sirach 48",
+     "segments": 25
+    },
+    {
+     "file": "0049.json",
+     "ref": "SIR.49",
+     "title": "Sirach 49",
+     "segments": 16
+    },
+    {
+     "file": "0050.json",
+     "ref": "SIR.50",
+     "title": "Sirach 50",
+     "segments": 29
+    },
+    {
+     "file": "0051.json",
+     "ref": "SIR.51",
+     "title": "Sirach 51",
+     "segments": 30
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "divisionOnly": [
+   "SIR.7"
+  ],
+  "missingInOriginal": [],
+  "missingInEnglish": []
+ }
+}

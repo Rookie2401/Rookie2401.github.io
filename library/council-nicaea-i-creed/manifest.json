@@ -1,0 +1,36 @@
+{
+ "workId": "council-nicaea-i-creed",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "nicene-creed-325-npnf14",
+   "role": "english",
+   "language": "english",
+   "credit": "The Nicene Creed (325), with Percival's headnote, in Nicene and Post-Nicene Fathers, Series II, vol. 14: The Seven Ecumenical Councils of the Undivided Church, their canons and dogmatic decrees, ed. Henry R. Percival, trans. Various (translators of the individual texts are not named on the pages opened); edited with notes by Henry R. Percival (New York; Oxford; Edinburgh: The Christian Literature Company (New York); Parker & Co. (Oxford); T. & T. Clark (Edinburgh), 1900). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers: Series II), CC BY-SA (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_XIV/The_First_Ecumenical_Council/The_Nicene_Creed",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 3964,
+   "sourceSha256": "26256e439c6ae7e8611a24b58e1e67a0f6040f3fd7477f74f975436636adc8a8",
+   "leftOut": {
+    "note": 3
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The First Ecumenical Council/The Nicene Creed",
+     "bytes": 3964,
+     "sha256": "26256e439c6ae7e8611a24b58e1e67a0f6040f3fd7477f74f975436636adc8a8"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front",
+     "title": "front",
+     "segments": 9
+    }
+   ]
+  }
+ ]
+}

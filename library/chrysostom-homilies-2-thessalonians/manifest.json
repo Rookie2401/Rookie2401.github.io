@@ -1,0 +1,80 @@
+{
+ "workId": "chrysostom-homilies-2-thessalonians",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "chrysostom-2-thessalonians-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Homilies on the Second Epistle to the Thessalonians, in A Select Library of the Nicene and Post-Nicene Fathers, series I, vol. XIII (Homilies on Galatians, Ephesians, Philippians, Colossians, Thessalonians, Timothy, Titus, and Philemon), trans. The Oxford translation (Library of the Fathers), revised for the American edition; the original Oxford translators are not named on the pages opened; revised with additional notes by John A. Broadus (Buffalo; New York: Christian Literature Co., 1889). Wikisource contributors, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_XIII/On_Philippians,_Colossians,_and_Thessalonians/On_2_Thessalonians",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 114428,
+   "sourceSha256": "442f054f7797b41a609db8abdf0d8b84d60488814699192629f053a43a34a8d0",
+   "leftOut": {
+    "note": 16
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Philippians, Colossians, and Thessalonians/On 2 Thessalonians/2 Thessalonians 1:1,2",
+     "bytes": 25850,
+     "sha256": "5a9142d038f21935ca7222b9dbe3cb1877179b07fa0ffd8b9a9b6f4df649278b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Philippians, Colossians, and Thessalonians/On 2 Thessalonians/2 Thessalonians 1:9,10",
+     "bytes": 22257,
+     "sha256": "6bb04c9d9383666aadc0a7cbebdbc60c47f92347c2e067b2b8417d34a8005a40"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Philippians, Colossians, and Thessalonians/On 2 Thessalonians/2 Thessalonians 2:6-9",
+     "bytes": 23930,
+     "sha256": "2dbc190280f0f7175543354849f49159bea25ca7588eb04a4cb5001a9624454a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Philippians, Colossians, and Thessalonians/On 2 Thessalonians/2 Thessalonians 3:3-5",
+     "bytes": 28303,
+     "sha256": "76487e2a2aff9bea998061fd0a67544c3be281fa93d0db599cd7e13c74f40eb9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Philippians, Colossians, and Thessalonians/On 2 Thessalonians/Argument",
+     "bytes": 14088,
+     "sha256": "63ccb622c44cbf9e6be823235eb78eb8b4dc90c9abbc4938126011208f597a3c"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 31
+    },
+    {
+     "file": "0002.json",
+     "ref": "p2",
+     "title": "p2",
+     "segments": 27
+    },
+    {
+     "file": "0003.json",
+     "ref": "p3",
+     "title": "p3",
+     "segments": 33
+    },
+    {
+     "file": "0004.json",
+     "ref": "p4",
+     "title": "p4",
+     "segments": 42
+    },
+    {
+     "file": "0005.json",
+     "ref": "p5",
+     "title": "p5",
+     "segments": 17
+    }
+   ]
+  }
+ ]
+}

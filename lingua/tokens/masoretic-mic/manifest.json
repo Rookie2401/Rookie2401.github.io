@@ -1,0 +1,80 @@
+{
+ "workId": "masoretic-mic",
+ "editions": [
+  {
+   "editionId": "wlc-oshb-mic",
+   "language": "he",
+   "variety": "he-bib",
+   "textSource": "self",
+   "analysis": {
+    "id": "oshb@2019.01.13",
+    "kind": "verified-dataset",
+    "status": "verified"
+   },
+   "credit": "Open Scriptures Hebrew Bible (OSHB), morphology and lemmas by the OSHB project; text: Westminster Leningrad Codex (WLC)",
+   "licence": "OSHB lemma and morphology: CC BY 4.0; WLC text: public domain; headwords and glosses: Open Scriptures Lexical Index (CC BY 4.0), BDB (public domain), Strong's (public domain, JSON CC BY-SA), curated glosses of the Biblia build",
+   "source": "biblia-v0/data/oshb/Mic.xml",
+   "sourceUrl": "https://github.com/openscriptures/morphhb",
+   "version": "oshb 2018.4.23 (WLC version 4.20.); newest file 2019.01.13",
+   "coverage": {
+    "tokens": 1396,
+    "withLemma": 1396,
+    "withMorphology": 1176,
+    "verified": 1396,
+    "ambiguous": 0,
+    "unanalysed": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "MIC.1",
+     "title": "Micah 1",
+     "segments": 16,
+     "tokens": 212
+    },
+    {
+     "file": "0002.json",
+     "ref": "MIC.2",
+     "title": "Micah 2",
+     "segments": 13,
+     "tokens": 176
+    },
+    {
+     "file": "0003.json",
+     "ref": "MIC.3",
+     "title": "Micah 3",
+     "segments": 12,
+     "tokens": 166
+    },
+    {
+     "file": "0004.json",
+     "ref": "MIC.4",
+     "title": "Micah 4",
+     "segments": 14,
+     "tokens": 222
+    },
+    {
+     "file": "0005.json",
+     "ref": "MIC.5",
+     "title": "Micah 5",
+     "segments": 14,
+     "tokens": 172
+    },
+    {
+     "file": "0006.json",
+     "ref": "MIC.6",
+     "title": "Micah 6",
+     "segments": 16,
+     "tokens": 204
+    },
+    {
+     "file": "0007.json",
+     "ref": "MIC.7",
+     "title": "Micah 7",
+     "segments": 20,
+     "tokens": 244
+    }
+   ]
+  }
+ ]
+}

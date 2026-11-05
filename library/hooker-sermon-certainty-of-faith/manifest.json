@@ -1,0 +1,33 @@
+{
+ "workId": "hooker-sermon-certainty-of-faith",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "hooker-sermon-certainty-of-faith-tcp-a03585-1612",
+   "role": "english",
+   "language": "english",
+   "credit": "A learned and comfortable sermon of the certaintie and perpetuitie of faith in the elect especially of the prophet Habakkuks faith, in EEBO-TCP A03585, from the 1612 Oxford printing, ed. Henry Jackson (under the direction of John Spenser) (Oxford: Joseph Barnes (sold by John Barnes), 1612). Transcription: Text Creation Partnership (EEBO-TCP Phase 1); keyboarded from page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A03585/master/A03585.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 42158,
+   "sourceSha256": "74310c45f40fab6179181622472cc676cd06344177cab08ef36be1c1a13c08aa",
+   "leftOut": {
+    "pb": 18
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 5022,
+    "unreadPerThousand": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 9
+    }
+   ]
+  }
+ ]
+}

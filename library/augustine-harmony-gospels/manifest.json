@@ -1,0 +1,1831 @@
+{
+ "workId": "augustine-harmony-gospels",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "consensu-evangelistarum-weirich-csel43",
+   "role": "original",
+   "language": "latin",
+   "credit": "De consensu evangelistarum libri quattuor, in Sancti Aureli Augustini Opera, Sectio III, Pars IV (CSEL 43), ed. Franz Weirich (Prague; Vienna; Leipzig: F. Tempsky; G. Freytag, 1904). Open Greek and Latin / University of Leipzig (csel-dev): Latin text of Augustine, De consensu evangelistarum, ed. F. Weirich (CSEL 43, 1904), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa037/stoa0040.stoa037.opp-lat1.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1545440,
+   "sourceSha256": "56edb6fd627e4b4b5a6c7280edb206e1fb6d3dd3edc25a1e200bc1b844ff7092",
+   "leftOut": {
+    "milestone": 204,
+    "lb": 9128,
+    "note": 1952,
+    "pb": 415
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 77863,
+    "garbledPerThousand": 0.1,
+    "joinedPerThousand": 0.1,
+    "numbersPerThousand": 0.2
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 55
+    },
+    {
+     "file": "0002.json",
+     "ref": "u1",
+     "title": "QVAESTIONES SIUE CAPITULA LIBRORUM SECUNDI, TERTII, QVARTI.",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "u2",
+     "title": "u2",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "u3",
+     "title": "u3",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "2",
+     "title": "LIBER SECUNDUS.",
+     "segments": 158
+    },
+    {
+     "file": "0006.json",
+     "ref": "3",
+     "title": "LIBER TERTIUS.",
+     "segments": 86
+    },
+    {
+     "file": "0007.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 21
+    }
+   ]
+  },
+  {
+   "editionId": "harmony-salmond-npnf6-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "The Harmony of the Gospels, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. VI: Saint Augustin: Sermon on the Mount, Harmony of the Gospels, Homilies on the Gospels (ed. Philip Schaff; Buffalo; New York, Christian Literature Co., 1888); copy on English Wikisource, trans. S. D. F. Salmond (edited with notes by M. B. Riddle) (Buffalo; New York: Christian Literature Co., 1888). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_VI/The_Harmony_of_the_Gospels",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1049151,
+   "sourceSha256": "289be2a281568de4c63f81cbe909cc13ba71ed8f95019ec8bcb1ce8fe21b690a",
+   "leftOut": {
+    "note": 1190
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 1",
+     "bytes": 4087,
+     "sha256": "dc63fd870d450d2c8b9eab60ceb94880f102e5cb476131d484d67a8486cfba88"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 10",
+     "bytes": 4024,
+     "sha256": "bad1df16981ba5dac2bfe0227be2811e5e3588582878fd02804a5f06b9e8ebd8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 11",
+     "bytes": 2086,
+     "sha256": "1ee1c3f4269eb3dcb9dbc609428ba4c0115cf036fff5462c7a811622a58595a9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 12",
+     "bytes": 4977,
+     "sha256": "48eaab9c3523c78bdc542605bc67fe40b8d43a136d1d08dfd76f27e6cec1332c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 13",
+     "bytes": 2589,
+     "sha256": "4a2a90ba24e9a89ebdd32472a47a8f2e30d17c8eee59204d4c23cb999c5e0803"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 14",
+     "bytes": 5961,
+     "sha256": "2037cfba1c469da39f8a35ab39fef4c53b298166146eb9160097927bcf45c4c6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 15",
+     "bytes": 2661,
+     "sha256": "04e2a1028c0726bff02c001d38423b967599df2b75ff8ad794a86852a0b4cc05"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 16",
+     "bytes": 2295,
+     "sha256": "877d02760bf576927ea0f880919f5945d4f13e9718294cc604d7272d56cabe2c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 17",
+     "bytes": 2483,
+     "sha256": "db2354f869624c1367aa3806c0dc505eeb231cdd4c1e9680f025981a3d2ecb40"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 18",
+     "bytes": 3724,
+     "sha256": "0ab42a120dc67b6e176e279995be0d411778d16c38a17e1cf4c0e1a0779158f8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 19",
+     "bytes": 3766,
+     "sha256": "737b9a1cc07d89b1448a1760cc317075832ec80e35a0ea92252b5636ef5f4939"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 2",
+     "bytes": 5146,
+     "sha256": "f79d530c75b116294d61875dede9771d8d53abf983cd10be468f3427b6b184a2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 20",
+     "bytes": 3304,
+     "sha256": "15db7402a4db7ac63f2f6415fc5f5885392dd83c45652fe220583bba2e4da025"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 21",
+     "bytes": 3698,
+     "sha256": "f4eed35c49a2bde93fca568de40deac104f23a141ae14046820283e4f55402cd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 22",
+     "bytes": 2408,
+     "sha256": "ea3368ddb31c8b85e6e2779c3f780b3b547b5504de113bff22cee185d673bf34"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 23",
+     "bytes": 15917,
+     "sha256": "ffc732caac5da1bc86bdfde17e03203bb8e54105c2e5c2ee11451a26022a84a8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 24",
+     "bytes": 3073,
+     "sha256": "68e5fd791f01f4c386d985e55fda748eb58a462d58e8da4b80c8b4c8e00b10ff"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 25",
+     "bytes": 6599,
+     "sha256": "963844247373d9c6eebb8319bf62ace0441bb732f6ea87353abc6c74e724a029"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 26",
+     "bytes": 5329,
+     "sha256": "551c13921d3cbb705b37fca6f7cf0fe3da656f573fdd2787d62d7b288e621445"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 27",
+     "bytes": 3464,
+     "sha256": "97f049a3fcb90eda5cb80e6b9cba6956568481a441bc2d0aa371d992c644efe4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 28",
+     "bytes": 5274,
+     "sha256": "9e54f398ab257e59d44c596d87528debc35cdd8e6d5c53212be7c5e4908f2848"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 29",
+     "bytes": 3527,
+     "sha256": "00296668a3f4206871a9993cfc35bf9cf650ca005c92729a2e0274f6e8d68349"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 3",
+     "bytes": 5312,
+     "sha256": "52d87e8a932f7952b67e1d0b0ad7aea60761052e81426e8ef00f9ddec9e4f810"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 30",
+     "bytes": 4124,
+     "sha256": "8f319b83e204a3c2f7fb591bc81334895ab30ee3f42ede5b7ce9f7d844051fcd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 31",
+     "bytes": 9930,
+     "sha256": "6d38cab11ddb20d6cfff08b016b1e76d9c7c7c38cd9ab14770856c8e17845c01"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 32",
+     "bytes": 6476,
+     "sha256": "b985c5a2e3a6c574f77c21efa5b63d0df8f3366914f3256b842428f3590faf3c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 33",
+     "bytes": 4496,
+     "sha256": "cd93d8e82b70b26b244fc55482494c8fc18516e43480a254b10ece3f920533bb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 34",
+     "bytes": 3538,
+     "sha256": "3880cab7bb717708380537121e793116ddfdf93abf124a7ecff259bd2ae75d9c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 35",
+     "bytes": 6735,
+     "sha256": "4935bb938f57414b5e0187c2ec879d5a1f7dec7181da2ffcd6761fb486485b99"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 4",
+     "bytes": 3528,
+     "sha256": "f35fdcca7a5cf58b5c31ec9ff3773648e63b5d4da4c3472ddd9ec86b771e2d36"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 5",
+     "bytes": 4368,
+     "sha256": "538d9d2251e68ba37d96099d51b1c080746f546c6d5a777447c7f14bb8b62456"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 6",
+     "bytes": 6062,
+     "sha256": "d8fe4f22d31e8f5b18f17884e42c61f337b8bff1c4747461d0a098e66796946d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 7",
+     "bytes": 7480,
+     "sha256": "a7933fb7c016794c8d4e3204bd550414fda1d6b9338aa38323e810f78821a1dc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 8",
+     "bytes": 5169,
+     "sha256": "f1fa154031d8f930e113e22949f326ccde3637461a8c24f626f8f426b0c35ae8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book I/Chapter 9",
+     "bytes": 1831,
+     "sha256": "428bd5740af0ff5a59eb93ea2f44cd6f060063ae1d455db8b9ccd8ac43e4a00a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 1",
+     "bytes": 5500,
+     "sha256": "53982193d78c49f06beb99c87159d4f7f7bcac75386ab584476a4332e1a23f27"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 10",
+     "bytes": 3283,
+     "sha256": "76e22ee028dadd6e374dc719f813df2927543ebf4ebe68360790669415ca9969"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 11",
+     "bytes": 5188,
+     "sha256": "f37280ffd9c8faf3a6ee7cf836061a47e2cb4ee0363c200d0915780a74af5dc6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 12",
+     "bytes": 18798,
+     "sha256": "028b35bdcd3189ce96422c4076fc86dc44a776a1d36a49c98861b39d953d23cc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 13",
+     "bytes": 1566,
+     "sha256": "1c2a86b1031280f7b4e21e7b82b3f9e417340157bcdc346e4d6a01287bfadef7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 14",
+     "bytes": 5546,
+     "sha256": "9b0f0535fe9c7599cdbfcf0173c2615c337104cd8adb142ac5192c7b03ad2fd6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 15",
+     "bytes": 2455,
+     "sha256": "6649c0c23404159232389f25b54fe93490036a4ff6eff716dd753426025ab5e3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 16",
+     "bytes": 2651,
+     "sha256": "f7ee09d6bf3ccd6483f7d10b127560899f23937760eedf327ea66ca76e827d0a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 17",
+     "bytes": 15956,
+     "sha256": "3297bcdf9bf6e801087f1c5fdc4d910ccef26a4fd422b281214fbe8788a2669a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 18",
+     "bytes": 3712,
+     "sha256": "266f91c95d607d9a3385587a3e0c3aef5187dad978e596b5da7185583eacc32d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 19",
+     "bytes": 12079,
+     "sha256": "275f7aa080317648a3bdc9fd205834c73266cb5ffbb8f12e6340060a605116c7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 2",
+     "bytes": 2380,
+     "sha256": "6b4f28da6b788ddeab277bc83b2450766ecede758e91a68263c39dc30856e147"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 20",
+     "bytes": 7941,
+     "sha256": "789c339288ae8bfd5de07d5cec692b8d8bc628073f9e619e512197122db0bd99"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 21",
+     "bytes": 5452,
+     "sha256": "5a60c4c22905ea36853c9f947ef6d4029140bd97ebc7a170bb5bc57270f0130e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 22",
+     "bytes": 4857,
+     "sha256": "7cd6aecbebd38fc3ab31a6bc34ea429fb89f2b8b9ae044dec475c45a87a0374c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 23",
+     "bytes": 3775,
+     "sha256": "027c4758482ed5ebc0bd6d883b750df6a35c1fae2129ca97a0a81b381cfd6ae8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 24",
+     "bytes": 7078,
+     "sha256": "3ac834a61389b8a643a57765d6c4f12ad37208a4ce8c65b11c42f1650a1d199a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 25",
+     "bytes": 7339,
+     "sha256": "d50928135676347ad9862f3eb7fcfee80a71294e2a26441a34f2164502502c75"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 26",
+     "bytes": 2811,
+     "sha256": "6f9cbc910f7d9d55c32ba1c8ce4ca6e40cc178f3d57231b7037213dabbbcf288"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 27",
+     "bytes": 12421,
+     "sha256": "81703697d2f8dd457838b87d1281b293f0abae6cfad06f6ee7ec01f964a1cc38"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 28",
+     "bytes": 12641,
+     "sha256": "c95ed6056c2bd045b3ae984d541667fa82d27f796a791ebf83b5f73e9f50dfb4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 29",
+     "bytes": 2603,
+     "sha256": "ec9cefe6954cb901fe8ccd9717ec73eea63c9b53839cbe7406e0982ce307a5a0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 3",
+     "bytes": 10238,
+     "sha256": "419f1984c6da165cf4b49dc928d7468dbe058d1bba75c79fb5041dc9b7c02b66"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 30",
+     "bytes": 19865,
+     "sha256": "f6eea3b70f82c7e7678db13cc3d1153adc3559bcd4b44f7435cce35eeff652ec"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 31",
+     "bytes": 2118,
+     "sha256": "79ec7c01017125d7a90f660c90f5b3d4fe70b2434e0965f068585ec3e9f6bfda"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 32",
+     "bytes": 3189,
+     "sha256": "41c03dc6d8340271adc647275c989fe4ead200e5c1208e5ad1c91609667ac9e4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 33",
+     "bytes": 2414,
+     "sha256": "bbd2cfb2d269d7b4c0ebf92666dd1ce6251b5bcd2cfa9458aa17d55bb2f163b2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 34",
+     "bytes": 2132,
+     "sha256": "cfec363a1b61f36468af5635b2229b02c5bd346226d2e8e8f6dc9c34cbc6b88a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 35",
+     "bytes": 4178,
+     "sha256": "d9d8ee1cf70e4142edeb7386a4ffd9c04c19dfac5307e00351940d8e7f0bc16f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 36",
+     "bytes": 3080,
+     "sha256": "78998fb2ed839201c0bef3141c02fb3933f6d65fba14620c59d6491d10f345c2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 37",
+     "bytes": 1631,
+     "sha256": "96fbddb45c8a56c84fa37e47ce09e69bdb8e32de84c669d2c08019011a1b60c7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 38",
+     "bytes": 3073,
+     "sha256": "88620d2461c06e873600bdb78fb759bc49f95711479cce4c0fb7018182f72725"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 39",
+     "bytes": 4763,
+     "sha256": "869dba84d9b52bec390f97e0eea9d04e869593295a4e827b698afd1b3c4c7d6e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 4",
+     "bytes": 14324,
+     "sha256": "4fe4ec9405c80bceabc359c7754fe3ca9b2e722b772fc86b45a610dfb5bd0d10"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 40",
+     "bytes": 4137,
+     "sha256": "9302c87c6d27e32f4c865988e76c2c219a9e7661e1db88f3510b551dec99de8b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 41",
+     "bytes": 4118,
+     "sha256": "6351f675b9e375f250d76ec20853d7d4f48bb203210fcd2c313423f6d9ba8aff"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 42",
+     "bytes": 8635,
+     "sha256": "c7920cecf3c1784e10766a91fee17cc46260d4222cb21e7657c94e4782eac77d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 43",
+     "bytes": 5727,
+     "sha256": "ea090cf5e7e04104521d8822f6da008e98840b00c17da7550adf391ae6aa1705"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 44",
+     "bytes": 4753,
+     "sha256": "5c7fd7499ddc864404254d321b404ca8497bc694adbe4318a5f5237189214efd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 45",
+     "bytes": 7126,
+     "sha256": "562f63a0e4f31477d1b67926b3ab66cf85451405f1eae3e9bae2c25401054b73"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 46",
+     "bytes": 9682,
+     "sha256": "0f78b659a7d924b850879c7484dd7ab9e10340453ae2492513b4be11e64dc024"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 47",
+     "bytes": 10086,
+     "sha256": "59fd4af44edce30a5d8f2271ddc53e016f1e044fb39944d85d7ab6527f8ce6fc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 48",
+     "bytes": 3230,
+     "sha256": "983ee45229dc212d657d716bd345c25b1f3bcaae0f6435201afa00f4ba964eb8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 49",
+     "bytes": 4084,
+     "sha256": "5a2f21adb6799453b8e6bbba73f49e11c74cbc836a58d562a5c929851d4b1260"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 5",
+     "bytes": 32795,
+     "sha256": "34bfd32e1023dc3ac173f043b0ab2bd3d99ba064925342e09335af46ba2f2b8e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 50",
+     "bytes": 4566,
+     "sha256": "a511b97aef9e1a32c814ce4e877cfb5b9d3469603ee3301fa1bff21f73705f7b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 51",
+     "bytes": 3138,
+     "sha256": "fb99f883715ba9661df4039760d5df21bdb00a802091a89483912e7595e8db9c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 52",
+     "bytes": 1539,
+     "sha256": "a8562a7e5db40fd62d0b6d7e350bcdbfd97eb80e9ea3555f9f7eb1f9e6c92ee0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 53",
+     "bytes": 3882,
+     "sha256": "88f96e33139941c60e06699958896390820e16e62e5b01fd95835a90ea393ac3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 54",
+     "bytes": 1596,
+     "sha256": "22a04add531797e81e3ff93c3427c8f32d29f28a1de45ef958a95f63fcfc0311"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 55",
+     "bytes": 2341,
+     "sha256": "c51a66c9b9dbeb89a4c1384670795cd68c57c9dda3493a2600f822c7c88545b8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 56",
+     "bytes": 4520,
+     "sha256": "23607d11b715fc250d1e9e80436476d7a2ba518a6a4da2d1555d7d68585653ef"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 57",
+     "bytes": 1859,
+     "sha256": "e752fc5becfd4a41e35f41f9f33ad8d3566ebf6637cf4c478463498924061817"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 58",
+     "bytes": 1598,
+     "sha256": "563025d3219e7838727983f51f16a438a96d6aa396535ff557f34904b6da4784"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 59",
+     "bytes": 1356,
+     "sha256": "a3e60dae88111cc63801ead1abc65a6894c4726ed1bfcebe1e3b12de46b0f7cf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 6",
+     "bytes": 7073,
+     "sha256": "a275a38b0f340021f7a5867bc029fa1493b413c18c221e736029af88c8e0e280"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 60",
+     "bytes": 1441,
+     "sha256": "660d40110d8cfd52036cea2c14de9f2cd32b4c95c21dfc009589241f0d3bde44"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 61",
+     "bytes": 4321,
+     "sha256": "1b91f7bb78352434ac521ad92903bc2ab7de6acd210773589471a60238114b83"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 62",
+     "bytes": 7085,
+     "sha256": "a0891c1dd764baee7d64b7c3e56f4117598e7c406003078592235b22adf16218"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 63",
+     "bytes": 3975,
+     "sha256": "6ba024ed86854bcd72d3051bb4b2222d1fd6490d18963c3e19edea52f9986bba"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 64",
+     "bytes": 3435,
+     "sha256": "a1ebc37045ef8b307a16cd45e83d878a0780dd0d5e3b847057bd8cc50b68321c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 65",
+     "bytes": 4606,
+     "sha256": "4f1cbe998a9301ff9cb3b064c62598568f7e05586742d36818188e97dc287f06"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 66",
+     "bytes": 7413,
+     "sha256": "7aa78fa4cbaf8cf7d4d60da4e2434be2c8e2b608bc4a80a96d296a8d9e9c2446"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 67",
+     "bytes": 2318,
+     "sha256": "23253a29433708beca1a2b225e86c7b6479088b748f2e582749dc490c26a4ee2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 68",
+     "bytes": 8663,
+     "sha256": "26b621ce6883ea08d6a15ffac3183c669f02800af9d74b07e0c9a763f0db28fc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 69",
+     "bytes": 3938,
+     "sha256": "969e5361ae87ce763d0d4bb05d7241139c597d1f8cd26d8841b698bc4c783bba"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 7",
+     "bytes": 2340,
+     "sha256": "66dc9a2fb8489e7136c0ae1241bcf305df8036852eee483a794240366ef23405"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 70",
+     "bytes": 16056,
+     "sha256": "1b530a11c5616fb3d3ab8cec0c1fc8f73279fc5e5a58be4cc833cbbc2f8567d9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 71",
+     "bytes": 2659,
+     "sha256": "fde8e9c1930c2a7e720a293ccd7c012864210571c706cb580042e1875cdaf2df"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 72",
+     "bytes": 2792,
+     "sha256": "e8f6999e3cbbb4884180db47dbe65b232f9053788e3c2daa4d3627e7c94e5c34"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 73",
+     "bytes": 5185,
+     "sha256": "b346703d218e9be2441208dd1188fb098e9d77059fc6f40e676ddedd4a12396f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 74",
+     "bytes": 3947,
+     "sha256": "aa407e45ce14c8c923fb9f931edb8a82938b88bf54cfe224ee7d21f3f7245c0b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 75",
+     "bytes": 9083,
+     "sha256": "221ca597c9a21dc5b74f71b167a2a6dde395891501a48c823b708a30c01211b5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 76",
+     "bytes": 3501,
+     "sha256": "a95d5d67e39cb6d215224cb76f183551d256982c282c2826e3404a1d5b6f68b8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 77",
+     "bytes": 11741,
+     "sha256": "1921a7279be0bc5e1329c4daff9437de2420e9927fdb88c115ec33249a9ec429"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 78",
+     "bytes": 10883,
+     "sha256": "daf210691922b78471c028d46dfe84e3f333c21b584a9a6b177d1d37979e5af8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 79",
+     "bytes": 10180,
+     "sha256": "034eb76d223df360bbd2db215d2ed36a2740506f6e9d68156249daf966b06957"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 8",
+     "bytes": 2272,
+     "sha256": "027b8125f3037e03523fce611994351e1cc66cbc7dccaa6466ea277754ab37ff"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 80",
+     "bytes": 10082,
+     "sha256": "5effb5ae7d881fb5ced8b156d82fa4c3850f2c2ff55cfe2d87e459368e3f2d46"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/Chapter 9",
+     "bytes": 3082,
+     "sha256": "fc3e653908356b1a613a2d5f4d5c2df239f5ad06f365bebfdb3e219c2ef9bb40"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book II/The Prologue",
+     "bytes": 2445,
+     "sha256": "425d14c13db31420e263c5ee7abcaa397a9f783d56bf4ec75b2c2c1ac838e000"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 1",
+     "bytes": 7923,
+     "sha256": "ec1d7183f54e0fc660a1281828da0730553b2e83b2a08f50e9198d727fde10c9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 10",
+     "bytes": 2670,
+     "sha256": "3fd6302c80c7ac1c44756e973e9d03f3f8b2719fb4361b2d01df6ca9578799c0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 11",
+     "bytes": 2373,
+     "sha256": "a40db87ffa59c5229ea8de51fd0635505cafe7c6348780ad2952b6981c342dfd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 12",
+     "bytes": 2297,
+     "sha256": "58f62c7850a55a964e915b41205e4c4a656c8671beb7d2689f2870d43b9b44c4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 13",
+     "bytes": 32842,
+     "sha256": "aa13658b73609f04587ccec341e11d9678085834e65bc1bb0a9f401094975e47"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 14",
+     "bytes": 1582,
+     "sha256": "0d71996b4c5062420f64c9b61b5c37fd875ac0f970dcf054fa940f7e6a027b37"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 15",
+     "bytes": 2414,
+     "sha256": "ccf2fc4ce02e45e2fd47a444c9300dea32c844252f6a559a1b562c6e01aef751"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 16",
+     "bytes": 4903,
+     "sha256": "83ed6a73ffac931d2bdb4ed70e072e4629be429b890270d22642219e99f48275"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 17",
+     "bytes": 4174,
+     "sha256": "397adc23c51655cdd17007780a09f6d6c1f5a89c277f4b319efff43944790a05"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 18",
+     "bytes": 3671,
+     "sha256": "0aa1362956fd7a3ebea1586d1c1f838421624fca25fb3e96e7002fef7505cc59"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 19",
+     "bytes": 2851,
+     "sha256": "d9dcef8effb6f9c53708e6f83d36064b45dbeb00328f252e05bc378de405b8a1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 2",
+     "bytes": 17326,
+     "sha256": "20148b3e55e42437f59ad9a8512a3a26af83058fe53351f3a5776b4da8bbc4e7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 20",
+     "bytes": 6056,
+     "sha256": "9e257b5b17ee569bc194bfd2cb18996c9d276bd99406f457d0546e1a3d17f703"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 21",
+     "bytes": 4785,
+     "sha256": "a1af4a7de76045ff635e469ff8cf61c0f8e13bcbd050995a4d53af965a12cd1b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 22",
+     "bytes": 4167,
+     "sha256": "9f3ce698502c3ec5d4669023a4480d0b985fa4094519d306509c86b60e1a6862"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 23",
+     "bytes": 4396,
+     "sha256": "50c1ac4445043ed6ebfd0047a270639df47bcb22d7263fee487f27e91bc6b809"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 24",
+     "bytes": 34243,
+     "sha256": "534dde28f2e45975471f46e72763489779ab7a25577ecc2dc8300ae4469a6a9d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 25",
+     "bytes": 62064,
+     "sha256": "e905b1062fbf8c4a043f79e80c866d094128f242d5a32f79d989215a9aa0b889"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 3",
+     "bytes": 5390,
+     "sha256": "09b1d45daf708474252a3d9babe96087f73120ea6fe700a646f53f5f46623ec1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 4",
+     "bytes": 13193,
+     "sha256": "4130a93bd9364993281d43a2995512ed36010776f05a7cddf4934cbc0d65f8b4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 5",
+     "bytes": 9145,
+     "sha256": "e471c7dcfec3ab6425c30ab26403298fb1ee26d2e5b709a107572612b783c351"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 6",
+     "bytes": 26129,
+     "sha256": "4cb91a259a799ba62026000ff36548eb85060e70a03476681559fba9767b7d34"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 7",
+     "bytes": 18716,
+     "sha256": "911ce83a99779fcedbc7233f8514ce410f666ec70509c1c8f0c66e183c90d007"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 8",
+     "bytes": 20264,
+     "sha256": "2969433abf86b2546089bf086daffc413b2e8c8e35fae43becb6c65e5df222d0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Chapter 9",
+     "bytes": 4121,
+     "sha256": "e195ac12c1ea14acc671403a62f0ba3d410b106578ab5befaec2fde8c66daeeb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book III/Prologue",
+     "bytes": 2591,
+     "sha256": "24adde7e04ac5fc01bc75dd2f22426f17b32b3c4d718ebb566655b4f320d0637"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book IV/Chapter 1",
+     "bytes": 1833,
+     "sha256": "3bf34f89ea6d93031ca274c5b41cc7a042134e2f505906973cfb32956b6ed6b6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book IV/Chapter 10",
+     "bytes": 27982,
+     "sha256": "ff4b7fa153dff69b18b8843fa05361af8e1cd4c09ae0a4de7012a79b6583c32f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book IV/Chapter 2",
+     "bytes": 3230,
+     "sha256": "12b7837703c9c2d71f8bc6fadd928df335a42732bd814956b360d0575719b908"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book IV/Chapter 3",
+     "bytes": 3486,
+     "sha256": "95f1048a25d2515ce1792ed1bd7e04c75a55e418599819c081df2d4e5cf9ceb0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book IV/Chapter 4",
+     "bytes": 4145,
+     "sha256": "c97b59c34d2aa26d6fea698a146324b847f24ee727f036f54b7f6659342577f9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book IV/Chapter 5",
+     "bytes": 5826,
+     "sha256": "5b79b4dc83d071fbf9a4007ef5f419e0ab5e458de07d1b8885f0a6c806a19208"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book IV/Chapter 6",
+     "bytes": 6518,
+     "sha256": "eaf3faef81c06667dd75b8d573a93a9d391892b85a5ec2aaf0e8d852ed4e95c4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book IV/Chapter 7",
+     "bytes": 2277,
+     "sha256": "8ab29b38e547ac8ce8bd2270f6fd5afd65228e48fb1bbd6c1d1a3e2531385b65"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book IV/Chapter 8",
+     "bytes": 6191,
+     "sha256": "1a9056931050e7168fe0fd236afa0dfe970f315f3d6ce8dc726cff75e620c0f2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book IV/Chapter 9",
+     "bytes": 3281,
+     "sha256": "9b4cc3817637e1aa88e769b496cb9d3b1e728da12da57b83e1f2e90230fb6be1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Book IV/Prologue",
+     "bytes": 1784,
+     "sha256": "6a3f79d46acfe5ec5e0cb394383bd8f36813073985076c589edbcd323cceaeed"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Introductory Essay",
+     "bytes": 18182,
+     "sha256": "9884c097a1d1beeaafced30baa386698a068743066f0ecb178d499624698f14f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Title Page",
+     "bytes": 1133,
+     "sha256": "d4a954bacc8fd3d80b765a8b4175772a057d4ea09f5ea83bd3edbf7dcbf49f3d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume VI/The Harmony of the Gospels/Translator's Introductory Notice",
+     "bytes": 9235,
+     "sha256": "f4763755e445aa32d219740ea8523b0be1d3cc6638c83466b5beab8f5ae7faed"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.1",
+     "title": "1.1",
+     "segments": 3
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.2",
+     "title": "1.2",
+     "segments": 3
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.3",
+     "title": "1.3",
+     "segments": 3
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.4",
+     "title": "1.4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.5",
+     "title": "1.5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.6",
+     "title": "1.6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.7",
+     "title": "1.7",
+     "segments": 4
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.8",
+     "title": "1.8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.9",
+     "title": "1.9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.10",
+     "title": "1.10",
+     "segments": 3
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.11",
+     "title": "1.11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.12",
+     "title": "1.12",
+     "segments": 3
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.13",
+     "title": "1.13",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.14",
+     "title": "1.14",
+     "segments": 3
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.15",
+     "title": "1.15",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.16",
+     "title": "1.16",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.17",
+     "title": "1.17",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.18",
+     "title": "1.18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.19",
+     "title": "1.19",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.20",
+     "title": "1.20",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.21",
+     "title": "1.21",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.22",
+     "title": "1.22",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.23",
+     "title": "1.23",
+     "segments": 27
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.24",
+     "title": "1.24",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.25",
+     "title": "1.25",
+     "segments": 3
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.26",
+     "title": "1.26",
+     "segments": 3
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.27",
+     "title": "1.27",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.28",
+     "title": "1.28",
+     "segments": 3
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.29",
+     "title": "1.29",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.30",
+     "title": "1.30",
+     "segments": 6
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.31",
+     "title": "1.31",
+     "segments": 3
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.32",
+     "title": "1.32",
+     "segments": 3
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.33",
+     "title": "1.33",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.34",
+     "title": "1.34",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.35",
+     "title": "1.35",
+     "segments": 3
+    },
+    {
+     "file": "0036.json",
+     "ref": "2.1",
+     "title": "2.1",
+     "segments": 3
+    },
+    {
+     "file": "0037.json",
+     "ref": "2.2",
+     "title": "2.2",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "2.3",
+     "title": "2.3",
+     "segments": 4
+    },
+    {
+     "file": "0039.json",
+     "ref": "2.4",
+     "title": "2.4",
+     "segments": 7
+    },
+    {
+     "file": "0040.json",
+     "ref": "2.5",
+     "title": "2.5",
+     "segments": 7
+    },
+    {
+     "file": "0041.json",
+     "ref": "2.6",
+     "title": "2.6",
+     "segments": 3
+    },
+    {
+     "file": "0042.json",
+     "ref": "2.7",
+     "title": "2.7",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "2.8",
+     "title": "2.8",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "2.9",
+     "title": "2.9",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "2.10",
+     "title": "2.10",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "2.11",
+     "title": "2.11",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "2.12",
+     "title": "2.12",
+     "segments": 6
+    },
+    {
+     "file": "0048.json",
+     "ref": "2.13",
+     "title": "2.13",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "2.14",
+     "title": "2.14",
+     "segments": 2
+    },
+    {
+     "file": "0050.json",
+     "ref": "2.15",
+     "title": "2.15",
+     "segments": 2
+    },
+    {
+     "file": "0051.json",
+     "ref": "2.16",
+     "title": "2.16",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "2.17",
+     "title": "2.17",
+     "segments": 9
+    },
+    {
+     "file": "0053.json",
+     "ref": "2.18",
+     "title": "2.18",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "2.19",
+     "title": "2.19",
+     "segments": 6
+    },
+    {
+     "file": "0055.json",
+     "ref": "2.20",
+     "title": "2.20",
+     "segments": 4
+    },
+    {
+     "file": "0056.json",
+     "ref": "2.21",
+     "title": "2.21",
+     "segments": 3
+    },
+    {
+     "file": "0057.json",
+     "ref": "2.22",
+     "title": "2.22",
+     "segments": 2
+    },
+    {
+     "file": "0058.json",
+     "ref": "2.23",
+     "title": "2.23",
+     "segments": 2
+    },
+    {
+     "file": "0059.json",
+     "ref": "2.24",
+     "title": "2.24",
+     "segments": 3
+    },
+    {
+     "file": "0060.json",
+     "ref": "2.25",
+     "title": "2.25",
+     "segments": 3
+    },
+    {
+     "file": "0061.json",
+     "ref": "2.26",
+     "title": "2.26",
+     "segments": 2
+    },
+    {
+     "file": "0062.json",
+     "ref": "2.27",
+     "title": "2.27",
+     "segments": 5
+    },
+    {
+     "file": "0063.json",
+     "ref": "2.28",
+     "title": "2.28",
+     "segments": 6
+    },
+    {
+     "file": "0064.json",
+     "ref": "2.29",
+     "title": "2.29",
+     "segments": 2
+    },
+    {
+     "file": "0065.json",
+     "ref": "2.30",
+     "title": "2.30",
+     "segments": 9
+    },
+    {
+     "file": "0066.json",
+     "ref": "2.31",
+     "title": "2.31",
+     "segments": 2
+    },
+    {
+     "file": "0067.json",
+     "ref": "2.32",
+     "title": "2.32",
+     "segments": 2
+    },
+    {
+     "file": "0068.json",
+     "ref": "2.33",
+     "title": "2.33",
+     "segments": 2
+    },
+    {
+     "file": "0069.json",
+     "ref": "2.34",
+     "title": "2.34",
+     "segments": 2
+    },
+    {
+     "file": "0070.json",
+     "ref": "2.35",
+     "title": "2.35",
+     "segments": 2
+    },
+    {
+     "file": "0071.json",
+     "ref": "2.36",
+     "title": "2.36",
+     "segments": 2
+    },
+    {
+     "file": "0072.json",
+     "ref": "2.37",
+     "title": "2.37",
+     "segments": 2
+    },
+    {
+     "file": "0073.json",
+     "ref": "2.38",
+     "title": "2.38",
+     "segments": 2
+    },
+    {
+     "file": "0074.json",
+     "ref": "2.39",
+     "title": "2.39",
+     "segments": 2
+    },
+    {
+     "file": "0075.json",
+     "ref": "2.40",
+     "title": "2.40",
+     "segments": 2
+    },
+    {
+     "file": "0076.json",
+     "ref": "2.41",
+     "title": "2.41",
+     "segments": 2
+    },
+    {
+     "file": "0077.json",
+     "ref": "2.42",
+     "title": "2.42",
+     "segments": 3
+    },
+    {
+     "file": "0078.json",
+     "ref": "2.43",
+     "title": "2.43",
+     "segments": 2
+    },
+    {
+     "file": "0079.json",
+     "ref": "2.44",
+     "title": "2.44",
+     "segments": 2
+    },
+    {
+     "file": "0080.json",
+     "ref": "2.45",
+     "title": "2.45",
+     "segments": 3
+    },
+    {
+     "file": "0081.json",
+     "ref": "2.46",
+     "title": "2.46",
+     "segments": 5
+    },
+    {
+     "file": "0082.json",
+     "ref": "2.47",
+     "title": "2.47",
+     "segments": 4
+    },
+    {
+     "file": "0083.json",
+     "ref": "2.48",
+     "title": "2.48",
+     "segments": 2
+    },
+    {
+     "file": "0084.json",
+     "ref": "2.49",
+     "title": "2.49",
+     "segments": 2
+    },
+    {
+     "file": "0085.json",
+     "ref": "2.50",
+     "title": "2.50",
+     "segments": 3
+    },
+    {
+     "file": "0086.json",
+     "ref": "2.51",
+     "title": "2.51",
+     "segments": 2
+    },
+    {
+     "file": "0087.json",
+     "ref": "2.52",
+     "title": "2.52",
+     "segments": 2
+    },
+    {
+     "file": "0088.json",
+     "ref": "2.53",
+     "title": "2.53",
+     "segments": 3
+    },
+    {
+     "file": "0089.json",
+     "ref": "2.54",
+     "title": "2.54",
+     "segments": 2
+    },
+    {
+     "file": "0090.json",
+     "ref": "2.55",
+     "title": "2.55",
+     "segments": 2
+    },
+    {
+     "file": "0091.json",
+     "ref": "2.56",
+     "title": "2.56",
+     "segments": 4
+    },
+    {
+     "file": "0092.json",
+     "ref": "2.57",
+     "title": "2.57",
+     "segments": 2
+    },
+    {
+     "file": "0093.json",
+     "ref": "2.58",
+     "title": "2.58",
+     "segments": 2
+    },
+    {
+     "file": "0094.json",
+     "ref": "2.59",
+     "title": "2.59",
+     "segments": 2
+    },
+    {
+     "file": "0095.json",
+     "ref": "2.60",
+     "title": "2.60",
+     "segments": 2
+    },
+    {
+     "file": "0096.json",
+     "ref": "2.61",
+     "title": "2.61",
+     "segments": 2
+    },
+    {
+     "file": "0097.json",
+     "ref": "2.62",
+     "title": "2.62",
+     "segments": 4
+    },
+    {
+     "file": "0098.json",
+     "ref": "2.63",
+     "title": "2.63",
+     "segments": 2
+    },
+    {
+     "file": "0099.json",
+     "ref": "2.64",
+     "title": "2.64",
+     "segments": 2
+    },
+    {
+     "file": "0100.json",
+     "ref": "2.65",
+     "title": "2.65",
+     "segments": 3
+    },
+    {
+     "file": "0101.json",
+     "ref": "2.66",
+     "title": "2.66",
+     "segments": 3
+    },
+    {
+     "file": "0102.json",
+     "ref": "2.67",
+     "title": "2.67",
+     "segments": 2
+    },
+    {
+     "file": "0103.json",
+     "ref": "2.68",
+     "title": "2.68",
+     "segments": 3
+    },
+    {
+     "file": "0104.json",
+     "ref": "2.69",
+     "title": "2.69",
+     "segments": 2
+    },
+    {
+     "file": "0105.json",
+     "ref": "2.70",
+     "title": "2.70",
+     "segments": 7
+    },
+    {
+     "file": "0106.json",
+     "ref": "2.71",
+     "title": "2.71",
+     "segments": 2
+    },
+    {
+     "file": "0107.json",
+     "ref": "2.72",
+     "title": "2.72",
+     "segments": 2
+    },
+    {
+     "file": "0108.json",
+     "ref": "2.73",
+     "title": "2.73",
+     "segments": 3
+    },
+    {
+     "file": "0109.json",
+     "ref": "2.74",
+     "title": "2.74",
+     "segments": 2
+    },
+    {
+     "file": "0110.json",
+     "ref": "2.75",
+     "title": "2.75",
+     "segments": 3
+    },
+    {
+     "file": "0111.json",
+     "ref": "2.76",
+     "title": "2.76",
+     "segments": 2
+    },
+    {
+     "file": "0112.json",
+     "ref": "2.77",
+     "title": "2.77",
+     "segments": 6
+    },
+    {
+     "file": "0113.json",
+     "ref": "2.78",
+     "title": "2.78",
+     "segments": 3
+    },
+    {
+     "file": "0114.json",
+     "ref": "2.79",
+     "title": "2.79",
+     "segments": 4
+    },
+    {
+     "file": "0115.json",
+     "ref": "2.80",
+     "title": "2.80",
+     "segments": 3
+    },
+    {
+     "file": "0116.json",
+     "ref": "2.p1",
+     "title": "2.p1",
+     "segments": 2
+    },
+    {
+     "file": "0117.json",
+     "ref": "3.1.front",
+     "title": "3.1.front",
+     "segments": 1
+    },
+    {
+     "file": "0118.json",
+     "ref": "3.1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0119.json",
+     "ref": "3.1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0120.json",
+     "ref": "3.1.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0121.json",
+     "ref": "3.2",
+     "title": "3.2",
+     "segments": 5
+    },
+    {
+     "file": "0122.json",
+     "ref": "3.3",
+     "title": "3.3",
+     "segments": 2
+    },
+    {
+     "file": "0123.json",
+     "ref": "3.4",
+     "title": "3.4",
+     "segments": 6
+    },
+    {
+     "file": "0124.json",
+     "ref": "3.5",
+     "title": "3.5",
+     "segments": 5
+    },
+    {
+     "file": "0125.json",
+     "ref": "3.6",
+     "title": "3.6",
+     "segments": 9
+    },
+    {
+     "file": "0126.json",
+     "ref": "3.7",
+     "title": "3.7",
+     "segments": 6
+    },
+    {
+     "file": "0127.json",
+     "ref": "3.8",
+     "title": "3.8",
+     "segments": 5
+    },
+    {
+     "file": "0128.json",
+     "ref": "3.9",
+     "title": "3.9",
+     "segments": 2
+    },
+    {
+     "file": "0129.json",
+     "ref": "3.10",
+     "title": "3.10",
+     "segments": 2
+    },
+    {
+     "file": "0130.json",
+     "ref": "3.11",
+     "title": "3.11",
+     "segments": 2
+    },
+    {
+     "file": "0131.json",
+     "ref": "3.12",
+     "title": "3.12",
+     "segments": 2
+    },
+    {
+     "file": "0132.json",
+     "ref": "3.13",
+     "title": "3.13",
+     "segments": 12
+    },
+    {
+     "file": "0133.json",
+     "ref": "3.14",
+     "title": "3.14",
+     "segments": 2
+    },
+    {
+     "file": "0134.json",
+     "ref": "3.15",
+     "title": "3.15",
+     "segments": 2
+    },
+    {
+     "file": "0135.json",
+     "ref": "3.16",
+     "title": "3.16",
+     "segments": 2
+    },
+    {
+     "file": "0136.json",
+     "ref": "3.17",
+     "title": "3.17",
+     "segments": 2
+    },
+    {
+     "file": "0137.json",
+     "ref": "3.18",
+     "title": "3.18",
+     "segments": 2
+    },
+    {
+     "file": "0138.json",
+     "ref": "3.19",
+     "title": "3.19",
+     "segments": 2
+    },
+    {
+     "file": "0139.json",
+     "ref": "3.20",
+     "title": "3.20",
+     "segments": 2
+    },
+    {
+     "file": "0140.json",
+     "ref": "3.21",
+     "title": "3.21",
+     "segments": 2
+    },
+    {
+     "file": "0141.json",
+     "ref": "3.22",
+     "title": "3.22",
+     "segments": 2
+    },
+    {
+     "file": "0142.json",
+     "ref": "3.23",
+     "title": "3.23",
+     "segments": 2
+    },
+    {
+     "file": "0143.json",
+     "ref": "3.24",
+     "title": "3.24",
+     "segments": 10
+    },
+    {
+     "file": "0144.json",
+     "ref": "3.25",
+     "title": "3.25",
+     "segments": 18
+    },
+    {
+     "file": "0145.json",
+     "ref": "3.p1",
+     "title": "3.p1",
+     "segments": 2
+    },
+    {
+     "file": "0146.json",
+     "ref": "4.1",
+     "title": "4.1",
+     "segments": 2
+    },
+    {
+     "file": "0147.json",
+     "ref": "4.2",
+     "title": "4.2",
+     "segments": 2
+    },
+    {
+     "file": "0148.json",
+     "ref": "4.3",
+     "title": "4.3",
+     "segments": 2
+    },
+    {
+     "file": "0149.json",
+     "ref": "4.4",
+     "title": "4.4",
+     "segments": 2
+    },
+    {
+     "file": "0150.json",
+     "ref": "4.5",
+     "title": "4.5",
+     "segments": 2
+    },
+    {
+     "file": "0151.json",
+     "ref": "4.6",
+     "title": "4.6",
+     "segments": 2
+    },
+    {
+     "file": "0152.json",
+     "ref": "4.7",
+     "title": "4.7",
+     "segments": 2
+    },
+    {
+     "file": "0153.json",
+     "ref": "4.8",
+     "title": "4.8",
+     "segments": 2
+    },
+    {
+     "file": "0154.json",
+     "ref": "4.9",
+     "title": "4.9",
+     "segments": 2
+    },
+    {
+     "file": "0155.json",
+     "ref": "4.10",
+     "title": "4.10",
+     "segments": 11
+    },
+    {
+     "file": "0156.json",
+     "ref": "4.p1",
+     "title": "4.p1",
+     "segments": 2
+    },
+    {
+     "file": "0157.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 27
+    },
+    {
+     "file": "0158.json",
+     "ref": "p2",
+     "title": "p2",
+     "segments": 8
+    },
+    {
+     "file": "0159.json",
+     "ref": "p3",
+     "title": "p3",
+     "segments": 9
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 0,
+  "shared": 0
+ }
+}

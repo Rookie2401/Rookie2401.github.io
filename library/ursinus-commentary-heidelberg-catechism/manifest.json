@@ -1,0 +1,2844 @@
+{
+ "workId": "ursinus-commentary-heidelberg-catechism",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "ursinus-summe-christian-religion-parry-tcp-a14216-1587",
+   "role": "english",
+   "language": "english",
+   "credit": "The summe of Christian religion: deliuered by Zacharias Vrsinus in his lectures vpon the Catechism autorised by the noble Prince Frederick, in EEBO-TCP A14216 (STC 24532), Henry Parry's translation, Oxford: Joseph Barnes, 1587 (includes a translation of the Heidelberg Catechism), trans. Henry Parry (Oxford: Joseph Barnes (sold by T. Cooke, London), 1587). Transcription: Text Creation Partnership (EEBO-TCP Phase 2); keyboarded from page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A14216/master/A14216.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 3370953,
+   "sourceSha256": "3704155b5bb52d39c8549ea928fcc393dbb0b800e539d330f07203ccb5856340",
+   "leftOut": {
+    "pb": 1062,
+    "note": 1483,
+    "unread": 368,
+    "milestone": 12
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 424203,
+    "unreadPerThousand": 0.9
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "TO THE RIGHT HONORABLE, HENRIE EARLE OF PENBROOKE, LORD HARBERT OF CARDIFF, MARMION, AND S. QVINTINE, KNIGHT OF THE MOST NOBLE ORDER OF THE Garter, and Lord Preſident of WALES, Grace and peace, with e",
+     "segments": 7
+    },
+    {
+     "file": "0002.json",
+     "ref": "front.2",
+     "title": "TO THE CHRISTIAN READERS HENRY PARRIE WISHETH GRACE AND PEACE THROVGH IESV CHRIST OVR LORD.",
+     "segments": 10
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.1",
+     "title": "1 What is thy onely comfort in life and death?",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.2.0",
+     "title": "2 How many thinges are neceſſarie for thee to know, that thou enioying this comfort maiſt liue & die happilie?",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.2.1.0",
+     "title": "There is a three-fold order, or there are three partes of the ſtudie of diuinitie.",
+     "segments": 3
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.2.1.1",
+     "title": "1.2.1.1",
+     "segments": 4
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.2.1.2.0",
+     "title": "OF THE HOLY SCRIPTVRE.",
+     "segments": 5
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.2.1.2.1",
+     "title": "OF THE FIRST QVESTION.",
+     "segments": 5
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.2.1.2.2.0",
+     "title": "OF THE SECOND QVESTION.",
+     "segments": 8
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.2.1.2.2.1",
+     "title": "The difference of this true doctrine from others.",
+     "segments": 4
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.2.1.2.2.2",
+     "title": "The difference of this true Doctrine from Philoſophie.",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.2.1.2.2.3",
+     "title": "Certaine notes or markes, by which the Church is diſtinguiſhed from others.",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.2.1.2.3",
+     "title": "OF THE THIRD QVESTION.",
+     "segments": 34
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.2.1.2.4",
+     "title": "OF THE FOVRTH QVESTION.",
+     "segments": 33
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.2.1.3",
+     "title": "OF THE TRVE COMFORT of the Godlie.",
+     "segments": 10
+    },
+    {
+     "file": "0016.json",
+     "ref": "2.0",
+     "title": "THE FIRST PART.",
+     "segments": 27
+    },
+    {
+     "file": "0017.json",
+     "ref": "2.1.0",
+     "title": "THE COMMON PLACE OF SINNE.",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "2.1.1",
+     "title": "2.1.1",
+     "segments": 3
+    },
+    {
+     "file": "0019.json",
+     "ref": "2.1.2.0",
+     "title": "WHAT SINNE IS.",
+     "segments": 6
+    },
+    {
+     "file": "0020.json",
+     "ref": "2.1.2.1.0",
+     "title": "3. How manie kindes of ſinne there are.",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "2.1.2.1.1",
+     "title": "OF ORIGINAL SINNE.",
+     "segments": 31
+    },
+    {
+     "file": "0022.json",
+     "ref": "2.1.2.1.2",
+     "title": "The ſecond diuiſion of Sinne.",
+     "segments": 22
+    },
+    {
+     "file": "0023.json",
+     "ref": "2.1.2.1.3",
+     "title": "The third Diuiſion of Sinne.",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "2.1.2.1.4",
+     "title": "The fourth Diuiſion of ſinne.",
+     "segments": 14
+    },
+    {
+     "file": "0025.json",
+     "ref": "2.1.2.1.5",
+     "title": "The fifth Diuiſion of ſinne.",
+     "segments": 12
+    },
+    {
+     "file": "0026.json",
+     "ref": "2.1.2.1.6",
+     "title": "The workes of the regenerate and vnregenerate differ ſeuen maner of waies.",
+     "segments": 3
+    },
+    {
+     "file": "0027.json",
+     "ref": "2.1.2.2",
+     "title": "4. What are the cauſes of ſinne.",
+     "segments": 32
+    },
+    {
+     "file": "0028.json",
+     "ref": "2.1.2.3",
+     "title": "5 What are the effects of ſinne.",
+     "segments": 17
+    },
+    {
+     "file": "0029.json",
+     "ref": "2.2",
+     "title": "OF THE CREATION OF MAN.",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "2.3.0",
+     "title": "THE QVESTIONS OF MANS CREATION ARE ESPECIALLIE TWO.",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "2.3.1",
+     "title": "1 What, man was created of God.",
+     "segments": 4
+    },
+    {
+     "file": "0032.json",
+     "ref": "2.3.2",
+     "title": "2 For what, man was created.",
+     "segments": 5
+    },
+    {
+     "file": "0033.json",
+     "ref": "2.4.0",
+     "title": "OF THE IMAGE OF GOD IN MAN.",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "2.4.1",
+     "title": "1 What the image of God in man is.",
+     "segments": 4
+    },
+    {
+     "file": "0035.json",
+     "ref": "2.4.2",
+     "title": "2 How far forth the image of god was loſt, and how farre it remaineth.",
+     "segments": 3
+    },
+    {
+     "file": "0036.json",
+     "ref": "2.4.3",
+     "title": "3. How the Image of god is repaired in vs.",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "2.4.4",
+     "title": "How the Image of God is in Chriſt, and how in vs.",
+     "segments": 4
+    },
+    {
+     "file": "0038.json",
+     "ref": "2.5.0",
+     "title": "OF THE FIRST SINNE.",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "2.5.1",
+     "title": "1 What that firſt ſinne of Adam and Eue was.",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "2.5.2",
+     "title": "2 What were the cauſes of the firſt ſinne.",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "2.5.3",
+     "title": "3 What are the effects of the firſt ſinne.",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "2.5.4",
+     "title": "4 Why God permitted the firſt ſinne.",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "2.6.0",
+     "title": "OF FREE-WILL.",
+     "segments": 6
+    },
+    {
+     "file": "0044.json",
+     "ref": "2.6.1",
+     "title": "1 Of the word, Liberty.",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "2.6.2",
+     "title": "2 What is the liberty of will.",
+     "segments": 6
+    },
+    {
+     "file": "0046.json",
+     "ref": "2.6.3",
+     "title": "3 What is like or common, and what diuerſe or different in the libertie of will, which is in god, in Angels, and man.",
+     "segments": 25
+    },
+    {
+     "file": "0047.json",
+     "ref": "2.6.4",
+     "title": "4 Whether there be anie libertie in vs, and what it is.",
+     "segments": 5
+    },
+    {
+     "file": "0048.json",
+     "ref": "2.6.5",
+     "title": "5 There are foure degrees of freewill.",
+     "segments": 55
+    },
+    {
+     "file": "0049.json",
+     "ref": "2.7.0",
+     "title": "OF EVILS OF PVNISHMENT.",
+     "segments": 6
+    },
+    {
+     "file": "0050.json",
+     "ref": "2.7.1.0",
+     "title": "OF AFFLICTIONS.",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "2.7.1.1",
+     "title": "1 How manie kindes there be of afflictions.",
+     "segments": 9
+    },
+    {
+     "file": "0052.json",
+     "ref": "2.7.1.2",
+     "title": "2 What are the cauſes of afflictions.",
+     "segments": 3
+    },
+    {
+     "file": "0053.json",
+     "ref": "2.7.1.3",
+     "title": "3. What are the comforts and conſolations, which are to be oppoſed againſt afflictions.",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "3.1.0",
+     "title": "3.1.0",
+     "segments": 29
+    },
+    {
+     "file": "0055.json",
+     "ref": "3.1.1",
+     "title": "OF THE FATHER.",
+     "segments": 6
+    },
+    {
+     "file": "0056.json",
+     "ref": "3.1.2",
+     "title": "OF THE SONNE.",
+     "segments": 48
+    },
+    {
+     "file": "0057.json",
+     "ref": "3.1.3",
+     "title": "OF THE HOLIE-GHOST.",
+     "segments": 24
+    },
+    {
+     "file": "0058.json",
+     "ref": "3.2.0",
+     "title": "OF THE SACRAMENTES.",
+     "segments": 8
+    },
+    {
+     "file": "0059.json",
+     "ref": "3.2.1",
+     "title": "OF BAPTISME.",
+     "segments": 12
+    },
+    {
+     "file": "0060.json",
+     "ref": "3.2.2",
+     "title": "OF THE LORDS SVPPER.",
+     "segments": 24
+    },
+    {
+     "file": "0061.json",
+     "ref": "3.3.0",
+     "title": "OF THE DELIVERIE OF MAN.",
+     "segments": 2
+    },
+    {
+     "file": "0062.json",
+     "ref": "3.3.1",
+     "title": "1 WHAT MANS DELIVERIE IS.",
+     "segments": 2
+    },
+    {
+     "file": "0063.json",
+     "ref": "3.3.2",
+     "title": "2 Whether anie Deliuerie might be wrought after the fall.",
+     "segments": 10
+    },
+    {
+     "file": "0064.json",
+     "ref": "3.3.3",
+     "title": "3 Whether Deliuerie be neceſſarie and certaine.",
+     "segments": 5
+    },
+    {
+     "file": "0065.json",
+     "ref": "3.3.4",
+     "title": "4 What manner of Deliuery this is.",
+     "segments": 4
+    },
+    {
+     "file": "0066.json",
+     "ref": "3.3.5",
+     "title": "5 By what meanes mans deliuerie may be wrought.",
+     "segments": 7
+    },
+    {
+     "file": "0067.json",
+     "ref": "3.4.0",
+     "title": "OF THE MEDIATOR.",
+     "segments": 2
+    },
+    {
+     "file": "0068.json",
+     "ref": "3.4.1",
+     "title": "1 What a Mediator is.",
+     "segments": 4
+    },
+    {
+     "file": "0069.json",
+     "ref": "3.4.2",
+     "title": "2 For what cauſe a Mediatour is neceſſarie.",
+     "segments": 1
+    },
+    {
+     "file": "0070.json",
+     "ref": "3.4.3",
+     "title": "3 What is the office of a Mediatour.",
+     "segments": 7
+    },
+    {
+     "file": "0071.json",
+     "ref": "3.4.4",
+     "title": "4 What manner of Mediator ours ought to bee.",
+     "segments": 13
+    },
+    {
+     "file": "0072.json",
+     "ref": "3.4.5",
+     "title": "5 Who is and may be that Mediatour.",
+     "segments": 1
+    },
+    {
+     "file": "0073.json",
+     "ref": "3.4.6",
+     "title": "6 That there is but one Mediatour.",
+     "segments": 1
+    },
+    {
+     "file": "0074.json",
+     "ref": "3.5.0",
+     "title": "OF THE COVENAVNT.",
+     "segments": 2
+    },
+    {
+     "file": "0075.json",
+     "ref": "3.5.1",
+     "title": "1 WHAT A COVENAVNT IS.",
+     "segments": 3
+    },
+    {
+     "file": "0076.json",
+     "ref": "3.5.2",
+     "title": "2 How a Couenaunt may be made betweene god and men.",
+     "segments": 1
+    },
+    {
+     "file": "0077.json",
+     "ref": "3.5.3.0",
+     "title": "3 Whether there be but one Couenaunt.",
+     "segments": 2
+    },
+    {
+     "file": "0078.json",
+     "ref": "3.5.3.1",
+     "title": "1 In what the old and new Couenaunt agree, and in what they differ.",
+     "segments": 4
+    },
+    {
+     "file": "0079.json",
+     "ref": "3.6.0",
+     "title": "OF THE GOSPEL.",
+     "segments": 2
+    },
+    {
+     "file": "0080.json",
+     "ref": "3.6.1",
+     "title": "1 WHAT THE GOSPEL IS.",
+     "segments": 2
+    },
+    {
+     "file": "0081.json",
+     "ref": "3.6.2",
+     "title": "2 Whether the goſpel hath beene alwaies knowen.",
+     "segments": 4
+    },
+    {
+     "file": "0082.json",
+     "ref": "3.6.3",
+     "title": "3 How the Goſpel differeth from the Law.",
+     "segments": 3
+    },
+    {
+     "file": "0083.json",
+     "ref": "3.6.4",
+     "title": "4 What are the proper effectes of the Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0084.json",
+     "ref": "3.6.5",
+     "title": "5 Whence the truth and certainty of the goſpel maie appeare.",
+     "segments": 1
+    },
+    {
+     "file": "0085.json",
+     "ref": "3.6.6",
+     "title": "Queſtion, 20. & 21. of Faith.",
+     "segments": 5
+    },
+    {
+     "file": "0086.json",
+     "ref": "3.7.0",
+     "title": "OF FAITH.",
+     "segments": 2
+    },
+    {
+     "file": "0087.json",
+     "ref": "3.7.1",
+     "title": "1 WHAT FAITH IS.",
+     "segments": 2
+    },
+    {
+     "file": "0088.json",
+     "ref": "3.7.2",
+     "title": "2 What are the kinds of faith.",
+     "segments": 7
+    },
+    {
+     "file": "0089.json",
+     "ref": "3.7.3",
+     "title": "4 How faith and hope differ and agree.",
+     "segments": 4
+    },
+    {
+     "file": "0090.json",
+     "ref": "3.7.4",
+     "title": "5 What are the cauſes of Faith.",
+     "segments": 6
+    },
+    {
+     "file": "0091.json",
+     "ref": "3.7.5",
+     "title": "6 What are the effects of faith.",
+     "segments": 1
+    },
+    {
+     "file": "0092.json",
+     "ref": "3.7.6",
+     "title": "7 Vnto whom faith is giuen.",
+     "segments": 10
+    },
+    {
+     "file": "0093.json",
+     "ref": "3.7.7",
+     "title": "Concluſions compriſing the ſumme of the doctrine of Faith.",
+     "segments": 20
+    },
+    {
+     "file": "0094.json",
+     "ref": "3.8.0",
+     "title": "OF THE CREEDE, OR, SYMBOLE OF THE APOSTLES.",
+     "segments": 2
+    },
+    {
+     "file": "0095.json",
+     "ref": "3.8.1",
+     "title": "1 WHAT A SYMBOLE IS.",
+     "segments": 2
+    },
+    {
+     "file": "0096.json",
+     "ref": "3.8.2",
+     "title": "2 What are the parts of the Apoſtolicke Symbole or Creed.",
+     "segments": 5
+    },
+    {
+     "file": "0097.json",
+     "ref": "3.9",
+     "title": "THE FIRST PART OF THE CREEDE, OF GOD THE FATHER, CREATOR.",
+     "segments": 11
+    },
+    {
+     "file": "0098.json",
+     "ref": "3.10.0",
+     "title": "OF GOD.",
+     "segments": 1
+    },
+    {
+     "file": "0099.json",
+     "ref": "3.10.1",
+     "title": "1 WHETHER THERE BE A GOD.",
+     "segments": 16
+    },
+    {
+     "file": "0100.json",
+     "ref": "3.10.2",
+     "title": "2 Who and what God is.",
+     "segments": 7
+    },
+    {
+     "file": "0101.json",
+     "ref": "3.10.3",
+     "title": "An explication of the deſcription of God deliuered by the Church.",
+     "segments": 56
+    },
+    {
+     "file": "0102.json",
+     "ref": "3.10.4",
+     "title": "3 Whence it may appeare, that there is but one god.",
+     "segments": 10
+    },
+    {
+     "file": "0103.json",
+     "ref": "3.10.5",
+     "title": "4 What theſe words, Eſſence, Perſon, & Trinitie, betoken & ſignifie.",
+     "segments": 8
+    },
+    {
+     "file": "0104.json",
+     "ref": "3.10.6",
+     "title": "5 What difference betweene Eſſence and Perſon.",
+     "segments": 6
+    },
+    {
+     "file": "0105.json",
+     "ref": "3.10.7",
+     "title": "6 Whether theſe names are to be vſed in the Church.",
+     "segments": 3
+    },
+    {
+     "file": "0106.json",
+     "ref": "3.10.8",
+     "title": "7 How many perſons there be of the Diuinity or God-head.",
+     "segments": 3
+    },
+    {
+     "file": "0107.json",
+     "ref": "3.10.9",
+     "title": "8 How the three perſons of the godhead are diſtinguiſhed.",
+     "segments": 4
+    },
+    {
+     "file": "0108.json",
+     "ref": "3.10.10",
+     "title": "9 Wherefore this doctrine is to be held and maintained in the Church.",
+     "segments": 4
+    },
+    {
+     "file": "0109.json",
+     "ref": "3.11.0",
+     "title": "OF CREATION.",
+     "segments": 2
+    },
+    {
+     "file": "0110.json",
+     "ref": "3.11.1",
+     "title": "1 WHETHER THE WORLD WERE CREATED OF GOD.",
+     "segments": 13
+    },
+    {
+     "file": "0111.json",
+     "ref": "3.11.2",
+     "title": "2 How God made the world.",
+     "segments": 8
+    },
+    {
+     "file": "0112.json",
+     "ref": "3.11.3",
+     "title": "3 For what cauſe god created the world.",
+     "segments": 2
+    },
+    {
+     "file": "0113.json",
+     "ref": "3.12.0",
+     "title": "OF ANGELS.",
+     "segments": 1
+    },
+    {
+     "file": "0114.json",
+     "ref": "3.12.1.0",
+     "title": "1 WHAT GOOD ANGELS ARE.",
+     "segments": 10
+    },
+    {
+     "file": "0115.json",
+     "ref": "3.12.1.1",
+     "title": "Of euil ſpirits or Angels.",
+     "segments": 4
+    },
+    {
+     "file": "0116.json",
+     "ref": "3.13.0",
+     "title": "OF GODS PROVIDENCE.",
+     "segments": 7
+    },
+    {
+     "file": "0117.json",
+     "ref": "3.13.1.0",
+     "title": "1 WHETHER THERE BE ANY PROVIDENCE OF GOD.",
+     "segments": 3
+    },
+    {
+     "file": "0118.json",
+     "ref": "3.13.1.1",
+     "title": "The reaſons drawen from the workes or effects of God, for proofe of his prouidence.",
+     "segments": 9
+    },
+    {
+     "file": "0119.json",
+     "ref": "3.13.1.2",
+     "title": "Reaſons drawen from the properties or nature of God.",
+     "segments": 9
+    },
+    {
+     "file": "0120.json",
+     "ref": "3.13.2.0",
+     "title": "2 WHAT THE PROVIDENCE OF GOD IS.",
+     "segments": 45
+    },
+    {
+     "file": "0121.json",
+     "ref": "3.13.2.1",
+     "title": "The firſt, of confuſions and things diſordered in nature.",
+     "segments": 2
+    },
+    {
+     "file": "0122.json",
+     "ref": "3.13.2.2",
+     "title": "The ſecond ſophiſme, of the cauſe of ſinne.",
+     "segments": 7
+    },
+    {
+     "file": "0123.json",
+     "ref": "3.13.2.3",
+     "title": "The third ſophiſme, of contradictory wils.",
+     "segments": 1
+    },
+    {
+     "file": "0124.json",
+     "ref": "3.13.2.4",
+     "title": "The fourth Sophiſme, of Contingency and liberty or freeneſſe.",
+     "segments": 9
+    },
+    {
+     "file": "0125.json",
+     "ref": "3.13.2.5",
+     "title": "The fifth Sophiſme, of the mutility or vnprofitableneſſe of meanes.",
+     "segments": 1
+    },
+    {
+     "file": "0126.json",
+     "ref": "3.13.2.6",
+     "title": "The ſixth Sophiſme, of the merit of good & euill.",
+     "segments": 5
+    },
+    {
+     "file": "0127.json",
+     "ref": "3.13.3",
+     "title": "3 Why the knowlege of this doctrine concerning Gods prouidence is neceſſary.",
+     "segments": 3
+    },
+    {
+     "file": "0128.json",
+     "ref": "3.14",
+     "title": "THE SECOND PART OF THE CREED, OF THE SONNE THE REDEEMER.",
+     "segments": 3
+    },
+    {
+     "file": "0129.json",
+     "ref": "3.15.0",
+     "title": "OF THE NAME IESVS.",
+     "segments": 2
+    },
+    {
+     "file": "0130.json",
+     "ref": "3.15.1",
+     "title": "1 WHAT THE NAME IESVS SIGNIFIETH.",
+     "segments": 6
+    },
+    {
+     "file": "0131.json",
+     "ref": "3.15.2",
+     "title": "2 From what euils he ſaueth vs.",
+     "segments": 1
+    },
+    {
+     "file": "0132.json",
+     "ref": "3.15.3",
+     "title": "3 How he ſaueth.",
+     "segments": 5
+    },
+    {
+     "file": "0133.json",
+     "ref": "3.15.4",
+     "title": "4 Whom he ſaueth.",
+     "segments": 1
+    },
+    {
+     "file": "0134.json",
+     "ref": "3.16.0",
+     "title": "I BELEEVE IN CHRIST.",
+     "segments": 3
+    },
+    {
+     "file": "0135.json",
+     "ref": "3.16.1",
+     "title": "1 WHAT CHRISTS VNCTION OR ANNOINTING IS.",
+     "segments": 8
+    },
+    {
+     "file": "0136.json",
+     "ref": "3.16.2",
+     "title": "2 WHAT IS CHRISTS PROPHETICALL FVNCTION.",
+     "segments": 6
+    },
+    {
+     "file": "0137.json",
+     "ref": "3.16.3",
+     "title": "3 WHAT CHRISTS PRIESTHOOD IS.",
+     "segments": 8
+    },
+    {
+     "file": "0138.json",
+     "ref": "3.17",
+     "title": "WHAT IS CHRISTES KINGDOME.",
+     "segments": 4
+    },
+    {
+     "file": "0139.json",
+     "ref": "3.18.0",
+     "title": "OF THE COMMVNION OF THE FAITHFVL, OR CHRISTIANS, WITH CHRIST.",
+     "segments": 2
+    },
+    {
+     "file": "0140.json",
+     "ref": "3.18.1",
+     "title": "1 WHAT IS THE ANNOINTING OF CHRISTIANS.",
+     "segments": 6
+    },
+    {
+     "file": "0141.json",
+     "ref": "3.18.2",
+     "title": "2 WHAT IS THE PROPHETICALL FVNCTION OF CHRISTIANS, that is, in what ſenſe they are, and are called Prophetes.",
+     "segments": 2
+    },
+    {
+     "file": "0142.json",
+     "ref": "3.18.3",
+     "title": "3 WHAT IS THE PRIESTHOODE OF CHRISTIANS.",
+     "segments": 4
+    },
+    {
+     "file": "0143.json",
+     "ref": "3.18.4",
+     "title": "4 WHAT IS THE KINGDOME OF CHRISTIANS.",
+     "segments": 3
+    },
+    {
+     "file": "0144.json",
+     "ref": "3.19.0",
+     "title": "I BELEEVE IN HIS ONELY SONNE.",
+     "segments": 2
+    },
+    {
+     "file": "0145.json",
+     "ref": "3.19.1.0",
+     "title": "1 HOW MANIE WAIES MEN ARE CALLED SONNES.",
+     "segments": 2
+    },
+    {
+     "file": "0146.json",
+     "ref": "3.19.1.1",
+     "title": "A TYPE OR FIGVRE OF THE SONNES OF GOD.",
+     "segments": 1
+    },
+    {
+     "file": "0147.json",
+     "ref": "3.19.2",
+     "title": "2 HOW CHRIST IS THE SONNE OF GOD.",
+     "segments": 2
+    },
+    {
+     "file": "0148.json",
+     "ref": "3.19.3",
+     "title": "3 Why Chriſt is called the onelie begotten and firſt begotten ſonne of God.",
+     "segments": 2
+    },
+    {
+     "file": "0149.json",
+     "ref": "3.19.4.0",
+     "title": "4. WHETHER CHRIST BE THE SONNE COETERNAL WITH GOD THE FATHER: OR, OF CHRISTS DIVINITIE.",
+     "segments": 5
+    },
+    {
+     "file": "0150.json",
+     "ref": "3.19.4.1",
+     "title": "THE FIRST CONCLVSION. The ſonne of God is a ſubſiſtent in the fleſh borne of the Virgin, and before the fleſh.",
+     "segments": 45
+    },
+    {
+     "file": "0151.json",
+     "ref": "3.19.4.2",
+     "title": "THE SECOND CONCLVSION. The ſonne of God Chriſt, is a perſon reallie diſtinct from the Father and the holie Ghoſt.",
+     "segments": 5
+    },
+    {
+     "file": "0152.json",
+     "ref": "3.19.4.3",
+     "title": "THE THIRD CONCLVSION. The Word is equall with the Father.",
+     "segments": 7
+    },
+    {
+     "file": "0153.json",
+     "ref": "3.19.4.4.0",
+     "title": "THE FOVRTH CONCLVSION. The word is con-ſubſtantial with the Father.",
+     "segments": 15
+    },
+    {
+     "file": "0154.json",
+     "ref": "3.19.4.4.1",
+     "title": "Other Rules, whereby the obiections of the Arrians are diſſolued.",
+     "segments": 16
+    },
+    {
+     "file": "0155.json",
+     "ref": "3.19.4.4.2",
+     "title": "The principal arguments againſt the Diuinity of the Sonne and the holy Ghoſt, together with the Aunſwere vnto them.",
+     "segments": 13
+    },
+    {
+     "file": "0156.json",
+     "ref": "3.20.0",
+     "title": "I BELEEVE IN CHRIST OVR LORD.",
+     "segments": 2
+    },
+    {
+     "file": "0157.json",
+     "ref": "3.20.1",
+     "title": "1 IN WHAT SENSE HE IS CALLED LORD.",
+     "segments": 1
+    },
+    {
+     "file": "0158.json",
+     "ref": "3.20.2",
+     "title": "2 For what cauſes he is our Lord.",
+     "segments": 4
+    },
+    {
+     "file": "0159.json",
+     "ref": "3.21",
+     "title": "WHICH WAS CONCEIVED BY THE HOLY GHOST, BORNE OF THE virgin Mary.",
+     "segments": 8
+    },
+    {
+     "file": "0160.json",
+     "ref": "3.22.0",
+     "title": "THE COMMON PLACE OF THE TWO NATVRES IN CHRIST.",
+     "segments": 2
+    },
+    {
+     "file": "0161.json",
+     "ref": "3.22.1",
+     "title": "1 WHETHER THERE BE TWO NATVRES IN CHRIST OVR MEDIATOVR.",
+     "segments": 7
+    },
+    {
+     "file": "0162.json",
+     "ref": "3.22.2",
+     "title": "2 Whether Chriſt be one perſon, or mo.",
+     "segments": 6
+    },
+    {
+     "file": "0163.json",
+     "ref": "3.22.3.0",
+     "title": "3 What manner of Vnion this is of the two natures in Chriſt: and how made.",
+     "segments": 2
+    },
+    {
+     "file": "0164.json",
+     "ref": "3.22.3.1",
+     "title": "1. WHAT IS, TO BE VNITED IN NATVRE.",
+     "segments": 2
+    },
+    {
+     "file": "0165.json",
+     "ref": "3.22.3.2.0",
+     "title": "2 WHAT IS TO BE VNITED IN PERSON.",
+     "segments": 11
+    },
+    {
+     "file": "0166.json",
+     "ref": "3.22.3.2.1",
+     "title": "A rule to be obſerued as touching the attributes or properties of both natures in Chriſt.",
+     "segments": 8
+    },
+    {
+     "file": "0167.json",
+     "ref": "3.22.3.2.2",
+     "title": "A rule to be obſerued concerning the attributes or properties of the office of Chriſt Mediatour.",
+     "segments": 15
+    },
+    {
+     "file": "0168.json",
+     "ref": "3.22.4",
+     "title": "4 Why it was neceſſarie, that the two natures ſhould bee vnited in the perſon or ſubſiſtence of the ſonne of God.",
+     "segments": 5
+    },
+    {
+     "file": "0169.json",
+     "ref": "3.23.0",
+     "title": "OF CHRISTES HVMILIATION.",
+     "segments": 1
+    },
+    {
+     "file": "0170.json",
+     "ref": "3.23.1",
+     "title": "HE SVFFERED VNDER PONTIVS PILATE.",
+     "segments": 2
+    },
+    {
+     "file": "0171.json",
+     "ref": "3.24.0",
+     "title": "OF CHRISTES PASSION.",
+     "segments": 3
+    },
+    {
+     "file": "0172.json",
+     "ref": "3.24.1",
+     "title": "1 WHAT CHRIST SVFFERED.",
+     "segments": 3
+    },
+    {
+     "file": "0173.json",
+     "ref": "3.24.2",
+     "title": "2 According to which nature Chriſt ſuffered.",
+     "segments": 3
+    },
+    {
+     "file": "0174.json",
+     "ref": "3.24.3",
+     "title": "3 The cauſes impellent, or motiues of Christs Paſſion.",
+     "segments": 3
+    },
+    {
+     "file": "0175.json",
+     "ref": "3.24.4.0",
+     "title": "4 The final cauſes or ends of his Paſſion.",
+     "segments": 1
+    },
+    {
+     "file": "0176.json",
+     "ref": "3.24.4.1",
+     "title": "SVFFERED VNDER PONTIVS PILATE.",
+     "segments": 1
+    },
+    {
+     "file": "0177.json",
+     "ref": "3.24.4.2",
+     "title": "CRVCIFIED.",
+     "segments": 2
+    },
+    {
+     "file": "0178.json",
+     "ref": "3.24.4.3",
+     "title": "DEAD.",
+     "segments": 1
+    },
+    {
+     "file": "0179.json",
+     "ref": "3.25.0",
+     "title": "OF CHRISTS DEATH.",
+     "segments": 2
+    },
+    {
+     "file": "0180.json",
+     "ref": "3.25.1",
+     "title": "1 HOW CHRIST IS SAID TO HAVE BEENE DEAD.",
+     "segments": 2
+    },
+    {
+     "file": "0181.json",
+     "ref": "3.25.2",
+     "title": "2 Whether it was requiſite and neceſſary that Chriſt ſhould die.",
+     "segments": 4
+    },
+    {
+     "file": "0182.json",
+     "ref": "3.25.3.0",
+     "title": "3 The fruit of Chriſts death.",
+     "segments": 3
+    },
+    {
+     "file": "0183.json",
+     "ref": "3.25.3.1",
+     "title": "AND BVRIED.",
+     "segments": 1
+    },
+    {
+     "file": "0184.json",
+     "ref": "3.25.3.2",
+     "title": "HE DESCENDED INTO HEL.",
+     "segments": 6
+    },
+    {
+     "file": "0185.json",
+     "ref": "3.26.0",
+     "title": "THE THIRD DAY HE ROSE AGAINE FROM THE DEAD.",
+     "segments": 2
+    },
+    {
+     "file": "0186.json",
+     "ref": "3.26.1",
+     "title": "1 WHETHER CHRIST ROSE AGAINE.",
+     "segments": 1
+    },
+    {
+     "file": "0187.json",
+     "ref": "3.26.2",
+     "title": "2 HOW CHRIST ROSE.",
+     "segments": 1
+    },
+    {
+     "file": "0188.json",
+     "ref": "3.26.3",
+     "title": "3 FOR WHAT CAVSE HE ROSE.",
+     "segments": 2
+    },
+    {
+     "file": "0189.json",
+     "ref": "3.26.4",
+     "title": "4 What are the fruites of Chriſtes Reſurrection.",
+     "segments": 9
+    },
+    {
+     "file": "0190.json",
+     "ref": "3.27.0",
+     "title": "HE ASCENDED INTO HEAVEN.",
+     "segments": 3
+    },
+    {
+     "file": "0191.json",
+     "ref": "3.27.1",
+     "title": "1 WHITHER CHRIST ASCENDED.",
+     "segments": 2
+    },
+    {
+     "file": "0192.json",
+     "ref": "3.27.2",
+     "title": "2 Howe Chriſt aſcended into Heauen.",
+     "segments": 3
+    },
+    {
+     "file": "0193.json",
+     "ref": "3.27.3",
+     "title": "3 Wherefore chriſt aſcended into Heauen.",
+     "segments": 2
+    },
+    {
+     "file": "0194.json",
+     "ref": "3.27.4",
+     "title": "4 What is the difference between chriſts Aſcenſion & ours.",
+     "segments": 1
+    },
+    {
+     "file": "0195.json",
+     "ref": "3.27.5",
+     "title": "5 What are the fruits of chriſts aſcenſion.",
+     "segments": 4
+    },
+    {
+     "file": "0196.json",
+     "ref": "3.28.0",
+     "title": "HE SITTETH AT THE RIGHT HAND OF GOD THE FATHER ALMIGHTY.",
+     "segments": 3
+    },
+    {
+     "file": "0197.json",
+     "ref": "3.28.1",
+     "title": "1 WHAT THE RIGHT HAND OF GOD SIGNIFIETH.",
+     "segments": 1
+    },
+    {
+     "file": "0198.json",
+     "ref": "3.28.2",
+     "title": "2 What it is to ſit at Gods right hand.",
+     "segments": 9
+    },
+    {
+     "file": "0199.json",
+     "ref": "3.28.3",
+     "title": "3 Whether Chriſt did alwaies ſit at the right hand of God.",
+     "segments": 6
+    },
+    {
+     "file": "0200.json",
+     "ref": "3.28.4",
+     "title": "4 What are the fruites of Chriſtes ſitting at the right hand of the Father.",
+     "segments": 1
+    },
+    {
+     "file": "0201.json",
+     "ref": "3.29.0",
+     "title": "FROM THENCE SHAL HE COME TO IVDGE THE QVICKE AND THE DEAD.",
+     "segments": 3
+    },
+    {
+     "file": "0202.json",
+     "ref": "3.29.1",
+     "title": "1 WHETHER THERE SHALL BEE ANIE IVDGEMENT.",
+     "segments": 4
+    },
+    {
+     "file": "0203.json",
+     "ref": "3.29.2",
+     "title": "2 What is the last iudgement.",
+     "segments": 4
+    },
+    {
+     "file": "0204.json",
+     "ref": "3.29.3",
+     "title": "3 Who ſhall be iudge.",
+     "segments": 3
+    },
+    {
+     "file": "0205.json",
+     "ref": "3.29.4",
+     "title": "4 Whence and whither Chriſt ſhall come.",
+     "segments": 1
+    },
+    {
+     "file": "0206.json",
+     "ref": "3.29.5",
+     "title": "5 How Chriſt ſhall come to iudgement.",
+     "segments": 1
+    },
+    {
+     "file": "0207.json",
+     "ref": "3.29.6",
+     "title": "6 Whom Chriſt ſhal iudge.",
+     "segments": 1
+    },
+    {
+     "file": "0208.json",
+     "ref": "3.29.7",
+     "title": "7 What ſhall bee the Sentence and exequution of iudgement.",
+     "segments": 2
+    },
+    {
+     "file": "0209.json",
+     "ref": "3.29.8",
+     "title": "8 For what cauſes that iudgement ſhal be.",
+     "segments": 1
+    },
+    {
+     "file": "0210.json",
+     "ref": "3.29.9",
+     "title": "9 When this iudgement ſhalbe.",
+     "segments": 1
+    },
+    {
+     "file": "0211.json",
+     "ref": "3.29.10",
+     "title": "10 Wherefore God would haue vs certaine of the laſt iudgement.",
+     "segments": 1
+    },
+    {
+     "file": "0212.json",
+     "ref": "3.29.11",
+     "title": "11 For what cauſe God would not haue vs certaine of the time of iudgement.",
+     "segments": 1
+    },
+    {
+     "file": "0213.json",
+     "ref": "3.29.12",
+     "title": "12 For what cauſe God differreth that iudgement.",
+     "segments": 1
+    },
+    {
+     "file": "0214.json",
+     "ref": "3.29.13",
+     "title": "13 Whether the last iudgement bee to be wiſhed for.",
+     "segments": 1
+    },
+    {
+     "file": "0215.json",
+     "ref": "3.30.0",
+     "title": "THE THIRD PART OF THE CREED, Of the holy Ghoſt the ſanctifier.",
+     "segments": 3
+    },
+    {
+     "file": "0216.json",
+     "ref": "3.30.1",
+     "title": "1It is here to be noted, that this Queſtiō ſerueth more properlie for the latine, which vſeth this name, Spiritus, only, when as we in Engliſh vſe as much, or more rather, the word Ghoſt, than Spirit,",
+     "segments": 5
+    },
+    {
+     "file": "0217.json",
+     "ref": "3.30.2",
+     "title": "2 Who and what the holy ghoſt is.",
+     "segments": 10
+    },
+    {
+     "file": "0218.json",
+     "ref": "3.30.3",
+     "title": "3 What is the office of the holie Ghoſt.",
+     "segments": 4
+    },
+    {
+     "file": "0219.json",
+     "ref": "3.30.4",
+     "title": "4 Of whom the holy Ghoſt is giuen, and wherefore.",
+     "segments": 3
+    },
+    {
+     "file": "0220.json",
+     "ref": "3.30.5",
+     "title": "5 Vnto whom the holy Ghoſt is giuen.",
+     "segments": 2
+    },
+    {
+     "file": "0221.json",
+     "ref": "3.30.6",
+     "title": "6 How the holy ghoſt is giuen and receiued.",
+     "segments": 1
+    },
+    {
+     "file": "0222.json",
+     "ref": "3.30.7",
+     "title": "7 How the holy ghoſt is reteined.",
+     "segments": 1
+    },
+    {
+     "file": "0223.json",
+     "ref": "3.30.8",
+     "title": "8 Whether and how the holy Ghoſt may be loſt.",
+     "segments": 1
+    },
+    {
+     "file": "0224.json",
+     "ref": "3.30.9",
+     "title": "9 Wherefore the holy Ghoſt is neceſſarie.",
+     "segments": 1
+    },
+    {
+     "file": "0225.json",
+     "ref": "3.30.10",
+     "title": "10 How we may know that the holy Ghoſt dwelleth in vs.",
+     "segments": 1
+    },
+    {
+     "file": "0226.json",
+     "ref": "3.31.0",
+     "title": "OF THE CHVRCH.",
+     "segments": 2
+    },
+    {
+     "file": "0227.json",
+     "ref": "3.31.1",
+     "title": "1 WHAT THE CHVRCH IS.",
+     "segments": 1
+    },
+    {
+     "file": "0228.json",
+     "ref": "3.31.2",
+     "title": "2 How manie waies the church is taken.",
+     "segments": 3
+    },
+    {
+     "file": "0229.json",
+     "ref": "3.31.3",
+     "title": "3 What are the tokens or marks of the Church.",
+     "segments": 3
+    },
+    {
+     "file": "0230.json",
+     "ref": "3.31.4",
+     "title": "4 Why the Church is called holy and Catholicke.",
+     "segments": 1
+    },
+    {
+     "file": "0231.json",
+     "ref": "3.31.5",
+     "title": "5 In what the Church differeth from the common-weal.",
+     "segments": 1
+    },
+    {
+     "file": "0232.json",
+     "ref": "3.31.6",
+     "title": "6 Whence ariſeth the difference of the Church from the reſt of mankinde.",
+     "segments": 2
+    },
+    {
+     "file": "0233.json",
+     "ref": "3.31.7",
+     "title": "7 Whether anie one maie bee ſaued out of the Church.",
+     "segments": 1
+    },
+    {
+     "file": "0234.json",
+     "ref": "3.32.0",
+     "title": "OF PREDESTINATION.",
+     "segments": 3
+    },
+    {
+     "file": "0235.json",
+     "ref": "3.32.1",
+     "title": "1 WHETHER THERE BE PREDESTINATION.",
+     "segments": 13
+    },
+    {
+     "file": "0236.json",
+     "ref": "3.32.2",
+     "title": "2 What Predeſtination is.",
+     "segments": 2
+    },
+    {
+     "file": "0237.json",
+     "ref": "3.32.3",
+     "title": "3 What the cauſes of Predestination, or Election, and Reprobation.",
+     "segments": 4
+    },
+    {
+     "file": "0238.json",
+     "ref": "3.32.4",
+     "title": "4 Wha • are the effects of Predeſtination.",
+     "segments": 4
+    },
+    {
+     "file": "0239.json",
+     "ref": "3.32.5",
+     "title": "5 Whether Predeſtinati • n • e vnchaungeable.",
+     "segments": 1
+    },
+    {
+     "file": "0240.json",
+     "ref": "3.32.6",
+     "title": "6 How far forth Predeſtination, or Election, and Reprobation is knowen vnto vs.",
+     "segments": 2
+    },
+    {
+     "file": "0241.json",
+     "ref": "3.32.7",
+     "title": "7 Whether the Elect be alwaies members of the Church, and the Reprobate neuer.",
+     "segments": 3
+    },
+    {
+     "file": "0242.json",
+     "ref": "3.32.8",
+     "title": "8 Whether the Elect may fall from the Church, and the Reprobate abide alwaies in the Church.",
+     "segments": 2
+    },
+    {
+     "file": "0243.json",
+     "ref": "3.32.9.0",
+     "title": "9 What is the vſe of this doctrine.",
+     "segments": 1
+    },
+    {
+     "file": "0244.json",
+     "ref": "3.32.9.1",
+     "title": "OF THE COMMVNION OF SAINTS.",
+     "segments": 3
+    },
+    {
+     "file": "0245.json",
+     "ref": "3.33.0",
+     "title": "OF REMISSION OF SINNES.",
+     "segments": 2
+    },
+    {
+     "file": "0246.json",
+     "ref": "3.33.1",
+     "title": "1 WHAT REMISSION OF SINNES IS.",
+     "segments": 1
+    },
+    {
+     "file": "0247.json",
+     "ref": "3.33.2",
+     "title": "2 Who giueth remiſſion of ſinnes.",
+     "segments": 2
+    },
+    {
+     "file": "0248.json",
+     "ref": "3.33.3",
+     "title": "3 For what remiſſion of ſins is granted.",
+     "segments": 1
+    },
+    {
+     "file": "0249.json",
+     "ref": "3.33.4",
+     "title": "4 Whether remiſſion of ſinnes agreeth with Gods iuſtice.",
+     "segments": 1
+    },
+    {
+     "file": "0250.json",
+     "ref": "3.33.5",
+     "title": "5. Whether remiſſion of ſinnes bee freelie giuen.",
+     "segments": 1
+    },
+    {
+     "file": "0251.json",
+     "ref": "3.33.6",
+     "title": "6 To whom remiſſion of ſinnes is giuen.",
+     "segments": 1
+    },
+    {
+     "file": "0252.json",
+     "ref": "3.33.7",
+     "title": "7. How remiſſion of ſinnes is giuen.",
+     "segments": 1
+    },
+    {
+     "file": "0253.json",
+     "ref": "3.34.0",
+     "title": "O • THE RESVRRECTION OF THE FLESH.",
+     "segments": 2
+    },
+    {
+     "file": "0254.json",
+     "ref": "3.34.1",
+     "title": "1 WHAT THE RESVRRECTION IS.",
+     "segments": 1
+    },
+    {
+     "file": "0255.json",
+     "ref": "3.34.2",
+     "title": "2 The Errours concerning the Reſurrection.",
+     "segments": 1
+    },
+    {
+     "file": "0256.json",
+     "ref": "3.34.3",
+     "title": "3 Whence it maie appeare that the Reſurrection ſhall certainlie be •.",
+     "segments": 2
+    },
+    {
+     "file": "0257.json",
+     "ref": "3.34.4",
+     "title": "4 For what end the Reſurrection ſhall be.",
+     "segments": 1
+    },
+    {
+     "file": "0258.json",
+     "ref": "3.34.5",
+     "title": "5 By whom the Reſurrection ſhall be.",
+     "segments": 1
+    },
+    {
+     "file": "0259.json",
+     "ref": "3.34.6",
+     "title": "6 How the Reſurrection ſhall be.",
+     "segments": 1
+    },
+    {
+     "file": "0260.json",
+     "ref": "3.34.7",
+     "title": "7 When the Reſurrection ſhall be.",
+     "segments": 1
+    },
+    {
+     "file": "0261.json",
+     "ref": "3.34.8",
+     "title": "8 What bodies ſhall riſe.",
+     "segments": 1
+    },
+    {
+     "file": "0262.json",
+     "ref": "3.34.9",
+     "title": "9 Whether the ſoule be immortal.",
+     "segments": 17
+    },
+    {
+     "file": "0263.json",
+     "ref": "3.35.0",
+     "title": "OF EVERLASTING LIFE.",
+     "segments": 3
+    },
+    {
+     "file": "0264.json",
+     "ref": "3.35.1",
+     "title": "1 WHAT EVERLASTING LIFE IS.",
+     "segments": 5
+    },
+    {
+     "file": "0265.json",
+     "ref": "3.35.2",
+     "title": "2 Who giueth euerlaſting life.",
+     "segments": 1
+    },
+    {
+     "file": "0266.json",
+     "ref": "3.35.3",
+     "title": "3 To whom euerlaſting life is giuen.",
+     "segments": 1
+    },
+    {
+     "file": "0267.json",
+     "ref": "3.35.4",
+     "title": "4 For what cauſe euerlaſting life is giuen.",
+     "segments": 1
+    },
+    {
+     "file": "0268.json",
+     "ref": "3.35.5",
+     "title": "5 When euerlaſting life is giuen.",
+     "segments": 1
+    },
+    {
+     "file": "0269.json",
+     "ref": "3.35.6",
+     "title": "6 How euerlaſting life is giuen vnto vs.",
+     "segments": 1
+    },
+    {
+     "file": "0270.json",
+     "ref": "3.35.7",
+     "title": "7 Whether we can be aſſured in this life of euerlaſting life.",
+     "segments": 2
+    },
+    {
+     "file": "0271.json",
+     "ref": "3.36.0",
+     "title": "OF IVSTIFICATION.",
+     "segments": 3
+    },
+    {
+     "file": "0272.json",
+     "ref": "3.36.1",
+     "title": "1 WHAT IVSTICE OR RIGHTEOVSNES IN GENERAL IS.",
+     "segments": 1
+    },
+    {
+     "file": "0273.json",
+     "ref": "3.36.2",
+     "title": "2 How manifold Juſtice is.",
+     "segments": 5
+    },
+    {
+     "file": "0274.json",
+     "ref": "3.36.3",
+     "title": "3 In what iuſtice differeth from iuſtification.",
+     "segments": 2
+    },
+    {
+     "file": "0275.json",
+     "ref": "3.36.4",
+     "title": "4 What is our iuſtice.",
+     "segments": 2
+    },
+    {
+     "file": "0276.json",
+     "ref": "3.36.5",
+     "title": "5 How Chriſtes ſatisfaction is made our iuſtice and righteouſneſſe:",
+     "segments": 1
+    },
+    {
+     "file": "0277.json",
+     "ref": "3.36.6",
+     "title": "6 Why Chriſts ſatisfaction is made ours.",
+     "segments": 1
+    },
+    {
+     "file": "0278.json",
+     "ref": "3.36.7.0",
+     "title": "7 Why Christes ſatisfaction is made ours by faith onelie.",
+     "segments": 1
+    },
+    {
+     "file": "0279.json",
+     "ref": "3.36.7.1",
+     "title": "Obiections againſt this Doctrine of Iuſtification.",
+     "segments": 24
+    },
+    {
+     "file": "0280.json",
+     "ref": "3.37.0",
+     "title": "OF SACRAMENTS.",
+     "segments": 4
+    },
+    {
+     "file": "0281.json",
+     "ref": "3.37.1",
+     "title": "1 WHAT SACRAMENTS ARE.",
+     "segments": 4
+    },
+    {
+     "file": "0282.json",
+     "ref": "3.37.2",
+     "title": "2 What are the ends of Sacraments.",
+     "segments": 6
+    },
+    {
+     "file": "0283.json",
+     "ref": "3.37.3",
+     "title": "3 Jn what Sacraments differ from ſacrifices.",
+     "segments": 1
+    },
+    {
+     "file": "0284.json",
+     "ref": "3.37.4",
+     "title": "4 Jn what ſacramentes agree with the Word, and in what they differ from it.",
+     "segments": 2
+    },
+    {
+     "file": "0285.json",
+     "ref": "3.37.5",
+     "title": "5 How the ſacramentes of the olde and new Teſtament agree, and how they differ.",
+     "segments": 1
+    },
+    {
+     "file": "0286.json",
+     "ref": "3.37.6",
+     "title": "6 What the ſacramental vnion is.",
+     "segments": 2
+    },
+    {
+     "file": "0287.json",
+     "ref": "3.37.7",
+     "title": "7 In what the things differ from the ſignes.",
+     "segments": 1
+    },
+    {
+     "file": "0288.json",
+     "ref": "3.37.8",
+     "title": "8 What phraſes and formes of ſpeaking of the ſacramentes are vſual vnto the Church and ſcripture.",
+     "segments": 1
+    },
+    {
+     "file": "0289.json",
+     "ref": "3.37.9",
+     "title": "9 What is the right and lawful vſe of Sacraments.",
+     "segments": 1
+    },
+    {
+     "file": "0290.json",
+     "ref": "3.37.10",
+     "title": "10 What the wicked receiue in the vſe and adminiſtration of the Sacraments.",
+     "segments": 1
+    },
+    {
+     "file": "0291.json",
+     "ref": "3.37.11.0",
+     "title": "11 How manie ſacraments there are of the new Teſtament.",
+     "segments": 1
+    },
+    {
+     "file": "0292.json",
+     "ref": "3.37.11.1",
+     "title": "Certaine Concluſions of the Sacraments, in generall.",
+     "segments": 18
+    },
+    {
+     "file": "0293.json",
+     "ref": "3.37.11.2",
+     "title": "The confirmation of ſuch of the former concluſions, as moſt require it.",
+     "segments": 12
+    },
+    {
+     "file": "0294.json",
+     "ref": "3.38.0",
+     "title": "OF BAPTISME.",
+     "segments": 2
+    },
+    {
+     "file": "0295.json",
+     "ref": "3.38.1",
+     "title": "WHAT BAPTISME IS.",
+     "segments": 3
+    },
+    {
+     "file": "0296.json",
+     "ref": "3.38.2",
+     "title": "2 What are the endes of Baptiſme.",
+     "segments": 7
+    },
+    {
+     "file": "0297.json",
+     "ref": "3.38.3",
+     "title": "3 What is the ſenſe and meaning of the words of the inſtitution of Baptiſme.",
+     "segments": 1
+    },
+    {
+     "file": "0298.json",
+     "ref": "3.38.4",
+     "title": "4 What are the formes and manners of ſpeaking of baptiſme.",
+     "segments": 1
+    },
+    {
+     "file": "0299.json",
+     "ref": "3.38.5.0",
+     "title": "5 Who are to be baptiſed.",
+     "segments": 5
+    },
+    {
+     "file": "0300.json",
+     "ref": "3.38.5.1",
+     "title": "Certaine obiections againſt the Baptiſme of Jnfants refuted.",
+     "segments": 3
+    },
+    {
+     "file": "0301.json",
+     "ref": "3.38.6",
+     "title": "6 What is the right and lawfull vſe of Baptiſme.",
+     "segments": 1
+    },
+    {
+     "file": "0302.json",
+     "ref": "3.38.7",
+     "title": "7 In place whereof baptiſme ſucceeded.",
+     "segments": 1
+    },
+    {
+     "file": "0303.json",
+     "ref": "3.38.8.0",
+     "title": "8 How baptiſme agreeth with circumciſion, and wherein it differeth from it.",
+     "segments": 2
+    },
+    {
+     "file": "0304.json",
+     "ref": "3.38.8.1",
+     "title": "CERTAINE CONCLVSIONS OF BAPTISME.",
+     "segments": 17
+    },
+    {
+     "file": "0305.json",
+     "ref": "3.39.0",
+     "title": "OF CIRCVMCISION.",
+     "segments": 2
+    },
+    {
+     "file": "0306.json",
+     "ref": "3.39.1",
+     "title": "1 WHAT CIRCVMCISION IS.",
+     "segments": 2
+    },
+    {
+     "file": "0307.json",
+     "ref": "3.39.2",
+     "title": "2 What are the ends of circumciſion.",
+     "segments": 1
+    },
+    {
+     "file": "0308.json",
+     "ref": "3.39.3",
+     "title": "3 Why circumciſion is aboliſhed.",
+     "segments": 1
+    },
+    {
+     "file": "0309.json",
+     "ref": "3.39.4",
+     "title": "4 Why Chriſt was circumciſed.",
+     "segments": 1
+    },
+    {
+     "file": "0310.json",
+     "ref": "3.40.0",
+     "title": "OF THE LORDS SVPPER.",
+     "segments": 2
+    },
+    {
+     "file": "0311.json",
+     "ref": "3.40.1.0",
+     "title": "1 WHAT THE SVPPER OF THE LORD IS.",
+     "segments": 1
+    },
+    {
+     "file": "0312.json",
+     "ref": "3.40.1.1",
+     "title": "Now let vs come to define the Lords Supper.",
+     "segments": 2
+    },
+    {
+     "file": "0313.json",
+     "ref": "3.40.2",
+     "title": "2 What are the ends of the Lords ſupper.",
+     "segments": 3
+    },
+    {
+     "file": "0314.json",
+     "ref": "3.40.3",
+     "title": "3 What the ſupper differeth from Baptiſme.",
+     "segments": 2
+    },
+    {
+     "file": "0315.json",
+     "ref": "3.40.4.0",
+     "title": "6 What is the ſenſe or meaning of the words of the inſtitution of our Lordes ſupper.",
+     "segments": 21
+    },
+    {
+     "file": "0316.json",
+     "ref": "3.40.4.1",
+     "title": "The firſt ſort of Arguments, which are taken from the nature of the ſacraments.",
+     "segments": 10
+    },
+    {
+     "file": "0317.json",
+     "ref": "3.40.4.2",
+     "title": "The ſecond ſort of arguments, which are deduced from the analogie of faith.",
+     "segments": 4
+    },
+    {
+     "file": "0318.json",
+     "ref": "3.40.4.3.0",
+     "title": "The third ſort of argumentes, which are drawen from like places of ſcripture, where namelie the ſame thing is deliuered in words, whereof there is no controuerſie.",
+     "segments": 9
+    },
+    {
+     "file": "0319.json",
+     "ref": "3.40.4.3.1",
+     "title": "AGAINST THE TRANSVBSTANTIATION OF THE PAPISTES.",
+     "segments": 8
+    },
+    {
+     "file": "0320.json",
+     "ref": "3.40.4.4",
+     "title": "A refutation of obiections framed to confirme conſubſtantiation.",
+     "segments": 7
+    },
+    {
+     "file": "0321.json",
+     "ref": "3.40.5",
+     "title": "5 What is the difference betweene the Lords ſupper, and the popiſh Maſſe.",
+     "segments": 13
+    },
+    {
+     "file": "0322.json",
+     "ref": "3.40.6",
+     "title": "6 What is the right and lawful vſe of the ſupper.",
+     "segments": 1
+    },
+    {
+     "file": "0323.json",
+     "ref": "3.40.7",
+     "title": "7 What the wicked receiue in the Lords ſupper.",
+     "segments": 2
+    },
+    {
+     "file": "0324.json",
+     "ref": "3.40.8.0",
+     "title": "8 Who ought to approch and be admitted vnto the ſupper.",
+     "segments": 3
+    },
+    {
+     "file": "0325.json",
+     "ref": "3.40.8.1.0",
+     "title": "The ſecond part of the former queſtion is, Who ought to bee admitted vnto the Lords Supper.",
+     "segments": 1
+    },
+    {
+     "file": "0326.json",
+     "ref": "3.40.8.1.1",
+     "title": "CERTAINE CONCLVSIONS OF THE SVPPER.",
+     "segments": 16
+    },
+    {
+     "file": "0327.json",
+     "ref": "3.40.8.1.2.1",
+     "title": "Certaine principal arguments of the Conſubſtantiaries againſt the ſyncere doctrine of the Lordes Supper, & the Sacramentaries, as they cal them: together with a refutation of them.",
+     "segments": 1
+    },
+    {
+     "file": "0328.json",
+     "ref": "3.40.8.1.2.2",
+     "title": "Certaine arguments of the Conſubſtantiaries, whereby they goe about to ouerthrow our doctrine of the Lords Supper: together with the refutations of them.",
+     "segments": 5
+    },
+    {
+     "file": "0329.json",
+     "ref": "3.40.8.1.2.3",
+     "title": "The ſhifts of Conſubſtantiaries, whereby they go about to elude & ſhift off certaine of our obiections, not all: for mo are obiected againſt them.",
+     "segments": 8
+    },
+    {
+     "file": "0330.json",
+     "ref": "3.40.8.1.2.4",
+     "title": "Certaine reaſons whereby is proued, That the bodie of Chriſt is not preſent either in, or vnder, or at the bread of the Lords Supper, neither is corporallie eaten Vnder, With, Jn, or At the Bread.",
+     "segments": 1
+    },
+    {
+     "file": "0331.json",
+     "ref": "3.40.8.1.3.1",
+     "title": "THE FIRST ARGVMENT.",
+     "segments": 1
+    },
+    {
+     "file": "0332.json",
+     "ref": "3.40.8.1.3.2",
+     "title": "THE SECOND ARGVMENT.",
+     "segments": 1
+    },
+    {
+     "file": "0333.json",
+     "ref": "3.40.8.1.3.3.0",
+     "title": "THE THIRD ARGVMENT.",
+     "segments": 1
+    },
+    {
+     "file": "0334.json",
+     "ref": "3.40.8.1.3.3.1",
+     "title": "The generall points wherein the churches which profeſſe the Goſpell, agree or diſagree in the controuerſie concerning the Lordes Supper. They agree in theſe points.",
+     "segments": 8
+    },
+    {
+     "file": "0335.json",
+     "ref": "3.40.8.1.3.3.2",
+     "title": "They diſagree in theſe pointes.",
+     "segments": 3
+    },
+    {
+     "file": "0336.json",
+     "ref": "3.41.0",
+     "title": "OF THE KEIES OF THE KINGDOME OF HEAVEN, AND OF EXCOMMVNICATION.",
+     "segments": 3
+    },
+    {
+     "file": "0337.json",
+     "ref": "3.41.1",
+     "title": "1 WHAT THE POWER OF THE KEIES GIVEN VNTO THE CHVRCH IS.",
+     "segments": 1
+    },
+    {
+     "file": "0338.json",
+     "ref": "3.41.2",
+     "title": "2 Vnto whom the power of the keies is committed.",
+     "segments": 1
+    },
+    {
+     "file": "0339.json",
+     "ref": "3.41.3",
+     "title": "3 Why the power of the keies is neceſſarie.",
+     "segments": 6
+    },
+    {
+     "file": "0340.json",
+     "ref": "3.41.4",
+     "title": "4 How the power of the keies differeth from the ciuil power.",
+     "segments": 7
+    },
+    {
+     "file": "0341.json",
+     "ref": "3.41.5.0",
+     "title": "5 What order is to bee obſerued in exerciſing the power of the keies.",
+     "segments": 10
+    },
+    {
+     "file": "0342.json",
+     "ref": "3.41.5.1",
+     "title": "Certaine argumentes aſſoiled, whereby ſome haue endeuoured to aboliſh excommunication.",
+     "segments": 6
+    },
+    {
+     "file": "0343.json",
+     "ref": "3.41.5.2",
+     "title": "Againſt the Examples.",
+     "segments": 4
+    },
+    {
+     "file": "0344.json",
+     "ref": "4.0",
+     "title": "THE THIRD PART OF MANS THANKFVLNES.",
+     "segments": 69
+    },
+    {
+     "file": "0345.json",
+     "ref": "4.1",
+     "title": "OF PRAIER.",
+     "segments": 30
+    },
+    {
+     "file": "0346.json",
+     "ref": "4.2.0",
+     "title": "OF CONVERSION.",
+     "segments": 2
+    },
+    {
+     "file": "0347.json",
+     "ref": "4.2.1",
+     "title": "1. WHAT CONVERSION IS.",
+     "segments": 2
+    },
+    {
+     "file": "0348.json",
+     "ref": "4.2.2",
+     "title": "2 In what the conuerſion of the godly differeth from the repentaunce of the wicked.",
+     "segments": 3
+    },
+    {
+     "file": "0349.json",
+     "ref": "4.2.3",
+     "title": "3 What are the parts of Conuerſion.",
+     "segments": 1
+    },
+    {
+     "file": "0350.json",
+     "ref": "4.2.4",
+     "title": "4 What are the cauſes of conuerſion.",
+     "segments": 1
+    },
+    {
+     "file": "0351.json",
+     "ref": "4.2.5",
+     "title": "5 What are the effectes of conuerſion.",
+     "segments": 1
+    },
+    {
+     "file": "0352.json",
+     "ref": "4.3.0",
+     "title": "OF GOOD-WORKES.",
+     "segments": 2
+    },
+    {
+     "file": "0353.json",
+     "ref": "4.3.1",
+     "title": "1 WHAT GOOD-WORKES ARE.",
+     "segments": 7
+    },
+    {
+     "file": "0354.json",
+     "ref": "4.3.2",
+     "title": "2 How good workes may bee doone.",
+     "segments": 1
+    },
+    {
+     "file": "0355.json",
+     "ref": "4.3.3",
+     "title": "3 Whether the workes of the Saintes be perfectly good.",
+     "segments": 1
+    },
+    {
+     "file": "0356.json",
+     "ref": "4.3.4",
+     "title": "4 How our workes, though not perfectlie good, pleaſe God.",
+     "segments": 1
+    },
+    {
+     "file": "0357.json",
+     "ref": "4.3.5",
+     "title": "5 Why we are to doe good works.",
+     "segments": 6
+    },
+    {
+     "file": "0358.json",
+     "ref": "4.3.6",
+     "title": "6 Whether good woorkes merit any thing before God.",
+     "segments": 2
+    },
+    {
+     "file": "0359.json",
+     "ref": "4.4.0",
+     "title": "OF THE LAW OF GOD, OR, OF THE DECALOG AND TEN COMMANDEMENTES.",
+     "segments": 2
+    },
+    {
+     "file": "0360.json",
+     "ref": "4.4.1",
+     "title": "1 What the Law is in general.",
+     "segments": 1
+    },
+    {
+     "file": "0361.json",
+     "ref": "4.4.2",
+     "title": "2 What are the partes of the Law.",
+     "segments": 15
+    },
+    {
+     "file": "0362.json",
+     "ref": "4.4.3",
+     "title": "3 What the vſe of the Lawe is.",
+     "segments": 13
+    },
+    {
+     "file": "0363.json",
+     "ref": "4.4.4",
+     "title": "4 Jn what the Law differeth from the Goſpel.",
+     "segments": 1
+    },
+    {
+     "file": "0364.json",
+     "ref": "4.4.5",
+     "title": "5 How far the Law is abrogated.",
+     "segments": 10
+    },
+    {
+     "file": "0365.json",
+     "ref": "4.4.6",
+     "title": "6 How the Decalogue is diuided.",
+     "segments": 4
+    },
+    {
+     "file": "0366.json",
+     "ref": "4.4.7.0",
+     "title": "7 What is the ſubſtance or meaning of the Decalogue, & of euery commandement thereof.",
+     "segments": 10
+    },
+    {
+     "file": "0367.json",
+     "ref": "4.4.7.1",
+     "title": "CERTAINE CONCLVSIONS OF THE DECALOGVE.",
+     "segments": 15
+    },
+    {
+     "file": "0368.json",
+     "ref": "4.5.0",
+     "title": "THE FIRST COMMANDEMENT.",
+     "segments": 14
+    },
+    {
+     "file": "0369.json",
+     "ref": "4.5.1",
+     "title": "The vices, which are oppoſite or contrary to the vertues of this firſt commaundement.",
+     "segments": 18
+    },
+    {
+     "file": "0370.json",
+     "ref": "4.6.0",
+     "title": "THE SECOND COMMANDEMENT.",
+     "segments": 10
+    },
+    {
+     "file": "0371.json",
+     "ref": "4.6.1.0",
+     "title": "The firſt part of the ſecond commandement, where is intreated of Images.",
+     "segments": 1
+    },
+    {
+     "file": "0372.json",
+     "ref": "4.6.1.1",
+     "title": "1 HOW FARRE IMAGES MAYBE ALLOWED TO BE MADE.",
+     "segments": 1
+    },
+    {
+     "file": "0373.json",
+     "ref": "4.6.1.2",
+     "title": "2 Why Images are to be aboliſhed in the Churches of Chriſtians.",
+     "segments": 2
+    },
+    {
+     "file": "0374.json",
+     "ref": "4.6.1.3.0",
+     "title": "3 Howe images are to be aboliſhed.",
+     "segments": 1
+    },
+    {
+     "file": "0375.json",
+     "ref": "4.6.1.3.1",
+     "title": "Certaine obiections of the Papiſts.",
+     "segments": 5
+    },
+    {
+     "file": "0376.json",
+     "ref": "4.6.2",
+     "title": "THE SECOND PART OF THE SECOND COMMANDEMENT.",
+     "segments": 9
+    },
+    {
+     "file": "0377.json",
+     "ref": "4.7",
+     "title": "OF TRADITIONS.",
+     "segments": 11
+    },
+    {
+     "file": "0378.json",
+     "ref": "4.8.0",
+     "title": "THE THIRD COMMAVNDEMENT.",
+     "segments": 14
+    },
+    {
+     "file": "0379.json",
+     "ref": "4.8.1",
+     "title": "1 WHAT AN OATH IS.",
+     "segments": 1
+    },
+    {
+     "file": "0380.json",
+     "ref": "4.8.2",
+     "title": "2 By whom we muſt ſwear.",
+     "segments": 2
+    },
+    {
+     "file": "0381.json",
+     "ref": "4.8.3",
+     "title": "3 Of what thinges we are to ſweare.",
+     "segments": 1
+    },
+    {
+     "file": "0382.json",
+     "ref": "4.8.4",
+     "title": "4 Whether all oathes are to be kept.",
+     "segments": 4
+    },
+    {
+     "file": "0383.json",
+     "ref": "4.8.5.0",
+     "title": "3 Whether a Chriſtian maie take a right and lawful oath.",
+     "segments": 16
+    },
+    {
+     "file": "0384.json",
+     "ref": "4.8.5.1",
+     "title": "The obiections of the Papiſts which vſe inuocation and praier, vnto the Saints departed.",
+     "segments": 19
+    },
+    {
+     "file": "0385.json",
+     "ref": "4.9",
+     "title": "THE FOVRTH COMMANDEMENT.",
+     "segments": 11
+    },
+    {
+     "file": "0386.json",
+     "ref": "4.10.0",
+     "title": "OF THE SABBOTH. The chiefe Queſtions.",
+     "segments": 1
+    },
+    {
+     "file": "0387.json",
+     "ref": "4.10.1",
+     "title": "1 HOW MANIFOLD THE SABBOTH IS.",
+     "segments": 3
+    },
+    {
+     "file": "0388.json",
+     "ref": "4.10.2",
+     "title": "2 The cauſes for which the ſabboth daie was inſtituted.",
+     "segments": 1
+    },
+    {
+     "file": "0389.json",
+     "ref": "4.10.3",
+     "title": "3 How the ſabboth is ſanctified or kept holy.",
+     "segments": 8
+    },
+    {
+     "file": "0390.json",
+     "ref": "4.10.4",
+     "title": "6 How the ſabboth is broken or prophaned.",
+     "segments": 8
+    },
+    {
+     "file": "0391.json",
+     "ref": "4.10.5.0",
+     "title": "5 How the ſabboth belongeth vnto vs.",
+     "segments": 2
+    },
+    {
+     "file": "0392.json",
+     "ref": "4.10.5.1",
+     "title": "Obiections againſt the abrogating of the ceremonial ſabboth.",
+     "segments": 6
+    },
+    {
+     "file": "0393.json",
+     "ref": "4.11.0",
+     "title": "OF CEREMONIES.",
+     "segments": 1
+    },
+    {
+     "file": "0394.json",
+     "ref": "4.11.1",
+     "title": "1 WHAT CEREMONIES ARE.",
+     "segments": 1
+    },
+    {
+     "file": "0395.json",
+     "ref": "4.11.2",
+     "title": "2 How the ceremoniall Lawes differ from the Morall.",
+     "segments": 2
+    },
+    {
+     "file": "0396.json",
+     "ref": "4.11.3",
+     "title": "3 How manie ſorts of Ceremonies there are.",
+     "segments": 1
+    },
+    {
+     "file": "0397.json",
+     "ref": "4.11.4",
+     "title": "4 Whether the church may ordaine ceremonies.",
+     "segments": 1
+    },
+    {
+     "file": "0398.json",
+     "ref": "4.12.0",
+     "title": "OF THE MINISTERIE. The chiefe Queſtions.",
+     "segments": 1
+    },
+    {
+     "file": "0399.json",
+     "ref": "4.12.1",
+     "title": "1 WHAT THE MINISTERY IS.",
+     "segments": 1
+    },
+    {
+     "file": "0400.json",
+     "ref": "4.12.2",
+     "title": "2 What are the degrees of Miniſters.",
+     "segments": 1
+    },
+    {
+     "file": "0401.json",
+     "ref": "4.12.3",
+     "title": "3 For what end and purpoſe the miniſterie was inſtituted.",
+     "segments": 1
+    },
+    {
+     "file": "0402.json",
+     "ref": "4.12.4",
+     "title": "4 Vnto whom the miniſterie is to be committed.",
+     "segments": 1
+    },
+    {
+     "file": "0403.json",
+     "ref": "4.12.5",
+     "title": "5 What are the duties and functions of Miniſters.",
+     "segments": 1
+    },
+    {
+     "file": "0404.json",
+     "ref": "4.13.0",
+     "title": "THE FIFT COMMANDEMENT.",
+     "segments": 6
+    },
+    {
+     "file": "0405.json",
+     "ref": "4.13.1",
+     "title": "The proper or peculiar vertues of this fift commandement.",
+     "segments": 5
+    },
+    {
+     "file": "0406.json",
+     "ref": "4.13.2",
+     "title": "The vices contrarie to the peculiar and proper vertues of this fift commaundement.",
+     "segments": 5
+    },
+    {
+     "file": "0407.json",
+     "ref": "4.13.3",
+     "title": "The common vertues of this fift commandement.",
+     "segments": 8
+    },
+    {
+     "file": "0408.json",
+     "ref": "4.13.4",
+     "title": "The vices contrary to theſe common vertues of this fift commaundement.",
+     "segments": 8
+    },
+    {
+     "file": "0409.json",
+     "ref": "4.14.0",
+     "title": "THE SIXT COMMANDEMENT.",
+     "segments": 7
+    },
+    {
+     "file": "0410.json",
+     "ref": "4.14.1",
+     "title": "The vertues of this ſixt commaundement.",
+     "segments": 1
+    },
+    {
+     "file": "0411.json",
+     "ref": "4.14.2",
+     "title": "The vertues not hurting the ſafetie of men.",
+     "segments": 3
+    },
+    {
+     "file": "0412.json",
+     "ref": "4.14.3",
+     "title": "The vertues helping and furthering mens ſafety.",
+     "segments": 6
+    },
+    {
+     "file": "0413.json",
+     "ref": "4.14.4",
+     "title": "The vices contrarie to the vertues of this ſixt commaundement.",
+     "segments": 10
+    },
+    {
+     "file": "0414.json",
+     "ref": "4.15.0",
+     "title": "THE SEVENTH COMMANDEMENT.",
+     "segments": 11
+    },
+    {
+     "file": "0415.json",
+     "ref": "4.15.1",
+     "title": "1 WHAT MARRIAGE IS.",
+     "segments": 1
+    },
+    {
+     "file": "0416.json",
+     "ref": "4.15.2",
+     "title": "2 What are the cauſes of marriage.",
+     "segments": 1
+    },
+    {
+     "file": "0417.json",
+     "ref": "4.15.3",
+     "title": "3 Whether marriage be a thing indifferent.",
+     "segments": 1
+    },
+    {
+     "file": "0418.json",
+     "ref": "4.15.4",
+     "title": "4 What are the duties of married perſons.",
+     "segments": 1
+    },
+    {
+     "file": "0419.json",
+     "ref": "4.15.5",
+     "title": "5 What thinges are contrarie to matrimonie.",
+     "segments": 1
+    },
+    {
+     "file": "0420.json",
+     "ref": "4.16.0",
+     "title": "THE EIGHT COMMAVNDEMENT.",
+     "segments": 2
+    },
+    {
+     "file": "0421.json",
+     "ref": "4.16.1",
+     "title": "The vertues of this eight commaundement, together with their extremes or contrarie vices.",
+     "segments": 9
+    },
+    {
+     "file": "0422.json",
+     "ref": "4.16.2",
+     "title": "Certaine obiections againſt the former diſtinction of Rightes and Poſſeſſions.",
+     "segments": 5
+    },
+    {
+     "file": "0423.json",
+     "ref": "4.17.0",
+     "title": "THE NINTH COMMANDEMENT.",
+     "segments": 2
+    },
+    {
+     "file": "0424.json",
+     "ref": "4.17.1",
+     "title": "The vertues of this ninth commaundement, together with their vices.",
+     "segments": 9
+    },
+    {
+     "file": "0425.json",
+     "ref": "4.18.0",
+     "title": "THE TENTH COMMANDEMENT.",
+     "segments": 11
+    },
+    {
+     "file": "0426.json",
+     "ref": "4.18.1",
+     "title": "1 How the Law is poſſible.",
+     "segments": 1
+    },
+    {
+     "file": "0427.json",
+     "ref": "4.18.2",
+     "title": "2 What is the vſe of the Law.",
+     "segments": 2
+    },
+    {
+     "file": "0428.json",
+     "ref": "4.19.0",
+     "title": "OF PRAIER.",
+     "segments": 2
+    },
+    {
+     "file": "0429.json",
+     "ref": "4.19.1",
+     "title": "1 WHAT PRAIER IS, AND HOW MANY SORTS OF PRAIER THERE ARE.",
+     "segments": 2
+    },
+    {
+     "file": "0430.json",
+     "ref": "4.19.2",
+     "title": "2 Why Praier is neceſſarie.",
+     "segments": 5
+    },
+    {
+     "file": "0431.json",
+     "ref": "4.19.3",
+     "title": "3 What is required to true praier.",
+     "segments": 9
+    },
+    {
+     "file": "0432.json",
+     "ref": "4.19.4",
+     "title": "4 What is the forme of praier by Chriſt preſcribed.",
+     "segments": 10
+    },
+    {
+     "file": "0433.json",
+     "ref": "4.20",
+     "title": "THE FIRST PETITION.",
+     "segments": 9
+    },
+    {
+     "file": "0434.json",
+     "ref": "4.21.0",
+     "title": "THE SECOND PETITION.",
+     "segments": 3
+    },
+    {
+     "file": "0435.json",
+     "ref": "4.21.1",
+     "title": "1 What the kingdome of god is.",
+     "segments": 3
+    },
+    {
+     "file": "0436.json",
+     "ref": "4.21.2",
+     "title": "2 Howe manifold the kingdome of God is.",
+     "segments": 1
+    },
+    {
+     "file": "0437.json",
+     "ref": "4.21.3",
+     "title": "3 Who is king in gods kingdome.",
+     "segments": 1
+    },
+    {
+     "file": "0438.json",
+     "ref": "4.21.4",
+     "title": "4 Who are the Citizens or Subiects of gods kingdome.",
+     "segments": 1
+    },
+    {
+     "file": "0439.json",
+     "ref": "4.21.5",
+     "title": "5 What are the Lawes of this kingdome.",
+     "segments": 1
+    },
+    {
+     "file": "0440.json",
+     "ref": "4.21.6",
+     "title": "6 What benefites are beſtowed on the ſubiectes of this kingdome.",
+     "segments": 1
+    },
+    {
+     "file": "0441.json",
+     "ref": "4.21.7",
+     "title": "7 Who are the enemies and foes of this kingdome.",
+     "segments": 1
+    },
+    {
+     "file": "0442.json",
+     "ref": "4.21.8",
+     "title": "8 Jn what place this kingdome is adminiſtred.",
+     "segments": 1
+    },
+    {
+     "file": "0443.json",
+     "ref": "4.21.9",
+     "title": "9 What is the time of the durance and continuaunce of this kingdome.",
+     "segments": 1
+    },
+    {
+     "file": "0444.json",
+     "ref": "4.21.10",
+     "title": "10 How this kingdome commeth.",
+     "segments": 1
+    },
+    {
+     "file": "0445.json",
+     "ref": "4.21.11",
+     "title": "11 Why we are to deſire that the kingdome of god come.",
+     "segments": 1
+    },
+    {
+     "file": "0446.json",
+     "ref": "4.22.0",
+     "title": "THE THIRD PETITION.",
+     "segments": 3
+    },
+    {
+     "file": "0447.json",
+     "ref": "4.22.1",
+     "title": "1 What wee heere deſire.",
+     "segments": 4
+    },
+    {
+     "file": "0448.json",
+     "ref": "4.22.2",
+     "title": "2 Wherefore we deſire, that gods will be done.",
+     "segments": 1
+    },
+    {
+     "file": "0449.json",
+     "ref": "4.22.3",
+     "title": "3 Of whom Gods will is done in Heauen.",
+     "segments": 3
+    },
+    {
+     "file": "0450.json",
+     "ref": "4.23.0",
+     "title": "THE FOVRTH PETITION.",
+     "segments": 3
+    },
+    {
+     "file": "0451.json",
+     "ref": "4.23.1",
+     "title": "1 Why we are to deſire corporal bleſſings.",
+     "segments": 1
+    },
+    {
+     "file": "0452.json",
+     "ref": "4.23.2",
+     "title": "2 How corporall bleſſings are to be deſired.",
+     "segments": 1
+    },
+    {
+     "file": "0453.json",
+     "ref": "4.23.3",
+     "title": "3 Why Chriſt compriſed corporal bleſsings vnder the name of Bread.",
+     "segments": 1
+    },
+    {
+     "file": "0454.json",
+     "ref": "4.23.4",
+     "title": "4 Wherefore Chriſt calleth it our Bread.",
+     "segments": 1
+    },
+    {
+     "file": "0455.json",
+     "ref": "4.23.5",
+     "title": "5 Wherefore Chriſt calleth it Daylie Bread.",
+     "segments": 1
+    },
+    {
+     "file": "0456.json",
+     "ref": "4.23.6",
+     "title": "6 Why Chriſt addeth, This day,",
+     "segments": 1
+    },
+    {
+     "file": "0457.json",
+     "ref": "4.23.7",
+     "title": "7 Whether it be lawfull to deſire riches.",
+     "segments": 1
+    },
+    {
+     "file": "0458.json",
+     "ref": "4.23.8",
+     "title": "8 Whether it be lawfull to put vp anie thing for heereafter.",
+     "segments": 2
+    },
+    {
+     "file": "0459.json",
+     "ref": "4.24.0",
+     "title": "THE FIFT PETITION.",
+     "segments": 4
+    },
+    {
+     "file": "0460.json",
+     "ref": "4.24.1",
+     "title": "1 WHAT CHRIST HERE CALLETH DEBTS.",
+     "segments": 1
+    },
+    {
+     "file": "0461.json",
+     "ref": "4.24.2",
+     "title": "2 What is remiſſion of ſinnes.",
+     "segments": 1
+    },
+    {
+     "file": "0462.json",
+     "ref": "4.24.3",
+     "title": "3 Why we are to deſire remiſſion of ſinnes.",
+     "segments": 1
+    },
+    {
+     "file": "0463.json",
+     "ref": "4.24.4",
+     "title": "4 How our ſinnes are remitted vnto vs.",
+     "segments": 1
+    },
+    {
+     "file": "0464.json",
+     "ref": "4.25.0",
+     "title": "THE SIXT PETITION.",
+     "segments": 3
+    },
+    {
+     "file": "0465.json",
+     "ref": "4.25.1",
+     "title": "1 What temptation is.",
+     "segments": 3
+    },
+    {
+     "file": "0466.json",
+     "ref": "4.25.2",
+     "title": "2 What is, To lead into temptation.",
+     "segments": 1
+    },
+    {
+     "file": "0467.json",
+     "ref": "4.25.3",
+     "title": "3 What is, To deliuer vs from euill.",
+     "segments": 1
+    },
+    {
+     "file": "0468.json",
+     "ref": "4.25.4",
+     "title": "4 Why this petition is neceſſarie.",
+     "segments": 4
+    },
+    {
+     "file": "0469.json",
+     "ref": "4.26",
+     "title": "THE CONCLVSION OR LAST CLAVSE OF THE LORDS PRAIER. For thine is the kingdome, the power and the glorie, for euer and euer, AMEN.",
+     "segments": 5
+    }
+   ]
+  }
+ ]
+}

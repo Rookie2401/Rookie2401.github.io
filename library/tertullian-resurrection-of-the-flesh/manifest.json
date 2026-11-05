@@ -1,0 +1,1138 @@
+{
+ "workId": "tertullian-resurrection-of-the-flesh",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "csel47-kroymann-carnis-resurrectione",
+   "role": "original",
+   "language": "latin",
+   "credit": "De Carnis Resurrectione, in Corpus Scriptorum Ecclesiasticorum Latinorum, vol. 47 (Tertulliani opera, pars III), ed. Emil Kroymann (Prague; Vienna; Leipzig: F. Tempsky; G. Freytag, 1906). University of Leipzig / Open Greek and Latin (csel-dev), CC BY-SA 4.0; text of the CSEL volume as cited (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0275/stoa026/stoa0275.stoa026.opp-lat2.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 336567,
+   "sourceSha256": "6e75e182456f4f86e6f2657e0236ebedd8c62080abfd93e67470e4f88089e40b",
+   "leftOut": {
+    "lb": 2672,
+    "note": 208,
+    "pb": 100
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 22672,
+    "garbledPerThousand": 0,
+    "joinedPerThousand": 0.1,
+    "numbersPerThousand": 0.1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "45",
+     "title": "45",
+     "segments": 1
+    },
+    {
+     "file": "0046.json",
+     "ref": "46",
+     "title": "46",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "47",
+     "title": "47",
+     "segments": 1
+    },
+    {
+     "file": "0048.json",
+     "ref": "48",
+     "title": "48",
+     "segments": 1
+    },
+    {
+     "file": "0049.json",
+     "ref": "49",
+     "title": "49",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "50",
+     "title": "50",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "51",
+     "title": "51",
+     "segments": 1
+    },
+    {
+     "file": "0052.json",
+     "ref": "52",
+     "title": "52",
+     "segments": 1
+    },
+    {
+     "file": "0053.json",
+     "ref": "53",
+     "title": "53",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "54",
+     "title": "54",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "55",
+     "title": "55",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "56",
+     "title": "56",
+     "segments": 1
+    },
+    {
+     "file": "0057.json",
+     "ref": "57",
+     "title": "57",
+     "segments": 1
+    },
+    {
+     "file": "0058.json",
+     "ref": "58",
+     "title": "58",
+     "segments": 1
+    },
+    {
+     "file": "0059.json",
+     "ref": "59",
+     "title": "59",
+     "segments": 1
+    },
+    {
+     "file": "0060.json",
+     "ref": "60",
+     "title": "60",
+     "segments": 1
+    },
+    {
+     "file": "0061.json",
+     "ref": "61",
+     "title": "61",
+     "segments": 1
+    },
+    {
+     "file": "0062.json",
+     "ref": "62",
+     "title": "62",
+     "segments": 1
+    },
+    {
+     "file": "0063.json",
+     "ref": "63",
+     "title": "63",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "anf3-holmes-resurrection",
+   "role": "english",
+   "language": "english",
+   "credit": "On the Resurrection of the Flesh, in The Ante-Nicene Fathers, vol. III (American edition, ed. A. Cleveland Coxe), Tertullian, trans. Peter Holmes (Buffalo: Christian Literature Publishing Co., 1885). Wikisource contributors, \"Ante-Nicene Fathers\" (Peter Holmes), en.wikisource.org, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_III/Anti-Marcion/On_the_Resurrection_of_the_Flesh",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 290783,
+   "sourceSha256": "3029d0a5276571fd807ca744a61619d951b690c7bb006af22e054a84e6e42b5d",
+   "leftOut": {
+    "note": 482
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/I",
+     "bytes": 4178,
+     "sha256": "31ee47aa382b1e7100ad80c88a75368761a0d4697f6ffdbe6a5d9d39ef4c4be3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/II",
+     "bytes": 8159,
+     "sha256": "65247760de87af0b838a367f9d87905db7b3b4066a85fc18e9b7d388917832cf"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/III",
+     "bytes": 3578,
+     "sha256": "8a92abdbd868ec8a1a6963f69a3b57e7ea979262e1bbe5231b843115565603f9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/IV",
+     "bytes": 3384,
+     "sha256": "a72b0c792b0d549799c4aed2e39bcd31a7577f4096e04030e4010404e60d255b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/V",
+     "bytes": 4838,
+     "sha256": "68f023e90af473cc2e362f355a0e4b5a01a22a465892bfcf9cc9fd81ff40064d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/VI",
+     "bytes": 4250,
+     "sha256": "963f433acc9e66ae067ff39d18a65fb5e897dffe14493c8bb5c23cc9d1681882"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/VII",
+     "bytes": 6101,
+     "sha256": "fa82514ef8cef4a398a628b00cddb62cb23b180ffaf49ece7b22c227144f1454"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/VIII",
+     "bytes": 3213,
+     "sha256": "02bfa48ef6d91cb65c0863bd22fbc28ecd40b3642552d659ded9eea40c79be7f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/IX",
+     "bytes": 2802,
+     "sha256": "e3e17d0e8c82f26ffe475c55d8e1340194c9d278aa4b2051233dabe93abd7332"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/X",
+     "bytes": 2545,
+     "sha256": "70a3f4329bf2d1a95b581ca40da2cd1001af14601a25872ab360fd6146e936cb"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XI",
+     "bytes": 3874,
+     "sha256": "79779b95fec029f2d9f0969d93554bace6088ec2c2ccd9e5d65e72e76336dc40"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XII",
+     "bytes": 3478,
+     "sha256": "3023d4275d147041e3a7b610234c9817950c1346d78092481fba1e5593ecbb4f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XIII",
+     "bytes": 2282,
+     "sha256": "b17864d55836ceaca7c565c44533bad737be95307b620781d18013cedf790cee"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XIV",
+     "bytes": 4625,
+     "sha256": "d4f05a6a3a9e455b048002c3ff6637c4d132393d2c9d28b6a1d5d0ed3ef5534f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XV",
+     "bytes": 3646,
+     "sha256": "103f345a28ec1ee18cee33cd05344dbe26b5959cedf32870ae09724b322b93c4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XVI",
+     "bytes": 6202,
+     "sha256": "39777786cdfc441c3981522b95d87d57379f83ff3e7cb42ad0eb0af32ef8326b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XVII",
+     "bytes": 3822,
+     "sha256": "9a4ece78132c00cd6c541b3d98d8b523c5b6f3be095645899874be68d319e663"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XVIII",
+     "bytes": 6474,
+     "sha256": "4952011a254a1acfae5054690e2fd273b3dba2fd2a21c51d703ad901c4b46a21"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XIX",
+     "bytes": 2975,
+     "sha256": "f6cb819012264b771c51d25c298b8e3632a73bdf0986aadea9158b10b4d48e36"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XX",
+     "bytes": 4357,
+     "sha256": "5675caf4b40de1ebaf281c178e4a405b23cc02faa9bbedfb9013d6710be6300e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XXI",
+     "bytes": 2795,
+     "sha256": "4b00a1a0f87468bcce9546fbc72420ad1874af5f86ed53fa44ce8ee72dacafa6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XXII",
+     "bytes": 6251,
+     "sha256": "77822ce7e52d078bb8232a0724821688c918f733ba29f294219fd8d9d476cb9e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XXIII",
+     "bytes": 5686,
+     "sha256": "ac2eb2a00bdcc47e231bf74af351672dd2de40663bb49955690f2523d10318f2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XXIV",
+     "bytes": 5008,
+     "sha256": "73aa5fe69e113b1c2b50d0c287f33a3277dc3c1dfad9e8aefca061d87de6fe48"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XXV",
+     "bytes": 2799,
+     "sha256": "280172b29e899f0c6af27b15037228ec028c8d54acc518d113779f17ec567bd5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XXVI",
+     "bytes": 5735,
+     "sha256": "8728d5a78a8631824eeadd622f0119f96fcc54ee2da2c53bec2bdfa7a9ec2c26"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XXVII",
+     "bytes": 3393,
+     "sha256": "8cc0f043e9c496aff9751653b343cd306352093f1a4e8ae4743aae1aa0c9fde1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XXVIII",
+     "bytes": 2983,
+     "sha256": "6acdca1636d79f65e31d67441f1ab899af6a90c62ce84117255b6393811e27a7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XXIX",
+     "bytes": 2895,
+     "sha256": "b32028c99b5bb4d4871633c32445bec393671b4fcc91223a4323907b9e18ea8c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XXX",
+     "bytes": 5128,
+     "sha256": "8c109519a6ea0af8bfc01e365d7a67abe880fe83425fe98c3f1558a8d0ac25b5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XXXI",
+     "bytes": 3304,
+     "sha256": "ba4fbaf5cd5d25f86e3abd0ca88e3aeb14d710b36b28959ea837851316fbdb05"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XXXII",
+     "bytes": 3623,
+     "sha256": "eedb858339dad5b9386bc715a355ddc69b651987b5e143ef4fa60ea6b6ae6ee8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XXXIII",
+     "bytes": 4786,
+     "sha256": "3c3c6646387d13aca2d7f86d37f4d8600b108dd39de310855c6a6b93fca8c974"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XXXIV",
+     "bytes": 6224,
+     "sha256": "60e1ce9e745244961cfa4379c8228b0dd88d292d96bd1f813e82e0ff25b1d020"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XXXV",
+     "bytes": 5785,
+     "sha256": "9ff398cbd1cda97d0909f57e7324de787c5808c99720eb8cde567cb2f53997ea"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XXXVI",
+     "bytes": 3299,
+     "sha256": "b6c16696ae53eb3e73d352a7eb6d009599eefdd6044670cd2ae3ccaf93fa8dba"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XXXVII",
+     "bytes": 4674,
+     "sha256": "834a3baf8d6afe4279d1030949a0a198a16b3016507f5525086c620a33116c2e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XXXVIII",
+     "bytes": 3450,
+     "sha256": "d9df03677d347b3ebcaf060888f602f89e8e6cce6e7e19c296cfca01deb837f0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XXXIX",
+     "bytes": 3769,
+     "sha256": "b2d497c2f46ac1c0c6aa99e90e10568e145e1884d3ea138bc152eac526723d3c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XL",
+     "bytes": 5774,
+     "sha256": "b6c16cbdcc7900fe3fd8e2272e3c0ef3280eb5e7e23583191916718379fe0678"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XLI",
+     "bytes": 3301,
+     "sha256": "701163a0d6f078ff0c94761606fb2c6a1f2e7fa1ff5e108a80c594268aa8960a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XLII",
+     "bytes": 6531,
+     "sha256": "4235b55c9f6c9b572d7335be06e91a0b2a4d5947e2eae091fc24f163c11e3ad0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XLIII",
+     "bytes": 3364,
+     "sha256": "4f68b7cf25877febe511ae4c00cebce605e0e37fc1383a0eae51b7a9ee05fb4e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XLIV",
+     "bytes": 4006,
+     "sha256": "7392a08bdf369b5fd8700f179234f335ee47b6b3e553799dcc68b224175166b8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XLV",
+     "bytes": 5370,
+     "sha256": "6c40a85aac5728b6efab822193d4235085ee2f643162c0d8c638da2245deb9f5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XLVI",
+     "bytes": 5781,
+     "sha256": "e66c1c6752826aa901b7df1afa87d3281768cf02b2d7033856bb8cdd86281628"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XLVII",
+     "bytes": 7217,
+     "sha256": "bf793e129f4080b005550fb53ff2ec8c40130ae74b0049240ea226b1f4af9036"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XLVIII",
+     "bytes": 6649,
+     "sha256": "d0f181a7ebf366a09d64403c4f767dc0500e7b4be623bfeaa6a8dfa51017f698"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/XLIX",
+     "bytes": 6796,
+     "sha256": "3d3797b40db6e2ee2c920dd211f9b1000987d91cb371f1e0f91a867507aaf5d1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/L",
+     "bytes": 3844,
+     "sha256": "74cdc58f177cae3ab29feffe015734421e9fada594d281516a6dd3d2d4639f10"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/LI",
+     "bytes": 5379,
+     "sha256": "3dae9d88bfc2e2c4f3ebe35858e895467b17f4030057defc7193a990bc9c4bc4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/LII",
+     "bytes": 7429,
+     "sha256": "4dbda51852b58ebcae9fb902c661867e6cc7fe925e4974c2dfd3c4726fe5157c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/LIII",
+     "bytes": 8720,
+     "sha256": "00e10c677403bd41a2f3723d66a2af439503aa9554afadf6d1ff81561f1262b5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/LIV",
+     "bytes": 2577,
+     "sha256": "78e478cf66f92692858f1f25197c134499406c51bda33d9c8f1f04f4e63c5476"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/LV",
+     "bytes": 5040,
+     "sha256": "253001e04944a64616d5ae6b963b47c611b1e80b78a232815cb9fcd1c83b2027"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/LVI",
+     "bytes": 2324,
+     "sha256": "13bf7320445941b3a55c0244d2dca1ff42a47ad65cdda7acf5231df920534dd4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/LVII",
+     "bytes": 5673,
+     "sha256": "b97984ffe71f6b4f5869334c8ed749037c9b19242f492f4fb84668f7a52065aa"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/LVIII",
+     "bytes": 3685,
+     "sha256": "0937a092a58a5e0ff25635da1d842c1267e054b9aaf6f05cf23e46451636bec6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/LIX",
+     "bytes": 3580,
+     "sha256": "13c4d874903ccf703aa4d1f8c03aec7d0918107b5336e90defe42552e6126711"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/LX",
+     "bytes": 4637,
+     "sha256": "ea78b4d704108c38edad691b94bb66a19b05ad10274f7f9fb523278fe3cf9a74"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/LXI",
+     "bytes": 3877,
+     "sha256": "93464e979d69bd5f39498a49d90f8025bb3c735b59a1ba0a62afc4e423e8c039"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/LXII",
+     "bytes": 2139,
+     "sha256": "7044acb0c333978d423fb3d000010df45e7e20b754c4826754f1ecac43c5ca4d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/LXIII",
+     "bytes": 5653,
+     "sha256": "ea61c727c2a13ce9aff3bb67a0beccc8da862e0261b92df6f7bd624fb23a8395"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Resurrection of the Flesh/Elucidations",
+     "bytes": 5067,
+     "sha256": "3cf01c8c0dcdd99fe67233595f30e6201ce439f0b3209827aad9f2e764d9279e"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 6
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "45",
+     "title": "45",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "46",
+     "title": "46",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "47",
+     "title": "47",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "48",
+     "title": "48",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "49",
+     "title": "49",
+     "segments": 2
+    },
+    {
+     "file": "0050.json",
+     "ref": "50",
+     "title": "50",
+     "segments": 2
+    },
+    {
+     "file": "0051.json",
+     "ref": "51",
+     "title": "51",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "52",
+     "title": "52",
+     "segments": 2
+    },
+    {
+     "file": "0053.json",
+     "ref": "53",
+     "title": "53",
+     "segments": 3
+    },
+    {
+     "file": "0054.json",
+     "ref": "54",
+     "title": "54",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "55",
+     "title": "55",
+     "segments": 2
+    },
+    {
+     "file": "0056.json",
+     "ref": "56",
+     "title": "56",
+     "segments": 2
+    },
+    {
+     "file": "0057.json",
+     "ref": "57",
+     "title": "57",
+     "segments": 2
+    },
+    {
+     "file": "0058.json",
+     "ref": "58",
+     "title": "58",
+     "segments": 2
+    },
+    {
+     "file": "0059.json",
+     "ref": "59",
+     "title": "59",
+     "segments": 2
+    },
+    {
+     "file": "0060.json",
+     "ref": "60",
+     "title": "60",
+     "segments": 2
+    },
+    {
+     "file": "0061.json",
+     "ref": "61",
+     "title": "61",
+     "segments": 2
+    },
+    {
+     "file": "0062.json",
+     "ref": "62",
+     "title": "62",
+     "segments": 2
+    },
+    {
+     "file": "0063.json",
+     "ref": "63",
+     "title": "63",
+     "segments": 2
+    },
+    {
+     "file": "0064.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 13
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 63,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 1
+ }
+}

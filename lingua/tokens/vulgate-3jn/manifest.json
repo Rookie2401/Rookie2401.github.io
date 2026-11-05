@@ -1,0 +1,37 @@
+{
+ "workId": "vulgate-3jn",
+ "editions": [
+  {
+   "editionId": "clementine-3jn",
+   "language": "la",
+   "variety": "la-ecc",
+   "textSource": "store",
+   "analysis": {
+    "id": "golearn-la@1",
+    "kind": "analyser",
+    "status": "automatic"
+   },
+   "credit": "GoLearn Latin analyser (adapter-la; Whitaker's Words, Lewis & Short, Perseus treebank form priors, hand-written Vulgate priors); no Latinist has checked its data",
+   "licence": "Whitaker's Words: free for any use; Lewis & Short via Perseus: CC BY-SA 4.0; Perseus Latin Treebank priors: CC BY-SA 3.0; analyser code: the user's own",
+   "source": "local: go-v0-ecclesia/src/adapters/la.ts",
+   "version": "1",
+   "coverage": {
+    "tokens": 211,
+    "withLemma": 211,
+    "withMorphology": 155,
+    "verified": 0,
+    "ambiguous": 101,
+    "unanalysed": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "3JN.1",
+     "title": "3 John 1",
+     "segments": 14,
+     "tokens": 211
+    }
+   ]
+  }
+ ]
+}

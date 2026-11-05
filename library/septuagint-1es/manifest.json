@@ -1,0 +1,165 @@
+{
+ "workId": "septuagint-1es",
+ "parallel": "segment",
+ "editions": [
+  {
+   "editionId": "brenton-greek-1es",
+   "role": "original",
+   "language": "greek",
+   "credit": "The Septuagint Version of the Old Testament, with an English Translation … and the Apocrypha (the Greek according to the Vatican text), ed. Lancelot Charles Lee Brenton (London: Samuel Bagster and Sons, 1851). Transcription: eBible.org (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://ebible.org/Scriptures/grcbrent_usfx.zip",
+   "sourceMember": "grcbrent_usfx.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1816960,
+   "sourceSha256": "ff88d6bdd6f21f279b24fe7ebcefd7747991cc24f232df95a676c5609fc25356",
+   "leftOut": {
+    "id": 52,
+    "toc": 108,
+    "s": 1
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 8928,
+    "barePerThousand": 14,
+    "digitWords": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1ES.1",
+     "title": "1 Esdras 1",
+     "segments": 58
+    },
+    {
+     "file": "0002.json",
+     "ref": "1ES.2",
+     "title": "1 Esdras 2",
+     "segments": 30
+    },
+    {
+     "file": "0003.json",
+     "ref": "1ES.3",
+     "title": "1 Esdras 3",
+     "segments": 24
+    },
+    {
+     "file": "0004.json",
+     "ref": "1ES.4",
+     "title": "1 Esdras 4",
+     "segments": 63
+    },
+    {
+     "file": "0005.json",
+     "ref": "1ES.5",
+     "title": "1 Esdras 5",
+     "segments": 73
+    },
+    {
+     "file": "0006.json",
+     "ref": "1ES.6",
+     "title": "1 Esdras 6",
+     "segments": 34
+    },
+    {
+     "file": "0007.json",
+     "ref": "1ES.7",
+     "title": "1 Esdras 7",
+     "segments": 15
+    },
+    {
+     "file": "0008.json",
+     "ref": "1ES.8",
+     "title": "1 Esdras 8",
+     "segments": 96
+    },
+    {
+     "file": "0009.json",
+     "ref": "1ES.9",
+     "title": "1 Esdras 9",
+     "segments": 55
+    }
+   ]
+  },
+  {
+   "editionId": "brenton-english-1es",
+   "role": "english",
+   "language": "english",
+   "credit": "The Septuagint Version of the Old Testament, with an English Translation … and the Apocrypha, trans. Lancelot Charles Lee Brenton (London: Samuel Bagster and Sons, 1851). Transcription: eBible.org (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://ebible.org/Scriptures/eng-Brenton_usfx.zip",
+   "sourceMember": "eng-Brenton_usfx.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1548145,
+   "sourceSha256": "363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554",
+   "leftOut": {
+    "id": 60,
+    "toc": 179,
+    "f": 2600,
+    "x": 150
+   },
+   "segmentRefs": "citation",
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1ES.1",
+     "title": "1 Esdras 1",
+     "segments": 58
+    },
+    {
+     "file": "0002.json",
+     "ref": "1ES.2",
+     "title": "1 Esdras 2",
+     "segments": 30
+    },
+    {
+     "file": "0003.json",
+     "ref": "1ES.3",
+     "title": "1 Esdras 3",
+     "segments": 24
+    },
+    {
+     "file": "0004.json",
+     "ref": "1ES.4",
+     "title": "1 Esdras 4",
+     "segments": 63
+    },
+    {
+     "file": "0005.json",
+     "ref": "1ES.5",
+     "title": "1 Esdras 5",
+     "segments": 73
+    },
+    {
+     "file": "0006.json",
+     "ref": "1ES.6",
+     "title": "1 Esdras 6",
+     "segments": 34
+    },
+    {
+     "file": "0007.json",
+     "ref": "1ES.7",
+     "title": "1 Esdras 7",
+     "segments": 15
+    },
+    {
+     "file": "0008.json",
+     "ref": "1ES.8",
+     "title": "1 Esdras 8",
+     "segments": 96
+    },
+    {
+     "file": "0009.json",
+     "ref": "1ES.9",
+     "title": "1 Esdras 9",
+     "segments": 55
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "divisionOnly": [],
+  "missingInOriginal": [],
+  "missingInEnglish": []
+ }
+}

@@ -1,0 +1,575 @@
+{
+ "workId": "tertullian-apology",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "anf3-thelwall-apology",
+   "role": "english",
+   "language": "english",
+   "credit": "Apology, in The Ante-Nicene Fathers, vol. III (American edition, ed. A. Cleveland Coxe), Tertullian, trans. Sydney Thelwall (Buffalo: Christian Literature Publishing Co., 1885). Wikisource contributors, \"Ante-Nicene Fathers\" (Sydney Thelwall), en.wikisource.org, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_III/Apologetic/Apology",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 226498,
+   "sourceSha256": "dc8d3d6f695cbb7436b577bbdcd7ffb19b0b50af0deba01885e2910d8b7b43b4",
+   "leftOut": {
+    "note": 84
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter II",
+     "bytes": 9623,
+     "sha256": "5ec805d68ea6eb45df667f37ae21216b08d1f88bacaba2510203cc972e045643"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter III",
+     "bytes": 4003,
+     "sha256": "7cfe09ebe0ab64392b9629dc62ab702afd3f3f87aaa67b2902b1320935f0d921"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter IV",
+     "bytes": 5382,
+     "sha256": "fb78e33c4f041a4915410ac1292f7d5baf038cc9cf03f09862804931e528f51d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter V",
+     "bytes": 3401,
+     "sha256": "8700b0c1cd464cdca4cc9c664c429cf7fa96dfa026d9ce8a5979478d99e782ef"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter VI",
+     "bytes": 5055,
+     "sha256": "c025d402f71e810f20e9fedd1b028cfbd1f91ad754e7a94eeaa8a575a82dc2cf"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter VII",
+     "bytes": 5338,
+     "sha256": "d3b1c626a87434c34247e708d80f6fc3a0d80f4f6ef52fcbf79f184e1e6ceb67"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter VIII",
+     "bytes": 3496,
+     "sha256": "4a25e9b062ba0be12efc1f3980c9a95010c5fd0e1cf3759a19cb1c4566a23f10"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter IX",
+     "bytes": 8521,
+     "sha256": "8fd6caeb727639a3bdd73e9e49550c2c1cf93027c4275f0f8938dad45f6dd30c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter X",
+     "bytes": 4749,
+     "sha256": "977d349be05f9dc3b59649ce5c7a4679ac08c082936f2faec49d46253d90205f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XI",
+     "bytes": 6219,
+     "sha256": "b925443edb78fa567f024b4214f1b7d06fb1291ba0395386c7cb0a8918253736"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XII",
+     "bytes": 3038,
+     "sha256": "0b03b8c9a8dc743ce900b462ab087905165c515f2b0d4c969a2f52a736830d00"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XIII",
+     "bytes": 3972,
+     "sha256": "e4368b7eb2dde491e028b662b52f1ccd083c756d9181cf9e48e2cc197bbfd22a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XIV",
+     "bytes": 3030,
+     "sha256": "3fa6a82e5b6329462a697dc10723ecb002d7932c6a05977ba8653c8bc2640f45"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XV",
+     "bytes": 3846,
+     "sha256": "5f5a5699a97cb6928e3abaf02d3a706bcfc5b4973a76c661b7d0f1b39596e9a5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XVI",
+     "bytes": 5399,
+     "sha256": "5f962f0f5c2375a796c83f7629626f99bc53f46c22deb7c08dbfeb19cbe10244"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XVII",
+     "bytes": 2928,
+     "sha256": "0f3af53283c1de9d83ea06bf62c0e3ed433ac0decf729fb3e74ff0e2c169e823"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XVIII",
+     "bytes": 3632,
+     "sha256": "9fd8ac3e591a5b825e854b0a977e12ff0f3f4f4f1595894422d01f3d8f6c9fa4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XIX",
+     "bytes": 3016,
+     "sha256": "4a056eb12297637f3a02069ffc373100fcf0eb415c06a7df1a027fc56711e10c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XX",
+     "bytes": 2292,
+     "sha256": "e1d7a78e5af9cea8a602affd077313124d8629898a5492b013c8714fef44c3f9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XXI",
+     "bytes": 13673,
+     "sha256": "c5cbf722a1628a84d4f87d604d7ea53a19795255189f45be0d1d8eb94b8cf37a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XXII",
+     "bytes": 4988,
+     "sha256": "e96b9f961dfe7eff1a208f4985ffcf5e47562f943b8fac3f7f1296d7c4a573be"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XXIII",
+     "bytes": 7919,
+     "sha256": "34de3dde7684b92fb7626ae4f5f4990f0b820644a8fe7cb6c9176b0062f44d59"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XXIV",
+     "bytes": 3966,
+     "sha256": "70899d9368b8518e3698c97a18b90f6010012dfce047636af49def1cc9f2ebe2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XXV",
+     "bytes": 6761,
+     "sha256": "86131df782be7ef51e73019ed211a47eb9b19e1d4efe35fa719b5f53ae010b98"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XXVI",
+     "bytes": 1537,
+     "sha256": "63a200133431464e59fac5695d37018715f6bedd962c806a8555a6dd5cd1afdf"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XXVII",
+     "bytes": 2714,
+     "sha256": "e2846be2bdd16ff7b509d8c65220b6e2442fbe724972fec464d621fe9ad1c805"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XXVIII",
+     "bytes": 1863,
+     "sha256": "c1b4959eb372f3633d168bb86b78289650f31f77c0e6d786a0e7c4af3dc7859a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XXIX",
+     "bytes": 1994,
+     "sha256": "440e05cbdcd85112ad1c619deb52f3fa8df3c3c188027334a44e40ec1b3305f2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XXX",
+     "bytes": 3586,
+     "sha256": "363c562910afa226d73d2f408679ab089e0c223f9068e83d1608f2b599f8a547"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XXXI",
+     "bytes": 1434,
+     "sha256": "21e1ef249842fdd467c02f001c6844f6af41b352f5f79fe8545f30ce836b4ed2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XXXII",
+     "bytes": 1650,
+     "sha256": "932cf596ec1e689e99663a4340cb369bacf36db3663096a710a4350b87d76e72"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XXXIII",
+     "bytes": 2071,
+     "sha256": "bfb73f4e3f00c747a54a1a4665816048fcd68cccafa35b1575d901ec740d793b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XXXIV",
+     "bytes": 1729,
+     "sha256": "af7cbcf2215f3dcf8fa4abc248dfacc7186335e7ba910d004aa46f5055c590ff"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XXXV",
+     "bytes": 5485,
+     "sha256": "d4377294b76bbdf817943e248c4d57827940e49a451eaf0638b2335ec10cb1b4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XXXVI",
+     "bytes": 1706,
+     "sha256": "757aed75e00b5de3810fe81183b5d8deab8d4e1ebda37dff07d6b0fda439157e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XXXVII",
+     "bytes": 3910,
+     "sha256": "394fb957902644a16c9792b4b9069744f3ac23d7adc20bad2b22d37e325bdac9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XXXVIII",
+     "bytes": 2232,
+     "sha256": "df042c8bba98e062a41bcffbad948146d32a21e894785c0bed8fe3467d7533f7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XXXIX",
+     "bytes": 8436,
+     "sha256": "cd445547ceef4e540ca3fe39dece9326d42e030d027bbea2d6e1139ae913a0d4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XL",
+     "bytes": 5332,
+     "sha256": "f31806f8be694037716832f0b77867dab74eccddbb6cb231a7c33c0ab9fd035f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XLI",
+     "bytes": 2527,
+     "sha256": "503a71267de96a21cd07586f8a787feb6f8c18c540c9b37df9c853ee09453fc0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XLII",
+     "bytes": 3865,
+     "sha256": "a5bda9b275a6697faefe4510784405050995efc6541959bdee53ce6ee1f1c0bb"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XLIII",
+     "bytes": 1053,
+     "sha256": "51bf46d462bde3c21ee68912d014c54588b3795f8bdade44c9a815c92dfede9b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XLIV",
+     "bytes": 1545,
+     "sha256": "91324d441e21800c711adf4c229ffde854285052e6815f9a2fc023902ddf9ee8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XLV",
+     "bytes": 2668,
+     "sha256": "9ef3cc0d29d9eef217bf8457bd14f20fb975b6f8b109af628df69000f5c471ba"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XLVI",
+     "bytes": 7067,
+     "sha256": "5c173c10dc1a61709a64294e6844bdbd55abb0d6b323922fd30fdcc3cc02b573"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XLVII",
+     "bytes": 6041,
+     "sha256": "d134891f3b8ac54205e9572b7256f649fd330b531249ef501fa5ef338804efb6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XLVIII",
+     "bytes": 7484,
+     "sha256": "e75ec2096f781fdb23658d0c241f7d7f36af52f8e89606ed5a8dd15d1ad9af37"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter XLIX",
+     "bytes": 2615,
+     "sha256": "0c87a6b7be5dd69fa57e488bfff21a8a2331d1a19da7bbf3732b502d01a1d539"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Chapter L",
+     "bytes": 5754,
+     "sha256": "20f53b7df903fb2639cba2042bcbf5ee147b75324df4bb140849b38f2c080176"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/Apology/Elucidations",
+     "bytes": 15953,
+     "sha256": "0cef41f59532bb0b321189ee8ac19a7b29e30994b120d15720e2457f9c844aa1"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "45",
+     "title": "45",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "46",
+     "title": "46",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "47",
+     "title": "47",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "48",
+     "title": "48",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "49",
+     "title": "49",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "50",
+     "title": "50",
+     "segments": 2
+    },
+    {
+     "file": "0050.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 70
+    }
+   ]
+  }
+ ]
+}

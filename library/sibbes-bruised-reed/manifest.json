@@ -1,0 +1,47 @@
+{
+ "workId": "sibbes-bruised-reed",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "sibbes-bruised-reed-1630-tcp-a12171",
+   "role": "english",
+   "language": "english",
+   "credit": "The bruised reede, and smoaking flax: some sermons contracted out of the 12. of Matth. 20, in EEBO-TCP text A12171 (STC STC 22479; STC) (London: Printed [by M. Flesher] for R. Dawlman, dwelling at the signe of the Brazen Serpent in Pauls Church-yard, 1630). Transcription: Text Creation Partnership (EEBO-TCP Phase I), keyboarded from images of the original (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A12171/master/A12171.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 339148,
+   "sourceSha256": "89497fe6c95628ba4634234598ae16198da47a74b64c2d239ca1fdee50855406",
+   "leftOut": {
+    "pb": 413,
+    "unread": 116,
+    "note": 378
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 37080,
+    "unreadPerThousand": 3.1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "TO THE RIGHT Honourable, Sir Horatio Veere Knight, Lord Veere of Tilbury, and Generall of the English Forces under the High and mighty Lords the States generall of the united Provinces in the Netherla",
+     "segments": 6
+    },
+    {
+     "file": "0002.json",
+     "ref": "front.2",
+     "title": "To the Christian READER.",
+     "segments": 6
+    },
+    {
+     "file": "0003.json",
+     "ref": "1",
+     "title": "THE Bruised Reed, and Smoaking Flax.",
+     "segments": 247
+    }
+   ]
+  }
+ ]
+}

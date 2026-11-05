@@ -1,0 +1,168 @@
+{
+ "workId": "masoretic-ezr",
+ "parallel": "segment",
+ "editions": [
+  {
+   "editionId": "wlc-oshb-ezr",
+   "role": "original",
+   "language": "hebrew",
+   "credit": "Westminster Leningrad Codex (WLC 4.20), as published by the Open Scriptures Hebrew Bible project, ed. J. Alan Groves Center for Advanced Biblical Research (transcription of the Leningrad Codex, Firkovich B 19 A, AD 1008/9) (Open Scriptures Hebrew Bible, 2016). Transcription: J. Alan Groves Center; Open Scriptures Hebrew Bible (Daniel Owens, David Troidl) (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Ezra.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 369918,
+   "sourceSha256": "fb28ff697d0ee17eba5b4db47fb7261ee1870cea0d5701bfc77c9e28d4138129",
+   "leftOut": {
+    "note": 66
+   },
+   "segmentRefs": "citation",
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "EZR.1",
+     "title": "Ezra 1",
+     "segments": 11
+    },
+    {
+     "file": "0002.json",
+     "ref": "EZR.2",
+     "title": "Ezra 2",
+     "segments": 70
+    },
+    {
+     "file": "0003.json",
+     "ref": "EZR.3",
+     "title": "Ezra 3",
+     "segments": 13
+    },
+    {
+     "file": "0004.json",
+     "ref": "EZR.4",
+     "title": "Ezra 4",
+     "segments": 24
+    },
+    {
+     "file": "0005.json",
+     "ref": "EZR.5",
+     "title": "Ezra 5",
+     "segments": 17
+    },
+    {
+     "file": "0006.json",
+     "ref": "EZR.6",
+     "title": "Ezra 6",
+     "segments": 22
+    },
+    {
+     "file": "0007.json",
+     "ref": "EZR.7",
+     "title": "Ezra 7",
+     "segments": 28
+    },
+    {
+     "file": "0008.json",
+     "ref": "EZR.8",
+     "title": "Ezra 8",
+     "segments": 36
+    },
+    {
+     "file": "0009.json",
+     "ref": "EZR.9",
+     "title": "Ezra 9",
+     "segments": 15
+    },
+    {
+     "file": "0010.json",
+     "ref": "EZR.10",
+     "title": "Ezra 10",
+     "segments": 44
+    }
+   ]
+  },
+  {
+   "editionId": "jps1917-ezr",
+   "role": "english",
+   "language": "english",
+   "credit": "The Holy Scriptures according to the Masoretic Text: A New Translation, trans. Jewish Publication Society of America (Max L. Margolis, editor-in-chief) (Philadelphia: Jewish Publication Society of America, 1917). Transcription: eBible.org (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://ebible.org/Scriptures/engjps_usfx.zip",
+   "sourceMember": "engjps_usfx.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1132370,
+   "sourceSha256": "2490670d6d533140e1907b05ec8794d838b007131fb464117cec97c621f5788e",
+   "leftOut": {
+    "id": 39,
+    "toc": 117
+   },
+   "segmentRefs": "citation",
+   "numbering": "eBible.org renumbered this copy to English verse numbers and kept the printed (Hebrew) numbering as marks in the text; the import follows the 2056 marks, giving back the numbering the 1917 book was printed with, and removes them from the words.",
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "EZR.1",
+     "title": "Ezra 1",
+     "segments": 11
+    },
+    {
+     "file": "0002.json",
+     "ref": "EZR.2",
+     "title": "Ezra 2",
+     "segments": 70
+    },
+    {
+     "file": "0003.json",
+     "ref": "EZR.3",
+     "title": "Ezra 3",
+     "segments": 13
+    },
+    {
+     "file": "0004.json",
+     "ref": "EZR.4",
+     "title": "Ezra 4",
+     "segments": 24
+    },
+    {
+     "file": "0005.json",
+     "ref": "EZR.5",
+     "title": "Ezra 5",
+     "segments": 17
+    },
+    {
+     "file": "0006.json",
+     "ref": "EZR.6",
+     "title": "Ezra 6",
+     "segments": 22
+    },
+    {
+     "file": "0007.json",
+     "ref": "EZR.7",
+     "title": "Ezra 7",
+     "segments": 28
+    },
+    {
+     "file": "0008.json",
+     "ref": "EZR.8",
+     "title": "Ezra 8",
+     "segments": 36
+    },
+    {
+     "file": "0009.json",
+     "ref": "EZR.9",
+     "title": "Ezra 9",
+     "segments": 15
+    },
+    {
+     "file": "0010.json",
+     "ref": "EZR.10",
+     "title": "Ezra 10",
+     "segments": 44
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "divisionOnly": [],
+  "missingInOriginal": [],
+  "missingInEnglish": []
+ }
+}

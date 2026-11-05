@@ -1,0 +1,3289 @@
+{
+ "workId": "confessions",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "confessions-knoll-csel33",
+   "role": "original",
+   "language": "latin",
+   "credit": "Confessionum libri XIII, in Sancti Aureli Augustini Opera, Sectio I, Pars I (CSEL 33), ed. Pius Knöll (Prague; Vienna; Leipzig: F. Tempsky; G. Freytag, 1896). Open Greek and Latin / University of Leipzig (csel-dev): Latin text of Augustine, Confessions, ed. P. Knöll (CSEL 33, 1896), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa001/stoa0040.stoa001.opp-lat1.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1571769,
+   "sourceSha256": "733d179607989d38524875d65788644aab32114dd76bbd5c0a143ea14911f07c",
+   "leftOut": {
+    "milestone": 277,
+    "lb": 8531,
+    "note": 756,
+    "pb": 387
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 78842,
+    "garbledPerThousand": 0.2,
+    "joinedPerThousand": 0.1,
+    "numbersPerThousand": 0.2
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 32
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 19
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 22
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 32
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 26
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 27
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 28
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 31
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "LIBER NONVS.",
+     "segments": 37
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "LIBER DECIMVS.",
+     "segments": 70
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "LIBER VNDECIMVS.",
+     "segments": 41
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "LIBER DVODECIMVS.",
+     "segments": 43
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "LIBER TERTIVS DECIMVS.",
+     "segments": 53
+    }
+   ]
+  },
+  {
+   "editionId": "confessions-pilkington-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "The Confessions of St. Augustine, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. I: The Confessions and Letters of St. Augustin, with a Sketch of his Life and Work (ed. Philip Schaff; Buffalo, Christian Literature Co., 1886); copy on English Wikisource, trans. J. G. Pilkington (Buffalo: Christian Literature Co., 1886). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/The_Confessions_of_Saint_Augustine_(Pilkington)",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1182861,
+   "sourceSha256": "bcf1ce6ff4c5d5b8db16a67908c9229146859b8505a80ca0d2403eb0ae6e1e11",
+   "leftOut": {
+    "note": 1360
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book I/Chapter 1",
+     "bytes": 3810,
+     "sha256": "e6fd0f4d142a86abd084759a75d497b31ec63fcb652fc72e92299dde193f9280"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book I/Chapter 10",
+     "bytes": 1944,
+     "sha256": "766cdb211c8ef3d7950e6f7fdf1eec4e0bcdbf3e1f7ef723a7b03c0fad81e99e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book I/Chapter 11",
+     "bytes": 4622,
+     "sha256": "64d743a8d23e7fbf64cda3866f5112caf34b6f8d0fdca430516b2ef7b431e992"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book I/Chapter 12",
+     "bytes": 2029,
+     "sha256": "f8c0071d2a2a177b4a4f96494461b14c84e776c8da2d56437e1d38a574494076"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book I/Chapter 13",
+     "bytes": 5225,
+     "sha256": "13ec7737c425036eb72ef6a6722067e6f9edc67432f227f8ce8b0ee9b1a4c9c1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book I/Chapter 14",
+     "bytes": 3315,
+     "sha256": "97b21b00bd0dc82478ff50c6670e88aec9ae6c2c3302263beee9e95d0e5ec008"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book I/Chapter 15",
+     "bytes": 1640,
+     "sha256": "142669e03e7c4059a1f341d5bb27713cf7061cd0f658a540b53873a1a9edc8fd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book I/Chapter 16",
+     "bytes": 4174,
+     "sha256": "4889f314f56bc5a2b3d3ed749c5c8631cb72708b1f46aca04fe2a156b77798dd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book I/Chapter 17",
+     "bytes": 2185,
+     "sha256": "e9a4352cef2f88d34ad1fa1d06dd7caaba00eca5e7a3d0597fabcc6c493bff08"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book I/Chapter 18",
+     "bytes": 7757,
+     "sha256": "3637363792bfe04e94786ee70b6ac2e72940af3a09882c34f2a25d5ab8b37e85"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book I/Chapter 2",
+     "bytes": 2011,
+     "sha256": "b478a8247cf30c0cb237c3e062484721491a6dff6d9e3cb2c486688aa77a7b21"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book I/Chapter 3",
+     "bytes": 2123,
+     "sha256": "29a22673fc1c64cde9511cd91597140a9859d5345ef2f3134c63fdf5f216f296"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book I/Chapter 4",
+     "bytes": 3052,
+     "sha256": "b653d569391d2e169d1dbfc1263728b52ca1ab032fa21cbb4d9b565b975b42a0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book I/Chapter 5",
+     "bytes": 3337,
+     "sha256": "21dffdf1f79500e36dd43a5bb9d4cda8b3149362bfa9ebb383c6cc7ac661161c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book I/Chapter 6",
+     "bytes": 7285,
+     "sha256": "59f7e2a6c3d129242a51ca1a3f94f350e5b99a6ee8e940ace522ca5df55e104b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book I/Chapter 7",
+     "bytes": 4295,
+     "sha256": "6cb4aab74ef8086ae72f984dcc2010a7ee1b3f631d73cc086dc5fe1af51ece3c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book I/Chapter 8",
+     "bytes": 2570,
+     "sha256": "9642fcf05f538833d9f31df0dbfb4cf30878597288ed4cbacd1d2a02d6a28ecf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book I/Chapter 9",
+     "bytes": 3795,
+     "sha256": "ee17ad620f5a38236d5e47657ef7322e87e95408e00eff75aae37997365f5146"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book II/Chapter 1",
+     "bytes": 1551,
+     "sha256": "53494df47cb8b1cff7355dbc6f48523e623cfb1b85fd166ab6352ae811c29823"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book II/Chapter 10",
+     "bytes": 1380,
+     "sha256": "75ad0c8b6bfe2215fafa9f4c54bffaca83a89a3fe3db5749a6806ee22cfd9a3e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book II/Chapter 2",
+     "bytes": 4683,
+     "sha256": "ae9e35173a4344ac0f7ecf679b50639ac0566ed76452ea57a2783a2114c626a3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book II/Chapter 3",
+     "bytes": 6792,
+     "sha256": "beca95d4603a892cdfb23790ba1039c045847364c6bab359c4b7685901880986"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book II/Chapter 4",
+     "bytes": 2298,
+     "sha256": "dfbc42b8c6301b90e933adbf811161b745799de35ddd84d55559c0c3aabd632b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book II/Chapter 5",
+     "bytes": 3341,
+     "sha256": "b58a4f4727f7aa801fc4cad4d722c2e8576117be05d6d4aec904f553dccc2373"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book II/Chapter 6",
+     "bytes": 5521,
+     "sha256": "63599de335cfd3fd1c421e8fbc580c7b0f79636d49cbfe25f5de99e98d2f35c0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book II/Chapter 7",
+     "bytes": 2360,
+     "sha256": "1b0b57dcb841d7350b3dc0d7148324d35301f6ff44bb1acbc2921bcbc6e170f0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book II/Chapter 8",
+     "bytes": 2013,
+     "sha256": "35570a060ad62259bc8761df36a3e0e4b309aece19829d0f94fead10c47114ad"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book II/Chapter 9",
+     "bytes": 2086,
+     "sha256": "5381c4623e82726838e2e12bd6f1642a6f8a28420b1f6d1b6bbf686ec67cb79d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book III/Chapter 1",
+     "bytes": 2321,
+     "sha256": "96a3f721743999c3b3135a60e446f0f5b977599c221f2e9f96cde711a099b73c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book III/Chapter 10",
+     "bytes": 2995,
+     "sha256": "a7857ef5574ff0ab0aa8234642486bec820219a17c93fcb3b30a56e821a934b6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book III/Chapter 11",
+     "bytes": 3992,
+     "sha256": "64a42358ee2c4b49d760461f495c9a92614b0ccca5b357507755a5b49a07b001"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book III/Chapter 12",
+     "bytes": 3144,
+     "sha256": "904ce063dad8ec934ba537b4bac90d6ef70ec0c54f27f74911540292cf6af9bf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book III/Chapter 2",
+     "bytes": 5504,
+     "sha256": "71cf50008d6e53c42a4502320e6026ca7057a408e86ae89eb095d40c8986853a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book III/Chapter 3",
+     "bytes": 3482,
+     "sha256": "0976e83726a1d606bf98fe3a78fad870c06d7629f4870947e9434b483c6d4664"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book III/Chapter 4",
+     "bytes": 3972,
+     "sha256": "3ae42a5050447a1570200a92de1f98e7ab10cbb1ef26ca99a9f734345173a53c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book III/Chapter 5",
+     "bytes": 3859,
+     "sha256": "99cd56974846f1988f9211f87711a8f814cc674827875bb81fbf626298621eff"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book III/Chapter 6",
+     "bytes": 8284,
+     "sha256": "d103b949449ebe2159caac16ef760efd929bf8086add2e1c16c9c5fe5e76da17"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book III/Chapter 7",
+     "bytes": 9156,
+     "sha256": "da3fece497f4d6d18a62695fa65582baa810a10c1384c0dd43f65b41890a4942"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book III/Chapter 8",
+     "bytes": 5928,
+     "sha256": "f51fa4829b14105482d58287fc323dc2f127afd5314b9acb5eadb5f18a221dfa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book III/Chapter 9",
+     "bytes": 3683,
+     "sha256": "6f0808d7059cab189be897c85c76d113c8cd49a61fbde7805832db9c8c14f245"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IV/Chapter 1",
+     "bytes": 3044,
+     "sha256": "c7a23fe8bd96d1719508dce3c5bb85a55a1f049d2c32bcaf027ab59b55bd10cb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IV/Chapter 10",
+     "bytes": 4569,
+     "sha256": "fe4c823f7ee6e9d47dfc94bcd5f3e2affeb081720fab04c948fbadd45b9f63fb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IV/Chapter 11",
+     "bytes": 3086,
+     "sha256": "e60db00188e36f5e940c4fb50045f910c9fc78267fc45c1b2c9630f4e54ddfc8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IV/Chapter 12",
+     "bytes": 6347,
+     "sha256": "7f5f73806eef822f260470f81d5221b502f916f63eacdb73fbb83110a69ee09f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IV/Chapter 13",
+     "bytes": 1611,
+     "sha256": "f3e797d5050d09460fb8adde86be94ca7f87a47023e1bc89e8e53719bc2c0f98"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IV/Chapter 14",
+     "bytes": 4414,
+     "sha256": "8730b517e7804c1f8297661e22b950b2e2047f3d655dd5c5c19b591e8ba204f0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IV/Chapter 15",
+     "bytes": 12425,
+     "sha256": "dd5a6eb6e28ff298fd7270aed14a9a523149aa001e99248fcf6608dd9556f4d0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IV/Chapter 16",
+     "bytes": 7304,
+     "sha256": "9c211867b69a9d7eafafcc5762283a5bbb9068e6b135ee66e8bc5c36370ce863"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IV/Chapter 2",
+     "bytes": 5010,
+     "sha256": "d37d058abadb49f7efd5453a084babc1bbc3967ac4012ed5444c4b30c9580e53"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IV/Chapter 3",
+     "bytes": 8411,
+     "sha256": "92e49d2465e8c9fa9cada049571b2f9f032c1cdcb2f28b4346b8d0192ae79c5a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IV/Chapter 4",
+     "bytes": 5820,
+     "sha256": "0e2aba09ff5533f6cbb52eeb48f090f8120d45536e4baa0f9f3be677ba306f24"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IV/Chapter 5",
+     "bytes": 2055,
+     "sha256": "cfddbe8934c92619f5120f74aacce2b085b7dbdb988aa8d03e419fe7b7cfc1e4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IV/Chapter 6",
+     "bytes": 3123,
+     "sha256": "e811c240073a5e0f9f400b00d0e3ded3d8999b6f6887d76b63af9af5efe69e23"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IV/Chapter 7",
+     "bytes": 2931,
+     "sha256": "a72cde35d855daf40c3b12b8c684a345cba46bba460bdea9d45ee092ac1a8d05"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IV/Chapter 8",
+     "bytes": 3323,
+     "sha256": "0eb4c6190b6d213995cee98cf642af15704e26e2654638dd93e22c7ac2625c25"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IV/Chapter 9",
+     "bytes": 1988,
+     "sha256": "3af20ce3c23e8276e95e95076c6487ba34ce121ad42ce6ac6fbce6e5bdbd0250"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IX/Chapter 1",
+     "bytes": 3855,
+     "sha256": "05557b6202c65c461f477a7b62468d5a7b4646467d1e96dd8e0a260fba9d6690"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IX/Chapter 10",
+     "bytes": 6635,
+     "sha256": "92b6886bbffd0b6188543833eabaec757ad29c9d4085c351eb1ff68cf99d811b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IX/Chapter 11",
+     "bytes": 3685,
+     "sha256": "c5df35f303a5c8e932cdfee23585c4caeb6a428fa54fea0a92201eeca566da18"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IX/Chapter 12",
+     "bytes": 9308,
+     "sha256": "6a408dad02e0734c2b7dfd579c65886c2237d231287e460ee802a2a5d7f586ea"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IX/Chapter 13",
+     "bytes": 11345,
+     "sha256": "bf217684cf16e5472b98964ba7ec162a70e245b0b0961d70cb6c44dd433c0087"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IX/Chapter 2",
+     "bytes": 5797,
+     "sha256": "f794d51c4f1178477c986342de23e82d87b22bfb5bb6f23625525fefeb763bdb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IX/Chapter 3",
+     "bytes": 6792,
+     "sha256": "ff0d1bb23c406b2dad347b55f3670f32ff6d665ce2bb5efdd017745c0c73f549"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IX/Chapter 4",
+     "bytes": 13797,
+     "sha256": "d24ee8ce3312e11613de7f3dc44f86c4c02486e62dbd78aac5ecbf6fed6d27b7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IX/Chapter 5",
+     "bytes": 1860,
+     "sha256": "ff124bca7f30177b38b85a524b63e9673f2cfa1621698af17114604c8862f562"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IX/Chapter 6",
+     "bytes": 4596,
+     "sha256": "df52c32d7e219fd916fd0b243f66682c5be7a02f4e06f9161fa456ea68c22ace"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IX/Chapter 7",
+     "bytes": 5142,
+     "sha256": "49c880c42a05bdcec4fb421709711f76983a8d8192832780743dccccedcb6852"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IX/Chapter 8",
+     "bytes": 9125,
+     "sha256": "3a274da57760a6d7d4fdd345d68fed7984ebe622cf1de87753d0814642bd5c1a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book IX/Chapter 9",
+     "bytes": 6681,
+     "sha256": "161c05f90c2bbb63850f0e608281aa78d0f9b2eb8bc7aa31d7e54b9830b89b4d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book V/Chapter 1",
+     "bytes": 2899,
+     "sha256": "9a152c269d090248149becf4b4946c0c796c7e7bc89c98260119f8753cb19b78"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book V/Chapter 10",
+     "bytes": 11131,
+     "sha256": "53cab180e664ab1bb3145eadc049920b6459df9b374e84334998f3281c29c9f3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book V/Chapter 11",
+     "bytes": 2914,
+     "sha256": "da10df18d92408cba42a18a6f66eef29ed2048879c66f044ac3a85640899372e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book V/Chapter 12",
+     "bytes": 2321,
+     "sha256": "5ea1755b5b9fac7f5c4d87656eccf8f81f8f9af15e8106408bf23629b94f415a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book V/Chapter 13",
+     "bytes": 2736,
+     "sha256": "5abd106d09391286cb31415e70e45440413cc0490f42c91067095008572887d2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book V/Chapter 14",
+     "bytes": 4245,
+     "sha256": "1f3ee95b8c1e8a285191064156b4cb7101436a2fd194ab9211c1c6eca4a32adb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book V/Chapter 2",
+     "bytes": 5068,
+     "sha256": "dd08f20c779c8d8cbf636b35e4ea9bed57e9a7b1956fdea733f971e8a1e5cc21"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book V/Chapter 3",
+     "bytes": 7137,
+     "sha256": "3b46fba0c123ce089575d2aa653fbe6fa7716f6da77b92a01a75a7290f1a4490"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book V/Chapter 4",
+     "bytes": 3078,
+     "sha256": "2d91812d74aba105db5905ec16f2293f62bb4369ea9e40fa25d634103b7e3136"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book V/Chapter 5",
+     "bytes": 5654,
+     "sha256": "0004f053823474149b1173e38f225b5339909f5490e22c54cc69b095a997c344"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book V/Chapter 6",
+     "bytes": 4758,
+     "sha256": "7f4c698ab75f4a857c61fa001622128838c41b2cebec3ce245a35619043faa8e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book V/Chapter 7",
+     "bytes": 6858,
+     "sha256": "1d9ee2587697a17460cee32be25e81b04b23625a5951ab69c0fbc0659ccb5846"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book V/Chapter 8",
+     "bytes": 5558,
+     "sha256": "050cae7cc885a1c3f0e947b10546f6f2fc0a15d51dfc2121181500929a90e19f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book V/Chapter 9",
+     "bytes": 9172,
+     "sha256": "808b28c20b36597bfa59dc1fe0b565afbfe25f8bb6b25fc15d5df15fa4464575"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VI/Chapter 1",
+     "bytes": 6549,
+     "sha256": "2cd49ab77700ce259aac9bc8f88e4624f180e2c64f1ddb02d3e0ba8ddf96c4e8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VI/Chapter 10",
+     "bytes": 5028,
+     "sha256": "1d62a44111e1a0de6a3a7711f32e6d8f1d1e0901821dc230b61ddc3367f6add6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VI/Chapter 11",
+     "bytes": 6246,
+     "sha256": "dfff3edb4cd12fee056fbb1b99b31c4167c679a3e7e870e854ba6cb51c4d551c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VI/Chapter 12",
+     "bytes": 5028,
+     "sha256": "ff65eec9bb4c174c63c849a37c17eab48236e8f54234799549202450fccfe04c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VI/Chapter 13",
+     "bytes": 1884,
+     "sha256": "1a07d12466cb0cc794d572bc6af038a4fcaf6211e5ddab3828a16593c91ea34e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VI/Chapter 14",
+     "bytes": 4340,
+     "sha256": "95aa41738a9f8e410a7e3cda154ed48692765d17f39d788933b0a1b7c6e2a7bf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VI/Chapter 15",
+     "bytes": 2046,
+     "sha256": "03b797b68475dcf609fe2ddbfc094acf7c5044559fc96fd83ffe7351b326140f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VI/Chapter 16",
+     "bytes": 5210,
+     "sha256": "3394206003e965e53392a8c93eea94c5d31fb46505be72fea8fcf6def4252a1a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VI/Chapter 2",
+     "bytes": 9198,
+     "sha256": "51fbc258540f87a77223e1bb13c31587f7a4dc7dab11e7f18db1dd2397fbda2c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VI/Chapter 3",
+     "bytes": 6187,
+     "sha256": "29b9a0bd2c49eaf407a7877e0d9e2b6ca804973c96753be683150fc0906f7776"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VI/Chapter 4",
+     "bytes": 9426,
+     "sha256": "ef44af262b61de14aa63589393cd0a5f304e6aad6da37969e7c9775e7c264a58"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VI/Chapter 5",
+     "bytes": 6806,
+     "sha256": "06071f34dc2f77d2e05e85fbccba25e7df97b191797b537b7fa61b11aceeaf14"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VI/Chapter 6",
+     "bytes": 5135,
+     "sha256": "31460ccb2858fddc3fde0ef374854728cf9faf73a04e63eee04dc96a3f5c79fc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VI/Chapter 7",
+     "bytes": 7725,
+     "sha256": "2c895f6f1548868ab5e97fc4f6f246e7ed32cfdc578cd4ba9921bb417735adf7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VI/Chapter 8",
+     "bytes": 9019,
+     "sha256": "e4cf7b16fb84397ad0d1acb0faa53ca0d9fd4afa667342df52467d5afa6102f4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VI/Chapter 9",
+     "bytes": 4393,
+     "sha256": "7ace5a86a9b514a11b81551d1b49c34b8ff63e50dd627aa3881b7ebaf81bb09e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VII/Chapter 1",
+     "bytes": 6263,
+     "sha256": "bdbb6c2e73ed69294f3acf7226434f8b72e4840c5f0b4635396b4a072d8e737e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VII/Chapter 10",
+     "bytes": 5939,
+     "sha256": "de063348de9973e6bc7702d762ce81bb27b669a6e1fe455b44ac413441c2791b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VII/Chapter 11",
+     "bytes": 1900,
+     "sha256": "8f368ce69198897d01223828efdbb21312079f4f58d0b864ce7384161e06858a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VII/Chapter 12",
+     "bytes": 2450,
+     "sha256": "641429a1ef79d8cc99ae9c24763e7bdc5190f56c41d12ef7c3dd254b77b584b7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VII/Chapter 13",
+     "bytes": 2635,
+     "sha256": "df40c6fffd28652481962faabebc16a71cc2c43cffbb4cefd6f486f42379353a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VII/Chapter 14",
+     "bytes": 1756,
+     "sha256": "1c026a88f291f283614e1d3ab5c42f64288967cab0866ded8af172bc660dc5ee"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VII/Chapter 15",
+     "bytes": 1514,
+     "sha256": "dd83d5ce02167caa9aeb5eab276850675ce3f9fcb1deb359856a0a6c83761ad9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VII/Chapter 16",
+     "bytes": 1955,
+     "sha256": "271ab422b848ac561a559c64bfe2df40f0dedc4ee488022ea9cc5f1bf8bad290"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VII/Chapter 17",
+     "bytes": 9848,
+     "sha256": "ae9e95523065ec834a4ab4f79166f8852caffeed47fc6d1750aa92af5962fde5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VII/Chapter 18",
+     "bytes": 2571,
+     "sha256": "c4683f16f83b012e64533900cf0186357ca339fb0529d120067a6d0ef99456f1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VII/Chapter 19",
+     "bytes": 10741,
+     "sha256": "d1939d613c862f9e469bb95dfba9c71f1be695c4df410511fb85ac32f9ff8505"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VII/Chapter 2",
+     "bytes": 7064,
+     "sha256": "93e50ed783f84b0c2982c9673af1d1b4602317b2aff68f6aa224be517c9fc662"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VII/Chapter 20",
+     "bytes": 4040,
+     "sha256": "65539cf58781e28bc3d0a5d41759ae2f40a2506fbf707c6214b99ca8407e1e98"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VII/Chapter 21",
+     "bytes": 9124,
+     "sha256": "15d19092255f4eeab5873393fb6292eb7b789cb8b01bda86ab2d9b3c488ccd20"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VII/Chapter 3",
+     "bytes": 3466,
+     "sha256": "dbe57f4e48ac01b7b6e4be03680d8efbf7e523ce1f971d934d6cbb654a764f98"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VII/Chapter 4",
+     "bytes": 2283,
+     "sha256": "11c12df6b433dd83ccb36d2fdde7e82234322807a79e0de922a24850cfbbaebe"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VII/Chapter 5",
+     "bytes": 4631,
+     "sha256": "c1887c9b72517a424f4a263d1a363466f111a3b6ebdaf6fd7a9ced621f83fed3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VII/Chapter 6",
+     "bytes": 7421,
+     "sha256": "9e441022a6b566bf0556b035bdc3e66cf9411629523d6212cb26cbbef644880f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VII/Chapter 7",
+     "bytes": 4143,
+     "sha256": "f0a63169e7b8fbee0b3e2ddecd89f287343d26537038974e8f6a1a91d4e13a9a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VII/Chapter 8",
+     "bytes": 1326,
+     "sha256": "07fe1291cdc5498f326032efb52d44253c82d89ff9fb17f50b118b9461d71c61"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VII/Chapter 9",
+     "bytes": 18284,
+     "sha256": "d10750af0bac40fb1eaf74a975e2f4eab69267388d1db3fe9bd811067b548b66"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VIII/Chapter 1",
+     "bytes": 6402,
+     "sha256": "649f3f39a974da3aa8b8cf130da155b3a72b7e6466f2eecf722047348a99a746"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VIII/Chapter 10",
+     "bytes": 6234,
+     "sha256": "c1cb4c6c98a35a6785a122e9d5e82e1646786e74552c9d5b9f19006b04ddffb0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VIII/Chapter 11",
+     "bytes": 6476,
+     "sha256": "184c8a963899ebd1aec1059f74f5e4986dbdf3b5ba69253c59b5434b47f3cd2f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VIII/Chapter 12",
+     "bytes": 5674,
+     "sha256": "3155f16ffc9438369af223115d15ffeef0e815affb433581a0d969e097b63aa4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VIII/Chapter 2",
+     "bytes": 18560,
+     "sha256": "fda5b0c36d344c8028909417df75eccb13aa109303eb352d395ade5bb90dd969"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VIII/Chapter 3",
+     "bytes": 4429,
+     "sha256": "0eaa80c8bbd9d445d0e4fcb11e69b12f292178bddf599cc37023df3a4ae9c96d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VIII/Chapter 4",
+     "bytes": 5664,
+     "sha256": "ca387e009d4e1c6d794c1bf1d55fd76fd69675cd77c843e809ff3600159cb967"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VIII/Chapter 5",
+     "bytes": 10421,
+     "sha256": "8e47f9ead45d6bc3eb848688f9c453ea7fec7a92f6de04f47561384dd42662c0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VIII/Chapter 6",
+     "bytes": 13781,
+     "sha256": "a5885d38dfc39e8acb37525c2e168f2422a58a1541e396c886377c50eee5d38b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VIII/Chapter 7",
+     "bytes": 7388,
+     "sha256": "8636f785a61f60d79b64894cec58b45ac8c42b38f00b81f9f494d94a960720e4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VIII/Chapter 8",
+     "bytes": 4057,
+     "sha256": "c2dc5a9f5dda3f1b75bc42a18d7a25867c3cf3dba949e7018496bd68bdaaf45b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book VIII/Chapter 9",
+     "bytes": 2277,
+     "sha256": "59b53cb44dea022490786ab8c6a24f978eba6064d1e44ff78ba48ed3f076ac01"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 1",
+     "bytes": 1539,
+     "sha256": "9d459f0ee13540817124710ba1c5023486804f29d946f6b4a720a59c40cf2e30"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 10",
+     "bytes": 2562,
+     "sha256": "a2363488d44e87b9244d47f6abc6acb638f144e36d341d25092f7c76ee83320f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 11",
+     "bytes": 2337,
+     "sha256": "e8986b7be5c0daba63c05aa280fb8433f1c051d0dbd2a7f0320bc188abdac93e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 12",
+     "bytes": 1839,
+     "sha256": "6bc36f26fc1b5b23d05aed228096da93db77abe06a9e1a8674bb98367c20073f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 13",
+     "bytes": 1617,
+     "sha256": "13402f67a9f3203e6a326158b623d40fad7208be395478081a8f69b148d8f272"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 14",
+     "bytes": 3841,
+     "sha256": "2960aa362fa1a4a943d1b6138daaa7313f0849e3864225c52376071755788f17"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 15",
+     "bytes": 1958,
+     "sha256": "75efe8467c64e533c363bb50d4414c0b123b9ba8dcae66f10328b034f19d7d80"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 16",
+     "bytes": 3941,
+     "sha256": "b35a1a9de5cf4f5831067cabb4378539462b95440322b82a284f827b56c1824a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 17",
+     "bytes": 2761,
+     "sha256": "6bd6fa61d9fe32b04d4a1b083251375ec383850ac4f93af54f58f5388be63950"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 18",
+     "bytes": 1961,
+     "sha256": "400017fbd24eb7016159c5771d59a6575fdc2fe4687c318dfe4e920703855d82"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 19",
+     "bytes": 2389,
+     "sha256": "726244576b957bd00e3b3220dc938339868ea2a45c4602c7583e649807fa26e2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 2",
+     "bytes": 2276,
+     "sha256": "7b9efbb5962cf00ae1d43294a2943bde7c00da2e51818650be8b3a14f8b4b77f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 20",
+     "bytes": 3308,
+     "sha256": "cc7e1e17c2213dd558a866c30cb4215966963ce20c52cd66fc9532b9a182e9d9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 21",
+     "bytes": 3602,
+     "sha256": "753a580a5c6e9bf9ca68ddeaaab9b5b93274a7138276b60c8cc264428b573043"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 22",
+     "bytes": 1658,
+     "sha256": "489155c418647a1367c7e1bba1cf42e7455a1ed3dd95f39be0e58c79efaffa28"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 23",
+     "bytes": 4219,
+     "sha256": "5b1ff681c3046f7eb514e835ab59fe578dbda69d0631c352aaa3aa105fab86d5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 24",
+     "bytes": 1460,
+     "sha256": "b161d4acfb8b37473b20d8df3048117892218daef6e63b5b75d0dba0e6ae65b3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 25",
+     "bytes": 2319,
+     "sha256": "748ab349d66f05f41564fed71976c7e06f491f156abdb2d6198bdf616036b0c0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 26",
+     "bytes": 1527,
+     "sha256": "b8da39c58410ebf8c2537833b1603c373054f83902d3322269ced587f3871f7c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 27",
+     "bytes": 1449,
+     "sha256": "c0badff0f51dd6ecddffdd02df2395571aed11bba23cb1e283e0610c01c6bd60"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 28",
+     "bytes": 4271,
+     "sha256": "93bfcd2c32edaa3725cb87b400140c03fcb729ae2774d3a62bbf4d6f6bd83387"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 29",
+     "bytes": 1954,
+     "sha256": "3d55eda0f233f432b789d92c5cadf6918e02c01edafe35a3637bb92088460538"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 3",
+     "bytes": 3558,
+     "sha256": "bef95f050a2834dc9e43bff7295b1fb94db85e2e7d3e90d85d6a3d58adf7f06a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 30",
+     "bytes": 4905,
+     "sha256": "1fc8242c268132286c2a8ee4ce76a49105c2ce381ef961a8c6f862b914a44abc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 31",
+     "bytes": 9819,
+     "sha256": "4968a21b62eacc2fd6b7d7c697cc62bd90b54dca7ff59b44d054bb273179e73d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 32",
+     "bytes": 2620,
+     "sha256": "d815c34a17e1fe2407b1aebd777a3d2f5389e2c162ec9f93d6c90ca2af904d2f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 33",
+     "bytes": 3866,
+     "sha256": "1258fe17410b54eb4c776b01afef92e96bb603d173f99bb10fc1ae1cf84d8372"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 34",
+     "bytes": 5487,
+     "sha256": "7e92cd93359c5c29501db54f1a8139e7cf2f37f16dd3f97b665b866d69a60ceb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 35",
+     "bytes": 7338,
+     "sha256": "9389cb6634e435443689a9b0fbb1dc2f5eb3bd6970a47270ce2a978b5efcb845"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 36",
+     "bytes": 3986,
+     "sha256": "6cfdb6e2bfe0bec91cf5c4f8d6473353ebf6afeb5cadbe1e993026971e58d4ba"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 37",
+     "bytes": 7394,
+     "sha256": "91112b6cc446878c2227236f305a239fd4a08db05bb99cbe012617ff9d23cba0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 38",
+     "bytes": 1549,
+     "sha256": "9667cc4b2b7b238a0ca7844af7f054b1713e8f4a5fa5566815cd49cf0778810a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 39",
+     "bytes": 1832,
+     "sha256": "7b35a4fa9e74cb011966cea9f2f4fda5661443c95692fc47615ffb8dd7117a9a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 4",
+     "bytes": 4332,
+     "sha256": "c6d8919d659fd0ca894300218633165db9accbea93ef72aa597f08608e788351"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 40",
+     "bytes": 3027,
+     "sha256": "f373b0ff8fc52d8fbdcc303461be5db3402f152ff5cf711f7061d03527d03c7c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 41",
+     "bytes": 1441,
+     "sha256": "e6dbcedaad05a7ed990964752f6fc8b541eb7a714a40a5631c6d6b9f1e082d72"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 42",
+     "bytes": 3163,
+     "sha256": "96cd6ab10aec838ecb99b1f5f7e95008ea6a67f4d39c3b634872a3ccb4853981"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 43",
+     "bytes": 8035,
+     "sha256": "dfda877b41586b458eaadd81e66a0bc3443f2d48ae0fa549988674b45412c9ed"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 5",
+     "bytes": 2607,
+     "sha256": "db87009d5680992e82e5ab059a48f2359b9bbb0b7d0f15930952d18e58a9f271"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 6",
+     "bytes": 6130,
+     "sha256": "ad2a2e8920916f5a7ac1959dcc5af5466d5469bd1d807d2e231a9b9e09675f09"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 7",
+     "bytes": 1762,
+     "sha256": "a2d917d98359f1207bbc9773c4d1cd68325d7a42f0d84fd983b29063ee0afd39"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 8",
+     "bytes": 6376,
+     "sha256": "9d64d311a5e3ee1071c355f38a9f469e06b6187030ca7ff0e4b960845496ff06"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book X/Chapter 9",
+     "bytes": 2111,
+     "sha256": "26c1397dffd91383efeecc148db8bad50b39dbbfaa583bbf836ad0595dbac378"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 1",
+     "bytes": 2173,
+     "sha256": "19117f14483a5512f6c919d733bf89a79e9c8f422d5fa8cff88761930256d045"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 10",
+     "bytes": 1685,
+     "sha256": "6c8d1d5893a84cfbb7c00712b3f13458d1ce0d58e7758f7514ba5e5d75b75521"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 11",
+     "bytes": 2117,
+     "sha256": "7045c750753a1e92365c44aaa6baa54ea572df9cce48a6b380512601aa0ba74b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 12",
+     "bytes": 1704,
+     "sha256": "882fc5f351b82ef6bb8109360ada03e684d6e89dbf334f9effbed5ce68f0fc7c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 13",
+     "bytes": 2744,
+     "sha256": "ba8021549b55d5357d28cad29049bda15703adaf3996fdb929dfa2c69019e831"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 14",
+     "bytes": 2126,
+     "sha256": "185a11a0936f17cad73a86def4efca97a427de231829e38d5e1c77f2caa83a8d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 15",
+     "bytes": 4815,
+     "sha256": "9d2898f4019eb7eaa0ed9b8e36a62d8653c4d26af81b971d38ce601db54af836"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 16",
+     "bytes": 1436,
+     "sha256": "f4bd49f3f0792ae0887085b55fe51a082afb28a4d596f9815094b7bd89588c5e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 17",
+     "bytes": 1539,
+     "sha256": "f4cd05f005e66c9779e098bb6dc2156d8a034ecf52f1584022fe51130ab9dda1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 18",
+     "bytes": 3646,
+     "sha256": "9225feb5b36c7857760d47c785a7a8c789fa0998d8780d015cbb5c718e1f2955"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 19",
+     "bytes": 1332,
+     "sha256": "250c5822c5f191279ac8cdba480cb19a394db674fd929a3060e46c3337b43f89"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 2",
+     "bytes": 9755,
+     "sha256": "10a3b7b20bede49dec72d1446649880e7aa03f17e73c8f3db07ec0df4f773dca"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 20",
+     "bytes": 1718,
+     "sha256": "913dbbeb429b1d20b0459204595c2868e666640ff0995e4b067ffa13a6ba087a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 21",
+     "bytes": 2178,
+     "sha256": "712a33998bd380436215630a660bb7ef6424644b621e8edc34b5dd3a75498099"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 22",
+     "bytes": 2448,
+     "sha256": "8eb391d2eeeaae69979b06e57506c656bd90ba0eb8baaa5c02e7a87a524aa718"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 23",
+     "bytes": 5000,
+     "sha256": "409f8b974f4efa5d3d1af83c4160d2795156e2373c99fc672d1f10e9b6fd0dd9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 24",
+     "bytes": 2431,
+     "sha256": "a4ed0d0d25031a5548563497694bd1952bd425b961a2d30f2fdf31d0a724b240"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 25",
+     "bytes": 1418,
+     "sha256": "5bff8b79ffe387b25033d657dbc842e12a8bbd2364877b38381ce03fc9987492"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 26",
+     "bytes": 2880,
+     "sha256": "3d40981bae925c0325c6bfaea1700a3d1fbf3f5817f138c85d422fe316c5d6bc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 27",
+     "bytes": 7032,
+     "sha256": "e4d60e28f0491a094bd34ed28a21176f301edaee5b311faa7b085f65981c7cc0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 28",
+     "bytes": 2842,
+     "sha256": "b69daaf94c79b29580c37a9fda5258d00ddaefb74bf967c7eaef11b0f719f6ec"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 29",
+     "bytes": 3293,
+     "sha256": "aa9e807ed5fff755dcdc4d1c0dc07c19e5e24cd270540f745afb9001a745e4a7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 3",
+     "bytes": 3183,
+     "sha256": "1adeb67aa1d3f0ea7d9cde5a275a29534e3f3891e4bda75d2f8bf2aff34af3f1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 30",
+     "bytes": 1889,
+     "sha256": "c53b92f5ff09221208e7fce2569f889fd9cd48a781a7cb3126c49e0ffb9527fb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 31",
+     "bytes": 4303,
+     "sha256": "699beca414828f9bad7f2ca1ba5fbea4fdd1538233907287ebfc140429576ca7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 4",
+     "bytes": 2277,
+     "sha256": "ac50abf44ce57ca75a82cf9ef29c90e88998e977ee44559db5783ac087e26b8d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 5",
+     "bytes": 3269,
+     "sha256": "3c44023ee8d3298db3f1456bf00a2a1133018cd138d07ffeb0e853e8f6c31707"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 6",
+     "bytes": 2400,
+     "sha256": "5e6d68e26eace11f154255fbba4d6b67d8371bbf4c7f0808fc86960575ed46c8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 7",
+     "bytes": 1871,
+     "sha256": "0d1d328659ca0ee9d8cb29dd9e52b5dbe66e9ce3afc3eaa0832eb941fbf06bcb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 8",
+     "bytes": 3897,
+     "sha256": "afb1194443b31092857bb421f06e9993b564e926d9c2c19451429d8d8bacfc10"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XI/Chapter 9",
+     "bytes": 2134,
+     "sha256": "cfb83a875556eca29dd11cc44f577c34b47bfb076e9a318508e25f895dda02d6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 1",
+     "bytes": 1599,
+     "sha256": "e19e6fed4efb12164a5d44353ef1471ea2376b84b09bd70cdbc87f4f7b39125b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 10",
+     "bytes": 2132,
+     "sha256": "eb08ffedaa22bf856189e2ca1adbf3125874526b63a58b1791c63c1373290957"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 11",
+     "bytes": 5042,
+     "sha256": "34b8c36947bfb0c0b7495678063f395d074a2ee06b3a5fb0a37aaf083dc55ae8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 12",
+     "bytes": 2320,
+     "sha256": "73b5d4a08f65a4e1d117246b2449e442fe802a29a10d3e104de167c0b7e2184a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 13",
+     "bytes": 2297,
+     "sha256": "300c13c80c8e350d4b9341a022ccdd14d1b2b910c98d2c06abc4ffbb7c88c68f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 14",
+     "bytes": 2031,
+     "sha256": "0aa0d8f8de4412d67c6172b22a3d0fc91c3828bb34bdffc98ca675a59480384d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 15",
+     "bytes": 7910,
+     "sha256": "0b45b102faa24b9bfc6e15deaf2d83adff8e584ee536e851d3462a073c2bae51"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 16",
+     "bytes": 3897,
+     "sha256": "b83dc78613eeb692199e67b4efdf17a45276ee37c12e4ca6a88abe28fe520bf0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 17",
+     "bytes": 4294,
+     "sha256": "b1e05b7596e42c8c93dc438d46c862277a6821049ccf3f026d5f20b18667c978"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 18",
+     "bytes": 3163,
+     "sha256": "52540e8440ce883dad25228db3062527dd8c7789370da5340a682f93ba2517b1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 19",
+     "bytes": 2157,
+     "sha256": "8a1130b424ab1df5fb33664a8d5af4609a663c0c11c0d7ed76d2b874b5c4ea57"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 2",
+     "bytes": 2212,
+     "sha256": "10de0395ec0df2a378b174a9107163732234f158b94fdaa352483dbd5f0a7db4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 20",
+     "bytes": 4164,
+     "sha256": "a1f94c75411691b47e9260ef802dd900d4a46eefd5ef6bec8593b5bcfceeffa7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 21",
+     "bytes": 2823,
+     "sha256": "3d8e1fdcc24d31da75afdc86bdda942651ee52e14bbb783629bc5f7bcc22ff45"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 22",
+     "bytes": 4485,
+     "sha256": "d79b02e850686f4cba5e048d69a83bb8fe17f1529154a2e9473fd8e8d653791e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 23",
+     "bytes": 1852,
+     "sha256": "c2a0cf67355c778784528a28db83f549ef7a82b20004d575cc502fedfbeadec5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 24",
+     "bytes": 2977,
+     "sha256": "97d4f20cede07e7d90b24f561a45b1f8861bc09b4f924388d89e821e50894f7f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 25",
+     "bytes": 4780,
+     "sha256": "875270d9f3ec2d2fbe67858819030724955480cc020918db72b0ce2394b50377"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 26",
+     "bytes": 2262,
+     "sha256": "9ae3187c4cc1295acab2a0e78236663a1ab63adc6a6bed89b34f661b9683a379"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 27",
+     "bytes": 2839,
+     "sha256": "5e289685d9b335befbdc7aab9e3407157621aa94e92595a1df639d549561557e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 28",
+     "bytes": 3527,
+     "sha256": "4157f7a605bf6eb734de0d87912bb441f1c2c12dcdca8b81958dce9813de6366"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 29",
+     "bytes": 5025,
+     "sha256": "56b491e40bbc62c26eae99a9306a5cb3b02f5799618355c236910b60d5421c48"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 3",
+     "bytes": 2315,
+     "sha256": "bbc6a6208c79c117ff8416c4c6f3b65829695fcdeb2ba9e10f32f06c1401a7cd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 30",
+     "bytes": 2682,
+     "sha256": "430141946f90fd8b4a7de28f6fc08c6d4b3957fcd6a995b4e23fc91faa7d4813"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 31",
+     "bytes": 2013,
+     "sha256": "289e77d13a8d3aaf734c4dbbafa9c7e8951282d30036b6d71f50b6cb8ff2b751"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 32",
+     "bytes": 2925,
+     "sha256": "b85b401b9208efa0869593984b3cf0b7a7c7f72c2e51a24899a3cb10034c57ec"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 4",
+     "bytes": 1359,
+     "sha256": "a54637f5d058dfe0aee07af942ab9a2f01901dd6c77ee890bc37c476a74e021b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 5",
+     "bytes": 1167,
+     "sha256": "11e5dc9fd2ffa5aa0989fac67fd30feab1fffe22412ca4dd65cbb4811280a43a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 6",
+     "bytes": 3205,
+     "sha256": "0cda628f34e68048a6d8a8d7b996fef190816dd16ac31ad310f356c5eb482a90"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 7",
+     "bytes": 2502,
+     "sha256": "ddbf6f62701ee6e204096cd59acd0baa23476a3a0e31326800644f3d681c8e3e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 8",
+     "bytes": 2842,
+     "sha256": "6b9ce3bf09c8d612668cea588b885f65b602fdedcee21f5419141ed4a9dc09c6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XII/Chapter 9",
+     "bytes": 1788,
+     "sha256": "a07ea9353c37a4533cdc5146f73f6929f1c021d095ee5d20813141763b29e6c4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 1",
+     "bytes": 2432,
+     "sha256": "701fd0a3f09032e0a870bffd3f30ddf2d4253b102259b683b6a9b6b731a5418a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 10",
+     "bytes": 1852,
+     "sha256": "d4487e570be16d87456b3db99e186a5789dc1a162276a4cb876f39801b836a56"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 11",
+     "bytes": 6006,
+     "sha256": "c74f89165b4ceb6a206f67d0fb5fe4989bf01e6dd29a7f799ec72025edb8b673"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 12",
+     "bytes": 3126,
+     "sha256": "19c00ed3790ccbe03fbedefcdeebea590c69f0246a442bdc65c6c112c4553ae2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 13",
+     "bytes": 3710,
+     "sha256": "6eb8b1b27898d7acbb5c222094086c6951a4cd3e2c2d39325ae44a927eb17b18"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 14",
+     "bytes": 3420,
+     "sha256": "d75d248340fb691dcd2db0b06ea7beae0939bd3cbe75a173e2ba2b9148969558"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 15",
+     "bytes": 6465,
+     "sha256": "26d02544e9a681e74ce0a83db2b794912fb8917f1d92e01e5b7735b9f4af0b46"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 16",
+     "bytes": 2290,
+     "sha256": "5625f852564723edda1b774ccafc4384ed71e3ff0e765e58fb74e188e5b9c6c8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 17",
+     "bytes": 3563,
+     "sha256": "b8d02f4787129dc85af1f927b11f59bb9d775d598be653376d507d1008cd9e06"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 18",
+     "bytes": 9378,
+     "sha256": "f955aa12e34dd9e62d40c57211f779a3c6ec1296a9fcdebc9fc7a53c9311d834"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 19",
+     "bytes": 4710,
+     "sha256": "cf2998189e8e7c5218bc11af59430c99f7cfd35468797a79bb6a8fbdaa97c75a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 2",
+     "bytes": 4213,
+     "sha256": "6a08a300f092da34be21cf30b362d917c87b98af8da0242f8af67b0b06d0083c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 20",
+     "bytes": 5198,
+     "sha256": "88b36dc4b7c4c7f4c2c5b098aeefe1f6d70184a4aafaf43daed1e1b04b88b494"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 21",
+     "bytes": 8068,
+     "sha256": "ac0aff1404ea97d55a247976763d7b5a6fe83eb9e595bb71308f4cbc80c752fe"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 22",
+     "bytes": 3251,
+     "sha256": "54695ee4ca888066cc79cc738b8b8b089f72095d6dd66ba2bfa863a3c1f8b00a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 23",
+     "bytes": 6723,
+     "sha256": "b115d40268fb932621d485b81b08f1db8fff71c1758d88457e70efcf76dbe566"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 24",
+     "bytes": 5950,
+     "sha256": "9ab8b87dabbd62c68443b7a5c571367c9c963ba49ecf36cee42450d17bcbfc97"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 25",
+     "bytes": 3428,
+     "sha256": "763e5e698be3434279a1689b61b454858e931aa71dd731cc41b35a0c29e6d9fa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 26",
+     "bytes": 5614,
+     "sha256": "d44b96ba5796d4eaeb791580ce4c42fc972c6913f96c99098352e380c6221db9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 27",
+     "bytes": 2232,
+     "sha256": "22f8fa5beec75947b61724f561158c4998875f47ded9c650a842f1d8ca575fdf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 28",
+     "bytes": 1876,
+     "sha256": "0e25c80b93040e647749d95f055ccfc8dfd7eecbe57597568e87019014d32365"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 29",
+     "bytes": 1979,
+     "sha256": "850afe4e54f8723f84b1a5e6afb132d8582e772108de3de90cdbe7ebdce6b93a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 3",
+     "bytes": 1958,
+     "sha256": "66f1455edd01d575687562f1357b3ef8a7385b6974239d732cb0cf1d866c6640"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 30",
+     "bytes": 2113,
+     "sha256": "5778159f50103e577ebbea1b47311d84655b6406adfb146a4010b130a0083bd2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 31",
+     "bytes": 3125,
+     "sha256": "252c4020d2f304a4b95fee4d8d8269289429158bafac2fb0ea50a28bc62e387b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 32",
+     "bytes": 3581,
+     "sha256": "c55570eda8c1fec89e36e65d5fa5996406a23819c6b0643a698362cd233acc91"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 33",
+     "bytes": 1700,
+     "sha256": "29bdbac05a6548a60076dcac5db988adbad24113c3af83a9b5b6e80299876cec"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 34",
+     "bytes": 3833,
+     "sha256": "72355c1aeb97cc16082653b192e2e335c6b0dd8c7bc8fd0e02b3eda26381361f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 35",
+     "bytes": 1075,
+     "sha256": "2cbaca4858dfdc41dad5e521b20e0da6f19b1a24edeb0af03de0d5660c4d9e0c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 36",
+     "bytes": 1269,
+     "sha256": "ccf8975e42d41d9734929ae17b6ad7f2746895d1c32f8c98e72faf98d08fd39b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 37",
+     "bytes": 1361,
+     "sha256": "ff88c8f1cfa94cd0ca91d236e51a309811f83db38f737be8433a7348decf7089"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 38",
+     "bytes": 1818,
+     "sha256": "32e308de87bdf5e110d86b1c4cf4b540e26bb690547fb2a88de27e00d1a40929"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 4",
+     "bytes": 2092,
+     "sha256": "d67ce8a2aebc4a52d33c2822b170c8c84cedc9e89c89ef32be1510dac4e7fc27"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 5",
+     "bytes": 1867,
+     "sha256": "73d4504fcbd01fe0853159b621f3bcd80782f0943db1794c86cf571e51d371ea"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 6",
+     "bytes": 1836,
+     "sha256": "a2bb56ea92763c30ac7ec4d2021c1f18ce88a40efbeefb04ad983e7dc1ba0644"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 7",
+     "bytes": 3377,
+     "sha256": "0a42f99acb8f6e69756265875dd57da6745c9cae0e276c2dee3787869ae18b9f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 8",
+     "bytes": 4290,
+     "sha256": "260de92e7409cfe231c1f5129f4e5e1222cba8048e18e6c2d87d6ff980e111d5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Book XIII/Chapter 9",
+     "bytes": 2793,
+     "sha256": "b651e28b5bbcf80114ba07ec9f3596a7dc13af3fab263b839d533c3f57430ad8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/The Opinion of St. Augustin Concerning His Confessions",
+     "bytes": 3910,
+     "sha256": "861e7676c00e6e35a4bb90c90d8c29e0b92811cadbdf8e37e334819a348209b8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume I/Confessions/Translator's Preface",
+     "bytes": 25073,
+     "sha256": "2f0bfd080166f29d5ebc2c6cb259344943086fd960ec39ec519d94e716b8239f"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.1",
+     "title": "1.1",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.2",
+     "title": "1.2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.3",
+     "title": "1.3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.4",
+     "title": "1.4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.5",
+     "title": "1.5",
+     "segments": 3
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.6",
+     "title": "1.6",
+     "segments": 5
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.7",
+     "title": "1.7",
+     "segments": 3
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.8",
+     "title": "1.8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.9",
+     "title": "1.9",
+     "segments": 3
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.10",
+     "title": "1.10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.11",
+     "title": "1.11",
+     "segments": 3
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.12",
+     "title": "1.12",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.13",
+     "title": "1.13",
+     "segments": 4
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.14",
+     "title": "1.14",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.15",
+     "title": "1.15",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.16",
+     "title": "1.16",
+     "segments": 12
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.17",
+     "title": "1.17",
+     "segments": 5
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.18",
+     "title": "1.18",
+     "segments": 5
+    },
+    {
+     "file": "0019.json",
+     "ref": "2.1",
+     "title": "2.1",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "2.2.front",
+     "title": "2.2.front",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "2.2.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "2.2.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "2.2.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "2.3",
+     "title": "2.3",
+     "segments": 5
+    },
+    {
+     "file": "0025.json",
+     "ref": "2.4",
+     "title": "2.4",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "2.5",
+     "title": "2.5",
+     "segments": 3
+    },
+    {
+     "file": "0027.json",
+     "ref": "2.6",
+     "title": "2.6",
+     "segments": 4
+    },
+    {
+     "file": "0028.json",
+     "ref": "2.7",
+     "title": "2.7",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "2.8",
+     "title": "2.8",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "2.9",
+     "title": "2.9",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "2.10",
+     "title": "2.10",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "3.1",
+     "title": "3.1",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "3.2.front",
+     "title": "3.2.front",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "3.2.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "3.2.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "3.2.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "3.3",
+     "title": "3.3",
+     "segments": 3
+    },
+    {
+     "file": "0038.json",
+     "ref": "3.4",
+     "title": "3.4",
+     "segments": 3
+    },
+    {
+     "file": "0039.json",
+     "ref": "3.5",
+     "title": "3.5",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "3.6",
+     "title": "3.6",
+     "segments": 3
+    },
+    {
+     "file": "0041.json",
+     "ref": "3.7",
+     "title": "3.7",
+     "segments": 4
+    },
+    {
+     "file": "0042.json",
+     "ref": "3.8",
+     "title": "3.8",
+     "segments": 3
+    },
+    {
+     "file": "0043.json",
+     "ref": "3.9",
+     "title": "3.9",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "3.10",
+     "title": "3.10",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "3.11",
+     "title": "3.11",
+     "segments": 3
+    },
+    {
+     "file": "0046.json",
+     "ref": "3.12",
+     "title": "3.12",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "4.1",
+     "title": "4.1",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "4.2",
+     "title": "4.2",
+     "segments": 3
+    },
+    {
+     "file": "0049.json",
+     "ref": "4.3",
+     "title": "4.3",
+     "segments": 4
+    },
+    {
+     "file": "0050.json",
+     "ref": "4.4",
+     "title": "4.4",
+     "segments": 4
+    },
+    {
+     "file": "0051.json",
+     "ref": "4.5",
+     "title": "4.5",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "4.6",
+     "title": "4.6",
+     "segments": 2
+    },
+    {
+     "file": "0053.json",
+     "ref": "4.7",
+     "title": "4.7",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "4.8",
+     "title": "4.8",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "4.9",
+     "title": "4.9",
+     "segments": 2
+    },
+    {
+     "file": "0056.json",
+     "ref": "4.10",
+     "title": "4.10",
+     "segments": 2
+    },
+    {
+     "file": "0057.json",
+     "ref": "4.11",
+     "title": "4.11",
+     "segments": 3
+    },
+    {
+     "file": "0058.json",
+     "ref": "4.12",
+     "title": "4.12",
+     "segments": 3
+    },
+    {
+     "file": "0059.json",
+     "ref": "4.13",
+     "title": "4.13",
+     "segments": 2
+    },
+    {
+     "file": "0060.json",
+     "ref": "4.14",
+     "title": "4.14",
+     "segments": 4
+    },
+    {
+     "file": "0061.json",
+     "ref": "4.15",
+     "title": "4.15",
+     "segments": 5
+    },
+    {
+     "file": "0062.json",
+     "ref": "4.16",
+     "title": "4.16",
+     "segments": 5
+    },
+    {
+     "file": "0063.json",
+     "ref": "5.1",
+     "title": "5.1",
+     "segments": 2
+    },
+    {
+     "file": "0064.json",
+     "ref": "5.2",
+     "title": "5.2",
+     "segments": 2
+    },
+    {
+     "file": "0065.json",
+     "ref": "5.3",
+     "title": "5.3",
+     "segments": 5
+    },
+    {
+     "file": "0066.json",
+     "ref": "5.4",
+     "title": "5.4",
+     "segments": 2
+    },
+    {
+     "file": "0067.json",
+     "ref": "5.5",
+     "title": "5.5",
+     "segments": 3
+    },
+    {
+     "file": "0068.json",
+     "ref": "5.6",
+     "title": "5.6",
+     "segments": 3
+    },
+    {
+     "file": "0069.json",
+     "ref": "5.7",
+     "title": "5.7",
+     "segments": 3
+    },
+    {
+     "file": "0070.json",
+     "ref": "5.8",
+     "title": "5.8",
+     "segments": 3
+    },
+    {
+     "file": "0071.json",
+     "ref": "5.9",
+     "title": "5.9",
+     "segments": 3
+    },
+    {
+     "file": "0072.json",
+     "ref": "5.10",
+     "title": "5.10",
+     "segments": 4
+    },
+    {
+     "file": "0073.json",
+     "ref": "5.11",
+     "title": "5.11",
+     "segments": 2
+    },
+    {
+     "file": "0074.json",
+     "ref": "5.12",
+     "title": "5.12",
+     "segments": 2
+    },
+    {
+     "file": "0075.json",
+     "ref": "5.13",
+     "title": "5.13",
+     "segments": 2
+    },
+    {
+     "file": "0076.json",
+     "ref": "5.14",
+     "title": "5.14",
+     "segments": 3
+    },
+    {
+     "file": "0077.json",
+     "ref": "6.1",
+     "title": "6.1",
+     "segments": 2
+    },
+    {
+     "file": "0078.json",
+     "ref": "6.2",
+     "title": "6.2",
+     "segments": 2
+    },
+    {
+     "file": "0079.json",
+     "ref": "6.3",
+     "title": "6.3",
+     "segments": 3
+    },
+    {
+     "file": "0080.json",
+     "ref": "6.4",
+     "title": "6.4",
+     "segments": 3
+    },
+    {
+     "file": "0081.json",
+     "ref": "6.5",
+     "title": "6.5",
+     "segments": 3
+    },
+    {
+     "file": "0082.json",
+     "ref": "6.6",
+     "title": "6.6",
+     "segments": 3
+    },
+    {
+     "file": "0083.json",
+     "ref": "6.7",
+     "title": "6.7",
+     "segments": 3
+    },
+    {
+     "file": "0084.json",
+     "ref": "6.8",
+     "title": "6.8",
+     "segments": 2
+    },
+    {
+     "file": "0085.json",
+     "ref": "6.9",
+     "title": "6.9",
+     "segments": 3
+    },
+    {
+     "file": "0086.json",
+     "ref": "6.10",
+     "title": "6.10",
+     "segments": 3
+    },
+    {
+     "file": "0087.json",
+     "ref": "6.11",
+     "title": "6.11",
+     "segments": 4
+    },
+    {
+     "file": "0088.json",
+     "ref": "6.12",
+     "title": "6.12",
+     "segments": 3
+    },
+    {
+     "file": "0089.json",
+     "ref": "6.13",
+     "title": "6.13",
+     "segments": 2
+    },
+    {
+     "file": "0090.json",
+     "ref": "6.14",
+     "title": "6.14",
+     "segments": 2
+    },
+    {
+     "file": "0091.json",
+     "ref": "6.15",
+     "title": "6.15",
+     "segments": 2
+    },
+    {
+     "file": "0092.json",
+     "ref": "6.16",
+     "title": "6.16",
+     "segments": 2
+    },
+    {
+     "file": "0093.json",
+     "ref": "7.1",
+     "title": "7.1",
+     "segments": 3
+    },
+    {
+     "file": "0094.json",
+     "ref": "7.2",
+     "title": "7.2",
+     "segments": 2
+    },
+    {
+     "file": "0095.json",
+     "ref": "7.3",
+     "title": "7.3",
+     "segments": 3
+    },
+    {
+     "file": "0096.json",
+     "ref": "7.4",
+     "title": "7.4",
+     "segments": 2
+    },
+    {
+     "file": "0097.json",
+     "ref": "7.5",
+     "title": "7.5",
+     "segments": 2
+    },
+    {
+     "file": "0098.json",
+     "ref": "7.6",
+     "title": "7.6",
+     "segments": 4
+    },
+    {
+     "file": "0099.json",
+     "ref": "7.7",
+     "title": "7.7",
+     "segments": 2
+    },
+    {
+     "file": "0100.json",
+     "ref": "7.8",
+     "title": "7.8",
+     "segments": 2
+    },
+    {
+     "file": "0101.json",
+     "ref": "7.9",
+     "title": "7.9",
+     "segments": 4
+    },
+    {
+     "file": "0102.json",
+     "ref": "7.10",
+     "title": "7.10",
+     "segments": 2
+    },
+    {
+     "file": "0103.json",
+     "ref": "7.11",
+     "title": "7.11",
+     "segments": 2
+    },
+    {
+     "file": "0104.json",
+     "ref": "7.12",
+     "title": "7.12",
+     "segments": 2
+    },
+    {
+     "file": "0105.json",
+     "ref": "7.13",
+     "title": "7.13",
+     "segments": 2
+    },
+    {
+     "file": "0106.json",
+     "ref": "7.14",
+     "title": "7.14",
+     "segments": 2
+    },
+    {
+     "file": "0107.json",
+     "ref": "7.15",
+     "title": "7.15",
+     "segments": 2
+    },
+    {
+     "file": "0108.json",
+     "ref": "7.16",
+     "title": "7.16",
+     "segments": 2
+    },
+    {
+     "file": "0109.json",
+     "ref": "7.17",
+     "title": "7.17",
+     "segments": 2
+    },
+    {
+     "file": "0110.json",
+     "ref": "7.18",
+     "title": "7.18",
+     "segments": 2
+    },
+    {
+     "file": "0111.json",
+     "ref": "7.19",
+     "title": "7.19",
+     "segments": 2
+    },
+    {
+     "file": "0112.json",
+     "ref": "7.20",
+     "title": "7.20",
+     "segments": 2
+    },
+    {
+     "file": "0113.json",
+     "ref": "7.21",
+     "title": "7.21",
+     "segments": 2
+    },
+    {
+     "file": "0114.json",
+     "ref": "8.1",
+     "title": "8.1",
+     "segments": 3
+    },
+    {
+     "file": "0115.json",
+     "ref": "8.2",
+     "title": "8.2",
+     "segments": 8
+    },
+    {
+     "file": "0116.json",
+     "ref": "8.3",
+     "title": "8.3",
+     "segments": 4
+    },
+    {
+     "file": "0117.json",
+     "ref": "8.4",
+     "title": "8.4",
+     "segments": 2
+    },
+    {
+     "file": "0118.json",
+     "ref": "8.5",
+     "title": "8.5",
+     "segments": 4
+    },
+    {
+     "file": "0119.json",
+     "ref": "8.6",
+     "title": "8.6",
+     "segments": 4
+    },
+    {
+     "file": "0120.json",
+     "ref": "8.7",
+     "title": "8.7",
+     "segments": 4
+    },
+    {
+     "file": "0121.json",
+     "ref": "8.8",
+     "title": "8.8",
+     "segments": 3
+    },
+    {
+     "file": "0122.json",
+     "ref": "8.9",
+     "title": "8.9",
+     "segments": 2
+    },
+    {
+     "file": "0123.json",
+     "ref": "8.10",
+     "title": "8.10",
+     "segments": 4
+    },
+    {
+     "file": "0124.json",
+     "ref": "8.11",
+     "title": "8.11",
+     "segments": 4
+    },
+    {
+     "file": "0125.json",
+     "ref": "8.12",
+     "title": "8.12",
+     "segments": 4
+    },
+    {
+     "file": "0126.json",
+     "ref": "9.1",
+     "title": "9.1",
+     "segments": 2
+    },
+    {
+     "file": "0127.json",
+     "ref": "9.2.front",
+     "title": "9.2.front",
+     "segments": 1
+    },
+    {
+     "file": "0128.json",
+     "ref": "9.2.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0129.json",
+     "ref": "9.2.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0130.json",
+     "ref": "9.2.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0131.json",
+     "ref": "9.3",
+     "title": "9.3",
+     "segments": 3
+    },
+    {
+     "file": "0132.json",
+     "ref": "9.4",
+     "title": "9.4",
+     "segments": 7
+    },
+    {
+     "file": "0133.json",
+     "ref": "9.5",
+     "title": "9.5",
+     "segments": 2
+    },
+    {
+     "file": "0134.json",
+     "ref": "9.6",
+     "title": "9.6",
+     "segments": 2
+    },
+    {
+     "file": "0135.json",
+     "ref": "9.7",
+     "title": "9.7",
+     "segments": 3
+    },
+    {
+     "file": "0136.json",
+     "ref": "9.8",
+     "title": "9.8",
+     "segments": 3
+    },
+    {
+     "file": "0137.json",
+     "ref": "9.9",
+     "title": "9.9",
+     "segments": 5
+    },
+    {
+     "file": "0138.json",
+     "ref": "9.10",
+     "title": "9.10",
+     "segments": 5
+    },
+    {
+     "file": "0139.json",
+     "ref": "9.11",
+     "title": "9.11",
+     "segments": 3
+    },
+    {
+     "file": "0140.json",
+     "ref": "9.12",
+     "title": "9.12",
+     "segments": 14
+    },
+    {
+     "file": "0141.json",
+     "ref": "9.13",
+     "title": "9.13",
+     "segments": 5
+    },
+    {
+     "file": "0142.json",
+     "ref": "10.1",
+     "title": "10.1",
+     "segments": 2
+    },
+    {
+     "file": "0143.json",
+     "ref": "10.2",
+     "title": "10.2",
+     "segments": 2
+    },
+    {
+     "file": "0144.json",
+     "ref": "10.3",
+     "title": "10.3",
+     "segments": 3
+    },
+    {
+     "file": "0145.json",
+     "ref": "10.4",
+     "title": "10.4",
+     "segments": 3
+    },
+    {
+     "file": "0146.json",
+     "ref": "10.5",
+     "title": "10.5",
+     "segments": 2
+    },
+    {
+     "file": "0147.json",
+     "ref": "10.6",
+     "title": "10.6",
+     "segments": 4
+    },
+    {
+     "file": "0148.json",
+     "ref": "10.7",
+     "title": "10.7",
+     "segments": 2
+    },
+    {
+     "file": "0149.json",
+     "ref": "10.8",
+     "title": "10.8",
+     "segments": 5
+    },
+    {
+     "file": "0150.json",
+     "ref": "10.9",
+     "title": "10.9",
+     "segments": 2
+    },
+    {
+     "file": "0151.json",
+     "ref": "10.10",
+     "title": "10.10",
+     "segments": 2
+    },
+    {
+     "file": "0152.json",
+     "ref": "10.11",
+     "title": "10.11",
+     "segments": 2
+    },
+    {
+     "file": "0153.json",
+     "ref": "10.12",
+     "title": "10.12",
+     "segments": 2
+    },
+    {
+     "file": "0154.json",
+     "ref": "10.13",
+     "title": "10.13",
+     "segments": 2
+    },
+    {
+     "file": "0155.json",
+     "ref": "10.14",
+     "title": "10.14",
+     "segments": 3
+    },
+    {
+     "file": "0156.json",
+     "ref": "10.15",
+     "title": "10.15",
+     "segments": 2
+    },
+    {
+     "file": "0157.json",
+     "ref": "10.16",
+     "title": "10.16",
+     "segments": 3
+    },
+    {
+     "file": "0158.json",
+     "ref": "10.17",
+     "title": "10.17",
+     "segments": 2
+    },
+    {
+     "file": "0159.json",
+     "ref": "10.18",
+     "title": "10.18",
+     "segments": 2
+    },
+    {
+     "file": "0160.json",
+     "ref": "10.19",
+     "title": "10.19",
+     "segments": 2
+    },
+    {
+     "file": "0161.json",
+     "ref": "10.20",
+     "title": "10.20",
+     "segments": 2
+    },
+    {
+     "file": "0162.json",
+     "ref": "10.21",
+     "title": "10.21",
+     "segments": 3
+    },
+    {
+     "file": "0163.json",
+     "ref": "10.22",
+     "title": "10.22",
+     "segments": 2
+    },
+    {
+     "file": "0164.json",
+     "ref": "10.23",
+     "title": "10.23",
+     "segments": 3
+    },
+    {
+     "file": "0165.json",
+     "ref": "10.24",
+     "title": "10.24",
+     "segments": 2
+    },
+    {
+     "file": "0166.json",
+     "ref": "10.25",
+     "title": "10.25",
+     "segments": 2
+    },
+    {
+     "file": "0167.json",
+     "ref": "10.26",
+     "title": "10.26",
+     "segments": 2
+    },
+    {
+     "file": "0168.json",
+     "ref": "10.27",
+     "title": "10.27",
+     "segments": 2
+    },
+    {
+     "file": "0169.json",
+     "ref": "10.28",
+     "title": "10.28",
+     "segments": 2
+    },
+    {
+     "file": "0170.json",
+     "ref": "10.29",
+     "title": "10.29",
+     "segments": 2
+    },
+    {
+     "file": "0171.json",
+     "ref": "10.30",
+     "title": "10.30",
+     "segments": 3
+    },
+    {
+     "file": "0172.json",
+     "ref": "10.31",
+     "title": "10.31",
+     "segments": 6
+    },
+    {
+     "file": "0173.json",
+     "ref": "10.32",
+     "title": "10.32",
+     "segments": 2
+    },
+    {
+     "file": "0174.json",
+     "ref": "10.33",
+     "title": "10.33",
+     "segments": 3
+    },
+    {
+     "file": "0175.json",
+     "ref": "10.34",
+     "title": "10.34",
+     "segments": 4
+    },
+    {
+     "file": "0176.json",
+     "ref": "10.35",
+     "title": "10.35",
+     "segments": 5
+    },
+    {
+     "file": "0177.json",
+     "ref": "10.36",
+     "title": "10.36",
+     "segments": 3
+    },
+    {
+     "file": "0178.json",
+     "ref": "10.37",
+     "title": "10.37",
+     "segments": 4
+    },
+    {
+     "file": "0179.json",
+     "ref": "10.38",
+     "title": "10.38",
+     "segments": 2
+    },
+    {
+     "file": "0180.json",
+     "ref": "10.39",
+     "title": "10.39",
+     "segments": 2
+    },
+    {
+     "file": "0181.json",
+     "ref": "10.40",
+     "title": "10.40",
+     "segments": 2
+    },
+    {
+     "file": "0182.json",
+     "ref": "10.41",
+     "title": "10.41",
+     "segments": 2
+    },
+    {
+     "file": "0183.json",
+     "ref": "10.42",
+     "title": "10.42",
+     "segments": 2
+    },
+    {
+     "file": "0184.json",
+     "ref": "10.43",
+     "title": "10.43",
+     "segments": 4
+    },
+    {
+     "file": "0185.json",
+     "ref": "11.1",
+     "title": "11.1",
+     "segments": 2
+    },
+    {
+     "file": "0186.json",
+     "ref": "11.2.front",
+     "title": "11.2.front",
+     "segments": 1
+    },
+    {
+     "file": "0187.json",
+     "ref": "11.2.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0188.json",
+     "ref": "11.2.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0189.json",
+     "ref": "11.2.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0190.json",
+     "ref": "11.3",
+     "title": "11.3",
+     "segments": 2
+    },
+    {
+     "file": "0191.json",
+     "ref": "11.4",
+     "title": "11.4",
+     "segments": 2
+    },
+    {
+     "file": "0192.json",
+     "ref": "11.5",
+     "title": "11.5",
+     "segments": 2
+    },
+    {
+     "file": "0193.json",
+     "ref": "11.6",
+     "title": "11.6",
+     "segments": 2
+    },
+    {
+     "file": "0194.json",
+     "ref": "11.7",
+     "title": "11.7",
+     "segments": 2
+    },
+    {
+     "file": "0195.json",
+     "ref": "11.8",
+     "title": "11.8",
+     "segments": 2
+    },
+    {
+     "file": "0196.json",
+     "ref": "11.9",
+     "title": "11.9",
+     "segments": 2
+    },
+    {
+     "file": "0197.json",
+     "ref": "11.10",
+     "title": "11.10",
+     "segments": 2
+    },
+    {
+     "file": "0198.json",
+     "ref": "11.11",
+     "title": "11.11",
+     "segments": 2
+    },
+    {
+     "file": "0199.json",
+     "ref": "11.12",
+     "title": "11.12",
+     "segments": 2
+    },
+    {
+     "file": "0200.json",
+     "ref": "11.13",
+     "title": "11.13",
+     "segments": 3
+    },
+    {
+     "file": "0201.json",
+     "ref": "11.14",
+     "title": "11.14",
+     "segments": 2
+    },
+    {
+     "file": "0202.json",
+     "ref": "11.15",
+     "title": "11.15",
+     "segments": 4
+    },
+    {
+     "file": "0203.json",
+     "ref": "11.16",
+     "title": "11.16",
+     "segments": 2
+    },
+    {
+     "file": "0204.json",
+     "ref": "11.17",
+     "title": "11.17",
+     "segments": 2
+    },
+    {
+     "file": "0205.json",
+     "ref": "11.18",
+     "title": "11.18",
+     "segments": 3
+    },
+    {
+     "file": "0206.json",
+     "ref": "11.19",
+     "title": "11.19",
+     "segments": 2
+    },
+    {
+     "file": "0207.json",
+     "ref": "11.20",
+     "title": "11.20",
+     "segments": 2
+    },
+    {
+     "file": "0208.json",
+     "ref": "11.21",
+     "title": "11.21",
+     "segments": 2
+    },
+    {
+     "file": "0209.json",
+     "ref": "11.22",
+     "title": "11.22",
+     "segments": 2
+    },
+    {
+     "file": "0210.json",
+     "ref": "11.23",
+     "title": "11.23",
+     "segments": 3
+    },
+    {
+     "file": "0211.json",
+     "ref": "11.24",
+     "title": "11.24",
+     "segments": 2
+    },
+    {
+     "file": "0212.json",
+     "ref": "11.25",
+     "title": "11.25",
+     "segments": 2
+    },
+    {
+     "file": "0213.json",
+     "ref": "11.26",
+     "title": "11.26",
+     "segments": 2
+    },
+    {
+     "file": "0214.json",
+     "ref": "11.27",
+     "title": "11.27",
+     "segments": 4
+    },
+    {
+     "file": "0215.json",
+     "ref": "11.28",
+     "title": "11.28",
+     "segments": 3
+    },
+    {
+     "file": "0216.json",
+     "ref": "11.29",
+     "title": "11.29",
+     "segments": 2
+    },
+    {
+     "file": "0217.json",
+     "ref": "11.30",
+     "title": "11.30",
+     "segments": 2
+    },
+    {
+     "file": "0218.json",
+     "ref": "11.31",
+     "title": "11.31",
+     "segments": 2
+    },
+    {
+     "file": "0219.json",
+     "ref": "12.1",
+     "title": "12.1",
+     "segments": 2
+    },
+    {
+     "file": "0220.json",
+     "ref": "12.2",
+     "title": "12.2",
+     "segments": 2
+    },
+    {
+     "file": "0221.json",
+     "ref": "12.3",
+     "title": "12.3",
+     "segments": 2
+    },
+    {
+     "file": "0222.json",
+     "ref": "12.4",
+     "title": "12.4",
+     "segments": 2
+    },
+    {
+     "file": "0223.json",
+     "ref": "12.5",
+     "title": "12.5",
+     "segments": 2
+    },
+    {
+     "file": "0224.json",
+     "ref": "12.6",
+     "title": "12.6",
+     "segments": 2
+    },
+    {
+     "file": "0225.json",
+     "ref": "12.7",
+     "title": "12.7",
+     "segments": 2
+    },
+    {
+     "file": "0226.json",
+     "ref": "12.8",
+     "title": "12.8",
+     "segments": 2
+    },
+    {
+     "file": "0227.json",
+     "ref": "12.9",
+     "title": "12.9",
+     "segments": 2
+    },
+    {
+     "file": "0228.json",
+     "ref": "12.10",
+     "title": "12.10",
+     "segments": 2
+    },
+    {
+     "file": "0229.json",
+     "ref": "12.11",
+     "title": "12.11",
+     "segments": 5
+    },
+    {
+     "file": "0230.json",
+     "ref": "12.12",
+     "title": "12.12",
+     "segments": 2
+    },
+    {
+     "file": "0231.json",
+     "ref": "12.13",
+     "title": "12.13",
+     "segments": 2
+    },
+    {
+     "file": "0232.json",
+     "ref": "12.14",
+     "title": "12.14",
+     "segments": 2
+    },
+    {
+     "file": "0233.json",
+     "ref": "12.15",
+     "title": "12.15",
+     "segments": 6
+    },
+    {
+     "file": "0234.json",
+     "ref": "12.16",
+     "title": "12.16",
+     "segments": 2
+    },
+    {
+     "file": "0235.json",
+     "ref": "12.17",
+     "title": "12.17",
+     "segments": 4
+    },
+    {
+     "file": "0236.json",
+     "ref": "12.18",
+     "title": "12.18",
+     "segments": 2
+    },
+    {
+     "file": "0237.json",
+     "ref": "12.19",
+     "title": "12.19",
+     "segments": 2
+    },
+    {
+     "file": "0238.json",
+     "ref": "12.20",
+     "title": "12.20",
+     "segments": 2
+    },
+    {
+     "file": "0239.json",
+     "ref": "12.21",
+     "title": "12.21",
+     "segments": 2
+    },
+    {
+     "file": "0240.json",
+     "ref": "12.22",
+     "title": "12.22",
+     "segments": 2
+    },
+    {
+     "file": "0241.json",
+     "ref": "12.23",
+     "title": "12.23",
+     "segments": 2
+    },
+    {
+     "file": "0242.json",
+     "ref": "12.24",
+     "title": "12.24",
+     "segments": 2
+    },
+    {
+     "file": "0243.json",
+     "ref": "12.25",
+     "title": "12.25",
+     "segments": 3
+    },
+    {
+     "file": "0244.json",
+     "ref": "12.26",
+     "title": "12.26",
+     "segments": 2
+    },
+    {
+     "file": "0245.json",
+     "ref": "12.27",
+     "title": "12.27",
+     "segments": 2
+    },
+    {
+     "file": "0246.json",
+     "ref": "12.28",
+     "title": "12.28",
+     "segments": 3
+    },
+    {
+     "file": "0247.json",
+     "ref": "12.29",
+     "title": "12.29",
+     "segments": 2
+    },
+    {
+     "file": "0248.json",
+     "ref": "12.30",
+     "title": "12.30",
+     "segments": 2
+    },
+    {
+     "file": "0249.json",
+     "ref": "12.31",
+     "title": "12.31",
+     "segments": 2
+    },
+    {
+     "file": "0250.json",
+     "ref": "12.32",
+     "title": "12.32",
+     "segments": 2
+    },
+    {
+     "file": "0251.json",
+     "ref": "13.1",
+     "title": "13.1",
+     "segments": 2
+    },
+    {
+     "file": "0252.json",
+     "ref": "13.2",
+     "title": "13.2",
+     "segments": 3
+    },
+    {
+     "file": "0253.json",
+     "ref": "13.3",
+     "title": "13.3",
+     "segments": 2
+    },
+    {
+     "file": "0254.json",
+     "ref": "13.4",
+     "title": "13.4",
+     "segments": 2
+    },
+    {
+     "file": "0255.json",
+     "ref": "13.5",
+     "title": "13.5",
+     "segments": 2
+    },
+    {
+     "file": "0256.json",
+     "ref": "13.6",
+     "title": "13.6",
+     "segments": 2
+    },
+    {
+     "file": "0257.json",
+     "ref": "13.7",
+     "title": "13.7",
+     "segments": 2
+    },
+    {
+     "file": "0258.json",
+     "ref": "13.8",
+     "title": "13.8",
+     "segments": 2
+    },
+    {
+     "file": "0259.json",
+     "ref": "13.9",
+     "title": "13.9",
+     "segments": 2
+    },
+    {
+     "file": "0260.json",
+     "ref": "13.10",
+     "title": "13.10",
+     "segments": 2
+    },
+    {
+     "file": "0261.json",
+     "ref": "13.11",
+     "title": "13.11",
+     "segments": 2
+    },
+    {
+     "file": "0262.json",
+     "ref": "13.12",
+     "title": "13.12",
+     "segments": 2
+    },
+    {
+     "file": "0263.json",
+     "ref": "13.13",
+     "title": "13.13",
+     "segments": 2
+    },
+    {
+     "file": "0264.json",
+     "ref": "13.14",
+     "title": "13.14",
+     "segments": 2
+    },
+    {
+     "file": "0265.json",
+     "ref": "13.15",
+     "title": "13.15",
+     "segments": 4
+    },
+    {
+     "file": "0266.json",
+     "ref": "13.16",
+     "title": "13.16",
+     "segments": 2
+    },
+    {
+     "file": "0267.json",
+     "ref": "13.17",
+     "title": "13.17",
+     "segments": 3
+    },
+    {
+     "file": "0268.json",
+     "ref": "13.18",
+     "title": "13.18",
+     "segments": 3
+    },
+    {
+     "file": "0269.json",
+     "ref": "13.19",
+     "title": "13.19",
+     "segments": 3
+    },
+    {
+     "file": "0270.json",
+     "ref": "13.20",
+     "title": "13.20",
+     "segments": 4
+    },
+    {
+     "file": "0271.json",
+     "ref": "13.21",
+     "title": "13.21",
+     "segments": 4
+    },
+    {
+     "file": "0272.json",
+     "ref": "13.22",
+     "title": "13.22",
+     "segments": 2
+    },
+    {
+     "file": "0273.json",
+     "ref": "13.23",
+     "title": "13.23",
+     "segments": 3
+    },
+    {
+     "file": "0274.json",
+     "ref": "13.24",
+     "title": "13.24",
+     "segments": 4
+    },
+    {
+     "file": "0275.json",
+     "ref": "13.25",
+     "title": "13.25",
+     "segments": 2
+    },
+    {
+     "file": "0276.json",
+     "ref": "13.26",
+     "title": "13.26",
+     "segments": 4
+    },
+    {
+     "file": "0277.json",
+     "ref": "13.27",
+     "title": "13.27",
+     "segments": 2
+    },
+    {
+     "file": "0278.json",
+     "ref": "13.28",
+     "title": "13.28",
+     "segments": 2
+    },
+    {
+     "file": "0279.json",
+     "ref": "13.29",
+     "title": "13.29",
+     "segments": 2
+    },
+    {
+     "file": "0280.json",
+     "ref": "13.30",
+     "title": "13.30",
+     "segments": 2
+    },
+    {
+     "file": "0281.json",
+     "ref": "13.31",
+     "title": "13.31",
+     "segments": 2
+    },
+    {
+     "file": "0282.json",
+     "ref": "13.32",
+     "title": "13.32",
+     "segments": 2
+    },
+    {
+     "file": "0283.json",
+     "ref": "13.33",
+     "title": "13.33",
+     "segments": 2
+    },
+    {
+     "file": "0284.json",
+     "ref": "13.34",
+     "title": "13.34",
+     "segments": 2
+    },
+    {
+     "file": "0285.json",
+     "ref": "13.35",
+     "title": "13.35",
+     "segments": 2
+    },
+    {
+     "file": "0286.json",
+     "ref": "13.36",
+     "title": "13.36",
+     "segments": 2
+    },
+    {
+     "file": "0287.json",
+     "ref": "13.37",
+     "title": "13.37",
+     "segments": 2
+    },
+    {
+     "file": "0288.json",
+     "ref": "13.38",
+     "title": "13.38",
+     "segments": 2
+    },
+    {
+     "file": "0289.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 7
+    },
+    {
+     "file": "0290.json",
+     "ref": "p2.front",
+     "title": "p2.front",
+     "segments": 8
+    },
+    {
+     "file": "0291.json",
+     "ref": "p2.1",
+     "title": "1",
+     "segments": 2
+    },
+    {
+     "file": "0292.json",
+     "ref": "p2.2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0293.json",
+     "ref": "p2.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0294.json",
+     "ref": "p2.4",
+     "title": "4",
+     "segments": 4
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 13,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 2
+ }
+}

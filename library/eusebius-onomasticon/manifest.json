@@ -1,0 +1,168 @@
+{
+ "workId": "eusebius-onomasticon",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "gcs-klostermann-onomasticon",
+   "role": "original",
+   "language": "greek",
+   "credit": "Onomasticon, in Eusebius Werke, vol. 3.1 (Die griechischen christlichen Schriftsteller), ed. Erich Klostermann (Leipzig: J. C. Hinrichs'sche Buchhandlung, 1904). Perseus Digital Library (Tufts) / Open Greek and Latin First1KGreek, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2018/tlg011/tlg2018.tlg011.1st1K-grc1.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 313290,
+   "sourceSha256": "22ed67f3ba9d69c468b2f68ffe71ab8351b2b6eba0cafa273b9a2d1538fb0a1a",
+   "leftOut": {
+    "pb": 88,
+    "note": 328,
+    "lb": 426
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 14224,
+    "barePerThousand": 22,
+    "digitWords": 35
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "pr",
+     "title": "pr",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "⟨Στοιχεῖον A.⟩",
+     "segments": 7
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "|| Στοιχεῖον Β.",
+     "segments": 7
+    },
+    {
+     "file": "0004.json",
+     "ref": "3",
+     "title": "Στοιχεῖον Γ.",
+     "segments": 5
+    },
+    {
+     "file": "0005.json",
+     "ref": "4",
+     "title": "|| Στοιχεῖον Δ. 249",
+     "segments": 5
+    },
+    {
+     "file": "0006.json",
+     "ref": "5",
+     "title": "Στοιχεῖον E.",
+     "segments": 6
+    },
+    {
+     "file": "0007.json",
+     "ref": "6",
+     "title": "Στοιχεῖον Ζ.",
+     "segments": 4
+    },
+    {
+     "file": "0008.json",
+     "ref": "7",
+     "title": "Στοιχεῖον Η.",
+     "segments": 4
+    },
+    {
+     "file": "0009.json",
+     "ref": "8",
+     "title": "Στοιχεῖον Θ.",
+     "segments": 5
+    },
+    {
+     "file": "0010.json",
+     "ref": "9",
+     "title": "Στοιχεῖον Ι.",
+     "segments": 5
+    },
+    {
+     "file": "0011.json",
+     "ref": "10",
+     "title": "Στοιχεῖον Κ.",
+     "segments": 4
+    },
+    {
+     "file": "0012.json",
+     "ref": "11",
+     "title": "Στοιχεῖον Λ.",
+     "segments": 5
+    },
+    {
+     "file": "0013.json",
+     "ref": "12",
+     "title": "| Στοιχεῖον Μ.",
+     "segments": 6
+    },
+    {
+     "file": "0014.json",
+     "ref": "13",
+     "title": "Στοιχεῖον Ν.",
+     "segments": 4
+    },
+    {
+     "file": "0015.json",
+     "ref": "14",
+     "title": "Στοιχεῖον Ξ.",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "15",
+     "title": "Στοιχεῖον Ο.",
+     "segments": 3
+    },
+    {
+     "file": "0017.json",
+     "ref": "16",
+     "title": "<Στοιχεῖον Π΄.",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "17",
+     "title": "Στοιχεῖον Ρ.",
+     "segments": 3
+    },
+    {
+     "file": "0019.json",
+     "ref": "18",
+     "title": "Στοιχεῖον Σ.",
+     "segments": 6
+    },
+    {
+     "file": "0020.json",
+     "ref": "19",
+     "title": "Στοιχεῖον Τ.",
+     "segments": 3
+    },
+    {
+     "file": "0021.json",
+     "ref": "20",
+     "title": "Στοιχεῖον Φ.",
+     "segments": 5
+    },
+    {
+     "file": "0022.json",
+     "ref": "21",
+     "title": "Στοιχεῖον Χ.",
+     "segments": 4
+    },
+    {
+     "file": "0023.json",
+     "ref": "22",
+     "title": "<Στοιχεῖον Ω",
+     "segments": 2
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,542 @@
+{
+ "workId": "athanasius-against-heathen",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "athanasius-against-heathen-npnf2-4-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Against the Heathen (Contra Gentes), in A Select Library of Nicene and Post-Nicene Fathers of the Christian Church, Second Series, vol. IV: Athanasius, Select Works and Letters (American edition; ed. Philip Schaff and Henry Wace; vol. edited by Archibald Robertson), trans. Archibald Robertson (editor of the volume; the opened pages do not name the translator of this treatise individually, the Preface speaks of 'the new translations') (New York: The Christian Literature Company, 1892). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers, Series II), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IV/Against_the_Heathen/Contra_Gentes._(Against_the_Heathen.)",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 188903,
+   "sourceSha256": "8385bda0e3de34249c399df7de1044972bba6eb89dfcfcbdcb90dda81cca8d9b",
+   "leftOut": {
+    "note": 90
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 1",
+     "bytes": 4892,
+     "sha256": "2d884ea935d1cc182e76b1eec0ac1e285f2a73e9277a3785e5ac1fd892a947a9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 2",
+     "bytes": 3852,
+     "sha256": "25bf986667a2d1caf1872822c7d92192b6a4859615922bf7a63750873b3c29fb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 3",
+     "bytes": 3356,
+     "sha256": "019bb733ea5d1580e834df7e9099ee821598743265990236de418cd71c04e861"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 4",
+     "bytes": 3690,
+     "sha256": "b7de4a2865326365b454ec61b91ffb5e5923ab075b82fcc984e03a19eba075f2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 5",
+     "bytes": 3056,
+     "sha256": "b2c6b901a2c4a71e70f0b95b61e2136cae17e781e1f5afbf370ae36c7d500685"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 6",
+     "bytes": 3811,
+     "sha256": "20d4abb8e7f02e8cc4fa29836d382faff01cf69f9e4abdb799e13c87aab934af"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 7",
+     "bytes": 3815,
+     "sha256": "00a2bcc526888a471d0144b4e11a0a4001b84ed070ebd03b02adc164a241ec40"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 8",
+     "bytes": 4214,
+     "sha256": "638fa30f52b57bc09f249f10104d41a34487991e3247aa4d0ffea72f0b8f6a2c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 9",
+     "bytes": 6499,
+     "sha256": "f4574389c699ab1ad55c98304e7bcb6e225b5b9d533f7d5dce6f9cef47c9884b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 10",
+     "bytes": 5013,
+     "sha256": "ef569610d8067552b032bd3a62190c90560253c3a866dd78fc4b4727ecb4cd8b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 11",
+     "bytes": 4187,
+     "sha256": "bc44900ddefc235b8f09cc37d120b0751e3ad9a26d3411c42471fdee6ceb6358"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 12",
+     "bytes": 4213,
+     "sha256": "6d5126470abb4a3a1aba6e28754aa4d17c9d0dbc31add87f17168a3a9484c4f5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 13",
+     "bytes": 3379,
+     "sha256": "9b0a3636df23691459671369d6251abc28df187c92c0b7568d7068d5e1e95d49"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 14",
+     "bytes": 3863,
+     "sha256": "5e9ae70a5447cf387bdccc94b764147ec0675b5a6cc7d408b7548dabd7245ab2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 15",
+     "bytes": 2704,
+     "sha256": "07024481de488526f73f0154c55d69f725b3159f9680b3972437d1ddff58cc56"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 16",
+     "bytes": 5342,
+     "sha256": "a8f82079fc2a664443e4ca4a21483ad19539c0f0e9e92d16d2b82cceeaf92d67"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 17",
+     "bytes": 2949,
+     "sha256": "1cd3017e449c487cf797a986868c7163a8cd809b4b9e3ee8967011b8f8247104"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 18",
+     "bytes": 4281,
+     "sha256": "17bedd8e252f47d4e8633c158ad6f6b81672283a020a01a0c77ae936598955e0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 19",
+     "bytes": 4722,
+     "sha256": "66b909f7b2df865d8dc4d7fc3ffad1570d22f515f9c47b58d70a2162167aa1e1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 20",
+     "bytes": 3177,
+     "sha256": "4cb9a7d8e1ede895c40cbff4ed98159a76003acec1f9fdac64f201dda7ba07eb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 21",
+     "bytes": 3429,
+     "sha256": "4aa1c133706430bbb1f7a4f2f31cf369c5ca6824411b49810cded62c8c35d766"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 22",
+     "bytes": 3760,
+     "sha256": "de0d6daaae8fac5ae1e47e614faf083930a6653a45806a10e04c817f4b154efb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 23",
+     "bytes": 5025,
+     "sha256": "70b11627c36c8792c7096d7c2579bba0367cce11f3343417aba41bba9535383a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 24",
+     "bytes": 2506,
+     "sha256": "cec23f05703a18ef16aa2afc4555053d5963a47ed3f23eafdcc0a0e874ad0748"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 25",
+     "bytes": 4186,
+     "sha256": "6c371e47bb5f91049744260e54cb9e1d3502a674c87fa23d70e7f213669ed29d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 26",
+     "bytes": 2776,
+     "sha256": "8a78cd1fcd62340637a3d06229b5d8671ba458541961ee9531329d79af608d60"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 27",
+     "bytes": 5528,
+     "sha256": "d114fc9e712d2bf2950c4be538e7b897c8625a281410a37e0d3aafef06797c34"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 28",
+     "bytes": 4016,
+     "sha256": "5a765136517cbc9030af42ba66a46d13c6ec898f047baf33c4478f8cc42832d1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part I/Chapter 29",
+     "bytes": 4330,
+     "sha256": "8b44964bd7e5100541de665f1f8a4605538cd8eb4671e81d779a2bf92292cc32"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part II/Chapter 1",
+     "bytes": 3161,
+     "sha256": "c0a69fa658539285c772ede396af293e24681b037c158e6ef3b5adb6352e84bc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part II/Chapter 2",
+     "bytes": 4243,
+     "sha256": "6032818cde5abca24b30d1846d293f405a0213b08df33d8e0b38bd7c7d4deb3a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part II/Chapter 3",
+     "bytes": 3406,
+     "sha256": "ec1efd13c36f10fc711d14461ba1a44d7e44269098e94549b1924e57eb55f026"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part II/Chapter 4",
+     "bytes": 4385,
+     "sha256": "814635496c9ffe2c41c9c73a39c2aa76436301a0d0daa2423690850c137d8f2b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part II/Chapter 5",
+     "bytes": 3669,
+     "sha256": "925d91f4d71b796662e7f0e322d57784d98c4eb815816c238010bd74baaf9dbe"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part III/Chapter 1",
+     "bytes": 4215,
+     "sha256": "5ddad9008ee8c9ce8dcd8520d721e9ed071fd084878105297de9fe8c35c6bccf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part III/Chapter 2",
+     "bytes": 3596,
+     "sha256": "01eee9b13cfd6a0be9612b4927d60e34b2cf276ec74652100239dd9c7b407d48"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part III/Chapter 3",
+     "bytes": 3809,
+     "sha256": "2129bc29769ba8294e37acbbdee6221c8061792a83d1586eedc98b908cab3bb6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part III/Chapter 4",
+     "bytes": 4265,
+     "sha256": "f38fba82ed17bfb011d15616e8b5451d9c9a6e35fc5e6b8da64fea42a5b84e1c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part III/Chapter 5",
+     "bytes": 4221,
+     "sha256": "e2fec58dd06744dddfb667a9635d28e5b467b38a8fc91e9330f8cbcd4a39afa4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part III/Chapter 6",
+     "bytes": 4552,
+     "sha256": "dc09fb578409c4544415b1080788d3114e4c4c7590ad28bd3089b46f945e9e6f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part III/Chapter 7",
+     "bytes": 3954,
+     "sha256": "806687fbc5268afd459a72cbd7fe48a0e899d4889d20b34a82afee3a0e2a7352"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part III/Chapter 8",
+     "bytes": 3913,
+     "sha256": "c40d2fa28141dfd6b02600b2e0a4bd44453e6ee845bb498877a7f4c2f5420fa7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part III/Chapter 9",
+     "bytes": 3199,
+     "sha256": "e79947f19bef73f554b2176bf25ad93b1421fb65fe7850e2c116e6c4b5ddb089"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part III/Chapter 10",
+     "bytes": 3352,
+     "sha256": "7423d68aa87df4b8e7d7e6c7db96fbae252a0f0327d5c516dd4ecbbef8d0f8b1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part III/Chapter 11",
+     "bytes": 4297,
+     "sha256": "e53a6071884d21a4a71b0517f9183e483526e042f34061dbaae5c53737df983b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part III/Chapter 12",
+     "bytes": 6297,
+     "sha256": "251234a2612b2c31788bb13e9efb7bfa4f03285225e6c453d34c4b4c4c27b44f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Against the Heathen/Contra Gentes. (Against the Heathen.)/Part III/Chapter 13",
+     "bytes": 3798,
+     "sha256": "5f831f43a370862dae5d39f6e31724b7e94652fe101e747d60874753889870d9"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.1",
+     "title": "1.1",
+     "segments": 3
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.2",
+     "title": "1.2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.3",
+     "title": "1.3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.4",
+     "title": "1.4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.5",
+     "title": "1.5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.6",
+     "title": "1.6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.7",
+     "title": "1.7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.8",
+     "title": "1.8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.9",
+     "title": "1.9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.10",
+     "title": "1.10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.11",
+     "title": "1.11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.12",
+     "title": "1.12",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.13",
+     "title": "1.13",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.14",
+     "title": "1.14",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.15",
+     "title": "1.15",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.16",
+     "title": "1.16",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.17",
+     "title": "1.17",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.18",
+     "title": "1.18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.19",
+     "title": "1.19",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.20",
+     "title": "1.20",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.21",
+     "title": "1.21",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.22",
+     "title": "1.22",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.23",
+     "title": "1.23",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.24",
+     "title": "1.24",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.25",
+     "title": "1.25",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.26",
+     "title": "1.26",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.27",
+     "title": "1.27",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.28",
+     "title": "1.28",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.29",
+     "title": "1.29",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "2.1",
+     "title": "2.1",
+     "segments": 3
+    },
+    {
+     "file": "0031.json",
+     "ref": "2.2",
+     "title": "2.2",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "2.3",
+     "title": "2.3",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "2.4",
+     "title": "2.4",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "2.5",
+     "title": "2.5",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "3.1",
+     "title": "3.1",
+     "segments": 3
+    },
+    {
+     "file": "0036.json",
+     "ref": "3.2",
+     "title": "3.2",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "3.3",
+     "title": "3.3",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "3.4",
+     "title": "3.4",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "3.5",
+     "title": "3.5",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "3.6",
+     "title": "3.6",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "3.7",
+     "title": "3.7",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "3.8",
+     "title": "3.8",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "3.9",
+     "title": "3.9",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "3.10",
+     "title": "3.10",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "3.11",
+     "title": "3.11",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "3.12",
+     "title": "3.12",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "3.13",
+     "title": "3.13",
+     "segments": 2
+    }
+   ]
+  }
+ ]
+}

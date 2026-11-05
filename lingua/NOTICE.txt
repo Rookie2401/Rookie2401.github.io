@@ -1,0 +1,73 @@
+ECCLESIA — LANGUAGE DATA: SOURCES, CREDITS AND LICENCES
+========================================================
+
+This notice covers the analysed language data under /lingua/ (tokens, registry, occurrences, passages, index.json):
+the headword, part of speech, parsing and gloss attached to each word of the Hebrew, Aramaic, Greek and Latin texts.
+The rights of the texts themselves are recorded per edition in the library catalogue.
+
+Some of this data comes from openly licensed datasets. They are NOT public domain. They are used with credit, as their
+licences require, and the data derived from share-alike sources is offered under the same terms (see "Share-alike").
+Each work's own credit and licence are also in /lingua/index.json and are shown in the Language Studio and the reader.
+
+Licence texts
+-------------
+CC BY 4.0      https://creativecommons.org/licenses/by/4.0/
+CC BY-SA 3.0   https://creativecommons.org/licenses/by-sa/3.0/
+CC BY-SA 4.0   https://creativecommons.org/licenses/by-sa/4.0/
+
+
+HEBREW AND ARAMAIC
+------------------
+Text: Westminster Leningrad Codex 4.20. Public domain.
+Morphology and lemma numbers: Open Scriptures Hebrew Bible (OSHB), by the Open Scriptures Hebrew Bible project,
+  files dated up to 2019-01-13. CC BY 4.0. https://github.com/openscriptures/morphhb
+Headwords, glosses and roots: Brown, Driver and Briggs, A Hebrew and English Lexicon of the Old Testament (1906),
+  public domain, in the Open Scriptures XML edition (CC BY 4.0); Open Scriptures Hebrew Lexical Index (CC BY 4.0);
+  Strong's Hebrew Dictionary (1890), public domain, in the Open Scriptures JSON edition (CC BY-SA).
+  https://github.com/openscriptures/HebrewLexicon   https://github.com/openscriptures/strongs
+Changes made: the morphology codes were expanded into named features, prefixes and suffixes were separated from the
+  stem, and each word was linked to one headword. Where the text has a written form and a read form (ketiv and
+  qere), the read form is given. All 39 books are included.
+
+GREEK NEW TESTAMENT
+-------------------
+Text: The Greek New Testament: SBL Edition (SBLGNT), edited by Michael W. Holmes. Copyright 2010 Society of Biblical
+  Literature and Logos Bible Software. CC BY 4.0. https://sblgnt.com/   https://www.sblgnt.com/license/
+Morphology and lemmas: MorphGNT, SBLGNT edition, version 6.12, by James K. Tauber and contributors. CC BY-SA 3.0.
+  https://github.com/morphgnt/sblgnt
+Glosses: Dodson Greek Lexicon, by John Jeffrey Dodson. Public domain.
+Strong's numbers: Strong's Greek Dictionary (1890), public domain, in the Open Scriptures JSON edition (CC BY-SA).
+Changes made: the editors' apparatus marks were removed from the text, the parsing codes were expanded into named
+  features, and glosses were attached. All 27 books are included.
+
+GREEK OUTSIDE THE NEW TESTAMENT (the Apostolic Fathers, Athanasius)
+------------------------------------------------------------------
+The analysis is automatic and has not been checked by a person; it may be wrong.
+Inflection tables: Wiktionary, Ancient Greek entries, by Wiktionary contributors, as extracted by kaikki.org
+  (Tatu Ylonen, Wiktextract). CC BY-SA 4.0. https://kaikki.org/   https://en.wiktionary.org/
+Form index: MorphGNT (as above). CC BY-SA 3.0.
+Glosses: Dodson Greek Lexicon. Public domain.
+Changes made: the tables were turned into a form index and applied to the texts by the GoLearn Greek analyser.
+
+LATIN
+-----
+The analysis is automatic and has not been checked by a Latinist; it may be wrong.
+Dictionary and inflections: William Whitaker's Words. Free for any use, by its author's statement.
+Headwords and glosses: Lewis and Short, A Latin Dictionary (1879), public domain, in the Perseus Digital Library's
+  TEI edition. CC BY-SA 4.0. https://github.com/PerseusDL/lexica
+Ranking of ambiguous forms: frequencies drawn from the Perseus Latin Dependency Treebank. CC BY-SA 3.0.
+  https://github.com/PerseusDL/treebank_data  (no treebank text is included)
+Changes made: the dictionaries were turned into a form index and applied to the texts by the GoLearn Latin analyser.
+
+
+Share-alike
+-----------
+The analysed data in /lingua/ that is derived from the CC BY-SA sources above — the Greek and Latin analyses, and the
+Strong's numbers and Strong's glosses in the Hebrew and Aramaic data — is offered under CC BY-SA 4.0. You may copy and
+adapt it if you keep these credits and offer your version under the same licence.
+The remaining Hebrew and Aramaic analysis is offered under CC BY 4.0 with the credits above.
+Parts that are public domain stay public domain. This licence applies to the data, not to the application's code.
+
+No endorsement
+--------------
+None of the projects, editors or publishers named here has reviewed or endorsed this application or its analysis.

@@ -1,0 +1,1268 @@
+{
+ "workId": "gregory-nyssa-against-eunomius",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "gregory-nyssa-against-eunomius-npnf2-5-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Against Eunomius (Books I–XII) with the Answer to Eunomius' Second Book, in A Select Library of Nicene and Post-Nicene Fathers of the Christian Church, Second Series, vol. V: Gregory of Nyssa, Dogmatic Treatises; Select Writings and Letters (American edition; ed. Philip Schaff and Henry Wace), trans. William Moore and Henry Austin Wilson (the title page names both; it does not say which of them translated each treatise) (New York: The Christian Literature Company, 1893). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers, Series II), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_V/Dogmatic_Treatises/Against_Eunomius",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1716865,
+   "sourceSha256": "a02cda3bd9b7933d40a96773efd4273251fe7a6811ddd03916fd0a0d9324aa16",
+   "leftOut": {
+    "note": 1165
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 1",
+     "bytes": 7467,
+     "sha256": "5dc47e8749e387ae2e3ad93df62efea4b2cf142c99286a34140c29a880fc2b09"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 2",
+     "bytes": 3254,
+     "sha256": "28bcd370ceb61a531aa5e8c948dbb9255c840136bc44d3cd7e4a0f2237d795dd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 3",
+     "bytes": 5418,
+     "sha256": "9abd158d2099e2bb6ce0a09528087a5348f34255e179739fa673488c23cc2980"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 4",
+     "bytes": 7768,
+     "sha256": "274f4c10c9fd6b90cd47dccc4d9a42d97fa61dee117fbf9788fdfa33fb4905f1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 5",
+     "bytes": 5997,
+     "sha256": "e8d7bec5e06dcfd4d8d371ac99e2011d7cc4c9d4a56a007cdd60f91dc5fc24c3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 6",
+     "bytes": 15280,
+     "sha256": "d24921bc6c40be0f91f5375d2e2d2e919296123bed9439b9a01ffa70df4b9a42"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 7",
+     "bytes": 9173,
+     "sha256": "ed22f899d8f6d7dae4b9612bebcd7ee267903898623c2a0fed11f7affb4a37a5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 8",
+     "bytes": 4812,
+     "sha256": "01288b5bce2da299fe124da61c03aa629085830eb5733b342d85c2e40e9ccf15"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 9",
+     "bytes": 8385,
+     "sha256": "8f92b4212055e2cc8c58fec5d3dab1eb03bc3a8a2a8f627c5c59659a7b515af6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 10",
+     "bytes": 12173,
+     "sha256": "8ce1c4105b20c1f89211b331698fbfb9019fc38d0025e659403903884bc9a96c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 11",
+     "bytes": 5048,
+     "sha256": "adfeacd0fbd4ff84c9be3a8040ebc531d97c4feeda9ae7f8f6f9fe8dd0aa13c4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 12",
+     "bytes": 14263,
+     "sha256": "b530ecddf82d90d9669ffc9b5b0027156af54d8420d125967514520e96c12662"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 13",
+     "bytes": 8708,
+     "sha256": "79a9d22a1daf21b98db59a50d608986d5dc800ffadbed4f6fd24f41e5f58a466"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 14",
+     "bytes": 4379,
+     "sha256": "68a1ee75703c2e3500c596f4cf064ba0568d9564bd42117d09f810435fc53681"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 15",
+     "bytes": 10592,
+     "sha256": "bfbb1de97bbf5cf62ddad61e4688689f1de58d2dd89b081e55a18ba5c1c0667c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 16",
+     "bytes": 7956,
+     "sha256": "e26ab349c1d0f9af0f84be91e17df9bebb017bc3ea62e76a47e8c851f08b7625"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 17",
+     "bytes": 4134,
+     "sha256": "7e94c8c6b1e2e948948c100dd2e211889eca4c5b7ee6e8e37057d6d2cf16bfd3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 18",
+     "bytes": 7411,
+     "sha256": "c7ee4c86b6a90ef8158fc09430921e9346da04678fe087c741485e4edaa4d10b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 19",
+     "bytes": 10265,
+     "sha256": "70819a794b4e8159635553d8eacfae1027345c5b72f1eba6f346d9998c8e8caa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 20",
+     "bytes": 9468,
+     "sha256": "f698b69f07845fad406c476d2dbd426d24fbdee5fc5b5652570445e7c414b125"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 21",
+     "bytes": 4078,
+     "sha256": "dc7de3fbe6b14d692a3748907a7c05321df5fbac5d254f27c68b51f06bb39c0e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 22",
+     "bytes": 21144,
+     "sha256": "e16f1522c4f339f1417ea78721753ae4e60cd81495f433a87c85d787bc4ea11b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 23",
+     "bytes": 10561,
+     "sha256": "4c8ff3e8d2e3820f4fc7453d072eeaa5610a2fd04a96365fd05f98809c175e41"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 24",
+     "bytes": 14237,
+     "sha256": "02b85e4806f1c5a23f19d639c5339b70e05398e39a8d8ca505b0ca9761f759a0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 25",
+     "bytes": 8982,
+     "sha256": "465f2375a70847a8197a2f0aac4847dd6b61566658dfc845f35d53c718169189"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 26",
+     "bytes": 15743,
+     "sha256": "e1fe2411b14ae256e7bd9e900cbfe740d6ce84997596c4a44049a17b99d5c8fc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 27",
+     "bytes": 9748,
+     "sha256": "136d3f7eaac554ef6b75784fe5d1824e5aaf1334542deed06f266f446966cca1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 28",
+     "bytes": 14645,
+     "sha256": "1547b9eaada45a9e9a5a54715ce86f3b7703046fdf3d85505353603ba9ba51c2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 29",
+     "bytes": 2472,
+     "sha256": "a98c60871304d62c1b8a27a724f7f28faa172eb09068b514846d350e13ad4e81"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 30",
+     "bytes": 2731,
+     "sha256": "61e77891800d70304d51646051299a754aa02a866560a143ddcced25b80489f0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 31",
+     "bytes": 4492,
+     "sha256": "1938e877c8e9cb79d397a3d0d52d40c9de72d812e8a72615f360e1f0fa913c34"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 32",
+     "bytes": 8192,
+     "sha256": "536f2ce5c0ce78db0d14ec7437af5b59d064dc7b8aa75adc33093ad4c5306dbb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 33",
+     "bytes": 10127,
+     "sha256": "309671d63725eaa3abdd81a9991de83822c9ef5e155b965f7a6b8b06024bc47d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 34",
+     "bytes": 14260,
+     "sha256": "a43f1b98df4f50391aeb476fedc69ea0d06dd55d641bbbab78db3f51e46416be"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 35",
+     "bytes": 15930,
+     "sha256": "814cb01c940bb4fcde951dee974cad55f8d2f0cb52fd2b1483f7eccad55a653e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 36",
+     "bytes": 4828,
+     "sha256": "76d01302d2cd6fe21c7719150e66a82797791d0de00a4c61037db2a675809305"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 37",
+     "bytes": 8139,
+     "sha256": "273d6dbb7326afc5f8c0c95bc8589c1bbd9ca0b17dd9737282183361e5284a91"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 38",
+     "bytes": 40309,
+     "sha256": "f3e6787e0109c1feb613f641801a740e5d31fd04551d1630801ac653b2b0ea2d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 39",
+     "bytes": 18201,
+     "sha256": "9d35a400fa08917fe14c9fa53ee7aae45f2458bc8a8f0651c4058b20c3d12b80"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 40",
+     "bytes": 5537,
+     "sha256": "b7102660f5aa67531c57f0225c4061e8f5d7230beb410c782ee1dd22370a773d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 41",
+     "bytes": 7213,
+     "sha256": "6906ef5166fe53ffcaeffad6215259fbe93a26bb5f5290f82f18664b60d474b1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book I/Chapter 42",
+     "bytes": 17628,
+     "sha256": "4a8d1d5109501427580abdbf10a8b6ac41d9c189e5fe449a2f059a6c181485b2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book II/Chapter 1",
+     "bytes": 4252,
+     "sha256": "e2ce403cc9f817a65d1f6953479379f37a2f994aab940c13a0fc7217bd584ba2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book II/Chapter 2",
+     "bytes": 10353,
+     "sha256": "707096696218fb163eb077c750dfd82030f67f0af61e4dc00ecacb53fd2ecfa6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book II/Chapter 3",
+     "bytes": 6544,
+     "sha256": "df3ccd099faf23fe9f346173cb9991714d297f7ad1cb2f967f4648ef2001b3ba"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book II/Chapter 4",
+     "bytes": 11151,
+     "sha256": "70ca2947d735074f0d2b613831c83d4a63ab7ae107212ee74408cd3685c93eb8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book II/Chapter 5",
+     "bytes": 5666,
+     "sha256": "80549bcf2fec6ec532d09d66d0645096be1089fdfff31a93656ff631fd63db07"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book II/Chapter 6",
+     "bytes": 13206,
+     "sha256": "46b7db83a3e25b9f0e9a14a2bc7a55f3954c5d9c525cdcf0b345c1c26a02614c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book II/Chapter 7",
+     "bytes": 20865,
+     "sha256": "5e61731b7bb2aea63fb9462620986db8d4b63d4d1510fe9988079c5f5dc7ac09"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book II/Chapter 8",
+     "bytes": 8881,
+     "sha256": "9ecf1ac4a9071a0588824dbb6b5e83d10636f87534972c8d96a195bd3a3c73d8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book II/Chapter 9",
+     "bytes": 21521,
+     "sha256": "7bdbbe7836e86ebf1722c349110a4ae878a15b312e494c8599a06483edb85482"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book II/Chapter 10",
+     "bytes": 14932,
+     "sha256": "5a97278f70c6b2573f6cef132c310056014b07ef02ffba9a6aba12e13808c08c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book II/Chapter 11",
+     "bytes": 17795,
+     "sha256": "27f6227c796dbee99019162e02b1d6d5b62b186e8f1771decbdc790ef2c852b4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book II/Chapter 12",
+     "bytes": 21100,
+     "sha256": "ebba54b52ada47f04eaf62039af54746d87028a1c81676ca0ff3b10698119e09"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book II/Chapter 13",
+     "bytes": 11841,
+     "sha256": "e87a8005880cd384cf6decbb49540f88bb089c96c3e6dc9e9bd9c238ffb3d845"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book II/Chapter 14",
+     "bytes": 18116,
+     "sha256": "84c450994e2768b4c82665dcb6537d47a8b679f601c83c10b46cc34a82784daa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book II/Chapter 15",
+     "bytes": 24565,
+     "sha256": "71d5112f2a05313bd43967a77abdd2bbaa2878b615e1afa47b17f18fb5906540"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book III/Chapter 1",
+     "bytes": 15585,
+     "sha256": "a20dc5b5caaff378be54ec89604a4d6553406e3e67cd3c4cf72ae28987fa5682"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book III/Chapter 2",
+     "bytes": 31287,
+     "sha256": "4ddb55be64e3fbc375dbb77db54a7cdfadd0972a3fade75441908abcc1af87b0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book III/Chapter 3",
+     "bytes": 12322,
+     "sha256": "fd2b37653e20165fa6b8deea66f6c13ea00984038fdc28e9e8f7e1e766352c7a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book III/Chapter 4",
+     "bytes": 12892,
+     "sha256": "37d12e146a5074b7cfd14ec2b9308516ec3094c507509df241dcacae23c1876a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book III/Chapter 5",
+     "bytes": 6795,
+     "sha256": "489040e0e2e275829358475b707a8bfbaa5ea39b18b6ab9baf3c4109fa822464"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book III/Chapter 6",
+     "bytes": 10699,
+     "sha256": "799753c2b2f3f0ee73a1e2561c7bf4ce815c4a8ab5049597bc3d6cd9ecd0914d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book III/Chapter 7",
+     "bytes": 12237,
+     "sha256": "e4d591340afd026b8b2502276a94cfc6890e43c70c69f74b1b56a00188e28e2c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book IV/Chapter 1",
+     "bytes": 20228,
+     "sha256": "5d6ff2992e0f014efb861e0f48332ee2b494b8ba11152be642fa4a643903a552"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book IV/Chapter 2",
+     "bytes": 11352,
+     "sha256": "0fa885bb5edebb8ceb24c0564fef75f946f117a5f31e1be13fe3c8f3dbd17878"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book IV/Chapter 3",
+     "bytes": 12625,
+     "sha256": "50ffdbbbf2bdee3eb9af18c49ef358523d4057a64960fd5a406603d1b8a28310"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book IV/Chapter 4",
+     "bytes": 16757,
+     "sha256": "3246c4bd9f60dc5c9de79106690da4880f43cc3b4f8671444052e30058f2a971"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book IV/Chapter 5",
+     "bytes": 6228,
+     "sha256": "7e12ec7e5a658c126d8caa2bc6365ea99774f86b230dc53bb0c9dee5b9842de5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book IV/Chapter 6",
+     "bytes": 23833,
+     "sha256": "d71ef90b64bd70adb744b0c3250bba2ef91d37cc0f60e08956ad31bcaaa392c0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book IV/Chapter 7",
+     "bytes": 9940,
+     "sha256": "c68df7022c2619d43fe01d211819d4d7ea00a92f06cd0b626bc646aaba86910a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book IV/Chapter 8",
+     "bytes": 12294,
+     "sha256": "ac3e283ac2b79571b67762c23ec5dbdda3f516e4358481e530792f6de705387a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book IV/Chapter 9",
+     "bytes": 14197,
+     "sha256": "e79db9f4ec4922efc2eb1654c9b9257e87096f784bcfc7d74dfda503d77bb518"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book IX/Chapter 1",
+     "bytes": 11164,
+     "sha256": "2c151ed5c74a805f9ee7b8fbbeca0663b7b48fe08ca28c78677d9d1668bfe06a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book IX/Chapter 2",
+     "bytes": 10986,
+     "sha256": "fbb0c69f3643e8c56e810ca353f3e3ac5dcc55eaf7c3533c007a770f405999ab"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book IX/Chapter 3",
+     "bytes": 14863,
+     "sha256": "2b5d5587c243060e24fb7047ccf2e69122998ee0fda9aaee17ab1ae5ca87bb4d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book IX/Chapter 4",
+     "bytes": 16010,
+     "sha256": "af909a48a1c31bcaf4f9404c5ee0158bd518e98a0cc85916d75f9da3d0a35715"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book V/Chapter 1",
+     "bytes": 10753,
+     "sha256": "a1301fba4c80eee12128055dc6341d0453547ce2dbfb78e15f8920d86d398454"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book V/Chapter 2",
+     "bytes": 12614,
+     "sha256": "1aeacf1317d467c912d66ae769d5bdbc61caf535435566db69d5282d1ea286ee"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book V/Chapter 3",
+     "bytes": 17433,
+     "sha256": "37ba99df109c9a1b7aa9066e46d9c01d72da2a9c5d99e4253f43085aa8ce7972"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book V/Chapter 4",
+     "bytes": 8830,
+     "sha256": "bbc4a7693effd965b8df794ecad7cdca03c02f75c268800eaac57046339ea838"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book V/Chapter 5",
+     "bytes": 14573,
+     "sha256": "426daf5c032bb340b7be27d7bdd6805b16d7169a09619e4d1070c0d0f9c24bd9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book VI/Chapter 1",
+     "bytes": 8769,
+     "sha256": "4074a6eb1bac59fab86a3c1cd4b19408a540bca598884712e661ff84d92da6f7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book VI/Chapter 2",
+     "bytes": 12599,
+     "sha256": "5d40b0c796ca9e2b7beabdfbc0a50eca9325eeb97dbb366472545b16be06eb30"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book VI/Chapter 3",
+     "bytes": 12869,
+     "sha256": "616dd382ea5310fe400b96d9051d46107a03f1cc5a5f4257f0fc7a26bcab2e99"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book VI/Chapter 4",
+     "bytes": 22626,
+     "sha256": "9ecb78c09dfd5a4ac7d8cd1a8c6fd1cfd7ff0d2ba8233ffe09873066e8b90587"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book VII/Chapter 1",
+     "bytes": 23637,
+     "sha256": "c3c1ddbe5cdfbeaac2156a2eebbf584e16aad4f19676c7afdde673d117902495"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book VII/Chapter 2",
+     "bytes": 7268,
+     "sha256": "b1e171b45c2ba0cc7a26b197f4878030a0ef3c3786b4bdb831265e80bd294bc3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book VII/Chapter 3",
+     "bytes": 9453,
+     "sha256": "60c42d95a3f510ee258de43d0366fd558a7cf310344bbedad7f80360dee5d191"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book VII/Chapter 4",
+     "bytes": 5102,
+     "sha256": "a79896a58525cf6d58981528bf3db46c24b090246c6ab869209c758552a55307"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book VII/Chapter 5",
+     "bytes": 9658,
+     "sha256": "f711f8438cd706f963e1931e6298b43a6d0a2bc538cc00518c3c1a14970a6ea9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book VIII/Chapter 1",
+     "bytes": 12796,
+     "sha256": "0180c9d78d182cfa532c979cb205aab3f79c43768d5b3910bcbe4370331a05db"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book VIII/Chapter 2",
+     "bytes": 7405,
+     "sha256": "ac4c22784f28c4e2b1598f875f01b67ab3f011ecb04ebeb5c58389611218fccf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book VIII/Chapter 3",
+     "bytes": 8285,
+     "sha256": "ecda24da668cf0f1b20ec22b7e3851eb826dafea49c942500c8e6b980ec48d56"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book VIII/Chapter 4",
+     "bytes": 8664,
+     "sha256": "11a5871e478c4c655a630f45a242ecf479812a76b150e7fdfd2b68d4b8a9b6fa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book VIII/Chapter 5",
+     "bytes": 32185,
+     "sha256": "40510e063a544695075f36126948a848cbc960e49733d3c5e99d484e917e9c31"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book X/Chapter 1",
+     "bytes": 11654,
+     "sha256": "65a716b3d35a9dd2b042bca0deb6ebb1668bd237b1d4ed55b1be0f388332f349"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book X/Chapter 2",
+     "bytes": 9135,
+     "sha256": "911950e2a86247479c0ee8c9e8f3f9ee4b6281d303a5920b09cf3f783f37054d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book X/Chapter 3",
+     "bytes": 7646,
+     "sha256": "a3b3993d0fa20bd75b1fbac599bec14aca90b682c32e704bb3dfe73324ab1f5f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book X/Chapter 4",
+     "bytes": 26512,
+     "sha256": "7527820b9d19a592bd2908b2c1eef7d1ce1e32c472f7cb4b6ba812c295b072c9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book XI/Chapter 1",
+     "bytes": 7420,
+     "sha256": "523708cdb397d5adefe1f2fceaa77b266402029385bc469b6c5b9209932a3c27"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book XI/Chapter 2",
+     "bytes": 11744,
+     "sha256": "b00a0c10c13b6dc6e20cec2c43408f9214e6a9175eaaf76005bf02a165e19305"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book XI/Chapter 3",
+     "bytes": 17909,
+     "sha256": "9bbd6c477ae0a2da497d547d1e489954f747756bf9a0101cbe8a8f1e5a316656"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book XI/Chapter 4",
+     "bytes": 4539,
+     "sha256": "feb5f0f765e669be283e06d252f6e368219b6374850a5caeb14f64e7c33e1db6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book XI/Chapter 5",
+     "bytes": 18563,
+     "sha256": "6fd7d92dfccf336f51ba79b86811a3f5bfafde16cc42e34ff57ec9dac938eb2d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book XII/Chapter 1",
+     "bytes": 15031,
+     "sha256": "26254942aa3c50f24a92b38e64871928d8841302edd8499353e0cb47d46df006"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book XII/Chapter 2",
+     "bytes": 8745,
+     "sha256": "70287d8b259fdc766764b9a920621fb61c63a1330faab195a6889104881fd44d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book XII/Chapter 3",
+     "bytes": 11408,
+     "sha256": "40f6aeb493309b0275222efe05c110e44b48720f835d7cfc47e828cf612beccb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book XII/Chapter 4",
+     "bytes": 6631,
+     "sha256": "322666b030c9fb145d1eb993d5b5008c77696d19f82820dda27c8cff6394c815"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Book XII/Chapter 5",
+     "bytes": 9698,
+     "sha256": "e67e7c3911169219b38a23d1707145f3a24c9d7daa7f736a6e2713de8509fa0d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/Gregory to his brother Peter, Bishop of Sebasteia",
+     "bytes": 5617,
+     "sha256": "5920df47142fe0d8e6857be4afc2cce7c48b7ad7673ccc38e18b36f354840a20"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Against Eunomius/To his most pious brother Gregory. Peter greeting in the Lord",
+     "bytes": 3052,
+     "sha256": "aba01ea06130bd6494baa4fc720232ca59fbc39133a8fb2f43f6c497bc8f405d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/Answer to Eunomius' Second Book/Answer to Eunomius' Second Book",
+     "bytes": 381812,
+     "sha256": "fa9e4ed5a62fa9503b0b02ba79314fc4f231892f1413b9eb5297fd27f3e47382"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.1",
+     "title": "1.1",
+     "segments": 5
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.2",
+     "title": "1.2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.3",
+     "title": "1.3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.4",
+     "title": "1.4",
+     "segments": 5
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.5",
+     "title": "1.5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.6",
+     "title": "1.6",
+     "segments": 7
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.7",
+     "title": "1.7",
+     "segments": 5
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.8",
+     "title": "1.8",
+     "segments": 3
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.9",
+     "title": "1.9",
+     "segments": 5
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.10",
+     "title": "1.10",
+     "segments": 5
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.11",
+     "title": "1.11",
+     "segments": 3
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.12",
+     "title": "1.12",
+     "segments": 9
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.13",
+     "title": "1.13",
+     "segments": 3
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.14",
+     "title": "1.14",
+     "segments": 3
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.15",
+     "title": "1.15",
+     "segments": 7
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.16",
+     "title": "1.16",
+     "segments": 4
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.17",
+     "title": "1.17",
+     "segments": 4
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.18",
+     "title": "1.18",
+     "segments": 4
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.19",
+     "title": "1.19",
+     "segments": 5
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.20",
+     "title": "1.20",
+     "segments": 5
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.21",
+     "title": "1.21",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.22",
+     "title": "1.22",
+     "segments": 9
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.23",
+     "title": "1.23",
+     "segments": 5
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.24",
+     "title": "1.24",
+     "segments": 8
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.25",
+     "title": "1.25",
+     "segments": 7
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.26",
+     "title": "1.26",
+     "segments": 9
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.27",
+     "title": "1.27",
+     "segments": 4
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.28",
+     "title": "1.28",
+     "segments": 4
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.29",
+     "title": "1.29",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.30",
+     "title": "1.30",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.31",
+     "title": "1.31",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.32",
+     "title": "1.32",
+     "segments": 4
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.33",
+     "title": "1.33",
+     "segments": 6
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.34",
+     "title": "1.34",
+     "segments": 7
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.35",
+     "title": "1.35",
+     "segments": 9
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.36",
+     "title": "1.36",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.37",
+     "title": "1.37",
+     "segments": 3
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.38",
+     "title": "1.38",
+     "segments": 18
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.39",
+     "title": "1.39",
+     "segments": 8
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.40",
+     "title": "1.40",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.41",
+     "title": "1.41",
+     "segments": 3
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.42",
+     "title": "1.42",
+     "segments": 7
+    },
+    {
+     "file": "0043.json",
+     "ref": "2.1",
+     "title": "2.1",
+     "segments": 3
+    },
+    {
+     "file": "0044.json",
+     "ref": "2.2",
+     "title": "2.2",
+     "segments": 3
+    },
+    {
+     "file": "0045.json",
+     "ref": "2.3",
+     "title": "2.3",
+     "segments": 3
+    },
+    {
+     "file": "0046.json",
+     "ref": "2.4",
+     "title": "2.4",
+     "segments": 5
+    },
+    {
+     "file": "0047.json",
+     "ref": "2.5",
+     "title": "2.5",
+     "segments": 4
+    },
+    {
+     "file": "0048.json",
+     "ref": "2.6",
+     "title": "2.6",
+     "segments": 5
+    },
+    {
+     "file": "0049.json",
+     "ref": "2.7",
+     "title": "2.7",
+     "segments": 6
+    },
+    {
+     "file": "0050.json",
+     "ref": "2.8",
+     "title": "2.8",
+     "segments": 3
+    },
+    {
+     "file": "0051.json",
+     "ref": "2.9",
+     "title": "2.9",
+     "segments": 6
+    },
+    {
+     "file": "0052.json",
+     "ref": "2.10",
+     "title": "2.10",
+     "segments": 4
+    },
+    {
+     "file": "0053.json",
+     "ref": "2.11",
+     "title": "2.11",
+     "segments": 5
+    },
+    {
+     "file": "0054.json",
+     "ref": "2.12",
+     "title": "2.12",
+     "segments": 6
+    },
+    {
+     "file": "0055.json",
+     "ref": "2.13",
+     "title": "2.13",
+     "segments": 4
+    },
+    {
+     "file": "0056.json",
+     "ref": "2.14",
+     "title": "2.14",
+     "segments": 3
+    },
+    {
+     "file": "0057.json",
+     "ref": "2.15",
+     "title": "2.15",
+     "segments": 7
+    },
+    {
+     "file": "0058.json",
+     "ref": "3.1",
+     "title": "3.1",
+     "segments": 3
+    },
+    {
+     "file": "0059.json",
+     "ref": "3.2",
+     "title": "3.2",
+     "segments": 8
+    },
+    {
+     "file": "0060.json",
+     "ref": "3.3",
+     "title": "3.3",
+     "segments": 3
+    },
+    {
+     "file": "0061.json",
+     "ref": "3.4",
+     "title": "3.4",
+     "segments": 5
+    },
+    {
+     "file": "0062.json",
+     "ref": "3.5",
+     "title": "3.5",
+     "segments": 3
+    },
+    {
+     "file": "0063.json",
+     "ref": "3.6",
+     "title": "3.6",
+     "segments": 4
+    },
+    {
+     "file": "0064.json",
+     "ref": "3.7",
+     "title": "3.7",
+     "segments": 4
+    },
+    {
+     "file": "0065.json",
+     "ref": "4.1",
+     "title": "4.1",
+     "segments": 8
+    },
+    {
+     "file": "0066.json",
+     "ref": "4.2",
+     "title": "4.2",
+     "segments": 4
+    },
+    {
+     "file": "0067.json",
+     "ref": "4.3",
+     "title": "4.3",
+     "segments": 5
+    },
+    {
+     "file": "0068.json",
+     "ref": "4.4",
+     "title": "4.4",
+     "segments": 6
+    },
+    {
+     "file": "0069.json",
+     "ref": "4.5",
+     "title": "4.5",
+     "segments": 4
+    },
+    {
+     "file": "0070.json",
+     "ref": "4.6",
+     "title": "4.6",
+     "segments": 7
+    },
+    {
+     "file": "0071.json",
+     "ref": "4.7",
+     "title": "4.7",
+     "segments": 2
+    },
+    {
+     "file": "0072.json",
+     "ref": "4.8",
+     "title": "4.8",
+     "segments": 4
+    },
+    {
+     "file": "0073.json",
+     "ref": "4.9",
+     "title": "4.9",
+     "segments": 5
+    },
+    {
+     "file": "0074.json",
+     "ref": "5.1",
+     "title": "5.1",
+     "segments": 5
+    },
+    {
+     "file": "0075.json",
+     "ref": "5.2",
+     "title": "5.2",
+     "segments": 4
+    },
+    {
+     "file": "0076.json",
+     "ref": "5.3",
+     "title": "5.3",
+     "segments": 5
+    },
+    {
+     "file": "0077.json",
+     "ref": "5.4",
+     "title": "5.4",
+     "segments": 3
+    },
+    {
+     "file": "0078.json",
+     "ref": "5.5",
+     "title": "5.5",
+     "segments": 4
+    },
+    {
+     "file": "0079.json",
+     "ref": "6.1",
+     "title": "6.1",
+     "segments": 3
+    },
+    {
+     "file": "0080.json",
+     "ref": "6.2",
+     "title": "6.2",
+     "segments": 3
+    },
+    {
+     "file": "0081.json",
+     "ref": "6.3",
+     "title": "6.3",
+     "segments": 3
+    },
+    {
+     "file": "0082.json",
+     "ref": "6.4",
+     "title": "6.4",
+     "segments": 6
+    },
+    {
+     "file": "0083.json",
+     "ref": "7.1",
+     "title": "7.1",
+     "segments": 7
+    },
+    {
+     "file": "0084.json",
+     "ref": "7.2",
+     "title": "7.2",
+     "segments": 3
+    },
+    {
+     "file": "0085.json",
+     "ref": "7.3",
+     "title": "7.3",
+     "segments": 4
+    },
+    {
+     "file": "0086.json",
+     "ref": "7.4",
+     "title": "7.4",
+     "segments": 2
+    },
+    {
+     "file": "0087.json",
+     "ref": "7.5",
+     "title": "7.5",
+     "segments": 3
+    },
+    {
+     "file": "0088.json",
+     "ref": "8.1",
+     "title": "8.1",
+     "segments": 4
+    },
+    {
+     "file": "0089.json",
+     "ref": "8.2",
+     "title": "8.2",
+     "segments": 3
+    },
+    {
+     "file": "0090.json",
+     "ref": "8.3",
+     "title": "8.3",
+     "segments": 3
+    },
+    {
+     "file": "0091.json",
+     "ref": "8.4",
+     "title": "8.4",
+     "segments": 2
+    },
+    {
+     "file": "0092.json",
+     "ref": "8.5",
+     "title": "8.5",
+     "segments": 7
+    },
+    {
+     "file": "0093.json",
+     "ref": "9.1",
+     "title": "9.1",
+     "segments": 4
+    },
+    {
+     "file": "0094.json",
+     "ref": "9.2",
+     "title": "9.2",
+     "segments": 3
+    },
+    {
+     "file": "0095.json",
+     "ref": "9.3",
+     "title": "9.3",
+     "segments": 5
+    },
+    {
+     "file": "0096.json",
+     "ref": "9.4",
+     "title": "9.4",
+     "segments": 4
+    },
+    {
+     "file": "0097.json",
+     "ref": "10.1",
+     "title": "10.1",
+     "segments": 4
+    },
+    {
+     "file": "0098.json",
+     "ref": "10.2",
+     "title": "10.2",
+     "segments": 3
+    },
+    {
+     "file": "0099.json",
+     "ref": "10.3",
+     "title": "10.3",
+     "segments": 4
+    },
+    {
+     "file": "0100.json",
+     "ref": "10.4",
+     "title": "10.4",
+     "segments": 8
+    },
+    {
+     "file": "0101.json",
+     "ref": "11.1",
+     "title": "11.1",
+     "segments": 3
+    },
+    {
+     "file": "0102.json",
+     "ref": "11.2",
+     "title": "11.2",
+     "segments": 2
+    },
+    {
+     "file": "0103.json",
+     "ref": "11.3",
+     "title": "11.3",
+     "segments": 5
+    },
+    {
+     "file": "0104.json",
+     "ref": "11.4",
+     "title": "11.4",
+     "segments": 3
+    },
+    {
+     "file": "0105.json",
+     "ref": "11.5",
+     "title": "11.5",
+     "segments": 4
+    },
+    {
+     "file": "0106.json",
+     "ref": "12.1",
+     "title": "12.1",
+     "segments": 4
+    },
+    {
+     "file": "0107.json",
+     "ref": "12.2",
+     "title": "12.2",
+     "segments": 2
+    },
+    {
+     "file": "0108.json",
+     "ref": "12.3",
+     "title": "12.3",
+     "segments": 3
+    },
+    {
+     "file": "0109.json",
+     "ref": "12.4",
+     "title": "12.4",
+     "segments": 2
+    },
+    {
+     "file": "0110.json",
+     "ref": "12.5",
+     "title": "12.5",
+     "segments": 3
+    },
+    {
+     "file": "0111.json",
+     "ref": "p1.p1",
+     "title": "p1.p1",
+     "segments": 6
+    },
+    {
+     "file": "0112.json",
+     "ref": "p1.p2",
+     "title": "p1.p2",
+     "segments": 6
+    },
+    {
+     "file": "0113.json",
+     "ref": "p2.p1",
+     "title": "p2.p1",
+     "segments": 120
+    }
+   ]
+  }
+ ]
+}

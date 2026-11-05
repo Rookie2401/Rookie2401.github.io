@@ -1,0 +1,185 @@
+{
+ "workId": "gnt-jhn",
+ "editions": [
+  {
+   "editionId": "sblgnt-jhn",
+   "language": "grc",
+   "variety": "grc-koi",
+   "textSource": "self",
+   "analysis": {
+    "id": "morphgnt-sblgnt@6.12",
+    "kind": "verified-dataset",
+    "status": "verified"
+   },
+   "credit": "Greek text: SBL Greek New Testament (SBLGNT), Society of Biblical Literature and Logos Bible Software, CC BY 4.0. Morphology and lemmas: MorphGNT SBLGNT edition, James K. Tauber, CC BY-SA 3.0. Glosses: Dodson Greek Lexicon (public domain). Strong's numbers: Strong's Greek Dictionary, Open Scriptures JSON edition.",
+   "licence": "text CC BY 4.0; analysis CC BY-SA 3.0",
+   "source": {
+    "name": "MorphGNT SBLGNT",
+    "version": "6.12",
+    "sourceUrl": "https://github.com/morphgnt/sblgnt",
+    "localPath": "biblia-v0/data/gnt/64-Jn-morphgnt.txt",
+    "lexicons": [
+     "dodson.csv",
+     "strongs-greek-dictionary.js"
+    ]
+   },
+   "coverage": {
+    "tokens": 15438,
+    "withLemma": 15438,
+    "withMorphology": 11444,
+    "verified": 15438,
+    "ambiguous": 0,
+    "unanalysed": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "JHN.1",
+     "title": "John 1",
+     "segments": 51,
+     "tokens": 826
+    },
+    {
+     "file": "0002.json",
+     "ref": "JHN.2",
+     "title": "John 2",
+     "segments": 25,
+     "tokens": 430
+    },
+    {
+     "file": "0003.json",
+     "ref": "JHN.3",
+     "title": "John 3",
+     "segments": 36,
+     "tokens": 657
+    },
+    {
+     "file": "0004.json",
+     "ref": "JHN.4",
+     "title": "John 4",
+     "segments": 54,
+     "tokens": 936
+    },
+    {
+     "file": "0005.json",
+     "ref": "JHN.5",
+     "title": "John 5",
+     "segments": 46,
+     "tokens": 790
+    },
+    {
+     "file": "0006.json",
+     "ref": "JHN.6",
+     "title": "John 6",
+     "segments": 71,
+     "tokens": 1238
+    },
+    {
+     "file": "0007.json",
+     "ref": "JHN.7",
+     "title": "John 7",
+     "segments": 52,
+     "tokens": 850
+    },
+    {
+     "file": "0008.json",
+     "ref": "JHN.8",
+     "title": "John 8",
+     "segments": 48,
+     "tokens": 905
+    },
+    {
+     "file": "0009.json",
+     "ref": "JHN.9",
+     "title": "John 9",
+     "segments": 41,
+     "tokens": 689
+    },
+    {
+     "file": "0010.json",
+     "ref": "JHN.10",
+     "title": "John 10",
+     "segments": 42,
+     "tokens": 697
+    },
+    {
+     "file": "0011.json",
+     "ref": "JHN.11",
+     "title": "John 11",
+     "segments": 57,
+     "tokens": 944
+    },
+    {
+     "file": "0012.json",
+     "ref": "JHN.12",
+     "title": "John 12",
+     "segments": 50,
+     "tokens": 890
+    },
+    {
+     "file": "0013.json",
+     "ref": "JHN.13",
+     "title": "John 13",
+     "segments": 38,
+     "tokens": 660
+    },
+    {
+     "file": "0014.json",
+     "ref": "JHN.14",
+     "title": "John 14",
+     "segments": 31,
+     "tokens": 577
+    },
+    {
+     "file": "0015.json",
+     "ref": "JHN.15",
+     "title": "John 15",
+     "segments": 27,
+     "tokens": 500
+    },
+    {
+     "file": "0016.json",
+     "ref": "JHN.16",
+     "title": "John 16",
+     "segments": 33,
+     "tokens": 580
+    },
+    {
+     "file": "0017.json",
+     "ref": "JHN.17",
+     "title": "John 17",
+     "segments": 26,
+     "tokens": 498
+    },
+    {
+     "file": "0018.json",
+     "ref": "JHN.18",
+     "title": "John 18",
+     "segments": 40,
+     "tokens": 790
+    },
+    {
+     "file": "0019.json",
+     "ref": "JHN.19",
+     "title": "John 19",
+     "segments": 42,
+     "tokens": 818
+    },
+    {
+     "file": "0020.json",
+     "ref": "JHN.20",
+     "title": "John 20",
+     "segments": 31,
+     "tokens": 614
+    },
+    {
+     "file": "0021.json",
+     "ref": "JHN.21",
+     "title": "John 21",
+     "segments": 25,
+     "tokens": 549
+    }
+   ]
+  }
+ ]
+}

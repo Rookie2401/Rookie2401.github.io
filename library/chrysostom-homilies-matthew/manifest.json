@@ -1,0 +1,3636 @@
+{
+ "workId": "chrysostom-homilies-matthew",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "chrysostom-matthew-npnf1-prevost-riddle-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "The Homilies of St. John Chrysostom on the Gospel of St. Matthew, in A Select Library of the Nicene and Post-Nicene Fathers, series I, vol. X (Homilies on the Gospel of Saint Matthew), trans. George Prevost (Oxford translation), revised with notes by M. B. Riddle (Buffalo; New York: Christian Literature Co., 1888). Wikisource contributors, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_X/The_Homilies_of_St._John_Chrysostom",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 2695203,
+   "sourceSha256": "bad0dbbade4b07bc10dccd38adffa59f48af839e1a2569ec6706b6d1c152ae45",
+   "leftOut": {
+    "note": 3184
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 1",
+     "bytes": 38468,
+     "sha256": "f128a9300b7afef03ae759f92456b84a1cd9e5805c6e1370ea0ba6133d37c753"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 10",
+     "bytes": 29749,
+     "sha256": "db2200608177fbe867d97174d88df25d4cf2a992605cfa252e65c2bbe0e72e6a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 11",
+     "bytes": 39532,
+     "sha256": "c820f498b78b3b3048f42bbb40186045adfaee9d5bc809f681fa473804df3a53"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 12",
+     "bytes": 24337,
+     "sha256": "768df8d5a4c0603b392a2f4e8abbe8abfc8f83db8d77f60028172b64ac3e811f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 13",
+     "bytes": 34981,
+     "sha256": "f27f254b1c68fb271416da5a9e321076c1ccebf94dcaa0b6f00d33997e94b958"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 14",
+     "bytes": 21063,
+     "sha256": "b512b9710702574bc11d00e1095fa099d875be5ff357b5abedd287df38197baa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 15",
+     "bytes": 62534,
+     "sha256": "6ef405e7a34b0194994c2ab48f1d0bfeb732ff9841c229577b66ab925cdfb5d1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 16",
+     "bytes": 67985,
+     "sha256": "29f6fe5667ae359e7afb04918c83fb8867e548501f131bf6c170fa205e310eae"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 17",
+     "bytes": 42519,
+     "sha256": "c773c21dfac11a0a3e39017f2dff38cea9f60376bca9494caaefe9299877c02c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 18",
+     "bytes": 30311,
+     "sha256": "5bfa71ef9284677c7ca2f9a198d1450df7a307fc1a4f7b2550068f5216a3cfa2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 19",
+     "bytes": 52563,
+     "sha256": "5fdfd600fdba14b3daf3650a511602fdf57182483792f6283e1d03217214ad8a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 2",
+     "bytes": 31834,
+     "sha256": "2a5dd0d6a1484a33b16be341f0eb3e0408d688dd281c57ddbcaafffe39103d2c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 20",
+     "bytes": 30800,
+     "sha256": "09aa3752a3dddcfce67db7eb3e567df5a3644ee4cae41a2b2e923eb996c3a8d8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 21",
+     "bytes": 20858,
+     "sha256": "a24c3933e165151c16fd560a22364951781e508f61bb3b5f9b61b4e778d4df62"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 22",
+     "bytes": 34090,
+     "sha256": "cc8eccf405387e5b1640374ccd36816a53a31e75a67b0ae9523872de5d22ddac"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 23",
+     "bytes": 53744,
+     "sha256": "031a9e0fe66b6fdbc37e9a8056040e3d6405f00b398f1ac4e3398d8d445652c2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 24",
+     "bytes": 20449,
+     "sha256": "011119b971a0a18ffaaa00de34e9bafe957957261c5ebe4f9e29585df216a8a4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 25",
+     "bytes": 23226,
+     "sha256": "bad6e8b0b33a892d97c74760ded28e6edce36fec630a149fdd5c80c963a07f1d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 26",
+     "bytes": 39252,
+     "sha256": "29a387a0d08661251165d684cb6e2e68bf92cbfea3ca0810ff942b109ef2b3e4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 27",
+     "bytes": 26519,
+     "sha256": "b3b14ce2869c5aecfaf567f49d5e94a04fbeab40635b9fd51b88ed1b01ef01ae"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 28",
+     "bytes": 30632,
+     "sha256": "98848eaf4b16a7dd180d6a93d952a2bf777083791eeefbe6ba04a8c7be055a6a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 29",
+     "bytes": 18121,
+     "sha256": "3bd685c9f07bf06faa319c93d51bb83a5b38f9e54f79f16ee7de3b16c5016da2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 3",
+     "bytes": 34214,
+     "sha256": "2d84f87bdbb8124cdd39913260034be396a6ab740f00f09c75a676d3b50cf5f3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 30",
+     "bytes": 28379,
+     "sha256": "e499dbc638e93a79433adde97898cd5eb0c1d9ce8f75eff9c7462f9e3e57bf73"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 31",
+     "bytes": 27955,
+     "sha256": "c9799dd861843c6e2b688175ac90b8d249e90263bc4194674ef3c7ef1e3878f3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 32",
+     "bytes": 46737,
+     "sha256": "35eee0dd1c7912aa79e43ed57902e0fdec25598a1f7b33d69fc4958e651a551f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 33",
+     "bytes": 36673,
+     "sha256": "bda66221100078d2e6650f3fcb1604e51b36dbe59cde8304fed31f72ebaf126d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 34",
+     "bytes": 26820,
+     "sha256": "91654a7c14f3fa5b3ec04dbfc73396fa4df968105ba72057684200aaec0531ec"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 35",
+     "bytes": 33520,
+     "sha256": "d627cdf1538e2e52e79dd6d321fd57211bdd018a37f4ea5dc70860209e67b998"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 36",
+     "bytes": 24948,
+     "sha256": "767d0a87b3940304eaf18c1afb58e7ffc1b17e70c84596f280bc08b0f9c4de73"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 37",
+     "bytes": 40160,
+     "sha256": "f17a72e9a90d790eef0a8a6b9e2b122a172c7a53cd5dbe6833492aa0deab70b1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 38",
+     "bytes": 22987,
+     "sha256": "320d5048d87ab0523af06737c186070b69ea7398796ac57b31c74611d1fbe9a6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 39",
+     "bytes": 19392,
+     "sha256": "ec2f7fab837c6bb8261276fdb9f9def1dd258d62f2a70d6c70ed56b23a648d39"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 4",
+     "bytes": 52787,
+     "sha256": "9da4409074715bcc776b817d67fc0f1e9b515a19e827e9a84cd25867801e56a4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 40",
+     "bytes": 25596,
+     "sha256": "4031d448150d1dec102dd202e02341694d39f19681344557ebcad521d1983ba6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 41",
+     "bytes": 22742,
+     "sha256": "03f8da9fb1333daefe86fde22240173ba47bbbadaef8e05cc06ee1345350db7e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 42",
+     "bytes": 20719,
+     "sha256": "b80b3ec70ea4a6cf2fb19cba2cb2e2a1f62b008d6fca3ed272781f8df5706689"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 43",
+     "bytes": 23282,
+     "sha256": "e2a26e4b276f677de87afe9d0c14a87240c5077229d08aab0089820533d94fc9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 44",
+     "bytes": 30526,
+     "sha256": "7bb1839f0ac0a5870e41e90285776db471f262e57836d16bb5713d8252c61ac0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 45",
+     "bytes": 16295,
+     "sha256": "ff059ea26582763de1b3603c2af134d7e8da69ae2c93a4737dc7556d700671ed"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 46",
+     "bytes": 22552,
+     "sha256": "0245d407d14899bc090b113689c763cbffcdb9dd85ea554cb798b238251afef4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 47",
+     "bytes": 22870,
+     "sha256": "8137895bc1ac11a98019fe8a1d290bddd5ed53907d749e660c65ee9bac2e4fb3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 48",
+     "bytes": 27295,
+     "sha256": "a168302a381a84f35f7ec5f222f42aed8638233e70ffd629dafab2d40423cd69"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 49",
+     "bytes": 30868,
+     "sha256": "eec8fc9861551ab1cd090fef9ef7d4ac22c7c53e70ba2da4b162cb1cb40470c1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 5",
+     "bytes": 28429,
+     "sha256": "13313217cad608c11d83b778d03523937b4c881a68f5376f82cc636326cf6ac4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 50",
+     "bytes": 22747,
+     "sha256": "818ea801b7fad5909b9a81fb1f0aea3b490b92c48997380fe9b019b42700221b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 51",
+     "bytes": 33659,
+     "sha256": "7de25793ef5c1bd19f5dc81f230af5a73d5361150f422d86038a82a5b8f69d95"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 52",
+     "bytes": 67106,
+     "sha256": "5a5df00cd4b9fff20e520d39995233e4214b6405e8daa41d09e5331b87660bce"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 53",
+     "bytes": 33525,
+     "sha256": "4822ac69f216afd4c57f03b180eea50e58dc6ee8bc6ad41264c0be7069ef7e73"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 54",
+     "bytes": 35421,
+     "sha256": "7c50df48e07cac58b500e77cef40f4eb73b7005ad856a25c43f59fae387f5b78"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 55",
+     "bytes": 47512,
+     "sha256": "795ea83dbb6f2d5ef3a101a1158bc0bf08329d1b424528f52b7a38629b4e5848"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 56",
+     "bytes": 40115,
+     "sha256": "2afa354a801255dd7d5b944f7c9c1f05d848cb6017b7d1a760646d1cebd5dcb4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 57",
+     "bytes": 18133,
+     "sha256": "ec58a19ba00176408d8fef6b81d833596a1d873f918bf0c9024ede445a344321"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 58",
+     "bytes": 28744,
+     "sha256": "a1a31c9e1604b7da467ab22122072bf762249d7711bc8e77910d7b3dfd90466b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 59",
+     "bytes": 28847,
+     "sha256": "b830754a3a21b00a7f32c8bdb291a6eb906b47fa82963cde097ed386fe6cf867"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 6",
+     "bytes": 36986,
+     "sha256": "f933148d5385b55cd3f603dbe9075829a72db91b88b53ee04dd40aa36a8e901a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 60",
+     "bytes": 23123,
+     "sha256": "117de2e50e155793f5fa2b857e5429048d5f4653211e4e3d7322bb9a0e33758c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 61",
+     "bytes": 30206,
+     "sha256": "ca314c4ac5bce4787037587fee5d6fb9043371200606f2572b67aee8c97cc7dd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 62",
+     "bytes": 33256,
+     "sha256": "1ecfaf6d1d92e20390495bddcb2c882b6ce46e763020c627d05cffad303c885c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 63",
+     "bytes": 26598,
+     "sha256": "79642746126a4f1013c14ca6697344c756d64b9777c228c6576bb8c7c51cd7b6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 64",
+     "bytes": 26236,
+     "sha256": "f5767da2c3b25ad8d9c7992625ff777bf8ace655b73ef1c403d39716f2c24773"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 65",
+     "bytes": 31500,
+     "sha256": "219e6677239901fff0a2aa7d800e231f01d534190d889e8b910fa50c3b134402"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 66",
+     "bytes": 28178,
+     "sha256": "06f3b1ba6635a5140dc905ac4e156b12830ca1de75444fc37b5e4a16b5c2997f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 67",
+     "bytes": 25541,
+     "sha256": "29c5f3c63fd123ea9246233c0daa8a13bc290005e67e1f551ea76d78038a8433"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 68",
+     "bytes": 21318,
+     "sha256": "60d7440b73f31cab40e7cef3daec52e4f28b99bc5bc4a87efd74b2c14e6e6fd9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 69",
+     "bytes": 23073,
+     "sha256": "37574389f0683a906f55c228c6d687a9ddc9cf365dd8347e1584e013cbed96ad"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 7",
+     "bytes": 35285,
+     "sha256": "9483a8c54c76866ec7e3f0e81a3618a0342773e6b378d6326d78a24fc0fade72"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 70",
+     "bytes": 24227,
+     "sha256": "659ef29d61b5524affc7b64371e7e38d1d2e804cbe518334adf477be87222e0c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 71",
+     "bytes": 27734,
+     "sha256": "5580035411d4b643dbf52a2ed45e3466de284aeae28b262c7e1a729a5ddc0779"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 72",
+     "bytes": 31240,
+     "sha256": "2d9509c1da9bc74adbd915ac65010b75ba9fa6fa4b2eb8cd9f4bff14974abdcc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 73",
+     "bytes": 29882,
+     "sha256": "d3f02aa8f0f21d2b449a1ba58ea2b9f81813860f161dd6df35dbb0babfe56196"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 74",
+     "bytes": 37456,
+     "sha256": "c4b54f4ef1197e194c030167fa10ee8e9a88779aa3c8342ffd950c07dc2fb7da"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 75",
+     "bytes": 47086,
+     "sha256": "28d400fa0bf1d4f3495265ec902bc831f072cb788ed13adf041ff3fd10302eb3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 76",
+     "bytes": 25757,
+     "sha256": "d0982bc78d70147974e18d9d5d1026aeed95fd22331e2bcfcf672e94610129b8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 77",
+     "bytes": 29673,
+     "sha256": "d46b3210d87665604b8498f7fc4fa4f55089a08b13607d6145db39b76cb6ebf0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 78",
+     "bytes": 29617,
+     "sha256": "d520ce60bc59303898363a878abd809421821a94446ac9daafec88e3d33d873c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 79",
+     "bytes": 22029,
+     "sha256": "a210599f5b398b53229ad0885f3190bc865fa17ce5dd8a23c137b23b8de6f923"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 8",
+     "bytes": 24019,
+     "sha256": "a25b5ed4159fd6576e0d9b68b1fd1fb262c299771119c607d770e25b630a5163"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 80",
+     "bytes": 23497,
+     "sha256": "88fa23e3aaf06b01c82b0dd969219527c2a5a10959b79de2af0a455dc4b53dc8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 81",
+     "bytes": 24837,
+     "sha256": "419846599427faa24ee2bb033b74684719105bfefb6ed6a7f23e8659e5a819fa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 82",
+     "bytes": 23455,
+     "sha256": "b559b5e475f40d917eb0599f2c4be2e4a79a04725e5d5258738664fa48121ab9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 83",
+     "bytes": 21219,
+     "sha256": "1f4eb6627a83b0c670fa8f3b6741132e9257e2686f8b646b34e03f326e3252fb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 84",
+     "bytes": 25127,
+     "sha256": "5f1796a762efb8535ef73413e4d667672942854656d57a47cf61944145b67cb8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 85",
+     "bytes": 25856,
+     "sha256": "02b190bb285e5be08d258c3887bed92db01d7bb60c47724a8f83164a6da05d61"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 86",
+     "bytes": 21022,
+     "sha256": "1d069d6b6a784d4c0a319ec26701c43c881baa63efc6f7d919edcbceb1540ec0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Homily 9",
+     "bytes": 33461,
+     "sha256": "cf6e3840c7c9c5b14656d15fc6e1958fcbace362f8353845878ec9b3f2c07d28"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Introductory Essay/Extent and Character of Chrysostom's Exegetical Labors",
+     "bytes": 13048,
+     "sha256": "7559725bbe018df371b50f004ef9fc999285b038beb8a936cabcc63228bf233f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Introductory Essay/Introduction",
+     "bytes": 1901,
+     "sha256": "f959eb19839d9c6ebefa5160f0b6b266fde431a8f4f65db630bfb46f1b95b97c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Introductory Essay/The Place of Chrysostom in the History of Exegesis",
+     "bytes": 11085,
+     "sha256": "1192a944eba26ea4b6954e04ea269d6add1a5a2384e90ba63db37369f1304413"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Preface to the Oxford Edition",
+     "bytes": 4246,
+     "sha256": "3b950363a9ceac7edddf34fb63507151b408858ba0aa4f35682c809cef1b0426"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume X/The Homilies of St. John Chrysostom/Title Page",
+     "bytes": 1307,
+     "sha256": "2c1fd4ae6b6226c28eca1af6c95c3ed7831a8a4c097b900a632cd648a1e5a670"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.front",
+     "title": "1.front",
+     "segments": 9
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.2",
+     "title": "2",
+     "segments": 3
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.3",
+     "title": "3",
+     "segments": 3
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.6",
+     "title": "6",
+     "segments": 4
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.7",
+     "title": "7",
+     "segments": 5
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.8",
+     "title": "8",
+     "segments": 3
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.9",
+     "title": "9",
+     "segments": 3
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.10",
+     "title": "10",
+     "segments": 3
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.11",
+     "title": "11",
+     "segments": 4
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.12",
+     "title": "12",
+     "segments": 6
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.13",
+     "title": "13",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.14",
+     "title": "14",
+     "segments": 7
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.15",
+     "title": "15",
+     "segments": 4
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.16",
+     "title": "16",
+     "segments": 3
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.17",
+     "title": "17",
+     "segments": 8
+    },
+    {
+     "file": "0017.json",
+     "ref": "2.front",
+     "title": "2.front",
+     "segments": 11
+    },
+    {
+     "file": "0018.json",
+     "ref": "2.2",
+     "title": "2",
+     "segments": 3
+    },
+    {
+     "file": "0019.json",
+     "ref": "2.3",
+     "title": "3",
+     "segments": 5
+    },
+    {
+     "file": "0020.json",
+     "ref": "2.4",
+     "title": "4",
+     "segments": 3
+    },
+    {
+     "file": "0021.json",
+     "ref": "2.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "2.6",
+     "title": "6",
+     "segments": 3
+    },
+    {
+     "file": "0023.json",
+     "ref": "2.7",
+     "title": "7",
+     "segments": 7
+    },
+    {
+     "file": "0024.json",
+     "ref": "2.8",
+     "title": "8",
+     "segments": 3
+    },
+    {
+     "file": "0025.json",
+     "ref": "2.9",
+     "title": "9",
+     "segments": 9
+    },
+    {
+     "file": "0026.json",
+     "ref": "2.10",
+     "title": "10",
+     "segments": 6
+    },
+    {
+     "file": "0027.json",
+     "ref": "2.11",
+     "title": "11",
+     "segments": 6
+    },
+    {
+     "file": "0028.json",
+     "ref": "3.front",
+     "title": "3.front",
+     "segments": 9
+    },
+    {
+     "file": "0029.json",
+     "ref": "3.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "3.3",
+     "title": "3",
+     "segments": 5
+    },
+    {
+     "file": "0031.json",
+     "ref": "3.4",
+     "title": "4",
+     "segments": 4
+    },
+    {
+     "file": "0032.json",
+     "ref": "3.5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "3.6",
+     "title": "6",
+     "segments": 5
+    },
+    {
+     "file": "0034.json",
+     "ref": "3.7",
+     "title": "7",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "3.8",
+     "title": "8",
+     "segments": 4
+    },
+    {
+     "file": "0036.json",
+     "ref": "3.9",
+     "title": "9",
+     "segments": 3
+    },
+    {
+     "file": "0037.json",
+     "ref": "4.front",
+     "title": "4.front",
+     "segments": 7
+    },
+    {
+     "file": "0038.json",
+     "ref": "4.2",
+     "title": "2",
+     "segments": 4
+    },
+    {
+     "file": "0039.json",
+     "ref": "4.3",
+     "title": "3",
+     "segments": 3
+    },
+    {
+     "file": "0040.json",
+     "ref": "4.4",
+     "title": "4",
+     "segments": 3
+    },
+    {
+     "file": "0041.json",
+     "ref": "4.5",
+     "title": "5",
+     "segments": 3
+    },
+    {
+     "file": "0042.json",
+     "ref": "4.6",
+     "title": "6",
+     "segments": 3
+    },
+    {
+     "file": "0043.json",
+     "ref": "4.7",
+     "title": "7",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "4.8",
+     "title": "8",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "4.9",
+     "title": "9",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "4.10",
+     "title": "10",
+     "segments": 6
+    },
+    {
+     "file": "0047.json",
+     "ref": "4.12",
+     "title": "12",
+     "segments": 4
+    },
+    {
+     "file": "0048.json",
+     "ref": "4.13",
+     "title": "13",
+     "segments": 6
+    },
+    {
+     "file": "0049.json",
+     "ref": "4.14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "4.15",
+     "title": "15",
+     "segments": 3
+    },
+    {
+     "file": "0051.json",
+     "ref": "4.17",
+     "title": "17",
+     "segments": 3
+    },
+    {
+     "file": "0052.json",
+     "ref": "4.18",
+     "title": "18",
+     "segments": 5
+    },
+    {
+     "file": "0053.json",
+     "ref": "4.19",
+     "title": "19",
+     "segments": 3
+    },
+    {
+     "file": "0054.json",
+     "ref": "4.20",
+     "title": "20",
+     "segments": 4
+    },
+    {
+     "file": "0055.json",
+     "ref": "5.front",
+     "title": "5.front",
+     "segments": 7
+    },
+    {
+     "file": "0056.json",
+     "ref": "5.2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0057.json",
+     "ref": "5.3",
+     "title": "3",
+     "segments": 4
+    },
+    {
+     "file": "0058.json",
+     "ref": "5.4",
+     "title": "4",
+     "segments": 3
+    },
+    {
+     "file": "0059.json",
+     "ref": "5.5",
+     "title": "5",
+     "segments": 4
+    },
+    {
+     "file": "0060.json",
+     "ref": "5.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0061.json",
+     "ref": "5.7",
+     "title": "7",
+     "segments": 6
+    },
+    {
+     "file": "0062.json",
+     "ref": "5.8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0063.json",
+     "ref": "5.9",
+     "title": "9",
+     "segments": 2
+    },
+    {
+     "file": "0064.json",
+     "ref": "6.front",
+     "title": "6.front",
+     "segments": 10
+    },
+    {
+     "file": "0065.json",
+     "ref": "6.2",
+     "title": "2",
+     "segments": 4
+    },
+    {
+     "file": "0066.json",
+     "ref": "6.3",
+     "title": "3",
+     "segments": 5
+    },
+    {
+     "file": "0067.json",
+     "ref": "6.4",
+     "title": "4",
+     "segments": 5
+    },
+    {
+     "file": "0068.json",
+     "ref": "6.5",
+     "title": "5",
+     "segments": 3
+    },
+    {
+     "file": "0069.json",
+     "ref": "6.6",
+     "title": "6",
+     "segments": 4
+    },
+    {
+     "file": "0070.json",
+     "ref": "6.7",
+     "title": "7",
+     "segments": 4
+    },
+    {
+     "file": "0071.json",
+     "ref": "6.9",
+     "title": "9",
+     "segments": 5
+    },
+    {
+     "file": "0072.json",
+     "ref": "6.10",
+     "title": "10",
+     "segments": 7
+    },
+    {
+     "file": "0073.json",
+     "ref": "7.front",
+     "title": "7.front",
+     "segments": 6
+    },
+    {
+     "file": "0074.json",
+     "ref": "7.2",
+     "title": "2",
+     "segments": 9
+    },
+    {
+     "file": "0075.json",
+     "ref": "7.3",
+     "title": "3",
+     "segments": 8
+    },
+    {
+     "file": "0076.json",
+     "ref": "7.4",
+     "title": "4",
+     "segments": 8
+    },
+    {
+     "file": "0077.json",
+     "ref": "7.5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0078.json",
+     "ref": "7.6",
+     "title": "6",
+     "segments": 5
+    },
+    {
+     "file": "0079.json",
+     "ref": "7.7",
+     "title": "7",
+     "segments": 6
+    },
+    {
+     "file": "0080.json",
+     "ref": "7.8",
+     "title": "8",
+     "segments": 4
+    },
+    {
+     "file": "0081.json",
+     "ref": "8.front",
+     "title": "8.front",
+     "segments": 7
+    },
+    {
+     "file": "0082.json",
+     "ref": "8.2",
+     "title": "2",
+     "segments": 4
+    },
+    {
+     "file": "0083.json",
+     "ref": "8.3",
+     "title": "3",
+     "segments": 4
+    },
+    {
+     "file": "0084.json",
+     "ref": "8.4",
+     "title": "4",
+     "segments": 7
+    },
+    {
+     "file": "0085.json",
+     "ref": "8.5",
+     "title": "5",
+     "segments": 4
+    },
+    {
+     "file": "0086.json",
+     "ref": "8.6",
+     "title": "6",
+     "segments": 3
+    },
+    {
+     "file": "0087.json",
+     "ref": "8.7",
+     "title": "7",
+     "segments": 4
+    },
+    {
+     "file": "0088.json",
+     "ref": "9.front",
+     "title": "9.front",
+     "segments": 8
+    },
+    {
+     "file": "0089.json",
+     "ref": "9.2",
+     "title": "2",
+     "segments": 3
+    },
+    {
+     "file": "0090.json",
+     "ref": "9.3",
+     "title": "3",
+     "segments": 3
+    },
+    {
+     "file": "0091.json",
+     "ref": "9.4",
+     "title": "4",
+     "segments": 6
+    },
+    {
+     "file": "0092.json",
+     "ref": "9.5",
+     "title": "5",
+     "segments": 5
+    },
+    {
+     "file": "0093.json",
+     "ref": "9.6",
+     "title": "6",
+     "segments": 4
+    },
+    {
+     "file": "0094.json",
+     "ref": "9.7",
+     "title": "7",
+     "segments": 4
+    },
+    {
+     "file": "0095.json",
+     "ref": "9.8",
+     "title": "8",
+     "segments": 8
+    },
+    {
+     "file": "0096.json",
+     "ref": "10.front",
+     "title": "10.front",
+     "segments": 7
+    },
+    {
+     "file": "0097.json",
+     "ref": "10.2",
+     "title": "2",
+     "segments": 12
+    },
+    {
+     "file": "0098.json",
+     "ref": "10.3",
+     "title": "3",
+     "segments": 5
+    },
+    {
+     "file": "0099.json",
+     "ref": "10.4",
+     "title": "4",
+     "segments": 9
+    },
+    {
+     "file": "0100.json",
+     "ref": "10.5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0101.json",
+     "ref": "10.6",
+     "title": "6",
+     "segments": 4
+    },
+    {
+     "file": "0102.json",
+     "ref": "10.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0103.json",
+     "ref": "10.8",
+     "title": "8",
+     "segments": 3
+    },
+    {
+     "file": "0104.json",
+     "ref": "11.front",
+     "title": "11.front",
+     "segments": 8
+    },
+    {
+     "file": "0105.json",
+     "ref": "11.2",
+     "title": "2",
+     "segments": 6
+    },
+    {
+     "file": "0106.json",
+     "ref": "11.3",
+     "title": "3",
+     "segments": 8
+    },
+    {
+     "file": "0107.json",
+     "ref": "11.4",
+     "title": "4",
+     "segments": 6
+    },
+    {
+     "file": "0108.json",
+     "ref": "11.5",
+     "title": "5",
+     "segments": 3
+    },
+    {
+     "file": "0109.json",
+     "ref": "11.6",
+     "title": "6",
+     "segments": 6
+    },
+    {
+     "file": "0110.json",
+     "ref": "11.7",
+     "title": "7",
+     "segments": 8
+    },
+    {
+     "file": "0111.json",
+     "ref": "11.8",
+     "title": "8",
+     "segments": 2
+    },
+    {
+     "file": "0112.json",
+     "ref": "11.9",
+     "title": "9",
+     "segments": 5
+    },
+    {
+     "file": "0113.json",
+     "ref": "11.10",
+     "title": "10",
+     "segments": 8
+    },
+    {
+     "file": "0114.json",
+     "ref": "12.front",
+     "title": "12.front",
+     "segments": 10
+    },
+    {
+     "file": "0115.json",
+     "ref": "12.2",
+     "title": "2",
+     "segments": 6
+    },
+    {
+     "file": "0116.json",
+     "ref": "12.3",
+     "title": "3",
+     "segments": 7
+    },
+    {
+     "file": "0117.json",
+     "ref": "12.4",
+     "title": "4",
+     "segments": 6
+    },
+    {
+     "file": "0118.json",
+     "ref": "12.5",
+     "title": "5",
+     "segments": 5
+    },
+    {
+     "file": "0119.json",
+     "ref": "13.front",
+     "title": "13.front",
+     "segments": 8
+    },
+    {
+     "file": "0120.json",
+     "ref": "13.2",
+     "title": "2",
+     "segments": 5
+    },
+    {
+     "file": "0121.json",
+     "ref": "13.3",
+     "title": "3",
+     "segments": 9
+    },
+    {
+     "file": "0122.json",
+     "ref": "13.4",
+     "title": "4",
+     "segments": 7
+    },
+    {
+     "file": "0123.json",
+     "ref": "13.5",
+     "title": "5",
+     "segments": 6
+    },
+    {
+     "file": "0124.json",
+     "ref": "13.6",
+     "title": "6",
+     "segments": 5
+    },
+    {
+     "file": "0125.json",
+     "ref": "13.7",
+     "title": "7",
+     "segments": 5
+    },
+    {
+     "file": "0126.json",
+     "ref": "13.8",
+     "title": "8",
+     "segments": 6
+    },
+    {
+     "file": "0127.json",
+     "ref": "13.9",
+     "title": "9",
+     "segments": 7
+    },
+    {
+     "file": "0128.json",
+     "ref": "14.front",
+     "title": "14.front",
+     "segments": 3
+    },
+    {
+     "file": "0129.json",
+     "ref": "14.1",
+     "title": "1",
+     "segments": 4
+    },
+    {
+     "file": "0130.json",
+     "ref": "14.2",
+     "title": "2",
+     "segments": 5
+    },
+    {
+     "file": "0131.json",
+     "ref": "14.3",
+     "title": "3",
+     "segments": 7
+    },
+    {
+     "file": "0132.json",
+     "ref": "14.4",
+     "title": "4",
+     "segments": 8
+    },
+    {
+     "file": "0133.json",
+     "ref": "14.5",
+     "title": "5",
+     "segments": 9
+    },
+    {
+     "file": "0134.json",
+     "ref": "14.6",
+     "title": "6",
+     "segments": 3
+    },
+    {
+     "file": "0135.json",
+     "ref": "15.front",
+     "title": "15.front",
+     "segments": 9
+    },
+    {
+     "file": "0136.json",
+     "ref": "15.2",
+     "title": "2",
+     "segments": 7
+    },
+    {
+     "file": "0137.json",
+     "ref": "15.3",
+     "title": "3",
+     "segments": 4
+    },
+    {
+     "file": "0138.json",
+     "ref": "15.4",
+     "title": "4",
+     "segments": 8
+    },
+    {
+     "file": "0139.json",
+     "ref": "15.5",
+     "title": "5",
+     "segments": 8
+    },
+    {
+     "file": "0140.json",
+     "ref": "15.6",
+     "title": "6",
+     "segments": 11
+    },
+    {
+     "file": "0141.json",
+     "ref": "15.7",
+     "title": "7",
+     "segments": 13
+    },
+    {
+     "file": "0142.json",
+     "ref": "15.8",
+     "title": "8",
+     "segments": 8
+    },
+    {
+     "file": "0143.json",
+     "ref": "15.9",
+     "title": "9",
+     "segments": 6
+    },
+    {
+     "file": "0144.json",
+     "ref": "15.10",
+     "title": "10",
+     "segments": 8
+    },
+    {
+     "file": "0145.json",
+     "ref": "15.11",
+     "title": "11",
+     "segments": 15
+    },
+    {
+     "file": "0146.json",
+     "ref": "15.12",
+     "title": "12",
+     "segments": 11
+    },
+    {
+     "file": "0147.json",
+     "ref": "15.13",
+     "title": "13",
+     "segments": 4
+    },
+    {
+     "file": "0148.json",
+     "ref": "15.14",
+     "title": "14",
+     "segments": 12
+    },
+    {
+     "file": "0149.json",
+     "ref": "15.15",
+     "title": "15",
+     "segments": 3
+    },
+    {
+     "file": "0150.json",
+     "ref": "15.16",
+     "title": "16",
+     "segments": 2
+    },
+    {
+     "file": "0151.json",
+     "ref": "16.front",
+     "title": "16.front",
+     "segments": 7
+    },
+    {
+     "file": "0152.json",
+     "ref": "16.2",
+     "title": "2",
+     "segments": 9
+    },
+    {
+     "file": "0153.json",
+     "ref": "16.3",
+     "title": "3",
+     "segments": 6
+    },
+    {
+     "file": "0154.json",
+     "ref": "16.4",
+     "title": "4",
+     "segments": 10
+    },
+    {
+     "file": "0155.json",
+     "ref": "16.5",
+     "title": "5",
+     "segments": 10
+    },
+    {
+     "file": "0156.json",
+     "ref": "16.6",
+     "title": "6",
+     "segments": 9
+    },
+    {
+     "file": "0157.json",
+     "ref": "16.7",
+     "title": "7",
+     "segments": 9
+    },
+    {
+     "file": "0158.json",
+     "ref": "16.8",
+     "title": "8",
+     "segments": 14
+    },
+    {
+     "file": "0159.json",
+     "ref": "16.9",
+     "title": "9",
+     "segments": 4
+    },
+    {
+     "file": "0160.json",
+     "ref": "16.10",
+     "title": "10",
+     "segments": 6
+    },
+    {
+     "file": "0161.json",
+     "ref": "16.11",
+     "title": "11",
+     "segments": 5
+    },
+    {
+     "file": "0162.json",
+     "ref": "16.12",
+     "title": "12",
+     "segments": 13
+    },
+    {
+     "file": "0163.json",
+     "ref": "16.13",
+     "title": "13",
+     "segments": 8
+    },
+    {
+     "file": "0164.json",
+     "ref": "16.14",
+     "title": "14",
+     "segments": 6
+    },
+    {
+     "file": "0165.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 83
+    },
+    {
+     "file": "0166.json",
+     "ref": "18.front",
+     "title": "18.front",
+     "segments": 13
+    },
+    {
+     "file": "0167.json",
+     "ref": "18.2",
+     "title": "2",
+     "segments": 7
+    },
+    {
+     "file": "0168.json",
+     "ref": "18.3",
+     "title": "3",
+     "segments": 11
+    },
+    {
+     "file": "0169.json",
+     "ref": "18.4",
+     "title": "4",
+     "segments": 6
+    },
+    {
+     "file": "0170.json",
+     "ref": "18.5",
+     "title": "5",
+     "segments": 4
+    },
+    {
+     "file": "0171.json",
+     "ref": "18.6",
+     "title": "6",
+     "segments": 5
+    },
+    {
+     "file": "0172.json",
+     "ref": "18.9",
+     "title": "9",
+     "segments": 9
+    },
+    {
+     "file": "0173.json",
+     "ref": "18.10",
+     "title": "10",
+     "segments": 3
+    },
+    {
+     "file": "0174.json",
+     "ref": "18.11",
+     "title": "11",
+     "segments": 5
+    },
+    {
+     "file": "0175.json",
+     "ref": "19.front",
+     "title": "19.front",
+     "segments": 9
+    },
+    {
+     "file": "0176.json",
+     "ref": "19.2",
+     "title": "2",
+     "segments": 16
+    },
+    {
+     "file": "0177.json",
+     "ref": "19.3",
+     "title": "3",
+     "segments": 7
+    },
+    {
+     "file": "0178.json",
+     "ref": "19.4",
+     "title": "4",
+     "segments": 7
+    },
+    {
+     "file": "0179.json",
+     "ref": "19.5",
+     "title": "5",
+     "segments": 8
+    },
+    {
+     "file": "0180.json",
+     "ref": "19.6",
+     "title": "6",
+     "segments": 3
+    },
+    {
+     "file": "0181.json",
+     "ref": "19.7",
+     "title": "7",
+     "segments": 9
+    },
+    {
+     "file": "0182.json",
+     "ref": "19.8",
+     "title": "8",
+     "segments": 5
+    },
+    {
+     "file": "0183.json",
+     "ref": "19.9",
+     "title": "9",
+     "segments": 10
+    },
+    {
+     "file": "0184.json",
+     "ref": "19.10",
+     "title": "10",
+     "segments": 7
+    },
+    {
+     "file": "0185.json",
+     "ref": "19.11",
+     "title": "11",
+     "segments": 16
+    },
+    {
+     "file": "0186.json",
+     "ref": "19.12",
+     "title": "12",
+     "segments": 9
+    },
+    {
+     "file": "0187.json",
+     "ref": "20.front",
+     "title": "20.front",
+     "segments": 13
+    },
+    {
+     "file": "0188.json",
+     "ref": "20.2",
+     "title": "2",
+     "segments": 12
+    },
+    {
+     "file": "0189.json",
+     "ref": "20.3",
+     "title": "3",
+     "segments": 13
+    },
+    {
+     "file": "0190.json",
+     "ref": "20.4",
+     "title": "4",
+     "segments": 7
+    },
+    {
+     "file": "0191.json",
+     "ref": "20.5",
+     "title": "5",
+     "segments": 3
+    },
+    {
+     "file": "0192.json",
+     "ref": "20.6",
+     "title": "6",
+     "segments": 6
+    },
+    {
+     "file": "0193.json",
+     "ref": "21.front",
+     "title": "21.front",
+     "segments": 10
+    },
+    {
+     "file": "0194.json",
+     "ref": "21.2",
+     "title": "2",
+     "segments": 3
+    },
+    {
+     "file": "0195.json",
+     "ref": "21.3",
+     "title": "3",
+     "segments": 11
+    },
+    {
+     "file": "0196.json",
+     "ref": "21.4",
+     "title": "4",
+     "segments": 5
+    },
+    {
+     "file": "0197.json",
+     "ref": "21.5",
+     "title": "5",
+     "segments": 6
+    },
+    {
+     "file": "0198.json",
+     "ref": "21.6",
+     "title": "6",
+     "segments": 4
+    },
+    {
+     "file": "0199.json",
+     "ref": "22.front",
+     "title": "22.front",
+     "segments": 13
+    },
+    {
+     "file": "0200.json",
+     "ref": "22.2",
+     "title": "2",
+     "segments": 6
+    },
+    {
+     "file": "0201.json",
+     "ref": "22.3",
+     "title": "3",
+     "segments": 6
+    },
+    {
+     "file": "0202.json",
+     "ref": "22.4",
+     "title": "4",
+     "segments": 7
+    },
+    {
+     "file": "0203.json",
+     "ref": "22.5",
+     "title": "5",
+     "segments": 7
+    },
+    {
+     "file": "0204.json",
+     "ref": "22.6",
+     "title": "6",
+     "segments": 4
+    },
+    {
+     "file": "0205.json",
+     "ref": "22.7",
+     "title": "7",
+     "segments": 4
+    },
+    {
+     "file": "0206.json",
+     "ref": "22.8",
+     "title": "8",
+     "segments": 3
+    },
+    {
+     "file": "0207.json",
+     "ref": "23.front",
+     "title": "23.front",
+     "segments": 12
+    },
+    {
+     "file": "0208.json",
+     "ref": "23.2",
+     "title": "2",
+     "segments": 16
+    },
+    {
+     "file": "0209.json",
+     "ref": "23.3",
+     "title": "3",
+     "segments": 9
+    },
+    {
+     "file": "0210.json",
+     "ref": "23.4",
+     "title": "4",
+     "segments": 5
+    },
+    {
+     "file": "0211.json",
+     "ref": "23.5",
+     "title": "5",
+     "segments": 12
+    },
+    {
+     "file": "0212.json",
+     "ref": "23.6",
+     "title": "6",
+     "segments": 7
+    },
+    {
+     "file": "0213.json",
+     "ref": "23.7",
+     "title": "7",
+     "segments": 9
+    },
+    {
+     "file": "0214.json",
+     "ref": "23.8",
+     "title": "8",
+     "segments": 16
+    },
+    {
+     "file": "0215.json",
+     "ref": "23.9",
+     "title": "9",
+     "segments": 14
+    },
+    {
+     "file": "0216.json",
+     "ref": "23.10",
+     "title": "10",
+     "segments": 4
+    },
+    {
+     "file": "0217.json",
+     "ref": "23.11",
+     "title": "11",
+     "segments": 2
+    },
+    {
+     "file": "0218.json",
+     "ref": "23.12",
+     "title": "12",
+     "segments": 5
+    },
+    {
+     "file": "0219.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 31
+    },
+    {
+     "file": "0220.json",
+     "ref": "25.front",
+     "title": "25.front",
+     "segments": 8
+    },
+    {
+     "file": "0221.json",
+     "ref": "25.2",
+     "title": "2",
+     "segments": 7
+    },
+    {
+     "file": "0222.json",
+     "ref": "25.3",
+     "title": "3",
+     "segments": 10
+    },
+    {
+     "file": "0223.json",
+     "ref": "25.4",
+     "title": "4",
+     "segments": 11
+    },
+    {
+     "file": "0224.json",
+     "ref": "25.5",
+     "title": "5",
+     "segments": 6
+    },
+    {
+     "file": "0225.json",
+     "ref": "26.front",
+     "title": "26.front",
+     "segments": 10
+    },
+    {
+     "file": "0226.json",
+     "ref": "26.2",
+     "title": "2",
+     "segments": 14
+    },
+    {
+     "file": "0227.json",
+     "ref": "26.4",
+     "title": "4",
+     "segments": 9
+    },
+    {
+     "file": "0228.json",
+     "ref": "26.5",
+     "title": "5",
+     "segments": 6
+    },
+    {
+     "file": "0229.json",
+     "ref": "26.6",
+     "title": "6",
+     "segments": 5
+    },
+    {
+     "file": "0230.json",
+     "ref": "26.7",
+     "title": "7",
+     "segments": 3
+    },
+    {
+     "file": "0231.json",
+     "ref": "26.8",
+     "title": "8",
+     "segments": 6
+    },
+    {
+     "file": "0232.json",
+     "ref": "26.9",
+     "title": "9",
+     "segments": 11
+    },
+    {
+     "file": "0233.json",
+     "ref": "26.10",
+     "title": "10",
+     "segments": 3
+    },
+    {
+     "file": "0234.json",
+     "ref": "27.front",
+     "title": "27.front",
+     "segments": 14
+    },
+    {
+     "file": "0235.json",
+     "ref": "27.2",
+     "title": "2",
+     "segments": 4
+    },
+    {
+     "file": "0236.json",
+     "ref": "27.3",
+     "title": "3",
+     "segments": 7
+    },
+    {
+     "file": "0237.json",
+     "ref": "27.4",
+     "title": "4",
+     "segments": 7
+    },
+    {
+     "file": "0238.json",
+     "ref": "27.5",
+     "title": "5",
+     "segments": 5
+    },
+    {
+     "file": "0239.json",
+     "ref": "27.6",
+     "title": "6",
+     "segments": 9
+    },
+    {
+     "file": "0240.json",
+     "ref": "27.7",
+     "title": "7",
+     "segments": 11
+    },
+    {
+     "file": "0241.json",
+     "ref": "28.front",
+     "title": "28.front",
+     "segments": 18
+    },
+    {
+     "file": "0242.json",
+     "ref": "28.2",
+     "title": "2",
+     "segments": 7
+    },
+    {
+     "file": "0243.json",
+     "ref": "28.3",
+     "title": "3",
+     "segments": 5
+    },
+    {
+     "file": "0244.json",
+     "ref": "28.4",
+     "title": "4",
+     "segments": 7
+    },
+    {
+     "file": "0245.json",
+     "ref": "28.5",
+     "title": "5",
+     "segments": 8
+    },
+    {
+     "file": "0246.json",
+     "ref": "28.6",
+     "title": "6",
+     "segments": 4
+    },
+    {
+     "file": "0247.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 37
+    },
+    {
+     "file": "0248.json",
+     "ref": "30.front",
+     "title": "30.front",
+     "segments": 12
+    },
+    {
+     "file": "0249.json",
+     "ref": "30.2",
+     "title": "2",
+     "segments": 7
+    },
+    {
+     "file": "0250.json",
+     "ref": "30.3",
+     "title": "3",
+     "segments": 15
+    },
+    {
+     "file": "0251.json",
+     "ref": "30.4",
+     "title": "4",
+     "segments": 12
+    },
+    {
+     "file": "0252.json",
+     "ref": "30.5",
+     "title": "5",
+     "segments": 17
+    },
+    {
+     "file": "0253.json",
+     "ref": "31.front",
+     "title": "31.front",
+     "segments": 8
+    },
+    {
+     "file": "0254.json",
+     "ref": "31.2",
+     "title": "2",
+     "segments": 12
+    },
+    {
+     "file": "0255.json",
+     "ref": "31.3",
+     "title": "3",
+     "segments": 8
+    },
+    {
+     "file": "0256.json",
+     "ref": "31.4",
+     "title": "4",
+     "segments": 5
+    },
+    {
+     "file": "0257.json",
+     "ref": "31.5",
+     "title": "5",
+     "segments": 8
+    },
+    {
+     "file": "0258.json",
+     "ref": "31.6",
+     "title": "6",
+     "segments": 11
+    },
+    {
+     "file": "0259.json",
+     "ref": "32.front",
+     "title": "32.front",
+     "segments": 15
+    },
+    {
+     "file": "0260.json",
+     "ref": "32.2",
+     "title": "2",
+     "segments": 10
+    },
+    {
+     "file": "0261.json",
+     "ref": "32.3",
+     "title": "3",
+     "segments": 3
+    },
+    {
+     "file": "0262.json",
+     "ref": "32.4",
+     "title": "4",
+     "segments": 14
+    },
+    {
+     "file": "0263.json",
+     "ref": "32.5",
+     "title": "5",
+     "segments": 19
+    },
+    {
+     "file": "0264.json",
+     "ref": "32.6",
+     "title": "6",
+     "segments": 7
+    },
+    {
+     "file": "0265.json",
+     "ref": "32.7",
+     "title": "7",
+     "segments": 9
+    },
+    {
+     "file": "0266.json",
+     "ref": "32.8",
+     "title": "8",
+     "segments": 15
+    },
+    {
+     "file": "0267.json",
+     "ref": "32.9",
+     "title": "9",
+     "segments": 9
+    },
+    {
+     "file": "0268.json",
+     "ref": "32.10",
+     "title": "10",
+     "segments": 8
+    },
+    {
+     "file": "0269.json",
+     "ref": "32.11",
+     "title": "11",
+     "segments": 9
+    },
+    {
+     "file": "0270.json",
+     "ref": "33.front",
+     "title": "33.front",
+     "segments": 8
+    },
+    {
+     "file": "0271.json",
+     "ref": "33.2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0272.json",
+     "ref": "33.3",
+     "title": "3",
+     "segments": 10
+    },
+    {
+     "file": "0273.json",
+     "ref": "33.4",
+     "title": "4",
+     "segments": 14
+    },
+    {
+     "file": "0274.json",
+     "ref": "33.5",
+     "title": "5",
+     "segments": 11
+    },
+    {
+     "file": "0275.json",
+     "ref": "33.6",
+     "title": "6",
+     "segments": 4
+    },
+    {
+     "file": "0276.json",
+     "ref": "33.7",
+     "title": "7",
+     "segments": 10
+    },
+    {
+     "file": "0277.json",
+     "ref": "33.8",
+     "title": "8",
+     "segments": 8
+    },
+    {
+     "file": "0278.json",
+     "ref": "34.front",
+     "title": "34.front",
+     "segments": 14
+    },
+    {
+     "file": "0279.json",
+     "ref": "34.2",
+     "title": "2",
+     "segments": 8
+    },
+    {
+     "file": "0280.json",
+     "ref": "34.3",
+     "title": "3",
+     "segments": 13
+    },
+    {
+     "file": "0281.json",
+     "ref": "34.4",
+     "title": "4",
+     "segments": 6
+    },
+    {
+     "file": "0282.json",
+     "ref": "34.5",
+     "title": "5",
+     "segments": 4
+    },
+    {
+     "file": "0283.json",
+     "ref": "35.front",
+     "title": "35.front",
+     "segments": 8
+    },
+    {
+     "file": "0284.json",
+     "ref": "35.2",
+     "title": "2",
+     "segments": 8
+    },
+    {
+     "file": "0285.json",
+     "ref": "35.3",
+     "title": "3",
+     "segments": 9
+    },
+    {
+     "file": "0286.json",
+     "ref": "35.4",
+     "title": "4",
+     "segments": 11
+    },
+    {
+     "file": "0287.json",
+     "ref": "35.5",
+     "title": "5",
+     "segments": 8
+    },
+    {
+     "file": "0288.json",
+     "ref": "35.6",
+     "title": "6",
+     "segments": 9
+    },
+    {
+     "file": "0289.json",
+     "ref": "35.7",
+     "title": "7",
+     "segments": 8
+    },
+    {
+     "file": "0290.json",
+     "ref": "36.front",
+     "title": "36.front",
+     "segments": 10
+    },
+    {
+     "file": "0291.json",
+     "ref": "36.2",
+     "title": "2",
+     "segments": 7
+    },
+    {
+     "file": "0292.json",
+     "ref": "36.3",
+     "title": "3",
+     "segments": 11
+    },
+    {
+     "file": "0293.json",
+     "ref": "36.4",
+     "title": "4",
+     "segments": 7
+    },
+    {
+     "file": "0294.json",
+     "ref": "37.front",
+     "title": "37.front",
+     "segments": 11
+    },
+    {
+     "file": "0295.json",
+     "ref": "37.2",
+     "title": "2",
+     "segments": 4
+    },
+    {
+     "file": "0296.json",
+     "ref": "37.3",
+     "title": "3",
+     "segments": 8
+    },
+    {
+     "file": "0297.json",
+     "ref": "37.4",
+     "title": "4",
+     "segments": 8
+    },
+    {
+     "file": "0298.json",
+     "ref": "37.5",
+     "title": "5",
+     "segments": 10
+    },
+    {
+     "file": "0299.json",
+     "ref": "37.6",
+     "title": "6",
+     "segments": 6
+    },
+    {
+     "file": "0300.json",
+     "ref": "37.7",
+     "title": "7",
+     "segments": 6
+    },
+    {
+     "file": "0301.json",
+     "ref": "37.8",
+     "title": "8",
+     "segments": 8
+    },
+    {
+     "file": "0302.json",
+     "ref": "37.9",
+     "title": "9",
+     "segments": 7
+    },
+    {
+     "file": "0303.json",
+     "ref": "38.front",
+     "title": "38.front",
+     "segments": 16
+    },
+    {
+     "file": "0304.json",
+     "ref": "38.2",
+     "title": "2",
+     "segments": 4
+    },
+    {
+     "file": "0305.json",
+     "ref": "38.3",
+     "title": "3",
+     "segments": 11
+    },
+    {
+     "file": "0306.json",
+     "ref": "38.4",
+     "title": "4",
+     "segments": 6
+    },
+    {
+     "file": "0307.json",
+     "ref": "38.5",
+     "title": "5",
+     "segments": 6
+    },
+    {
+     "file": "0308.json",
+     "ref": "39.front",
+     "title": "39.front",
+     "segments": 17
+    },
+    {
+     "file": "0309.json",
+     "ref": "39.2",
+     "title": "2",
+     "segments": 11
+    },
+    {
+     "file": "0310.json",
+     "ref": "39.3",
+     "title": "3",
+     "segments": 5
+    },
+    {
+     "file": "0311.json",
+     "ref": "39.4",
+     "title": "4",
+     "segments": 12
+    },
+    {
+     "file": "0312.json",
+     "ref": "40.front",
+     "title": "40.front",
+     "segments": 15
+    },
+    {
+     "file": "0313.json",
+     "ref": "40.2",
+     "title": "2",
+     "segments": 14
+    },
+    {
+     "file": "0314.json",
+     "ref": "40.3",
+     "title": "3",
+     "segments": 6
+    },
+    {
+     "file": "0315.json",
+     "ref": "40.4",
+     "title": "4",
+     "segments": 6
+    },
+    {
+     "file": "0316.json",
+     "ref": "40.5",
+     "title": "5",
+     "segments": 13
+    },
+    {
+     "file": "0317.json",
+     "ref": "41.front",
+     "title": "41.front",
+     "segments": 12
+    },
+    {
+     "file": "0318.json",
+     "ref": "41.2",
+     "title": "2",
+     "segments": 10
+    },
+    {
+     "file": "0319.json",
+     "ref": "41.3",
+     "title": "3",
+     "segments": 6
+    },
+    {
+     "file": "0320.json",
+     "ref": "41.4",
+     "title": "4",
+     "segments": 6
+    },
+    {
+     "file": "0321.json",
+     "ref": "41.5",
+     "title": "5",
+     "segments": 9
+    },
+    {
+     "file": "0322.json",
+     "ref": "41.6",
+     "title": "6",
+     "segments": 6
+    },
+    {
+     "file": "0323.json",
+     "ref": "42.front",
+     "title": "42.front",
+     "segments": 23
+    },
+    {
+     "file": "0324.json",
+     "ref": "42.2",
+     "title": "2",
+     "segments": 9
+    },
+    {
+     "file": "0325.json",
+     "ref": "42.3",
+     "title": "3",
+     "segments": 4
+    },
+    {
+     "file": "0326.json",
+     "ref": "42.4",
+     "title": "4",
+     "segments": 7
+    },
+    {
+     "file": "0327.json",
+     "ref": "43.front",
+     "title": "43.front",
+     "segments": 12
+    },
+    {
+     "file": "0328.json",
+     "ref": "43.2",
+     "title": "2",
+     "segments": 7
+    },
+    {
+     "file": "0329.json",
+     "ref": "43.3",
+     "title": "3",
+     "segments": 5
+    },
+    {
+     "file": "0330.json",
+     "ref": "43.5",
+     "title": "5",
+     "segments": 8
+    },
+    {
+     "file": "0331.json",
+     "ref": "43.6",
+     "title": "6",
+     "segments": 3
+    },
+    {
+     "file": "0332.json",
+     "ref": "43.7",
+     "title": "7",
+     "segments": 8
+    },
+    {
+     "file": "0333.json",
+     "ref": "44.front",
+     "title": "44.front",
+     "segments": 12
+    },
+    {
+     "file": "0334.json",
+     "ref": "44.2",
+     "title": "2",
+     "segments": 5
+    },
+    {
+     "file": "0335.json",
+     "ref": "44.3",
+     "title": "3",
+     "segments": 8
+    },
+    {
+     "file": "0336.json",
+     "ref": "44.4",
+     "title": "4",
+     "segments": 11
+    },
+    {
+     "file": "0337.json",
+     "ref": "44.5",
+     "title": "5",
+     "segments": 6
+    },
+    {
+     "file": "0338.json",
+     "ref": "44.6",
+     "title": "6",
+     "segments": 9
+    },
+    {
+     "file": "0339.json",
+     "ref": "44.7",
+     "title": "7",
+     "segments": 7
+    },
+    {
+     "file": "0340.json",
+     "ref": "45",
+     "title": "45",
+     "segments": 33
+    },
+    {
+     "file": "0341.json",
+     "ref": "46.front",
+     "title": "46.front",
+     "segments": 22
+    },
+    {
+     "file": "0342.json",
+     "ref": "46.2",
+     "title": "2",
+     "segments": 12
+    },
+    {
+     "file": "0343.json",
+     "ref": "46.3",
+     "title": "3",
+     "segments": 8
+    },
+    {
+     "file": "0344.json",
+     "ref": "46.4",
+     "title": "4",
+     "segments": 5
+    },
+    {
+     "file": "0345.json",
+     "ref": "47.front",
+     "title": "47.front",
+     "segments": 20
+    },
+    {
+     "file": "0346.json",
+     "ref": "47.2",
+     "title": "2",
+     "segments": 8
+    },
+    {
+     "file": "0347.json",
+     "ref": "47.3",
+     "title": "3",
+     "segments": 6
+    },
+    {
+     "file": "0348.json",
+     "ref": "47.4",
+     "title": "4",
+     "segments": 12
+    },
+    {
+     "file": "0349.json",
+     "ref": "47.5",
+     "title": "5",
+     "segments": 9
+    },
+    {
+     "file": "0350.json",
+     "ref": "48.front",
+     "title": "48.front",
+     "segments": 16
+    },
+    {
+     "file": "0351.json",
+     "ref": "48.2",
+     "title": "2",
+     "segments": 13
+    },
+    {
+     "file": "0352.json",
+     "ref": "48.4",
+     "title": "4",
+     "segments": 14
+    },
+    {
+     "file": "0353.json",
+     "ref": "48.8",
+     "title": "8",
+     "segments": 7
+    },
+    {
+     "file": "0354.json",
+     "ref": "48.9",
+     "title": "9",
+     "segments": 6
+    },
+    {
+     "file": "0355.json",
+     "ref": "48.10",
+     "title": "10",
+     "segments": 9
+    },
+    {
+     "file": "0356.json",
+     "ref": "49.front",
+     "title": "49.front",
+     "segments": 19
+    },
+    {
+     "file": "0357.json",
+     "ref": "49.2",
+     "title": "2",
+     "segments": 12
+    },
+    {
+     "file": "0358.json",
+     "ref": "49.3",
+     "title": "3",
+     "segments": 16
+    },
+    {
+     "file": "0359.json",
+     "ref": "49.4",
+     "title": "4",
+     "segments": 9
+    },
+    {
+     "file": "0360.json",
+     "ref": "49.5",
+     "title": "5",
+     "segments": 10
+    },
+    {
+     "file": "0361.json",
+     "ref": "49.7",
+     "title": "7",
+     "segments": 10
+    },
+    {
+     "file": "0362.json",
+     "ref": "49.8",
+     "title": "8",
+     "segments": 8
+    },
+    {
+     "file": "0363.json",
+     "ref": "50.front",
+     "title": "50.front",
+     "segments": 13
+    },
+    {
+     "file": "0364.json",
+     "ref": "50.2",
+     "title": "2",
+     "segments": 21
+    },
+    {
+     "file": "0365.json",
+     "ref": "50.3",
+     "title": "3",
+     "segments": 9
+    },
+    {
+     "file": "0366.json",
+     "ref": "50.4",
+     "title": "4",
+     "segments": 9
+    },
+    {
+     "file": "0367.json",
+     "ref": "50.5",
+     "title": "5",
+     "segments": 5
+    },
+    {
+     "file": "0368.json",
+     "ref": "51.front",
+     "title": "51.front",
+     "segments": 9
+    },
+    {
+     "file": "0369.json",
+     "ref": "51.2",
+     "title": "2",
+     "segments": 14
+    },
+    {
+     "file": "0370.json",
+     "ref": "51.3",
+     "title": "3",
+     "segments": 11
+    },
+    {
+     "file": "0371.json",
+     "ref": "51.4",
+     "title": "4",
+     "segments": 18
+    },
+    {
+     "file": "0372.json",
+     "ref": "51.5",
+     "title": "5",
+     "segments": 10
+    },
+    {
+     "file": "0373.json",
+     "ref": "51.6",
+     "title": "6",
+     "segments": 8
+    },
+    {
+     "file": "0374.json",
+     "ref": "52",
+     "title": "52",
+     "segments": 169
+    },
+    {
+     "file": "0375.json",
+     "ref": "53.front",
+     "title": "53.front",
+     "segments": 11
+    },
+    {
+     "file": "0376.json",
+     "ref": "53.2",
+     "title": "2",
+     "segments": 11
+    },
+    {
+     "file": "0377.json",
+     "ref": "53.3",
+     "title": "3",
+     "segments": 5
+    },
+    {
+     "file": "0378.json",
+     "ref": "53.4",
+     "title": "4",
+     "segments": 9
+    },
+    {
+     "file": "0379.json",
+     "ref": "53.5",
+     "title": "5",
+     "segments": 5
+    },
+    {
+     "file": "0380.json",
+     "ref": "53.6",
+     "title": "6",
+     "segments": 5
+    },
+    {
+     "file": "0381.json",
+     "ref": "53.7",
+     "title": "7",
+     "segments": 13
+    },
+    {
+     "file": "0382.json",
+     "ref": "53.8",
+     "title": "8",
+     "segments": 19
+    },
+    {
+     "file": "0383.json",
+     "ref": "54.front",
+     "title": "54.front",
+     "segments": 7
+    },
+    {
+     "file": "0384.json",
+     "ref": "54.2",
+     "title": "2",
+     "segments": 7
+    },
+    {
+     "file": "0385.json",
+     "ref": "54.3",
+     "title": "3",
+     "segments": 8
+    },
+    {
+     "file": "0386.json",
+     "ref": "54.4",
+     "title": "4",
+     "segments": 5
+    },
+    {
+     "file": "0387.json",
+     "ref": "54.5",
+     "title": "5",
+     "segments": 14
+    },
+    {
+     "file": "0388.json",
+     "ref": "54.6",
+     "title": "6",
+     "segments": 4
+    },
+    {
+     "file": "0389.json",
+     "ref": "54.7",
+     "title": "7",
+     "segments": 8
+    },
+    {
+     "file": "0390.json",
+     "ref": "54.8",
+     "title": "8",
+     "segments": 10
+    },
+    {
+     "file": "0391.json",
+     "ref": "54.9",
+     "title": "9",
+     "segments": 16
+    },
+    {
+     "file": "0392.json",
+     "ref": "55",
+     "title": "55",
+     "segments": 90
+    },
+    {
+     "file": "0393.json",
+     "ref": "56.front",
+     "title": "56.front",
+     "segments": 12
+    },
+    {
+     "file": "0394.json",
+     "ref": "56.2",
+     "title": "2",
+     "segments": 8
+    },
+    {
+     "file": "0395.json",
+     "ref": "56.3",
+     "title": "3",
+     "segments": 13
+    },
+    {
+     "file": "0396.json",
+     "ref": "56.4",
+     "title": "4",
+     "segments": 16
+    },
+    {
+     "file": "0397.json",
+     "ref": "56.5",
+     "title": "5",
+     "segments": 9
+    },
+    {
+     "file": "0398.json",
+     "ref": "56.6",
+     "title": "6",
+     "segments": 9
+    },
+    {
+     "file": "0399.json",
+     "ref": "56.7",
+     "title": "7",
+     "segments": 11
+    },
+    {
+     "file": "0400.json",
+     "ref": "57",
+     "title": "57",
+     "segments": 35
+    },
+    {
+     "file": "0401.json",
+     "ref": "58.front",
+     "title": "58.front",
+     "segments": 17
+    },
+    {
+     "file": "0402.json",
+     "ref": "58.2",
+     "title": "2",
+     "segments": 13
+    },
+    {
+     "file": "0403.json",
+     "ref": "58.3",
+     "title": "3",
+     "segments": 12
+    },
+    {
+     "file": "0404.json",
+     "ref": "58.4",
+     "title": "4",
+     "segments": 17
+    },
+    {
+     "file": "0405.json",
+     "ref": "58.5",
+     "title": "5",
+     "segments": 14
+    },
+    {
+     "file": "0406.json",
+     "ref": "59.front",
+     "title": "59.front",
+     "segments": 20
+    },
+    {
+     "file": "0407.json",
+     "ref": "59.2",
+     "title": "2",
+     "segments": 10
+    },
+    {
+     "file": "0408.json",
+     "ref": "59.3",
+     "title": "3",
+     "segments": 13
+    },
+    {
+     "file": "0409.json",
+     "ref": "59.4",
+     "title": "4",
+     "segments": 6
+    },
+    {
+     "file": "0410.json",
+     "ref": "59.5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0411.json",
+     "ref": "59.6",
+     "title": "6",
+     "segments": 8
+    },
+    {
+     "file": "0412.json",
+     "ref": "60.front",
+     "title": "60.front",
+     "segments": 12
+    },
+    {
+     "file": "0413.json",
+     "ref": "60.2",
+     "title": "2",
+     "segments": 13
+    },
+    {
+     "file": "0414.json",
+     "ref": "60.3",
+     "title": "3",
+     "segments": 7
+    },
+    {
+     "file": "0415.json",
+     "ref": "60.4",
+     "title": "4",
+     "segments": 7
+    },
+    {
+     "file": "0416.json",
+     "ref": "61.front",
+     "title": "61.front",
+     "segments": 15
+    },
+    {
+     "file": "0417.json",
+     "ref": "61.2",
+     "title": "2",
+     "segments": 12
+    },
+    {
+     "file": "0418.json",
+     "ref": "61.3",
+     "title": "3",
+     "segments": 11
+    },
+    {
+     "file": "0419.json",
+     "ref": "61.4",
+     "title": "4",
+     "segments": 11
+    },
+    {
+     "file": "0420.json",
+     "ref": "61.5",
+     "title": "5",
+     "segments": 12
+    },
+    {
+     "file": "0421.json",
+     "ref": "62.front",
+     "title": "62.front",
+     "segments": 15
+    },
+    {
+     "file": "0422.json",
+     "ref": "62.2",
+     "title": "2",
+     "segments": 13
+    },
+    {
+     "file": "0423.json",
+     "ref": "62.3",
+     "title": "3",
+     "segments": 16
+    },
+    {
+     "file": "0424.json",
+     "ref": "62.4",
+     "title": "4",
+     "segments": 10
+    },
+    {
+     "file": "0425.json",
+     "ref": "62.5",
+     "title": "5",
+     "segments": 10
+    },
+    {
+     "file": "0426.json",
+     "ref": "62.6",
+     "title": "6",
+     "segments": 10
+    },
+    {
+     "file": "0427.json",
+     "ref": "63.front",
+     "title": "63.front",
+     "segments": 16
+    },
+    {
+     "file": "0428.json",
+     "ref": "63.2",
+     "title": "2",
+     "segments": 15
+    },
+    {
+     "file": "0429.json",
+     "ref": "63.3",
+     "title": "3",
+     "segments": 9
+    },
+    {
+     "file": "0430.json",
+     "ref": "63.4",
+     "title": "4",
+     "segments": 9
+    },
+    {
+     "file": "0431.json",
+     "ref": "63.5",
+     "title": "5",
+     "segments": 10
+    },
+    {
+     "file": "0432.json",
+     "ref": "64.front",
+     "title": "64.front",
+     "segments": 19
+    },
+    {
+     "file": "0433.json",
+     "ref": "64.2",
+     "title": "2",
+     "segments": 11
+    },
+    {
+     "file": "0434.json",
+     "ref": "64.3",
+     "title": "3",
+     "segments": 16
+    },
+    {
+     "file": "0435.json",
+     "ref": "64.4",
+     "title": "4",
+     "segments": 9
+    },
+    {
+     "file": "0436.json",
+     "ref": "64.5",
+     "title": "5",
+     "segments": 9
+    },
+    {
+     "file": "0437.json",
+     "ref": "65.front",
+     "title": "65.front",
+     "segments": 16
+    },
+    {
+     "file": "0438.json",
+     "ref": "65.2",
+     "title": "2",
+     "segments": 14
+    },
+    {
+     "file": "0439.json",
+     "ref": "65.3",
+     "title": "3",
+     "segments": 13
+    },
+    {
+     "file": "0440.json",
+     "ref": "65.4",
+     "title": "4",
+     "segments": 10
+    },
+    {
+     "file": "0441.json",
+     "ref": "65.5",
+     "title": "5",
+     "segments": 8
+    },
+    {
+     "file": "0442.json",
+     "ref": "66.front",
+     "title": "66.front",
+     "segments": 28
+    },
+    {
+     "file": "0443.json",
+     "ref": "66.2",
+     "title": "2",
+     "segments": 16
+    },
+    {
+     "file": "0444.json",
+     "ref": "66.3",
+     "title": "3",
+     "segments": 14
+    },
+    {
+     "file": "0445.json",
+     "ref": "66.4",
+     "title": "4",
+     "segments": 11
+    },
+    {
+     "file": "0446.json",
+     "ref": "67",
+     "title": "67",
+     "segments": 58
+    },
+    {
+     "file": "0447.json",
+     "ref": "68",
+     "title": "68",
+     "segments": 54
+    },
+    {
+     "file": "0448.json",
+     "ref": "69.front",
+     "title": "69.front",
+     "segments": 15
+    },
+    {
+     "file": "0449.json",
+     "ref": "69.2",
+     "title": "2",
+     "segments": 14
+    },
+    {
+     "file": "0450.json",
+     "ref": "69.3",
+     "title": "3",
+     "segments": 13
+    },
+    {
+     "file": "0451.json",
+     "ref": "69.4",
+     "title": "4",
+     "segments": 10
+    },
+    {
+     "file": "0452.json",
+     "ref": "70.front",
+     "title": "70.front",
+     "segments": 17
+    },
+    {
+     "file": "0453.json",
+     "ref": "70.2",
+     "title": "2",
+     "segments": 10
+    },
+    {
+     "file": "0454.json",
+     "ref": "70.3",
+     "title": "3",
+     "segments": 15
+    },
+    {
+     "file": "0455.json",
+     "ref": "70.4",
+     "title": "4",
+     "segments": 11
+    },
+    {
+     "file": "0456.json",
+     "ref": "71.front",
+     "title": "71.front",
+     "segments": 13
+    },
+    {
+     "file": "0457.json",
+     "ref": "71.2",
+     "title": "2",
+     "segments": 7
+    },
+    {
+     "file": "0458.json",
+     "ref": "71.3",
+     "title": "3",
+     "segments": 12
+    },
+    {
+     "file": "0459.json",
+     "ref": "71.4",
+     "title": "4",
+     "segments": 8
+    },
+    {
+     "file": "0460.json",
+     "ref": "71.5",
+     "title": "5",
+     "segments": 9
+    },
+    {
+     "file": "0461.json",
+     "ref": "72.front",
+     "title": "72.front",
+     "segments": 17
+    },
+    {
+     "file": "0462.json",
+     "ref": "72.2",
+     "title": "2",
+     "segments": 9
+    },
+    {
+     "file": "0463.json",
+     "ref": "72.3",
+     "title": "3",
+     "segments": 8
+    },
+    {
+     "file": "0464.json",
+     "ref": "72.4",
+     "title": "4",
+     "segments": 14
+    },
+    {
+     "file": "0465.json",
+     "ref": "72.5",
+     "title": "5",
+     "segments": 13
+    },
+    {
+     "file": "0466.json",
+     "ref": "73.front",
+     "title": "73.front",
+     "segments": 15
+    },
+    {
+     "file": "0467.json",
+     "ref": "73.2",
+     "title": "2",
+     "segments": 13
+    },
+    {
+     "file": "0468.json",
+     "ref": "73.3",
+     "title": "3",
+     "segments": 11
+    },
+    {
+     "file": "0469.json",
+     "ref": "73.4",
+     "title": "4",
+     "segments": 5
+    },
+    {
+     "file": "0470.json",
+     "ref": "73.5",
+     "title": "5",
+     "segments": 7
+    },
+    {
+     "file": "0471.json",
+     "ref": "74.front",
+     "title": "74.front",
+     "segments": 11
+    },
+    {
+     "file": "0472.json",
+     "ref": "74.2",
+     "title": "2",
+     "segments": 13
+    },
+    {
+     "file": "0473.json",
+     "ref": "74.3",
+     "title": "3",
+     "segments": 10
+    },
+    {
+     "file": "0474.json",
+     "ref": "74.4",
+     "title": "4",
+     "segments": 8
+    },
+    {
+     "file": "0475.json",
+     "ref": "74.5",
+     "title": "5",
+     "segments": 8
+    },
+    {
+     "file": "0476.json",
+     "ref": "74.6",
+     "title": "6",
+     "segments": 8
+    },
+    {
+     "file": "0477.json",
+     "ref": "75",
+     "title": "75",
+     "segments": 78
+    },
+    {
+     "file": "0478.json",
+     "ref": "76.front",
+     "title": "76.front",
+     "segments": 16
+    },
+    {
+     "file": "0479.json",
+     "ref": "76.2",
+     "title": "2",
+     "segments": 11
+    },
+    {
+     "file": "0480.json",
+     "ref": "76.3",
+     "title": "3",
+     "segments": 10
+    },
+    {
+     "file": "0481.json",
+     "ref": "76.4",
+     "title": "4",
+     "segments": 9
+    },
+    {
+     "file": "0482.json",
+     "ref": "77.front",
+     "title": "77.front",
+     "segments": 15
+    },
+    {
+     "file": "0483.json",
+     "ref": "77.2",
+     "title": "2",
+     "segments": 11
+    },
+    {
+     "file": "0484.json",
+     "ref": "77.3",
+     "title": "3",
+     "segments": 13
+    },
+    {
+     "file": "0485.json",
+     "ref": "77.4",
+     "title": "4",
+     "segments": 7
+    },
+    {
+     "file": "0486.json",
+     "ref": "77.5",
+     "title": "5",
+     "segments": 8
+    },
+    {
+     "file": "0487.json",
+     "ref": "78.front",
+     "title": "78.front",
+     "segments": 14
+    },
+    {
+     "file": "0488.json",
+     "ref": "78.2",
+     "title": "2",
+     "segments": 10
+    },
+    {
+     "file": "0489.json",
+     "ref": "78.3",
+     "title": "3",
+     "segments": 12
+    },
+    {
+     "file": "0490.json",
+     "ref": "78.4",
+     "title": "4",
+     "segments": 9
+    },
+    {
+     "file": "0491.json",
+     "ref": "78.5",
+     "title": "5",
+     "segments": 7
+    },
+    {
+     "file": "0492.json",
+     "ref": "78.6",
+     "title": "6",
+     "segments": 10
+    },
+    {
+     "file": "0493.json",
+     "ref": "79.front",
+     "title": "79.front",
+     "segments": 13
+    },
+    {
+     "file": "0494.json",
+     "ref": "79.2",
+     "title": "2",
+     "segments": 7
+    },
+    {
+     "file": "0495.json",
+     "ref": "79.3",
+     "title": "3",
+     "segments": 14
+    },
+    {
+     "file": "0496.json",
+     "ref": "79.4",
+     "title": "4",
+     "segments": 7
+    },
+    {
+     "file": "0497.json",
+     "ref": "80.front",
+     "title": "80.front",
+     "segments": 16
+    },
+    {
+     "file": "0498.json",
+     "ref": "80.2",
+     "title": "2",
+     "segments": 17
+    },
+    {
+     "file": "0499.json",
+     "ref": "80.3",
+     "title": "3",
+     "segments": 10
+    },
+    {
+     "file": "0500.json",
+     "ref": "80.4",
+     "title": "4",
+     "segments": 8
+    },
+    {
+     "file": "0501.json",
+     "ref": "81.front",
+     "title": "81.front",
+     "segments": 12
+    },
+    {
+     "file": "0502.json",
+     "ref": "81.2",
+     "title": "2",
+     "segments": 13
+    },
+    {
+     "file": "0503.json",
+     "ref": "81.3",
+     "title": "3",
+     "segments": 8
+    },
+    {
+     "file": "0504.json",
+     "ref": "81.4",
+     "title": "4",
+     "segments": 11
+    },
+    {
+     "file": "0505.json",
+     "ref": "82.front",
+     "title": "82.front",
+     "segments": 14
+    },
+    {
+     "file": "0506.json",
+     "ref": "82.2",
+     "title": "2",
+     "segments": 10
+    },
+    {
+     "file": "0507.json",
+     "ref": "82.3",
+     "title": "3",
+     "segments": 12
+    },
+    {
+     "file": "0508.json",
+     "ref": "82.4",
+     "title": "4",
+     "segments": 11
+    },
+    {
+     "file": "0509.json",
+     "ref": "83.front",
+     "title": "83.front",
+     "segments": 13
+    },
+    {
+     "file": "0510.json",
+     "ref": "83.2",
+     "title": "2",
+     "segments": 6
+    },
+    {
+     "file": "0511.json",
+     "ref": "83.3",
+     "title": "3",
+     "segments": 7
+    },
+    {
+     "file": "0512.json",
+     "ref": "83.4",
+     "title": "4",
+     "segments": 6
+    },
+    {
+     "file": "0513.json",
+     "ref": "84",
+     "title": "84",
+     "segments": 35
+    },
+    {
+     "file": "0514.json",
+     "ref": "85.front",
+     "title": "85.front",
+     "segments": 11
+    },
+    {
+     "file": "0515.json",
+     "ref": "85.2",
+     "title": "2",
+     "segments": 9
+    },
+    {
+     "file": "0516.json",
+     "ref": "85.3",
+     "title": "3",
+     "segments": 7
+    },
+    {
+     "file": "0517.json",
+     "ref": "85.4",
+     "title": "4",
+     "segments": 10
+    },
+    {
+     "file": "0518.json",
+     "ref": "86.front",
+     "title": "86.front",
+     "segments": 6
+    },
+    {
+     "file": "0519.json",
+     "ref": "86.2",
+     "title": "2",
+     "segments": 13
+    },
+    {
+     "file": "0520.json",
+     "ref": "86.3",
+     "title": "3",
+     "segments": 8
+    },
+    {
+     "file": "0521.json",
+     "ref": "86.4",
+     "title": "4",
+     "segments": 9
+    },
+    {
+     "file": "0522.json",
+     "ref": "p1.p1",
+     "title": "p1.p1",
+     "segments": 16
+    },
+    {
+     "file": "0523.json",
+     "ref": "p1.p2",
+     "title": "p1.p2",
+     "segments": 5
+    },
+    {
+     "file": "0524.json",
+     "ref": "p1.p3",
+     "title": "p1.p3",
+     "segments": 8
+    },
+    {
+     "file": "0525.json",
+     "ref": "p2",
+     "title": "p2",
+     "segments": 8
+    },
+    {
+     "file": "0526.json",
+     "ref": "p3",
+     "title": "p3",
+     "segments": 12
+    }
+   ]
+  }
+ ]
+}

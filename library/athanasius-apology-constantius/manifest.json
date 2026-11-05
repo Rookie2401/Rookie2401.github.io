@@ -1,0 +1,410 @@
+{
+ "workId": "athanasius-apology-constantius",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "athanasius-apology-constantius-npnf2-4-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Apology to Constantius (Apologia ad Constantium), in A Select Library of Nicene and Post-Nicene Fathers of the Christian Church, Second Series, vol. IV: Athanasius, Select Works and Letters (American edition; ed. Philip Schaff and Henry Wace; vol. edited by Archibald Robertson), trans. John Henry Newman and others (Oxford Library of the Fathers, 'Historical Tracts of S. Athanasius', 1843), revised by Archibald Robertson (New York: The Christian Literature Company, 1892). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers, Series II), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IV/Apology_to_the_Emperor/Apologia_Ad_Constantium",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 114113,
+   "sourceSha256": "38030abc9487c0a51934e390a85ade60874eaed4ebf97c27c06456b7eaecf238",
+   "leftOut": {
+    "note": 107
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 1",
+     "bytes": 3245,
+     "sha256": "c1cbe1ecbdeee0e747ec28d2255fcff0afcc3efe772640d4c196559a76d42c72"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 2",
+     "bytes": 2467,
+     "sha256": "1835dd64ff04936f0e5db461d5b4642ae8f2a8b837b14d4990a508e95f90581e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 3",
+     "bytes": 4983,
+     "sha256": "e36003fe87d1e6c2e3df85b8c40d586fb0ffe07b0767d653cdb62c8d2e42f13a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 4",
+     "bytes": 3786,
+     "sha256": "637366154726cdbff05c9f96844cc1f2bccfe89693f427be3562c93375a890fb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 5",
+     "bytes": 2934,
+     "sha256": "8b79804a8ae7436f163bf219f2f317b3a680f0306062cc2d8ff52097f53479a5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 6",
+     "bytes": 3644,
+     "sha256": "f46adc4ad0a3f28f188548cd1c545b8367c5fd457c9ae6aaea20647f31bfaa95"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 7",
+     "bytes": 2254,
+     "sha256": "36bb481b7d960881f8c4e268bad70dd3132279105792e14b6a28e58c5f75112d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 8",
+     "bytes": 1913,
+     "sha256": "a094dd48e8338c7e9389ed8ba18bdeae6059c02f10a5bda9c2bf0b6aa7e33b7f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 9",
+     "bytes": 2667,
+     "sha256": "e6cfd6cb37d0ef470e3cfa2ff0cef4f9956c6eb3db83232f9dc505c14543ba29"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 10",
+     "bytes": 4099,
+     "sha256": "8b38a30de0e47694afb997b9424a7b99f72747de288f7571719b42a67fde4da6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 11",
+     "bytes": 2909,
+     "sha256": "a867ce8ae59201fd38b3701ffbe4a60312205d6903f4542625463902f12bfdfd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 12",
+     "bytes": 3096,
+     "sha256": "192e700e549e5410b4f100b16abeb09607aeb26625af02ec8fbdb826461211cd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 13",
+     "bytes": 2454,
+     "sha256": "2da7149a4e5e9693e408a0ffd3a021a95a99bced7796b3a0369543114df53df3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 14",
+     "bytes": 2887,
+     "sha256": "34fde67e3b969b1102b90c2b2d9df48deb33923b136339b2d012d531fe64a64b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 15",
+     "bytes": 3887,
+     "sha256": "c04a7f0b33a6ac02ff36e87f92ef47345ca49de6167b9303e7948b3c41c97330"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 16",
+     "bytes": 3018,
+     "sha256": "9bd02a882c76ab4a5f118910abe0fea8e4677254f1114f06dd05bc835214b664"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 17",
+     "bytes": 3939,
+     "sha256": "2104884eef3e964e201204cabd881e31949f94032fbc2c92e35b74521b9f96fa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 18",
+     "bytes": 3305,
+     "sha256": "6f914defead1a89edb199752042390542691699d25bfc23c7cb512b3369cf362"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 19",
+     "bytes": 3289,
+     "sha256": "119360c63c2b49db0a377f138f507dbb83afac629a33b89016feb6e5134f0672"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 20",
+     "bytes": 2774,
+     "sha256": "5cfae591d3cf1e161f4764478c6b6dd1924ef845a70c292338ddcde19e00f651"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 21",
+     "bytes": 2613,
+     "sha256": "1961da88731aff2d67fba4e75b438b5a9c8b69a794271e99098efe586998ab84"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 22",
+     "bytes": 2548,
+     "sha256": "eca1e8d6622645082530d372ce0f12cfdf23042d0792bf399349d523ed762e1d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 23",
+     "bytes": 2108,
+     "sha256": "2353a6b4a4be151363949f583c7ec4f8ce5370b9dfaa3b7a48bbecca7f2a99c8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 24",
+     "bytes": 2736,
+     "sha256": "91cb3f329eefb6d7d91a54420937e62f080a9976044a2bb089fa55f50f622db9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 25",
+     "bytes": 3382,
+     "sha256": "35e255575c18ffab2d9e3e8ab39b2af2e6a52ab6f826767c0143d3f898e71ed5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 26",
+     "bytes": 3351,
+     "sha256": "1293873415c2c95805878daf45744eee7fd8545ee4bb65eebed22d7640c8a740"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 27",
+     "bytes": 4002,
+     "sha256": "d7feec70c6c170469342c55817feff7895bdc25a5e15e2b74b81c26fc529185b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 28",
+     "bytes": 2506,
+     "sha256": "918c3035b89f55a2af64e375f865edabd8ceb04182ecbfad997f9ecdcff4718b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 29",
+     "bytes": 2694,
+     "sha256": "e5ff15a54e65cbfc54a4bc45128143f2d4fff913b539f60aac3475834ff92f7e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 30",
+     "bytes": 5932,
+     "sha256": "eda2e88fb563726c567b75886742dc7eee6e7090bf520f0e1e1378f36c97adb0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 31",
+     "bytes": 5421,
+     "sha256": "8f21832062eeb2834ae8cfc6ab327be8b3c726f3b56da913818575abbd7a6d95"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 32",
+     "bytes": 4112,
+     "sha256": "cb4c878ee0f4803e5af0742c5b58905d0b6bddce22394d2ad8ff67db17afebd5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 33",
+     "bytes": 3854,
+     "sha256": "9b829579a340bb9bd09b28fbf5b0c75f476b38b1dbee4ec09a3db6ccc4ba6be1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 34",
+     "bytes": 2483,
+     "sha256": "c67c66200846e204768632fbed808af03582c45434b50acf945409fa952beeb0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Apology to the Emperor/Apologia Ad Constantium/Chapter 35",
+     "bytes": 2821,
+     "sha256": "87a827c1e2657efa84973343c8566ad063ed6dd3dc685732bced445154836823"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 3
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 4
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 3
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 3
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 3
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 4
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 1
+    }
+   ]
+  }
+ ]
+}

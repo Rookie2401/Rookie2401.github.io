@@ -1,0 +1,1071 @@
+{
+ "workId": "luther-epistle-sermons-vol3",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "luther-epistle-sermons-vol3-lenker-gutenberg",
+   "role": "english",
+   "language": "english",
+   "credit": "Luther's Epistle Sermons: Trinity Sunday to Advent, in Luther's Complete Works, vol. IX (Minneapolis: The Luther Press, 1909), trans. John Nicholas Lenker, with the help of others (Minneapolis: The Luther Press, 1909). Transcription: Ron Swanson (Project Gutenberg), from Internet Archive images (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/30619/pg30619.txt",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 797616,
+   "sourceSha256": "1e2193881a2721987ad9736561fd9bb432110f0a6954979d323ce019ef684ed7",
+   "leftOut": {
+    "transcriberNote": 1,
+    "note": 6,
+    "noteMark": 3,
+    "gutenbergLine": 1
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "https://www.gutenberg.org/cache/epub/30619/pg30619.txt",
+     "bytes": 797616,
+     "sha256": "1e2193881a2721987ad9736561fd9bb432110f0a6954979d323ce019ef684ed7"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "s1",
+     "title": "s1",
+     "segments": 55
+    },
+    {
+     "file": "0002.json",
+     "ref": "s2",
+     "title": "THE ARTICLE OF FAITH ON THE TRINITY.",
+     "segments": 17
+    },
+    {
+     "file": "0003.json",
+     "ref": "s3",
+     "title": "DIVINE MYSTERIES INEXPLICABLE TO REASON.",
+     "segments": 14
+    },
+    {
+     "file": "0004.json",
+     "ref": "s4",
+     "title": "THREE CLASSES OF PEOPLE.",
+     "segments": 10
+    },
+    {
+     "file": "0005.json",
+     "ref": "s5",
+     "title": "EVERYTHING IS OF GOD.",
+     "segments": 6
+    },
+    {
+     "file": "0006.json",
+     "ref": "s6",
+     "title": "THE DOCTRINE OF THE TRINITY.[1]",
+     "segments": 4
+    },
+    {
+     "file": "0007.json",
+     "ref": "s7",
+     "title": "SCRIPTURE PROOF THAT CHRIST IS GOD.",
+     "segments": 3
+    },
+    {
+     "file": "0008.json",
+     "ref": "s8",
+     "title": "PAUL AND MOSES AGREE IN TESTIMONY.",
+     "segments": 10
+    },
+    {
+     "file": "0009.json",
+     "ref": "s9",
+     "title": "PHYSICAL LIFE INEXPLICABLE TO REASON.",
+     "segments": 3
+    },
+    {
+     "file": "0010.json",
+     "ref": "s10",
+     "title": "THE THIRD PERSON OF THE TRINITY.",
+     "segments": 24
+    },
+    {
+     "file": "0011.json",
+     "ref": "s11",
+     "title": "GOD IS LOVE.",
+     "segments": 4
+    },
+    {
+     "file": "0012.json",
+     "ref": "s12",
+     "title": "EXHORTATION TO BROTHERLY LOVE.",
+     "segments": 4
+    },
+    {
+     "file": "0013.json",
+     "ref": "s13",
+     "title": "THE WORLD'S HATRED.",
+     "segments": 8
+    },
+    {
+     "file": "0014.json",
+     "ref": "s14",
+     "title": "CAIN THE WORLD, ABEL THE CHURCH.",
+     "segments": 15
+    },
+    {
+     "file": "0015.json",
+     "ref": "s15",
+     "title": "LOVE MOVES CHRISTIANS.",
+     "segments": 14
+    },
+    {
+     "file": "0016.json",
+     "ref": "s16",
+     "title": "HATRED NATURAL TO HUMAN REASON.",
+     "segments": 11
+    },
+    {
+     "file": "0017.json",
+     "ref": "s17",
+     "title": "HUMILITY, TRUST, WATCHFULNESS, SUFFERING",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "s18",
+     "title": "I. HUMILITY.",
+     "segments": 7
+    },
+    {
+     "file": "0019.json",
+     "ref": "s19",
+     "title": "PRIDE OPPOSED TO THE FIRST TABLE.",
+     "segments": 5
+    },
+    {
+     "file": "0020.json",
+     "ref": "s20",
+     "title": "PRIDE OPPOSED TO THE SECOND TABLE.",
+     "segments": 4
+    },
+    {
+     "file": "0021.json",
+     "ref": "s21",
+     "title": "THE BEAUTY OF HUMILITY.",
+     "segments": 4
+    },
+    {
+     "file": "0022.json",
+     "ref": "s22",
+     "title": "THE CONSEQUENCE OF PRIDE.",
+     "segments": 7
+    },
+    {
+     "file": "0023.json",
+     "ref": "s23",
+     "title": "THE REWARD OF HUMILITY.",
+     "segments": 25
+    },
+    {
+     "file": "0024.json",
+     "ref": "s24",
+     "title": "WATCHFULNESS ENJOINED.",
+     "segments": 4
+    },
+    {
+     "file": "0025.json",
+     "ref": "s25",
+     "title": "SOBERNESS ESSENTIAL.",
+     "segments": 13
+    },
+    {
+     "file": "0026.json",
+     "ref": "s26",
+     "title": "FAITH, NOT WORLDLY WISDOM, ESSENTIAL.",
+     "segments": 3
+    },
+    {
+     "file": "0027.json",
+     "ref": "s27",
+     "title": "GOD'S WORD THE CHRISTIAN'S GUIDE.",
+     "segments": 15
+    },
+    {
+     "file": "0028.json",
+     "ref": "s28",
+     "title": "CONDUCT IN SUFFERING.",
+     "segments": 10
+    },
+    {
+     "file": "0029.json",
+     "ref": "s29",
+     "title": "OF TEMPTATION.",
+     "segments": 13
+    },
+    {
+     "file": "0030.json",
+     "ref": "s30",
+     "title": "CONSOLATION IN SUFFERING, AND PATIENCE.[1]",
+     "segments": 13
+    },
+    {
+     "file": "0031.json",
+     "ref": "s31",
+     "title": "THE REWARD.",
+     "segments": 11
+    },
+    {
+     "file": "0032.json",
+     "ref": "s32",
+     "title": "THE TRAVAIL OF CREATION.",
+     "segments": 18
+    },
+    {
+     "file": "0033.json",
+     "ref": "s33",
+     "title": "REDEMPTION OF THE CREATURES.",
+     "segments": 9
+    },
+    {
+     "file": "0034.json",
+     "ref": "s34",
+     "title": "THE CHRISTIAN'S GLORY TO BE REVEALED.",
+     "segments": 5
+    },
+    {
+     "file": "0035.json",
+     "ref": "s35",
+     "title": "OF HOPE.",
+     "segments": 17
+    },
+    {
+     "file": "0036.json",
+     "ref": "s36",
+     "title": "EXHORTATION TO THE FRUITS OF FAITH.",
+     "segments": 10
+    },
+    {
+     "file": "0037.json",
+     "ref": "s37",
+     "title": "SYMPATHY A CHRISTIAN VIRTUE.",
+     "segments": 4
+    },
+    {
+     "file": "0038.json",
+     "ref": "s38",
+     "title": "OF LOVE.",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "s39",
+     "title": "OF MERCY.",
+     "segments": 9
+    },
+    {
+     "file": "0040.json",
+     "ref": "s40",
+     "title": "OF PATIENCE.",
+     "segments": 5
+    },
+    {
+     "file": "0041.json",
+     "ref": "s41",
+     "title": "THE CHRISTIAN'S PEACE.",
+     "segments": 3
+    },
+    {
+     "file": "0042.json",
+     "ref": "s42",
+     "title": "GUARDING THE LIPS.",
+     "segments": 3
+    },
+    {
+     "file": "0043.json",
+     "ref": "s43",
+     "title": "GOOD WORKS.",
+     "segments": 5
+    },
+    {
+     "file": "0044.json",
+     "ref": "s44",
+     "title": "GOD OVER ALL.",
+     "segments": 11
+    },
+    {
+     "file": "0045.json",
+     "ref": "s45",
+     "title": "TRUST IN GOD ENJOINED.",
+     "segments": 5
+    },
+    {
+     "file": "0046.json",
+     "ref": "s46",
+     "title": "EXHORTATION TO CHRISTIAN LIVING.",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "s47",
+     "title": "GRACE DOES NOT GIVE LICENSE TO SIN.",
+     "segments": 5
+    },
+    {
+     "file": "0048.json",
+     "ref": "s48",
+     "title": "THE POWER OF BAPTISM.",
+     "segments": 10
+    },
+    {
+     "file": "0049.json",
+     "ref": "s49",
+     "title": "CHRISTIAN GROWTH.",
+     "segments": 6
+    },
+    {
+     "file": "0050.json",
+     "ref": "s50",
+     "title": "SPIRITUAL AND PHYSICAL RESURRECTION.",
+     "segments": 18
+    },
+    {
+     "file": "0051.json",
+     "ref": "s51",
+     "title": "EXHORTATION TO RESIST SIN.",
+     "segments": 1
+    },
+    {
+     "file": "0052.json",
+     "ref": "s52",
+     "title": "GOOD WORKS NOT FORBIDDEN.",
+     "segments": 4
+    },
+    {
+     "file": "0053.json",
+     "ref": "s53",
+     "title": "GOOD AND EVIL \"AFTER THE MANNER OF MEN.\"",
+     "segments": 10
+    },
+    {
+     "file": "0054.json",
+     "ref": "s54",
+     "title": "THE TEACHINGS OF REASON.",
+     "segments": 4
+    },
+    {
+     "file": "0055.json",
+     "ref": "s55",
+     "title": "GOSPEL HIGHER THAN REASON.",
+     "segments": 4
+    },
+    {
+     "file": "0056.json",
+     "ref": "s56",
+     "title": "BODY NOT TO SERVE SIN.",
+     "segments": 5
+    },
+    {
+     "file": "0057.json",
+     "ref": "s57",
+     "title": "FRUITS OF TWO KINDS OF SERVICE.",
+     "segments": 12
+    },
+    {
+     "file": "0058.json",
+     "ref": "s58",
+     "title": "LIVING IN THE SPIRIT AS GOD'S CHILDREN.",
+     "segments": 9
+    },
+    {
+     "file": "0059.json",
+     "ref": "s59",
+     "title": "PUTTING TO DEATH SIN.",
+     "segments": 7
+    },
+    {
+     "file": "0060.json",
+     "ref": "s60",
+     "title": "MEANING OF \"LED BY THE SPIRIT OF GOD.\"",
+     "segments": 6
+    },
+    {
+     "file": "0061.json",
+     "ref": "s61",
+     "title": "TWO KINDS OF PREACHING AND OF WORKS.",
+     "segments": 3
+    },
+    {
+     "file": "0062.json",
+     "ref": "s62",
+     "title": "CHILDREN OF GOD.",
+     "segments": 6
+    },
+    {
+     "file": "0063.json",
+     "ref": "s63",
+     "title": "HEIRS OF GOD.",
+     "segments": 8
+    },
+    {
+     "file": "0064.json",
+     "ref": "s64",
+     "title": "CARNAL SECURITY AND ITS VICES.",
+     "segments": 6
+    },
+    {
+     "file": "0065.json",
+     "ref": "s65",
+     "title": "ISRAEL'S CARNAL SECURITY A WARNING TO US.",
+     "segments": 8
+    },
+    {
+     "file": "0066.json",
+     "ref": "s66",
+     "title": "ISRAEL'S VICES IN THE WILDERNESS PUNISHED.",
+     "segments": 7
+    },
+    {
+     "file": "0067.json",
+     "ref": "s67",
+     "title": "ISRAEL'S TRIAL OF GOD.",
+     "segments": 8
+    },
+    {
+     "file": "0068.json",
+     "ref": "s68",
+     "title": "MURMURING AGAINST GOD OPEN REVOLT.",
+     "segments": 6
+    },
+    {
+     "file": "0069.json",
+     "ref": "s69",
+     "title": "ISRAEL'S CAREER AN ADMONITION TO INDIVIDUALS.",
+     "segments": 13
+    },
+    {
+     "file": "0070.json",
+     "ref": "s70",
+     "title": "SPIRITUAL COUNSEL FOR CHURCH OFFICERS.",
+     "segments": 1
+    },
+    {
+     "file": "0071.json",
+     "ref": "s71",
+     "title": "PERFECT HARMONY NOT TO BE EXPECTED.",
+     "segments": 11
+    },
+    {
+     "file": "0072.json",
+     "ref": "s72",
+     "title": "CAVILERS THEMSELVES LED ASTRAY.",
+     "segments": 5
+    },
+    {
+     "file": "0073.json",
+     "ref": "s73",
+     "title": "FAITH IN THE ONE CHRIST PRODUCTIVE OF UNITY.",
+     "segments": 8
+    },
+    {
+     "file": "0074.json",
+     "ref": "s74",
+     "title": "THE SPIRIT, THE TEST OF THE TRUE TEACHER.",
+     "segments": 9
+    },
+    {
+     "file": "0075.json",
+     "ref": "s75",
+     "title": "HOLY SPIRIT ALONE GIVES ASSURANCE.",
+     "segments": 4
+    },
+    {
+     "file": "0076.json",
+     "ref": "s76",
+     "title": "CHRISTIANS TO GIVE ALL GLORY TO GOD.",
+     "segments": 4
+    },
+    {
+     "file": "0077.json",
+     "ref": "s77",
+     "title": "THE TRINITY.",
+     "segments": 3
+    },
+    {
+     "file": "0078.json",
+     "ref": "s78",
+     "title": "SPIRITUAL GIFTS SPECIFIED.",
+     "segments": 1
+    },
+    {
+     "file": "0079.json",
+     "ref": "s79",
+     "title": "THE WORD OF KNOWLEDGE.",
+     "segments": 1
+    },
+    {
+     "file": "0080.json",
+     "ref": "s80",
+     "title": "THE GIFT OF PROPHECY.",
+     "segments": 1
+    },
+    {
+     "file": "0081.json",
+     "ref": "s81",
+     "title": "THE GIFT OF FAITH.",
+     "segments": 3
+    },
+    {
+     "file": "0082.json",
+     "ref": "s82",
+     "title": "MEANING OF \"WORKINGS.\"",
+     "segments": 1
+    },
+    {
+     "file": "0083.json",
+     "ref": "s83",
+     "title": "MEANING OF \"ADMINISTRATIONS.\"",
+     "segments": 2
+    },
+    {
+     "file": "0084.json",
+     "ref": "s84",
+     "title": "DIVERSITY OF GIFTS NO REASON FOR SECTS.",
+     "segments": 4
+    },
+    {
+     "file": "0085.json",
+     "ref": "s85",
+     "title": "CHRISTIANS RECOGNIZE THE DIVINE SOURCE OF THEIR GIFTS.",
+     "segments": 12
+    },
+    {
+     "file": "0086.json",
+     "ref": "s86",
+     "title": "PAUL'S WITNESS TO CHRIST'S RESURRECTION.",
+     "segments": 5
+    },
+    {
+     "file": "0087.json",
+     "ref": "s87",
+     "title": "GOSPEL TRANSCENDS LAW.",
+     "segments": 6
+    },
+    {
+     "file": "0088.json",
+     "ref": "s88",
+     "title": "PAUL'S CONVERTS LIVING EPISTLES.",
+     "segments": 4
+    },
+    {
+     "file": "0089.json",
+     "ref": "s89",
+     "title": "TRUE PREACHERS COMMISSIONED BY GOD.",
+     "segments": 6
+    },
+    {
+     "file": "0090.json",
+     "ref": "s90",
+     "title": "HUMAN DOCTRINE NO PLACE IN THE CHURCH.",
+     "segments": 7
+    },
+    {
+     "file": "0091.json",
+     "ref": "s91",
+     "title": "THE NEW COVENANT.",
+     "segments": 1
+    },
+    {
+     "file": "0092.json",
+     "ref": "s92",
+     "title": "\"SPIRIT\" AND \"LETTER.\"",
+     "segments": 17
+    },
+    {
+     "file": "0093.json",
+     "ref": "s93",
+     "title": "CHRIST SUPERSEDES MOSES.",
+     "segments": 2
+    },
+    {
+     "file": "0094.json",
+     "ref": "s94",
+     "title": "CHRIST THE SOURCE OF LIFE GREATER THAN ADAM THE SOURCE OF DEATH.",
+     "segments": 1
+    },
+    {
+     "file": "0095.json",
+     "ref": "s95",
+     "title": "THE LAW INEFFECTUAL.",
+     "segments": 9
+    },
+    {
+     "file": "0096.json",
+     "ref": "s96",
+     "title": "TERRORS OF THE LAW.",
+     "segments": 2
+    },
+    {
+     "file": "0097.json",
+     "ref": "s97",
+     "title": "EFFICACY OF THE GOSPEL.",
+     "segments": 6
+    },
+    {
+     "file": "0098.json",
+     "ref": "s98",
+     "title": "GLORY OF THE GOSPEL.",
+     "segments": 12
+    },
+    {
+     "file": "0099.json",
+     "ref": "s99",
+     "title": "GOD'S TESTAMENT AND PROMISE IN CHRIST.",
+     "segments": 6
+    },
+    {
+     "file": "0100.json",
+     "ref": "s100",
+     "title": "THE JEWS GOD'S PEOPLE BY PROMISE.",
+     "segments": 13
+    },
+    {
+     "file": "0101.json",
+     "ref": "s101",
+     "title": "WORKS OF THE FLESH AND FRUITS OF THE SPIRIT.",
+     "segments": 5
+    },
+    {
+     "file": "0102.json",
+     "ref": "s102",
+     "title": "CHURCH OFFICERS WARNED OF VAIN-GLORY.",
+     "segments": 4
+    },
+    {
+     "file": "0103.json",
+     "ref": "s103",
+     "title": "PAUL'S CARE AND PRAYER FOR THE CHURCH.[1]",
+     "segments": 3
+    },
+    {
+     "file": "0104.json",
+     "ref": "s104",
+     "title": "PAUL CONSOLES HIS CONVERTS.",
+     "segments": 3
+    },
+    {
+     "file": "0105.json",
+     "ref": "s105",
+     "title": "THE CHRISTIAN'S CONFIDENCE MUST BE IN GOD.",
+     "segments": 3
+    },
+    {
+     "file": "0106.json",
+     "ref": "s106",
+     "title": "PAUL'S SUFFERINGS FOR THE CHURCH'S GOOD.",
+     "segments": 7
+    },
+    {
+     "file": "0107.json",
+     "ref": "s107",
+     "title": "CHRIST PERSECUTED IN CHRISTIANS.",
+     "segments": 1
+    },
+    {
+     "file": "0108.json",
+     "ref": "s108",
+     "title": "NO MAN CAN MERIT ETERNAL LIFE FOR ANOTHER.",
+     "segments": 3
+    },
+    {
+     "file": "0109.json",
+     "ref": "s109",
+     "title": "CHRISTIANS TO REJOICE IN PERSECUTIONS.",
+     "segments": 2
+    },
+    {
+     "file": "0110.json",
+     "ref": "s110",
+     "title": "PREACHING MUST BE FOLLOWED BY PRACTICE.",
+     "segments": 4
+    },
+    {
+     "file": "0111.json",
+     "ref": "s111",
+     "title": "TRUE PRAYER CONSISTS NOT IN OUTWARD THINGS.",
+     "segments": 5
+    },
+    {
+     "file": "0112.json",
+     "ref": "s112",
+     "title": "GOD OUR FATHER.",
+     "segments": 7
+    },
+    {
+     "file": "0113.json",
+     "ref": "s113",
+     "title": "GOD LAVISH IN HIS BLESSINGS.",
+     "segments": 4
+    },
+    {
+     "file": "0114.json",
+     "ref": "s114",
+     "title": "WE SHOULD PRAY FOR THE POWER OF THE WORD.",
+     "segments": 4
+    },
+    {
+     "file": "0115.json",
+     "ref": "s115",
+     "title": "WORLD SEES NOT INNER MARKS OF CHRISTIANS.",
+     "segments": 4
+    },
+    {
+     "file": "0116.json",
+     "ref": "s116",
+     "title": "THE SPIRIT IMPARTS REAL STRENGTH.",
+     "segments": 5
+    },
+    {
+     "file": "0117.json",
+     "ref": "s117",
+     "title": "CHRIST EMBRACED ONLY BY THE HEART.",
+     "segments": 3
+    },
+    {
+     "file": "0118.json",
+     "ref": "s118",
+     "title": "LOVE, THE EXPRESSION OF FAITH.",
+     "segments": 2
+    },
+    {
+     "file": "0119.json",
+     "ref": "s119",
+     "title": "TRUE CHRISTIANS FIND CHRIST EVERYWHERE.",
+     "segments": 6
+    },
+    {
+     "file": "0120.json",
+     "ref": "s120",
+     "title": "CHRISTIAN PERFECTION.",
+     "segments": 5
+    },
+    {
+     "file": "0121.json",
+     "ref": "s121",
+     "title": "THE CHRISTIAN CALLING AND UNITY.",
+     "segments": 3
+    },
+    {
+     "file": "0122.json",
+     "ref": "s122",
+     "title": "THE CHRISTIAN CALLING.",
+     "segments": 6
+    },
+    {
+     "file": "0123.json",
+     "ref": "s123",
+     "title": "ADMONITION TO SPECIAL CHRISTIAN VIRTUES.",
+     "segments": 5
+    },
+    {
+     "file": "0124.json",
+     "ref": "s124",
+     "title": "FRUITS OF ORIGINAL SIN.",
+     "segments": 5
+    },
+    {
+     "file": "0125.json",
+     "ref": "s125",
+     "title": "THE UNITY OF THE SPIRIT.",
+     "segments": 12
+    },
+    {
+     "file": "0126.json",
+     "ref": "s126",
+     "title": "TREASURE CHRISTIANS HAVE IN THE GOSPEL.",
+     "segments": 14
+    },
+    {
+     "file": "0127.json",
+     "ref": "s127",
+     "title": "THE CHRISTIAN'S TREASURE.",
+     "segments": 21
+    },
+    {
+     "file": "0128.json",
+     "ref": "s128",
+     "title": "DUTY TO NEW AND OLD MAN.",
+     "segments": 6
+    },
+    {
+     "file": "0129.json",
+     "ref": "s129",
+     "title": "\"THE OLD MAN.\"",
+     "segments": 6
+    },
+    {
+     "file": "0130.json",
+     "ref": "s130",
+     "title": "THE GROWTH OF \"THE NEW MAN.\"",
+     "segments": 7
+    },
+    {
+     "file": "0131.json",
+     "ref": "s131",
+     "title": "TWO CLASSES OF SINS.",
+     "segments": 22
+    },
+    {
+     "file": "0132.json",
+     "ref": "s132",
+     "title": "THE CAREFUL WALK OF THE CHRISTIAN.",
+     "segments": 3
+    },
+    {
+     "file": "0133.json",
+     "ref": "s133",
+     "title": "THE WORD, THE GUIDE OF THE CHRISTIAN.",
+     "segments": 6
+    },
+    {
+     "file": "0134.json",
+     "ref": "s134",
+     "title": "PUBLIC PREACHING OF THE WORD ENJOINED.",
+     "segments": 2
+    },
+    {
+     "file": "0135.json",
+     "ref": "s135",
+     "title": "NECESSITY OF IMPROVING THE TIME.",
+     "segments": 9
+    },
+    {
+     "file": "0136.json",
+     "ref": "s136",
+     "title": "INGRATITUDE WILL BE PUNISHED.",
+     "segments": 8
+    },
+    {
+     "file": "0137.json",
+     "ref": "s137",
+     "title": "EVIL DOCTRINES EVER OPPOSE THE CHRISTIAN.",
+     "segments": 9
+    },
+    {
+     "file": "0138.json",
+     "ref": "s138",
+     "title": "THE CHRISTIAN ARMOR AND WEAPONS.",
+     "segments": 4
+    },
+    {
+     "file": "0139.json",
+     "ref": "s139",
+     "title": "PAUL'S THANKS AND PRAYERS FOR CHURCHES.",
+     "segments": 4
+    },
+    {
+     "file": "0140.json",
+     "ref": "s140",
+     "title": "I. THE DUTY OF GRATITUDE.",
+     "segments": 2
+    },
+    {
+     "file": "0141.json",
+     "ref": "s141",
+     "title": "INGRATITUDE DENOUNCED BY THE HEATHEN.",
+     "segments": 8
+    },
+    {
+     "file": "0142.json",
+     "ref": "s142",
+     "title": "RETRIBUTION FOLLOWS INGRATITUDE.",
+     "segments": 6
+    },
+    {
+     "file": "0143.json",
+     "ref": "s143",
+     "title": "EXAMPLES OF INGRATITUDE FOR THE GOSPEL.",
+     "segments": 5
+    },
+    {
+     "file": "0144.json",
+     "ref": "s144",
+     "title": "II. THE DUTY OF PRAYER.",
+     "segments": 3
+    },
+    {
+     "file": "0145.json",
+     "ref": "s145",
+     "title": "PRAYER FOR OTHERS.",
+     "segments": 4
+    },
+    {
+     "file": "0146.json",
+     "ref": "s146",
+     "title": "FEW BELIEVERS NO REASON FOR DISCOURAGEMENT.",
+     "segments": 6
+    },
+    {
+     "file": "0147.json",
+     "ref": "s147",
+     "title": "ENEMIES OF THE CROSS OF CHRIST AND THE CHRISTIAN'S CITIZENSHIP IN HEAVEN.",
+     "segments": 2
+    },
+    {
+     "file": "0148.json",
+     "ref": "s148",
+     "title": "PURITY OF DOCTRINE ENJOINED.",
+     "segments": 3
+    },
+    {
+     "file": "0149.json",
+     "ref": "s149",
+     "title": "RIGHTEOUSNESS OF THE LAW IS VAIN.",
+     "segments": 8
+    },
+    {
+     "file": "0150.json",
+     "ref": "s150",
+     "title": "RIGHTEOUSNESS OF THE LAW OPPOSES THE CROSS.",
+     "segments": 9
+    },
+    {
+     "file": "0151.json",
+     "ref": "s151",
+     "title": "HUMAN RIGHTEOUSNESS IDOLATROUS.",
+     "segments": 3
+    },
+    {
+     "file": "0152.json",
+     "ref": "s152",
+     "title": "FRUITS OF FAITH.",
+     "segments": 3
+    },
+    {
+     "file": "0153.json",
+     "ref": "s153",
+     "title": "GOD'S PATIENCE WITH HUMAN RIGHTEOUSNESS.",
+     "segments": 7
+    },
+    {
+     "file": "0154.json",
+     "ref": "s154",
+     "title": "THE CHRISTIAN A CITIZEN OF HEAVEN.",
+     "segments": 4
+    },
+    {
+     "file": "0155.json",
+     "ref": "s155",
+     "title": "THE GLORIFIED BODY OF THE CHRISTIAN.",
+     "segments": 6
+    },
+    {
+     "file": "0156.json",
+     "ref": "s156",
+     "title": "PRAYER AND SPIRITUAL KNOWLEDGE.",
+     "segments": 6
+    },
+    {
+     "file": "0157.json",
+     "ref": "s157",
+     "title": "KNOWLEDGE OF GOD'S WILL IMPOSES OBLIGATION.",
+     "segments": 2
+    },
+    {
+     "file": "0158.json",
+     "ref": "s158",
+     "title": "SPIRITUAL KNOWLEDGE ENJOINED.",
+     "segments": 2
+    },
+    {
+     "file": "0159.json",
+     "ref": "s159",
+     "title": "WE MUST PRAY FOR SPIRITUAL LIGHT.",
+     "segments": 4
+    },
+    {
+     "file": "0160.json",
+     "ref": "s160",
+     "title": "SPIRITUAL KNOWLEDGE BRINGS INCREASING JOY.",
+     "segments": 1
+    },
+    {
+     "file": "0161.json",
+     "ref": "s161",
+     "title": "WHY AFFLICTIONS ARE SENT.",
+     "segments": 5
+    },
+    {
+     "file": "0162.json",
+     "ref": "s162",
+     "title": "\"SPIRITUAL WISDOM\" DEFINED.",
+     "segments": 6
+    },
+    {
+     "file": "0163.json",
+     "ref": "s163",
+     "title": "CHURCH NOT TO COMPROMISE WITH PAPISTS.",
+     "segments": 5
+    },
+    {
+     "file": "0164.json",
+     "ref": "s164",
+     "title": "NEITHER REASON NOR FEELINGS A RIGHT JUDGE.",
+     "segments": 5
+    },
+    {
+     "file": "0165.json",
+     "ref": "s165",
+     "title": "ONLY GOD'S POWER CAN OVERCOME THE DEVIL.",
+     "segments": 2
+    },
+    {
+     "file": "0166.json",
+     "ref": "s166",
+     "title": "PATIENCE ESSENTIAL TO ENDURANCE.",
+     "segments": 1
+    },
+    {
+     "file": "0167.json",
+     "ref": "s167",
+     "title": "CHRISTIANS SHOULD REJOICE AND BE THANKFUL.",
+     "segments": 5
+    },
+    {
+     "file": "0168.json",
+     "ref": "s168",
+     "title": "GOD'S GRACE INCOMPREHENSIBLE.",
+     "segments": 10
+    },
+    {
+     "file": "0169.json",
+     "ref": "s169",
+     "title": "LIVING AND DEAD WHEN CHRIST RETURNS.",
+     "segments": 5
+    },
+    {
+     "file": "0170.json",
+     "ref": "s170",
+     "title": "GOD'S JUDGMENT WHEN CHRIST RETURNS.",
+     "segments": 2
+    },
+    {
+     "file": "0171.json",
+     "ref": "s171",
+     "title": "CHRISTIAN'S SUFFERINGS LEAD TO HAPPINESS.",
+     "segments": 4
+    },
+    {
+     "file": "0172.json",
+     "ref": "s172",
+     "title": "GOD DOES NOT FORGET HIS CHILDREN.",
+     "segments": 5
+    },
+    {
+     "file": "0173.json",
+     "ref": "s173",
+     "title": "TO THE READER.",
+     "segments": 1
+    }
+   ]
+  }
+ ]
+}

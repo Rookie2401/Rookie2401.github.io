@@ -1,0 +1,59 @@
+{
+ "workId": "masoretic-jon",
+ "editions": [
+  {
+   "editionId": "wlc-oshb-jon",
+   "language": "he",
+   "variety": "he-bib",
+   "textSource": "self",
+   "analysis": {
+    "id": "oshb@2019.01.13",
+    "kind": "verified-dataset",
+    "status": "verified"
+   },
+   "credit": "Open Scriptures Hebrew Bible (OSHB), morphology and lemmas by the OSHB project; text: Westminster Leningrad Codex (WLC)",
+   "licence": "OSHB lemma and morphology: CC BY 4.0; WLC text: public domain; headwords and glosses: Open Scriptures Lexical Index (CC BY 4.0), BDB (public domain), Strong's (public domain, JSON CC BY-SA), curated glosses of the Biblia build",
+   "source": "biblia-v0/data/oshb/Jonah.xml",
+   "sourceUrl": "https://github.com/openscriptures/morphhb",
+   "version": "oshb 2017.12.10 (WLC version 4.20.); newest file 2019.01.13",
+   "coverage": {
+    "tokens": 688,
+    "withLemma": 688,
+    "withMorphology": 562,
+    "verified": 688,
+    "ambiguous": 0,
+    "unanalysed": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "JON.1",
+     "title": "Jonah 1",
+     "segments": 16,
+     "tokens": 254
+    },
+    {
+     "file": "0002.json",
+     "ref": "JON.2",
+     "title": "Jonah 2",
+     "segments": 11,
+     "tokens": 112
+    },
+    {
+     "file": "0003.json",
+     "ref": "JON.3",
+     "title": "Jonah 3",
+     "segments": 10,
+     "tokens": 139
+    },
+    {
+     "file": "0004.json",
+     "ref": "JON.4",
+     "title": "Jonah 4",
+     "segments": 11,
+     "tokens": 183
+    }
+   ]
+  }
+ ]
+}

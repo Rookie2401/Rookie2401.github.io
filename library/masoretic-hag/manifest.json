@@ -1,0 +1,72 @@
+{
+ "workId": "masoretic-hag",
+ "parallel": "segment",
+ "editions": [
+  {
+   "editionId": "wlc-oshb-hag",
+   "role": "original",
+   "language": "hebrew",
+   "credit": "Westminster Leningrad Codex (WLC 4.20), as published by the Open Scriptures Hebrew Bible project, ed. J. Alan Groves Center for Advanced Biblical Research (transcription of the Leningrad Codex, Firkovich B 19 A, AD 1008/9) (Open Scriptures Hebrew Bible, 2016). Transcription: J. Alan Groves Center; Open Scriptures Hebrew Bible (Daniel Owens, David Troidl) (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Hag.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 71754,
+   "sourceSha256": "26ebbae4fe491cf89ce70e1264cbcbf66a562b497cb214b677e67a9a43ad545c",
+   "leftOut": {
+    "note": 4
+   },
+   "segmentRefs": "citation",
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "HAG.1",
+     "title": "Haggai 1",
+     "segments": 15
+    },
+    {
+     "file": "0002.json",
+     "ref": "HAG.2",
+     "title": "Haggai 2",
+     "segments": 23
+    }
+   ]
+  },
+  {
+   "editionId": "jps1917-hag",
+   "role": "english",
+   "language": "english",
+   "credit": "The Holy Scriptures according to the Masoretic Text: A New Translation, trans. Jewish Publication Society of America (Max L. Margolis, editor-in-chief) (Philadelphia: Jewish Publication Society of America, 1917). Transcription: eBible.org (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://ebible.org/Scriptures/engjps_usfx.zip",
+   "sourceMember": "engjps_usfx.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1132370,
+   "sourceSha256": "2490670d6d533140e1907b05ec8794d838b007131fb464117cec97c621f5788e",
+   "leftOut": {
+    "id": 39,
+    "toc": 117
+   },
+   "segmentRefs": "citation",
+   "numbering": "eBible.org renumbered this copy to English verse numbers and kept the printed (Hebrew) numbering as marks in the text; the import follows the 2056 marks, giving back the numbering the 1917 book was printed with, and removes them from the words.",
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "HAG.1",
+     "title": "Haggai 1",
+     "segments": 15
+    },
+    {
+     "file": "0002.json",
+     "ref": "HAG.2",
+     "title": "Haggai 2",
+     "segments": 23
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "divisionOnly": [],
+  "missingInOriginal": [],
+  "missingInEnglish": []
+ }
+}

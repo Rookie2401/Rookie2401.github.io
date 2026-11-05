@@ -1,0 +1,2597 @@
+{
+ "workId": "flavel-method-of-grace",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "flavel-method-of-grace-1681-tcp-a39669",
+   "role": "english",
+   "language": "english",
+   "credit": "The method of grace, in bringing home the eternal redemption contrived by the Father, and accomplished by the Son, in EEBO-TCP text A39669 (STC Wing F1169; STC) (London: Printed by M. White, for Francis Tyton ..., 1681). Transcription: Text Creation Partnership (EEBO-TCP Phase I), keyboarded from images of the original (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A39669/master/A39669.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1756311,
+   "sourceSha256": "19b1e3a8fa09bb47ac17ecabeec763dc55759058a0532b5c01ccfdfbb0b701bf",
+   "leftOut": {
+    "pb": 632,
+    "note": 783,
+    "unread": 190
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 224516,
+    "unreadPerThousand": 0.8
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "To the Worshipful John Upton of Lupton, Esq, and the most accomplished and vertuous Lady his dear Consort; the Author wishes Grace, Mercy and Peace.",
+     "segments": 14
+    },
+    {
+     "file": "0002.json",
+     "ref": "front.2",
+     "title": "THE EPISTLE.",
+     "segments": 24
+    },
+    {
+     "file": "0003.json",
+     "ref": "front.3",
+     "title": "A Table of Scriptures occasionally opened in this TREATISE.",
+     "segments": 43
+    },
+    {
+     "file": "0004.json",
+     "ref": "front.4",
+     "title": "Υποτυπωσις TOTIUS OPERIS.",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.0",
+     "title": "The First SERMON. Serm. 1.",
+     "segments": 22
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.1.0",
+     "title": "Doct. Doct.",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.1.1",
+     "title": "Propos. 1.",
+     "segments": 7
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.1.2",
+     "title": "Propos. 2.",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.1.3",
+     "title": "Propos. 3.",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.1.4",
+     "title": "Propos. 4.",
+     "segments": 6
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.1.5",
+     "title": "Propos. 5.",
+     "segments": 3
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.1.6",
+     "title": "Propos. 6.",
+     "segments": 4
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.1.7",
+     "title": "Propos. 7.",
+     "segments": 3
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.1.8",
+     "title": "Propos. 8.",
+     "segments": 8
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.1.9",
+     "title": "Inference 1.",
+     "segments": 5
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.1.10",
+     "title": "Inference 2.",
+     "segments": 4
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.1.11",
+     "title": "Infer. 3.",
+     "segments": 5
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.1.12",
+     "title": "Infer. 4.",
+     "segments": 3
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.1.13",
+     "title": "Infer. 5.",
+     "segments": 4
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.1.14",
+     "title": "Infer. 6.",
+     "segments": 8
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.1.15",
+     "title": "Inference 7. Infer. 7.",
+     "segments": 4
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.1.end",
+     "title": "1.1.end",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "2.0",
+     "title": "The Second SERMON. Serm. 2.",
+     "segments": 7
+    },
+    {
+     "file": "0024.json",
+     "ref": "2.1.0",
+     "title": "Doct.",
+     "segments": 45
+    },
+    {
+     "file": "0025.json",
+     "ref": "2.1.1",
+     "title": "Inference 1.",
+     "segments": 5
+    },
+    {
+     "file": "0026.json",
+     "ref": "2.1.2",
+     "title": "Infer. 2.",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "2.1.3",
+     "title": "Infer. 3.",
+     "segments": 7
+    },
+    {
+     "file": "0028.json",
+     "ref": "2.1.4",
+     "title": "Inference 4.",
+     "segments": 9
+    },
+    {
+     "file": "0029.json",
+     "ref": "2.1.5",
+     "title": "Infer. 5.",
+     "segments": 8
+    },
+    {
+     "file": "0030.json",
+     "ref": "2.1.6",
+     "title": "Infer. 6.",
+     "segments": 3
+    },
+    {
+     "file": "0031.json",
+     "ref": "2.1.7",
+     "title": "Infer. 7.",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "2.1.8",
+     "title": "Infer. 8.",
+     "segments": 5
+    },
+    {
+     "file": "0033.json",
+     "ref": "2.1.9",
+     "title": "Infer. 9.",
+     "segments": 7
+    },
+    {
+     "file": "0034.json",
+     "ref": "2.1.end",
+     "title": "2.1.end",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "3.0",
+     "title": "The Third SERMON. Serm. 3.",
+     "segments": 12
+    },
+    {
+     "file": "0036.json",
+     "ref": "3.1.0",
+     "title": "Doct.",
+     "segments": 53
+    },
+    {
+     "file": "0037.json",
+     "ref": "3.1.1.1",
+     "title": "Infer. 1.",
+     "segments": 6
+    },
+    {
+     "file": "0038.json",
+     "ref": "3.1.1.2",
+     "title": "Infer. 2.",
+     "segments": 3
+    },
+    {
+     "file": "0039.json",
+     "ref": "3.1.1.3",
+     "title": "Infer. 3.",
+     "segments": 4
+    },
+    {
+     "file": "0040.json",
+     "ref": "3.1.2.0",
+     "title": "2. Use for Conviction.",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "3.1.2.1",
+     "title": "1. Evidence.",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "3.1.2.2",
+     "title": "2. Evidence.",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "3.1.2.3",
+     "title": "3. Evidence.",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "3.1.2.4",
+     "title": "4. Evidence.",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "3.1.2.5",
+     "title": "5. Evidence.",
+     "segments": 1
+    },
+    {
+     "file": "0046.json",
+     "ref": "3.1.2.6",
+     "title": "6. Evidence.",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "3.1.3",
+     "title": "3. Use of Exhortation.",
+     "segments": 19
+    },
+    {
+     "file": "0048.json",
+     "ref": "4.0",
+     "title": "The Fourth SERMON. Serm. 4.",
+     "segments": 14
+    },
+    {
+     "file": "0049.json",
+     "ref": "4.1.0",
+     "title": "Doct.",
+     "segments": 53
+    },
+    {
+     "file": "0050.json",
+     "ref": "4.1.1",
+     "title": "Infer. 1.",
+     "segments": 4
+    },
+    {
+     "file": "0051.json",
+     "ref": "4.1.2",
+     "title": "Inference 2.",
+     "segments": 5
+    },
+    {
+     "file": "0052.json",
+     "ref": "4.1.3",
+     "title": "Infer. 3.",
+     "segments": 4
+    },
+    {
+     "file": "0053.json",
+     "ref": "4.1.4",
+     "title": "Inference 4.",
+     "segments": 4
+    },
+    {
+     "file": "0054.json",
+     "ref": "4.1.5",
+     "title": "Infer. 5.",
+     "segments": 3
+    },
+    {
+     "file": "0055.json",
+     "ref": "4.1.6",
+     "title": "Infer. 6.",
+     "segments": 2
+    },
+    {
+     "file": "0056.json",
+     "ref": "4.1.7",
+     "title": "Infer. 7.",
+     "segments": 3
+    },
+    {
+     "file": "0057.json",
+     "ref": "4.1.8",
+     "title": "Infer. 8.",
+     "segments": 2
+    },
+    {
+     "file": "0058.json",
+     "ref": "4.1.end",
+     "title": "4.1.end",
+     "segments": 1
+    },
+    {
+     "file": "0059.json",
+     "ref": "5.0",
+     "title": "The Fifth SERMON. Serm. 5.",
+     "segments": 13
+    },
+    {
+     "file": "0060.json",
+     "ref": "5.1.0",
+     "title": "Doct.",
+     "segments": 39
+    },
+    {
+     "file": "0061.json",
+     "ref": "5.1.1",
+     "title": "Argument 1.",
+     "segments": 1
+    },
+    {
+     "file": "0062.json",
+     "ref": "5.1.2",
+     "title": "Arg. 2.",
+     "segments": 1
+    },
+    {
+     "file": "0063.json",
+     "ref": "5.1.3",
+     "title": "Arg. 3.",
+     "segments": 1
+    },
+    {
+     "file": "0064.json",
+     "ref": "5.1.4",
+     "title": "Arg. 4.",
+     "segments": 1
+    },
+    {
+     "file": "0065.json",
+     "ref": "5.1.5",
+     "title": "Arg. 5.",
+     "segments": 7
+    },
+    {
+     "file": "0066.json",
+     "ref": "5.1.6.1",
+     "title": "Infer. 1.",
+     "segments": 5
+    },
+    {
+     "file": "0067.json",
+     "ref": "5.1.6.2",
+     "title": "Infer. 2.",
+     "segments": 3
+    },
+    {
+     "file": "0068.json",
+     "ref": "5.1.6.3",
+     "title": "Infer. 3.",
+     "segments": 1
+    },
+    {
+     "file": "0069.json",
+     "ref": "5.1.6.4",
+     "title": "Infer. 4.",
+     "segments": 5
+    },
+    {
+     "file": "0070.json",
+     "ref": "5.1.6.5",
+     "title": "Infer. 5.",
+     "segments": 9
+    },
+    {
+     "file": "0071.json",
+     "ref": "6.0",
+     "title": "The Sixth SERMON. Serm. 6.",
+     "segments": 9
+    },
+    {
+     "file": "0072.json",
+     "ref": "6.1.0",
+     "title": "Doct.",
+     "segments": 36
+    },
+    {
+     "file": "0073.json",
+     "ref": "6.1.1",
+     "title": "Arg. 1.",
+     "segments": 5
+    },
+    {
+     "file": "0074.json",
+     "ref": "6.1.2",
+     "title": "Arg. 2.",
+     "segments": 8
+    },
+    {
+     "file": "0075.json",
+     "ref": "6.1.3",
+     "title": "Arg. 3.",
+     "segments": 32
+    },
+    {
+     "file": "0076.json",
+     "ref": "7.0",
+     "title": "The Seventh SERMON. Serm. 7.",
+     "segments": 4
+    },
+    {
+     "file": "0077.json",
+     "ref": "7.1.0",
+     "title": "First Use of Information.",
+     "segments": 1
+    },
+    {
+     "file": "0078.json",
+     "ref": "7.1.1",
+     "title": "Infer. 1.",
+     "segments": 5
+    },
+    {
+     "file": "0079.json",
+     "ref": "7.1.2",
+     "title": "Infer. 2.",
+     "segments": 4
+    },
+    {
+     "file": "0080.json",
+     "ref": "7.1.3",
+     "title": "Infer. 3.",
+     "segments": 23
+    },
+    {
+     "file": "0081.json",
+     "ref": "7.1.4",
+     "title": "Infer. 4.",
+     "segments": 9
+    },
+    {
+     "file": "0082.json",
+     "ref": "7.1.5",
+     "title": "Inference 5.",
+     "segments": 6
+    },
+    {
+     "file": "0083.json",
+     "ref": "7.2",
+     "title": "Second Use for Examination.",
+     "segments": 30
+    },
+    {
+     "file": "0084.json",
+     "ref": "7.3.0",
+     "title": "3. Use of Exhortation.",
+     "segments": 5
+    },
+    {
+     "file": "0085.json",
+     "ref": "7.3.1",
+     "title": "First Motive.",
+     "segments": 9
+    },
+    {
+     "file": "0086.json",
+     "ref": "7.3.2",
+     "title": "Motive 2.",
+     "segments": 5
+    },
+    {
+     "file": "0087.json",
+     "ref": "7.3.3",
+     "title": "Motive 3.",
+     "segments": 12
+    },
+    {
+     "file": "0088.json",
+     "ref": "7.4.0",
+     "title": "4 Use of Direction. 4. Use.",
+     "segments": 1
+    },
+    {
+     "file": "0089.json",
+     "ref": "7.4.1",
+     "title": "Direction 1.",
+     "segments": 1
+    },
+    {
+     "file": "0090.json",
+     "ref": "7.4.2",
+     "title": "Direction 2.",
+     "segments": 1
+    },
+    {
+     "file": "0091.json",
+     "ref": "7.4.3",
+     "title": "Direction 3.",
+     "segments": 1
+    },
+    {
+     "file": "0092.json",
+     "ref": "7.4.4",
+     "title": "Direction 4.",
+     "segments": 1
+    },
+    {
+     "file": "0093.json",
+     "ref": "7.4.5",
+     "title": "Direction 5.",
+     "segments": 1
+    },
+    {
+     "file": "0094.json",
+     "ref": "7.4.6",
+     "title": "Direction 6.",
+     "segments": 1
+    },
+    {
+     "file": "0095.json",
+     "ref": "7.4.end",
+     "title": "7.4.end",
+     "segments": 1
+    },
+    {
+     "file": "0096.json",
+     "ref": "8.0",
+     "title": "The Eighth SERMON. Serm. 8.",
+     "segments": 14
+    },
+    {
+     "file": "0097.json",
+     "ref": "8.1.0",
+     "title": "Doct.",
+     "segments": 18
+    },
+    {
+     "file": "0098.json",
+     "ref": "8.1.1",
+     "title": "Position 1.",
+     "segments": 1
+    },
+    {
+     "file": "0099.json",
+     "ref": "8.1.2",
+     "title": "Position 2.",
+     "segments": 2
+    },
+    {
+     "file": "0100.json",
+     "ref": "8.1.3",
+     "title": "Position 3.",
+     "segments": 3
+    },
+    {
+     "file": "0101.json",
+     "ref": "8.1.4",
+     "title": "Position 4.",
+     "segments": 1
+    },
+    {
+     "file": "0102.json",
+     "ref": "8.1.5",
+     "title": "Position 5.",
+     "segments": 8
+    },
+    {
+     "file": "0103.json",
+     "ref": "8.1.6",
+     "title": "Infer. 1.",
+     "segments": 1
+    },
+    {
+     "file": "0104.json",
+     "ref": "8.1.7",
+     "title": "Infer. 2.",
+     "segments": 1
+    },
+    {
+     "file": "0105.json",
+     "ref": "8.1.8",
+     "title": "Infer. 3.",
+     "segments": 2
+    },
+    {
+     "file": "0106.json",
+     "ref": "8.1.9",
+     "title": "Infer. 4.",
+     "segments": 2
+    },
+    {
+     "file": "0107.json",
+     "ref": "8.1.10",
+     "title": "Inference 5.",
+     "segments": 1
+    },
+    {
+     "file": "0108.json",
+     "ref": "8.1.11",
+     "title": "Infer. 6.",
+     "segments": 2
+    },
+    {
+     "file": "0109.json",
+     "ref": "8.1.12",
+     "title": "Infer. 7.",
+     "segments": 2
+    },
+    {
+     "file": "0110.json",
+     "ref": "8.1.13",
+     "title": "Infer. 8.",
+     "segments": 6
+    },
+    {
+     "file": "0111.json",
+     "ref": "8.1.end",
+     "title": "8.1.end",
+     "segments": 1
+    },
+    {
+     "file": "0112.json",
+     "ref": "9.0",
+     "title": "The Ninth SERMON. Serm. 9.",
+     "segments": 14
+    },
+    {
+     "file": "0113.json",
+     "ref": "9.1.0",
+     "title": "Doct. 1.",
+     "segments": 30
+    },
+    {
+     "file": "0114.json",
+     "ref": "9.1.1.1",
+     "title": "Inference 1. Use.",
+     "segments": 1
+    },
+    {
+     "file": "0115.json",
+     "ref": "9.1.1.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0116.json",
+     "ref": "9.1.1.3",
+     "title": "Inference 3.",
+     "segments": 2
+    },
+    {
+     "file": "0117.json",
+     "ref": "9.1.1.4",
+     "title": "Inference 4.",
+     "segments": 6
+    },
+    {
+     "file": "0118.json",
+     "ref": "9.1.1.5",
+     "title": "Inference 5.",
+     "segments": 1
+    },
+    {
+     "file": "0119.json",
+     "ref": "9.1.1.6",
+     "title": "Inference 6.",
+     "segments": 2
+    },
+    {
+     "file": "0120.json",
+     "ref": "9.1.2.0",
+     "title": "Second Use for Counsel.",
+     "segments": 1
+    },
+    {
+     "file": "0121.json",
+     "ref": "9.1.2.1",
+     "title": "First Counsel.",
+     "segments": 1
+    },
+    {
+     "file": "0122.json",
+     "ref": "9.1.2.2",
+     "title": "Second Counsel.",
+     "segments": 1
+    },
+    {
+     "file": "0123.json",
+     "ref": "9.1.2.3",
+     "title": "Third Counsel.",
+     "segments": 1
+    },
+    {
+     "file": "0124.json",
+     "ref": "9.1.2.4",
+     "title": "Fourth Counsel.",
+     "segments": 6
+    },
+    {
+     "file": "0125.json",
+     "ref": "9.1.2.5",
+     "title": "Fifth Counsel.",
+     "segments": 4
+    },
+    {
+     "file": "0126.json",
+     "ref": "9.1.2.6",
+     "title": "Sixth Counsel.",
+     "segments": 1
+    },
+    {
+     "file": "0127.json",
+     "ref": "9.2.0",
+     "title": "Doct. 2. Doct. 2.",
+     "segments": 25
+    },
+    {
+     "file": "0128.json",
+     "ref": "9.2.1",
+     "title": "Inference 1. Use.",
+     "segments": 8
+    },
+    {
+     "file": "0129.json",
+     "ref": "9.2.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0130.json",
+     "ref": "9.2.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0131.json",
+     "ref": "9.2.4",
+     "title": "Inference 4.",
+     "segments": 3
+    },
+    {
+     "file": "0132.json",
+     "ref": "9.2.5",
+     "title": "Inference 5.",
+     "segments": 3
+    },
+    {
+     "file": "0133.json",
+     "ref": "9.2.6",
+     "title": "Inference 6.",
+     "segments": 2
+    },
+    {
+     "file": "0134.json",
+     "ref": "9.2.7",
+     "title": "Inference 7.",
+     "segments": 3
+    },
+    {
+     "file": "0135.json",
+     "ref": "9.3.0",
+     "title": "Doct. 3. Doct. 3.",
+     "segments": 3
+    },
+    {
+     "file": "0136.json",
+     "ref": "9.3.1",
+     "title": "Caution 1.",
+     "segments": 1
+    },
+    {
+     "file": "0137.json",
+     "ref": "9.3.2",
+     "title": "Caution 2.",
+     "segments": 1
+    },
+    {
+     "file": "0138.json",
+     "ref": "9.3.3",
+     "title": "Caution 3.",
+     "segments": 11
+    },
+    {
+     "file": "0139.json",
+     "ref": "9.3.4",
+     "title": "Inference 1.",
+     "segments": 2
+    },
+    {
+     "file": "0140.json",
+     "ref": "9.3.5",
+     "title": "Inference 2.",
+     "segments": 2
+    },
+    {
+     "file": "0141.json",
+     "ref": "9.3.6",
+     "title": "Inference 3.",
+     "segments": 2
+    },
+    {
+     "file": "0142.json",
+     "ref": "9.3.7",
+     "title": "Inference 4.",
+     "segments": 2
+    },
+    {
+     "file": "0143.json",
+     "ref": "9.3.8",
+     "title": "Inference 5.",
+     "segments": 2
+    },
+    {
+     "file": "0144.json",
+     "ref": "9.3.end",
+     "title": "9.3.end",
+     "segments": 1
+    },
+    {
+     "file": "0145.json",
+     "ref": "10.0",
+     "title": "The Tenth SERMON. Sermon 10.",
+     "segments": 10
+    },
+    {
+     "file": "0146.json",
+     "ref": "10.1.0",
+     "title": "DOCT.",
+     "segments": 37
+    },
+    {
+     "file": "0147.json",
+     "ref": "10.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0148.json",
+     "ref": "10.1.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0149.json",
+     "ref": "10.1.3",
+     "title": "Inference 3.",
+     "segments": 2
+    },
+    {
+     "file": "0150.json",
+     "ref": "10.1.4",
+     "title": "Inference 4.",
+     "segments": 4
+    },
+    {
+     "file": "0151.json",
+     "ref": "10.1.5",
+     "title": "Inference 5.",
+     "segments": 1
+    },
+    {
+     "file": "0152.json",
+     "ref": "10.1.6",
+     "title": "Second Use for Direction.",
+     "segments": 13
+    },
+    {
+     "file": "0153.json",
+     "ref": "10.1.end",
+     "title": "10.1.end",
+     "segments": 1
+    },
+    {
+     "file": "0154.json",
+     "ref": "11.0",
+     "title": "The Eleventh SERMON. Sermon 11.",
+     "segments": 17
+    },
+    {
+     "file": "0155.json",
+     "ref": "11.1.0",
+     "title": "DOCT.",
+     "segments": 42
+    },
+    {
+     "file": "0156.json",
+     "ref": "11.1.1",
+     "title": "Inference 1.",
+     "segments": 9
+    },
+    {
+     "file": "0157.json",
+     "ref": "11.1.2",
+     "title": "Inference 2.",
+     "segments": 6
+    },
+    {
+     "file": "0158.json",
+     "ref": "11.1.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0159.json",
+     "ref": "11.1.4",
+     "title": "Inference 4.",
+     "segments": 8
+    },
+    {
+     "file": "0160.json",
+     "ref": "11.1.5",
+     "title": "Inference 5.",
+     "segments": 5
+    },
+    {
+     "file": "0161.json",
+     "ref": "11.1.6",
+     "title": "Inference 6.",
+     "segments": 1
+    },
+    {
+     "file": "0162.json",
+     "ref": "11.1.end",
+     "title": "11.1.end",
+     "segments": 1
+    },
+    {
+     "file": "0163.json",
+     "ref": "12.0",
+     "title": "The Twelfth SERMON. Sermon 12.",
+     "segments": 8
+    },
+    {
+     "file": "0164.json",
+     "ref": "12.1.0",
+     "title": "DOCT.",
+     "segments": 43
+    },
+    {
+     "file": "0165.json",
+     "ref": "12.1.1",
+     "title": "Use 1.",
+     "segments": 8
+    },
+    {
+     "file": "0166.json",
+     "ref": "13.0",
+     "title": "The Thirteenth SERMON. Sermon 13.",
+     "segments": 5
+    },
+    {
+     "file": "0167.json",
+     "ref": "13.1.0",
+     "title": "DOCT.",
+     "segments": 18
+    },
+    {
+     "file": "0168.json",
+     "ref": "13.1.1",
+     "title": "Use for Information.",
+     "segments": 2
+    },
+    {
+     "file": "0169.json",
+     "ref": "13.1.2",
+     "title": "2d Use for Examination.",
+     "segments": 7
+    },
+    {
+     "file": "0170.json",
+     "ref": "13.1.3",
+     "title": "3d Use for Consolation.",
+     "segments": 8
+    },
+    {
+     "file": "0171.json",
+     "ref": "13.1.4",
+     "title": "4th Use for Exhortation.",
+     "segments": 11
+    },
+    {
+     "file": "0172.json",
+     "ref": "13.1.5.0",
+     "title": "5th Use for Direction.",
+     "segments": 1
+    },
+    {
+     "file": "0173.json",
+     "ref": "13.1.5.1",
+     "title": "Direction 1.",
+     "segments": 1
+    },
+    {
+     "file": "0174.json",
+     "ref": "13.1.5.2",
+     "title": "Direction 2.",
+     "segments": 1
+    },
+    {
+     "file": "0175.json",
+     "ref": "13.1.5.3",
+     "title": "Direction 3.",
+     "segments": 1
+    },
+    {
+     "file": "0176.json",
+     "ref": "13.1.5.4",
+     "title": "Direction 4.",
+     "segments": 1
+    },
+    {
+     "file": "0177.json",
+     "ref": "13.1.5.5",
+     "title": "Direction 5.",
+     "segments": 1
+    },
+    {
+     "file": "0178.json",
+     "ref": "13.1.5.6",
+     "title": "Direction 6.",
+     "segments": 1
+    },
+    {
+     "file": "0179.json",
+     "ref": "13.1.5.7",
+     "title": "Direction 7.",
+     "segments": 2
+    },
+    {
+     "file": "0180.json",
+     "ref": "13.1.end",
+     "title": "13.1.end",
+     "segments": 1
+    },
+    {
+     "file": "0181.json",
+     "ref": "14.0",
+     "title": "The Fourteenth SERMON. Sermon 14.",
+     "segments": 9
+    },
+    {
+     "file": "0182.json",
+     "ref": "14.1.0",
+     "title": "DOCT.",
+     "segments": 8
+    },
+    {
+     "file": "0183.json",
+     "ref": "14.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0184.json",
+     "ref": "14.1.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0185.json",
+     "ref": "14.1.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0186.json",
+     "ref": "14.1.4",
+     "title": "Inference 4.",
+     "segments": 1
+    },
+    {
+     "file": "0187.json",
+     "ref": "14.1.5",
+     "title": "Inference 5.",
+     "segments": 1
+    },
+    {
+     "file": "0188.json",
+     "ref": "14.1.6",
+     "title": "Inference 6.",
+     "segments": 1
+    },
+    {
+     "file": "0189.json",
+     "ref": "14.1.7",
+     "title": "Inference 7.",
+     "segments": 1
+    },
+    {
+     "file": "0190.json",
+     "ref": "14.1.8",
+     "title": "Inference 8.",
+     "segments": 1
+    },
+    {
+     "file": "0191.json",
+     "ref": "14.1.end",
+     "title": "14.1.end",
+     "segments": 1
+    },
+    {
+     "file": "0192.json",
+     "ref": "15.0",
+     "title": "The Fifteenth SERMON. Sermon 15.",
+     "segments": 8
+    },
+    {
+     "file": "0193.json",
+     "ref": "15.1.0",
+     "title": "DOCT.",
+     "segments": 33
+    },
+    {
+     "file": "0194.json",
+     "ref": "15.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0195.json",
+     "ref": "15.1.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0196.json",
+     "ref": "15.1.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0197.json",
+     "ref": "15.1.4",
+     "title": "Inference 4.",
+     "segments": 1
+    },
+    {
+     "file": "0198.json",
+     "ref": "16.0",
+     "title": "The Sixteenth SERMON. Sermon 16.",
+     "segments": 7
+    },
+    {
+     "file": "0199.json",
+     "ref": "16.1.0",
+     "title": "DOCT.",
+     "segments": 22
+    },
+    {
+     "file": "0200.json",
+     "ref": "16.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0201.json",
+     "ref": "16.1.2",
+     "title": "Inference 2.",
+     "segments": 3
+    },
+    {
+     "file": "0202.json",
+     "ref": "16.1.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0203.json",
+     "ref": "16.1.4",
+     "title": "Inference 4.",
+     "segments": 3
+    },
+    {
+     "file": "0204.json",
+     "ref": "16.1.5",
+     "title": "Inference 5.",
+     "segments": 8
+    },
+    {
+     "file": "0205.json",
+     "ref": "17.0",
+     "title": "The Seventeenth SERMON. Sermon 17.",
+     "segments": 7
+    },
+    {
+     "file": "0206.json",
+     "ref": "17.1.0",
+     "title": "DOCT.",
+     "segments": 21
+    },
+    {
+     "file": "0207.json",
+     "ref": "17.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0208.json",
+     "ref": "17.1.2",
+     "title": "Inference 2.",
+     "segments": 2
+    },
+    {
+     "file": "0209.json",
+     "ref": "17.1.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0210.json",
+     "ref": "17.1.4",
+     "title": "Inference 4.",
+     "segments": 1
+    },
+    {
+     "file": "0211.json",
+     "ref": "17.1.5",
+     "title": "Inference 5.",
+     "segments": 1
+    },
+    {
+     "file": "0212.json",
+     "ref": "17.1.6",
+     "title": "Inference 6.",
+     "segments": 1
+    },
+    {
+     "file": "0213.json",
+     "ref": "17.1.7",
+     "title": "Inference 7.",
+     "segments": 1
+    },
+    {
+     "file": "0214.json",
+     "ref": "17.1.8",
+     "title": "Inference 8.",
+     "segments": 2
+    },
+    {
+     "file": "0215.json",
+     "ref": "18.0",
+     "title": "The Eighteenth SERMON. Sermon 18.",
+     "segments": 6
+    },
+    {
+     "file": "0216.json",
+     "ref": "18.1.0",
+     "title": "DOCT.",
+     "segments": 37
+    },
+    {
+     "file": "0217.json",
+     "ref": "18.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0218.json",
+     "ref": "18.1.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0219.json",
+     "ref": "18.1.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0220.json",
+     "ref": "18.1.4",
+     "title": "Inference 4.",
+     "segments": 1
+    },
+    {
+     "file": "0221.json",
+     "ref": "18.1.5",
+     "title": "Inference 5.",
+     "segments": 1
+    },
+    {
+     "file": "0222.json",
+     "ref": "18.1.6",
+     "title": "Inference 6.",
+     "segments": 1
+    },
+    {
+     "file": "0223.json",
+     "ref": "19.0",
+     "title": "The Nineteenth SERMON. Sermon 19.",
+     "segments": 10
+    },
+    {
+     "file": "0224.json",
+     "ref": "19.1.0",
+     "title": "DOCT.",
+     "segments": 22
+    },
+    {
+     "file": "0225.json",
+     "ref": "19.1.1",
+     "title": "Deduction 1.",
+     "segments": 1
+    },
+    {
+     "file": "0226.json",
+     "ref": "19.1.2",
+     "title": "Deduction 2.",
+     "segments": 1
+    },
+    {
+     "file": "0227.json",
+     "ref": "19.1.3",
+     "title": "Deduction 3.",
+     "segments": 1
+    },
+    {
+     "file": "0228.json",
+     "ref": "19.1.4",
+     "title": "Deduction 4.",
+     "segments": 1
+    },
+    {
+     "file": "0229.json",
+     "ref": "19.1.5",
+     "title": "Deduction 5.",
+     "segments": 1
+    },
+    {
+     "file": "0230.json",
+     "ref": "19.1.6",
+     "title": "Deduction 6.",
+     "segments": 1
+    },
+    {
+     "file": "0231.json",
+     "ref": "19.1.7",
+     "title": "Deduction 7.",
+     "segments": 1
+    },
+    {
+     "file": "0232.json",
+     "ref": "19.1.end",
+     "title": "19.1.end",
+     "segments": 1
+    },
+    {
+     "file": "0233.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 3
+    },
+    {
+     "file": "0234.json",
+     "ref": "21.0",
+     "title": "The Twentieth SERMON. Sermon 20.",
+     "segments": 9
+    },
+    {
+     "file": "0235.json",
+     "ref": "21.1",
+     "title": "DOCT. 1.",
+     "segments": 1
+    },
+    {
+     "file": "0236.json",
+     "ref": "21.2",
+     "title": "DOCT. 2.",
+     "segments": 2
+    },
+    {
+     "file": "0237.json",
+     "ref": "21.3.0",
+     "title": "DOCT. 1.",
+     "segments": 28
+    },
+    {
+     "file": "0238.json",
+     "ref": "21.3.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0239.json",
+     "ref": "21.3.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0240.json",
+     "ref": "21.3.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0241.json",
+     "ref": "21.3.4",
+     "title": "Inference 4.",
+     "segments": 6
+    },
+    {
+     "file": "0242.json",
+     "ref": "22.1.0",
+     "title": "Doct. 2.",
+     "segments": 24
+    },
+    {
+     "file": "0243.json",
+     "ref": "22.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0244.json",
+     "ref": "22.1.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0245.json",
+     "ref": "22.1.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0246.json",
+     "ref": "22.1.4.0",
+     "title": "2d Use of Exhortation.",
+     "segments": 3
+    },
+    {
+     "file": "0247.json",
+     "ref": "22.1.4.1",
+     "title": "Consideration 1.",
+     "segments": 1
+    },
+    {
+     "file": "0248.json",
+     "ref": "22.1.4.2",
+     "title": "Consid. 2.",
+     "segments": 1
+    },
+    {
+     "file": "0249.json",
+     "ref": "22.1.4.3",
+     "title": "Consid. 3.",
+     "segments": 12
+    },
+    {
+     "file": "0250.json",
+     "ref": "22.1.end",
+     "title": "22.1.end",
+     "segments": 1
+    },
+    {
+     "file": "0251.json",
+     "ref": "23.0",
+     "title": "The Twenty second SERMON. Sermon 22.",
+     "segments": 8
+    },
+    {
+     "file": "0252.json",
+     "ref": "23.1",
+     "title": "DOCT. 1.",
+     "segments": 1
+    },
+    {
+     "file": "0253.json",
+     "ref": "23.2",
+     "title": "DOCT. 2.",
+     "segments": 1
+    },
+    {
+     "file": "0254.json",
+     "ref": "23.3.0",
+     "title": "DOCT. 1.",
+     "segments": 12
+    },
+    {
+     "file": "0255.json",
+     "ref": "23.3.1",
+     "title": "Lesson 1.",
+     "segments": 1
+    },
+    {
+     "file": "0256.json",
+     "ref": "23.3.2",
+     "title": "Lesson 2.",
+     "segments": 1
+    },
+    {
+     "file": "0257.json",
+     "ref": "23.3.3",
+     "title": "Lesson 3.",
+     "segments": 7
+    },
+    {
+     "file": "0258.json",
+     "ref": "23.3.4",
+     "title": "Lesson 4.",
+     "segments": 1
+    },
+    {
+     "file": "0259.json",
+     "ref": "23.3.5",
+     "title": "Lesson 5.",
+     "segments": 1
+    },
+    {
+     "file": "0260.json",
+     "ref": "23.3.6",
+     "title": "Lesson 6.",
+     "segments": 1
+    },
+    {
+     "file": "0261.json",
+     "ref": "23.3.7",
+     "title": "Lesson 7.",
+     "segments": 1
+    },
+    {
+     "file": "0262.json",
+     "ref": "23.3.8",
+     "title": "Lesson 8.",
+     "segments": 2
+    },
+    {
+     "file": "0263.json",
+     "ref": "23.3.9",
+     "title": "Lesson 9.",
+     "segments": 1
+    },
+    {
+     "file": "0264.json",
+     "ref": "23.3.10",
+     "title": "Lesson 10.",
+     "segments": 1
+    },
+    {
+     "file": "0265.json",
+     "ref": "23.3.11",
+     "title": "Lesson 11.",
+     "segments": 2
+    },
+    {
+     "file": "0266.json",
+     "ref": "23.3.12",
+     "title": "Lesson 12.",
+     "segments": 9
+    },
+    {
+     "file": "0267.json",
+     "ref": "24.0",
+     "title": "The Twenty third SERMON. Sermon 23.",
+     "segments": 2
+    },
+    {
+     "file": "0268.json",
+     "ref": "24.1.0",
+     "title": "Doct.",
+     "segments": 26
+    },
+    {
+     "file": "0269.json",
+     "ref": "24.1.1.1",
+     "title": "Inference. 1.",
+     "segments": 1
+    },
+    {
+     "file": "0270.json",
+     "ref": "24.1.1.2",
+     "title": "Infer. 2.",
+     "segments": 2
+    },
+    {
+     "file": "0271.json",
+     "ref": "24.1.1.3",
+     "title": "Infer. 3.",
+     "segments": 1
+    },
+    {
+     "file": "0272.json",
+     "ref": "24.1.1.4",
+     "title": "Inference 4.",
+     "segments": 1
+    },
+    {
+     "file": "0273.json",
+     "ref": "24.1.2.0",
+     "title": "2d Use for Examination.",
+     "segments": 1
+    },
+    {
+     "file": "0274.json",
+     "ref": "24.1.2.1",
+     "title": "Sign 1.",
+     "segments": 1
+    },
+    {
+     "file": "0275.json",
+     "ref": "24.1.2.2",
+     "title": "Sign 2.",
+     "segments": 1
+    },
+    {
+     "file": "0276.json",
+     "ref": "24.1.2.3",
+     "title": "Sign 3.",
+     "segments": 1
+    },
+    {
+     "file": "0277.json",
+     "ref": "24.1.2.4",
+     "title": "Sign 4.",
+     "segments": 1
+    },
+    {
+     "file": "0278.json",
+     "ref": "24.1.2.5",
+     "title": "Sign 5.",
+     "segments": 1
+    },
+    {
+     "file": "0279.json",
+     "ref": "24.1.2.6",
+     "title": "Sign 6.",
+     "segments": 1
+    },
+    {
+     "file": "0280.json",
+     "ref": "24.1.3",
+     "title": "3d Use of Exhortation.",
+     "segments": 7
+    },
+    {
+     "file": "0281.json",
+     "ref": "25.0",
+     "title": "The Twenty fourth SERMON. Sermon 24.",
+     "segments": 8
+    },
+    {
+     "file": "0282.json",
+     "ref": "25.1.0",
+     "title": "DOCT. Doct.",
+     "segments": 13
+    },
+    {
+     "file": "0283.json",
+     "ref": "25.1.1.0",
+     "title": "Use. Use.",
+     "segments": 2
+    },
+    {
+     "file": "0284.json",
+     "ref": "25.1.1.1",
+     "title": "Rule 1.",
+     "segments": 1
+    },
+    {
+     "file": "0285.json",
+     "ref": "25.1.1.2",
+     "title": "Rule 2.",
+     "segments": 1
+    },
+    {
+     "file": "0286.json",
+     "ref": "25.1.1.3",
+     "title": "Rule 3.",
+     "segments": 1
+    },
+    {
+     "file": "0287.json",
+     "ref": "25.1.1.4",
+     "title": "Rule 4.",
+     "segments": 1
+    },
+    {
+     "file": "0288.json",
+     "ref": "25.1.1.5",
+     "title": "Rule 5.",
+     "segments": 1
+    },
+    {
+     "file": "0289.json",
+     "ref": "25.1.1.6",
+     "title": "Rule 6.",
+     "segments": 1
+    },
+    {
+     "file": "0290.json",
+     "ref": "25.1.1.7",
+     "title": "Rule 7.",
+     "segments": 1
+    },
+    {
+     "file": "0291.json",
+     "ref": "25.1.1.8",
+     "title": "Evidence 1.",
+     "segments": 1
+    },
+    {
+     "file": "0292.json",
+     "ref": "25.1.1.9",
+     "title": "Evidence 2.",
+     "segments": 1
+    },
+    {
+     "file": "0293.json",
+     "ref": "25.1.1.10",
+     "title": "Evidence 3.",
+     "segments": 2
+    },
+    {
+     "file": "0294.json",
+     "ref": "25.1.1.11",
+     "title": "Evidence 4.",
+     "segments": 1
+    },
+    {
+     "file": "0295.json",
+     "ref": "25.1.1.12",
+     "title": "Evidence 5.",
+     "segments": 1
+    },
+    {
+     "file": "0296.json",
+     "ref": "25.1.1.13",
+     "title": "Evidence 6.",
+     "segments": 1
+    },
+    {
+     "file": "0297.json",
+     "ref": "25.1.1.14",
+     "title": "Evidence 7.",
+     "segments": 19
+    },
+    {
+     "file": "0298.json",
+     "ref": "26.0",
+     "title": "The Twenty fifth SERMON. Sermon 25.",
+     "segments": 9
+    },
+    {
+     "file": "0299.json",
+     "ref": "26.1",
+     "title": "DOCT.",
+     "segments": 38
+    },
+    {
+     "file": "0300.json",
+     "ref": "27.0",
+     "title": "The Twenty sixth SERMON. Sermon 26.",
+     "segments": 2
+    },
+    {
+     "file": "0301.json",
+     "ref": "27.1.0",
+     "title": "DOCT.",
+     "segments": 2
+    },
+    {
+     "file": "0302.json",
+     "ref": "27.1.1.0",
+     "title": "1st Use for Information.",
+     "segments": 1
+    },
+    {
+     "file": "0303.json",
+     "ref": "27.1.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0304.json",
+     "ref": "27.1.1.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0305.json",
+     "ref": "27.1.1.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0306.json",
+     "ref": "27.1.1.4",
+     "title": "Inference 4.",
+     "segments": 1
+    },
+    {
+     "file": "0307.json",
+     "ref": "27.1.1.5",
+     "title": "Inference 5.",
+     "segments": 1
+    },
+    {
+     "file": "0308.json",
+     "ref": "27.1.1.6",
+     "title": "Inference 6.",
+     "segments": 6
+    },
+    {
+     "file": "0309.json",
+     "ref": "27.1.1.7",
+     "title": "Inference 7.",
+     "segments": 1
+    },
+    {
+     "file": "0310.json",
+     "ref": "27.1.2",
+     "title": "2d. Use for Conviction.",
+     "segments": 5
+    },
+    {
+     "file": "0311.json",
+     "ref": "27.1.3",
+     "title": "3d. Use for Examination.",
+     "segments": 15
+    },
+    {
+     "file": "0312.json",
+     "ref": "27.1.4",
+     "title": "4th. Use for Exhortation.",
+     "segments": 2
+    },
+    {
+     "file": "0313.json",
+     "ref": "27.1.5",
+     "title": "5th. Use for Consolation.",
+     "segments": 1
+    },
+    {
+     "file": "0314.json",
+     "ref": "28.0",
+     "title": "The Twenty seventh SERMON. Sermon 27.",
+     "segments": 10
+    },
+    {
+     "file": "0315.json",
+     "ref": "28.1.0",
+     "title": "DOCT.",
+     "segments": 39
+    },
+    {
+     "file": "0316.json",
+     "ref": "28.1.1",
+     "title": "Evidence 1.",
+     "segments": 1
+    },
+    {
+     "file": "0317.json",
+     "ref": "28.1.2",
+     "title": "Evidence 2.",
+     "segments": 1
+    },
+    {
+     "file": "0318.json",
+     "ref": "28.1.3",
+     "title": "Evidence 3.",
+     "segments": 1
+    },
+    {
+     "file": "0319.json",
+     "ref": "28.1.4",
+     "title": "Evidence 4.",
+     "segments": 1
+    },
+    {
+     "file": "0320.json",
+     "ref": "29.0",
+     "title": "The Twenty eighth SERMON. Sermon 28.",
+     "segments": 2
+    },
+    {
+     "file": "0321.json",
+     "ref": "29.1.0",
+     "title": "DOCT.",
+     "segments": 3
+    },
+    {
+     "file": "0322.json",
+     "ref": "29.1.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0323.json",
+     "ref": "29.1.1.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0324.json",
+     "ref": "29.1.1.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0325.json",
+     "ref": "29.1.1.4",
+     "title": "Inference 4.",
+     "segments": 1
+    },
+    {
+     "file": "0326.json",
+     "ref": "29.1.1.5",
+     "title": "Inference 5.",
+     "segments": 1
+    },
+    {
+     "file": "0327.json",
+     "ref": "29.1.1.6",
+     "title": "Inference 6.",
+     "segments": 1
+    },
+    {
+     "file": "0328.json",
+     "ref": "29.1.1.7",
+     "title": "Inference 7.",
+     "segments": 1
+    },
+    {
+     "file": "0329.json",
+     "ref": "29.1.1.8",
+     "title": "Inference 8.",
+     "segments": 1
+    },
+    {
+     "file": "0330.json",
+     "ref": "29.1.1.9",
+     "title": "Inference 9.",
+     "segments": 1
+    },
+    {
+     "file": "0331.json",
+     "ref": "29.1.2.0",
+     "title": "2. Use for Exhortation.",
+     "segments": 1
+    },
+    {
+     "file": "0332.json",
+     "ref": "29.1.2.1",
+     "title": "1. Motive.",
+     "segments": 1
+    },
+    {
+     "file": "0333.json",
+     "ref": "29.1.2.2",
+     "title": "2. Motive.",
+     "segments": 1
+    },
+    {
+     "file": "0334.json",
+     "ref": "29.1.2.3",
+     "title": "3. Motive.",
+     "segments": 1
+    },
+    {
+     "file": "0335.json",
+     "ref": "29.1.2.4",
+     "title": "4. Motive.",
+     "segments": 1
+    },
+    {
+     "file": "0336.json",
+     "ref": "29.1.2.5",
+     "title": "5. Motive.",
+     "segments": 1
+    },
+    {
+     "file": "0337.json",
+     "ref": "29.1.2.6",
+     "title": "6. Motive",
+     "segments": 1
+    },
+    {
+     "file": "0338.json",
+     "ref": "29.1.3.0",
+     "title": "3d. Use for Direction.",
+     "segments": 1
+    },
+    {
+     "file": "0339.json",
+     "ref": "29.1.3.1",
+     "title": "1. Rule.",
+     "segments": 1
+    },
+    {
+     "file": "0340.json",
+     "ref": "29.1.3.2",
+     "title": "2. Rule.",
+     "segments": 1
+    },
+    {
+     "file": "0341.json",
+     "ref": "29.1.3.3",
+     "title": "3. Rule.",
+     "segments": 1
+    },
+    {
+     "file": "0342.json",
+     "ref": "29.1.3.4",
+     "title": "4. Rule.",
+     "segments": 1
+    },
+    {
+     "file": "0343.json",
+     "ref": "29.1.3.5",
+     "title": "5. Rule.",
+     "segments": 1
+    },
+    {
+     "file": "0344.json",
+     "ref": "29.1.3.6",
+     "title": "6. Rule.",
+     "segments": 1
+    },
+    {
+     "file": "0345.json",
+     "ref": "29.1.3.7",
+     "title": "7. Rule.",
+     "segments": 1
+    },
+    {
+     "file": "0346.json",
+     "ref": "29.1.3.8",
+     "title": "8. Rule.",
+     "segments": 1
+    },
+    {
+     "file": "0347.json",
+     "ref": "29.1.3.9",
+     "title": "9. Rule.",
+     "segments": 1
+    },
+    {
+     "file": "0348.json",
+     "ref": "29.1.3.10",
+     "title": "10. Rule.",
+     "segments": 1
+    },
+    {
+     "file": "0349.json",
+     "ref": "29.1.3.11",
+     "title": "1. Meditation.",
+     "segments": 1
+    },
+    {
+     "file": "0350.json",
+     "ref": "29.1.3.12",
+     "title": "2. Meditation.",
+     "segments": 1
+    },
+    {
+     "file": "0351.json",
+     "ref": "29.1.3.13",
+     "title": "3. Med.",
+     "segments": 1
+    },
+    {
+     "file": "0352.json",
+     "ref": "29.1.3.14",
+     "title": "4. Med.",
+     "segments": 1
+    },
+    {
+     "file": "0353.json",
+     "ref": "29.1.3.15",
+     "title": "5. Med.",
+     "segments": 1
+    },
+    {
+     "file": "0354.json",
+     "ref": "29.1.3.16",
+     "title": "6. Med.",
+     "segments": 1
+    },
+    {
+     "file": "0355.json",
+     "ref": "29.1.3.17",
+     "title": "7. Med.",
+     "segments": 1
+    },
+    {
+     "file": "0356.json",
+     "ref": "29.1.3.18",
+     "title": "8. Med.",
+     "segments": 1
+    },
+    {
+     "file": "0357.json",
+     "ref": "29.1.4",
+     "title": "4. Use for Examination.",
+     "segments": 14
+    },
+    {
+     "file": "0358.json",
+     "ref": "29.1.5",
+     "title": "5. Use for Consolation.",
+     "segments": 6
+    },
+    {
+     "file": "0359.json",
+     "ref": "29.1.end",
+     "title": "29.1.end",
+     "segments": 1
+    },
+    {
+     "file": "0360.json",
+     "ref": "30.0",
+     "title": "The Twenty ninth SERMON. Sermon 29.",
+     "segments": 6
+    },
+    {
+     "file": "0361.json",
+     "ref": "30.1.0",
+     "title": "DOCT.",
+     "segments": 16
+    },
+    {
+     "file": "0362.json",
+     "ref": "30.1.1",
+     "title": "Pattern 1.",
+     "segments": 7
+    },
+    {
+     "file": "0363.json",
+     "ref": "30.1.2",
+     "title": "Pattern 2.",
+     "segments": 8
+    },
+    {
+     "file": "0364.json",
+     "ref": "30.1.3",
+     "title": "Pattern 3.",
+     "segments": 9
+    },
+    {
+     "file": "0365.json",
+     "ref": "30.1.4",
+     "title": "Pattern 4.",
+     "segments": 14
+    },
+    {
+     "file": "0366.json",
+     "ref": "30.1.5",
+     "title": "Pattern 5.",
+     "segments": 12
+    },
+    {
+     "file": "0367.json",
+     "ref": "30.1.6",
+     "title": "Pattern 6.",
+     "segments": 4
+    },
+    {
+     "file": "0368.json",
+     "ref": "30.1.7",
+     "title": "Pattern 7.",
+     "segments": 5
+    },
+    {
+     "file": "0369.json",
+     "ref": "30.1.8",
+     "title": "Pattern 8.",
+     "segments": 6
+    },
+    {
+     "file": "0370.json",
+     "ref": "31.0",
+     "title": "The Thirtieth SERMON. Sermon 30.",
+     "segments": 2
+    },
+    {
+     "file": "0371.json",
+     "ref": "31.1.0",
+     "title": "DOCT.",
+     "segments": 8
+    },
+    {
+     "file": "0372.json",
+     "ref": "31.1.1.1",
+     "title": "Inference 1.",
+     "segments": 4
+    },
+    {
+     "file": "0373.json",
+     "ref": "31.1.1.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0374.json",
+     "ref": "31.1.1.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0375.json",
+     "ref": "31.1.1.4",
+     "title": "Inference 4.",
+     "segments": 1
+    },
+    {
+     "file": "0376.json",
+     "ref": "31.1.1.5",
+     "title": "Inference 5.",
+     "segments": 1
+    },
+    {
+     "file": "0377.json",
+     "ref": "31.1.2.0",
+     "title": "2d. Use for Exhortation.",
+     "segments": 1
+    },
+    {
+     "file": "0378.json",
+     "ref": "31.1.2.1",
+     "title": "1. Motive.",
+     "segments": 1
+    },
+    {
+     "file": "0379.json",
+     "ref": "31.1.2.2",
+     "title": "2. Motive.",
+     "segments": 1
+    },
+    {
+     "file": "0380.json",
+     "ref": "31.1.2.3",
+     "title": "3. Motive.",
+     "segments": 1
+    },
+    {
+     "file": "0381.json",
+     "ref": "31.1.2.4",
+     "title": "4. Motive.",
+     "segments": 1
+    },
+    {
+     "file": "0382.json",
+     "ref": "31.1.2.5",
+     "title": "5. Motive.",
+     "segments": 1
+    },
+    {
+     "file": "0383.json",
+     "ref": "31.1.2.6",
+     "title": "6. Motive.",
+     "segments": 1
+    },
+    {
+     "file": "0384.json",
+     "ref": "31.1.3.0",
+     "title": "3d. Use for Consolation.",
+     "segments": 1
+    },
+    {
+     "file": "0385.json",
+     "ref": "31.1.3.1",
+     "title": "1. Support.",
+     "segments": 1
+    },
+    {
+     "file": "0386.json",
+     "ref": "31.1.3.2",
+     "title": "2. Support.",
+     "segments": 1
+    },
+    {
+     "file": "0387.json",
+     "ref": "31.1.3.3",
+     "title": "3. Support.",
+     "segments": 1
+    },
+    {
+     "file": "0388.json",
+     "ref": "31.1.3.4",
+     "title": "4. Support.",
+     "segments": 1
+    },
+    {
+     "file": "0389.json",
+     "ref": "31.1.3.5",
+     "title": "5. Support.",
+     "segments": 1
+    },
+    {
+     "file": "0390.json",
+     "ref": "31.1.3.6",
+     "title": "6. Support.",
+     "segments": 1
+    },
+    {
+     "file": "0391.json",
+     "ref": "31.1.4",
+     "title": "For ever blessed be God for Jesus Christ.",
+     "segments": 1
+    },
+    {
+     "file": "0392.json",
+     "ref": "31.1.5",
+     "title": "Use of Lamentation.",
+     "segments": 1
+    },
+    {
+     "file": "0393.json",
+     "ref": "32.0",
+     "title": "The Thirty first SERMON. Sern •…",
+     "segments": 10
+    },
+    {
+     "file": "0394.json",
+     "ref": "32.1.0",
+     "title": "DOCT.",
+     "segments": 24
+    },
+    {
+     "file": "0395.json",
+     "ref": "32.1.1",
+     "title": "Inference 1.",
+     "segments": 3
+    },
+    {
+     "file": "0396.json",
+     "ref": "32.1.2",
+     "title": "Inference 2.",
+     "segments": 3
+    },
+    {
+     "file": "0397.json",
+     "ref": "32.1.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0398.json",
+     "ref": "32.1.4",
+     "title": "Inference 4.",
+     "segments": 1
+    },
+    {
+     "file": "0399.json",
+     "ref": "32.1.5",
+     "title": "Inference 5.",
+     "segments": 2
+    },
+    {
+     "file": "0400.json",
+     "ref": "33.0",
+     "title": "The Thirty second SERMON. Sermon 32.",
+     "segments": 6
+    },
+    {
+     "file": "0401.json",
+     "ref": "33.1.0",
+     "title": "DOCT.",
+     "segments": 24
+    },
+    {
+     "file": "0402.json",
+     "ref": "33.1.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0403.json",
+     "ref": "33.1.1.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0404.json",
+     "ref": "33.1.1.3",
+     "title": "Inference 3.",
+     "segments": 3
+    },
+    {
+     "file": "0405.json",
+     "ref": "33.1.1.4",
+     "title": "Inference 4.",
+     "segments": 1
+    },
+    {
+     "file": "0406.json",
+     "ref": "33.1.1.5",
+     "title": "Inference 5.",
+     "segments": 1
+    },
+    {
+     "file": "0407.json",
+     "ref": "33.1.1.6",
+     "title": "Inference 6.",
+     "segments": 2
+    },
+    {
+     "file": "0408.json",
+     "ref": "33.1.end",
+     "title": "33.1.end",
+     "segments": 1
+    },
+    {
+     "file": "0409.json",
+     "ref": "34.0",
+     "title": "The Thirty third SERMON. Sermon 33.",
+     "segments": 8
+    },
+    {
+     "file": "0410.json",
+     "ref": "34.1.0",
+     "title": "DOCT.",
+     "segments": 18
+    },
+    {
+     "file": "0411.json",
+     "ref": "34.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0412.json",
+     "ref": "34.1.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0413.json",
+     "ref": "34.1.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0414.json",
+     "ref": "34.1.4",
+     "title": "Inference 4.",
+     "segments": 1
+    },
+    {
+     "file": "0415.json",
+     "ref": "34.1.5",
+     "title": "Inference 5.",
+     "segments": 1
+    },
+    {
+     "file": "0416.json",
+     "ref": "34.1.6",
+     "title": "Inference 6.",
+     "segments": 1
+    },
+    {
+     "file": "0417.json",
+     "ref": "35.0",
+     "title": "The Thirty fourth SERMON. Sermon 34.",
+     "segments": 7
+    },
+    {
+     "file": "0418.json",
+     "ref": "35.1",
+     "title": "DOCT.",
+     "segments": 50
+    },
+    {
+     "file": "0419.json",
+     "ref": "36.0",
+     "title": "The Thirty fifth SERMON. Sermon 35.",
+     "segments": 2
+    },
+    {
+     "file": "0420.json",
+     "ref": "36.1.0",
+     "title": "DOCT.",
+     "segments": 10
+    },
+    {
+     "file": "0421.json",
+     "ref": "36.1.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0422.json",
+     "ref": "36.1.1.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0423.json",
+     "ref": "36.1.1.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0424.json",
+     "ref": "36.1.1.4",
+     "title": "Inference 4.",
+     "segments": 1
+    },
+    {
+     "file": "0425.json",
+     "ref": "36.1.2",
+     "title": "2d. Use of Exhortation.",
+     "segments": 9
+    },
+    {
+     "file": "0426.json",
+     "ref": "36.1.3",
+     "title": "The Conclusion.",
+     "segments": 8
+    },
+    {
+     "file": "0427.json",
+     "ref": "36.1.end",
+     "title": "36.1.end",
+     "segments": 1
+    },
+    {
+     "file": "0428.json",
+     "ref": "36.end",
+     "title": "36.end",
+     "segments": 1
+    }
+   ]
+  }
+ ]
+}

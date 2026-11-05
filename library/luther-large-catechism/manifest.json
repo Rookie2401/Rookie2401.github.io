@@ -1,0 +1,102 @@
+{
+ "workId": "luther-large-catechism",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "luther-large-catechism-triglot-gutenberg",
+   "role": "english",
+   "language": "english",
+   "credit": "The Large Catechism (tr. F. Bente and W. H. T. Dau), in Triglot Concordia: The Symbolical Books of the Ev. Lutheran Church (St. Louis: Concordia Publishing House, 1921), pp. 565–773, trans. F. Bente; W. H. T. Dau (St. Louis: Concordia Publishing House, 1921). Transcription: Rev. Bob Smith (Project Wittenberg), Project Gutenberg (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/1722/pg1722.txt",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 288690,
+   "sourceSha256": "a1f3497a3e9a6a3024be1419fd588098d0949db9b966108f86750ae04eefd09f",
+   "leftOut": {
+    "gutenbergLine": 3
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "https://www.gutenberg.org/cache/epub/1722/pg1722.txt",
+     "bytes": 288690,
+     "sha256": "a1f3497a3e9a6a3024be1419fd588098d0949db9b966108f86750ae04eefd09f"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "s1",
+     "title": "s1",
+     "segments": 21
+    },
+    {
+     "file": "0002.json",
+     "ref": "s2",
+     "title": "SHORT PREFACE OF DR. MARTIN LUTHER.",
+     "segments": 3
+    },
+    {
+     "file": "0003.json",
+     "ref": "s3",
+     "title": "THE TEN COMMANDMENTS OF GOD.",
+     "segments": 11
+    },
+    {
+     "file": "0004.json",
+     "ref": "s4",
+     "title": "THE CHIEF ARTICLES OF OUR FAITH.",
+     "segments": 4
+    },
+    {
+     "file": "0005.json",
+     "ref": "s5",
+     "title": "THE PRAYER, OR \"OUR FATHER,\" WHICH CHRIST TAUGHT",
+     "segments": 9
+    },
+    {
+     "file": "0006.json",
+     "ref": "s6",
+     "title": "OF BAPTISM.",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "s7",
+     "title": "OF THE SACRAMENT",
+     "segments": 197
+    },
+    {
+     "file": "0008.json",
+     "ref": "a1",
+     "title": "Article I.",
+     "segments": 8
+    },
+    {
+     "file": "0009.json",
+     "ref": "a2",
+     "title": "Article II.",
+     "segments": 7
+    },
+    {
+     "file": "0010.json",
+     "ref": "a3",
+     "title": "Article III.",
+     "segments": 98
+    },
+    {
+     "file": "0011.json",
+     "ref": "s11",
+     "title": "OF BAPTISM.",
+     "segments": 26
+    },
+    {
+     "file": "0012.json",
+     "ref": "s12",
+     "title": "OF THE SACRAMENT OF THE ALTAR.",
+     "segments": 40
+    }
+   ]
+  }
+ ]
+}

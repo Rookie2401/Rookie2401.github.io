@@ -1,0 +1,1013 @@
+{
+ "workId": "beza-confession",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "beza-briefe-summe-fills-1565",
+   "role": "english",
+   "language": "english",
+   "credit": "A brief and pithy sum of the Christian faith made in form of a confession (tr. R.F. = Robert Fills), in EEBO-TCP A68595 (STC 2007), trans. Robert Fills (London: Richard Serll, 1565). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A68595/master/A68595.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 644154,
+   "sourceSha256": "6258e2184f68f2d23087b74c0270bfa741ef4216754256d92485f9ab5adbaf41",
+   "leftOut": {
+    "pb": 402,
+    "unread": 305,
+    "note": 822
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 63125,
+    "unreadPerThousand": 4.8
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "The principall poynctes treated in thys confeſſion.",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "front.2",
+     "title": "To the ryght honorable and vertuous Lord, the Lord Haſtinges, Earle of Huntington. &c. Robert Fyll, vvysheth long lyfe with increaſe of honour in the feare of God. Amen. (⸫)",
+     "segments": 4
+    },
+    {
+     "file": "0003.json",
+     "ref": "front.3",
+     "title": "The Printer to the Reader.",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "front.4",
+     "title": "¶ Certaine textes of the new Teſtament by the which euery faythfull chriſtian is exhorted to render a confeſsion of their • aith before men.",
+     "segments": 11
+    },
+    {
+     "file": "0005.json",
+     "ref": "front.5",
+     "title": "❧ Theodore de Beze. to the Church of the Lord, grace and peace in him.",
+     "segments": 7
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.1.1",
+     "title": "The firſt Article of the vnitie of God.",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.1.2",
+     "title": "2. Of the Trinitie of perſones diſtinct in one vnitie of ſubſtaunce.",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.1.3",
+     "title": "3. Of the eternall prouidence of God.",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.2.1",
+     "title": "1.2.1",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.2.2",
+     "title": "•. Hovve the father is creatour and preſeruour of all thinges.",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.2.3",
+     "title": "3. Of the creation of Angels.",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.2.4",
+     "title": "4. The vvorkes of the Trinitye are inſeperable.",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.3.1",
+     "title": "The firſt article of the diuinity of the Sonne.",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.3.2",
+     "title": "2 The ſonne onely mediatour betvveene god and his elect eternally ordained.",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.3.3",
+     "title": "3. God is perfectlye iuſte and me 〈…〉 cyfull.",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.3.4",
+     "title": "4. God is immutable.",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.3.5",
+     "title": "5. The councell of god dothe not exclude the ſeconde cauſes.",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.3.6",
+     "title": "6. Man vvas created to declare the Iuſtice and mercy of god.",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.3.7",
+     "title": "7. vvhye it vvas neceſſarye that the firſte man shoulde be created good and pure.",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.3.8",
+     "title": "8. It vvas neceſſarye that man ſhould fal from his puritie.",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.3.9",
+     "title": "9 Hovv God hath created men good.",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.3.10",
+     "title": "10 Hovve man broughte himſelfe vvith all hys poſteritie culpable of the firſt and ſecond death.",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.3.11",
+     "title": "xi. The vvaye vvhyche leadeth to the firſt death.",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.3.12",
+     "title": "12. The firſt death cannot be eternal.",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.3.13",
+     "title": "13. The vvaye vvhich leadeth to the ſeconde death.",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.3.14",
+     "title": "14 vvhat frevvyll remayneth in man after ſynne.",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.3.15",
+     "title": "15. Abriefe ſome of originall ſynne",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.3.16",
+     "title": "16. Hovve god tourneth mannes ſynn 〈…〉 his glorye.",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.3.17",
+     "title": "17. Ieſus Chriſt the onely med • atou • ordained and promiſed.",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.3.18",
+     "title": "18. The agrement and difference of the olde and nevve teſtament.",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.3.19",
+     "title": "19 vvherfore it behoued Ieſus Chriſt to be a verye naturall man in bodie and ſoule vvithout ſynne.",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.3.20",
+     "title": "20. wherfore it was needfull that Ieſus Chriſt ſhould be very God.",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.3.21",
+     "title": "21. Howe the miſterie of our ſaluation was fulfilled in Ieſus Chriſt.",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.3.22",
+     "title": "22 The tvvo natures vvere vnited and knitte in one perſon from the firſt inſtaunt of the conception.",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.3.23",
+     "title": "23 The virgin Marye is mother of Ieſus Chriſt God and man.",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.3.24",
+     "title": "24. The ſumme of the accomplishement of oure ſaluation in Ieſus chriſt.",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.3.25",
+     "title": "25. Hovve Ieſus chriſt beinge aſcended into heuen is neuertheles here on earth vvith his flocke.",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.3.26",
+     "title": "29. There can be no other nevve religion then this.",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.4.1",
+     "title": "The firſte article of the perſon of the holye Ghoſte.",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.4.2",
+     "title": "2. Of the effectes properlie conſidered in the holie ghoſt.",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.4.3",
+     "title": "3. The holie ghoſt maketh vs partakers of Ieſus Chriſt by faith onelie.",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.4.4",
+     "title": "4. vvhat meanes the holie ghoſt vſeth to create and maintaine faith in vs.",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.4.5",
+     "title": "5. Hovve neceſſarie faith is, and vvhat faith is.",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "1.4.6",
+     "title": "1.4.6",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "1.4.7",
+     "title": "7. Hovve this is to be vnderſtande, vvhich vve ſaye, as Sainet Paule ſayth, that vve be iuſtified by onely faithe.",
+     "segments": 1
+    },
+    {
+     "file": "0046.json",
+     "ref": "1.4.8",
+     "title": "8. To be aſſured of our ſaluation by faith in Ieſus Chriſt, is nothing leſſe then arrogancie or preſumtion.",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "1.4.9",
+     "title": "9 Faith fyndeth in Ieſus Chriſt, al that is neceſſary to ſaluation.",
+     "segments": 1
+    },
+    {
+     "file": "0048.json",
+     "ref": "1.4.10",
+     "title": "10 Of the remedy w • hich faith findeth in Ieſus Chriſt only againſt the firſt aſsault of the fyrſt temptatiō grounded vpon the multitude of our ſinnes and what aſsuraunce there is in this caſe, eythe",
+     "segments": 4
+    },
+    {
+     "file": "0049.json",
+     "ref": "1.4.11",
+     "title": "11 The remedy which onely faith fyndeth in Ieſus Chriſt onely againſt the ſecond aſsault of the fyrſt temptation grounded vppon this, that we be vnfurnyshed of the righteouſnes which God requireth of ",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "1.4.12",
+     "title": "12 The third aſſault of the ſame temptation, grounded vppon the naturall corruption or originall ſinne whiche is within vs.",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "1.4.13",
+     "title": "13 The remedye againſt the ſeconde temptation, whether we haue faith or not.",
+     "segments": 1
+    },
+    {
+     "file": "0052.json",
+     "ref": "1.4.14",
+     "title": "14 Thoſe do ſlaunder vs falſely, which ſaye, that we diſalowe good works.",
+     "segments": 1
+    },
+    {
+     "file": "0053.json",
+     "ref": "1.4.15",
+     "title": "15 The firſt difference in the matter of good workes is, which be good, and which be euyll.",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "1.4.16.0",
+     "title": "16 vvhich be the moſt excellent works & the qualities of true praier according to the vvord of God, and the authoritie of the auncient doctours of the Church.",
+     "segments": 8
+    },
+    {
+     "file": "0055.json",
+     "ref": "1.4.16.1",
+     "title": "¶ Of workes of Charitie.",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "1.4.16.2",
+     "title": "¶ Of workes indifferent.",
+     "segments": 2
+    },
+    {
+     "file": "0057.json",
+     "ref": "1.4.17",
+     "title": "17 The ſeconde difference in the matter of good workes, is to know from vvhence they proceede.",
+     "segments": 1
+    },
+    {
+     "file": "0058.json",
+     "ref": "1.4.18",
+     "title": "18 The thirde difference of the matter of good worke, is to knowe wherto they be good.",
+     "segments": 1
+    },
+    {
+     "file": "0059.json",
+     "ref": "1.4.19",
+     "title": "19 To vvhat ende good vvorkes doo ſerue vs before God and before men.",
+     "segments": 6
+    },
+    {
+     "file": "0060.json",
+     "ref": "1.4.20",
+     "title": "20. Remedies againſt the laſt and moſt daungerous temptation, vvhiche is▪ vvhether vve be ſaued or not.",
+     "segments": 9
+    },
+    {
+     "file": "0061.json",
+     "ref": "1.4.21",
+     "title": "21. Of tvvo inſtrumentes, vvhere vvith the holy ghoſte is ſerued to create fayth in the hartes of his electe, to vvitte, the vvord of • od, and the ſacramentes.",
+     "segments": 1
+    },
+    {
+     "file": "0062.json",
+     "ref": "1.4.22",
+     "title": "22 What it is that vve call the vvorde of God, and of the tvvo partes, that is to ſay, the lavve and the Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0063.json",
+     "ref": "1.4.23",
+     "title": "23. What difference there is betvveene the lavve and the Goſpell.",
+     "segments": 3
+    },
+    {
+     "file": "0064.json",
+     "ref": "1.4.24",
+     "title": "24 After vvhat maner the preachyng of the lavve ſerueth the holy Ghoſt.",
+     "segments": 2
+    },
+    {
+     "file": "0065.json",
+     "ref": "1.4.25",
+     "title": "25. Of the other parte of the worde of God called the Goſpell, of what authorite it is. Wherefore, howe, and to what ende it is written.",
+     "segments": 6
+    },
+    {
+     "file": "0066.json",
+     "ref": "1.4.26",
+     "title": "26. Hovve the Goſpell comprehendeth in ſubſtaunce, all the bookes of the olde teſtament.",
+     "segments": 1
+    },
+    {
+     "file": "0067.json",
+     "ref": "1.4.27",
+     "title": "27 Hovv it is to be vnderſtande that vve haue ſpoken of the auctoritie of the vvoorde vvritten, and if it be neceſſarie to tranſlate it into all languages.",
+     "segments": 2
+    },
+    {
+     "file": "0068.json",
+     "ref": "1.4.28",
+     "title": "28. Hovv the holy Ghoſt is ſerued vvith the exteriour preachyng of the Goſpel, to create faith in the hartes of the elect▪ and to harden the reprobate.",
+     "segments": 1
+    },
+    {
+     "file": "0069.json",
+     "ref": "1.4.29",
+     "title": "26. Another fruite of the preaching of the lavv, after the preaching of the goſpell beginneth to vvorke.",
+     "segments": 1
+    },
+    {
+     "file": "0070.json",
+     "ref": "1.4.30",
+     "title": "30 The ſecond meane vvhich the holye Ghoſt vſeth to make vs reioice in Ieſus Chriſt▪ and vvherefore the Lord is not onely content vvith the ſimple preaching of his vvord.",
+     "segments": 1
+    },
+    {
+     "file": "0071.json",
+     "ref": "1.4.31",
+     "title": "31 The diffinition of that vvhich is called a Sacrament.",
+     "segments": 1
+    },
+    {
+     "file": "0072.json",
+     "ref": "1.4.32",
+     "title": "32▪ The difference betvvene the ſacramentes of the olde couenaunt▪ and thoſe of the nevve.",
+     "segments": 3
+    },
+    {
+     "file": "0073.json",
+     "ref": "1.4.33",
+     "title": "33. VVherby the falſe ſacramentes be knowen from the true and the abuſe of them from the right vſage.",
+     "segments": 3
+    },
+    {
+     "file": "0074.json",
+     "ref": "1.4.34",
+     "title": "34. VVhich thinges be common to the preaching of the worde and to the ſacramentes.",
+     "segments": 5
+    },
+    {
+     "file": "0075.json",
+     "ref": "1.4.35",
+     "title": "1.4.35",
+     "segments": 7
+    },
+    {
+     "file": "0076.json",
+     "ref": "1.4.36",
+     "title": "36 Howe there is but two Sacramentes in the Chriſtian Church.",
+     "segments": 1
+    },
+    {
+     "file": "0077.json",
+     "ref": "1.4.37",
+     "title": "27. The foure pointes vvhiche be to be conſidered in the declaration of this matter.",
+     "segments": 5
+    },
+    {
+     "file": "0078.json",
+     "ref": "1.4.38",
+     "title": "38. The firſt point is to vnderſtand what we doe meane by the name of ſigne, in this matter of Sacramentes, and wherefore the Lorde did choſe for ſignes the moſt vulgar and common thinges.",
+     "segments": 1
+    },
+    {
+     "file": "0079.json",
+     "ref": "1.4.39",
+     "title": "40. From whence procedeth this alteration & the errour of thoſe which make a charme▪ or ſorcerie of the ſacramentall wordes.",
+     "segments": 1
+    },
+    {
+     "file": "0080.json",
+     "ref": "1.4.40",
+     "title": "42. The ſacraments be no ſacraments without the vſe of them.",
+     "segments": 3
+    },
+    {
+     "file": "0081.json",
+     "ref": "1.4.41",
+     "title": "43. The ſecond point is of the thing ſignified in the Sacramentes.",
+     "segments": 1
+    },
+    {
+     "file": "0082.json",
+     "ref": "1.4.42",
+     "title": "44. The thirde poynt is how Ieſus Chriſt is ioyned with the ſignes.",
+     "segments": 1
+    },
+    {
+     "file": "0083.json",
+     "ref": "1.4.43",
+     "title": "45. The diſtinction of ſignes and of the thing ſignified.",
+     "segments": 1
+    },
+    {
+     "file": "0084.json",
+     "ref": "1.4.44",
+     "title": "94. The maner to communicate aſwel the ſignes of the Sacramentes as the thing ſignifyed.",
+     "segments": 1
+    },
+    {
+     "file": "0085.json",
+     "ref": "1.4.45",
+     "title": "47. Application of all that is before ſaid of the facrament of Baptiſme.",
+     "segments": 6
+    },
+    {
+     "file": "0086.json",
+     "ref": "1.4.46",
+     "title": "48. For what cauſes the younge children of the faythfull be baptiſed.",
+     "segments": 3
+    },
+    {
+     "file": "0087.json",
+     "ref": "1.4.47.0",
+     "title": "49. Application of all that goeth before of the Sacrament of the Supper and the right vſe thereof.",
+     "segments": 2
+    },
+    {
+     "file": "0088.json",
+     "ref": "1.4.47.1",
+     "title": "¶ Theſe places followyng be alledged by the Fathers, touching this expoſition.",
+     "segments": 1
+    },
+    {
+     "file": "0089.json",
+     "ref": "1.4.47.2",
+     "title": "1.4.47.2",
+     "segments": 5
+    },
+    {
+     "file": "0090.json",
+     "ref": "1.4.48",
+     "title": "50. The concluſion of the matter of the Sacramentes.",
+     "segments": 1
+    },
+    {
+     "file": "0091.json",
+     "ref": "1.4.49",
+     "title": "51. Wherefore the holye ghoſt is called the conſolator or comforter and to vvhat purpoſe and ende the afflictionsActes. 9 of the faithfull ſerueth.",
+     "segments": 1
+    },
+    {
+     "file": "0092.json",
+     "ref": "1.5.1",
+     "title": "1. That there hath alvvaies beene and euer shall be a Church, out of the vvhich there is no ſaluation.",
+     "segments": 1
+    },
+    {
+     "file": "0093.json",
+     "ref": "1.5.2",
+     "title": "2. There can be but one true church",
+     "segments": 1
+    },
+    {
+     "file": "0094.json",
+     "ref": "1.5.3",
+     "title": "3. VVherefore vve call the Churche catholyke.",
+     "segments": 1
+    },
+    {
+     "file": "0095.json",
+     "ref": "1.5.4",
+     "title": "4. In vvhat thyng lyeth the communion of ſainctes.",
+     "segments": 1
+    },
+    {
+     "file": "0096.json",
+     "ref": "1.5.5",
+     "title": "5. The churche hath but one heade, that is to ſaye Ieſus Chriſte, to vvhome there needeth no lieu tenaunt.",
+     "segments": 1
+    },
+    {
+     "file": "0097.json",
+     "ref": "1.5.6",
+     "title": "9. The commu • ion of the Saintes letteth nor hind • r •• h not the diuerſity of offyces amonge the faythfull.",
+     "segments": 1
+    },
+    {
+     "file": "0098.json",
+     "ref": "1.5.7",
+     "title": "7. The markes vvhereby vve maye diſcerne the falſe Churche from the true.",
+     "segments": 1
+    },
+    {
+     "file": "0099.json",
+     "ref": "1.5.8",
+     "title": "8. Whiche be the true members of the Church.",
+     "segments": 1
+    },
+    {
+     "file": "0100.json",
+     "ref": "1.5.9",
+     "title": "9 The markes or tokens of the Churche bée not alvvayes in one eſtate, and hovve it oughte to bee gouerned.",
+     "segments": 1
+    },
+    {
+     "file": "0101.json",
+     "ref": "1.5.10",
+     "title": "10 Wherein conſiſteth the duetie and authoritie of the Churche generally.",
+     "segments": 1
+    },
+    {
+     "file": "0102.json",
+     "ref": "1.5.11",
+     "title": "1.5.11",
+     "segments": 2
+    },
+    {
+     "file": "0103.json",
+     "ref": "1.5.12",
+     "title": "•• Hovve far vve may differ from the councels.",
+     "segments": 1
+    },
+    {
+     "file": "0104.json",
+     "ref": "1.5.13",
+     "title": "13. To vvhome it pertayneth to call a councell.",
+     "segments": 1
+    },
+    {
+     "file": "0105.json",
+     "ref": "1.5.14",
+     "title": "14 Hovve thoſe oughte to be choſen, vvhiche the Churches doe ſende • o the councels.",
+     "segments": 1
+    },
+    {
+     "file": "0106.json",
+     "ref": "1.5.15",
+     "title": "15. Euery man ought to be heard in the councell. Prouyded that there be no confuſion.",
+     "segments": 1
+    },
+    {
+     "file": "0107.json",
+     "ref": "1.5.16",
+     "title": "16. Who ought to preſede or be chiefe in the councell.",
+     "segments": 1
+    },
+    {
+     "file": "0108.json",
+     "ref": "1.5.17",
+     "title": "17 How far extendeth the power of the Counſels, and why they be ordained in the Church.",
+     "segments": 2
+    },
+    {
+     "file": "0109.json",
+     "ref": "1.5.18",
+     "title": "18 The fyrſt poynt to conſider the caſe well, when or at what tyme they should ſet vp politike lawes in the Church.",
+     "segments": 2
+    },
+    {
+     "file": "0110.json",
+     "ref": "1.5.19",
+     "title": "19 The ſeconde poynt which is to be conſidered in the eccleſiaſticall ordinaunces.",
+     "segments": 1
+    },
+    {
+     "file": "0111.json",
+     "ref": "1.5.20",
+     "title": "20 The thyrde conſideration that ought to be had in eccleſiaſticall ordinaunces.",
+     "segments": 1
+    },
+    {
+     "file": "0112.json",
+     "ref": "1.5.21",
+     "title": "21 VVhat is to be aunſwered to thoſe which alledge councels againſt vs.",
+     "segments": 1
+    },
+    {
+     "file": "0113.json",
+     "ref": "1.5.22",
+     "title": "22. Of particular Counſels as of nations o • prouinces.",
+     "segments": 1
+    },
+    {
+     "file": "0114.json",
+     "ref": "1.5.23",
+     "title": "23 How many ſortes of ſpeciall gouernours there be in the church.",
+     "segments": 1
+    },
+    {
+     "file": "0115.json",
+     "ref": "1.5.24",
+     "title": "24 The offyce of Apoſtles, Euangeliſtes▪ and Prophets in the primatiue Church.",
+     "segments": 1
+    },
+    {
+     "file": "0116.json",
+     "ref": "1.5.25",
+     "title": "15 Of the offyce of paſtours and doctours.",
+     "segments": 1
+    },
+    {
+     "file": "0117.json",
+     "ref": "1.5.26",
+     "title": "26 The difference betweene Paſtors and Doctours.",
+     "segments": 1
+    },
+    {
+     "file": "0118.json",
+     "ref": "1.5.27",
+     "title": "27 The paſtours and doctours bee but inſtrumentes by the which God conducteth the miniſterie of his worde.",
+     "segments": 1
+    },
+    {
+     "file": "0119.json",
+     "ref": "1.5.28",
+     "title": "28 The marckes and tokens of falſe doctours and paſtours.",
+     "segments": 3
+    },
+    {
+     "file": "0120.json",
+     "ref": "1.5.29",
+     "title": "29 Of degrees which ought to bee among Miniſters of the word, accordyng as they be diſſeuered by companies.",
+     "segments": 1
+    },
+    {
+     "file": "0121.json",
+     "ref": "1.5.30",
+     "title": "54 The ſecōd degree of eccleſiaſtical offices which is the office of deacōs, & the diſtribution of the goods of the church.",
+     "segments": 2
+    },
+    {
+     "file": "0122.json",
+     "ref": "1.5.31",
+     "title": "31 Of the fowre orders which they call minores ordines.",
+     "segments": 1
+    },
+    {
+     "file": "0123.json",
+     "ref": "1.5.32",
+     "title": "32 The thirde degree of eccleſiaſticall offyces whiche is the Iuriſdiction and offyce of the elders.",
+     "segments": 1
+    },
+    {
+     "file": "0124.json",
+     "ref": "1.5.33",
+     "title": "33 To what purpoſe or ende ſerueth the eccleſiaſticall iuriſdiction and which be the partes therof.",
+     "segments": 1
+    },
+    {
+     "file": "0125.json",
+     "ref": "1.5.34",
+     "title": "34 VVhat is the office of the Elders in the Church.",
+     "segments": 1
+    },
+    {
+     "file": "0126.json",
+     "ref": "1.5.35",
+     "title": "35 How the eccleſiaſticall elections ought to be.",
+     "segments": 1
+    },
+    {
+     "file": "0127.json",
+     "ref": "1.5.36",
+     "title": "36 Of the qualities and conditions of thoſe which they ought to elect.",
+     "segments": 1
+    },
+    {
+     "file": "0128.json",
+     "ref": "1.5.37",
+     "title": "37 The order and maner to geue the voyces.",
+     "segments": 1
+    },
+    {
+     "file": "0129.json",
+     "ref": "1.5.38",
+     "title": "38 Of confyrmation and conſecration of the perſons elected.",
+     "segments": 1
+    },
+    {
+     "file": "0130.json",
+     "ref": "1.5.39",
+     "title": "39 Of mariage, of faſting, and of the difference of dayes, and meates.",
+     "segments": 6
+    },
+    {
+     "file": "0131.json",
+     "ref": "1.5.40",
+     "title": "40 Of the ſecōd part of the ecclaſiaſticall iuriſdiction, concerning correction.",
+     "segments": 3
+    },
+    {
+     "file": "0132.json",
+     "ref": "1.5.41",
+     "title": "41 vvhat excommunication is, & what the right vſe thereof is.",
+     "segments": 7
+    },
+    {
+     "file": "0133.json",
+     "ref": "1.5.42",
+     "title": "42 Of the ciuill and Chriſtiā magiſtrate and to what ende his office tendeth.",
+     "segments": 1
+    },
+    {
+     "file": "0134.json",
+     "ref": "1.5.43",
+     "title": "33 Howe far they are bounde to obey the magiſtrate.",
+     "segments": 1
+    },
+    {
+     "file": "0135.json",
+     "ref": "1.6.1",
+     "title": "1. VVhat it is that we do beleeue and hope of the laſt iudgement.",
+     "segments": 1
+    },
+    {
+     "file": "0136.json",
+     "ref": "1.7.1",
+     "title": "1 The Papiſtes worshippeth a falſe God, which is neyther righteous nor mercifull.",
+     "segments": 4
+    },
+    {
+     "file": "0137.json",
+     "ref": "1.7.2",
+     "title": "2 If the doctrine of the Papiſtes bee true, it foloweth that Ieſus Chriſte is not verie man.",
+     "segments": 1
+    },
+    {
+     "file": "0138.json",
+     "ref": "1.7.3",
+     "title": "3 The papiſtes doctrine maketh the oblation of Ieſus Chriſte of none effecte.",
+     "segments": 6
+    },
+    {
+     "file": "0139.json",
+     "ref": "1.7.4",
+     "title": "4 The Papiſtes aboly • heth the true interceſsion of Ieſus Chriſt.",
+     "segments": 1
+    },
+    {
+     "file": "0140.json",
+     "ref": "1.7.5",
+     "title": "5 The Papiſts doth not acknowledge Ieſus Chriſt to be the perfect declarer of the wyll of God, neyther the holy Scriptures to bee a ſuffycient doctrine of ſaluation.",
+     "segments": 3
+    },
+    {
+     "file": "0141.json",
+     "ref": "1.7.6",
+     "title": "6 The papiſtes ſpoyleth Ieſus Chriſt of his office of head of the church.",
+     "segments": 1
+    },
+    {
+     "file": "0142.json",
+     "ref": "1.7.7",
+     "title": "7 By the doctrine of the papiſts, we can in no wiſe vnderſtand how mortal the naturall ſicknes of mankinde is.",
+     "segments": 2
+    },
+    {
+     "file": "0143.json",
+     "ref": "1.7.8",
+     "title": "8 Another execrable error of the papiſtes in the vſing of the onely medicine of health, which is the benefit of Ieſus Chriſt.",
+     "segments": 1
+    },
+    {
+     "file": "0144.json",
+     "ref": "1.7.9",
+     "title": "9 They know not in the papiſtry the exerciſe of the lawe of God, or the goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0145.json",
+     "ref": "1.7.10",
+     "title": "10 They know not what good workes are in the papiſtrie.",
+     "segments": 4
+    },
+    {
+     "file": "0146.json",
+     "ref": "1.7.11.0",
+     "title": "11 In the papiſtry they know not what is a Sacrament, nor what is the vſe therof.",
+     "segments": 2
+    },
+    {
+     "file": "0147.json",
+     "ref": "1.7.11.1",
+     "title": "Firſt of confyrmation.",
+     "segments": 1
+    },
+    {
+     "file": "0148.json",
+     "ref": "1.7.11.2",
+     "title": "Of penance.",
+     "segments": 6
+    },
+    {
+     "file": "0149.json",
+     "ref": "1.7.11.3",
+     "title": "Of contrition.",
+     "segments": 1
+    },
+    {
+     "file": "0150.json",
+     "ref": "1.7.11.4",
+     "title": "Of confeſſion.",
+     "segments": 10
+    },
+    {
+     "file": "0151.json",
+     "ref": "1.7.11.5",
+     "title": "¶ Of the extreme vnction called anealing.",
+     "segments": 1
+    },
+    {
+     "file": "0152.json",
+     "ref": "1.7.11.6",
+     "title": "Of orders.",
+     "segments": 2
+    },
+    {
+     "file": "0153.json",
+     "ref": "1.7.11.7",
+     "title": "Of the clericall tonſure.",
+     "segments": 6
+    },
+    {
+     "file": "0154.json",
+     "ref": "1.7.11.8",
+     "title": "Of mariage.",
+     "segments": 1
+    },
+    {
+     "file": "0155.json",
+     "ref": "1.7.11.9",
+     "title": "Of Baptiſme.",
+     "segments": 4
+    },
+    {
+     "file": "0156.json",
+     "ref": "1.7.11.10",
+     "title": "Of the Supper.",
+     "segments": 12
+    },
+    {
+     "file": "0157.json",
+     "ref": "1.7.12",
+     "title": "12 In the papiſtry there is no eccleſiaſtical gouernement.",
+     "segments": 19
+    },
+    {
+     "file": "0158.json",
+     "ref": "1.7.13",
+     "title": "13 The abuſe which is commytted in the ſeconde partie of eccleſiaſticall offyces which be Deacons.",
+     "segments": 4
+    },
+    {
+     "file": "0159.json",
+     "ref": "1.7.14.0",
+     "title": "14 Of the abuſe which is commytted in the order of Prieſthoode, and in the gouernment of theyr ſpirituall iuriſdiction.",
+     "segments": 13
+    },
+    {
+     "file": "0160.json",
+     "ref": "1.7.14.1",
+     "title": "¶ Of Moonkes.",
+     "segments": 8
+    },
+    {
+     "file": "0161.json",
+     "ref": "1.7.15",
+     "title": "15 The Papiſts be manifeſtly culpable of rebellion againſt the magiſtrate.",
+     "segments": 1
+    },
+    {
+     "file": "0162.json",
+     "ref": "1.8",
+     "title": "¶ The concluſion of that is aforeſayde.",
+     "segments": 3
+    },
+    {
+     "file": "0163.json",
+     "ref": "1.end",
+     "title": "1.end",
+     "segments": 1
+    },
+    {
+     "file": "0164.json",
+     "ref": "2",
+     "title": "Another briefe confeſsion of fayth, according to the ſame herebefore and the ſame authour.",
+     "segments": 37
+    }
+   ]
+  }
+ ]
+}

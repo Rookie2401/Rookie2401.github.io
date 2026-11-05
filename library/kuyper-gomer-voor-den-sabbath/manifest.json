@@ -1,0 +1,459 @@
+{
+ "workId": "kuyper-gomer-voor-den-sabbath",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "kuyper-gomer-sabbath-gutenberg",
+   "role": "original",
+   "language": "dutch",
+   "credit": "Gomer voor den sabbath: meditatiën over en voor den sabbath, in Project Gutenberg eBook #37014 (Amsterdam; Pretoria: Boekhandel voorheen Höveker & Wormser (Zuid-Hollandsche Boek- en Handelsdrukkerij), 1889). Transcription: Online Distributed Proofreading Team (Project Gutenberg #37014) (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/37014/pg37014.txt",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 523393,
+   "sourceSha256": "94fb09f9a5e76a3bca2e8dc3115ff166d3a3f434e95901157498f7278a952b5c",
+   "leftOut": {
+    "transcriberNote": 1,
+    "noteMark": 1,
+    "note": 1,
+    "gutenbergLine": 1
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "https://www.gutenberg.org/cache/epub/37014/pg37014.txt",
+     "bytes": 523393,
+     "sha256": "94fb09f9a5e76a3bca2e8dc3115ff166d3a3f434e95901157498f7278a952b5c"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "s1",
+     "title": "s1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "s6",
+     "title": "DR. A. KUYPER.",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "s8",
+     "title": "ZUID-HOLLANDSCHE BOEK- EN HANDELSDRUKKERIJ.",
+     "segments": 10
+    },
+    {
+     "file": "0004.json",
+     "ref": "s9",
+     "title": "KUYPER.",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "s10",
+     "title": "ZEVEN MEDITATIËN OVER DEN SABBATH.",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "s11",
+     "title": "DE SABBATH VAN GOD GEGEVEN.",
+     "segments": 26
+    },
+    {
+     "file": "0007.json",
+     "ref": "s12",
+     "title": "DE SABBATH DOOR GOD VERORDEND.",
+     "segments": 38
+    },
+    {
+     "file": "0008.json",
+     "ref": "s14",
+     "title": "DE SABBATH DOOR GOD GEHEILIGD.",
+     "segments": 44
+    },
+    {
+     "file": "0009.json",
+     "ref": "s15",
+     "title": "DE SABBATH DOOR GOD GEZEGEND.",
+     "segments": 43
+    },
+    {
+     "file": "0010.json",
+     "ref": "s16",
+     "title": "DE SABBATH DOOR GOD GEKEURD.",
+     "segments": 49
+    },
+    {
+     "file": "0011.json",
+     "ref": "s17",
+     "title": "DE SABBATH DOOR GOD VERZOEND.",
+     "segments": 38
+    },
+    {
+     "file": "0012.json",
+     "ref": "s19",
+     "title": "DE SABBATH VAN GOD VEREEUWIGD.",
+     "segments": 37
+    },
+    {
+     "file": "0013.json",
+     "ref": "s22",
+     "title": "GEDENK VAN HOEDANIGE EEUW IK BEN!",
+     "segments": 42
+    },
+    {
+     "file": "0014.json",
+     "ref": "s24",
+     "title": "»EEN STOFJE AAN DE WEEGSCHAAL.«",
+     "segments": 38
+    },
+    {
+     "file": "0015.json",
+     "ref": "s26",
+     "title": "»MIJNE ZIEL IS VOOR U ALS EEN DORSTIG LAND!«",
+     "segments": 41
+    },
+    {
+     "file": "0016.json",
+     "ref": "s28",
+     "title": "»ZALIG ZIJN DE VREEDZAMEN!«",
+     "segments": 36
+    },
+    {
+     "file": "0017.json",
+     "ref": "s30",
+     "title": "»ONTHOUD HET GOED AAN ZIJN MEESTER NIET!«",
+     "segments": 29
+    },
+    {
+     "file": "0018.json",
+     "ref": "s32",
+     "title": "»IK ZAL ZE LOUTEREN.«",
+     "segments": 32
+    },
+    {
+     "file": "0019.json",
+     "ref": "s34",
+     "title": "»HEBT UWE VIJANDEN LIEF.«",
+     "segments": 41
+    },
+    {
+     "file": "0020.json",
+     "ref": "s36",
+     "title": "DE OORBLAZER.",
+     "segments": 59
+    },
+    {
+     "file": "0021.json",
+     "ref": "s38",
+     "title": "»GOD IS MEERDER DAN ONS HART!«",
+     "segments": 41
+    },
+    {
+     "file": "0022.json",
+     "ref": "s40",
+     "title": "»IN VREDE NEDERLIGGEN EN SLAPEN!«",
+     "segments": 40
+    },
+    {
+     "file": "0023.json",
+     "ref": "s42",
+     "title": "»DE BOKKEN VAN DE SCHAPEN.«",
+     "segments": 36
+    },
+    {
+     "file": "0024.json",
+     "ref": "s44",
+     "title": "»DOOR ZIJNS ZELFS OFFERANDE.«",
+     "segments": 34
+    },
+    {
+     "file": "0025.json",
+     "ref": "s46",
+     "title": "»ALS EEN LAM TER SLACHTING GELEID!«",
+     "segments": 36
+    },
+    {
+     "file": "0026.json",
+     "ref": "s48",
+     "title": "»KOMT TOT DE BRUILOFT.«",
+     "segments": 40
+    },
+    {
+     "file": "0027.json",
+     "ref": "s50",
+     "title": "»GRIJP NAAR HET EEUWIGE LEVEN!«",
+     "segments": 40
+    },
+    {
+     "file": "0028.json",
+     "ref": "s52",
+     "title": "»IN HEILIGE SIERADIËN.«",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "p110",
+     "title": "Psalm 110:3.",
+     "segments": 32
+    },
+    {
+     "file": "0030.json",
+     "ref": "s55",
+     "title": "»MET ONGEDEKTEN AANGEZICHTE.«",
+     "segments": 39
+    },
+    {
+     "file": "0031.json",
+     "ref": "s57",
+     "title": "»IK ZAL U GEEN WEEZEN LATEN.«",
+     "segments": 48
+    },
+    {
+     "file": "0032.json",
+     "ref": "s59",
+     "title": "»ABBA, VADER!«",
+     "segments": 32
+    },
+    {
+     "file": "0033.json",
+     "ref": "s61",
+     "title": "»HEM ALLEEN DIENEN!«",
+     "segments": 45
+    },
+    {
+     "file": "0034.json",
+     "ref": "s63",
+     "title": "»SCHULDIG ELKANDER LIEF TE HEBBEN.«",
+     "segments": 33
+    },
+    {
+     "file": "0035.json",
+     "ref": "s65",
+     "title": "»WEE DEN GERUSTEN TE SION!«",
+     "segments": 36
+    },
+    {
+     "file": "0036.json",
+     "ref": "s67",
+     "title": "»DEN MEDICIJNMEESTER NIET VAN NOODE.«",
+     "segments": 36
+    },
+    {
+     "file": "0037.json",
+     "ref": "s69",
+     "title": "»MAAR IS VOOR EEN TIJD.«",
+     "segments": 32
+    },
+    {
+     "file": "0038.json",
+     "ref": "s71",
+     "title": "»GIJ LEGT MIJ IN HET STOF DES DOODS!«",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "p22",
+     "title": "Psalm 22:16.",
+     "segments": 38
+    },
+    {
+     "file": "0040.json",
+     "ref": "s74",
+     "title": "»DE ONGERECHTIGE MAN ZIJN GEDACHTEN.«",
+     "segments": 42
+    },
+    {
+     "file": "0041.json",
+     "ref": "s76",
+     "title": "»HOEVELE ZONDEN HEB IK?«",
+     "segments": 44
+    },
+    {
+     "file": "0042.json",
+     "ref": "s78",
+     "title": "»GIJ EN UW HUIS!«",
+     "segments": 27
+    },
+    {
+     "file": "0043.json",
+     "ref": "s80",
+     "title": "»VAN UWEN HOUTHOUWER TOT UWEN WATERPUTTER.«",
+     "segments": 44
+    },
+    {
+     "file": "0044.json",
+     "ref": "s82",
+     "title": "»UIT DENZELFDEN KLOMP.«",
+     "segments": 33
+    },
+    {
+     "file": "0045.json",
+     "ref": "s84",
+     "title": "»EEN ÉENIG ZONDAAR VERDERFT VEEL GOEDS.«",
+     "segments": 37
+    },
+    {
+     "file": "0046.json",
+     "ref": "s86",
+     "title": "»~MIJN~ WOL EN ~MIJN~ VLAS.«",
+     "segments": 30
+    },
+    {
+     "file": "0047.json",
+     "ref": "s88",
+     "title": "»IN EEN EERBAAR GEWAAD.«",
+     "segments": 37
+    },
+    {
+     "file": "0048.json",
+     "ref": "s90",
+     "title": "»MET NETELEN BEDEKT.«",
+     "segments": 38
+    },
+    {
+     "file": "0049.json",
+     "ref": "s92",
+     "title": "»ONZE LIPPEN ZIJN ONZE.«",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "p12",
+     "title": "Psalm 12:5.",
+     "segments": 45
+    },
+    {
+     "file": "0051.json",
+     "ref": "s95",
+     "title": "»HET GELD VERANTWOORDT ALLES.«",
+     "segments": 37
+    },
+    {
+     "file": "0052.json",
+     "ref": "s97",
+     "title": "»VERGEET GEENE VAN ZIJNE WELDADEN.«",
+     "segments": 36
+    },
+    {
+     "file": "0053.json",
+     "ref": "s99",
+     "title": "»HET ONGOEDERTIEREN VOLK.«",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "p43",
+     "title": "Psalm 43:1.",
+     "segments": 33
+    },
+    {
+     "file": "0055.json",
+     "ref": "s102",
+     "title": "»MIJNE SCHAPEN!«",
+     "segments": 40
+    },
+    {
+     "file": "0056.json",
+     "ref": "s104",
+     "title": "»ALS KAF VAN DEN DORSCHVLOER!«",
+     "segments": 39
+    },
+    {
+     "file": "0057.json",
+     "ref": "s106",
+     "title": "»DE HEERE ZAL MIJ AANNEMEN!«",
+     "segments": 1
+    },
+    {
+     "file": "0058.json",
+     "ref": "p27",
+     "title": "Psalm 27:10.",
+     "segments": 37
+    },
+    {
+     "file": "0059.json",
+     "ref": "s109",
+     "title": "»IN EEUWIGHEID NIET DORSTEN.«",
+     "segments": 33
+    },
+    {
+     "file": "0060.json",
+     "ref": "s111",
+     "title": "»UWE GLASVENSTEREN KRISTALLIJNEN.«",
+     "segments": 32
+    },
+    {
+     "file": "0061.json",
+     "ref": "s113",
+     "title": "»MET MIJNE ZIEL HEB IK U BEGEERD!«",
+     "segments": 47
+    },
+    {
+     "file": "0062.json",
+     "ref": "s115",
+     "title": "»VLAS EN VONK.«",
+     "segments": 50
+    },
+    {
+     "file": "0063.json",
+     "ref": "s117",
+     "title": "»DES SPOTS VEEL TE ZAT.«",
+     "segments": 40
+    },
+    {
+     "file": "0064.json",
+     "ref": "s119",
+     "title": "»HIJ ZAL JERUZALEM NOG VERKIEZEN.«",
+     "segments": 42
+    },
+    {
+     "file": "0065.json",
+     "ref": "s121",
+     "title": "»ZIE, DE DIENSTMAAGD DES HEEREN.«",
+     "segments": 35
+    },
+    {
+     "file": "0066.json",
+     "ref": "s123",
+     "title": "»ZEND UW SIKKEL EN MAAI.«",
+     "segments": 32
+    },
+    {
+     "file": "0067.json",
+     "ref": "s125",
+     "title": "»BROOD UIT DEN HEMEL!«",
+     "segments": 44
+    },
+    {
+     "file": "0068.json",
+     "ref": "s127",
+     "title": "»DE ONVERWELKELIJKE KROON.«",
+     "segments": 41
+    },
+    {
+     "file": "0069.json",
+     "ref": "s129",
+     "title": "»VOLSTANDIG TOT DEN EINDE.«",
+     "segments": 25
+    },
+    {
+     "file": "0070.json",
+     "ref": "s131",
+     "title": "ZEVEN MEDITATIËN OVER DEN SABBATH.",
+     "segments": 8
+    },
+    {
+     "file": "0071.json",
+     "ref": "s132",
+     "title": "MEDITATIËN VOOR ELKEN SABBATH IN HET JAAR.",
+     "segments": 53
+    }
+   ]
+  }
+ ]
+}

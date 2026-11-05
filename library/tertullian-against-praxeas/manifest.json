@@ -1,0 +1,605 @@
+{
+ "workId": "tertullian-against-praxeas",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "csel47-kroymann-praxean",
+   "role": "original",
+   "language": "latin",
+   "credit": "Adversus Praxean, in Corpus Scriptorum Ecclesiasticorum Latinorum, vol. 47 (Tertulliani opera, pars III), ed. Emil Kroymann (Prague; Vienna; Leipzig: F. Tempsky; G. Freytag, 1906). University of Leipzig / Open Greek and Latin (csel-dev), CC BY-SA 4.0; text of the CSEL volume as cited (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0275/stoa007/stoa0275.stoa007.opp-lat2.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 215002,
+   "sourceSha256": "93a36f6ef010b003420dc746c48b0774fc56c7d1ebebee5350a2e3af43686287",
+   "leftOut": {
+    "lb": 1573,
+    "note": 136,
+    "pb": 62
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 14416,
+    "garbledPerThousand": 0.1,
+    "joinedPerThousand": 0.1,
+    "numbersPerThousand": 0.1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "anf3-holmes-praxeas",
+   "role": "english",
+   "language": "english",
+   "credit": "Against Praxeas, in The Ante-Nicene Fathers, vol. III (American edition, ed. A. Cleveland Coxe), Tertullian, trans. Peter Holmes (Buffalo: Christian Literature Publishing Co., 1885). Wikisource contributors, \"Ante-Nicene Fathers\" (Peter Holmes), en.wikisource.org, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_III/Anti-Marcion/Against_Praxeas",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 195221,
+   "sourceSha256": "cf1232fcae8fb6e55f1c2ad102ec1806ac7c1bf63c88c1b2b08a180a6eda75e4",
+   "leftOut": {
+    "note": 449
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/I",
+     "bytes": 6612,
+     "sha256": "b87aaf91ebec7b26234d57c187ebb156e2a7d03962e18a6a5d3f420c862937d2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/II",
+     "bytes": 4477,
+     "sha256": "9b9ecb24015a6613ec622209e73d8a1645ef4bf7c4414409a94f854c5b5e60d2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/III",
+     "bytes": 5612,
+     "sha256": "cef5a93664ccc94af1c2a3d739ccfb5166e72107555bd83dfdcb459bb19c4f9c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/IV",
+     "bytes": 3002,
+     "sha256": "c3193567fab3ecbb62684f1f6736050949340543b8f0f6aa8e5f87673228a9d1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/V",
+     "bytes": 5303,
+     "sha256": "d5f18eeac8bcc76d91df78f84879b76a7a8b9578012a10fa358cdf6ca4b81b9c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/VI",
+     "bytes": 2347,
+     "sha256": "0460f64ffd6c5f046e65a034dfbd9f3432ac2cbadb9243cee4d708e9fcc2323c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/VII",
+     "bytes": 6537,
+     "sha256": "fa9df29ee3e2530bcbe9e9105b7fdde96984e15f6a31974a8483ea40df977953"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/VIII",
+     "bytes": 6025,
+     "sha256": "34fa4284c1f7d9474819b9b0e6c5644655840dad1fa6ed6b076e4dfe6f129046"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/IX",
+     "bytes": 4151,
+     "sha256": "79d76740083fabf86f767e67c797ec751587dc2a486bf552bfa5bf742465e8fe"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/X",
+     "bytes": 5738,
+     "sha256": "4e4b59a3dbfba4da52403acb0903e620b1760899558291e44010e7226b463f09"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/XI",
+     "bytes": 7523,
+     "sha256": "282fd2f6f43666bf05e92229b0ffc7f82667eb134f2485891791524ba97d2614"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/XII",
+     "bytes": 4829,
+     "sha256": "01f08b1515df197b93beeb6fcc4784e5acfcbfcb7be22a495db3a2f0d7c6997c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/XIII",
+     "bytes": 7944,
+     "sha256": "9f8a3fa34fa891d4ee0fe766f306b84a68fba817fb6dcf754410072861dbd3f5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/XIV",
+     "bytes": 8204,
+     "sha256": "191245b2920de2a2d381a306ffb8cc8552e283da62fa74829464b0aaa07e2ab2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/XV",
+     "bytes": 7397,
+     "sha256": "818935601cfdeac9091ee10daaa69dc754cb583a08e9d506d0b65ac80d32d631"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/XVI",
+     "bytes": 6839,
+     "sha256": "72325a03bf9f35c87f3464b21b73ff42bb776188cccbd9c3a158a85b8a9bda22"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/XVII",
+     "bytes": 2780,
+     "sha256": "dfc46f6f736fc2912faea3ae5f5b6906155625f6cbb90200d2cf3f291d6cfcb0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/XVIII",
+     "bytes": 3805,
+     "sha256": "0d66f3fedfece079d230901cdf14b55a66c236f953c2931493d9fa1a40624222"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/XIX",
+     "bytes": 5808,
+     "sha256": "0e9cb1a43b92f5da2d11e186d4f5d428b326c6f6be8281a32dbe53dd1f6dd894"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/XX",
+     "bytes": 1772,
+     "sha256": "ea229e31c666cad93974e8da688a5894750e95150d814942dd916a32ab345305"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/XXI",
+     "bytes": 9220,
+     "sha256": "4a361f3f83caa5230945131ac9b6720b87b6e01ceda93b142f0e44a4df1bc04b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/XXII",
+     "bytes": 9239,
+     "sha256": "da54980b26f11c4efd69dc1b78f322e9d07fad90e033439a9e958702382182ce"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/XXIII",
+     "bytes": 6861,
+     "sha256": "cde32209fab72a8117ff72ba3ac22a6c70b5a297b89cb49e1dc5f90d281dab5f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/XXIV",
+     "bytes": 6677,
+     "sha256": "230b860766f0726e36d8f53e45413609425aa65384efc6a6c5f07aa0df9353b7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/XXV",
+     "bytes": 4346,
+     "sha256": "8f33905e0252c2e2efc095edf9f344779adce49d115178c8bef21cc7a4341988"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/XXVI",
+     "bytes": 7335,
+     "sha256": "6af60b4357e2a2de4673c37203a41f1b6e4fc6f0fa93b92252773630241b8fac"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/XXVII",
+     "bytes": 8794,
+     "sha256": "a571753bd9c95f0a15c158c398eaf6a116d9ddb5e28fc9a055d90e1faad844dd"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/XXVIII",
+     "bytes": 6043,
+     "sha256": "ad75b156ca27a08243ed178009e517b1f30c22f87d5d3229afa9ff20b9064dc3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/XXIX",
+     "bytes": 5578,
+     "sha256": "d611af7042ea6154ba3929c931bc45b36b96d3e6ff4f9ec9554436fda1c8b1cd"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/XXX",
+     "bytes": 3740,
+     "sha256": "fe50e2b58810fe9c0dad2ca87d10f1510798e285f86b5617d68068aeb9dee6f4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/XXXI",
+     "bytes": 2186,
+     "sha256": "b97b3f6cef27a11f018982b11ec4f143f1b5471433b6612011a044bb949bc9ac"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/Postscript",
+     "bytes": 2967,
+     "sha256": "72d5759f958163f30aaca54e59319c72ab02f60c1ee59e72d6f75da0e5e36aec"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/Against Praxeas/Elucidations",
+     "bytes": 15530,
+     "sha256": "a0c7bf4f26ffef7fdb87ee21775d4b2ee7a0290d8e2b3253e1205648a950cda3"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 6
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 12
+    },
+    {
+     "file": "0033.json",
+     "ref": "p2",
+     "title": "p2",
+     "segments": 17
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 31,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 2
+ }
+}

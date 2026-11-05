@@ -1,0 +1,58 @@
+{
+ "workId": "council-constantinople-ii-acts",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "council-constantinople-ii-npnf14",
+   "role": "english",
+   "language": "english",
+   "credit": "The Fifth Ecumenical Council: the Sentence of the Synod and the Capitula, in Nicene and Post-Nicene Fathers, Series II, vol. 14: The Seven Ecumenical Councils of the Undivided Church, their canons and dogmatic decrees, ed. Henry R. Percival, trans. Various (translators of the individual texts are not named on the pages opened); edited with notes by Henry R. Percival (New York; Oxford; Edinburgh: The Christian Literature Company (New York); Parker & Co. (Oxford); T. & T. Clark (Edinburgh), 1900). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers: Series II), CC BY-SA (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_XIV/The_Fifth_Ecumenical_Council",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 53462,
+   "sourceSha256": "29251e68e36139700b5a16bd0ab3c3ab2f157fcafa4db5e820c2a3a3f21fa1f3",
+   "leftOut": {
+    "note": 5
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Fifth Ecumenical Council/The Sentence of the Synod",
+     "bytes": 26101,
+     "sha256": "9fda8f6f2a51080e632d1dd4501a2bd619e06b5b5f8d6907fa1135c9b90de645"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Fifth Ecumenical Council/The Capitula of the Council",
+     "bytes": 17785,
+     "sha256": "19905eb1229c310e065604b6461e855306e3446bf0d40a0109fcac7fd4de20de"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Fifth Ecumenical Council/The Anathemas Against Origen",
+     "bytes": 9576,
+     "sha256": "2afaf0ddf0a8e64005221a6cee7d918d7e60528377997bf993cad21e3371b054"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 24
+    },
+    {
+     "file": "0002.json",
+     "ref": "p2",
+     "title": "p2",
+     "segments": 35
+    },
+    {
+     "file": "0003.json",
+     "ref": "p3",
+     "title": "p3",
+     "segments": 31
+    }
+   ]
+  }
+ ]
+}

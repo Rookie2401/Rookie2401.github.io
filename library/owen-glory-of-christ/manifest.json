@@ -1,0 +1,119 @@
+{
+ "workId": "owen-glory-of-christ",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "owen-glory-of-christ-1691-tcp-a53708",
+   "role": "english",
+   "language": "english",
+   "credit": "Meditations and discourses on the glory of Christ, in his person, office, and grace, in EEBO-TCP text A53708 (STC Wing O769A; STC) (London: Printed by B.A. and are to be sold by most booksellers in London, 1691). Transcription: Text Creation Partnership (EEBO-TCP Phase I), keyboarded from images of the original (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A53708/master/A53708.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 509566,
+   "sourceSha256": "2476a367f066e4bfcc68010c8d6676378b65062a309140c019b9f2f6d1e619d4",
+   "leftOut": {
+    "pb": 288,
+    "unread": 30,
+    "note": 1
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 74809,
+    "unreadPerThousand": 0.4
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "PREFACE TO THE READER.",
+     "segments": 45
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 34
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "CHAP. II. The Glory of the Person of Christ, as the only Representative of God unto the Church.",
+     "segments": 67
+    },
+    {
+     "file": "0004.json",
+     "ref": "3",
+     "title": "CHAP. III. The Glory of Christ in the Mysterious Constitution of his Person.",
+     "segments": 53
+    },
+    {
+     "file": "0005.json",
+     "ref": "4",
+     "title": "CHAP. IV. The Glory of Christ in his Susception of the Office of a Mediator. First in his Condescention.",
+     "segments": 50
+    },
+    {
+     "file": "0006.json",
+     "ref": "5",
+     "title": "CHAP. V. The Glory of Christ in his Love.",
+     "segments": 31
+    },
+    {
+     "file": "0007.json",
+     "ref": "6",
+     "title": "CHAP. VI. The Glory of Christ in the Discharge of his Mediatory Office.",
+     "segments": 13
+    },
+    {
+     "file": "0008.json",
+     "ref": "7",
+     "title": "CHAP. VII. The Glory of Christ in his Exaltation, after the Accomplishment of the Work of Mediation in this World.",
+     "segments": 21
+    },
+    {
+     "file": "0009.json",
+     "ref": "8",
+     "title": "CHAP. VIII. Representations of the Glory of Christ under the Old Testament.",
+     "segments": 11
+    },
+    {
+     "file": "0010.json",
+     "ref": "9",
+     "title": "CHAP. IX. The Glory of Christ in his intimate Conjunction with the Church.",
+     "segments": 35
+    },
+    {
+     "file": "0011.json",
+     "ref": "10",
+     "title": "CHAP. X. The Glory of Christ in the Communication of himself unto Believers.",
+     "segments": 34
+    },
+    {
+     "file": "0012.json",
+     "ref": "11",
+     "title": "CHAP. XI. The Glory of Christ in the Recapitulation of all things in him.",
+     "segments": 26
+    },
+    {
+     "file": "0013.json",
+     "ref": "12",
+     "title": "CHAP. XII. Differences between our beholding the Glory of Christ by Faith in this World, and by sight in Heaven. The first of them explained.",
+     "segments": 56
+    },
+    {
+     "file": "0014.json",
+     "ref": "13",
+     "title": "CHAP. XIII. The second Difference between our beholding the Glory of Christ by Faith in this World, and by Sight in Heaven.",
+     "segments": 63
+    },
+    {
+     "file": "0015.json",
+     "ref": "14",
+     "title": "CHAP. XIV. Other Differences between our Beholding the Glory of Christ by Faith in this World, and by Sight in Heaven.",
+     "segments": 88
+    }
+   ]
+  }
+ ]
+}

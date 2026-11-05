@@ -1,0 +1,1845 @@
+{
+ "workId": "origen-first-principles",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "anf4-crombie-de-principiis",
+   "role": "english",
+   "language": "english",
+   "credit": "Origen De Principiis, in The Ante-Nicene Fathers, vol. IV (American edition, ed. A. Cleveland Coxe), Origen, trans. Frederick Crombie (Buffalo: Christian Literature Publishing Co., 1885). Wikisource contributors, \"Ante-Nicene Fathers\" (Frederick Crombie), en.wikisource.org, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_IV/Origen/Origen_De_Principiis",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 861368,
+   "sourceSha256": "9d8516ce23476bbac84aa8e6f4ea4db03a853eec29bc202f142bdaae2e5c0508",
+   "leftOut": {
+    "note": 1111
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/Preface",
+     "bytes": 17364,
+     "sha256": "e8ba0125240357817b084f4288dadb0a7255daca1212145e44a7a70e6ff721a2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/I/Chapter 1",
+     "bytes": 22786,
+     "sha256": "f79478e62550f351506258693bfddec8e41147cf0acadc890363ec077f74ae59"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/I/Chapter 2",
+     "bytes": 35569,
+     "sha256": "368395136edaf6c36d79b57f58579dfb62521262c6eaf132082913e689a73125"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/I/Chapter 3",
+     "bytes": 23868,
+     "sha256": "c3f842693ef3b2e09499a28bd0e2b8f21ba774f0988d2f4ecdb863c68e28e84c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/I/Chapter 4",
+     "bytes": 3125,
+     "sha256": "a396ce9a17724767358d82055069996b3433a406fc2138138c0625d033bb0eed"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/I/Chapter 5",
+     "bytes": 20705,
+     "sha256": "dae13d08416b57e4e9ddc009b896a0af9e7443f67039f2ec0b40659c2b39590b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/I/Chapter 6",
+     "bytes": 13893,
+     "sha256": "f8294bed6c298424229fb0c9f89c02786bce41cb2f08373aa853bc0ab544c25c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/I/Chapter 7",
+     "bytes": 14410,
+     "sha256": "70cb00d0369bb52770128ad0ecb19c82ae62777d1610fbeddc531017f35468b2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/I/Chapter 8",
+     "bytes": 12822,
+     "sha256": "7bbf21a3fbb1dbc0be8afab101918757bbb45917925ddc7ad000f8511c203718"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/I/Chapter 9",
+     "bytes": 616,
+     "sha256": "5132f1bee6015cba5a7df0ff103a99d020a0919108d4240f329f081e447ca41a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/I/Chapter 10",
+     "bytes": 1191,
+     "sha256": "ecb43507c3a98369304587a4519404a1ae4c48fe191fd6561652c1774571e085"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/II/Chapter 1",
+     "bytes": 13527,
+     "sha256": "78d0cdfbe09577c5d2d54ca6156cc5a5727d90f8033d7e04acd8635ed38dff8b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/II/Chapter 2",
+     "bytes": 3547,
+     "sha256": "0b207c61deec9a2a2af79ca1276410e549fea710a64af15976157df35e9e99ff"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/II/Chapter 3",
+     "bytes": 30344,
+     "sha256": "82025a226210b35d5d88a0c7b19d00a1199cc8463d908815cb36683f82d0b973"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/II/Chapter 4",
+     "bytes": 14999,
+     "sha256": "eb12b9d3de6d88085eff399de1cd87bc2e76e917f50c78c2e203c7c13c72167e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/II/Chapter 5",
+     "bytes": 18452,
+     "sha256": "5427e0d47a32df5f3481d5c6b27c36b81056b90eee2b13d455b2ef7ce58507ff"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/II/Chapter 6",
+     "bytes": 19914,
+     "sha256": "960f1b022ce21b8e9b0da0c1988af9e567a412daf9204f136f5252a3026e8df1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/II/Chapter 7",
+     "bytes": 9866,
+     "sha256": "53a842ce356f7c9599bd8fc2385364cb707ddb49e0a27c666a62d9ce1078b710"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/II/Chapter 8",
+     "bytes": 22700,
+     "sha256": "38b41115072f65d7f47675dbce11c14b3869dc490ca5722984a48987f799b93b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/II/Chapter 9",
+     "bytes": 22921,
+     "sha256": "ef32a8358c39517add38ba8bf69b33d67a0f8c31ac62b5e98f9dea7969d1af06"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/II/Chapter 10",
+     "bytes": 19977,
+     "sha256": "da0a315d71a4a247b352d3de6007a2c7fb9f5629b89982eef7d499f12342cf36"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/II/Chapter 11",
+     "bytes": 20555,
+     "sha256": "7c0f6cddce32682ad42c6f6784e45dd0ce86c402e8344d0ab64c3b80cce197ee"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/III/Chapter 1",
+     "bytes": 4385,
+     "sha256": "25790560b46d375d36d7b6b39f0513a47cc8df6ac79f0082cf75febfc1e0163c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/III/Chapter 2",
+     "bytes": 79270,
+     "sha256": "dcc27a021d27dc83b2f5ae5c11f854f3f8ecf2c743586ab435d8ed5a26661037"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/III/Chapter 3",
+     "bytes": 75181,
+     "sha256": "ec2e59978e6cc44693a2b14263f91ee4c31211e3b78946245fca33cbc5c8073f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/III/Chapter 4",
+     "bytes": 37625,
+     "sha256": "b02c787c3889752d7809e426230496233a49761bb44456a86f2aeac6843d25ac"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/III/Chapter 5",
+     "bytes": 17296,
+     "sha256": "001164ec0687a4364ad240edea0c1cbdac0b4f9398f62a49ef0eea236cc06dac"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/III/Chapter 6",
+     "bytes": 20523,
+     "sha256": "0579de6ae9b5e9269cfb947a97bc3a9dc259299363b365def978b4a2e1af5a8a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/III/Chapter 7",
+     "bytes": 24849,
+     "sha256": "c186ee29d2a0a87de7ab9d6112ffc76887d5656fdbc4ea7fdad214c2b4030141"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/III/Chapter 8",
+     "bytes": 27161,
+     "sha256": "6df2a0cb504beafa452432f54dd834d4e531179edd2811fcbad5bf401329a4b2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/IV/Chapter 1",
+     "bytes": 74323,
+     "sha256": "4f0ba8e959f68dca5adec06cefb79a87633e3a1cd9a7c94c0d344df50e9702a5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/IV/Chapter 2",
+     "bytes": 78643,
+     "sha256": "178109cd4c1c79c69bdd2a7b233742aedda699b00695ae4a2a513439678328bd"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/IV/Chapter 3",
+     "bytes": 48088,
+     "sha256": "036dce977924e4a8cacc3c8030cbbcd215884a5e620e83795eb057c1ef238637"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume IV/Origen/Origen De Principiis/Elucidations",
+     "bytes": 10873,
+     "sha256": "2a7b4c105f3d0c057cc81adbc1a1df692c1724379d011f042b124567c299f0d9"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "p1.front",
+     "title": "p1.front",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "p1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "p1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "p1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "p1.4",
+     "title": "4",
+     "segments": 4
+    },
+    {
+     "file": "0006.json",
+     "ref": "p1.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "p1.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "p1.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "p1.8",
+     "title": "8",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "p1.9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "p1.10",
+     "title": "10",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.1.front",
+     "title": "1.1.front",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.1.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.1.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.1.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.1.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.1.8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.1.9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.2.front",
+     "title": "1.2.front",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.2.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.2.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.2.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.2.4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.2.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.2.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.2.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.2.8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.2.9",
+     "title": "9",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.2.10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.2.11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.2.12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.2.13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.3.front",
+     "title": "1.3.front",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.3.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.3.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.3.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.3.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.3.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.3.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.3.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "1.3.8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "1.4",
+     "title": "1.4",
+     "segments": 3
+    },
+    {
+     "file": "0046.json",
+     "ref": "1.5.front",
+     "title": "1.5.front",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "1.5.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0048.json",
+     "ref": "1.5.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0049.json",
+     "ref": "1.5.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "1.5.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "1.5.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0052.json",
+     "ref": "1.6.front",
+     "title": "1.6.front",
+     "segments": 1
+    },
+    {
+     "file": "0053.json",
+     "ref": "1.6.1",
+     "title": "1",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "1.6.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "1.6.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "1.6.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0057.json",
+     "ref": "1.7.front",
+     "title": "1.7.front",
+     "segments": 1
+    },
+    {
+     "file": "0058.json",
+     "ref": "1.7.1",
+     "title": "1",
+     "segments": 2
+    },
+    {
+     "file": "0059.json",
+     "ref": "1.7.2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0060.json",
+     "ref": "1.7.3",
+     "title": "3",
+     "segments": 2
+    },
+    {
+     "file": "0061.json",
+     "ref": "1.7.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0062.json",
+     "ref": "1.7.5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0063.json",
+     "ref": "1.8.front",
+     "title": "1.8.front",
+     "segments": 1
+    },
+    {
+     "file": "0064.json",
+     "ref": "1.8.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0065.json",
+     "ref": "1.8.2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0066.json",
+     "ref": "1.8.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0067.json",
+     "ref": "1.8.4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0068.json",
+     "ref": "1.9",
+     "title": "1.9",
+     "segments": 3
+    },
+    {
+     "file": "0069.json",
+     "ref": "1.10",
+     "title": "1.10",
+     "segments": 3
+    },
+    {
+     "file": "0070.json",
+     "ref": "2.1.front",
+     "title": "2.1.front",
+     "segments": 2
+    },
+    {
+     "file": "0071.json",
+     "ref": "2.1.1",
+     "title": "1",
+     "segments": 2
+    },
+    {
+     "file": "0072.json",
+     "ref": "2.1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0073.json",
+     "ref": "2.1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0074.json",
+     "ref": "2.1.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0075.json",
+     "ref": "2.1.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0076.json",
+     "ref": "2.2",
+     "title": "2.2",
+     "segments": 3
+    },
+    {
+     "file": "0077.json",
+     "ref": "2.3.front",
+     "title": "2.3.front",
+     "segments": 1
+    },
+    {
+     "file": "0078.json",
+     "ref": "2.3.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0079.json",
+     "ref": "2.3.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0080.json",
+     "ref": "2.3.3",
+     "title": "3",
+     "segments": 2
+    },
+    {
+     "file": "0081.json",
+     "ref": "2.3.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0082.json",
+     "ref": "2.3.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0083.json",
+     "ref": "2.3.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0084.json",
+     "ref": "2.3.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0085.json",
+     "ref": "2.4.front",
+     "title": "2.4.front",
+     "segments": 1
+    },
+    {
+     "file": "0086.json",
+     "ref": "2.4.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0087.json",
+     "ref": "2.4.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0088.json",
+     "ref": "2.4.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0089.json",
+     "ref": "2.4.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0090.json",
+     "ref": "2.5.front",
+     "title": "2.5.front",
+     "segments": 1
+    },
+    {
+     "file": "0091.json",
+     "ref": "2.5.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0092.json",
+     "ref": "2.5.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0093.json",
+     "ref": "2.5.3",
+     "title": "3",
+     "segments": 2
+    },
+    {
+     "file": "0094.json",
+     "ref": "2.5.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0095.json",
+     "ref": "2.6.front",
+     "title": "2.6.front",
+     "segments": 1
+    },
+    {
+     "file": "0096.json",
+     "ref": "2.6.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0097.json",
+     "ref": "2.6.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0098.json",
+     "ref": "2.6.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0099.json",
+     "ref": "2.6.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0100.json",
+     "ref": "2.6.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0101.json",
+     "ref": "2.6.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0102.json",
+     "ref": "2.6.7",
+     "title": "7",
+     "segments": 2
+    },
+    {
+     "file": "0103.json",
+     "ref": "2.7.front",
+     "title": "2.7.front",
+     "segments": 1
+    },
+    {
+     "file": "0104.json",
+     "ref": "2.7.1",
+     "title": "1",
+     "segments": 2
+    },
+    {
+     "file": "0105.json",
+     "ref": "2.7.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0106.json",
+     "ref": "2.7.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0107.json",
+     "ref": "2.7.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0108.json",
+     "ref": "2.8.front",
+     "title": "2.8.front",
+     "segments": 1
+    },
+    {
+     "file": "0109.json",
+     "ref": "2.8.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0110.json",
+     "ref": "2.8.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0111.json",
+     "ref": "2.8.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0112.json",
+     "ref": "2.8.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0113.json",
+     "ref": "2.8.5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0114.json",
+     "ref": "2.9.front",
+     "title": "2.9.front",
+     "segments": 1
+    },
+    {
+     "file": "0115.json",
+     "ref": "2.9.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0116.json",
+     "ref": "2.9.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0117.json",
+     "ref": "2.9.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0118.json",
+     "ref": "2.9.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0119.json",
+     "ref": "2.9.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0120.json",
+     "ref": "2.9.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0121.json",
+     "ref": "2.9.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0122.json",
+     "ref": "2.9.8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0123.json",
+     "ref": "2.10.front",
+     "title": "2.10.front",
+     "segments": 1
+    },
+    {
+     "file": "0124.json",
+     "ref": "2.10.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0125.json",
+     "ref": "2.10.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0126.json",
+     "ref": "2.10.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0127.json",
+     "ref": "2.10.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0128.json",
+     "ref": "2.10.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0129.json",
+     "ref": "2.10.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0130.json",
+     "ref": "2.10.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0131.json",
+     "ref": "2.10.8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0132.json",
+     "ref": "2.11.front",
+     "title": "2.11.front",
+     "segments": 1
+    },
+    {
+     "file": "0133.json",
+     "ref": "2.11.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0134.json",
+     "ref": "2.11.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0135.json",
+     "ref": "2.11.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0136.json",
+     "ref": "2.11.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0137.json",
+     "ref": "2.11.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0138.json",
+     "ref": "2.11.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0139.json",
+     "ref": "2.11.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0140.json",
+     "ref": "3.1",
+     "title": "3.1",
+     "segments": 3
+    },
+    {
+     "file": "0141.json",
+     "ref": "3.2.front",
+     "title": "3.2.front",
+     "segments": 2
+    },
+    {
+     "file": "0142.json",
+     "ref": "3.2.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0143.json",
+     "ref": "3.2.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0144.json",
+     "ref": "3.2.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0145.json",
+     "ref": "3.2.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0146.json",
+     "ref": "3.2.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0147.json",
+     "ref": "3.2.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0148.json",
+     "ref": "3.2.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0149.json",
+     "ref": "3.2.8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0150.json",
+     "ref": "3.2.9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0151.json",
+     "ref": "3.2.10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0152.json",
+     "ref": "3.2.11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0153.json",
+     "ref": "3.2.12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0154.json",
+     "ref": "3.2.13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0155.json",
+     "ref": "3.2.14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0156.json",
+     "ref": "3.2.15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0157.json",
+     "ref": "3.2.16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0158.json",
+     "ref": "3.2.17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0159.json",
+     "ref": "3.2.18",
+     "title": "18",
+     "segments": 2
+    },
+    {
+     "file": "0160.json",
+     "ref": "3.2.19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0161.json",
+     "ref": "3.2.20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0162.json",
+     "ref": "3.2.21",
+     "title": "21",
+     "segments": 2
+    },
+    {
+     "file": "0163.json",
+     "ref": "3.2.22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0164.json",
+     "ref": "3.3.front",
+     "title": "3.3.front",
+     "segments": 2
+    },
+    {
+     "file": "0165.json",
+     "ref": "3.3.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0166.json",
+     "ref": "3.3.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0167.json",
+     "ref": "3.3.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0168.json",
+     "ref": "3.3.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0169.json",
+     "ref": "3.3.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0170.json",
+     "ref": "3.3.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0171.json",
+     "ref": "3.3.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0172.json",
+     "ref": "3.3.8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0173.json",
+     "ref": "3.3.9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0174.json",
+     "ref": "3.3.10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0175.json",
+     "ref": "3.3.11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0176.json",
+     "ref": "3.3.12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0177.json",
+     "ref": "3.3.13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0178.json",
+     "ref": "3.3.14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0179.json",
+     "ref": "3.3.15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0180.json",
+     "ref": "3.3.16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0181.json",
+     "ref": "3.3.17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0182.json",
+     "ref": "3.3.18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0183.json",
+     "ref": "3.3.19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0184.json",
+     "ref": "3.3.20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0185.json",
+     "ref": "3.3.21",
+     "title": "21",
+     "segments": 2
+    },
+    {
+     "file": "0186.json",
+     "ref": "3.3.22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0187.json",
+     "ref": "3.4.front",
+     "title": "3.4.front",
+     "segments": 1
+    },
+    {
+     "file": "0188.json",
+     "ref": "3.4.1",
+     "title": "1",
+     "segments": 2
+    },
+    {
+     "file": "0189.json",
+     "ref": "3.4.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0190.json",
+     "ref": "3.4.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0191.json",
+     "ref": "3.4.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0192.json",
+     "ref": "3.4.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0193.json",
+     "ref": "3.4.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0194.json",
+     "ref": "3.4.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0195.json",
+     "ref": "3.5.front",
+     "title": "3.5.front",
+     "segments": 1
+    },
+    {
+     "file": "0196.json",
+     "ref": "3.5.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0197.json",
+     "ref": "3.5.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0198.json",
+     "ref": "3.5.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0199.json",
+     "ref": "3.5.4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0200.json",
+     "ref": "3.5.5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0201.json",
+     "ref": "3.6.front",
+     "title": "3.6.front",
+     "segments": 1
+    },
+    {
+     "file": "0202.json",
+     "ref": "3.6.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0203.json",
+     "ref": "3.6.2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0204.json",
+     "ref": "3.6.3",
+     "title": "3",
+     "segments": 2
+    },
+    {
+     "file": "0205.json",
+     "ref": "3.6.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0206.json",
+     "ref": "3.6.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0207.json",
+     "ref": "3.7.front",
+     "title": "3.7.front",
+     "segments": 1
+    },
+    {
+     "file": "0208.json",
+     "ref": "3.7.1",
+     "title": "1",
+     "segments": 2
+    },
+    {
+     "file": "0209.json",
+     "ref": "3.7.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0210.json",
+     "ref": "3.7.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0211.json",
+     "ref": "3.7.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0212.json",
+     "ref": "3.7.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0213.json",
+     "ref": "3.7.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0214.json",
+     "ref": "3.7.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0215.json",
+     "ref": "3.7.8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0216.json",
+     "ref": "3.8.front",
+     "title": "3.8.front",
+     "segments": 1
+    },
+    {
+     "file": "0217.json",
+     "ref": "3.8.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0218.json",
+     "ref": "3.8.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0219.json",
+     "ref": "3.8.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0220.json",
+     "ref": "3.8.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0221.json",
+     "ref": "3.8.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0222.json",
+     "ref": "3.8.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0223.json",
+     "ref": "3.8.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0224.json",
+     "ref": "3.8.8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0225.json",
+     "ref": "3.8.9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0226.json",
+     "ref": "4.1.front",
+     "title": "4.1.front",
+     "segments": 3
+    },
+    {
+     "file": "0227.json",
+     "ref": "4.1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0228.json",
+     "ref": "4.1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0229.json",
+     "ref": "4.1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0230.json",
+     "ref": "4.1.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0231.json",
+     "ref": "4.1.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0232.json",
+     "ref": "4.1.6",
+     "title": "6",
+     "segments": 2
+    },
+    {
+     "file": "0233.json",
+     "ref": "4.1.7",
+     "title": "7",
+     "segments": 2
+    },
+    {
+     "file": "0234.json",
+     "ref": "4.1.8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0235.json",
+     "ref": "4.1.9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0236.json",
+     "ref": "4.1.10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0237.json",
+     "ref": "4.1.11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0238.json",
+     "ref": "4.1.12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0239.json",
+     "ref": "4.1.13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0240.json",
+     "ref": "4.1.14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0241.json",
+     "ref": "4.1.15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0242.json",
+     "ref": "4.1.16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0243.json",
+     "ref": "4.1.17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0244.json",
+     "ref": "4.1.18",
+     "title": "18",
+     "segments": 2
+    },
+    {
+     "file": "0245.json",
+     "ref": "4.1.19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0246.json",
+     "ref": "4.1.20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0247.json",
+     "ref": "4.1.21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0248.json",
+     "ref": "4.1.22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0249.json",
+     "ref": "4.1.23",
+     "title": "23",
+     "segments": 2
+    },
+    {
+     "file": "0250.json",
+     "ref": "4.2.front",
+     "title": "4.2.front",
+     "segments": 3
+    },
+    {
+     "file": "0251.json",
+     "ref": "4.2.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0252.json",
+     "ref": "4.2.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0253.json",
+     "ref": "4.2.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0254.json",
+     "ref": "4.2.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0255.json",
+     "ref": "4.2.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0256.json",
+     "ref": "4.2.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0257.json",
+     "ref": "4.2.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0258.json",
+     "ref": "4.2.8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0259.json",
+     "ref": "4.2.9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0260.json",
+     "ref": "4.2.10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0261.json",
+     "ref": "4.2.11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0262.json",
+     "ref": "4.2.12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0263.json",
+     "ref": "4.2.13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0264.json",
+     "ref": "4.2.14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0265.json",
+     "ref": "4.2.15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0266.json",
+     "ref": "4.2.16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0267.json",
+     "ref": "4.2.17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0268.json",
+     "ref": "4.2.18",
+     "title": "18",
+     "segments": 2
+    },
+    {
+     "file": "0269.json",
+     "ref": "4.2.19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0270.json",
+     "ref": "4.2.20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0271.json",
+     "ref": "4.2.21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0272.json",
+     "ref": "4.2.22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0273.json",
+     "ref": "4.2.23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0274.json",
+     "ref": "4.3",
+     "title": "4.3",
+     "segments": 21
+    },
+    {
+     "file": "0275.json",
+     "ref": "p2",
+     "title": "p2",
+     "segments": 89
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,444 @@
+{
+ "workId": "chrysostom-homilies-hebrews",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "chrysostom-hebrews-npnf1-gardiner-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Homilies on the Epistle to the Hebrews, in A Select Library of the Nicene and Post-Nicene Fathers, series I, vol. XIV (Homilies on the Gospel of St. John and the Epistle to the Hebrews), trans. The Oxford translation (Library of the Fathers), revised for the American edition; the original Oxford translators are not named on the pages opened; revised with introduction and notes by Frederic Gardiner (Buffalo; New York: Christian Literature Co., 1889). Wikisource contributors, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_XIV/On_the_Epistle_to_the_Hebrews",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1041511,
+   "sourceSha256": "73aa8d4db70bfbf176f57dc2cd95c6222c7ba3c779b3053e877191a16a464add",
+   "leftOut": {
+    "note": 881,
+    "unclosedTemplate": 2
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Argument",
+     "bytes": 16214,
+     "sha256": "12fe79cfd01a0063e920b033cf83d9d09bacfdfb5824a9e258156ebfe94c7b37"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 1",
+     "bytes": 23620,
+     "sha256": "b029e26a48a5ff315c4f2fa684d3608b9e80508d5d853da026a69617ad61e071"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 10",
+     "bytes": 26302,
+     "sha256": "68c26383ba493e5bcac78ddce2523339794e7ee3bca5f1a0cd4e30ed14e911a6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 11",
+     "bytes": 26553,
+     "sha256": "99d77aacbb52441367510dd4fcbc4aae59f0404d0f69a86eafe1589b8c6ad69d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 12",
+     "bytes": 25120,
+     "sha256": "8aa85f50c5b37837431f5a9c739f731c5dc24586dd014922d8de0f313b434630"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 13",
+     "bytes": 38343,
+     "sha256": "45abb3953e385a670c6eca0f6be271777c4562af39593d76e64b54305a08c365"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 14",
+     "bytes": 36104,
+     "sha256": "6b1bdf3e60cad1372451892b43b6999fec04a8f9b922811e4e94af15a76f2d17"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 15",
+     "bytes": 33491,
+     "sha256": "2b8ed612a8003c08db1ebbdbe6e7a7b0a9a272c35f8a5c6c4b672413948f8d88"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 16",
+     "bytes": 21568,
+     "sha256": "bea466c3debc44080126bb508e4a7a55f2dc3202764176672be9da26029c07f8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 17",
+     "bytes": 28072,
+     "sha256": "03814d8f69df735c8da006bb984e824fc9d2b2d6f23b76b0fbf71fa42b82c384"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 18",
+     "bytes": 18506,
+     "sha256": "1aa8ae47d594a99adb360d15deb4e287a6d79e8045a22c16932e6109521664fc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 19",
+     "bytes": 16394,
+     "sha256": "d890dbc65b7b58320f8edff88fedaeeaeb0ee176d68d6985ef9b7a894d4877eb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 2",
+     "bytes": 32207,
+     "sha256": "b3cb55b33930641db33fb4230a83d331387d134cd6225c2925cbee712a8e63ea"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 20",
+     "bytes": 20654,
+     "sha256": "0d9d68ae6daac309f9f536884004acf4e835c4c572620cab76dfbf989dab211f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 21",
+     "bytes": 24353,
+     "sha256": "aaad096f154b8915702aad56550936892e9935577fbe2882288d89936e8a6f13"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 22",
+     "bytes": 25875,
+     "sha256": "2aa42233f2d8379a25ec53c9ecda9e700ac8afec8ca3129b59733ed28b396586"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 23",
+     "bytes": 26699,
+     "sha256": "036704b9efdeb31312f87ae75753313bdb8f8f09d586b32695f99bc2724d5b21"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 24",
+     "bytes": 21462,
+     "sha256": "ccce73f6e79deacf110e699f23592f8454353289c5ce0467141c44de3fef38f1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 25",
+     "bytes": 24965,
+     "sha256": "4b5c9a59a9d03847100abd298f5f1e69431fe6f26315feb9ba0baeea1524fa21"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 26",
+     "bytes": 29810,
+     "sha256": "c5585db253babd2ec5cfbe9342c4a092b178830f901bf28d72e4b2d654e301be"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 27",
+     "bytes": 25789,
+     "sha256": "0fe38e093331e6ed47c56a0522e84315b18822c22b0ae7f1e57245428d07ffc7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 28",
+     "bytes": 44119,
+     "sha256": "e4416bf7ee7a829f07b535500a3700494125223b334a54952ea553869a534b85"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 29",
+     "bytes": 22892,
+     "sha256": "2b77eb0cb0a93d86e6c523d61bbf3feadb7efa994af4c1e3700f3babf21909a6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 3",
+     "bytes": 37745,
+     "sha256": "fe14fb5cc2759eb2210c2c758e6139fcc4b1d8d6d36b3f8d0e64568d5f3df00f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 30",
+     "bytes": 17122,
+     "sha256": "c885969a95233d1c7104d47013150ba35191bb9810d2a84e05c6661afb274c90"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 31",
+     "bytes": 20935,
+     "sha256": "0c51c835821913f10f74f06d2dbde94296b7e2fd62918c86ac5c6f29cab412cc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 32",
+     "bytes": 26064,
+     "sha256": "9b18cf45c8219cf5ae3bd91ed6d5799e687ae3eddd6ddebd804851ffb690ad26"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 33",
+     "bytes": 28112,
+     "sha256": "c2a9e38092e9156fabc1a9d8a4d029552cc0103ade5e3facb934ec108dc91670"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 34",
+     "bytes": 22346,
+     "sha256": "f299be344569c548e21e44d928cf76afcbf383402f170dd9d1708d5e6c058077"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 4",
+     "bytes": 35634,
+     "sha256": "57874d09827c0491c92edc8ccd7f7ae62d6bf17f4164859ba07c16329fdee2b0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 5",
+     "bytes": 28398,
+     "sha256": "dd75d36d51fcef00598622a4c6f89caec12f50dfca79dbbd9684c81b6690134c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 6",
+     "bytes": 26833,
+     "sha256": "80fee00e633b11dd3a7140c7863f7671b7959a425b28dd2ecdbef23c97efeb0f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 7",
+     "bytes": 28492,
+     "sha256": "b5460bddc7b4f3b12ef594b2bc3562cf2f119523ef02bf129c153716d0aa12ea"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 8",
+     "bytes": 31027,
+     "sha256": "4237f469bfc95361a2384649c4a9185da484fe97ad64498772b76125bf07048d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Homily 9",
+     "bytes": 30483,
+     "sha256": "07e1a953c76ca39a1608c12030902e4a37b1ed5df3ba0d5e0ad72795ab583aea"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Introduction",
+     "bytes": 86739,
+     "sha256": "018cdb65896e8aa73fdce05357a73cc9d572ba98228f8453f82ca570f114d120"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Preface",
+     "bytes": 11452,
+     "sha256": "37212d77483bb71b5089ae1d202a72289dc3cd361596c3191b1bfc1f26466111"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIV/On the Epistle to the Hebrews/Title Page",
+     "bytes": 1017,
+     "sha256": "94c486e315bfb10f803a4ffbcb47849743318ec54fe859f921c91e023e8cbf9e"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 24
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 33
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 32
+    },
+    {
+     "file": "0004.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 51
+    },
+    {
+     "file": "0005.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 50
+    },
+    {
+     "file": "0006.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 37
+    },
+    {
+     "file": "0007.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 40
+    },
+    {
+     "file": "0008.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 47
+    },
+    {
+     "file": "0009.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 48
+    },
+    {
+     "file": "0010.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 55
+    },
+    {
+     "file": "0011.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 41
+    },
+    {
+     "file": "0012.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 43
+    },
+    {
+     "file": "0013.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 31
+    },
+    {
+     "file": "0014.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 47
+    },
+    {
+     "file": "0015.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 37
+    },
+    {
+     "file": "0016.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 45
+    },
+    {
+     "file": "0017.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 33
+    },
+    {
+     "file": "0018.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 36
+    },
+    {
+     "file": "0019.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 26
+    },
+    {
+     "file": "0020.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 26
+    },
+    {
+     "file": "0021.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 34
+    },
+    {
+     "file": "0022.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 37
+    },
+    {
+     "file": "0023.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 32
+    },
+    {
+     "file": "0024.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 36
+    },
+    {
+     "file": "0025.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 35
+    },
+    {
+     "file": "0026.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 35
+    },
+    {
+     "file": "0027.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 49
+    },
+    {
+     "file": "0028.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 47
+    },
+    {
+     "file": "0029.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 63
+    },
+    {
+     "file": "0030.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 29
+    },
+    {
+     "file": "0031.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 24
+    },
+    {
+     "file": "0032.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 34
+    },
+    {
+     "file": "0033.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 41
+    },
+    {
+     "file": "0034.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 50
+    },
+    {
+     "file": "0035.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 43
+    },
+    {
+     "file": "0036.json",
+     "ref": "p2",
+     "title": "p2",
+     "segments": 100
+    },
+    {
+     "file": "0037.json",
+     "ref": "p3",
+     "title": "p3",
+     "segments": 49
+    },
+    {
+     "file": "0038.json",
+     "ref": "p4",
+     "title": "p4",
+     "segments": 7
+    }
+   ]
+  }
+ ]
+}

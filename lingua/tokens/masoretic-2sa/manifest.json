@@ -1,0 +1,199 @@
+{
+ "workId": "masoretic-2sa",
+ "editions": [
+  {
+   "editionId": "wlc-oshb-2sa",
+   "language": "he",
+   "variety": "he-bib",
+   "textSource": "self",
+   "analysis": {
+    "id": "oshb@2019.01.13",
+    "kind": "verified-dataset",
+    "status": "verified"
+   },
+   "credit": "Open Scriptures Hebrew Bible (OSHB), morphology and lemmas by the OSHB project; text: Westminster Leningrad Codex (WLC)",
+   "licence": "OSHB lemma and morphology: CC BY 4.0; WLC text: public domain; headwords and glosses: Open Scriptures Lexical Index (CC BY 4.0), BDB (public domain), Strong's (public domain, JSON CC BY-SA), curated glosses of the Biblia build",
+   "source": "biblia-v0/data/oshb/2Sam.xml",
+   "sourceUrl": "https://github.com/openscriptures/morphhb",
+   "version": "oshb 2018.12.14 (WLC version 4.20.); newest file 2019.01.13",
+   "coverage": {
+    "tokens": 11042,
+    "withLemma": 11042,
+    "withMorphology": 8483,
+    "verified": 11042,
+    "ambiguous": 0,
+    "unanalysed": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "2SA.1",
+     "title": "2 Samuel 1",
+     "segments": 27,
+     "tokens": 367
+    },
+    {
+     "file": "0002.json",
+     "ref": "2SA.2",
+     "title": "2 Samuel 2",
+     "segments": 32,
+     "tokens": 516
+    },
+    {
+     "file": "0003.json",
+     "ref": "2SA.3",
+     "title": "2 Samuel 3",
+     "segments": 39,
+     "tokens": 656
+    },
+    {
+     "file": "0004.json",
+     "ref": "2SA.4",
+     "title": "2 Samuel 4",
+     "segments": 12,
+     "tokens": 237
+    },
+    {
+     "file": "0005.json",
+     "ref": "2SA.5",
+     "title": "2 Samuel 5",
+     "segments": 25,
+     "tokens": 351
+    },
+    {
+     "file": "0006.json",
+     "ref": "2SA.6",
+     "title": "2 Samuel 6",
+     "segments": 23,
+     "tokens": 377
+    },
+    {
+     "file": "0007.json",
+     "ref": "2SA.7",
+     "title": "2 Samuel 7",
+     "segments": 29,
+     "tokens": 461
+    },
+    {
+     "file": "0008.json",
+     "ref": "2SA.8",
+     "title": "2 Samuel 8",
+     "segments": 18,
+     "tokens": 262
+    },
+    {
+     "file": "0009.json",
+     "ref": "2SA.9",
+     "title": "2 Samuel 9",
+     "segments": 13,
+     "tokens": 222
+    },
+    {
+     "file": "0010.json",
+     "ref": "2SA.10",
+     "title": "2 Samuel 10",
+     "segments": 19,
+     "tokens": 314
+    },
+    {
+     "file": "0011.json",
+     "ref": "2SA.11",
+     "title": "2 Samuel 11",
+     "segments": 27,
+     "tokens": 442
+    },
+    {
+     "file": "0012.json",
+     "ref": "2SA.12",
+     "title": "2 Samuel 12",
+     "segments": 31,
+     "tokens": 527
+    },
+    {
+     "file": "0013.json",
+     "ref": "2SA.13",
+     "title": "2 Samuel 13",
+     "segments": 39,
+     "tokens": 648
+    },
+    {
+     "file": "0014.json",
+     "ref": "2SA.14",
+     "title": "2 Samuel 14",
+     "segments": 33,
+     "tokens": 598
+    },
+    {
+     "file": "0015.json",
+     "ref": "2SA.15",
+     "title": "2 Samuel 15",
+     "segments": 37,
+     "tokens": 603
+    },
+    {
+     "file": "0016.json",
+     "ref": "2SA.16",
+     "title": "2 Samuel 16",
+     "segments": 23,
+     "tokens": 389
+    },
+    {
+     "file": "0017.json",
+     "ref": "2SA.17",
+     "title": "2 Samuel 17",
+     "segments": 29,
+     "tokens": 521
+    },
+    {
+     "file": "0018.json",
+     "ref": "2SA.18",
+     "title": "2 Samuel 18",
+     "segments": 32,
+     "tokens": 589
+    },
+    {
+     "file": "0019.json",
+     "ref": "2SA.19",
+     "title": "2 Samuel 19",
+     "segments": 44,
+     "tokens": 817
+    },
+    {
+     "file": "0020.json",
+     "ref": "2SA.20",
+     "title": "2 Samuel 20",
+     "segments": 26,
+     "tokens": 443
+    },
+    {
+     "file": "0021.json",
+     "ref": "2SA.21",
+     "title": "2 Samuel 21",
+     "segments": 22,
+     "tokens": 420
+    },
+    {
+     "file": "0022.json",
+     "ref": "2SA.22",
+     "title": "2 Samuel 22",
+     "segments": 51,
+     "tokens": 382
+    },
+    {
+     "file": "0023.json",
+     "ref": "2SA.23",
+     "title": "2 Samuel 23",
+     "segments": 39,
+     "tokens": 444
+    },
+    {
+     "file": "0024.json",
+     "ref": "2SA.24",
+     "title": "2 Samuel 24",
+     "segments": 25,
+     "tokens": 456
+    }
+   ]
+  }
+ ]
+}

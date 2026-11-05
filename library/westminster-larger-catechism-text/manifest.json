@@ -1,0 +1,35 @@
+{
+ "workId": "westminster-larger-catechism-text",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "westminster-larger-catechism-edinburgh-1671-tcp-a34242",
+   "role": "english",
+   "language": "english",
+   "credit": "The Larger Catechism (Edinburgh 1671), in EEBO-TCP A34242 (Wing C5769): The confession of faith; and, The larger and shorter catechism ... approved by the General Assembly of the kirk of Scotland, Edinburgh: George Swinton and Thomas Brown, 1671 (Edinburgh: George Swinton and Thomas Brown (sold by James Glen and David Trench), 1671). Transcription: Text Creation Partnership (EEBO-TCP Phase 1); keyboarded from page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A34242/master/A34242.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 668313,
+   "sourceSha256": "67336b370fb1905285155bdaa28d71a736e3ad956209ca3f37df88b63276fed4",
+   "leftOut": {
+    "pb": 91,
+    "note": 1289,
+    "unread": 146
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 16079,
+    "unreadPerThousand": 9.1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "The LARGER CATECHISM, First agreed upon by the Assembly of Divines at Westminster. And now appointed by the General Assembly of the Kirk of Scotland, to be a part of Uniformi • y in Religion, between ",
+     "segments": 404
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "workId": "vulgate-phm",
+ "editions": [
+  {
+   "editionId": "clementine-phm",
+   "language": "la",
+   "variety": "la-ecc",
+   "textSource": "store",
+   "analysis": {
+    "id": "golearn-la@1",
+    "kind": "analyser",
+    "status": "automatic"
+   },
+   "credit": "GoLearn Latin analyser (adapter-la; Whitaker's Words, Lewis & Short, Perseus treebank form priors, hand-written Vulgate priors); no Latinist has checked its data",
+   "licence": "Whitaker's Words: free for any use; Lewis & Short via Perseus: CC BY-SA 4.0; Perseus Latin Treebank priors: CC BY-SA 3.0; analyser code: the user's own",
+   "source": "local: go-v0-ecclesia/src/adapters/la.ts",
+   "version": "1",
+   "coverage": {
+    "tokens": 322,
+    "withLemma": 322,
+    "withMorphology": 227,
+    "verified": 0,
+    "ambiguous": 137,
+    "unanalysed": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "PHM.1",
+     "title": "Philemon 1",
+     "segments": 25,
+     "tokens": 322
+    }
+   ]
+  }
+ ]
+}

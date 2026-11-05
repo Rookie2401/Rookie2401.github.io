@@ -1,0 +1,766 @@
+{
+ "workId": "imitation-of-christ",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "imitation-christ-benham-gutenberg",
+   "role": "english",
+   "language": "english",
+   "credit": "The Imitation of Christ (translated by William Benham), in Project Gutenberg eBook #1653, trans. William Benham (Project Gutenberg reproduction of Benham's translation (print imprint not stated in the file), 1874). Transcription: Project Gutenberg volunteers (no producer credited in the file) (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/1653/pg1653.txt",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 374959,
+   "sourceSha256": "7e9f72139575c267b0e65dd1c9665cc8541a289538fda4cff370dedd0cc83a74",
+   "leftOut": {},
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "https://www.gutenberg.org/cache/epub/1653/pg1653.txt",
+     "bytes": 374959,
+     "sha256": "7e9f72139575c267b0e65dd1c9665cc8541a289538fda4cff370dedd0cc83a74"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "s1",
+     "title": "s1",
+     "segments": 4
+    },
+    {
+     "file": "0002.json",
+     "ref": "s2",
+     "title": "INTRODUCTORY NOTE THE IMITATION OF CHRIST",
+     "segments": 4
+    },
+    {
+     "file": "0003.json",
+     "ref": "s3",
+     "title": "INTRODUCTORY NOTE",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "c1",
+     "title": "CHAPTER I",
+     "segments": 7
+    },
+    {
+     "file": "0005.json",
+     "ref": "c2",
+     "title": "CHAPTER II",
+     "segments": 5
+    },
+    {
+     "file": "0006.json",
+     "ref": "c3",
+     "title": "CHAPTER III",
+     "segments": 8
+    },
+    {
+     "file": "0007.json",
+     "ref": "c4",
+     "title": "CHAPTER IV",
+     "segments": 3
+    },
+    {
+     "file": "0008.json",
+     "ref": "c5",
+     "title": "CHAPTER V",
+     "segments": 3
+    },
+    {
+     "file": "0009.json",
+     "ref": "c6",
+     "title": "CHAPTER VI",
+     "segments": 3
+    },
+    {
+     "file": "0010.json",
+     "ref": "c7",
+     "title": "CHAPTER VII",
+     "segments": 4
+    },
+    {
+     "file": "0011.json",
+     "ref": "c8",
+     "title": "CHAPTER VIII",
+     "segments": 3
+    },
+    {
+     "file": "0012.json",
+     "ref": "c9",
+     "title": "CHAPTER IX",
+     "segments": 4
+    },
+    {
+     "file": "0013.json",
+     "ref": "c10",
+     "title": "CHAPTER X",
+     "segments": 3
+    },
+    {
+     "file": "0014.json",
+     "ref": "c11",
+     "title": "CHAPTER XI",
+     "segments": 7
+    },
+    {
+     "file": "0015.json",
+     "ref": "c12",
+     "title": "CHAPTER XII",
+     "segments": 3
+    },
+    {
+     "file": "0016.json",
+     "ref": "c13",
+     "title": "CHAPTER XIII",
+     "segments": 12
+    },
+    {
+     "file": "0017.json",
+     "ref": "c14",
+     "title": "CHAPTER XIV",
+     "segments": 4
+    },
+    {
+     "file": "0018.json",
+     "ref": "c15",
+     "title": "CHAPTER XV",
+     "segments": 4
+    },
+    {
+     "file": "0019.json",
+     "ref": "c16",
+     "title": "CHAPTER XVI",
+     "segments": 5
+    },
+    {
+     "file": "0020.json",
+     "ref": "c17",
+     "title": "CHAPTER XVII",
+     "segments": 4
+    },
+    {
+     "file": "0021.json",
+     "ref": "c18",
+     "title": "CHAPTER XVIII",
+     "segments": 7
+    },
+    {
+     "file": "0022.json",
+     "ref": "c19",
+     "title": "CHAPTER XIX",
+     "segments": 9
+    },
+    {
+     "file": "0023.json",
+     "ref": "c20",
+     "title": "CHAPTER XX",
+     "segments": 10
+    },
+    {
+     "file": "0024.json",
+     "ref": "c21",
+     "title": "CHAPTER XXI",
+     "segments": 8
+    },
+    {
+     "file": "0025.json",
+     "ref": "c22",
+     "title": "CHAPTER XXII",
+     "segments": 9
+    },
+    {
+     "file": "0026.json",
+     "ref": "c23",
+     "title": "CHAPTER XXIII",
+     "segments": 11
+    },
+    {
+     "file": "0027.json",
+     "ref": "c24",
+     "title": "CHAPTER XXIV",
+     "segments": 9
+    },
+    {
+     "file": "0028.json",
+     "ref": "c25",
+     "title": "CHAPTER XXV",
+     "segments": 12
+    },
+    {
+     "file": "0029.json",
+     "ref": "c1~2",
+     "title": "CHAPTER I",
+     "segments": 10
+    },
+    {
+     "file": "0030.json",
+     "ref": "c2~2",
+     "title": "CHAPTER II",
+     "segments": 3
+    },
+    {
+     "file": "0031.json",
+     "ref": "c3~2",
+     "title": "CHAPTER III",
+     "segments": 4
+    },
+    {
+     "file": "0032.json",
+     "ref": "c4~2",
+     "title": "CHAPTER IV",
+     "segments": 4
+    },
+    {
+     "file": "0033.json",
+     "ref": "c5~2",
+     "title": "CHAPTER V",
+     "segments": 4
+    },
+    {
+     "file": "0034.json",
+     "ref": "c6~2",
+     "title": "CHAPTER VI",
+     "segments": 6
+    },
+    {
+     "file": "0035.json",
+     "ref": "c7~2",
+     "title": "CHAPTER VII",
+     "segments": 5
+    },
+    {
+     "file": "0036.json",
+     "ref": "c8~2",
+     "title": "CHAPTER VIII",
+     "segments": 7
+    },
+    {
+     "file": "0037.json",
+     "ref": "c9~2",
+     "title": "CHAPTER IX",
+     "segments": 10
+    },
+    {
+     "file": "0038.json",
+     "ref": "c10~2",
+     "title": "CHAPTER X",
+     "segments": 7
+    },
+    {
+     "file": "0039.json",
+     "ref": "c11~2",
+     "title": "CHAPTER XI",
+     "segments": 6
+    },
+    {
+     "file": "0040.json",
+     "ref": "c12~2",
+     "title": "CHAPTER XII",
+     "segments": 17
+    },
+    {
+     "file": "0041.json",
+     "ref": "c1~3",
+     "title": "CHAPTER I",
+     "segments": 4
+    },
+    {
+     "file": "0042.json",
+     "ref": "c2~3",
+     "title": "CHAPTER II",
+     "segments": 5
+    },
+    {
+     "file": "0043.json",
+     "ref": "c3~3",
+     "title": "CHAPTER III",
+     "segments": 8
+    },
+    {
+     "file": "0044.json",
+     "ref": "s48",
+     "title": "A PRAYER FOR THE SPIRIT OF DEVOTION",
+     "segments": 3
+    },
+    {
+     "file": "0045.json",
+     "ref": "c4~3",
+     "title": "CHAPTER IV",
+     "segments": 6
+    },
+    {
+     "file": "0046.json",
+     "ref": "c5~3",
+     "title": "CHAPTER V",
+     "segments": 10
+    },
+    {
+     "file": "0047.json",
+     "ref": "c6~3",
+     "title": "CHAPTER VI",
+     "segments": 10
+    },
+    {
+     "file": "0048.json",
+     "ref": "c7~3",
+     "title": "CHAPTER VII",
+     "segments": 7
+    },
+    {
+     "file": "0049.json",
+     "ref": "c8~3",
+     "title": "CHAPTER VIII",
+     "segments": 5
+    },
+    {
+     "file": "0050.json",
+     "ref": "c9~3",
+     "title": "CHAPTER IX",
+     "segments": 5
+    },
+    {
+     "file": "0051.json",
+     "ref": "c10~3",
+     "title": "CHAPTER X",
+     "segments": 8
+    },
+    {
+     "file": "0052.json",
+     "ref": "c11~3",
+     "title": "CHAPTER XI",
+     "segments": 6
+    },
+    {
+     "file": "0053.json",
+     "ref": "c12~3",
+     "title": "CHAPTER XII",
+     "segments": 7
+    },
+    {
+     "file": "0054.json",
+     "ref": "c13~2",
+     "title": "CHAPTER XIII",
+     "segments": 4
+    },
+    {
+     "file": "0055.json",
+     "ref": "c14~2",
+     "title": "CHAPTER XIV",
+     "segments": 6
+    },
+    {
+     "file": "0056.json",
+     "ref": "c15~2",
+     "title": "CHAPTER XV",
+     "segments": 3
+    },
+    {
+     "file": "0057.json",
+     "ref": "s61",
+     "title": "A PRAYER TO BE ENABLED TO DO GOD’S WILL PERFECTLY",
+     "segments": 3
+    },
+    {
+     "file": "0058.json",
+     "ref": "c16~2",
+     "title": "CHAPTER XVI",
+     "segments": 4
+    },
+    {
+     "file": "0059.json",
+     "ref": "c17~2",
+     "title": "CHAPTER XVII",
+     "segments": 5
+    },
+    {
+     "file": "0060.json",
+     "ref": "c18~2",
+     "title": "CHAPTER XVIII",
+     "segments": 4
+    },
+    {
+     "file": "0061.json",
+     "ref": "c19~2",
+     "title": "CHAPTER XIX",
+     "segments": 7
+    },
+    {
+     "file": "0062.json",
+     "ref": "c20~2",
+     "title": "CHAPTER XX",
+     "segments": 7
+    },
+    {
+     "file": "0063.json",
+     "ref": "c21~2",
+     "title": "CHAPTER XXI",
+     "segments": 8
+    },
+    {
+     "file": "0064.json",
+     "ref": "c22~2",
+     "title": "CHAPTER XXII",
+     "segments": 7
+    },
+    {
+     "file": "0065.json",
+     "ref": "c23~2",
+     "title": "CHAPTER XXIII",
+     "segments": 5
+    },
+    {
+     "file": "0066.json",
+     "ref": "s70",
+     "title": "A PRAYER AGAINST EVIL THOUGHTS",
+     "segments": 3
+    },
+    {
+     "file": "0067.json",
+     "ref": "s71",
+     "title": "A PRAYER FOR ENLIGHTENMENT OF THE MIND",
+     "segments": 4
+    },
+    {
+     "file": "0068.json",
+     "ref": "c24~2",
+     "title": "CHAPTER XXIV",
+     "segments": 4
+    },
+    {
+     "file": "0069.json",
+     "ref": "c25~2",
+     "title": "CHAPTER XXV",
+     "segments": 7
+    },
+    {
+     "file": "0070.json",
+     "ref": "c26",
+     "title": "CHAPTER XXVI",
+     "segments": 5
+    },
+    {
+     "file": "0071.json",
+     "ref": "c27",
+     "title": "CHAPTER XXVII",
+     "segments": 4
+    },
+    {
+     "file": "0072.json",
+     "ref": "s76",
+     "title": "A PRAYER FOR CLEANSING OF THE HEART AND FOR HEAVENLY WISDOM",
+     "segments": 3
+    },
+    {
+     "file": "0073.json",
+     "ref": "c28",
+     "title": "CHAPTER XXVIII",
+     "segments": 3
+    },
+    {
+     "file": "0074.json",
+     "ref": "c29",
+     "title": "CHAPTER XXIX",
+     "segments": 4
+    },
+    {
+     "file": "0075.json",
+     "ref": "c30",
+     "title": "CHAPTER XXX",
+     "segments": 9
+    },
+    {
+     "file": "0076.json",
+     "ref": "c31",
+     "title": "CHAPTER XXXI",
+     "segments": 6
+    },
+    {
+     "file": "0077.json",
+     "ref": "c32",
+     "title": "CHAPTER XXXII",
+     "segments": 6
+    },
+    {
+     "file": "0078.json",
+     "ref": "c33",
+     "title": "CHAPTER XXXIII",
+     "segments": 4
+    },
+    {
+     "file": "0079.json",
+     "ref": "c34",
+     "title": "CHAPTER XXXIV",
+     "segments": 6
+    },
+    {
+     "file": "0080.json",
+     "ref": "c35",
+     "title": "CHAPTER XXXV",
+     "segments": 5
+    },
+    {
+     "file": "0081.json",
+     "ref": "c36",
+     "title": "CHAPTER XXXVI",
+     "segments": 5
+    },
+    {
+     "file": "0082.json",
+     "ref": "c37",
+     "title": "CHAPTER XXXVII",
+     "segments": 6
+    },
+    {
+     "file": "0083.json",
+     "ref": "c38",
+     "title": "CHAPTER XXXVIII",
+     "segments": 4
+    },
+    {
+     "file": "0084.json",
+     "ref": "c39",
+     "title": "CHAPTER XXXIX",
+     "segments": 6
+    },
+    {
+     "file": "0085.json",
+     "ref": "c40",
+     "title": "CHAPTER XL",
+     "segments": 8
+    },
+    {
+     "file": "0086.json",
+     "ref": "c41",
+     "title": "CHAPTER XLI",
+     "segments": 3
+    },
+    {
+     "file": "0087.json",
+     "ref": "c42",
+     "title": "CHAPTER XLII",
+     "segments": 3
+    },
+    {
+     "file": "0088.json",
+     "ref": "c43",
+     "title": "CHAPTER XLIII",
+     "segments": 6
+    },
+    {
+     "file": "0089.json",
+     "ref": "c44",
+     "title": "CHAPTER XLIV",
+     "segments": 3
+    },
+    {
+     "file": "0090.json",
+     "ref": "c45",
+     "title": "CHAPTER XLV",
+     "segments": 7
+    },
+    {
+     "file": "0091.json",
+     "ref": "c46",
+     "title": "CHAPTER XLVI",
+     "segments": 7
+    },
+    {
+     "file": "0092.json",
+     "ref": "c47",
+     "title": "CHAPTER XLVII",
+     "segments": 6
+    },
+    {
+     "file": "0093.json",
+     "ref": "c48",
+     "title": "CHAPTER XLVIII",
+     "segments": 8
+    },
+    {
+     "file": "0094.json",
+     "ref": "c49",
+     "title": "CHAPTER XLIX",
+     "segments": 9
+    },
+    {
+     "file": "0095.json",
+     "ref": "c50",
+     "title": "CHAPTER L",
+     "segments": 10
+    },
+    {
+     "file": "0096.json",
+     "ref": "c51",
+     "title": "CHAPTER LI",
+     "segments": 4
+    },
+    {
+     "file": "0097.json",
+     "ref": "c52",
+     "title": "CHAPTER LII",
+     "segments": 6
+    },
+    {
+     "file": "0098.json",
+     "ref": "c53",
+     "title": "CHAPTER LIII",
+     "segments": 5
+    },
+    {
+     "file": "0099.json",
+     "ref": "c54",
+     "title": "CHAPTER LIV",
+     "segments": 19
+    },
+    {
+     "file": "0100.json",
+     "ref": "c55",
+     "title": "CHAPTER LV",
+     "segments": 8
+    },
+    {
+     "file": "0101.json",
+     "ref": "c56",
+     "title": "CHAPTER LVI",
+     "segments": 8
+    },
+    {
+     "file": "0102.json",
+     "ref": "c57",
+     "title": "CHAPTER LVII",
+     "segments": 5
+    },
+    {
+     "file": "0103.json",
+     "ref": "c58",
+     "title": "CHAPTER LVIII",
+     "segments": 13
+    },
+    {
+     "file": "0104.json",
+     "ref": "c59",
+     "title": "CHAPTER LIX",
+     "segments": 7
+    },
+    {
+     "file": "0105.json",
+     "ref": "s109",
+     "title": "THE FOURTH BOOK OF THE SACRAMENT OF THE ALTAR",
+     "segments": 4
+    },
+    {
+     "file": "0106.json",
+     "ref": "c1~4",
+     "title": "CHAPTER I",
+     "segments": 16
+    },
+    {
+     "file": "0107.json",
+     "ref": "c2~4",
+     "title": "CHAPTER II",
+     "segments": 9
+    },
+    {
+     "file": "0108.json",
+     "ref": "c3~4",
+     "title": "CHAPTER III",
+     "segments": 7
+    },
+    {
+     "file": "0109.json",
+     "ref": "c4~4",
+     "title": "CHAPTER IV",
+     "segments": 8
+    },
+    {
+     "file": "0110.json",
+     "ref": "c5~4",
+     "title": "CHAPTER V",
+     "segments": 5
+    },
+    {
+     "file": "0111.json",
+     "ref": "c6~4",
+     "title": "CHAPTER VI",
+     "segments": 4
+    },
+    {
+     "file": "0112.json",
+     "ref": "c7~4",
+     "title": "CHAPTER VII",
+     "segments": 6
+    },
+    {
+     "file": "0113.json",
+     "ref": "c8~4",
+     "title": "CHAPTER VIII",
+     "segments": 5
+    },
+    {
+     "file": "0114.json",
+     "ref": "c9~4",
+     "title": "CHAPTER IX",
+     "segments": 9
+    },
+    {
+     "file": "0115.json",
+     "ref": "c10~4",
+     "title": "CHAPTER X",
+     "segments": 9
+    },
+    {
+     "file": "0116.json",
+     "ref": "c11~4",
+     "title": "CHAPTER XI",
+     "segments": 11
+    },
+    {
+     "file": "0117.json",
+     "ref": "c12~4",
+     "title": "CHAPTER XII",
+     "segments": 7
+    },
+    {
+     "file": "0118.json",
+     "ref": "c13~3",
+     "title": "CHAPTER XIII",
+     "segments": 6
+    },
+    {
+     "file": "0119.json",
+     "ref": "c14~3",
+     "title": "CHAPTER XIV",
+     "segments": 6
+    },
+    {
+     "file": "0120.json",
+     "ref": "c15~3",
+     "title": "CHAPTER XV",
+     "segments": 7
+    },
+    {
+     "file": "0121.json",
+     "ref": "c16~3",
+     "title": "CHAPTER XVI",
+     "segments": 5
+    },
+    {
+     "file": "0122.json",
+     "ref": "c17~3",
+     "title": "CHAPTER XVII",
+     "segments": 8
+    },
+    {
+     "file": "0123.json",
+     "ref": "c18~3",
+     "title": "CHAPTER XVIII",
+     "segments": 8
+    }
+   ]
+  }
+ ]
+}

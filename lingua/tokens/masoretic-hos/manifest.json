@@ -1,0 +1,129 @@
+{
+ "workId": "masoretic-hos",
+ "editions": [
+  {
+   "editionId": "wlc-oshb-hos",
+   "language": "he",
+   "variety": "he-bib",
+   "textSource": "self",
+   "analysis": {
+    "id": "oshb@2019.01.13",
+    "kind": "verified-dataset",
+    "status": "verified"
+   },
+   "credit": "Open Scriptures Hebrew Bible (OSHB), morphology and lemmas by the OSHB project; text: Westminster Leningrad Codex (WLC)",
+   "licence": "OSHB lemma and morphology: CC BY 4.0; WLC text: public domain; headwords and glosses: Open Scriptures Lexical Index (CC BY 4.0), BDB (public domain), Strong's (public domain, JSON CC BY-SA), curated glosses of the Biblia build",
+   "source": "biblia-v0/data/oshb/Hos.xml",
+   "sourceUrl": "https://github.com/openscriptures/morphhb",
+   "version": "oshb 2018.1.5 (WLC version 4.20.); newest file 2019.01.13",
+   "coverage": {
+    "tokens": 2381,
+    "withLemma": 2381,
+    "withMorphology": 1966,
+    "verified": 2381,
+    "ambiguous": 0,
+    "unanalysed": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "HOS.1",
+     "title": "Hosea 1",
+     "segments": 9,
+     "tokens": 137
+    },
+    {
+     "file": "0002.json",
+     "ref": "HOS.2",
+     "title": "Hosea 2",
+     "segments": 25,
+     "tokens": 338
+    },
+    {
+     "file": "0003.json",
+     "ref": "HOS.3",
+     "title": "Hosea 3",
+     "segments": 5,
+     "tokens": 81
+    },
+    {
+     "file": "0004.json",
+     "ref": "HOS.4",
+     "title": "Hosea 4",
+     "segments": 19,
+     "tokens": 223
+    },
+    {
+     "file": "0005.json",
+     "ref": "HOS.5",
+     "title": "Hosea 5",
+     "segments": 15,
+     "tokens": 179
+    },
+    {
+     "file": "0006.json",
+     "ref": "HOS.6",
+     "title": "Hosea 6",
+     "segments": 11,
+     "tokens": 104
+    },
+    {
+     "file": "0007.json",
+     "ref": "HOS.7",
+     "title": "Hosea 7",
+     "segments": 16,
+     "tokens": 189
+    },
+    {
+     "file": "0008.json",
+     "ref": "HOS.8",
+     "title": "Hosea 8",
+     "segments": 14,
+     "tokens": 154
+    },
+    {
+     "file": "0009.json",
+     "ref": "HOS.9",
+     "title": "Hosea 9",
+     "segments": 17,
+     "tokens": 213
+    },
+    {
+     "file": "0010.json",
+     "ref": "HOS.10",
+     "title": "Hosea 10",
+     "segments": 15,
+     "tokens": 201
+    },
+    {
+     "file": "0011.json",
+     "ref": "HOS.11",
+     "title": "Hosea 11",
+     "segments": 11,
+     "tokens": 123
+    },
+    {
+     "file": "0012.json",
+     "ref": "HOS.12",
+     "title": "Hosea 12",
+     "segments": 15,
+     "tokens": 160
+    },
+    {
+     "file": "0013.json",
+     "ref": "HOS.13",
+     "title": "Hosea 13",
+     "segments": 15,
+     "tokens": 163
+    },
+    {
+     "file": "0014.json",
+     "ref": "HOS.14",
+     "title": "Hosea 14",
+     "segments": 10,
+     "tokens": 116
+    }
+   ]
+  }
+ ]
+}

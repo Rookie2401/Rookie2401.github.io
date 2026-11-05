@@ -1,0 +1,90 @@
+{
+ "workId": "sibbes-glorious-feast",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "sibbes-glorious-feast-1650-tcp-a93248",
+   "role": "english",
+   "language": "english",
+   "credit": "The glorious feast of the Gospel. Or, Christs gracious invitation and royall entertainment of beleevers, in EEBO-TCP text A93248 (STC Wing S3736; STC Thomason E599_13; STC) (London: Printed for John Rothwell at the Sun and Fountaine in Paul's Church-yard, neare the little North-doore, 1650). Transcription: Text Creation Partnership (EEBO-TCP Phase I), keyboarded from images of the original (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A93248/master/A93248.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 405889,
+   "sourceSha256": "d95173b14fc232a376ebfe577798b6cf4f9274aee6c62ab56cce42b488176385",
+   "leftOut": {
+    "pb": 155,
+    "note": 385,
+    "unread": 12,
+    "milestone": 9
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 52475,
+    "unreadPerThousand": 0.2
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "TO THE READER.",
+     "segments": 12
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "THE Marriage Feaſt, BETWEEN CHRIST and his CHURCH.",
+     "segments": 32
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "THE Second Sermon.",
+     "segments": 22
+    },
+    {
+     "file": "0004.json",
+     "ref": "3",
+     "title": "THE Third Sermon.",
+     "segments": 57
+    },
+    {
+     "file": "0005.json",
+     "ref": "4",
+     "title": "THE Fourth Sermon.",
+     "segments": 46
+    },
+    {
+     "file": "0006.json",
+     "ref": "5",
+     "title": "THE Fifth Sermon.",
+     "segments": 29
+    },
+    {
+     "file": "0007.json",
+     "ref": "6",
+     "title": "THE Sixth Sermon.",
+     "segments": 29
+    },
+    {
+     "file": "0008.json",
+     "ref": "7",
+     "title": "THE Seventh Sermon.",
+     "segments": 40
+    },
+    {
+     "file": "0009.json",
+     "ref": "8",
+     "title": "THE Eighth Sermon.",
+     "segments": 45
+    },
+    {
+     "file": "0010.json",
+     "ref": "9",
+     "title": "THE Ninth Sermon.",
+     "segments": 51
+    }
+   ]
+  }
+ ]
+}

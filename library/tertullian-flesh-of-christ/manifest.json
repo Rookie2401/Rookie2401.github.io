@@ -1,0 +1,491 @@
+{
+ "workId": "tertullian-flesh-of-christ",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "oehler-1854-carne-christi",
+   "role": "original",
+   "language": "latin",
+   "credit": "De Carne Christi, in Quinti Septimii Florentis Tertulliani Quae supersunt omnia, vol. 2, ed. Franz Oehler (Leipzig: T. O. Weigel, 1854). Trustees of Tufts University / Perseus Digital Library, CC BY-SA 4.0; text of F. Oehler (ed.), Tertulliani Quae supersunt omnia, Leipzig 1853-54 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/stoa0275/stoa012/stoa0275.stoa012.opp-lat1.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 70761,
+   "sourceSha256": "375ae3305b58e8624f0f319f6b0b392e562e03753ac89b0fb80f2c7feee99484",
+   "leftOut": {
+    "pb": 39,
+    "bibl": 76
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 9507,
+    "garbledPerThousand": 0.3,
+    "joinedPerThousand": 0.1,
+    "numbersPerThousand": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "anf3-holmes-flesh-of-christ",
+   "role": "english",
+   "language": "english",
+   "credit": "On the Flesh of Christ, in The Ante-Nicene Fathers, vol. III (American edition, ed. A. Cleveland Coxe), Tertullian, trans. Peter Holmes (Buffalo: Christian Literature Publishing Co., 1885). Wikisource contributors, \"Ante-Nicene Fathers\" (Peter Holmes), en.wikisource.org, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_III/Anti-Marcion/On_the_Flesh_of_Christ",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 127854,
+   "sourceSha256": "8dd4254e30134977e1f0c4880e81635601c75846eea0c31e386da26f234260e8",
+   "leftOut": {
+    "note": 345
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/I",
+     "bytes": 4586,
+     "sha256": "f8ddcb308c91dd68dcfcbfc7dbaaea515884b58d6988eca0d944cc07c8168c73"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/II",
+     "bytes": 4534,
+     "sha256": "2f7560e4700d7d0a657507928274a9f616cf1c1cef696c13b8be977e946e981f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/III",
+     "bytes": 6934,
+     "sha256": "c90d015f31b33f046d4dfda9db98620404e987dfc306a03a303d6dfd69ce8a68"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/IV",
+     "bytes": 6251,
+     "sha256": "d60ca8fc2fb295f1157906e249fe5fa7e4cd4c113b7410468a8149e8de53f895"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/V",
+     "bytes": 7298,
+     "sha256": "1742da1f16e63acd4c1ad59ca2682e4cb4c1a1ed6e51e72aff43997d608256ec"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/VI",
+     "bytes": 8320,
+     "sha256": "17ca311f4e175f3c64123cedb6a2806542db3d67d3c917fc8da2326404203ab4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/VII",
+     "bytes": 8626,
+     "sha256": "60a0f2c4b1e3e9521edb839399d9a66bfc5e4d843a974bd668cff0c380027b6d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/VIII",
+     "bytes": 4072,
+     "sha256": "53a5652f0fa5a429c9360e63bbe105bbd1ae11a0d3f4a1daa29564ea94bdb8c3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/IX",
+     "bytes": 4487,
+     "sha256": "5889072c8677283b3ad76d0bf2cfefe8a2b568801d19efa68c5494d8be6a5559"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/X",
+     "bytes": 2701,
+     "sha256": "773d999612dfa52fa0ba5a1eefb2796f8b79cec6b82e74b184778150903d1395"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/XI",
+     "bytes": 4910,
+     "sha256": "18cb8605e4a63f22574ecda21f50aaba6cc94a2a0756beff1ce7573f7dd480b9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/XII",
+     "bytes": 5077,
+     "sha256": "b8de51a35f63fdea19fdfcb020199ab5421fa86e418e94e116d7080ec8d0bf98"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/XIII",
+     "bytes": 4629,
+     "sha256": "0713b0a25e0f3c38b12f51b982b6a497fe20dfe2957574038c2e56914fd01446"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/XIV",
+     "bytes": 4436,
+     "sha256": "2b184054fd108783394309b6afccce46fd2dd424fe3ada3d24868d085ef88652"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/XV",
+     "bytes": 4535,
+     "sha256": "f8b580d65eb90be729f0722054b9e15570cc70c3ae5de1dc25346c3d6412fe16"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/XVI",
+     "bytes": 5824,
+     "sha256": "292e4cc98e2435c6b8ab5337c94f4bd19f021dcce9af5329c10eefd800878ad3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/XVII",
+     "bytes": 4389,
+     "sha256": "1b60166491415e5536ed0d0567190bdb9b2b60bdac217b257f87a32876524f06"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/XVIII",
+     "bytes": 4545,
+     "sha256": "fd2ae2b207b1c6b455a19818edfd38f4f9ab39d74f6f6a6d33ddcb1a9c0a3e1e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/XIX",
+     "bytes": 4772,
+     "sha256": "ccc0659f0c8e07f744697592fe81d93772e3a0ce1e9241ba2cb6629ecbf39887"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/XX",
+     "bytes": 5605,
+     "sha256": "6c36981a692fe5eaa595ecd04e800216f18d563af845e887880d4a2e608a8580"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/XXI",
+     "bytes": 4843,
+     "sha256": "bc38052aeda583de3e2441488ac25b831cb5e587b388f2d65509eeeb6f50e6b9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/XXII",
+     "bytes": 3622,
+     "sha256": "79e0bb73e0069143684e6ca6ed5598c1a2a29f6e62697a8a71a3c9c5c30f625a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/XXIII",
+     "bytes": 4869,
+     "sha256": "8c679536760a17eb999d0ee82c680831a38828ace7c08c4a2b3a3d65738fb77e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/XXIV",
+     "bytes": 3694,
+     "sha256": "18db866ab4704c06e70ed33d9d382696232dc6d1a86531c81b60fe9c49fd6137"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/XXV",
+     "bytes": 1477,
+     "sha256": "e1e586327852674f529aec91e0a6d3b75f4357dfc9d7a05da299f4b221c5b18b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/On the Flesh of Christ/Elucidations",
+     "bytes": 2818,
+     "sha256": "160405e17f3d29f31c702b074d8cfa881008dbc86694d5235a0957e35018744d"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 6
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 7
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 25,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 1
+ }
+}

@@ -1,0 +1,3151 @@
+{
+ "workId": "vermigli-common-places",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "vermigli-common-places-marten-1583",
+   "role": "english",
+   "language": "english",
+   "credit": "The Common Places of the most famous and renowned divine Doctor Peter Martyr (tr. Anthony Marten), in EEBO-TCP A14350 (STC 24669), trans. Anthony Marten (London: Henry Denham and Henry Middleton, for Denham, Chard, Broome and Maunsell, 1583). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A14350/master/A14350.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 14275876,
+   "sourceSha256": "a1c4fdcc7e9469b493825f249975f5350db0edd5aa653c8b364560dcd8ffb0fc",
+   "leftOut": {
+    "pb": 1769,
+    "figure": 12,
+    "note": 15723,
+    "unread": 918,
+    "milestone": 879
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 1599634,
+    "unreadPerThousand": 0.6
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "front.1",
+     "segments": 3
+    },
+    {
+     "file": "0002.json",
+     "ref": "front.2",
+     "title": "I H S",
+     "segments": 15
+    },
+    {
+     "file": "0003.json",
+     "ref": "front.3",
+     "title": "I H S",
+     "segments": 7
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.1.1",
+     "title": "Of the ends of good and euill among the Chriſtians. The firſt Chapter.",
+     "segments": 24
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.1.2",
+     "title": "The ſecond Chapter. Of the naturall knowledge of God by the things created: & whervnto this knowledge tendeth. And whether there be anie that knoweth not God. Out of the Epiſtle to the Romans, Cap. 1,",
+     "segments": 14
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.1.3",
+     "title": "The third Chapter. Concerning Propheſie; out of the firſt of Samuel, the 19. Chapter, verſe 33.",
+     "segments": 13
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.1.4",
+     "title": "The fourth Chapter. Of Viſions; and how, and how much God may bee knowne of men. Out of the booke of Iudges the 6. chapter, verſ. 22.",
+     "segments": 42
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.1.5",
+     "title": "The fift Chapter. Of Dreames; chieflie out of the booke of Iudges, the 7. chapter, verſ. 13.",
+     "segments": 30
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.1.6.1",
+     "title": "1.1.6.1",
+     "segments": 24
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.1.6.2",
+     "title": "An exhortation to the reading of the ſcriptures.",
+     "segments": 13
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.1.6.3",
+     "title": "Of Hiſtorie.",
+     "segments": 16
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.1.7",
+     "title": "The ſeuenth Chapter. Whether yong and incontinent men, and finallie anie other ſort are to be excluded from hearing of the word of God.",
+     "segments": 14
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.1.8.1",
+     "title": "1.1.8.1",
+     "segments": 8
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.1.8.2",
+     "title": "Of foreſpeaking or foretelling; called Omen.",
+     "segments": 3
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.1.9",
+     "title": "The ninth Chapter. Of Miracles; and what power they be of to eſtabliſh faith and doctrine.",
+     "segments": 33
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.1.10.1",
+     "title": "1.1.10.1",
+     "segments": 16
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.1.10.2",
+     "title": "VVhether the diuell can appeare, and knowe things to come, and giue anſwers.",
+     "segments": 48
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.1.10.3",
+     "title": "VVhether it be lawfull to aske counſell of the Diuell, and to vſe his helpe.",
+     "segments": 6
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.1.11.1",
+     "title": "1.1.11.1",
+     "segments": 14
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.1.11.2",
+     "title": "Of Preſcription and Cuſtome.",
+     "segments": 13
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.1.12.1.1",
+     "title": "1.1.12.1.1",
+     "segments": 5
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.1.12.1.2",
+     "title": "1.1.12.1.2",
+     "segments": 7
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.1.12.2",
+     "title": "VVhether the holie Ghoſt be God.",
+     "segments": 28
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.1.13.1",
+     "title": "1.1.13.1",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.1.13.2",
+     "title": "Of Angels and their creation.",
+     "segments": 28
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.1.13.3.1",
+     "title": "1.1.13.3.1",
+     "segments": 4
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.1.13.3.2",
+     "title": "1.1.13.3.2",
+     "segments": 8
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.1.13.3.3",
+     "title": "1.1.13.3.3",
+     "segments": 4
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.1.13.4.1",
+     "title": "1.1.13.4.1",
+     "segments": 3
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.1.13.4.2",
+     "title": "1.1.13.4.2",
+     "segments": 3
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.1.13.5",
+     "title": "Of the long life of the Fathers.",
+     "segments": 4
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.1.13.6",
+     "title": "Of Giants.",
+     "segments": 11
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.1.14.1",
+     "title": "1.1.14.1",
+     "segments": 8
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.1.14.2",
+     "title": "Of Pleaſure, and wherein it may concur with the cheefeſt good, and wherein it may not.",
+     "segments": 23
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.1.14.3",
+     "title": "Of Honour, that it is not the cheefeſt good; but wherein it concurreth with it, and wherein not.",
+     "segments": 11
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.1.14.4",
+     "title": "Of certeine good things attending vpon Felicitie; namelie, riches, beautie, nobilitie, and ſuch like: and how far men may vſe them vvithout hinderance vnto Felicitie.",
+     "segments": 12
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.1.14.5",
+     "title": "Of contemplation, and what Felicitie is therein.",
+     "segments": 3
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.1.14.6",
+     "title": "That vertue is not the cheefeſt good; and wherein the ſame agreeth with it.",
+     "segments": 10
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.1.14.7",
+     "title": "Of the cauſes of Felicitie.",
+     "segments": 11
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.1.14.end",
+     "title": "1.1.14.end",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.1.15",
+     "title": "The xv. Chapter. Whether anie man can be counted happie, while he liueth in this world.",
+     "segments": 23
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.1.16.1",
+     "title": "1.1.16.1",
+     "segments": 8
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.1.16.2",
+     "title": "1.1.16.2",
+     "segments": 17
+    },
+    {
+     "file": "0044.json",
+     "ref": "1.1.17.0",
+     "title": "The.xvij. Chapter. Whether God be the Author of ſinne; out of the ſecond booke of Sam. the 16. chapter, verſe 22. Looke in Iud. 3, 9. and 9, 24. and 2. Sam, 2, 27. and 1. Kings. 22, 21. and In Rom. 1.",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "1.1.17.1",
+     "title": "1.1.17.1",
+     "segments": 78
+    },
+    {
+     "file": "0046.json",
+     "ref": "1.1.17.2",
+     "title": "VVe haue added theſe few things out of the like place vpon the firſt of Samuel, the ſecond chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0047.json",
+     "ref": "1.1.17.3",
+     "title": "An other diſcourſe of the ſame argument.",
+     "segments": 8
+    },
+    {
+     "file": "0048.json",
+     "ref": "1.1.18.1.1",
+     "title": "1.1.18.1.1",
+     "segments": 3
+    },
+    {
+     "file": "0049.json",
+     "ref": "1.1.18.1.2",
+     "title": "1.1.18.1.2",
+     "segments": 4
+    },
+    {
+     "file": "0050.json",
+     "ref": "1.1.18.2",
+     "title": "How it could be ſaid to Saule, that his kingdome ſhould be eſtabliſhed for euer, the ſame being before appointed to the tribe of Iuda.",
+     "segments": 6
+    },
+    {
+     "file": "0051.json",
+     "ref": "1.1.18.3",
+     "title": "Of Temptation.",
+     "segments": 7
+    },
+    {
+     "file": "0052.json",
+     "ref": "1.1.18.end",
+     "title": "1.1.18.end",
+     "segments": 1
+    },
+    {
+     "file": "0053.json",
+     "ref": "1.1.end",
+     "title": "1.1.end",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "1.2.1.0",
+     "title": "The first Chapter. Of Sinne, eſpeciallie originall ſinne; and of the vniuerſall corrupting of mans nature.",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "1.2.1.1",
+     "title": "1.2.1.1",
+     "segments": 91
+    },
+    {
+     "file": "0056.json",
+     "ref": "1.2.1.2",
+     "title": "Theſe things I thought good to adde out of the fift to the Romans vpon theſe words; Euen as by one man, &c.",
+     "segments": 14
+    },
+    {
+     "file": "0057.json",
+     "ref": "1.2.1.3",
+     "title": "That ſinne is the cauſe of death.",
+     "segments": 4
+    },
+    {
+     "file": "0058.json",
+     "ref": "1.2.1.4",
+     "title": "How by Sinne all things are ſubiect vnto vanitie.",
+     "segments": 14
+    },
+    {
+     "file": "0059.json",
+     "ref": "1.2.2.1",
+     "title": "1.2.2.1",
+     "segments": 84
+    },
+    {
+     "file": "0060.json",
+     "ref": "1.2.2.2",
+     "title": "Theſe things which followe are taken out of the like place vpon the firſt to the Corinthians, at the end of the ſecond Chapter.",
+     "segments": 23
+    },
+    {
+     "file": "0061.json",
+     "ref": "1.2.2.3",
+     "title": "Of Voluntarie and Not voluntarie.",
+     "segments": 21
+    },
+    {
+     "file": "0062.json",
+     "ref": "1.2.2.4",
+     "title": "Of that which is Voluntarie.",
+     "segments": 8
+    },
+    {
+     "file": "0063.json",
+     "ref": "1.2.2.5",
+     "title": "Of mans Election, or making of choiſe.",
+     "segments": 7
+    },
+    {
+     "file": "0064.json",
+     "ref": "1.2.3.1",
+     "title": "1.2.3.1",
+     "segments": 11
+    },
+    {
+     "file": "0065.json",
+     "ref": "1.2.3.2",
+     "title": "Of Philoſophie, and of the compariſon hereof, eſpeciallie morall, with Diuinitie; taken out of the beginning of the Commentaries vpon Ariſtotles Ethiks.",
+     "segments": 13
+    },
+    {
+     "file": "0066.json",
+     "ref": "1.2.3.3",
+     "title": "Neceſſarie rules aſwell for the expounding, as for obeieng of the lawe.",
+     "segments": 11
+    },
+    {
+     "file": "0067.json",
+     "ref": "1.2.4.1",
+     "title": "1.2.4.1",
+     "segments": 11
+    },
+    {
+     "file": "0068.json",
+     "ref": "1.2.4.2",
+     "title": "VVhether it be lawfull for Chriſtians to dwell among Infidels.",
+     "segments": 63
+    },
+    {
+     "file": "0069.json",
+     "ref": "1.2.4.3",
+     "title": "Of the Iewes.",
+     "segments": 6
+    },
+    {
+     "file": "0070.json",
+     "ref": "1.2.4.4",
+     "title": "Of Hereſies.",
+     "segments": 5
+    },
+    {
+     "file": "0071.json",
+     "ref": "1.2.4.5",
+     "title": "VVhat is, to tempt God.",
+     "segments": 4
+    },
+    {
+     "file": "0072.json",
+     "ref": "1.2.4.6",
+     "title": "Of Curioſitie.",
+     "segments": 2
+    },
+    {
+     "file": "0073.json",
+     "ref": "1.2.5.1",
+     "title": "1.2.5.1",
+     "segments": 73
+    },
+    {
+     "file": "0074.json",
+     "ref": "1.2.5.2",
+     "title": "Of Cherubim.",
+     "segments": 8
+    },
+    {
+     "file": "0075.json",
+     "ref": "1.2.5.3",
+     "title": "Of humane ſacrifices.",
+     "segments": 8
+    },
+    {
+     "file": "0076.json",
+     "ref": "1.2.5.4",
+     "title": "The eſtablishing of the ſecond commandement; whether the child shall beare the inqiuitie of his father.",
+     "segments": 19
+    },
+    {
+     "file": "0077.json",
+     "ref": "1.2.6",
+     "title": "The ſixt Chapter. The third Precept; of the ſanctification of the name of God.",
+     "segments": 22
+    },
+    {
+     "file": "0078.json",
+     "ref": "1.2.7",
+     "title": "The ſeuenth Chapter. The fourth precept; of ſanctifieng the ſabboth daie.",
+     "segments": 11
+    },
+    {
+     "file": "0079.json",
+     "ref": "1.2.8.1",
+     "title": "1.2.8.1",
+     "segments": 13
+    },
+    {
+     "file": "0080.json",
+     "ref": "1.2.8.2",
+     "title": "Of Ambition.",
+     "segments": 4
+    },
+    {
+     "file": "0081.json",
+     "ref": "1.2.8.3",
+     "title": "Of deſire of Praiſe.",
+     "segments": 3
+    },
+    {
+     "file": "0082.json",
+     "ref": "1.2.8.4",
+     "title": "Of Flatterie.",
+     "segments": 3
+    },
+    {
+     "file": "0083.json",
+     "ref": "1.2.9.1",
+     "title": "1.2.9.1",
+     "segments": 2
+    },
+    {
+     "file": "0084.json",
+     "ref": "1.2.9.2",
+     "title": "Of Homicide, or Manſlaughter.",
+     "segments": 3
+    },
+    {
+     "file": "0085.json",
+     "ref": "1.2.9.3",
+     "title": "Of the fact of Elias, and that a peruerſe imitating of him muſt be auoided.",
+     "segments": 7
+    },
+    {
+     "file": "0086.json",
+     "ref": "1.2.9.4",
+     "title": "VVhether Helias did well, in killing of the Baalits.",
+     "segments": 7
+    },
+    {
+     "file": "0087.json",
+     "ref": "1.2.9.5",
+     "title": "Of Parricide or ſlaieng of parents.",
+     "segments": 3
+    },
+    {
+     "file": "0088.json",
+     "ref": "1.2.9.6",
+     "title": "Of Sword-plaie.",
+     "segments": 2
+    },
+    {
+     "file": "0089.json",
+     "ref": "1.2.9.7",
+     "title": "VVhether it be lawfull for anie man to kill himſelfe.",
+     "segments": 16
+    },
+    {
+     "file": "0090.json",
+     "ref": "1.2.9.8",
+     "title": "Of reſiſting of violence.",
+     "segments": 1
+    },
+    {
+     "file": "0091.json",
+     "ref": "1.2.9.9",
+     "title": "Of curſſings, imprecations, or bannings.",
+     "segments": 11
+    },
+    {
+     "file": "0092.json",
+     "ref": "1.2.9.10",
+     "title": "How far it may be lawfull to reioiſe in our enimies ouerthrowe.",
+     "segments": 10
+    },
+    {
+     "file": "0093.json",
+     "ref": "1.2.9.11",
+     "title": "Of a curſſe.",
+     "segments": 8
+    },
+    {
+     "file": "0094.json",
+     "ref": "1.2.9.12",
+     "title": "Of Affects, or affections in generall; out of the Commentaries vpon Ariſtotles Ethiks.",
+     "segments": 18
+    },
+    {
+     "file": "0095.json",
+     "ref": "1.2.9.13",
+     "title": "Of ſome of the Affects ſeuerallie.",
+     "segments": 3
+    },
+    {
+     "file": "0096.json",
+     "ref": "1.2.9.14",
+     "title": "Of Shamefaſtnes.",
+     "segments": 1
+    },
+    {
+     "file": "0097.json",
+     "ref": "1.2.9.15",
+     "title": "Of Temperance.",
+     "segments": 2
+    },
+    {
+     "file": "0098.json",
+     "ref": "1.2.9.16",
+     "title": "Of Mercie, and the affect called Nemeſis.",
+     "segments": 6
+    },
+    {
+     "file": "0099.json",
+     "ref": "1.2.9.17",
+     "title": "Of Crueltie.",
+     "segments": 8
+    },
+    {
+     "file": "0100.json",
+     "ref": "1.2.9.18",
+     "title": "Of Enuie.",
+     "segments": 3
+    },
+    {
+     "file": "0101.json",
+     "ref": "1.2.9.19",
+     "title": "Of Emulation.",
+     "segments": 2
+    },
+    {
+     "file": "0102.json",
+     "ref": "1.2.9.20",
+     "title": "Of Reuenge.",
+     "segments": 3
+    },
+    {
+     "file": "0103.json",
+     "ref": "1.2.10.1",
+     "title": "1.2.10.1",
+     "segments": 6
+    },
+    {
+     "file": "0104.json",
+     "ref": "1.2.10.2",
+     "title": "Of Polygamie, or the hauing of more wiues than one.",
+     "segments": 41
+    },
+    {
+     "file": "0105.json",
+     "ref": "1.2.10.3",
+     "title": "Of Barrenneſſe.",
+     "segments": 3
+    },
+    {
+     "file": "0106.json",
+     "ref": "1.2.10.4",
+     "title": "VVhether it be lawfull for children to marrie without the conſent of their parents.",
+     "segments": 22
+    },
+    {
+     "file": "0107.json",
+     "ref": "1.2.10.5",
+     "title": "Of Rauine, or violent taking awaie.",
+     "segments": 18
+    },
+    {
+     "file": "0108.json",
+     "ref": "1.2.10.6",
+     "title": "VVhether marriages be lawfull betweene perſons of diuers religions.",
+     "segments": 18
+    },
+    {
+     "file": "0109.json",
+     "ref": "1.2.10.7",
+     "title": "Of Degrees forbidden to make contract in marriage.",
+     "segments": 21
+    },
+    {
+     "file": "0110.json",
+     "ref": "1.2.10.8",
+     "title": "VVhether anie diſpenſation may be made in degrees of kindred prohibited by God.",
+     "segments": 7
+    },
+    {
+     "file": "0111.json",
+     "ref": "1.2.10.9",
+     "title": "Of Dowries; In the Commentaries vpon Iudges, the firſt chapter, and the 14. verſe.",
+     "segments": 10
+    },
+    {
+     "file": "0112.json",
+     "ref": "1.2.10.10",
+     "title": "Of Diuorſements, and putting awaie of wiues.",
+     "segments": 42
+    },
+    {
+     "file": "0113.json",
+     "ref": "1.2.11.1",
+     "title": "1.2.11.1",
+     "segments": 29
+    },
+    {
+     "file": "0114.json",
+     "ref": "1.2.11.2",
+     "title": "Of Baſtards, and children vnlawfullie borne.",
+     "segments": 9
+    },
+    {
+     "file": "0115.json",
+     "ref": "1.2.11.3",
+     "title": "Of Adulterie.",
+     "segments": 6
+    },
+    {
+     "file": "0116.json",
+     "ref": "1.2.11.4",
+     "title": "Of Idleneſſe, and other intiſements vnto wickednes.",
+     "segments": 8
+    },
+    {
+     "file": "0117.json",
+     "ref": "1.2.11.5",
+     "title": "Of the punishments of Adulterie.",
+     "segments": 53
+    },
+    {
+     "file": "0118.json",
+     "ref": "1.2.11.6",
+     "title": "Of the reconciliation of man and wife after adulterie committed.",
+     "segments": 6
+    },
+    {
+     "file": "0119.json",
+     "ref": "1.2.11.7",
+     "title": "Of VVine and Droonkenneſſe.",
+     "segments": 26
+    },
+    {
+     "file": "0120.json",
+     "ref": "1.2.11.8",
+     "title": "Of Danſes.",
+     "segments": 11
+    },
+    {
+     "file": "0121.json",
+     "ref": "1.2.11.9.1",
+     "title": "1.2.11.9.1",
+     "segments": 3
+    },
+    {
+     "file": "0122.json",
+     "ref": "1.2.11.9.2",
+     "title": "1.2.11.9.2",
+     "segments": 2
+    },
+    {
+     "file": "0123.json",
+     "ref": "1.2.11.10",
+     "title": "Of Counterfet, Fuke, or falſe colouring.",
+     "segments": 33
+    },
+    {
+     "file": "0124.json",
+     "ref": "1.2.12.1",
+     "title": "1.2.12.1",
+     "segments": 7
+    },
+    {
+     "file": "0125.json",
+     "ref": "1.2.12.2",
+     "title": "Of well dooing, and Hoſpitalitie.",
+     "segments": 18
+    },
+    {
+     "file": "0126.json",
+     "ref": "1.2.12.3",
+     "title": "Of benefiting and vnthankfulneſſe.",
+     "segments": 5
+    },
+    {
+     "file": "0127.json",
+     "ref": "1.2.12.4",
+     "title": "Of Plaies or Paſtimes.",
+     "segments": 15
+    },
+    {
+     "file": "0128.json",
+     "ref": "1.2.12.5",
+     "title": "Of Gentleneſſe and affabilitie.",
+     "segments": 1
+    },
+    {
+     "file": "0129.json",
+     "ref": "1.2.13.1",
+     "title": "1.2.13.1",
+     "segments": 23
+    },
+    {
+     "file": "0130.json",
+     "ref": "1.2.13.2",
+     "title": "Of ſuſpicions.",
+     "segments": 1
+    },
+    {
+     "file": "0131.json",
+     "ref": "1.2.13.3",
+     "title": "Of mocking and tawnting.",
+     "segments": 1
+    },
+    {
+     "file": "0132.json",
+     "ref": "1.2.13.4",
+     "title": "Of Deceipt or Guile.",
+     "segments": 21
+    },
+    {
+     "file": "0133.json",
+     "ref": "1.2.13.5",
+     "title": "VVhether Guile be lawfull for the rooting out of Idolatrie and hereſie; In 2. King. 10, verſe 17.",
+     "segments": 6
+    },
+    {
+     "file": "0134.json",
+     "ref": "1.2.13.6",
+     "title": "Of Diſſimulation.",
+     "segments": 4
+    },
+    {
+     "file": "0135.json",
+     "ref": "1.2.13.7",
+     "title": "Of Truth, and of a Lie: which place is treated of In Iudges 3. and alſo In 1. Sam. 21, verſe 12.",
+     "segments": 17
+    },
+    {
+     "file": "0136.json",
+     "ref": "1.2.13.8",
+     "title": "VVhether it be lawfull to lie, for preſeruing the life of our neighbour.",
+     "segments": 3
+    },
+    {
+     "file": "0137.json",
+     "ref": "1.2.13.9",
+     "title": "VVhether for modeſtie ſake it be lawfull to lie; vpon the ſecond of Samuel, chapter the 9. verſe the 8.",
+     "segments": 5
+    },
+    {
+     "file": "0138.json",
+     "ref": "1.2.13.10",
+     "title": "VVhether faith muſt be kept toward him that breaketh his promiſe.",
+     "segments": 6
+    },
+    {
+     "file": "0139.json",
+     "ref": "1.2.13.11",
+     "title": "Of a Fable and Apollogie.",
+     "segments": 5
+    },
+    {
+     "file": "0140.json",
+     "ref": "1.2.14.1",
+     "title": "1.2.14.1",
+     "segments": 8
+    },
+    {
+     "file": "0141.json",
+     "ref": "1.2.14.2",
+     "title": "Of the compariſon betweene ſinnes.",
+     "segments": 24
+    },
+    {
+     "file": "0142.json",
+     "ref": "1.2.14.3",
+     "title": "Of Salutations.",
+     "segments": 8
+    },
+    {
+     "file": "0143.json",
+     "ref": "1.2.15.1",
+     "title": "1.2.15.1",
+     "segments": 41
+    },
+    {
+     "file": "0144.json",
+     "ref": "1.2.15.2",
+     "title": "VVhether we ought by rewards, to be moued to the obedience of God.",
+     "segments": 10
+    },
+    {
+     "file": "0145.json",
+     "ref": "1.2.15.3",
+     "title": "Of the vſe and abrogating of the lawe.",
+     "segments": 31
+    },
+    {
+     "file": "0146.json",
+     "ref": "1.2.16",
+     "title": "The xvj. Chapter. Of the likeneſſe and vnlikeneſſe of the Old and New league or couenant.",
+     "segments": 70
+    },
+    {
+     "file": "0147.json",
+     "ref": "1.2.17.1",
+     "title": "1.2.17.1",
+     "segments": 11
+    },
+    {
+     "file": "0148.json",
+     "ref": "1.2.17.2",
+     "title": "1.2.17.2",
+     "segments": 14
+    },
+    {
+     "file": "0149.json",
+     "ref": "1.2.17.3",
+     "title": "1.2.17.3",
+     "segments": 24
+    },
+    {
+     "file": "0150.json",
+     "ref": "1.2.17.end",
+     "title": "1.2.17.end",
+     "segments": 2
+    },
+    {
+     "file": "0151.json",
+     "ref": "1.2.18.1",
+     "title": "1.2.18.1",
+     "segments": 8
+    },
+    {
+     "file": "0152.json",
+     "ref": "1.2.18.2",
+     "title": "Fiue other principall points belonging to the perſon of the ſonne.",
+     "segments": 11
+    },
+    {
+     "file": "0153.json",
+     "ref": "1.2.18.3",
+     "title": "Conceiued of the holie Ghoſt, borne of the virgine Marie.",
+     "segments": 4
+    },
+    {
+     "file": "0154.json",
+     "ref": "1.2.18.4",
+     "title": "He ſuffered vnder Pontius Pilate, was crucified, dead, buried, deſcended into hell.",
+     "segments": 11
+    },
+    {
+     "file": "0155.json",
+     "ref": "1.2.18.5",
+     "title": "He was buried, he deſcended into hell.",
+     "segments": 3
+    },
+    {
+     "file": "0156.json",
+     "ref": "1.2.18.6",
+     "title": "He roſe againe the third daie, he aſcended into heauen, he ſitteth at the right hand of God the father almightie.",
+     "segments": 13
+    },
+    {
+     "file": "0157.json",
+     "ref": "1.2.18.7",
+     "title": "From thence he ſhall come to iudge both the quicke and the dead.",
+     "segments": 6
+    },
+    {
+     "file": "0158.json",
+     "ref": "1.2.18.8",
+     "title": "I beleeue in the holie Ghoſt.",
+     "segments": 10
+    },
+    {
+     "file": "0159.json",
+     "ref": "1.2.18.9",
+     "title": "I beleeue in the holie catholike church, the communion of Saints, &c.",
+     "segments": 18
+    },
+    {
+     "file": "0160.json",
+     "ref": "1.2.18.10",
+     "title": "The remiſſion of ſinnes.",
+     "segments": 8
+    },
+    {
+     "file": "0161.json",
+     "ref": "1.2.18.11",
+     "title": "The Reſurrection of the fleſh.",
+     "segments": 7
+    },
+    {
+     "file": "0162.json",
+     "ref": "1.2.18.12",
+     "title": "The life euerlaſting.",
+     "segments": 8
+    },
+    {
+     "file": "0163.json",
+     "ref": "1.2.18.end",
+     "title": "1.2.18.end",
+     "segments": 1
+    },
+    {
+     "file": "0164.json",
+     "ref": "1.2.end",
+     "title": "1.2.end",
+     "segments": 1
+    },
+    {
+     "file": "0165.json",
+     "ref": "1.3.1.1",
+     "title": "1.3.1.1",
+     "segments": 128
+    },
+    {
+     "file": "0166.json",
+     "ref": "1.3.1.2",
+     "title": "VVhether God would kill or deſtroie anie man.",
+     "segments": 7
+    },
+    {
+     "file": "0167.json",
+     "ref": "1.3.2.1",
+     "title": "1.3.2.1",
+     "segments": 13
+    },
+    {
+     "file": "0168.json",
+     "ref": "1.3.2.2",
+     "title": "Of Grace.",
+     "segments": 18
+    },
+    {
+     "file": "0169.json",
+     "ref": "1.3.2.3",
+     "title": "How grace and works are vnto eternall life.",
+     "segments": 16
+    },
+    {
+     "file": "0170.json",
+     "ref": "1.3.3.1",
+     "title": "1.3.3.1",
+     "segments": 23
+    },
+    {
+     "file": "0171.json",
+     "ref": "1.3.3.2",
+     "title": "How far foorth faith agreeth with feare.",
+     "segments": 16
+    },
+    {
+     "file": "0172.json",
+     "ref": "1.3.3.3",
+     "title": "Of Securitie.",
+     "segments": 7
+    },
+    {
+     "file": "0173.json",
+     "ref": "1.3.3.4",
+     "title": "VVhether true Faith may be ſeuered from Charitie.",
+     "segments": 14
+    },
+    {
+     "file": "0174.json",
+     "ref": "1.3.3.5",
+     "title": "VVhether charitie may be called the forme of faith.",
+     "segments": 6
+    },
+    {
+     "file": "0175.json",
+     "ref": "1.3.3.6",
+     "title": "How Faith excelleth Charitie, and ſo likewiſe on the contrarie.",
+     "segments": 7
+    },
+    {
+     "file": "0176.json",
+     "ref": "1.3.3.7",
+     "title": "VVhat is the vnion of the godlie with Chriſt.",
+     "segments": 6
+    },
+    {
+     "file": "0177.json",
+     "ref": "1.3.3.8",
+     "title": "Touching the adoption of the children of God; out of the eight chapter to the Romans, verſe 15.",
+     "segments": 9
+    },
+    {
+     "file": "0178.json",
+     "ref": "1.3.3.9",
+     "title": "The deſcription of Chriſtian Hope, in the 5. chapter to the Romans, verſe 5.",
+     "segments": 26
+    },
+    {
+     "file": "0179.json",
+     "ref": "1.3.4",
+     "title": "The fourth Chapter. Of Iuſtification; Vpon the epiſtle to the Romans, at the end of the 11. chapter. This place is alſo treated of, vpon the 1. to the Cor. 1. about the end; and vpon Geneſis, 15. verſ",
+     "segments": 240
+    },
+    {
+     "file": "0180.json",
+     "ref": "1.3.5.1",
+     "title": "1.3.5.1",
+     "segments": 6
+    },
+    {
+     "file": "0181.json",
+     "ref": "1.3.5.2",
+     "title": "Of Bondage and chriſtian freedome.",
+     "segments": 4
+    },
+    {
+     "file": "0182.json",
+     "ref": "1.3.5.3",
+     "title": "Of Offenſe.",
+     "segments": 5
+    },
+    {
+     "file": "0183.json",
+     "ref": "1.3.5.4",
+     "title": "Of Chriſtian libertie.",
+     "segments": 2
+    },
+    {
+     "file": "0184.json",
+     "ref": "1.3.5.5",
+     "title": "Of Conſcience.",
+     "segments": 6
+    },
+    {
+     "file": "0185.json",
+     "ref": "1.3.5.6",
+     "title": "Touching the choiſe of Meates, Jn the 1. Cor. 8.",
+     "segments": 33
+    },
+    {
+     "file": "0186.json",
+     "ref": "1.3.5.end",
+     "title": "1.3.5.end",
+     "segments": 1
+    },
+    {
+     "file": "0187.json",
+     "ref": "1.3.6.1",
+     "title": "1.3.6.1",
+     "segments": 12
+    },
+    {
+     "file": "0188.json",
+     "ref": "1.3.6.2",
+     "title": "Of the Vow of the Nazarites.",
+     "segments": 18
+    },
+    {
+     "file": "0189.json",
+     "ref": "1.3.6.3",
+     "title": "Of the vow of Ieptha, in the 11. of Iudges, verſe. 34.",
+     "segments": 24
+    },
+    {
+     "file": "0190.json",
+     "ref": "1.3.6.4",
+     "title": "Of the Rechabites.",
+     "segments": 16
+    },
+    {
+     "file": "0191.json",
+     "ref": "1.3.7",
+     "title": "The ſeuenth Chapter. Of Marriage, and Sole life; eſpeciallie of Miniſters.",
+     "segments": 45
+    },
+    {
+     "file": "0192.json",
+     "ref": "1.3.8",
+     "title": "The eight Chapter. Of Repentance; where alſo is treated of Sacraments.",
+     "segments": 88
+    },
+    {
+     "file": "0193.json",
+     "ref": "1.3.9.1",
+     "title": "1.3.9.1",
+     "segments": 21
+    },
+    {
+     "file": "0194.json",
+     "ref": "1.3.9.2",
+     "title": "Of Purgatorie, the Papiſticall fire.",
+     "segments": 48
+    },
+    {
+     "file": "0195.json",
+     "ref": "1.3.10.1",
+     "title": "1.3.10.1",
+     "segments": 7
+    },
+    {
+     "file": "0196.json",
+     "ref": "1.3.10.2",
+     "title": "Of Faſting.",
+     "segments": 33
+    },
+    {
+     "file": "0197.json",
+     "ref": "1.3.10.3",
+     "title": "Of VVatches.",
+     "segments": 5
+    },
+    {
+     "file": "0198.json",
+     "ref": "1.3.11.1",
+     "title": "1.3.11.1",
+     "segments": 2
+    },
+    {
+     "file": "0199.json",
+     "ref": "1.3.11.2",
+     "title": "Of Friendſhip.",
+     "segments": 21
+    },
+    {
+     "file": "0200.json",
+     "ref": "1.3.11.3",
+     "title": "The example of Naaman is expounded.",
+     "segments": 14
+    },
+    {
+     "file": "0201.json",
+     "ref": "1.3.11.4",
+     "title": "That the poſſeſsion of riches is lawfull for godlie men, how they muſt be vſed; alſo of the induring of pouertie.",
+     "segments": 7
+    },
+    {
+     "file": "0202.json",
+     "ref": "1.3.11.5",
+     "title": "Of Liberalitie and Magnificence.",
+     "segments": 4
+    },
+    {
+     "file": "0203.json",
+     "ref": "1.3.12.1",
+     "title": "1.3.12.1",
+     "segments": 60
+    },
+    {
+     "file": "0204.json",
+     "ref": "1.3.12.2",
+     "title": "Of Flight.",
+     "segments": 17
+    },
+    {
+     "file": "0205.json",
+     "ref": "1.3.12.3",
+     "title": "VVhether Dauid did well, in that (through feare of Saule) he fled vnto the Philiſtines; and what we are to doo, if we should fall into the like troubles.",
+     "segments": 16
+    },
+    {
+     "file": "0206.json",
+     "ref": "1.3.12.4",
+     "title": "VVhether the Holie men were inferior to the Ethniks in abiding aduerſities, and in repreſſing of affections.",
+     "segments": 14
+    },
+    {
+     "file": "0207.json",
+     "ref": "1.3.13.1",
+     "title": "1.3.13.1",
+     "segments": 5
+    },
+    {
+     "file": "0208.json",
+     "ref": "1.3.13.2",
+     "title": "How God ſaith that he will not giue that which he will giue; and ſo contrariewiſe.",
+     "segments": 18
+    },
+    {
+     "file": "0209.json",
+     "ref": "1.3.13.3",
+     "title": "Of the Interceſſion of Chriſt.",
+     "segments": 11
+    },
+    {
+     "file": "0210.json",
+     "ref": "1.3.13.4",
+     "title": "The abuſe of foren language.",
+     "segments": 10
+    },
+    {
+     "file": "0211.json",
+     "ref": "1.3.13.5",
+     "title": "Of Muſicke and Miter.",
+     "segments": 14
+    },
+    {
+     "file": "0212.json",
+     "ref": "1.3.14.1",
+     "title": "1.3.14.1",
+     "segments": 3
+    },
+    {
+     "file": "0213.json",
+     "ref": "1.3.14.2",
+     "title": "Of moorning for the dead; out of the booke of Geneſis, vpon the 23. chapter, verſe 7.",
+     "segments": 16
+    },
+    {
+     "file": "0214.json",
+     "ref": "1.3.14.3",
+     "title": "Of Buriall.",
+     "segments": 17
+    },
+    {
+     "file": "0215.json",
+     "ref": "1.3.14.4",
+     "title": "That our ſoules, being looſed from the bodies, doo not ſleepe.",
+     "segments": 14
+    },
+    {
+     "file": "0216.json",
+     "ref": "1.3.14.5",
+     "title": "Of wandering Spirits.",
+     "segments": 2
+    },
+    {
+     "file": "0217.json",
+     "ref": "1.3.15",
+     "title": "The xv. Chapter. Of the Reſurrection.",
+     "segments": 155
+    },
+    {
+     "file": "0218.json",
+     "ref": "1.3.16",
+     "title": "The xvj. Chapter. Of the taking vp of Elias, and Henoch.",
+     "segments": 57
+    },
+    {
+     "file": "0219.json",
+     "ref": "1.3.17.1",
+     "title": "1.3.17.1",
+     "segments": 15
+    },
+    {
+     "file": "0220.json",
+     "ref": "1.3.17.2",
+     "title": "That all mens glorie in heauen ſhall be alike.",
+     "segments": 12
+    },
+    {
+     "file": "0221.json",
+     "ref": "1.3.17.3",
+     "title": "Of the change of all things.",
+     "segments": 18
+    },
+    {
+     "file": "0222.json",
+     "ref": "1.3.17.end",
+     "title": "1.3.17.end",
+     "segments": 1
+    },
+    {
+     "file": "0223.json",
+     "ref": "1.3.end",
+     "title": "1.3.end",
+     "segments": 1
+    },
+    {
+     "file": "0224.json",
+     "ref": "1.4.1.1",
+     "title": "1.4.1.1",
+     "segments": 4
+    },
+    {
+     "file": "0225.json",
+     "ref": "1.4.1.2",
+     "title": "Of diuers Miniſteries of the Church.",
+     "segments": 10
+    },
+    {
+     "file": "0226.json",
+     "ref": "1.4.1.3",
+     "title": "Of calling, and especiallie vnto the Miniſterie.",
+     "segments": 10
+    },
+    {
+     "file": "0227.json",
+     "ref": "1.4.1.4",
+     "title": "Of the authoritie or contempt of Miniſters.",
+     "segments": 2
+    },
+    {
+     "file": "0228.json",
+     "ref": "1.4.1.5",
+     "title": "Of the office of Paſtors.",
+     "segments": 9
+    },
+    {
+     "file": "0229.json",
+     "ref": "1.4.1.6",
+     "title": "Of the Efficacie of the Miniſterie.",
+     "segments": 7
+    },
+    {
+     "file": "0230.json",
+     "ref": "1.4.1.7",
+     "title": "The mightie ſimpleneſſe of the Miniſterie.",
+     "segments": 4
+    },
+    {
+     "file": "0231.json",
+     "ref": "1.4.2",
+     "title": "The ſecond Chapter. Of the receiuing and not receiuing of rewards, gifts, and offices. And alſo of goods Eccleſiaſticall, and the immunitie of Eccleſiaſticall perſons.",
+     "segments": 11
+    },
+    {
+     "file": "0232.json",
+     "ref": "1.4.3",
+     "title": "The third Chapter. Whether two heads may be in the Church, one viſible and another inuiſible.",
+     "segments": 11
+    },
+    {
+     "file": "0233.json",
+     "ref": "1.4.4.1",
+     "title": "1.4.4.1",
+     "segments": 7
+    },
+    {
+     "file": "0234.json",
+     "ref": "1.4.4.2",
+     "title": "Of Traditions.",
+     "segments": 1
+    },
+    {
+     "file": "0235.json",
+     "ref": "1.4.4.3",
+     "title": "Of diſcerning of Spirites.",
+     "segments": 2
+    },
+    {
+     "file": "0236.json",
+     "ref": "1.4.4.4",
+     "title": "Of Councels,",
+     "segments": 3
+    },
+    {
+     "file": "0237.json",
+     "ref": "1.4.4.5",
+     "title": "VVhat authoritie the Fathers are of.",
+     "segments": 10
+    },
+    {
+     "file": "0238.json",
+     "ref": "1.4.4.6",
+     "title": "A iudgement touching the Canons aſcribed to the Apoſtles.",
+     "segments": 1
+    },
+    {
+     "file": "0239.json",
+     "ref": "1.4.5.1",
+     "title": "1.4.5.1",
+     "segments": 1
+    },
+    {
+     "file": "0240.json",
+     "ref": "1.4.5.2",
+     "title": "Of Excommunication.",
+     "segments": 17
+    },
+    {
+     "file": "0241.json",
+     "ref": "1.4.5.3",
+     "title": "Of Comelineſſe, and order in the Church.",
+     "segments": 1
+    },
+    {
+     "file": "0242.json",
+     "ref": "1.4.5.4",
+     "title": "Of Temples or Churches.",
+     "segments": 2
+    },
+    {
+     "file": "0243.json",
+     "ref": "1.4.5.5",
+     "title": "Of the Ornaments of Churches.",
+     "segments": 3
+    },
+    {
+     "file": "0244.json",
+     "ref": "1.4.6",
+     "title": "The ſixth Chapter. Of Schiſme, and whether the Goſpellers bee Schiſmatikes becauſe they haue alienated themſelues from the Papiſts. Looke after in the 20. Place.",
+     "segments": 51
+    },
+    {
+     "file": "0245.json",
+     "ref": "1.4.7.1",
+     "title": "1.4.7.1",
+     "segments": 17
+    },
+    {
+     "file": "0246.json",
+     "ref": "1.4.7.2",
+     "title": "Of Circumciſion.",
+     "segments": 6
+    },
+    {
+     "file": "0247.json",
+     "ref": "1.4.8",
+     "title": "The eight Chapter. Of Baptiſme, Baptiſing of Infantes, and holineſſe of Infants.",
+     "segments": 18
+    },
+    {
+     "file": "0248.json",
+     "ref": "1.4.9.1",
+     "title": "1.4.9.1",
+     "segments": 22
+    },
+    {
+     "file": "0249.json",
+     "ref": "1.4.9.2",
+     "title": "Of Papiſticall holie VVater.",
+     "segments": 5
+    },
+    {
+     "file": "0250.json",
+     "ref": "1.4.10.1",
+     "title": "1.4.10.1",
+     "segments": 12
+    },
+    {
+     "file": "0251.json",
+     "ref": "1.4.10.2",
+     "title": "The tenth Chapter.",
+     "segments": 86
+    },
+    {
+     "file": "0252.json",
+     "ref": "1.4.10.3.1",
+     "title": "1.4.10.3.1",
+     "segments": 1
+    },
+    {
+     "file": "0253.json",
+     "ref": "1.4.10.3.2.0",
+     "title": "That the vvordes of the Supper are to be vnderſtood figuratiuelie.",
+     "segments": 3
+    },
+    {
+     "file": "0254.json",
+     "ref": "1.4.10.3.2.1",
+     "title": "I.",
+     "segments": 1
+    },
+    {
+     "file": "0255.json",
+     "ref": "1.4.10.3.2.2",
+     "title": "II.",
+     "segments": 1
+    },
+    {
+     "file": "0256.json",
+     "ref": "1.4.10.3.2.3",
+     "title": "III.",
+     "segments": 1
+    },
+    {
+     "file": "0257.json",
+     "ref": "1.4.10.3.2.4",
+     "title": "IIII.",
+     "segments": 1
+    },
+    {
+     "file": "0258.json",
+     "ref": "1.4.10.3.2.5",
+     "title": "V.",
+     "segments": 1
+    },
+    {
+     "file": "0259.json",
+     "ref": "1.4.10.3.2.6",
+     "title": "VI.",
+     "segments": 1
+    },
+    {
+     "file": "0260.json",
+     "ref": "1.4.10.3.2.7",
+     "title": "VII.",
+     "segments": 1
+    },
+    {
+     "file": "0261.json",
+     "ref": "1.4.10.3.2.8",
+     "title": "VIII.",
+     "segments": 1
+    },
+    {
+     "file": "0262.json",
+     "ref": "1.4.10.3.2.9",
+     "title": "IX.",
+     "segments": 1
+    },
+    {
+     "file": "0263.json",
+     "ref": "1.4.10.3.2.10",
+     "title": "X.",
+     "segments": 1
+    },
+    {
+     "file": "0264.json",
+     "ref": "1.4.10.3.2.11",
+     "title": "XI.",
+     "segments": 1
+    },
+    {
+     "file": "0265.json",
+     "ref": "1.4.10.3.3.1",
+     "title": "I.",
+     "segments": 1
+    },
+    {
+     "file": "0266.json",
+     "ref": "1.4.10.3.3.2",
+     "title": "II.",
+     "segments": 1
+    },
+    {
+     "file": "0267.json",
+     "ref": "1.4.10.3.3.3",
+     "title": "III.",
+     "segments": 1
+    },
+    {
+     "file": "0268.json",
+     "ref": "1.4.10.3.3.4",
+     "title": "IIII.",
+     "segments": 1
+    },
+    {
+     "file": "0269.json",
+     "ref": "1.4.10.3.3.5",
+     "title": "V.",
+     "segments": 1
+    },
+    {
+     "file": "0270.json",
+     "ref": "1.4.10.3.3.6",
+     "title": "VI.",
+     "segments": 1
+    },
+    {
+     "file": "0271.json",
+     "ref": "1.4.10.3.3.7",
+     "title": "VII.",
+     "segments": 1
+    },
+    {
+     "file": "0272.json",
+     "ref": "1.4.10.3.3.8",
+     "title": "VIII.",
+     "segments": 1
+    },
+    {
+     "file": "0273.json",
+     "ref": "1.4.10.3.3.9",
+     "title": "IX.",
+     "segments": 1
+    },
+    {
+     "file": "0274.json",
+     "ref": "1.4.10.3.3.10",
+     "title": "X.",
+     "segments": 1
+    },
+    {
+     "file": "0275.json",
+     "ref": "1.4.10.3.3.11",
+     "title": "XI.",
+     "segments": 1
+    },
+    {
+     "file": "0276.json",
+     "ref": "1.4.10.3.3.12",
+     "title": "XII.",
+     "segments": 2
+    },
+    {
+     "file": "0277.json",
+     "ref": "1.4.10.3.4.1",
+     "title": "I.",
+     "segments": 1
+    },
+    {
+     "file": "0278.json",
+     "ref": "1.4.10.3.4.2",
+     "title": "II.",
+     "segments": 1
+    },
+    {
+     "file": "0279.json",
+     "ref": "1.4.10.3.4.3",
+     "title": "III.",
+     "segments": 1
+    },
+    {
+     "file": "0280.json",
+     "ref": "1.4.10.3.4.4",
+     "title": "IIII.",
+     "segments": 1
+    },
+    {
+     "file": "0281.json",
+     "ref": "1.4.10.3.4.5",
+     "title": "V.",
+     "segments": 1
+    },
+    {
+     "file": "0282.json",
+     "ref": "1.4.10.3.4.6",
+     "title": "VI.",
+     "segments": 1
+    },
+    {
+     "file": "0283.json",
+     "ref": "1.4.10.3.4.7",
+     "title": "VII.",
+     "segments": 1
+    },
+    {
+     "file": "0284.json",
+     "ref": "1.4.10.3.4.8",
+     "title": "VIII.",
+     "segments": 1
+    },
+    {
+     "file": "0285.json",
+     "ref": "1.4.10.3.4.9",
+     "title": "IX.",
+     "segments": 1
+    },
+    {
+     "file": "0286.json",
+     "ref": "1.4.10.3.4.10",
+     "title": "X.",
+     "segments": 1
+    },
+    {
+     "file": "0287.json",
+     "ref": "1.4.10.3.4.11",
+     "title": "XI.",
+     "segments": 1
+    },
+    {
+     "file": "0288.json",
+     "ref": "1.4.10.3.4.12",
+     "title": "XII.",
+     "segments": 1
+    },
+    {
+     "file": "0289.json",
+     "ref": "1.4.10.3.4.13",
+     "title": "XIII.",
+     "segments": 1
+    },
+    {
+     "file": "0290.json",
+     "ref": "1.4.10.3.4.14",
+     "title": "XIIII.",
+     "segments": 1
+    },
+    {
+     "file": "0291.json",
+     "ref": "1.4.10.3.4.15",
+     "title": "XV.",
+     "segments": 1
+    },
+    {
+     "file": "0292.json",
+     "ref": "1.4.10.3.4.16",
+     "title": "XVI.",
+     "segments": 1
+    },
+    {
+     "file": "0293.json",
+     "ref": "1.4.10.3.4.17",
+     "title": "XVII.",
+     "segments": 1
+    },
+    {
+     "file": "0294.json",
+     "ref": "1.4.10.3.4.18",
+     "title": "XVIII,",
+     "segments": 1
+    },
+    {
+     "file": "0295.json",
+     "ref": "1.4.10.3.4.19",
+     "title": "XIX.",
+     "segments": 1
+    },
+    {
+     "file": "0296.json",
+     "ref": "1.4.10.3.4.20",
+     "title": "XX.",
+     "segments": 2
+    },
+    {
+     "file": "0297.json",
+     "ref": "1.4.11",
+     "title": "The eleuenth Chapter. Whether it be lawfull in the Communion to vſe one onely kinde.",
+     "segments": 22
+    },
+    {
+     "file": "0298.json",
+     "ref": "1.4.12.1",
+     "title": "1.4.12.1",
+     "segments": 10
+    },
+    {
+     "file": "0299.json",
+     "ref": "1.4.12.2",
+     "title": "Of Sacrifice.",
+     "segments": 9
+    },
+    {
+     "file": "0300.json",
+     "ref": "1.4.12.3",
+     "title": "Another Common Place of Sacrifice.",
+     "segments": 3
+    },
+    {
+     "file": "0301.json",
+     "ref": "1.4.12.4",
+     "title": "Of Altars.",
+     "segments": 1
+    },
+    {
+     "file": "0302.json",
+     "ref": "1.4.12.end",
+     "title": "1.4.12.end",
+     "segments": 1
+    },
+    {
+     "file": "0303.json",
+     "ref": "1.4.13",
+     "title": "The thirteenth Chapter. Of a Magiſtrate, and of the difference betweene Ciuill and Eccleſiaſticall power.",
+     "segments": 33
+    },
+    {
+     "file": "0304.json",
+     "ref": "1.4.14.1",
+     "title": "1.4.14.1",
+     "segments": 1
+    },
+    {
+     "file": "0305.json",
+     "ref": "1.4.14.2",
+     "title": "That the charge of Religion belongeth vnto Princes.",
+     "segments": 4
+    },
+    {
+     "file": "0306.json",
+     "ref": "1.4.14.3",
+     "title": "VVhether it be lavvful for Magiſtrates to let the guiltie paſſe vnpunished.",
+     "segments": 12
+    },
+    {
+     "file": "0307.json",
+     "ref": "1.4.14.4",
+     "title": "VVhether the excuſe of Dauid wherin he purgeth himſelf becauſe he punished not Ioab ought to be allovved, and vvhether a Magiſtrate maie vvell let paſſe a fault without any maner of punishment.",
+     "segments": 6
+    },
+    {
+     "file": "0308.json",
+     "ref": "1.4.14.5",
+     "title": "VVhether it be lavvfull to releaſe iuſt punishments which are inioyned by lavves.",
+     "segments": 8
+    },
+    {
+     "file": "0309.json",
+     "ref": "1.4.14.6",
+     "title": "Of Executioners or Hangmen.",
+     "segments": 4
+    },
+    {
+     "file": "0310.json",
+     "ref": "1.4.14.7",
+     "title": "Of Sanctuaries called Aſyla.",
+     "segments": 12
+    },
+    {
+     "file": "0311.json",
+     "ref": "1.4.15",
+     "title": "The fifteenth Chapter. Of Exile or Baniſhment.",
+     "segments": 11
+    },
+    {
+     "file": "0312.json",
+     "ref": "1.4.16",
+     "title": "The ſixteenth Chapter. Whether it be lawfull for a Chriſtian man to goe to lawe.",
+     "segments": 9
+    },
+    {
+     "file": "0313.json",
+     "ref": "1.4.17.1",
+     "title": "1.4.17.1",
+     "segments": 23
+    },
+    {
+     "file": "0314.json",
+     "ref": "1.4.17.2",
+     "title": "VVhether it be lavvfull for the godly to haue peace vvith the vngodlie.",
+     "segments": 4
+    },
+    {
+     "file": "0315.json",
+     "ref": "1.4.17.3",
+     "title": "Of Spials.",
+     "segments": 1
+    },
+    {
+     "file": "0316.json",
+     "ref": "1.4.17.4",
+     "title": "Of Treaſon.",
+     "segments": 5
+    },
+    {
+     "file": "0317.json",
+     "ref": "1.4.18.1",
+     "title": "1.4.18.1",
+     "segments": 4
+    },
+    {
+     "file": "0318.json",
+     "ref": "1.4.18.2",
+     "title": "Of things vvhich be taken by the right of vvarre.",
+     "segments": 9
+    },
+    {
+     "file": "0319.json",
+     "ref": "1.4.19",
+     "title": "The nineteenth Chapter. Of a ſeuerall Conflict or Combate betweene twaine hand to hand.",
+     "segments": 7
+    },
+    {
+     "file": "0320.json",
+     "ref": "1.4.20.1",
+     "title": "1.4.20.1",
+     "segments": 4
+    },
+    {
+     "file": "0321.json",
+     "ref": "1.4.20.2",
+     "title": "Of Seruitude or bondage.",
+     "segments": 5
+    },
+    {
+     "file": "0322.json",
+     "ref": "1.4.20.3",
+     "title": "Of Traficke, or occupying of Marchandiſe, and ingroſſing of vvares called Monopolium.",
+     "segments": 4
+    },
+    {
+     "file": "0323.json",
+     "ref": "1.4.21.1",
+     "title": "1.4.21.1",
+     "segments": 12
+    },
+    {
+     "file": "0324.json",
+     "ref": "1.4.21.2",
+     "title": "VVhether it be lavvfull for ſubiectes to riſe againſt their Prince.",
+     "segments": 2
+    },
+    {
+     "file": "0325.json",
+     "ref": "1.4.21.3",
+     "title": "VVhether Jehoiada did right in putting Athalia from the kingdome.",
+     "segments": 5
+    },
+    {
+     "file": "0326.json",
+     "ref": "1.4.21.4",
+     "title": "Of the induring of Tyrannie by godlie men.",
+     "segments": 8
+    },
+    {
+     "file": "0327.json",
+     "ref": "1.4.end",
+     "title": "1.4.end",
+     "segments": 1
+    },
+    {
+     "file": "0328.json",
+     "ref": "1.end",
+     "title": "1.end",
+     "segments": 1
+    },
+    {
+     "file": "0329.json",
+     "ref": "2.1",
+     "title": "E R",
+     "segments": 2
+    },
+    {
+     "file": "0330.json",
+     "ref": "2.2.1.1",
+     "title": "2.2.1.1",
+     "segments": 85
+    },
+    {
+     "file": "0331.json",
+     "ref": "2.2.1.2",
+     "title": "Certeine clauſes or ſentences concerning Free will.",
+     "segments": 28
+    },
+    {
+     "file": "0332.json",
+     "ref": "2.2.2",
+     "title": "Of Prouidence and Predeſtination.",
+     "segments": 27
+    },
+    {
+     "file": "0333.json",
+     "ref": "2.2.3",
+     "title": "Whether the Maſſe be a ſacrifice.",
+     "segments": 19
+    },
+    {
+     "file": "0334.json",
+     "ref": "2.2.4",
+     "title": "An exhortation to the myſticall ſupper of the Lord.",
+     "segments": 3
+    },
+    {
+     "file": "0335.json",
+     "ref": "2.2.5",
+     "title": "To the excellent and worthie men, the gouernors of the ſchoole of Stra • brough, my moſt reuerend maiſters, grace and peace from God through Ieſus Chriſt our Lord.",
+     "segments": 2
+    },
+    {
+     "file": "0336.json",
+     "ref": "2.2.6",
+     "title": "The confeſſion or opinion of D. Peter Martyr Vermillius, as touching the Supper of the Lord, exhibited vnto the moſt noble Senat of Strasbrough, when he was called to Zuricke, in the yeere of the Lord",
+     "segments": 10
+    },
+    {
+     "file": "0337.json",
+     "ref": "2.2.7",
+     "title": "The opinion of D. Peter Martyr Vermillius, as touching the preſence of the bodie of Chriſt in the Euchariſt, propounded by him in the communication that was had at Poiſſy.",
+     "segments": 3
+    },
+    {
+     "file": "0338.json",
+     "ref": "2.2.8.1",
+     "title": "2.2.8.1",
+     "segments": 5
+    },
+    {
+     "file": "0339.json",
+     "ref": "2.2.8.2",
+     "title": "Vnto the firſt queſtion.",
+     "segments": 1
+    },
+    {
+     "file": "0340.json",
+     "ref": "2.2.8.3",
+     "title": "Vnto the ſecond queſtion.",
+     "segments": 1
+    },
+    {
+     "file": "0341.json",
+     "ref": "2.2.8.4",
+     "title": "Vnto the third queſtion.",
+     "segments": 1
+    },
+    {
+     "file": "0342.json",
+     "ref": "2.2.8.5",
+     "title": "Vnto the laſt queſtion.",
+     "segments": 1
+    },
+    {
+     "file": "0343.json",
+     "ref": "2.3.0",
+     "title": "The Propoſitions of D. Peter Martyr, diſputed openlie in the common Schooles at Strasbrough, in the yeare of the Lord, 1543.",
+     "segments": 1
+    },
+    {
+     "file": "0344.json",
+     "ref": "2.3.1.1",
+     "title": "Neceſſarie.",
+     "segments": 7
+    },
+    {
+     "file": "0345.json",
+     "ref": "2.3.1.2",
+     "title": "Probable.",
+     "segments": 6
+    },
+    {
+     "file": "0346.json",
+     "ref": "2.3.2",
+     "title": "A diſputation of the article of creation.",
+     "segments": 8
+    },
+    {
+     "file": "0347.json",
+     "ref": "2.3.3.1",
+     "title": "Neceſſarie.",
+     "segments": 11
+    },
+    {
+     "file": "0348.json",
+     "ref": "2.3.3.2",
+     "title": "Probable.",
+     "segments": 7
+    },
+    {
+     "file": "0349.json",
+     "ref": "2.3.4.1",
+     "title": "Neceſſarie.",
+     "segments": 10
+    },
+    {
+     "file": "0350.json",
+     "ref": "2.3.4.2",
+     "title": "Probable.",
+     "segments": 7
+    },
+    {
+     "file": "0351.json",
+     "ref": "2.3.5.1",
+     "title": "Neceſſarie.",
+     "segments": 6
+    },
+    {
+     "file": "0352.json",
+     "ref": "2.3.5.2",
+     "title": "Probable.",
+     "segments": 7
+    },
+    {
+     "file": "0353.json",
+     "ref": "2.3.6.1",
+     "title": "Neceſſarie.",
+     "segments": 11
+    },
+    {
+     "file": "0354.json",
+     "ref": "2.3.6.2",
+     "title": "Probable.",
+     "segments": 5
+    },
+    {
+     "file": "0355.json",
+     "ref": "2.3.7.1",
+     "title": "Neceſſarie.",
+     "segments": 8
+    },
+    {
+     "file": "0356.json",
+     "ref": "2.3.7.2",
+     "title": "Probable.",
+     "segments": 5
+    },
+    {
+     "file": "0357.json",
+     "ref": "2.3.8.1",
+     "title": "Neceſſarie.",
+     "segments": 14
+    },
+    {
+     "file": "0358.json",
+     "ref": "2.3.8.2",
+     "title": "Probable.",
+     "segments": 3
+    },
+    {
+     "file": "0359.json",
+     "ref": "2.3.9.1",
+     "title": "Neceſſarie.",
+     "segments": 14
+    },
+    {
+     "file": "0360.json",
+     "ref": "2.3.9.2",
+     "title": "Probable.",
+     "segments": 3
+    },
+    {
+     "file": "0361.json",
+     "ref": "2.3.10.1",
+     "title": "Neceſſarie.",
+     "segments": 9
+    },
+    {
+     "file": "0362.json",
+     "ref": "2.3.10.2",
+     "title": "Probable.",
+     "segments": 6
+    },
+    {
+     "file": "0363.json",
+     "ref": "2.3.11.1",
+     "title": "Neceſſarie.",
+     "segments": 12
+    },
+    {
+     "file": "0364.json",
+     "ref": "2.3.11.2",
+     "title": "Probable.",
+     "segments": 5
+    },
+    {
+     "file": "0365.json",
+     "ref": "2.3.12.1",
+     "title": "Neceſſarie.",
+     "segments": 10
+    },
+    {
+     "file": "0366.json",
+     "ref": "2.3.12.2",
+     "title": "Probable.",
+     "segments": 2
+    },
+    {
+     "file": "0367.json",
+     "ref": "2.3.13.1",
+     "title": "Neceſſarie.",
+     "segments": 10
+    },
+    {
+     "file": "0368.json",
+     "ref": "2.3.13.2",
+     "title": "Probable.",
+     "segments": 3
+    },
+    {
+     "file": "0369.json",
+     "ref": "2.3.14.1",
+     "title": "Neceſſarie.",
+     "segments": 10
+    },
+    {
+     "file": "0370.json",
+     "ref": "2.3.14.2",
+     "title": "Probable.",
+     "segments": 4
+    },
+    {
+     "file": "0371.json",
+     "ref": "2.3.15.1",
+     "title": "Neceſſarie.",
+     "segments": 10
+    },
+    {
+     "file": "0372.json",
+     "ref": "2.3.15.2",
+     "title": "Probable.",
+     "segments": 3
+    },
+    {
+     "file": "0373.json",
+     "ref": "2.3.16.1",
+     "title": "Neceſſarie.",
+     "segments": 10
+    },
+    {
+     "file": "0374.json",
+     "ref": "2.3.16.2",
+     "title": "Probable.",
+     "segments": 4
+    },
+    {
+     "file": "0375.json",
+     "ref": "2.3.17.1",
+     "title": "Neceſſarie.",
+     "segments": 7
+    },
+    {
+     "file": "0376.json",
+     "ref": "2.3.17.2",
+     "title": "Probable.",
+     "segments": 3
+    },
+    {
+     "file": "0377.json",
+     "ref": "2.3.18.1",
+     "title": "Neceſſarie.",
+     "segments": 12
+    },
+    {
+     "file": "0378.json",
+     "ref": "2.3.18.2",
+     "title": "Probable.",
+     "segments": 3
+    },
+    {
+     "file": "0379.json",
+     "ref": "2.3.19.1",
+     "title": "Neceſſarie.",
+     "segments": 11
+    },
+    {
+     "file": "0380.json",
+     "ref": "2.3.19.2",
+     "title": "Probable.",
+     "segments": 3
+    },
+    {
+     "file": "0381.json",
+     "ref": "2.3.20.1",
+     "title": "Neceſſarie.",
+     "segments": 10
+    },
+    {
+     "file": "0382.json",
+     "ref": "2.3.20.2",
+     "title": "Probable.",
+     "segments": 3
+    },
+    {
+     "file": "0383.json",
+     "ref": "2.3.21.1",
+     "title": "Neceſſarie.",
+     "segments": 12
+    },
+    {
+     "file": "0384.json",
+     "ref": "2.3.21.2",
+     "title": "Probable.",
+     "segments": 4
+    },
+    {
+     "file": "0385.json",
+     "ref": "2.3.22.1",
+     "title": "Neceſſarie.",
+     "segments": 16
+    },
+    {
+     "file": "0386.json",
+     "ref": "2.3.23.1",
+     "title": "Neceſſarie.",
+     "segments": 12
+    },
+    {
+     "file": "0387.json",
+     "ref": "2.3.23.2",
+     "title": "Probable.",
+     "segments": 3
+    },
+    {
+     "file": "0388.json",
+     "ref": "2.3.24.1",
+     "title": "Neceſſarie.",
+     "segments": 12
+    },
+    {
+     "file": "0389.json",
+     "ref": "2.3.24.2",
+     "title": "Probable.",
+     "segments": 4
+    },
+    {
+     "file": "0390.json",
+     "ref": "2.3.25.1",
+     "title": "Neceſſarie.",
+     "segments": 15
+    },
+    {
+     "file": "0391.json",
+     "ref": "2.3.26.1",
+     "title": "Neceſſarie.",
+     "segments": 19
+    },
+    {
+     "file": "0392.json",
+     "ref": "2.3.26.2",
+     "title": "Probable.",
+     "segments": 3
+    },
+    {
+     "file": "0393.json",
+     "ref": "2.3.27.1",
+     "title": "Neceſſarie.",
+     "segments": 17
+    },
+    {
+     "file": "0394.json",
+     "ref": "2.3.28.1",
+     "title": "Neceſſarie.",
+     "segments": 16
+    },
+    {
+     "file": "0395.json",
+     "ref": "2.3.29.0",
+     "title": "Propoſitions out of the firſt chapter of the booke of Exodus.",
+     "segments": 1
+    },
+    {
+     "file": "0396.json",
+     "ref": "2.3.29.1",
+     "title": "Neceſſarie.",
+     "segments": 9
+    },
+    {
+     "file": "0397.json",
+     "ref": "2.3.29.2",
+     "title": "Probable.",
+     "segments": 4
+    },
+    {
+     "file": "0398.json",
+     "ref": "2.3.30.1",
+     "title": "Neceſſarie.",
+     "segments": 11
+    },
+    {
+     "file": "0399.json",
+     "ref": "2.3.30.2",
+     "title": "Probable.",
+     "segments": 4
+    },
+    {
+     "file": "0400.json",
+     "ref": "2.3.31.1",
+     "title": "Neceſſarie.",
+     "segments": 10
+    },
+    {
+     "file": "0401.json",
+     "ref": "2.3.31.2",
+     "title": "Probable.",
+     "segments": 6
+    },
+    {
+     "file": "0402.json",
+     "ref": "2.3.32.1",
+     "title": "Neceſſarie.",
+     "segments": 15
+    },
+    {
+     "file": "0403.json",
+     "ref": "2.3.33.1",
+     "title": "Neceſſarie.",
+     "segments": 9
+    },
+    {
+     "file": "0404.json",
+     "ref": "2.3.33.2",
+     "title": "Probable.",
+     "segments": 4
+    },
+    {
+     "file": "0405.json",
+     "ref": "2.3.34.1",
+     "title": "Neceſſarie.",
+     "segments": 13
+    },
+    {
+     "file": "0406.json",
+     "ref": "2.3.35.1",
+     "title": "Neceſſarie.",
+     "segments": 12
+    },
+    {
+     "file": "0407.json",
+     "ref": "2.3.35.2",
+     "title": "Probable.",
+     "segments": 3
+    },
+    {
+     "file": "0408.json",
+     "ref": "2.3.36.1",
+     "title": "Neceſſarie.",
+     "segments": 15
+    },
+    {
+     "file": "0409.json",
+     "ref": "2.3.36.2",
+     "title": "Probable.",
+     "segments": 5
+    },
+    {
+     "file": "0410.json",
+     "ref": "2.3.37.1",
+     "title": "Neceſſarie.",
+     "segments": 14
+    },
+    {
+     "file": "0411.json",
+     "ref": "2.3.37.2",
+     "title": "Probable.",
+     "segments": 4
+    },
+    {
+     "file": "0412.json",
+     "ref": "2.3.38.1",
+     "title": "Neceſſarie.",
+     "segments": 14
+    },
+    {
+     "file": "0413.json",
+     "ref": "2.3.38.2",
+     "title": "Probable.",
+     "segments": 3
+    },
+    {
+     "file": "0414.json",
+     "ref": "2.3.39.1",
+     "title": "Neceſſarie.",
+     "segments": 12
+    },
+    {
+     "file": "0415.json",
+     "ref": "2.3.39.2",
+     "title": "Probable.",
+     "segments": 5
+    },
+    {
+     "file": "0416.json",
+     "ref": "2.3.40.1",
+     "title": "Neceſſarie.",
+     "segments": 17
+    },
+    {
+     "file": "0417.json",
+     "ref": "2.3.40.2",
+     "title": "Probable.",
+     "segments": 3
+    },
+    {
+     "file": "0418.json",
+     "ref": "2.3.41.1",
+     "title": "Neceſſarie.",
+     "segments": 10
+    },
+    {
+     "file": "0419.json",
+     "ref": "2.3.41.2",
+     "title": "Probable.",
+     "segments": 5
+    },
+    {
+     "file": "0420.json",
+     "ref": "2.3.42.1",
+     "title": "Neceſſarie.",
+     "segments": 13
+    },
+    {
+     "file": "0421.json",
+     "ref": "2.3.42.2",
+     "title": "Probable.",
+     "segments": 3
+    },
+    {
+     "file": "0422.json",
+     "ref": "2.3.43.1",
+     "title": "Neceſſarie.",
+     "segments": 11
+    },
+    {
+     "file": "0423.json",
+     "ref": "2.3.43.2",
+     "title": "Probable.",
+     "segments": 3
+    },
+    {
+     "file": "0424.json",
+     "ref": "2.3.44.1",
+     "title": "Neceſſarie.",
+     "segments": 16
+    },
+    {
+     "file": "0425.json",
+     "ref": "2.3.45.1",
+     "title": "Neceſſarie.",
+     "segments": 13
+    },
+    {
+     "file": "0426.json",
+     "ref": "2.3.46.1",
+     "title": "Neceſſarie.",
+     "segments": 8
+    },
+    {
+     "file": "0427.json",
+     "ref": "2.3.46.2",
+     "title": "Probable.",
+     "segments": 4
+    },
+    {
+     "file": "0428.json",
+     "ref": "2.3.47.1",
+     "title": "Neceſſarie.",
+     "segments": 12
+    },
+    {
+     "file": "0429.json",
+     "ref": "2.3.47.2",
+     "title": "Probable.",
+     "segments": 5
+    },
+    {
+     "file": "0430.json",
+     "ref": "2.3.48.1",
+     "title": "Neceſſarie.",
+     "segments": 13
+    },
+    {
+     "file": "0431.json",
+     "ref": "2.3.48.2",
+     "title": "Probable.",
+     "segments": 4
+    },
+    {
+     "file": "0432.json",
+     "ref": "2.3.49.1",
+     "title": "Neceſſarie.",
+     "segments": 15
+    },
+    {
+     "file": "0433.json",
+     "ref": "2.3.50.1",
+     "title": "Neceſſarie.",
+     "segments": 7
+    },
+    {
+     "file": "0434.json",
+     "ref": "2.3.50.2",
+     "title": "Probable.",
+     "segments": 2
+    },
+    {
+     "file": "0435.json",
+     "ref": "2.3.51",
+     "title": "Propoſitions out of the eleuenth chapter of the booke of the Iudges.",
+     "segments": 7
+    },
+    {
+     "file": "0436.json",
+     "ref": "2.3.end",
+     "title": "2.3.end",
+     "segments": 1
+    },
+    {
+     "file": "0437.json",
+     "ref": "2.4.1",
+     "title": "Peter Martyr to the Chriſtian reader.",
+     "segments": 1
+    },
+    {
+     "file": "0438.json",
+     "ref": "2.4.2",
+     "title": "Queſtions ſet downe to be diſputed of.",
+     "segments": 3
+    },
+    {
+     "file": "0439.json",
+     "ref": "2.4.3",
+     "title": "The diſputers were theſe.",
+     "segments": 2
+    },
+    {
+     "file": "0440.json",
+     "ref": "2.4.4",
+     "title": "The diſputation of the firſt daie, which was the xxviij. of Maie, Anno Domini. 1549. betweene D. Peter Martyr, and D. VVilliam Tresham, before the kings viſitors, among whom the worthie man D. Cox, Ch",
+     "segments": 141
+    },
+    {
+     "file": "0441.json",
+     "ref": "2.4.5",
+     "title": "The diſputation of the ſecond day, which was the 29. daie of Maie, betweene D. Peter Martyr, and D. William Chadſe.",
+     "segments": 129
+    },
+    {
+     "file": "0442.json",
+     "ref": "2.4.6",
+     "title": "The third act was betweene M. Morgan, and D. Treſham, on the one part: and Doctor Martyr, on the other part.",
+     "segments": 126
+    },
+    {
+     "file": "0443.json",
+     "ref": "2.4.7",
+     "title": "The diſputation of the fourth daie, made betweene D. VVilliam Chadſe, wherein he oppoſed D. Peter Martyr, the firſt daie of Iune.",
+     "segments": 127
+    },
+    {
+     "file": "0444.json",
+     "ref": "2.5",
+     "title": "2.5",
+     "segments": 1
+    },
+    {
+     "file": "0445.json",
+     "ref": "2.6.1",
+     "title": "A SERMON OF CHRISTES DEATH out of the ſecond Chapter of Saint Paul to the Philippians.",
+     "segments": 9
+    },
+    {
+     "file": "0446.json",
+     "ref": "2.6.2",
+     "title": "An Oration concerning the Reſurrection of Chriſt.",
+     "segments": 4
+    },
+    {
+     "file": "0447.json",
+     "ref": "2.6.3",
+     "title": "An Oration or Sermon of D. P. Martyr, out of the 1. Chapter of the Prophet Hagge.",
+     "segments": 9
+    },
+    {
+     "file": "0448.json",
+     "ref": "2.6.4",
+     "title": "A Sermon out of the xx. Chapter of Iohn vpon this place: Chriſt the firſt daie of the Sabboth (that is vppon the Lordes daie) at the euening tide appeared to his diſciples, being gathered together, th",
+     "segments": 7
+    },
+    {
+     "file": "0449.json",
+     "ref": "2.6.5",
+     "title": "An Oration or Sermon out of the 2. Chapter of Malachie, of the profit and worthineſſe of the holy Miniſterie.",
+     "segments": 7
+    },
+    {
+     "file": "0450.json",
+     "ref": "2.6.6",
+     "title": "An Exhortation for young men to ſtudie the holie ſcriptures.",
+     "segments": 1
+    },
+    {
+     "file": "0451.json",
+     "ref": "2.6.7",
+     "title": "A prayſe of the worde of God taught in the ſcriptures, and an exhortation to the ſtudy of them.",
+     "segments": 2
+    },
+    {
+     "file": "0452.json",
+     "ref": "2.6.8",
+     "title": "An Oration concerning the ſtudie of diuinitie, made to the Vniuerſitie of Strasborough after his returne out of England.",
+     "segments": 10
+    },
+    {
+     "file": "0453.json",
+     "ref": "2.6.9",
+     "title": "An Oration which he made at Zurick the firſt time after he ſucceeded in the place of Conradus Pellicanus.",
+     "segments": 6
+    },
+    {
+     "file": "0454.json",
+     "ref": "2.7",
+     "title": "TO THE MOST RENOWMED Princes Elizabeth by the grace of God Queene of England, France and Ireland, Grace and euerlaſting happineſſe from God the Father through Ieſus Chriſt our Sauiour.",
+     "segments": 2
+    },
+    {
+     "file": "0455.json",
+     "ref": "2.8.1",
+     "title": "To all the faithfull of the Church of Luca, Sainctes by calling, grace and peace from God the Father and from our Lorde Ieſus Chriſt.",
+     "segments": 1
+    },
+    {
+     "file": "0456.json",
+     "ref": "2.8.2",
+     "title": "An Epiſtle of Maiſter Peter Martyr to a friende of his, touching the flying awaie in time of perſecution.",
+     "segments": 15
+    },
+    {
+     "file": "0457.json",
+     "ref": "2.8.3",
+     "title": "To the College of Saint Thomas in Strasborough.",
+     "segments": 1
+    },
+    {
+     "file": "0458.json",
+     "ref": "2.8.4",
+     "title": "To the Widowe of D. Martin Bucer.",
+     "segments": 1
+    },
+    {
+     "file": "0459.json",
+     "ref": "2.8.5",
+     "title": "To Ralfe Gualther.",
+     "segments": 1
+    },
+    {
+     "file": "0460.json",
+     "ref": "2.8.6",
+     "title": "To Ralph Gualther.",
+     "segments": 1
+    },
+    {
+     "file": "0461.json",
+     "ref": "2.8.7",
+     "title": "To the Lords of Polonia Profeſſors of the Goſpel: and to the Miniſters of the Churches there.",
+     "segments": 5
+    },
+    {
+     "file": "0462.json",
+     "ref": "2.8.8",
+     "title": "To Maiſter Iohn Caluin.",
+     "segments": 1
+    },
+    {
+     "file": "0463.json",
+     "ref": "2.8.9",
+     "title": "To Maiſter Iohn Caluin.",
+     "segments": 1
+    },
+    {
+     "file": "0464.json",
+     "ref": "2.8.10",
+     "title": "To Maiſter Iohn Caluin.",
+     "segments": 1
+    },
+    {
+     "file": "0465.json",
+     "ref": "2.8.11",
+     "title": "To Maiſter Iohn Caluin.",
+     "segments": 1
+    },
+    {
+     "file": "0466.json",
+     "ref": "2.8.12",
+     "title": "To a certaine friend.",
+     "segments": 1
+    },
+    {
+     "file": "0467.json",
+     "ref": "2.8.13",
+     "title": "To Maſter Iohn Caluin.",
+     "segments": 3
+    },
+    {
+     "file": "0468.json",
+     "ref": "2.8.14",
+     "title": "To Maiſter Iohn Caluin. 15.",
+     "segments": 1
+    },
+    {
+     "file": "0469.json",
+     "ref": "2.8.15",
+     "title": "To Maiſter Iohn Caluin.",
+     "segments": 1
+    },
+    {
+     "file": "0470.json",
+     "ref": "2.8.16",
+     "title": "To Maiſter Caluin.",
+     "segments": 1
+    },
+    {
+     "file": "0471.json",
+     "ref": "2.8.17",
+     "title": "To Maiſter Iohn Caluin.",
+     "segments": 1
+    },
+    {
+     "file": "0472.json",
+     "ref": "2.8.18",
+     "title": "To Maiſter Caluin.",
+     "segments": 1
+    },
+    {
+     "file": "0473.json",
+     "ref": "2.8.19",
+     "title": "To Maiſter Iohn Caluin.",
+     "segments": 1
+    },
+    {
+     "file": "0474.json",
+     "ref": "2.8.20",
+     "title": "To Maiſter Iohn Caluin.",
+     "segments": 1
+    },
+    {
+     "file": "0475.json",
+     "ref": "2.8.21",
+     "title": "To Theodore Beza.",
+     "segments": 1
+    },
+    {
+     "file": "0476.json",
+     "ref": "2.8.22",
+     "title": "Vnto Theodore Beza.",
+     "segments": 2
+    },
+    {
+     "file": "0477.json",
+     "ref": "2.8.23",
+     "title": "To Theodore Beza. 24.",
+     "segments": 1
+    },
+    {
+     "file": "0478.json",
+     "ref": "2.8.24",
+     "title": "To a certaine friend of his.",
+     "segments": 1
+    },
+    {
+     "file": "0479.json",
+     "ref": "2.8.25",
+     "title": "To Henrie Bullinger. 26.",
+     "segments": 2
+    },
+    {
+     "file": "0480.json",
+     "ref": "2.8.26",
+     "title": "To Henrie Bullinger. 27.",
+     "segments": 1
+    },
+    {
+     "file": "0481.json",
+     "ref": "2.8.27",
+     "title": "To Henrie Bullinger. 28.",
+     "segments": 1
+    },
+    {
+     "file": "0482.json",
+     "ref": "2.8.28",
+     "title": "To Lodouick Lauater. 29.",
+     "segments": 2
+    },
+    {
+     "file": "0483.json",
+     "ref": "2.8.29",
+     "title": "Vnto Lodouicke Lauater. 30.",
+     "segments": 1
+    },
+    {
+     "file": "0484.json",
+     "ref": "2.8.30",
+     "title": "To Lodouicke Lauater. 31",
+     "segments": 1
+    },
+    {
+     "file": "0485.json",
+     "ref": "2.8.31",
+     "title": "To Philip Melanchthon. 32.",
+     "segments": 1
+    },
+    {
+     "file": "0486.json",
+     "ref": "2.8.32",
+     "title": "To M. Peter Alexander. 33.",
+     "segments": 1
+    },
+    {
+     "file": "0487.json",
+     "ref": "2.8.33",
+     "title": "To Robert Cooch a letter yet extant of his owne hand. 34.",
+     "segments": 2
+    },
+    {
+     "file": "0488.json",
+     "ref": "2.8.34",
+     "title": "Here followe letters of M. Peter Martyr to certaine Englishmen. To a certaine friende of his. 35.",
+     "segments": 1
+    },
+    {
+     "file": "0489.json",
+     "ref": "2.8.35",
+     "title": "To a certaine friend of his. 36.",
+     "segments": 1
+    },
+    {
+     "file": "0490.json",
+     "ref": "2.8.36",
+     "title": "This Epiſtle ſeemes to bee vvritten to the reuerend Father, Iohn Hooper Biſhop of Gloceſter, although in the Authors owne copie there is no name put thereto. 37.",
+     "segments": 5
+    },
+    {
+     "file": "0491.json",
+     "ref": "2.8.37",
+     "title": "To a certaine friende of his into Englande. 38.",
+     "segments": 1
+    },
+    {
+     "file": "0492.json",
+     "ref": "2.8.38",
+     "title": "To the ſame man into England. 39.",
+     "segments": 1
+    },
+    {
+     "file": "0493.json",
+     "ref": "2.8.39",
+     "title": "To the ſame man into Englande. 40.",
+     "segments": 1
+    },
+    {
+     "file": "0494.json",
+     "ref": "2.8.40",
+     "title": "To the ſame man into England. 41.",
+     "segments": 1
+    },
+    {
+     "file": "0495.json",
+     "ref": "2.8.41",
+     "title": "To a certaine friende of his. 42.",
+     "segments": 1
+    },
+    {
+     "file": "0496.json",
+     "ref": "2.8.42",
+     "title": "To a verie honourable Prince in England. 43.",
+     "segments": 1
+    },
+    {
+     "file": "0497.json",
+     "ref": "2.8.43",
+     "title": "To Maiſter Iewel Biſhoppe of Salisburie. 44.",
+     "segments": 2
+    },
+    {
+     "file": "0498.json",
+     "ref": "2.8.44",
+     "title": "To the Church of ſtraungers at London. 45.",
+     "segments": 16
+    },
+    {
+     "file": "0499.json",
+     "ref": "2.8.45",
+     "title": "An Epiſtle to the Engliſh Church. 46.",
+     "segments": 2
+    },
+    {
+     "file": "0500.json",
+     "ref": "2.8.46",
+     "title": "To the brethren of the Citie of Luca. 47.",
+     "segments": 5
+    },
+    {
+     "file": "0501.json",
+     "ref": "2.8.47",
+     "title": "To Peter Sturmius. 48.",
+     "segments": 1
+    },
+    {
+     "file": "0502.json",
+     "ref": "2.8.48",
+     "title": "To the reuerende Father in Chriſt Iohn Parkhurſt by the grace of God Biſhop of Norwich his very good Lorde. 49.",
+     "segments": 1
+    },
+    {
+     "file": "0503.json",
+     "ref": "2.8.49",
+     "title": "To Maiſter Iohn Caluin. 50.",
+     "segments": 1
+    },
+    {
+     "file": "0504.json",
+     "ref": "2.8.50",
+     "title": "To Maiſter Iohn Caluin. 51.",
+     "segments": 1
+    },
+    {
+     "file": "0505.json",
+     "ref": "2.8.51",
+     "title": "To Henrie Bullinger. 52.",
+     "segments": 2
+    },
+    {
+     "file": "0506.json",
+     "ref": "2.8.52",
+     "title": "To the ſame man. 52.",
+     "segments": 4
+    },
+    {
+     "file": "0507.json",
+     "ref": "2.8.53",
+     "title": "To the ſame man. 54.",
+     "segments": 1
+    },
+    {
+     "file": "0508.json",
+     "ref": "2.8.54",
+     "title": "To Iohn Caluin. 55.",
+     "segments": 1
+    },
+    {
+     "file": "0509.json",
+     "ref": "2.8.55",
+     "title": "To Maiſter Henrie Bullinger. 56.",
+     "segments": 1
+    },
+    {
+     "file": "0510.json",
+     "ref": "2.8.56",
+     "title": "To Lodouick Lauater. 57.",
+     "segments": 1
+    },
+    {
+     "file": "0511.json",
+     "ref": "2.8.57",
+     "title": "To M. Henry Bullinger. 58.",
+     "segments": 1
+    },
+    {
+     "file": "0512.json",
+     "ref": "2.8.58",
+     "title": "To Theodore Beza. 59.",
+     "segments": 1
+    },
+    {
+     "file": "0513.json",
+     "ref": "2.8.59",
+     "title": "To Theodore Beza. 60.",
+     "segments": 1
+    },
+    {
+     "file": "0514.json",
+     "ref": "2.8.60",
+     "title": "To Maiſter Caluin. 61.",
+     "segments": 1
+    },
+    {
+     "file": "0515.json",
+     "ref": "2.8.61",
+     "title": "To a certaine Friend being an eloquent and famous man, as concerning the cauſe of the Euchariſt. 62.",
+     "segments": 8
+    },
+    {
+     "file": "0516.json",
+     "ref": "2.8.62",
+     "title": "To the Right honourable the Earle of Bedforde.",
+     "segments": 1
+    },
+    {
+     "file": "0517.json",
+     "ref": "2.8.end",
+     "title": "2.8.end",
+     "segments": 2
+    },
+    {
+     "file": "0518.json",
+     "ref": "2.9.1",
+     "title": "To the Reuerende Father in Chriſt Iohn Iewel, by the grace of God Biſhop of Salisburie his very good Lord.",
+     "segments": 1
+    },
+    {
+     "file": "0519.json",
+     "ref": "2.9.2",
+     "title": "❧ AN ORATION OF the life and death of that worthie man and excellent Diuine D. Peter Martyr Vermillius, profeſſor of Diuinitie in the Schoole of Zuricke.",
+     "segments": 5
+    },
+    {
+     "file": "0520.json",
+     "ref": "2.9.end",
+     "title": "2.9.end",
+     "segments": 1
+    }
+   ]
+  }
+ ]
+}

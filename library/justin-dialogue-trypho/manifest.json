@@ -1,0 +1,1768 @@
+{
+ "workId": "justin-dialogue-trypho",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "justin-dialogue-archambault-first1k",
+   "role": "original",
+   "language": "greek",
+   "credit": "Dialogus cum Tryphone (Greek text of Dialogue avec Tryphon), in Justin Martyr, Dialogue avec Tryphon, vols. 1-2, ed. Georges Archambault (Paris: A. Picard, 1909). First1KGreek / Perseus Digital Library, Tufts University (Open Greek and Latin), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0645/tlg003/tlg0645.tlg003.perseus-grc2.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 769085,
+   "sourceSha256": "d5e87fafb4ee51cd83389a17253a540f86e342c095a9083435886ecd232c663f",
+   "leftOut": {
+    "pb": 334
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 52025,
+    "barePerThousand": 26,
+    "digitWords": 33
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 6
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 6
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 7
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 7
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 6
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 3
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 4
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 3
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 4
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 5
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 3
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 9
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 8
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 7
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 5
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 4
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 3
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 6
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 4
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 4
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 11
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 5
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 4
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 6
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 4
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 5
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 6
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 3
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 3
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 7
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 6
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 8
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 8
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 6
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 4
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 5
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 8
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 5
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 4
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 4
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 8
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 4
+    },
+    {
+     "file": "0045.json",
+     "ref": "45",
+     "title": "45",
+     "segments": 4
+    },
+    {
+     "file": "0046.json",
+     "ref": "46",
+     "title": "46",
+     "segments": 7
+    },
+    {
+     "file": "0047.json",
+     "ref": "47",
+     "title": "47",
+     "segments": 5
+    },
+    {
+     "file": "0048.json",
+     "ref": "48",
+     "title": "48",
+     "segments": 4
+    },
+    {
+     "file": "0049.json",
+     "ref": "49",
+     "title": "49",
+     "segments": 8
+    },
+    {
+     "file": "0050.json",
+     "ref": "50",
+     "title": "50",
+     "segments": 5
+    },
+    {
+     "file": "0051.json",
+     "ref": "51",
+     "title": "51",
+     "segments": 3
+    },
+    {
+     "file": "0052.json",
+     "ref": "52",
+     "title": "52",
+     "segments": 4
+    },
+    {
+     "file": "0053.json",
+     "ref": "53",
+     "title": "53",
+     "segments": 6
+    },
+    {
+     "file": "0054.json",
+     "ref": "54",
+     "title": "54",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "55",
+     "title": "55",
+     "segments": 3
+    },
+    {
+     "file": "0056.json",
+     "ref": "56",
+     "title": "56",
+     "segments": 23
+    },
+    {
+     "file": "0057.json",
+     "ref": "57",
+     "title": "57",
+     "segments": 4
+    },
+    {
+     "file": "0058.json",
+     "ref": "58",
+     "title": "58",
+     "segments": 13
+    },
+    {
+     "file": "0059.json",
+     "ref": "59",
+     "title": "59",
+     "segments": 3
+    },
+    {
+     "file": "0060.json",
+     "ref": "60",
+     "title": "60",
+     "segments": 5
+    },
+    {
+     "file": "0061.json",
+     "ref": "61",
+     "title": "61",
+     "segments": 5
+    },
+    {
+     "file": "0062.json",
+     "ref": "62",
+     "title": "62",
+     "segments": 5
+    },
+    {
+     "file": "0063.json",
+     "ref": "63",
+     "title": "63",
+     "segments": 5
+    },
+    {
+     "file": "0064.json",
+     "ref": "64",
+     "title": "64",
+     "segments": 8
+    },
+    {
+     "file": "0065.json",
+     "ref": "65",
+     "title": "65",
+     "segments": 7
+    },
+    {
+     "file": "0066.json",
+     "ref": "66",
+     "title": "66",
+     "segments": 4
+    },
+    {
+     "file": "0067.json",
+     "ref": "67",
+     "title": "67",
+     "segments": 11
+    },
+    {
+     "file": "0068.json",
+     "ref": "68",
+     "title": "68",
+     "segments": 9
+    },
+    {
+     "file": "0069.json",
+     "ref": "69",
+     "title": "69",
+     "segments": 7
+    },
+    {
+     "file": "0070.json",
+     "ref": "70",
+     "title": "70",
+     "segments": 5
+    },
+    {
+     "file": "0071.json",
+     "ref": "71",
+     "title": "71",
+     "segments": 4
+    },
+    {
+     "file": "0072.json",
+     "ref": "72",
+     "title": "72",
+     "segments": 4
+    },
+    {
+     "file": "0073.json",
+     "ref": "73",
+     "title": "73",
+     "segments": 6
+    },
+    {
+     "file": "0074.json",
+     "ref": "74",
+     "title": "74",
+     "segments": 4
+    },
+    {
+     "file": "0075.json",
+     "ref": "75",
+     "title": "75",
+     "segments": 4
+    },
+    {
+     "file": "0076.json",
+     "ref": "76",
+     "title": "76",
+     "segments": 7
+    },
+    {
+     "file": "0077.json",
+     "ref": "77",
+     "title": "77",
+     "segments": 4
+    },
+    {
+     "file": "0078.json",
+     "ref": "78",
+     "title": "78",
+     "segments": 11
+    },
+    {
+     "file": "0079.json",
+     "ref": "79",
+     "title": "79",
+     "segments": 4
+    },
+    {
+     "file": "0080.json",
+     "ref": "80",
+     "title": "80",
+     "segments": 5
+    },
+    {
+     "file": "0081.json",
+     "ref": "81",
+     "title": "81",
+     "segments": 4
+    },
+    {
+     "file": "0082.json",
+     "ref": "82",
+     "title": "82",
+     "segments": 4
+    },
+    {
+     "file": "0083.json",
+     "ref": "83",
+     "title": "83",
+     "segments": 4
+    },
+    {
+     "file": "0084.json",
+     "ref": "84",
+     "title": "84",
+     "segments": 4
+    },
+    {
+     "file": "0085.json",
+     "ref": "85",
+     "title": "85",
+     "segments": 9
+    },
+    {
+     "file": "0086.json",
+     "ref": "86",
+     "title": "86",
+     "segments": 6
+    },
+    {
+     "file": "0087.json",
+     "ref": "87",
+     "title": "87",
+     "segments": 6
+    },
+    {
+     "file": "0088.json",
+     "ref": "88",
+     "title": "88",
+     "segments": 8
+    },
+    {
+     "file": "0089.json",
+     "ref": "89",
+     "title": "89",
+     "segments": 3
+    },
+    {
+     "file": "0090.json",
+     "ref": "90",
+     "title": "90",
+     "segments": 5
+    },
+    {
+     "file": "0091.json",
+     "ref": "91",
+     "title": "91",
+     "segments": 4
+    },
+    {
+     "file": "0092.json",
+     "ref": "92",
+     "title": "92",
+     "segments": 6
+    },
+    {
+     "file": "0093.json",
+     "ref": "93",
+     "title": "93",
+     "segments": 5
+    },
+    {
+     "file": "0094.json",
+     "ref": "94",
+     "title": "94",
+     "segments": 5
+    },
+    {
+     "file": "0095.json",
+     "ref": "95",
+     "title": "95",
+     "segments": 4
+    },
+    {
+     "file": "0096.json",
+     "ref": "96",
+     "title": "96",
+     "segments": 3
+    },
+    {
+     "file": "0097.json",
+     "ref": "97",
+     "title": "97",
+     "segments": 4
+    },
+    {
+     "file": "0098.json",
+     "ref": "98",
+     "title": "98",
+     "segments": 5
+    },
+    {
+     "file": "0099.json",
+     "ref": "99",
+     "title": "99",
+     "segments": 3
+    },
+    {
+     "file": "0100.json",
+     "ref": "100",
+     "title": "100",
+     "segments": 6
+    },
+    {
+     "file": "0101.json",
+     "ref": "101",
+     "title": "101",
+     "segments": 3
+    },
+    {
+     "file": "0102.json",
+     "ref": "102",
+     "title": "102",
+     "segments": 7
+    },
+    {
+     "file": "0103.json",
+     "ref": "103",
+     "title": "103",
+     "segments": 9
+    },
+    {
+     "file": "0104.json",
+     "ref": "104",
+     "title": "104",
+     "segments": 2
+    },
+    {
+     "file": "0105.json",
+     "ref": "105",
+     "title": "105",
+     "segments": 6
+    },
+    {
+     "file": "0106.json",
+     "ref": "106",
+     "title": "106",
+     "segments": 4
+    },
+    {
+     "file": "0107.json",
+     "ref": "107",
+     "title": "107",
+     "segments": 4
+    },
+    {
+     "file": "0108.json",
+     "ref": "108",
+     "title": "108",
+     "segments": 3
+    },
+    {
+     "file": "0109.json",
+     "ref": "109",
+     "title": "109",
+     "segments": 3
+    },
+    {
+     "file": "0110.json",
+     "ref": "110",
+     "title": "110",
+     "segments": 6
+    },
+    {
+     "file": "0111.json",
+     "ref": "111",
+     "title": "111",
+     "segments": 4
+    },
+    {
+     "file": "0112.json",
+     "ref": "112",
+     "title": "112",
+     "segments": 5
+    },
+    {
+     "file": "0113.json",
+     "ref": "113",
+     "title": "113",
+     "segments": 7
+    },
+    {
+     "file": "0114.json",
+     "ref": "114",
+     "title": "114",
+     "segments": 5
+    },
+    {
+     "file": "0115.json",
+     "ref": "115",
+     "title": "115",
+     "segments": 6
+    },
+    {
+     "file": "0116.json",
+     "ref": "116",
+     "title": "116",
+     "segments": 3
+    },
+    {
+     "file": "0117.json",
+     "ref": "117",
+     "title": "117",
+     "segments": 5
+    },
+    {
+     "file": "0118.json",
+     "ref": "118",
+     "title": "118",
+     "segments": 5
+    },
+    {
+     "file": "0119.json",
+     "ref": "119",
+     "title": "119",
+     "segments": 6
+    },
+    {
+     "file": "0120.json",
+     "ref": "120",
+     "title": "120",
+     "segments": 6
+    },
+    {
+     "file": "0121.json",
+     "ref": "121",
+     "title": "121",
+     "segments": 4
+    },
+    {
+     "file": "0122.json",
+     "ref": "122",
+     "title": "122",
+     "segments": 6
+    },
+    {
+     "file": "0123.json",
+     "ref": "123",
+     "title": "123",
+     "segments": 9
+    },
+    {
+     "file": "0124.json",
+     "ref": "124",
+     "title": "124",
+     "segments": 4
+    },
+    {
+     "file": "0125.json",
+     "ref": "125",
+     "title": "125",
+     "segments": 5
+    },
+    {
+     "file": "0126.json",
+     "ref": "126",
+     "title": "126",
+     "segments": 6
+    },
+    {
+     "file": "0127.json",
+     "ref": "127",
+     "title": "127",
+     "segments": 5
+    },
+    {
+     "file": "0128.json",
+     "ref": "128",
+     "title": "128",
+     "segments": 4
+    },
+    {
+     "file": "0129.json",
+     "ref": "129",
+     "title": "129",
+     "segments": 4
+    },
+    {
+     "file": "0130.json",
+     "ref": "130",
+     "title": "130",
+     "segments": 4
+    },
+    {
+     "file": "0131.json",
+     "ref": "131",
+     "title": "131",
+     "segments": 6
+    },
+    {
+     "file": "0132.json",
+     "ref": "132",
+     "title": "132",
+     "segments": 3
+    },
+    {
+     "file": "0133.json",
+     "ref": "133",
+     "title": "133",
+     "segments": 6
+    },
+    {
+     "file": "0134.json",
+     "ref": "134",
+     "title": "134",
+     "segments": 6
+    },
+    {
+     "file": "0135.json",
+     "ref": "135",
+     "title": "135",
+     "segments": 6
+    },
+    {
+     "file": "0136.json",
+     "ref": "136",
+     "title": "136",
+     "segments": 3
+    },
+    {
+     "file": "0137.json",
+     "ref": "137",
+     "title": "137",
+     "segments": 4
+    },
+    {
+     "file": "0138.json",
+     "ref": "138",
+     "title": "138",
+     "segments": 3
+    },
+    {
+     "file": "0139.json",
+     "ref": "139",
+     "title": "139",
+     "segments": 5
+    },
+    {
+     "file": "0140.json",
+     "ref": "140",
+     "title": "140",
+     "segments": 4
+    },
+    {
+     "file": "0141.json",
+     "ref": "141",
+     "title": "141",
+     "segments": 5
+    },
+    {
+     "file": "0142.json",
+     "ref": "142",
+     "title": "142",
+     "segments": 3
+    }
+   ]
+  },
+  {
+   "editionId": "justin-dialogue-anf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Dialogue with Trypho, in The Ante-Nicene Fathers, vol. 1 (The Apostolic Fathers with Justin Martyr and Irenaeus) (American edition, ed. A. Cleveland Coxe), trans. Various, as printed in the 1885 volume (the Wikisource copy credits 'Philip Schaff et al.' and does not name individual translators on the page); series editors Alexander Roberts and James Donaldson (Buffalo: Christian Literature Publishing Co., 1885). Wikisource contributors, English Wikisource (Ante-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/Dialogue_with_Trypho",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 437013,
+   "sourceSha256": "a53ac07fb9047eac790988097a04877375a455bc7b51f941c38ffe6b0f95c90c",
+   "leftOut": {
+    "note": 548
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume I/Dialogue with Trypho",
+     "bytes": 437013,
+     "sha256": "a53ac07fb9047eac790988097a04877375a455bc7b51f941c38ffe6b0f95c90c"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Chapter I.—Introduction.",
+     "segments": 8
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "Chapter II.—Justin describes his studies in philosophy.",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "Chapter III.—Justin narrates the manner of his conversion.",
+     "segments": 23
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "Chapter IV.—The soul of itself cannot see God.",
+     "segments": 28
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "Chapter V.—The soul is not in its own nature immortal.",
+     "segments": 13
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "Chapter VI.—These things were unknown to Plato and other philosophers.",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "Chapter VII.—The knowledge of truth to be sought from the prophets alone.",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "Chapter VIII.—Justin by his colloquy is kindled with love to Christ.",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "Chapter IX.—The Christians have not believed groundless stories.",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "Chapter X.—Trypho blames the Christians for this alone—the non-observance of the law.",
+     "segments": 3
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "Chapter XI.—The law abrogated; the New Testament promised and given by God.",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "Chapter XII.—The Jews violate the eternal law, and interpret ill that of Moses.",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "Chapter XIII.—Isaiah teaches that sins are forgiven through Christ’s blood.",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "Chapter XIV.—Righteousness is not placed in Jewish rites, but in the conversion of the heart given in baptism by Christ.",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "Chapter XV.—In what the true fasting consists.",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "Chapter XVI.—Circumcision given as a sign, that the Jews might be driven away for their evil deeds done to Christ and the Christians.",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "Chapter XVII.—The Jews sent persons through the whole earth to spread calumnies on Christians.",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "Chapter XVIII.—Christians would observe the law, if they did not know why it was instituted.",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "Chapter XIX.—Circumcision unknown before Abraham. The law was given by Moses on account of the hardness of their hearts.",
+     "segments": 3
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "Chapter XX.—Why choice of meats was prescribed.",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "Chapter XXI.—Sabbaths were instituted on account of the people’s sins, and not for a work of righteousness.",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "Chapter XXII.—So also were sacrifices and oblations.",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "Chapter XXIII.—The opinion of the Jews regarding the law does an injury to God.",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "Chapter XXIV.—The Christians’ circumcision far more excellent.",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "Chapter XXV.—The Jews boast in vain that they are sons of Abraham.",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "Chapter XXVI.—No salvation to the Jews except through Christ.",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "Chapter XXVII.—Why God taught the same things by the prophets as by Moses.",
+     "segments": 3
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "Chapter XXVIII.—True righteousness is obtained by Christ.",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "Chapter XXIX.—Christ is useless to those who observe the law.",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "Chapter XXX.—Christians possess the true righteousness.",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "Chapter XXXI.—If Christ’s power be now so great, how much greater at the second advent!",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "Chapter XXXII.—Trypho objecting that Christ is described as glorious by Daniel, Justin distinguishes two advents.",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "Chapter XXXIII.—Ps. cx. is not spoken of Hezekiah. He proves that Christ was first humble, then shall be glorious.",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "Chapter XXXIV.—Nor does Ps. lxxii. apply to Solomon, whose faults Christians shudder at.",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "Chapter XXXV.—Heretics confirm the Catholics in the faith.",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "Chapter XXXVI.—He proves that Christ is called Lord of Hosts.",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "Chapter XXXVII.—The same is proved from other Psalms.",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "Chapter XXXVIII.—It is an annoyance to the Jew that Christ is said to be adored. Justin confirms it, however, from Ps. xlv.",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "Chapter XXXIX.—The Jews hate the Christians who believe this. How great the distinction is between both!",
+     "segments": 5
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "Chapter XL.—He returns to the Mosaic laws, and proves that they were figures of the things which pertain to Christ.",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "Chapter XLI.—The oblation of fine flour was a figure of the Eucharist.",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "Chapter XLII.—The bells on the priest’s robe were a figure of the apostles.",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "Chapter XLIII.—He concludes that the law had an end in Christ, who was born of the Virgin.",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "Chapter XLIV.—The Jews in vain promise themselves salvation, which cannot be obtained except through Christ.",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "45",
+     "title": "Chapter XLV.—Those who were righteous before and under the law shall be saved by Christ.",
+     "segments": 4
+    },
+    {
+     "file": "0046.json",
+     "ref": "46",
+     "title": "Chapter XLVI.—Trypho asks whether a man who keeps the law even now will be saved. Justin proves that it contributes nothing to righteousness.",
+     "segments": 11
+    },
+    {
+     "file": "0047.json",
+     "ref": "47",
+     "title": "Chapter XLVII.—Justin communicates with Christians who observe the law. Not a few Catholics do otherwise.",
+     "segments": 4
+    },
+    {
+     "file": "0048.json",
+     "ref": "48",
+     "title": "Chapter XLVIII.—Before the divinity of Christ is proved, he [Trypho] demands that it be settled that He is Christ.",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "49",
+     "title": "Chapter XLIX.—To those who object that Elijah has not yet come, he replies that he is the precursor of the first advent.",
+     "segments": 11
+    },
+    {
+     "file": "0050.json",
+     "ref": "50",
+     "title": "Chapter L.—It is proved from Isaiah that John is the precursor of Christ.",
+     "segments": 4
+    },
+    {
+     "file": "0051.json",
+     "ref": "51",
+     "title": "Chapter LI.—It is proved that this prophecy has been fulfilled.",
+     "segments": 1
+    },
+    {
+     "file": "0052.json",
+     "ref": "52",
+     "title": "Chapter LII.—Jacob predicted two advents of Christ.",
+     "segments": 1
+    },
+    {
+     "file": "0053.json",
+     "ref": "53",
+     "title": "Chapter LIII.—Jacob predicted that Christ would ride on an ass, and Zechariah confirms it.",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "54",
+     "title": "Chapter LIV.—What the blood of the grape signifies.",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "55",
+     "title": "Chapter LV.—Trypho asks that Christ be proved God, but without metaphor. Justin promises to do so.",
+     "segments": 2
+    },
+    {
+     "file": "0056.json",
+     "ref": "56",
+     "title": "Chapter LVI.—God who appeared to Moses is distinguished from God the Father.",
+     "segments": 17
+    },
+    {
+     "file": "0057.json",
+     "ref": "57",
+     "title": "Chapter LVII.—The Jew objects, why is He said to have eaten, if He be God? Answer of Justin.",
+     "segments": 5
+    },
+    {
+     "file": "0058.json",
+     "ref": "58",
+     "title": "Chapter LVIII.—The same is proved from the visions which appeared to Jacob.",
+     "segments": 5
+    },
+    {
+     "file": "0059.json",
+     "ref": "59",
+     "title": "Chapter LIX.—God distinct from the Father conversed with Moses.",
+     "segments": 1
+    },
+    {
+     "file": "0060.json",
+     "ref": "60",
+     "title": "Chapter LX.—Opinions of the Jews with regard to Him who appeared in the bush.",
+     "segments": 4
+    },
+    {
+     "file": "0061.json",
+     "ref": "61",
+     "title": "Chapter LXI—Wisdom is begotten of the Father, as fire from fire.",
+     "segments": 1
+    },
+    {
+     "file": "0062.json",
+     "ref": "62",
+     "title": "Chapter LXII.—The words “Let Us make man” agree with the testimony of Proverbs.",
+     "segments": 1
+    },
+    {
+     "file": "0063.json",
+     "ref": "63",
+     "title": "Chapter LXIII.—It is proved that this God was incarnate.",
+     "segments": 2
+    },
+    {
+     "file": "0064.json",
+     "ref": "64",
+     "title": "Chapter LXIV.—Justin adduces other proofs to the Jew, who denies that he needs this Christ.",
+     "segments": 2
+    },
+    {
+     "file": "0065.json",
+     "ref": "65",
+     "title": "Chapter LXV.—The Jew objects that God does not give His glory to another. Justin explains the passage.",
+     "segments": 3
+    },
+    {
+     "file": "0066.json",
+     "ref": "66",
+     "title": "Chapter LXVI.—He proves from Isaiah that God was born from a virgin.",
+     "segments": 1
+    },
+    {
+     "file": "0067.json",
+     "ref": "67",
+     "title": "Chapter LXVII.—Trypho compares Jesus with Perseus; and would prefer [to say] that He was elected [to be Christ] on account of observance of the law. Justin speaks of the law as formerly.",
+     "segments": 14
+    },
+    {
+     "file": "0068.json",
+     "ref": "68",
+     "title": "Chapter LXVIII.—He complains of the obstinacy of Trypho; he answers his objection; he convicts the Jews of bad faith.",
+     "segments": 16
+    },
+    {
+     "file": "0069.json",
+     "ref": "69",
+     "title": "Chapter LXIX.—The devil, since he emulates the truth, has invented fables about Bacchus, Hercules, and Æsculapius.",
+     "segments": 1
+    },
+    {
+     "file": "0070.json",
+     "ref": "70",
+     "title": "Chapter LXX.—So also the mysteries of Mithras are distorted from the prophecies of Daniel and Isaiah.",
+     "segments": 1
+    },
+    {
+     "file": "0071.json",
+     "ref": "71",
+     "title": "Chapter LXXI.—The Jews reject the interpretation of the LXX., from which, moreover, they have taken away some passages.",
+     "segments": 2
+    },
+    {
+     "file": "0072.json",
+     "ref": "72",
+     "title": "Chapter LXXII.—Passages have been removed by the Jews from Esdras and Jeremiah.",
+     "segments": 1
+    },
+    {
+     "file": "0073.json",
+     "ref": "73",
+     "title": "Chapter LXXIII.—[The words] “From the wood” have been cut out of Ps. xcvi.",
+     "segments": 3
+    },
+    {
+     "file": "0074.json",
+     "ref": "74",
+     "title": "Chapter LXXIV.—The beginning of Ps. xcvi. is attributed to the Father [by Trypho]. But [it refers] to Christ by these words: “Tell ye among the nations that the Lord,” etc.",
+     "segments": 2
+    },
+    {
+     "file": "0075.json",
+     "ref": "75",
+     "title": "Chapter LXXV.—It is proved that Jesus was the name of God in the book of Exodus.",
+     "segments": 1
+    },
+    {
+     "file": "0076.json",
+     "ref": "76",
+     "title": "Chapter LXXVI.—From other passages the same majesty and government of Christ are proved.",
+     "segments": 1
+    },
+    {
+     "file": "0077.json",
+     "ref": "77",
+     "title": "Chapter LXXVII.—He returns to explain the prophecy of Isaiah.",
+     "segments": 1
+    },
+    {
+     "file": "0078.json",
+     "ref": "78",
+     "title": "Chapter LXXVIII.—He proves that this prophecy harmonizes with Christ alone, from what is afterwards written.",
+     "segments": 1
+    },
+    {
+     "file": "0079.json",
+     "ref": "79",
+     "title": "Chapter LXXIX.—He proves against Trypho that the wicked angels have revolted from God.",
+     "segments": 2
+    },
+    {
+     "file": "0080.json",
+     "ref": "80",
+     "title": "Chapter LXXX.—The opinion of Justin with regard to the reign of a thousand years. Several Catholics reject it.",
+     "segments": 2
+    },
+    {
+     "file": "0081.json",
+     "ref": "81",
+     "title": "Chapter LXXXI.—He endeavours to prove this opinion from Isaiah and the Apocalypse.",
+     "segments": 1
+    },
+    {
+     "file": "0082.json",
+     "ref": "82",
+     "title": "Chapter LXXXII.—The prophetical gifts of the Jews were transferred to the Christians.",
+     "segments": 1
+    },
+    {
+     "file": "0083.json",
+     "ref": "83",
+     "title": "Chapter LXXXIII.—It is proved that the Psalm, “The Lord said to My Lord,” etc., does not suit Hezekiah.",
+     "segments": 1
+    },
+    {
+     "file": "0084.json",
+     "ref": "84",
+     "title": "Chapter LXXXIV.—That prophecy, “Behold, a virgin,” etc., suits Christ alone.",
+     "segments": 1
+    },
+    {
+     "file": "0085.json",
+     "ref": "85",
+     "title": "Chapter LXXXV.—He proves that Christ is the Lord of Hosts from Ps. xxiv., and from his authority over demons.",
+     "segments": 3
+    },
+    {
+     "file": "0086.json",
+     "ref": "86",
+     "title": "Chapter LXXXVI.—There are various figures in the Old Testament of the wood of the cross by which Christ reigned.",
+     "segments": 1
+    },
+    {
+     "file": "0087.json",
+     "ref": "87",
+     "title": "Chapter LXXXVII.—Trypho maintains in objection these words: “And shall rest on Him,” etc. They are explained by Justin.",
+     "segments": 2
+    },
+    {
+     "file": "0088.json",
+     "ref": "88",
+     "title": "Chapter LXXXVIII.—Christ has not received the Holy Spirit on account of poverty.",
+     "segments": 1
+    },
+    {
+     "file": "0089.json",
+     "ref": "89",
+     "title": "Chapter LXXXIX.—The cross alone is offensive to Trypho on account of the curse, yet it proves that Jesus is Christ.",
+     "segments": 2
+    },
+    {
+     "file": "0090.json",
+     "ref": "90",
+     "title": "Chapter XC.—The stretched-out hands of Moses signified beforehand the cross.",
+     "segments": 6
+    },
+    {
+     "file": "0091.json",
+     "ref": "91",
+     "title": "Chapter XCI.—The cross was foretold in the blessings of Joseph, and in the serpent that was lifted up.",
+     "segments": 1
+    },
+    {
+     "file": "0092.json",
+     "ref": "92",
+     "title": "Chapter XCII.—Unless the scriptures be understood through God’s great grace, God will not appear to have taught always the same righteousness.",
+     "segments": 1
+    },
+    {
+     "file": "0093.json",
+     "ref": "93",
+     "title": "Chapter XCIII.—The same kind of righteousness is bestowed on all. Christ comprehends it in two precepts.",
+     "segments": 1
+    },
+    {
+     "file": "0094.json",
+     "ref": "94",
+     "title": "Chapter XCIV.—In what sense he who hangs on a tree is cursed.",
+     "segments": 3
+    },
+    {
+     "file": "0095.json",
+     "ref": "95",
+     "title": "Chapter XCV.—Christ took upon Himself the curse due to us.",
+     "segments": 1
+    },
+    {
+     "file": "0096.json",
+     "ref": "96",
+     "title": "Chapter XCVI.—That curse was a prediction of the things which the Jews would do.",
+     "segments": 1
+    },
+    {
+     "file": "0097.json",
+     "ref": "97",
+     "title": "Chapter XCVII.—Other predictions of the cross of Christ.",
+     "segments": 1
+    },
+    {
+     "file": "0098.json",
+     "ref": "98",
+     "title": "Chapter XCVIII.—Predictions of Christ in Ps. xxii.",
+     "segments": 1
+    },
+    {
+     "file": "0099.json",
+     "ref": "99",
+     "title": "Chapter XCIX.—In the commencement of the Psalm are Christ’s dying words.",
+     "segments": 1
+    },
+    {
+     "file": "0100.json",
+     "ref": "100",
+     "title": "Chapter C.—In what sense Christ is [called] Jacob, and Israel, and Son of Man.",
+     "segments": 1
+    },
+    {
+     "file": "0101.json",
+     "ref": "101",
+     "title": "Chapter CI.—Christ refers all things to the Father",
+     "segments": 1
+    },
+    {
+     "file": "0102.json",
+     "ref": "102",
+     "title": "Chapter CII.—The prediction of the events which happened to Christ when He was born. Why God permitted it.",
+     "segments": 1
+    },
+    {
+     "file": "0103.json",
+     "ref": "103",
+     "title": "Chapter CIII.—The Pharisees are the bulls: the roaring lion is Herod or the devil.",
+     "segments": 1
+    },
+    {
+     "file": "0104.json",
+     "ref": "104",
+     "title": "Chapter CIV.—Circumstances of Christ’s death are predicted in this Psalm.",
+     "segments": 1
+    },
+    {
+     "file": "0105.json",
+     "ref": "105",
+     "title": "Chapter CV.—The Psalm also predicts the crucifixion and the subject of the last prayers of Christ on Earth.",
+     "segments": 1
+    },
+    {
+     "file": "0106.json",
+     "ref": "106",
+     "title": "Chapter CVI.—Christ’s resurrection is foretold in the conclusion of the Psalm.",
+     "segments": 1
+    },
+    {
+     "file": "0107.json",
+     "ref": "107",
+     "title": "Chapter CVII.—The same is taught from the history of Jonah.",
+     "segments": 1
+    },
+    {
+     "file": "0108.json",
+     "ref": "108",
+     "title": "Chapter CVIII.—The resurrection of Christ did not convert the Jews. But through the whole world they have sent men to accuse Christ.",
+     "segments": 1
+    },
+    {
+     "file": "0109.json",
+     "ref": "109",
+     "title": "Chapter CIX.—The conversion of the Gentiles has been predicted by Micah.",
+     "segments": 1
+    },
+    {
+     "file": "0110.json",
+     "ref": "110",
+     "title": "Chapter CX.—A portion of the prophecy already fulfilled in the Christians: the rest shall be fulfilled at the second advent.",
+     "segments": 1
+    },
+    {
+     "file": "0111.json",
+     "ref": "111",
+     "title": "Chapter CXI.—The two advents were signified by the two goats. Other figures of the first advent, in which the Gentiles are freed by the blood of Christ.",
+     "segments": 1
+    },
+    {
+     "file": "0112.json",
+     "ref": "112",
+     "title": "Chapter CXII.—The Jews expound these signs jejunely and feebly, and take up their attention only with insignificant matters.",
+     "segments": 1
+    },
+    {
+     "file": "0113.json",
+     "ref": "113",
+     "title": "Chapter CXIII.—Joshua was a figure of Christ.",
+     "segments": 1
+    },
+    {
+     "file": "0114.json",
+     "ref": "114",
+     "title": "Chapter CXIV.—Some rules for discerning what is said about Christ. The circumcision of the Jews is very different from that which Christians receive.",
+     "segments": 1
+    },
+    {
+     "file": "0115.json",
+     "ref": "115",
+     "title": "Chapter CXV.—Prediction about the Christians in Zechariah. The malignant way which the Jews have in disputations.",
+     "segments": 3
+    },
+    {
+     "file": "0116.json",
+     "ref": "116",
+     "title": "Chapter CXVI.—It is shown how this prophecy suits the Christians.",
+     "segments": 1
+    },
+    {
+     "file": "0117.json",
+     "ref": "116~2",
+     "title": "Chapter CXVI.—It is shown how this prophecy suits the Christians.",
+     "segments": 1
+    },
+    {
+     "file": "0118.json",
+     "ref": "117",
+     "title": "Chapter CXVII.—Malachi’s prophecy concerning the sacrifices of the Christians. It cannot be taken as referring to the prayers of Jews of the dispersion.",
+     "segments": 1
+    },
+    {
+     "file": "0119.json",
+     "ref": "118",
+     "title": "Chapter CXVIII.—He exhorts to repentance before Christ comes; in whom Christians, since they believe, are far more religious than Jews.",
+     "segments": 3
+    },
+    {
+     "file": "0120.json",
+     "ref": "119",
+     "title": "Chapter CXIX.—Christians are the holy people promised to Abraham. They have been called like Abraham.",
+     "segments": 1
+    },
+    {
+     "file": "0121.json",
+     "ref": "120",
+     "title": "Chapter CXX.—Christians were promised to Isaac, Jacob, and Judah.",
+     "segments": 1
+    },
+    {
+     "file": "0122.json",
+     "ref": "121",
+     "title": "Chapter CXXI.—From the fact that the Gentiles believe in Jesus, it is evident that He is Christ.",
+     "segments": 1
+    },
+    {
+     "file": "0123.json",
+     "ref": "122",
+     "title": "Chapter CXXII.—The Jews understand this of the proselytes without reason.",
+     "segments": 3
+    },
+    {
+     "file": "0124.json",
+     "ref": "123",
+     "title": "Chapter CXXIII.—Ridiculous interpretations of the Jews. Christians are the true Israel.",
+     "segments": 3
+    },
+    {
+     "file": "0125.json",
+     "ref": "124",
+     "title": "Chapter CXXIV.—Christians are the sons of God.",
+     "segments": 1
+    },
+    {
+     "file": "0126.json",
+     "ref": "125",
+     "title": "Chapter CXXV.—He explains what force the word Israel has, and how it suits Christ.",
+     "segments": 1
+    },
+    {
+     "file": "0127.json",
+     "ref": "126",
+     "title": "Chapter CXXVI.—The various names of Christ according to both natures. It is shown that He is God, and appeared to the patriarchs.",
+     "segments": 1
+    },
+    {
+     "file": "0128.json",
+     "ref": "127",
+     "title": "Chapter CXXVII.—These passages of Scripture do not apply to the Father, but to the Word.",
+     "segments": 1
+    },
+    {
+     "file": "0129.json",
+     "ref": "128",
+     "title": "Chapter CXXVIII.—The Word is sent not as an inanimate power, but as a person begotten of the Father’s substance.",
+     "segments": 1
+    },
+    {
+     "file": "0130.json",
+     "ref": "129",
+     "title": "Chapter CXXIX.—That is confirmed from other passages of Scripture.",
+     "segments": 1
+    },
+    {
+     "file": "0131.json",
+     "ref": "130",
+     "title": "Chapter CXXX.—He returns to the conversion of the Gentiles, and shows that it was foretold.",
+     "segments": 1
+    },
+    {
+     "file": "0132.json",
+     "ref": "131",
+     "title": "Chapter CXXXI.—How much more faithful to God the Gentiles are who are converted to Christ than the Jews.",
+     "segments": 1
+    },
+    {
+     "file": "0133.json",
+     "ref": "132",
+     "title": "Chapter CXXXII.—How great the power was of the name of Jesus in the Old Testament.",
+     "segments": 1
+    },
+    {
+     "file": "0134.json",
+     "ref": "133",
+     "title": "Chapter CXXXIII.—The hard-heartedness of the Jews, for whom the Christians pray.",
+     "segments": 1
+    },
+    {
+     "file": "0135.json",
+     "ref": "134",
+     "title": "Chapter CXXXIV.—The marriages of Jacob are a figure of the Church.",
+     "segments": 1
+    },
+    {
+     "file": "0136.json",
+     "ref": "135",
+     "title": "Chapter CXXXV.—Christ is king of Israel, and Christians are the Israelitic race.",
+     "segments": 1
+    },
+    {
+     "file": "0137.json",
+     "ref": "136",
+     "title": "Chapter CXXXVI.—The Jews, in rejecting Christ, rejected God who sent him.",
+     "segments": 1
+    },
+    {
+     "file": "0138.json",
+     "ref": "137",
+     "title": "Chapter CXXXVII.—He exhorts the Jews to be converted.",
+     "segments": 2
+    },
+    {
+     "file": "0139.json",
+     "ref": "138",
+     "title": "Chapter CXXXVIII.—Noah is a figure of Christ, who has regenerated us by water, and faith, and wood: [i.e., the cross.]",
+     "segments": 1
+    },
+    {
+     "file": "0140.json",
+     "ref": "139",
+     "title": "Chapter CXXXIX.—The blessings, and also the curse, pronounced by Noah were prophecies of the future.",
+     "segments": 1
+    },
+    {
+     "file": "0141.json",
+     "ref": "140",
+     "title": "Chapter CXL.—In Christ all are free. The Jews hope for salvation in vain because they are sons of Abraham.",
+     "segments": 1
+    },
+    {
+     "file": "0142.json",
+     "ref": "141",
+     "title": "Chapter CXLI.—Free-will in men and angels.",
+     "segments": 2
+    },
+    {
+     "file": "0143.json",
+     "ref": "142",
+     "title": "Chapter CXLII.—The Jews return thanks, and leave Justin.",
+     "segments": 3
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 142,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 1
+ }
+}

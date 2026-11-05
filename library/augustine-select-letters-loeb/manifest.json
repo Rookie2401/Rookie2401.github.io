@@ -1,0 +1,64 @@
+{
+ "workId": "augustine-select-letters-loeb",
+ "parallel": "segment",
+ "editions": [
+  {
+   "editionId": "select-letters-baxter-lat-perseus",
+   "role": "original",
+   "language": "latin",
+   "credit": "Select Letters (Latin), in Augustine, Select Letters, with an English translation by James Houston Baxter (Loeb Classical Library), ed. James Houston Baxter (London; Cambridge, Massachusetts: William Heinemann Ltd.; Harvard University Press, 1930). Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit): Augustine, Select Letters (Loeb, 1930), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/stoa0040/stoa011/stoa0040.stoa011.perseus-lat2.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 348670,
+   "sourceSha256": "9f881821906a348406a6330ac46498629efd26c64d401b7903c6573d2c84a45e",
+   "leftOut": {
+    "pb": 262,
+    "del": 1
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 46215,
+    "garbledPerThousand": 0,
+    "joinedPerThousand": 0.7,
+    "numbersPerThousand": 0.1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 62
+    }
+   ]
+  },
+  {
+   "editionId": "select-letters-baxter-eng-perseus",
+   "role": "english",
+   "language": "english",
+   "credit": "Select Letters (English), in Augustine, Select Letters, with an English translation by James Houston Baxter (Loeb Classical Library), trans. James Houston Baxter (London; Cambridge, Massachusetts: William Heinemann Ltd.; Harvard University Press, 1930). Perseus Digital Library, Tufts University (PerseusDL/canonical-latinLit): Augustine, Select Letters (Loeb, 1930), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/stoa0040/stoa011/stoa0040.stoa011.perseus-eng1.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 430852,
+   "sourceSha256": "43900375da5b2c5280f7ff21337b6720ce0b631145a2f177ec73274b8b57325d",
+   "leftOut": {
+    "pb": 262
+   },
+   "segmentRefs": "citation",
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 62
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "divisionOnly": [],
+  "missingInOriginal": [],
+  "missingInEnglish": []
+ }
+}

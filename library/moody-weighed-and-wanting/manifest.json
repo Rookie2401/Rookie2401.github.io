@@ -1,0 +1,522 @@
+{
+ "workId": "moody-weighed-and-wanting",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "moody-weighed-and-wanting-gutenberg",
+   "role": "english",
+   "language": "english",
+   "credit": "Weighed and Wanting: Addresses on the Ten Commandments, in Project Gutenberg eBook #33340 (Chicago; New York; Toronto: Fleming H. Revell Company, 1898). Transcription: Keith G. Richardson (Project Gutenberg producer) (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/33340/pg33340.txt",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 197436,
+   "sourceSha256": "6209df4fa11806c15b8fdfc9c61dc5d8908559d018233d125ad6b4b404a26ed8",
+   "leftOut": {
+    "transcriberNote": 1
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "https://www.gutenberg.org/cache/epub/33340/pg33340.txt",
+     "bytes": 197436,
+     "sha256": "6209df4fa11806c15b8fdfc9c61dc5d8908559d018233d125ad6b4b404a26ed8"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "s1",
+     "title": "s1",
+     "segments": 3
+    },
+    {
+     "file": "0002.json",
+     "ref": "s2",
+     "title": "D. L. MOODY",
+     "segments": 19
+    },
+    {
+     "file": "0003.json",
+     "ref": "s4",
+     "title": "EXODUS 20: 3-17.",
+     "segments": 12
+    },
+    {
+     "file": "0004.json",
+     "ref": "s5",
+     "title": "THE EASTERN FEAST.",
+     "segments": 13
+    },
+    {
+     "file": "0005.json",
+     "ref": "s6",
+     "title": "GOD'S HANDWRITING.",
+     "segments": 8
+    },
+    {
+     "file": "0006.json",
+     "ref": "s7",
+     "title": "AN INFIDEL'S TESTIMONY.",
+     "segments": 7
+    },
+    {
+     "file": "0007.json",
+     "ref": "s8",
+     "title": "BINDING TO-DAY.",
+     "segments": 12
+    },
+    {
+     "file": "0008.json",
+     "ref": "s9",
+     "title": "FEELING AFTER GOD.",
+     "segments": 4
+    },
+    {
+     "file": "0009.json",
+     "ref": "s10",
+     "title": "THE ISRAELITES WERE EXPOSED TO DANGER.",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "s11",
+     "title": "NO COMPROMISE.",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "s12",
+     "title": "GOD'S PRUNING-KNIFE.",
+     "segments": 3
+    },
+    {
+     "file": "0012.json",
+     "ref": "s13",
+     "title": "FALSE GODS IN AMERICA TO-DAY.",
+     "segments": 6
+    },
+    {
+     "file": "0013.json",
+     "ref": "s14",
+     "title": "MOSES' FAREWELL MESSAGE.",
+     "segments": 10
+    },
+    {
+     "file": "0014.json",
+     "ref": "s15",
+     "title": "NO CONSOLATION EXCEPT IN GOD.",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "s16",
+     "title": "WHOLE-HEARTED ALLEGIANCE.",
+     "segments": 10
+    },
+    {
+     "file": "0016.json",
+     "ref": "s17",
+     "title": "A QUESTION.",
+     "segments": 5
+    },
+    {
+     "file": "0017.json",
+     "ref": "s18",
+     "title": "THE FOLLY OF IMAGES.",
+     "segments": 4
+    },
+    {
+     "file": "0018.json",
+     "ref": "s19",
+     "title": "PICTURES AND IMAGES.",
+     "segments": 8
+    },
+    {
+     "file": "0019.json",
+     "ref": "s20",
+     "title": "THE INDWELLING CHRIST.",
+     "segments": 9
+    },
+    {
+     "file": "0020.json",
+     "ref": "s21",
+     "title": "USING GOD'S NAME IRREVERENTLY.",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "s22",
+     "title": "USING GOD'S NAME PROFANELY.",
+     "segments": 8
+    },
+    {
+     "file": "0022.json",
+     "ref": "s23",
+     "title": "A SENSELESS HABIT.",
+     "segments": 4
+    },
+    {
+     "file": "0023.json",
+     "ref": "s24",
+     "title": "HOW TO KEEP FROM SWEARING.",
+     "segments": 21
+    },
+    {
+     "file": "0024.json",
+     "ref": "s25",
+     "title": "HOW TO OBSERVE THE SABBATH.",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "s26",
+     "title": "I.--CESSATION FROM SECULAR WORK.",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "s27",
+     "title": "WORKS OF NECESSITY AND OF EMERGENCY.",
+     "segments": 4
+    },
+    {
+     "file": "0027.json",
+     "ref": "s28",
+     "title": "SABBATH TRAVELING.",
+     "segments": 4
+    },
+    {
+     "file": "0028.json",
+     "ref": "s29",
+     "title": "SABBATH TRADING.",
+     "segments": 4
+    },
+    {
+     "file": "0029.json",
+     "ref": "s30",
+     "title": "NECESSARY AND BENEFICIAL.",
+     "segments": 3
+    },
+    {
+     "file": "0030.json",
+     "ref": "s31",
+     "title": "II.--RELIGIOUS ACTIVITY.",
+     "segments": 4
+    },
+    {
+     "file": "0031.json",
+     "ref": "s32",
+     "title": "PUBLIC WORSHIP.",
+     "segments": 4
+    },
+    {
+     "file": "0032.json",
+     "ref": "s33",
+     "title": "A REMINISCENCE.",
+     "segments": 4
+    },
+    {
+     "file": "0033.json",
+     "ref": "s34",
+     "title": "HOME OBSERVANCE.",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "s35",
+     "title": "PRIVATE OBSERVANCE.",
+     "segments": 3
+    },
+    {
+     "file": "0035.json",
+     "ref": "s36",
+     "title": "SABBATH DESECRATION.",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "s37",
+     "title": "THE SUNDAY NEWSPAPER.",
+     "segments": 7
+    },
+    {
+     "file": "0037.json",
+     "ref": "s38",
+     "title": "PUNISHMENT OR BLESSING?",
+     "segments": 3
+    },
+    {
+     "file": "0038.json",
+     "ref": "s39",
+     "title": "A FIRM STAND.",
+     "segments": 9
+    },
+    {
+     "file": "0039.json",
+     "ref": "s40",
+     "title": "BEGIN IN THE HOME.",
+     "segments": 4
+    },
+    {
+     "file": "0040.json",
+     "ref": "s41",
+     "title": "HONOR THY MOTHER.",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "s42",
+     "title": "TEMPORAL BLESSING OR CURSE.",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "s43",
+     "title": "A MOTHER'S LOVE.",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "s44",
+     "title": "FILIAL INGRATITUDE.",
+     "segments": 11
+    },
+    {
+     "file": "0044.json",
+     "ref": "s45",
+     "title": "A BRIGHTER PICTURE.",
+     "segments": 7
+    },
+    {
+     "file": "0045.json",
+     "ref": "s46",
+     "title": "AN EXHORTATION.",
+     "segments": 12
+    },
+    {
+     "file": "0046.json",
+     "ref": "s47",
+     "title": "THE VALUE OF A MAN.",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "s48",
+     "title": "SUICIDE.",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "s49",
+     "title": "OTHER KINDS OF MURDER.",
+     "segments": 6
+    },
+    {
+     "file": "0049.json",
+     "ref": "s50",
+     "title": "THE WORDS OF CHRIST.",
+     "segments": 12
+    },
+    {
+     "file": "0050.json",
+     "ref": "s51",
+     "title": "PLAIN SPEAKING.",
+     "segments": 4
+    },
+    {
+     "file": "0051.json",
+     "ref": "s52",
+     "title": "MARRIAGE AND THE HOME.",
+     "segments": 1
+    },
+    {
+     "file": "0052.json",
+     "ref": "s53",
+     "title": "THE DEVIL'S COUNTERFEIT.",
+     "segments": 4
+    },
+    {
+     "file": "0053.json",
+     "ref": "s54",
+     "title": "THE PRODIGAL DAUGHTER.",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "s55",
+     "title": "GOD'S COMING JUDGMENT.",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "s56",
+     "title": "AN EVIL HARVEST.",
+     "segments": 6
+    },
+    {
+     "file": "0056.json",
+     "ref": "s57",
+     "title": "ARE YOU GUILTY?",
+     "segments": 19
+    },
+    {
+     "file": "0057.json",
+     "ref": "s58",
+     "title": "WHERE THE STREAM STARTS.",
+     "segments": 3
+    },
+    {
+     "file": "0058.json",
+     "ref": "s59",
+     "title": "GOD'S WEIGHTS.",
+     "segments": 5
+    },
+    {
+     "file": "0059.json",
+     "ref": "s60",
+     "title": "STOLEN GOODS A BURDEN.",
+     "segments": 3
+    },
+    {
+     "file": "0060.json",
+     "ref": "s61",
+     "title": "RESTITUTION.",
+     "segments": 11
+    },
+    {
+     "file": "0061.json",
+     "ref": "s62",
+     "title": "TRUTH NECESSARY.",
+     "segments": 2
+    },
+    {
+     "file": "0062.json",
+     "ref": "s63",
+     "title": "PERJURY.",
+     "segments": 2
+    },
+    {
+     "file": "0063.json",
+     "ref": "s64",
+     "title": "LYING.",
+     "segments": 1
+    },
+    {
+     "file": "0064.json",
+     "ref": "s65",
+     "title": "SLANDER.",
+     "segments": 5
+    },
+    {
+     "file": "0065.json",
+     "ref": "s66",
+     "title": "A TEST OF TRUE RELIGION.",
+     "segments": 1
+    },
+    {
+     "file": "0066.json",
+     "ref": "s67",
+     "title": "FOR GOOD OR EVIL.",
+     "segments": 2
+    },
+    {
+     "file": "0067.json",
+     "ref": "s68",
+     "title": "WORDS NEVER CALLED BACK.",
+     "segments": 2
+    },
+    {
+     "file": "0068.json",
+     "ref": "s69",
+     "title": "THE FATE OF THE LIAR AND SLANDERER.",
+     "segments": 1
+    },
+    {
+     "file": "0069.json",
+     "ref": "s70",
+     "title": "HOW TO OVERCOME.",
+     "segments": 13
+    },
+    {
+     "file": "0070.json",
+     "ref": "s71",
+     "title": "A SEARCHING COMMANDMENT.",
+     "segments": 6
+    },
+    {
+     "file": "0071.json",
+     "ref": "s72",
+     "title": "GODS THOUGHTS ABOUT COVETOUSNESS.",
+     "segments": 8
+    },
+    {
+     "file": "0072.json",
+     "ref": "s73",
+     "title": "A SORE EVIL.",
+     "segments": 4
+    },
+    {
+     "file": "0073.json",
+     "ref": "s74",
+     "title": "A TEMPTATION AND A SNARE.",
+     "segments": 11
+    },
+    {
+     "file": "0074.json",
+     "ref": "s75",
+     "title": "A ROOT EXTRACTOR.",
+     "segments": 6
+    },
+    {
+     "file": "0075.json",
+     "ref": "s76",
+     "title": "HOW TO OVERCOME.",
+     "segments": 15
+    },
+    {
+     "file": "0076.json",
+     "ref": "s77",
+     "title": "ONE LAW, NOT TEN.",
+     "segments": 2
+    },
+    {
+     "file": "0077.json",
+     "ref": "s78",
+     "title": "ALL HAVE COME SHORT.",
+     "segments": 2
+    },
+    {
+     "file": "0078.json",
+     "ref": "s79",
+     "title": "FALSE WEIGHTS.",
+     "segments": 4
+    },
+    {
+     "file": "0079.json",
+     "ref": "s80",
+     "title": "LOVE THE FULFILLING OF THE LAW.",
+     "segments": 2
+    },
+    {
+     "file": "0080.json",
+     "ref": "s81",
+     "title": "ARE YOU READY?",
+     "segments": 3
+    },
+    {
+     "file": "0081.json",
+     "ref": "s82",
+     "title": "WORKS BY G. CAMPBELL MORGAN",
+     "segments": 25
+    },
+    {
+     "file": "0082.json",
+     "ref": "s84",
+     "title": "THE WITH CHRIST SERIES",
+     "segments": 16
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1242 @@
+{
+ "workId": "ambrose-duties-of-ministers",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "ambrose-duties-of-ministers-npnf2-de-romestin-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "On the Duties of the Clergy, in A Select Library of Nicene and Post-Nicene Fathers, series II, vol. 10 (Ambrose: Select Works and Letters), trans. H. de Romestin, with E. de Romestin and H. T. F. Duckworth (volume title page) (New York: The Christian Literature Company, 1896). Wikisource contributors, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_X/Works/On_the_Duties_of_the_Clergy",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 536589,
+   "sourceSha256": "3f17d83809c3a12c9101ec288a159cc34f63dfd1504996fcb6fb2f1480c1a91a",
+   "leftOut": {
+    "note": 756
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 1",
+     "bytes": 4568,
+     "sha256": "a234b60def5ad0b15b340c4779af943e0343ed034e23ff1ed078f593659e6cf3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 10",
+     "bytes": 5355,
+     "sha256": "06b2c01d71a2838272108db3e152b1dd35a449228e4d77bb6cccae8ba965458d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 11",
+     "bytes": 4379,
+     "sha256": "349955ecec5362c4ec6a791dad712e35b9196d7865ff7d080f425774b316773e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 12",
+     "bytes": 7249,
+     "sha256": "8e6abaefbd1ba9f9d78365b16c4be49bd378403435d636219db042224db4b63f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 13",
+     "bytes": 4165,
+     "sha256": "8cea63b5a85270400de0eb05919e0b943f4df7e22ea5366754351219b6e06c98"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 14",
+     "bytes": 5837,
+     "sha256": "07fd2b6c71a578b4077ca9b666f7f42936994666bd8fc65644f43ffe14ac625f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 15",
+     "bytes": 2943,
+     "sha256": "a49a7fd9686111f1157872720f0bafbfdcaf9b4e94c4e16e774d460cc4e0f760"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 16",
+     "bytes": 6296,
+     "sha256": "b521b8bbaed55acee213ecb164d9c5fc7b26a3e632ba94dc04e0d3475e34d493"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 17",
+     "bytes": 2824,
+     "sha256": "11878b6e679e4447d6e8c4b791258aabba3b341e7bd347787e3432f4e2cc4e60"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 18",
+     "bytes": 12587,
+     "sha256": "aa3ec46832b35f152e7cc7aa750c7f6976ec71d50b1289b1342e7b599829b7d5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 19",
+     "bytes": 3448,
+     "sha256": "233736c90d1143f3958b187216be27498da81b67fc51e71b5061f3e9007fa77d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 2",
+     "bytes": 4751,
+     "sha256": "396ed728f449ac584e5ccaf8a449e5054874d0c015a996184e975be344a2707e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 20",
+     "bytes": 3925,
+     "sha256": "745a9999424c9e1d4e892d8b143e360dd7b9608318cdbe4caea424553eedc47b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 21",
+     "bytes": 8113,
+     "sha256": "22976608bd684506c3f1a5d6aa9b98af1e0dc49d1398aa470d5bea7f16f0e490"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 22",
+     "bytes": 4257,
+     "sha256": "7921eb1873e2b8386f0e0ab325b34c9f7f69b4450c38a230f1c57f6cf46bf9d5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 23",
+     "bytes": 2405,
+     "sha256": "a1a3ab357ef226bac12c45b6e3cb2c05f0cc13761ae3c789c49f6acce4d31860"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 24",
+     "bytes": 8348,
+     "sha256": "d97c9eb498656c3c59268024060f4eac94c34a895977e01c00e56b9035eaff53"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 25",
+     "bytes": 8079,
+     "sha256": "b50a70a7e029a7fe5570bb7cb166c64831f9036128ee6632abbf16aa9f1449a9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 26",
+     "bytes": 4327,
+     "sha256": "8a4071d77a55f7be0ea93e63d40b74dd5a96bdf348bcf34ac494210c3f13eb08"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 27",
+     "bytes": 4532,
+     "sha256": "de06510ced423d26e09fa68dc2ea999c0a9c8ad1a3121bb6aea3ee0ee5a90b3d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 28",
+     "bytes": 6391,
+     "sha256": "72d2017da81f323917dee02f779676cd8fca5b6b06f4d74457b22a67919d98f7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 29",
+     "bytes": 6029,
+     "sha256": "c8f68502e4bf8b1951d09478f9f0ec5f075e95611a668bcdfc8a684d8fa21a6a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 3",
+     "bytes": 5016,
+     "sha256": "f5daec6e0faa4e43d914925e5116eba378fbc9e43c9f80764ecdd312f9fbd64e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 30",
+     "bytes": 13683,
+     "sha256": "1a45ae2dd1d0bfcc0950222c41ae8bfd060897972c4679ca4241ae3d6a0b0906"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 31",
+     "bytes": 5655,
+     "sha256": "bc5bd70ac4aaba3c735ce8542e2e6c0504fc4ea45acb47418effea76bfa7203f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 32",
+     "bytes": 5815,
+     "sha256": "1ed37ec23ac56fab1d5379d8d0435a2ef69ea0332533ab17c1392b55205bc1c2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 33",
+     "bytes": 3015,
+     "sha256": "c44157e41527c7f62e103c55d1426c39ee4b7f0b993c17a3d29ad33e8b77839d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 34",
+     "bytes": 2159,
+     "sha256": "e14836747d94d805195aec45615d426895ae82bbd176d7389108871895a30372"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 35",
+     "bytes": 3703,
+     "sha256": "03d8f5fb07d2ddf58665fcadeefad3a9fa2767f7dd7c853e78d7706e6bca245e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 36",
+     "bytes": 7348,
+     "sha256": "ddceac2b7ba1d32c1d5cb05cc423607e7e8cdf79715a92c73cc44cfe90a2086d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 37",
+     "bytes": 2438,
+     "sha256": "d79ae195be92330262e6d895e9052856fe2beaf9246ef46a81b11c45c933b1f0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 38",
+     "bytes": 4385,
+     "sha256": "9a7726f01baa20abcf2b647b4cd18ba7425262de53b85e9dd9b641104b695c48"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 39",
+     "bytes": 3923,
+     "sha256": "5796ce66a0c66996327de475ec6f41d15cb5e74289904ba59e130aae1771a9e9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 4",
+     "bytes": 3323,
+     "sha256": "4c730f9489febe4001b82e5320ba5211abc2100ef43a92de0ee3f31b6602084a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 40",
+     "bytes": 5255,
+     "sha256": "7f890fdbe57d8f359965f3efa8e185d22d8168ed6da3734827a2fc2e86b0902e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 41",
+     "bytes": 7989,
+     "sha256": "0017b7bb46cf802367750ee12af7c8a94232265b3875baeb1e85aeb8fdcb8053"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 42",
+     "bytes": 1538,
+     "sha256": "d45cb3ee7b652b7236d6525c01c66e1d55f7aef48b5c03543fffa123dfc5ea19"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 43",
+     "bytes": 3396,
+     "sha256": "b2903463c2f5d73ba25df8866316e6ca60bd872226b1aeaaff455500aaaaae1a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 44",
+     "bytes": 3463,
+     "sha256": "8ba6618dd1566f411aa34d2b62abd4b8b3af29d2912fb67a1f52427eea369359"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 45",
+     "bytes": 4791,
+     "sha256": "c29e498da1d4c8d588ba959ad2c38645f1b9da7ea7e2780a6529d709af33f252"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 46",
+     "bytes": 3363,
+     "sha256": "d4eef4c47829a12065437ed23b546c69885105abdc8c006f46937c4f438fce11"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 47",
+     "bytes": 4959,
+     "sha256": "2677663696346d541cae14c693c6bc499c12d72c7db6606a02ad46707ec01bfd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 48",
+     "bytes": 6532,
+     "sha256": "64d90acf4f39900846f91723194878272bb07bf111e9058577faa759bffd00ae"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 49",
+     "bytes": 5068,
+     "sha256": "c7a8b33ae99209a40a4ad87af48df2bb0af3b2b26ab0a10988b54a5b81a1254a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 5",
+     "bytes": 4047,
+     "sha256": "67928ce31034a2a8d1aefd448bf08c1bc28d87d650c23e83573c1023020ff60a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 50",
+     "bytes": 13710,
+     "sha256": "853d28e07d2bd6def607302879e63b945d44bfba09edb8a01d5c8353fe3c6c57"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 6",
+     "bytes": 2242,
+     "sha256": "b41de9a4fa590690286232499d72aaa7c910efff0fb5e3ecfa5236baacc0a194"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 7",
+     "bytes": 3374,
+     "sha256": "6c1496a19b771e25e177b0663c873f021836aa0e048d067166d5b423f758eda8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 8",
+     "bytes": 2750,
+     "sha256": "a40b060a18a0971355f6bce5a1a2589335cd1fbb9d7b2f1c661cccebb4fae753"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book I/Chapter 9",
+     "bytes": 3334,
+     "sha256": "aefa30de3b49ef8c3c2893641ca1cfbff2c53f4adfc52371900e679a2840f4fd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 1",
+     "bytes": 3274,
+     "sha256": "32e9905115c5f253e1b148d95f809df303e873cf982f799bbe42c06592d602ed"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 10",
+     "bytes": 4844,
+     "sha256": "3ac0b6095687ec59236a389a983cc6baef51431d0587dda29602ae485e5cdb86"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 11",
+     "bytes": 2992,
+     "sha256": "c377da921d0662796f1975db800e4749ddde405858de6aed75c09b5cd63fe0ba"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 12",
+     "bytes": 3256,
+     "sha256": "a9fc11207284d04e9b6c11d72402a8face6a594fcadca74b752f77809c7320ef"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 13",
+     "bytes": 2122,
+     "sha256": "541039bcd500170ab840e929809803daca558234cc638cc3d6521651799049c2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 14",
+     "bytes": 2742,
+     "sha256": "bdaad96bb77af246958ab7f6fdb2b7fb5d619e83976498471e7c701141df65ff"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 15",
+     "bytes": 6279,
+     "sha256": "d5e68811a68978e3e53334cb6bd632a1894ccaf62d7e52e9f4d36e539cc5e324"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 16",
+     "bytes": 9814,
+     "sha256": "e355f59e54d423443908d6f9e85f05b94f6bcc98e8c1e31a05ae7f633f25678c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 17",
+     "bytes": 6637,
+     "sha256": "3daebe4e75b64664de7ed2014f890473048fd0ef03d2880df0d7da4eefaeacda"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 18",
+     "bytes": 2075,
+     "sha256": "a06988dd601c743a4bba2d0811f98414e0ed7f36f8fe6fa789950a28c7d87cf4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 19",
+     "bytes": 2313,
+     "sha256": "77f9c6350367df06283fe0108083af8f0e4aaf22df1bc749b51b57817e948697"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 2",
+     "bytes": 6873,
+     "sha256": "ce0256cd896af18d8c7d77696745ac6461436df6413b86d98bbe9e70f3b02bdb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 20",
+     "bytes": 4914,
+     "sha256": "0caa33b88a62564ae370b32bf6868fe60bb225779d9699942f2ea2d9e0572b97"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 21",
+     "bytes": 7531,
+     "sha256": "3254c8c7113963425492d8148d9ac91e0e9e6256ce63a9958ea5f7a179a980f0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 22",
+     "bytes": 4030,
+     "sha256": "bd76d29c764b2e853c76bad39e8938b08a3a08ef6e077287bb5df84666804c42"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 23",
+     "bytes": 2084,
+     "sha256": "bd93bc34f110e5f200def5e6126c994d231eb93b0428157f45ee88e2201ca719"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 24",
+     "bytes": 5068,
+     "sha256": "8aa8773423c3070c232ab28473ec7de3e0b58f0510ee81705f4038a2dc9a8f9e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 25",
+     "bytes": 4315,
+     "sha256": "3033b51b48d7d6afa5165d3032cb30a0d67fd10911b7af2fa8d14bf1eda687c9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 26",
+     "bytes": 4180,
+     "sha256": "91774bc4ac8b988475028278cbb78c675217ea074950d833caba6e666166e7d1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 27",
+     "bytes": 2575,
+     "sha256": "f7a2c394a6fb6fa3b2a06ac49ea000122f2aca8b0d1ae436febbd5a49a844b6a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 28",
+     "bytes": 7718,
+     "sha256": "77133468fa9a55423063adc7b16ebd341c35c7085b5e01b48a88c5feec7a9bed"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 29",
+     "bytes": 6664,
+     "sha256": "e69da747c5ab3a278db6c56b706cfb8c110d5bb9560420d9c323f0ab4df71d4b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 3",
+     "bytes": 3084,
+     "sha256": "83b1cf0ec9d7c756644ded0df8a893bc9e5fe97de46df9a78c133c567e2e6dbb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 30",
+     "bytes": 3107,
+     "sha256": "981cd57eaad96a12f5321b187414189a60b5e5732a3916b82739ef9f3d0b0cee"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 4",
+     "bytes": 4860,
+     "sha256": "11a1413f8b56a60c44b9e76d021f09ff30ad64caa0fb11f542900ad784da3f01"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 5",
+     "bytes": 5660,
+     "sha256": "63bd8f3e10d2d6677f55d5c39245481da8e3ee853fe7af4ac8d3120299d1065b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 6",
+     "bytes": 5796,
+     "sha256": "00380363fe0e3f0d00fd8e32325307cca3f4dfc856484727285b77215c6560c9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 7",
+     "bytes": 10250,
+     "sha256": "3d6063cda8187fcdd2fbb5182cb5dafe407a2f34f56897cb4aaf400d3df09dea"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 8",
+     "bytes": 6469,
+     "sha256": "c36327f51358fca4de4c2178b14e2df8636addfc476395a2e8e390e0e3b96b46"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book II/Chapter 9",
+     "bytes": 2565,
+     "sha256": "b31a760c5a34bd1ab5635606e0efa71e293aea78448599f24d945f3bd6f444cc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book III/Chapter 1",
+     "bytes": 7454,
+     "sha256": "faee337cd06846bc350296d71d2b00a9ac574615da85a758ab47891e9fe80082"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book III/Chapter 10",
+     "bytes": 5189,
+     "sha256": "0deb707fecb957da181c7ac37790d82b5c5aef41e93b9a4820e40dc31af9f264"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book III/Chapter 11",
+     "bytes": 5493,
+     "sha256": "9a21e5595b2a39a9a40604210a14aafc237bcfa27be3dc8203fe102c94978d31"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book III/Chapter 12",
+     "bytes": 6470,
+     "sha256": "ffbb6d1f6d8640a32bc503d6bd70ed55d6f0b1f742c72fb7ca30a4145d23e759"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book III/Chapter 13",
+     "bytes": 3059,
+     "sha256": "6b900e216d66135964d1024e38698bfd2350e401c34b97910a59a97ef71da014"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book III/Chapter 14",
+     "bytes": 4606,
+     "sha256": "d751dede1a60a0de076c5348efea194621f2c1c438355bc406c9fc7eaab39e9e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book III/Chapter 15",
+     "bytes": 5184,
+     "sha256": "b3129eb136d631cfee56257f76a5277ab08be04725017139796e2e828d1c7769"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book III/Chapter 16",
+     "bytes": 2449,
+     "sha256": "2a07182ac03886d5a60ca8ca088e12c8065a274637dd4c578b4913b14321777f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book III/Chapter 17",
+     "bytes": 5345,
+     "sha256": "a92b1866ed509c2da4d7b64a284a8694d45b786aecc806692aeb7b261a601115"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book III/Chapter 18",
+     "bytes": 6086,
+     "sha256": "1155c23319e0f48fb44baefb55a214168c0bdb513d91b83523b964493b6ae0ac"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book III/Chapter 19",
+     "bytes": 6381,
+     "sha256": "c1c1a2864fe0f7709abbd88eec4ee1539e6b58bfa18bc35dcdb56bdb2f67c568"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book III/Chapter 2",
+     "bytes": 6750,
+     "sha256": "dfeff204e54e6ce3fca7a13287d57b37710b8c7b0a99dbdbca13d37523723977"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book III/Chapter 20",
+     "bytes": 5231,
+     "sha256": "9bf0237c529aa5d2bacf0cd4ca5846565b82714d541f1bc3b0b09f67b38ad878"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book III/Chapter 21",
+     "bytes": 2539,
+     "sha256": "df952a17bc42db46668cc28abc41dc2b11faee551469b313628ccfddccdb9267"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book III/Chapter 22",
+     "bytes": 11804,
+     "sha256": "3e073484bf20f13f4158df650b7b7b3b208ee7b92832ce9b1a35d6890d0f8713"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book III/Chapter 3",
+     "bytes": 8551,
+     "sha256": "bb600f7455d0d0ee74615676583d216c3b2e3c1871108f037ece6470c7a0c673"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book III/Chapter 4",
+     "bytes": 5034,
+     "sha256": "7e7cbc4dfa7c211a436ff022bc089f65e45209a7d4607c4e1cc8b526122e29bd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book III/Chapter 5",
+     "bytes": 8297,
+     "sha256": "68ee0b202c2fa094e537f6cc80f89ee7a5f2217570609fd64c7b399d894df2be"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book III/Chapter 6",
+     "bytes": 7586,
+     "sha256": "2a549c08e200dcdf98bfddf3703030d5f96917a6fe3994bbe5946ddc42b03438"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book III/Chapter 7",
+     "bytes": 7211,
+     "sha256": "b95358a0025b9bc21f9436d8ee6b8a4ef208c9eed7242014e3a7504835054533"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book III/Chapter 8",
+     "bytes": 3311,
+     "sha256": "f8d52343891bef47cfcc9915881d2bd16b58981411c1901aa1731119f8d008f9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Book III/Chapter 9",
+     "bytes": 7813,
+     "sha256": "51ae5f84e905cb2944b74ba4c9cdcb2e7c9aad5ec03c3a7ef89682a927d997af"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Duties of the Clergy/Introduction",
+     "bytes": 3573,
+     "sha256": "5c8c152a3b1047fbc2f0dc826b409fef8d0e18922e62825fe2c02964dde5914a"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.1.front",
+     "title": "Chapter I.",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.1.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.2",
+     "title": "Chapter II.",
+     "segments": 5
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.3",
+     "title": "Chapter III.",
+     "segments": 6
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.4",
+     "title": "Chapter IV.",
+     "segments": 4
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.5",
+     "title": "Chapter V.",
+     "segments": 5
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.6",
+     "title": "Chapter VI.",
+     "segments": 3
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.7",
+     "title": "Chapter VII.",
+     "segments": 3
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.8",
+     "title": "Chapter VIII.",
+     "segments": 3
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.9",
+     "title": "Chapter IX.",
+     "segments": 4
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.10",
+     "title": "Chapter X.",
+     "segments": 8
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.11",
+     "title": "Chapter XI.",
+     "segments": 5
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.12",
+     "title": "Chapter XII.",
+     "segments": 8
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.13",
+     "title": "Chapter XIII.",
+     "segments": 5
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.14",
+     "title": "Chapter XIV.",
+     "segments": 7
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.15",
+     "title": "Chapter XV.",
+     "segments": 3
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.16",
+     "title": "Chapter XVI.",
+     "segments": 7
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.17",
+     "title": "Chapter XVII.",
+     "segments": 3
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.18",
+     "title": "Chapter XVIII.",
+     "segments": 15
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.19",
+     "title": "Chapter XIX.",
+     "segments": 5
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.20",
+     "title": "Chapter XX.",
+     "segments": 6
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.21",
+     "title": "Chapter XXI.",
+     "segments": 9
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.22",
+     "title": "Chapter XXII.",
+     "segments": 5
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.23",
+     "title": "Chapter XXIII.",
+     "segments": 4
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.24",
+     "title": "Chapter XXIV.",
+     "segments": 12
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.25",
+     "title": "Chapter XXV.",
+     "segments": 7
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.26",
+     "title": "Chapter XXVI.",
+     "segments": 5
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.27",
+     "title": "Chapter XXVII.",
+     "segments": 5
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.28",
+     "title": "Chapter XXVIII.",
+     "segments": 10
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.29",
+     "title": "Chapter XXIX.",
+     "segments": 5
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.30",
+     "title": "Chapter XXX.",
+     "segments": 18
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.31",
+     "title": "Chapter XXXI.",
+     "segments": 6
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.32",
+     "title": "Chapter XXXII.",
+     "segments": 6
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.33",
+     "title": "Chapter XXXIII.",
+     "segments": 4
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.34",
+     "title": "Chapter XXXIV.",
+     "segments": 4
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.35",
+     "title": "Chapter XXXV.",
+     "segments": 5
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.36",
+     "title": "Chapter XXXVI.",
+     "segments": 8
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.37",
+     "title": "Chapter XXXVII.",
+     "segments": 3
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.38",
+     "title": "Chapter XXXVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.39",
+     "title": "Chapter XXXIX.",
+     "segments": 4
+    },
+    {
+     "file": "0044.json",
+     "ref": "1.40",
+     "title": "Chapter XL.",
+     "segments": 5
+    },
+    {
+     "file": "0045.json",
+     "ref": "1.41",
+     "title": "Chapter XLI.",
+     "segments": 9
+    },
+    {
+     "file": "0046.json",
+     "ref": "1.42",
+     "title": "Chapter XLII.",
+     "segments": 3
+    },
+    {
+     "file": "0047.json",
+     "ref": "1.43",
+     "title": "Chapter XLIII.",
+     "segments": 6
+    },
+    {
+     "file": "0048.json",
+     "ref": "1.44",
+     "title": "Chapter XLIV.",
+     "segments": 5
+    },
+    {
+     "file": "0049.json",
+     "ref": "1.45",
+     "title": "Chapter XLV.",
+     "segments": 5
+    },
+    {
+     "file": "0050.json",
+     "ref": "1.46",
+     "title": "Chapter XLVI.",
+     "segments": 4
+    },
+    {
+     "file": "0051.json",
+     "ref": "1.47",
+     "title": "Chapter XLVII.",
+     "segments": 9
+    },
+    {
+     "file": "0052.json",
+     "ref": "1.48",
+     "title": "Chapter XLVIII.",
+     "segments": 8
+    },
+    {
+     "file": "0053.json",
+     "ref": "1.49",
+     "title": "Chapter XLIX.",
+     "segments": 7
+    },
+    {
+     "file": "0054.json",
+     "ref": "1.50",
+     "title": "Chapter L.",
+     "segments": 15
+    },
+    {
+     "file": "0055.json",
+     "ref": "2.1.front",
+     "title": "Chapter I.",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "2.1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0057.json",
+     "ref": "2.1.2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0058.json",
+     "ref": "2.1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0059.json",
+     "ref": "2.2",
+     "title": "Chapter II.",
+     "segments": 6
+    },
+    {
+     "file": "0060.json",
+     "ref": "2.3",
+     "title": "Chapter III.",
+     "segments": 3
+    },
+    {
+     "file": "0061.json",
+     "ref": "2.4",
+     "title": "Chapter IV.",
+     "segments": 7
+    },
+    {
+     "file": "0062.json",
+     "ref": "2.5",
+     "title": "Chapter V.",
+     "segments": 8
+    },
+    {
+     "file": "0063.json",
+     "ref": "2.6",
+     "title": "Chapter VI.",
+     "segments": 8
+    },
+    {
+     "file": "0064.json",
+     "ref": "2.7",
+     "title": "Chapter VII.",
+     "segments": 15
+    },
+    {
+     "file": "0065.json",
+     "ref": "2.8",
+     "title": "Chapter VIII.",
+     "segments": 10
+    },
+    {
+     "file": "0066.json",
+     "ref": "2.9",
+     "title": "Chapter IX.",
+     "segments": 3
+    },
+    {
+     "file": "0067.json",
+     "ref": "2.10",
+     "title": "Chapter X.",
+     "segments": 8
+    },
+    {
+     "file": "0068.json",
+     "ref": "2.11",
+     "title": "Chapter XI.",
+     "segments": 5
+    },
+    {
+     "file": "0069.json",
+     "ref": "2.12",
+     "title": "Chapter XII.",
+     "segments": 6
+    },
+    {
+     "file": "0070.json",
+     "ref": "2.13",
+     "title": "Chapter XIII.",
+     "segments": 3
+    },
+    {
+     "file": "0071.json",
+     "ref": "2.14",
+     "title": "Chapter XIV.",
+     "segments": 3
+    },
+    {
+     "file": "0072.json",
+     "ref": "2.15",
+     "title": "Chapter XV.",
+     "segments": 10
+    },
+    {
+     "file": "0073.json",
+     "ref": "2.16",
+     "title": "Chapter XVI.",
+     "segments": 12
+    },
+    {
+     "file": "0074.json",
+     "ref": "2.17",
+     "title": "Chapter XVII.",
+     "segments": 9
+    },
+    {
+     "file": "0075.json",
+     "ref": "2.18",
+     "title": "Chapter XVIII.",
+     "segments": 3
+    },
+    {
+     "file": "0076.json",
+     "ref": "2.19",
+     "title": "Chapter XIX.",
+     "segments": 3
+    },
+    {
+     "file": "0077.json",
+     "ref": "2.20",
+     "title": "Chapter XX.",
+     "segments": 7
+    },
+    {
+     "file": "0078.json",
+     "ref": "2.21",
+     "title": "Chapter XXI.",
+     "segments": 12
+    },
+    {
+     "file": "0079.json",
+     "ref": "2.22",
+     "title": "Chapter XXII.",
+     "segments": 6
+    },
+    {
+     "file": "0080.json",
+     "ref": "2.23",
+     "title": "Chapter XXIII.",
+     "segments": 3
+    },
+    {
+     "file": "0081.json",
+     "ref": "2.24",
+     "title": "Chapter XXIV.",
+     "segments": 9
+    },
+    {
+     "file": "0082.json",
+     "ref": "2.25",
+     "title": "Chapter XXV.",
+     "segments": 5
+    },
+    {
+     "file": "0083.json",
+     "ref": "2.26",
+     "title": "Chapter XXVI.",
+     "segments": 5
+    },
+    {
+     "file": "0084.json",
+     "ref": "2.27",
+     "title": "Chapter XXVII.",
+     "segments": 4
+    },
+    {
+     "file": "0085.json",
+     "ref": "2.28",
+     "title": "Chapter XXVIII.",
+     "segments": 10
+    },
+    {
+     "file": "0086.json",
+     "ref": "2.29",
+     "title": "Chapter XXIX.",
+     "segments": 9
+    },
+    {
+     "file": "0087.json",
+     "ref": "2.30",
+     "title": "Chapter XXX.",
+     "segments": 7
+    },
+    {
+     "file": "0088.json",
+     "ref": "3.1.front",
+     "title": "Chapter I.",
+     "segments": 1
+    },
+    {
+     "file": "0089.json",
+     "ref": "3.1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0090.json",
+     "ref": "3.1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0091.json",
+     "ref": "3.1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0092.json",
+     "ref": "3.1.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0093.json",
+     "ref": "3.1.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0094.json",
+     "ref": "3.1.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0095.json",
+     "ref": "3.1.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0096.json",
+     "ref": "3.2",
+     "title": "Chapter II.",
+     "segments": 9
+    },
+    {
+     "file": "0097.json",
+     "ref": "3.3",
+     "title": "Chapter III.",
+     "segments": 11
+    },
+    {
+     "file": "0098.json",
+     "ref": "3.4",
+     "title": "Chapter IV.",
+     "segments": 7
+    },
+    {
+     "file": "0099.json",
+     "ref": "3.5",
+     "title": "Chapter V.",
+     "segments": 10
+    },
+    {
+     "file": "0100.json",
+     "ref": "3.6",
+     "title": "Chapter VI.",
+     "segments": 10
+    },
+    {
+     "file": "0101.json",
+     "ref": "3.7",
+     "title": "Chapter VII.",
+     "segments": 10
+    },
+    {
+     "file": "0102.json",
+     "ref": "3.8",
+     "title": "Chapter VIII.",
+     "segments": 5
+    },
+    {
+     "file": "0103.json",
+     "ref": "3.9",
+     "title": "Chapter IX.",
+     "segments": 12
+    },
+    {
+     "file": "0104.json",
+     "ref": "3.10",
+     "title": "Chapter X.",
+     "segments": 6
+    },
+    {
+     "file": "0105.json",
+     "ref": "3.11",
+     "title": "Chapter XI.",
+     "segments": 7
+    },
+    {
+     "file": "0106.json",
+     "ref": "3.12",
+     "title": "Chapter XII.",
+     "segments": 8
+    },
+    {
+     "file": "0107.json",
+     "ref": "3.13",
+     "title": "Chapter XIII.",
+     "segments": 5
+    },
+    {
+     "file": "0108.json",
+     "ref": "3.14",
+     "title": "Chapter XIV.",
+     "segments": 7
+    },
+    {
+     "file": "0109.json",
+     "ref": "3.15",
+     "title": "Chapter XV.",
+     "segments": 7
+    },
+    {
+     "file": "0110.json",
+     "ref": "3.16",
+     "title": "Chapter XVI.",
+     "segments": 3
+    },
+    {
+     "file": "0111.json",
+     "ref": "3.17",
+     "title": "Chapter XVII.",
+     "segments": 7
+    },
+    {
+     "file": "0112.json",
+     "ref": "3.18",
+     "title": "Chapter XVIII.",
+     "segments": 10
+    },
+    {
+     "file": "0113.json",
+     "ref": "3.19",
+     "title": "Chapter XIX.",
+     "segments": 9
+    },
+    {
+     "file": "0114.json",
+     "ref": "3.20",
+     "title": "Chapter XX.",
+     "segments": 8
+    },
+    {
+     "file": "0115.json",
+     "ref": "3.21",
+     "title": "Chapter XXI.",
+     "segments": 3
+    },
+    {
+     "file": "0116.json",
+     "ref": "3.22",
+     "title": "Chapter XXII.",
+     "segments": 17
+    },
+    {
+     "file": "0117.json",
+     "ref": "p1",
+     "title": "Introduction.",
+     "segments": 6
+    }
+   ]
+  }
+ ]
+}

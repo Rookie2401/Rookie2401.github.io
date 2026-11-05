@@ -1,0 +1,121 @@
+{
+ "workId": "confessions",
+ "editions": [
+  {
+   "editionId": "confessions-knoll-csel33",
+   "language": "la",
+   "variety": "la-late",
+   "textSource": "store",
+   "analysis": {
+    "id": "golearn-la@1",
+    "kind": "analyser",
+    "status": "automatic"
+   },
+   "credit": "GoLearn Latin analyser (adapter-la; Whitaker's Words, Lewis & Short, Perseus treebank form priors, hand-written Vulgate priors); no Latinist has checked its data",
+   "licence": "Whitaker's Words: free for any use; Lewis & Short via Perseus: CC BY-SA 4.0; Perseus Latin Treebank priors: CC BY-SA 3.0; analyser code: the user's own",
+   "source": "local: go-v0-ecclesia/src/adapters/la.ts",
+   "version": "1",
+   "coverage": {
+    "tokens": 78850,
+    "withLemma": 78745,
+    "withMorphology": 54922,
+    "verified": 0,
+    "ambiguous": 37732,
+    "unanalysed": 105
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 32,
+     "tokens": 5181
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 19,
+     "tokens": 2766
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 22,
+     "tokens": 3878
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 32,
+     "tokens": 5060
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 26,
+     "tokens": 4685
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 27,
+     "tokens": 5401
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 28,
+     "tokens": 5935
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 31,
+     "tokens": 5630
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "LIBER NONVS.",
+     "segments": 37,
+     "tokens": 6020
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "LIBER DECIMVS.",
+     "segments": 70,
+     "tokens": 11598
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "LIBER VNDECIMVS.",
+     "segments": 41,
+     "tokens": 6765
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "LIBER DVODECIMVS.",
+     "segments": 43,
+     "tokens": 7262
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "LIBER TERTIVS DECIMVS.",
+     "segments": 53,
+     "tokens": 8669
+    }
+   ]
+  }
+ ]
+}

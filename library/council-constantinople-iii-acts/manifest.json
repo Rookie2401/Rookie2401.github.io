@@ -1,0 +1,80 @@
+{
+ "workId": "council-constantinople-iii-acts",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "council-constantinople-iii-npnf14",
+   "role": "english",
+   "language": "english",
+   "credit": "The Sixth Ecumenical Council: the Definition of Faith and related documents, in Nicene and Post-Nicene Fathers, Series II, vol. 14: The Seven Ecumenical Councils of the Undivided Church, their canons and dogmatic decrees, ed. Henry R. Percival, trans. Various (translators of the individual texts are not named on the pages opened); edited with notes by Henry R. Percival (New York; Oxford; Edinburgh: The Christian Literature Company (New York); Parker & Co. (Oxford); T. & T. Clark (Edinburgh), 1900). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers: Series II), CC BY-SA (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_XIV/The_Sixth_Ecumenical_Council",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 33638,
+   "sourceSha256": "e8590d35cdb0151bc504b3bbc1c090583f667fec377f73ece4b88d1baed4d037",
+   "leftOut": {
+    "note": 1
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Sixth Ecumenical Council/The Definition of Faith",
+     "bytes": 11487,
+     "sha256": "e770546f09608d7ea1b1dfee92f4c37f9c097ae95ed391a4a07b14bac7773971"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Sixth Ecumenical Council/The Sentence Against the Monothelites",
+     "bytes": 2919,
+     "sha256": "687419ec256cbf0030a8ab69c16c0fb30144c0a1d656df726aeaaef77b25e5d0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Sixth Ecumenical Council/The Prosphoneticus to the Emperor",
+     "bytes": 7457,
+     "sha256": "c3a298f64313bb9c5acfa30169f3454477c98eb3ed96ef5fbb65bd0acfc02509"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Sixth Ecumenical Council/Letter of the Council to St. Agatho",
+     "bytes": 8680,
+     "sha256": "2a0b480c682107e0c886dbb70db2cfdb99fb0264e595284a7ba316ca9981c9d2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Sixth Ecumenical Council/The Imperial Edict",
+     "bytes": 3095,
+     "sha256": "cc9cf48b070454dcce797bc66d5710562fc9e8f23d9016f53c4c30df03c3dc65"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 12
+    },
+    {
+     "file": "0002.json",
+     "ref": "p2",
+     "title": "p2",
+     "segments": 4
+    },
+    {
+     "file": "0003.json",
+     "ref": "p3",
+     "title": "p3",
+     "segments": 11
+    },
+    {
+     "file": "0004.json",
+     "ref": "p4",
+     "title": "p4",
+     "segments": 9
+    },
+    {
+     "file": "0005.json",
+     "ref": "p5",
+     "title": "p5",
+     "segments": 5
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2190 @@
+{
+ "workId": "flavel-fountain-of-life",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "flavel-fountain-of-life-1673-tcp-a39663",
+   "role": "english",
+   "language": "english",
+   "credit": "The fountain of life opened, or, A display of Christ in his essential and mediatorial glory, in EEBO-TCP text A39663 (STC Wing F1162; STC) (London: Printed for Rob. White, for Francis Tyton ..., 1673). Transcription: Text Creation Partnership (EEBO-TCP Phase I), keyboarded from images of the original (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A39663/master/A39663.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 2178481,
+   "sourceSha256": "f59079ef855cb4aff81332ff739afba80624ad539e0682dcb8e3b8cea3e9fbed",
+   "leftOut": {
+    "pb": 670,
+    "note": 848,
+    "milestone": 269,
+    "unread": 414
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 251590,
+    "unreadPerThousand": 1.6
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "To his much Honoured and Beloved Kinsman Mr. Iohn Flavell of London Merchant; and his vertuous Consort; The Author wisheth Grace, Mercy, and Peace.",
+     "segments": 15
+    },
+    {
+     "file": "0002.json",
+     "ref": "front.2",
+     "title": "To the Christian Readers, Especially those in the Town and Corporation of Dartmouth; and Parts adjacent: who have either befriended, or attended these Lectures.",
+     "segments": 49
+    },
+    {
+     "file": "0003.json",
+     "ref": "front.3.1",
+     "title": "Genesis.",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "front.3.2",
+     "title": "Leviticus.",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "front.3.3",
+     "title": "Deuteronomy.",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "front.3.4",
+     "title": "Chronicles.",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "front.3.5",
+     "title": "1 Samuel.",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "front.3.6",
+     "title": "Iob.",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "front.3.7",
+     "title": "Psalm.",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "front.3.8",
+     "title": "Proverbs.",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "front.3.9",
+     "title": "Ecclesiastes.",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "front.3.10",
+     "title": "Canticles.",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "front.3.11",
+     "title": "Isaiah.",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "front.3.12",
+     "title": "Ieremiah.",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "front.3.13",
+     "title": "Lamentation.",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "front.3.14",
+     "title": "Daniel.",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "front.3.15",
+     "title": "Hosea.",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "front.3.16",
+     "title": "Micah.",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "front.3.17",
+     "title": "Zechariah.",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "front.3.18",
+     "title": "Matthew.",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "front.3.19",
+     "title": "Luke.",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "front.3.20",
+     "title": "Iohn.",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "front.3.21",
+     "title": "Acts.",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "front.3.22",
+     "title": "Romans.",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "front.3.23",
+     "title": "1 Corinthians.",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "front.3.24",
+     "title": "2 Corinthians.",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "front.3.25",
+     "title": "Gallatians.",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "front.3.26",
+     "title": "Ephesians.",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "front.3.27",
+     "title": "Philippians.",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "front.3.28",
+     "title": "Colossians.",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "front.3.29",
+     "title": "1 Thessalonians.",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "front.3.30",
+     "title": "2 Thessalonians.",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "front.3.31",
+     "title": "1 Timothy.",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "front.3.32",
+     "title": "2 Timothy.",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "front.3.33",
+     "title": "Hebrews.",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "front.3.34",
+     "title": "Iames.",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "front.3.35",
+     "title": "1 Peter.",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "front.3.36",
+     "title": "1 Iohn.",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "front.3.37",
+     "title": "Iude.",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "front.3.38",
+     "title": "Revelations.",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "front.4",
+     "title": "front.4",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "front.5",
+     "title": "front.5",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.0",
+     "title": "The FIRSTSerm. 1. SERMON.",
+     "segments": 4
+    },
+    {
+     "file": "0044.json",
+     "ref": "1.1",
+     "title": "DOCT.Doct. That there is no Doctrine more excellent in it self, or more necessary to be Preached, and studyed; than the Doctrine of Iesus Christ, and him Crucified.",
+     "segments": 31
+    },
+    {
+     "file": "0045.json",
+     "ref": "2.0",
+     "title": "The SECONDSerm. 2. SERMON.Sets forth Christ in his Essential and Primoeval glory.",
+     "segments": 5
+    },
+    {
+     "file": "0046.json",
+     "ref": "2.1.0",
+     "title": "DOCT.Doct. That the condition and State of Iesus Christ before his incarnation, was a state of highest, and most unspeakable delight and pleasure; in the enjoyment of his Father.",
+     "segments": 9
+    },
+    {
+     "file": "0047.json",
+     "ref": "2.1.1",
+     "title": "Vse of Information.",
+     "segments": 5
+    },
+    {
+     "file": "0048.json",
+     "ref": "2.1.2",
+     "title": "2. Vse of Exhortation.",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "3.0",
+     "title": "Serm. 3.The THIRD SERMON.Opens the Covenant of Redemption betwixt the Father and the Redeemer.",
+     "segments": 3
+    },
+    {
+     "file": "0050.json",
+     "ref": "3.1.0",
+     "title": "DOCT. That the business of mans salvation was transacted upon Covenant-terms,Doct. betwixt the Father and the Son; from all Eternity.",
+     "segments": 23
+    },
+    {
+     "file": "0051.json",
+     "ref": "3.1.1",
+     "title": "Vse.",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "3.1.2",
+     "title": "Vse 3.",
+     "segments": 1
+    },
+    {
+     "file": "0053.json",
+     "ref": "3.1.3",
+     "title": "Vse 4.",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "3.1.4",
+     "title": "Vse 5.",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "3.1.5",
+     "title": "Vse 6.",
+     "segments": 5
+    },
+    {
+     "file": "0056.json",
+     "ref": "3.1.6",
+     "title": "Vse 7.",
+     "segments": 3
+    },
+    {
+     "file": "0057.json",
+     "ref": "4.0",
+     "title": "The FOURTHSerm. 4. SERMON.Opens the admirable love of God in giving his own Son for us.",
+     "segments": 4
+    },
+    {
+     "file": "0058.json",
+     "ref": "4.1",
+     "title": "In the words are considerable.",
+     "segments": 5
+    },
+    {
+     "file": "0059.json",
+     "ref": "4.2.0",
+     "title": "DOCT.Doct. That the gift of Christ is the highest and fullest manifestation of the love of God to sinners, that ever was made from eternity to them.",
+     "segments": 9
+    },
+    {
+     "file": "0060.json",
+     "ref": "4.2.1",
+     "title": "Corolary 1.",
+     "segments": 1
+    },
+    {
+     "file": "0061.json",
+     "ref": "4.2.2",
+     "title": "Corolary 2.",
+     "segments": 1
+    },
+    {
+     "file": "0062.json",
+     "ref": "4.2.3",
+     "title": "Corolary 3.",
+     "segments": 3
+    },
+    {
+     "file": "0063.json",
+     "ref": "5.0",
+     "title": "The FIFTHSerm. 5. SERMON.Treats of Christs wonderful Person.",
+     "segments": 2
+    },
+    {
+     "file": "0064.json",
+     "ref": "5.1",
+     "title": "In the assertion we have three parts.",
+     "segments": 4
+    },
+    {
+     "file": "0065.json",
+     "ref": "5.2.0",
+     "title": "DOCT. That Iesus Christ did really assume the true and perfect nature of man, into a personal union with his divine nature; and still remains true God, and true man; in one person for ever.",
+     "segments": 25
+    },
+    {
+     "file": "0066.json",
+     "ref": "5.2.1",
+     "title": "Vse 1.",
+     "segments": 2
+    },
+    {
+     "file": "0067.json",
+     "ref": "5.2.2",
+     "title": "Vse 2.",
+     "segments": 3
+    },
+    {
+     "file": "0068.json",
+     "ref": "5.2.3",
+     "title": "Vse 3.",
+     "segments": 1
+    },
+    {
+     "file": "0069.json",
+     "ref": "5.2.4",
+     "title": "Vse 4.",
+     "segments": 1
+    },
+    {
+     "file": "0070.json",
+     "ref": "5.2.5",
+     "title": "Vse 5.",
+     "segments": 2
+    },
+    {
+     "file": "0071.json",
+     "ref": "5.2.6",
+     "title": "Vse 6.",
+     "segments": 1
+    },
+    {
+     "file": "0072.json",
+     "ref": "5.2.7",
+     "title": "Vse 7.",
+     "segments": 2
+    },
+    {
+     "file": "0073.json",
+     "ref": "5.2.8",
+     "title": "Vse 8.",
+     "segments": 2
+    },
+    {
+     "file": "0074.json",
+     "ref": "6.0",
+     "title": "The SIXTHSerm. 6. SERMON.Shews the Authority by which Christ as Mediator acted.",
+     "segments": 4
+    },
+    {
+     "file": "0075.json",
+     "ref": "6.1",
+     "title": "In these words are three parts observable.",
+     "segments": 3
+    },
+    {
+     "file": "0076.json",
+     "ref": "6.2.0",
+     "title": "DOCT. That Iesus Christ did not of himself undertake the work of our Redemption,Doct. but was solemnly Sealed unto that work, by God the Father.",
+     "segments": 10
+    },
+    {
+     "file": "0077.json",
+     "ref": "6.2.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0078.json",
+     "ref": "6.2.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0079.json",
+     "ref": "6.2.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0080.json",
+     "ref": "6.2.4",
+     "title": "Inference 4.",
+     "segments": 1
+    },
+    {
+     "file": "0081.json",
+     "ref": "6.2.5",
+     "title": "Inference 5.",
+     "segments": 2
+    },
+    {
+     "file": "0082.json",
+     "ref": "6.2.6",
+     "title": "Inference 6.",
+     "segments": 3
+    },
+    {
+     "file": "0083.json",
+     "ref": "7.0",
+     "title": "The SEVENTHSerm. 7. SERMON.Treats of the Solemn consecration of the Mediator.",
+     "segments": 6
+    },
+    {
+     "file": "0084.json",
+     "ref": "7.1.0",
+     "title": "DOCT. That Iesus Christ did dedicate and wholy set himself apart, to the Work of a Mediator, for the Elect sake.",
+     "segments": 11
+    },
+    {
+     "file": "0085.json",
+     "ref": "7.1.1",
+     "title": "Inference 1.",
+     "segments": 8
+    },
+    {
+     "file": "0086.json",
+     "ref": "7.1.2",
+     "title": "Inference 2.",
+     "segments": 5
+    },
+    {
+     "file": "0087.json",
+     "ref": "7.1.3",
+     "title": "Inference 3.",
+     "segments": 2
+    },
+    {
+     "file": "0088.json",
+     "ref": "7.1.4",
+     "title": "Inference 4.",
+     "segments": 6
+    },
+    {
+     "file": "0089.json",
+     "ref": "8.0",
+     "title": "Serm. 8.The EIGHTH SERMON.Gives an account of the nature of Christs mediation.",
+     "segments": 7
+    },
+    {
+     "file": "0090.json",
+     "ref": "8.1.0",
+     "title": "DOCT. That Iesus Christ is the true and only Mediator betwixt God and Men.",
+     "segments": 16
+    },
+    {
+     "file": "0091.json",
+     "ref": "8.1.1",
+     "title": "Inference 1.",
+     "segments": 2
+    },
+    {
+     "file": "0092.json",
+     "ref": "8.1.2",
+     "title": "Inference 2.",
+     "segments": 2
+    },
+    {
+     "file": "0093.json",
+     "ref": "8.1.3",
+     "title": "Inference 3.",
+     "segments": 2
+    },
+    {
+     "file": "0094.json",
+     "ref": "8.1.4",
+     "title": "Inference 4.",
+     "segments": 2
+    },
+    {
+     "file": "0095.json",
+     "ref": "8.1.5",
+     "title": "Inference 5.",
+     "segments": 1
+    },
+    {
+     "file": "0096.json",
+     "ref": "9.0",
+     "title": "Serm. 9.The NINTH SERMON.Opens the first branch of the Prophetical office consisting in the Revelation of the will of God.",
+     "segments": 11
+    },
+    {
+     "file": "0097.json",
+     "ref": "9.1.0",
+     "title": "DOCT. That Iesus Christ is called and appointed by God,Doct. to be the great Prophet, and teacher of the Church.",
+     "segments": 17
+    },
+    {
+     "file": "0098.json",
+     "ref": "9.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0099.json",
+     "ref": "9.1.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0100.json",
+     "ref": "9.1.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0101.json",
+     "ref": "9.1.4",
+     "title": "Inference 4.",
+     "segments": 2
+    },
+    {
+     "file": "0102.json",
+     "ref": "9.1.5",
+     "title": "Inference 5.",
+     "segments": 2
+    },
+    {
+     "file": "0103.json",
+     "ref": "10.0",
+     "title": "The TENTHSerm. 10. SERMON.Opens the second branch of the Prophetical office consisting in the illumination of the understanding.",
+     "segments": 8
+    },
+    {
+     "file": "0104.json",
+     "ref": "10.1.0",
+     "title": "DOCT. That the opening of the mind and heart, effectually to receive the truths of God, is the peculiar prerogative, and office of Iesus Christ.",
+     "segments": 13
+    },
+    {
+     "file": "0105.json",
+     "ref": "10.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0106.json",
+     "ref": "10.1.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0107.json",
+     "ref": "10.1.3",
+     "title": "Inference 3.",
+     "segments": 7
+    },
+    {
+     "file": "0108.json",
+     "ref": "10.1.4",
+     "title": "Inference 4.",
+     "segments": 6
+    },
+    {
+     "file": "0109.json",
+     "ref": "10.1.5",
+     "title": "Inference 5.",
+     "segments": 1
+    },
+    {
+     "file": "0110.json",
+     "ref": "11.0",
+     "title": "Serm. 11.The ELEVENTH SERMON.Discovers the nature and necessity of the Priesthood of Christ.",
+     "segments": 4
+    },
+    {
+     "file": "0111.json",
+     "ref": "11.1.0",
+     "title": "DOCT. That the sacrifice of Christ our high Priest,Doct. is most excellent in it self; and most necessary for us.",
+     "segments": 25
+    },
+    {
+     "file": "0112.json",
+     "ref": "11.1.1",
+     "title": "Corollary 1.",
+     "segments": 3
+    },
+    {
+     "file": "0113.json",
+     "ref": "11.1.2",
+     "title": "Corollary. 2.",
+     "segments": 5
+    },
+    {
+     "file": "0114.json",
+     "ref": "11.1.3",
+     "title": "Corollary. 3.",
+     "segments": 1
+    },
+    {
+     "file": "0115.json",
+     "ref": "11.1.4",
+     "title": "Corollary 4.",
+     "segments": 4
+    },
+    {
+     "file": "0116.json",
+     "ref": "12.0",
+     "title": "The TWELFTHSerm. 12. SERMON.Opens the excellency of our High-Priests Oblation, being the first act or part of his Priestly Office.",
+     "segments": 3
+    },
+    {
+     "file": "0117.json",
+     "ref": "12.1.0",
+     "title": "DOCT. That the Oblation made unto God,Doct. by Iesus Christ, is of unspeakable value, and everlasting efficacy; to perfect all them that are, or shall be Sanctified, to the end of the world.",
+     "segments": 16
+    },
+    {
+     "file": "0118.json",
+     "ref": "12.1.1",
+     "title": "Inference. 1.",
+     "segments": 3
+    },
+    {
+     "file": "0119.json",
+     "ref": "12.1.2",
+     "title": "Inference 2.",
+     "segments": 2
+    },
+    {
+     "file": "0120.json",
+     "ref": "12.1.3",
+     "title": "Inference 3.",
+     "segments": 6
+    },
+    {
+     "file": "0121.json",
+     "ref": "13.0",
+     "title": "Serm. 13.The THIRTEENTH SERMON.Opens the Intercession of Christ, our High-Priest, being the second Act or Part of Christs Priestly Office.",
+     "segments": 4
+    },
+    {
+     "file": "0122.json",
+     "ref": "13.1.0",
+     "title": "DOCT. That Iesus our High-Priest lives for ever,Doct. in the capacity of a potent intercessor in Heaven for believers.",
+     "segments": 19
+    },
+    {
+     "file": "0123.json",
+     "ref": "13.1.1",
+     "title": "Vse 1.",
+     "segments": 1
+    },
+    {
+     "file": "0124.json",
+     "ref": "13.1.2",
+     "title": "Vse 2.",
+     "segments": 6
+    },
+    {
+     "file": "0125.json",
+     "ref": "13.1.3",
+     "title": "Vse 3.",
+     "segments": 6
+    },
+    {
+     "file": "0126.json",
+     "ref": "14.0",
+     "title": "The FOURTEENTHSerm. 14. SERMON.Asserts and vindicates the satisfaction of Christ being the first principal effect, or fruit of his Priesthood.",
+     "segments": 6
+    },
+    {
+     "file": "0127.json",
+     "ref": "14.1.0",
+     "title": "DOCT. The death of Christ hath made a full satisfaction to God;Doct. for all the sins of his Elect.",
+     "segments": 25
+    },
+    {
+     "file": "0128.json",
+     "ref": "14.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0129.json",
+     "ref": "14.1.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0130.json",
+     "ref": "14.1.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0131.json",
+     "ref": "14.1.4",
+     "title": "Inference 4.",
+     "segments": 1
+    },
+    {
+     "file": "0132.json",
+     "ref": "14.1.5",
+     "title": "Inference 5.",
+     "segments": 1
+    },
+    {
+     "file": "0133.json",
+     "ref": "15.0",
+     "title": "The FIFTEENTHSerm. 15. SERMON.Surveys the blessed inheritance purchased by the Oblation of Christ, being the second effect or fruit of his Priesthood.",
+     "segments": 6
+    },
+    {
+     "file": "0134.json",
+     "ref": "15.1.0",
+     "title": "DOCT. Doct.That the death of Iesus Christ, hath not only satisfied for our debts; but over and above, purchased a rich inheritance, for the children of God.",
+     "segments": 19
+    },
+    {
+     "file": "0135.json",
+     "ref": "15.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0136.json",
+     "ref": "15.1.2",
+     "title": "Inference 2.",
+     "segments": 4
+    },
+    {
+     "file": "0137.json",
+     "ref": "15.1.3",
+     "title": "Inference 3.",
+     "segments": 2
+    },
+    {
+     "file": "0138.json",
+     "ref": "15.1.4",
+     "title": "Inference 4.",
+     "segments": 5
+    },
+    {
+     "file": "0139.json",
+     "ref": "16.0",
+     "title": "Serm. 16.The SIXTEENTH SERMON.Opens the Kingly Office of Christ as it is executed spiritually upon the souls of the Redeemed.",
+     "segments": 7
+    },
+    {
+     "file": "0140.json",
+     "ref": "16.1.0",
+     "title": "DOCT. That Iesus Christ exercises a Kingly power over the souls of all,Doct. whom the Gospel subdues to his obedience.",
+     "segments": 14
+    },
+    {
+     "file": "0141.json",
+     "ref": "16.1.1",
+     "title": "Inference 1.",
+     "segments": 2
+    },
+    {
+     "file": "0142.json",
+     "ref": "16.1.2",
+     "title": "Inference 2.",
+     "segments": 3
+    },
+    {
+     "file": "0143.json",
+     "ref": "16.1.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0144.json",
+     "ref": "17.0",
+     "title": "The SEVENTEENTHSerm. 17. SERMON.Opens the Kingly Office of Christ as it is providentially executed upon the world, for the Redeemed.",
+     "segments": 4
+    },
+    {
+     "file": "0145.json",
+     "ref": "17.1.0",
+     "title": "DOCT. That all the Affairs of the Kingdom of providence,Doct. are ordered and determined by Iesus Christ, for the special advantage, and everlasting good of his redeemed people.",
+     "segments": 22
+    },
+    {
+     "file": "0146.json",
+     "ref": "17.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0147.json",
+     "ref": "17.1.2",
+     "title": "Inference 2.",
+     "segments": 3
+    },
+    {
+     "file": "0148.json",
+     "ref": "17.1.3",
+     "title": "Inference 3.",
+     "segments": 2
+    },
+    {
+     "file": "0149.json",
+     "ref": "17.1.4",
+     "title": "Inference 4.",
+     "segments": 1
+    },
+    {
+     "file": "0150.json",
+     "ref": "17.1.5",
+     "title": "Inference 5.",
+     "segments": 11
+    },
+    {
+     "file": "0151.json",
+     "ref": "18.0",
+     "title": "Serm. 18.The EIGHTEENTH SERMON.Opens the necessity of Christs humiliation in order to the execution of all these his blessed Offices for us; and particularly of his humiliation by Incarnation.",
+     "segments": 9
+    },
+    {
+     "file": "0152.json",
+     "ref": "18.1.0",
+     "title": "DOCT. That the state of Christ,Doct. from his Conception, to his Resurrection; was a state of deep abasement, and humiliation.",
+     "segments": 12
+    },
+    {
+     "file": "0153.json",
+     "ref": "18.1.1",
+     "title": "Inference 1.",
+     "segments": 2
+    },
+    {
+     "file": "0154.json",
+     "ref": "18.1.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0155.json",
+     "ref": "18.1.3",
+     "title": "Inference 3.",
+     "segments": 5
+    },
+    {
+     "file": "0156.json",
+     "ref": "18.1.4",
+     "title": "Inference 4.",
+     "segments": 1
+    },
+    {
+     "file": "0157.json",
+     "ref": "18.1.5",
+     "title": "Inference 5.",
+     "segments": 3
+    },
+    {
+     "file": "0158.json",
+     "ref": "19.0",
+     "title": "Serm. 19.The NINETEENTH SERMON.Treats of Christs Humiliation in his Life.",
+     "segments": 2
+    },
+    {
+     "file": "0159.json",
+     "ref": "19.1.0",
+     "title": "DOCT. That the state of Christ from his Conception,Doct. to his Resurrection; was a state of deep abasement, and humiliation.",
+     "segments": 10
+    },
+    {
+     "file": "0160.json",
+     "ref": "19.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0161.json",
+     "ref": "19.1.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0162.json",
+     "ref": "19.1.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0163.json",
+     "ref": "19.1.4",
+     "title": "Inference 4.",
+     "segments": 5
+    },
+    {
+     "file": "0164.json",
+     "ref": "19.1.5",
+     "title": "Inference 5.",
+     "segments": 1
+    },
+    {
+     "file": "0165.json",
+     "ref": "19.1.6",
+     "title": "Inference 6.",
+     "segments": 1
+    },
+    {
+     "file": "0166.json",
+     "ref": "19.1.7",
+     "title": "Inference 7.",
+     "segments": 2
+    },
+    {
+     "file": "0167.json",
+     "ref": "20.0",
+     "title": "The TWENTIETH SERMON.Serm. 20. Opens Christs Humiliation unto Death, in his first preparative act for it.",
+     "segments": 7
+    },
+    {
+     "file": "0168.json",
+     "ref": "20.1.0",
+     "title": "DOCT. That the Fatherly care,Doct. and tender love of our Lord Iesus Christ, was eminently discovered in that pleading prayer, he poured out for his people, at his parting with them.",
+     "segments": 20
+    },
+    {
+     "file": "0169.json",
+     "ref": "20.1.1",
+     "title": "Corollary 1.",
+     "segments": 2
+    },
+    {
+     "file": "0170.json",
+     "ref": "20.1.2",
+     "title": "Corollary. 2.",
+     "segments": 2
+    },
+    {
+     "file": "0171.json",
+     "ref": "20.1.3",
+     "title": "Corollary. 3.",
+     "segments": 3
+    },
+    {
+     "file": "0172.json",
+     "ref": "20.1.4",
+     "title": "Corollary 4.",
+     "segments": 3
+    },
+    {
+     "file": "0173.json",
+     "ref": "21.0",
+     "title": "The TWENTY FIRSTSerm. 21. SERMON.Opens the second preparative act of Christ for his own death.",
+     "segments": 10
+    },
+    {
+     "file": "0174.json",
+     "ref": "21.1.0",
+     "title": "DOCT. That the Sacramental memorial Christ left with his people,Doct. is a special mark of his care, and love for them.",
+     "segments": 23
+    },
+    {
+     "file": "0175.json",
+     "ref": "21.1.1",
+     "title": "Inference 1.",
+     "segments": 4
+    },
+    {
+     "file": "0176.json",
+     "ref": "21.1.2",
+     "title": "Inference 2.",
+     "segments": 3
+    },
+    {
+     "file": "0177.json",
+     "ref": "21.1.3",
+     "title": "Inference 3.",
+     "segments": 2
+    },
+    {
+     "file": "0178.json",
+     "ref": "21.1.4",
+     "title": "Inference 4.",
+     "segments": 2
+    },
+    {
+     "file": "0179.json",
+     "ref": "22.0",
+     "title": "Serm. 22.The TWENTY SECOND SERMON.Opens the third preparative act of Christ for his own death.",
+     "segments": 6
+    },
+    {
+     "file": "0180.json",
+     "ref": "22.1.0",
+     "title": "DOCT. That our Lord Iesus Christ,Doct. was praying to his Father, in an extraordinary Agony: when they came to apprehend him in the Garden.",
+     "segments": 16
+    },
+    {
+     "file": "0181.json",
+     "ref": "22.1.1",
+     "title": "Inference 1.",
+     "segments": 3
+    },
+    {
+     "file": "0182.json",
+     "ref": "22.1.2",
+     "title": "Inference 2.",
+     "segments": 2
+    },
+    {
+     "file": "0183.json",
+     "ref": "22.1.3",
+     "title": "Inference. 3.",
+     "segments": 3
+    },
+    {
+     "file": "0184.json",
+     "ref": "22.1.4",
+     "title": "Inference 4.",
+     "segments": 2
+    },
+    {
+     "file": "0185.json",
+     "ref": "22.1.5",
+     "title": "Inference 5.",
+     "segments": 2
+    },
+    {
+     "file": "0186.json",
+     "ref": "22.1.6",
+     "title": "Inference 6.",
+     "segments": 1
+    },
+    {
+     "file": "0187.json",
+     "ref": "22.1.7",
+     "title": "Inference 7.",
+     "segments": 1
+    },
+    {
+     "file": "0188.json",
+     "ref": "23.0",
+     "title": "The TWENTY THIRDSerm. 23. SERMON.Discovers the first preparation for Christs death on his enemies part, by the treason of Iudas.",
+     "segments": 8
+    },
+    {
+     "file": "0189.json",
+     "ref": "23.1.0",
+     "title": "DOCT. That it was the Lot of our Lord Iesus Christ,Doct. to be betrayed into the hands of his mortal enemies, by the assistance of a false and dissembling friend.",
+     "segments": 20
+    },
+    {
+     "file": "0190.json",
+     "ref": "23.1.1",
+     "title": "Corollary 1.",
+     "segments": 6
+    },
+    {
+     "file": "0191.json",
+     "ref": "23.1.2",
+     "title": "Corollary. 2.",
+     "segments": 1
+    },
+    {
+     "file": "0192.json",
+     "ref": "23.1.3",
+     "title": "Corollary 3.",
+     "segments": 2
+    },
+    {
+     "file": "0193.json",
+     "ref": "23.1.4",
+     "title": "Corollary 4.",
+     "segments": 1
+    },
+    {
+     "file": "0194.json",
+     "ref": "23.1.5",
+     "title": "Corollary 5.",
+     "segments": 2
+    },
+    {
+     "file": "0195.json",
+     "ref": "23.1.6",
+     "title": "Corollary 6.",
+     "segments": 1
+    },
+    {
+     "file": "0196.json",
+     "ref": "23.1.7",
+     "title": "Corollary 7.",
+     "segments": 2
+    },
+    {
+     "file": "0197.json",
+     "ref": "23.1.8",
+     "title": "Corollary 8.",
+     "segments": 2
+    },
+    {
+     "file": "0198.json",
+     "ref": "23.1.9",
+     "title": "Corollary 9.",
+     "segments": 2
+    },
+    {
+     "file": "0199.json",
+     "ref": "23.1.10",
+     "title": "Corollary 10.",
+     "segments": 1
+    },
+    {
+     "file": "0200.json",
+     "ref": "23.1.11",
+     "title": "Corollary 11.",
+     "segments": 1
+    },
+    {
+     "file": "0201.json",
+     "ref": "23.1.12",
+     "title": "Corollary 12.",
+     "segments": 1
+    },
+    {
+     "file": "0202.json",
+     "ref": "24.0",
+     "title": "The TWENTY FOURTHSerm. 24. SERMON.Opens the enemies second and third preparatives for the death of Christ, by their illegal trial and condemnation.",
+     "segments": 8
+    },
+    {
+     "file": "0203.json",
+     "ref": "24.1.0",
+     "title": "DOCT. 1. That the trial of Christ for his life,Doct. 1. was managed most malitiously, and illegally against him, by his unrighteous Iudges.",
+     "segments": 9
+    },
+    {
+     "file": "0204.json",
+     "ref": "24.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0205.json",
+     "ref": "24.1.2",
+     "title": "Inference 2.",
+     "segments": 3
+    },
+    {
+     "file": "0206.json",
+     "ref": "24.1.3",
+     "title": "Inference 3.",
+     "segments": 2
+    },
+    {
+     "file": "0207.json",
+     "ref": "24.2.0",
+     "title": "DOCT. 2. That though nothing could be proved against our Lord Iesus Christ, Doct. 2. worthy of death, or of bonds; yet was he condemned to be nailed to the Cross, and there to hang till he died.",
+     "segments": 7
+    },
+    {
+     "file": "0208.json",
+     "ref": "24.2.1",
+     "title": "Inference 1.",
+     "segments": 2
+    },
+    {
+     "file": "0209.json",
+     "ref": "24.2.2",
+     "title": "Inference 2.",
+     "segments": 2
+    },
+    {
+     "file": "0210.json",
+     "ref": "24.2.3",
+     "title": "Inference 3.",
+     "segments": 6
+    },
+    {
+     "file": "0211.json",
+     "ref": "24.2.4",
+     "title": "Inference 4.",
+     "segments": 3
+    },
+    {
+     "file": "0212.json",
+     "ref": "25.0",
+     "title": "Serm. 25.The TWENTY FIFTH SERMON.Remarks a memorable passage of Christ in his way to the place of his execution.",
+     "segments": 14
+    },
+    {
+     "file": "0213.json",
+     "ref": "25.1.0",
+     "title": "DOCT. 1. That melting affections and sorrows, Doct. 1. even from the sence of Christs sufferings, are no infallible marks of grace.",
+     "segments": 8
+    },
+    {
+     "file": "0214.json",
+     "ref": "25.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0215.json",
+     "ref": "25.1.2",
+     "title": "Inference 2.",
+     "segments": 12
+    },
+    {
+     "file": "0216.json",
+     "ref": "25.2.0",
+     "title": "DOCT. 2. That the believing meditation of what Christ Suffered for us,Doct. 2. is of great force and efficacy to melt and break the heart.",
+     "segments": 14
+    },
+    {
+     "file": "0217.json",
+     "ref": "25.2.1",
+     "title": "Inference 1.",
+     "segments": 2
+    },
+    {
+     "file": "0218.json",
+     "ref": "25.2.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0219.json",
+     "ref": "25.2.3",
+     "title": "Inference 3.",
+     "segments": 5
+    },
+    {
+     "file": "0220.json",
+     "ref": "26.0",
+     "title": "The TWENTY SIXTHSerm. 26. SERMON.Opens the nature and quality of the death Christ died upon the Cross.",
+     "segments": 7
+    },
+    {
+     "file": "0221.json",
+     "ref": "26.1.0",
+     "title": "DOCT. That our Lord Iesus Christ was not only put to death,Doct. but to the worst of deaths, even the death of the Cross.",
+     "segments": 22
+    },
+    {
+     "file": "0222.json",
+     "ref": "26.1.1",
+     "title": "Inference 1.",
+     "segments": 11
+    },
+    {
+     "file": "0223.json",
+     "ref": "26.1.2",
+     "title": "Inference 2.",
+     "segments": 2
+    },
+    {
+     "file": "0224.json",
+     "ref": "26.1.3",
+     "title": "Inference 3.",
+     "segments": 8
+    },
+    {
+     "file": "0225.json",
+     "ref": "26.1.4",
+     "title": "Inference 4.",
+     "segments": 5
+    },
+    {
+     "file": "0226.json",
+     "ref": "27.0",
+     "title": "The TWENTY SEVENTHSerm. 27. SERMON.Opens and improves that signal Providence which directed and ordered the Title affixed to the Cross of Christ.",
+     "segments": 7
+    },
+    {
+     "file": "0227.json",
+     "ref": "27.1.0",
+     "title": "DOCT. 1. That the dignity of Christ was openly proclaimed,Doct. 1. and defended by an enemy; and that in the time of his greatest reproaches, and Sufferings.",
+     "segments": 14
+    },
+    {
+     "file": "0228.json",
+     "ref": "27.1.1",
+     "title": "Inference 1.",
+     "segments": 2
+    },
+    {
+     "file": "0229.json",
+     "ref": "27.1.2",
+     "title": "Inference 2.",
+     "segments": 3
+    },
+    {
+     "file": "0230.json",
+     "ref": "27.1.3",
+     "title": "Inference 3.",
+     "segments": 4
+    },
+    {
+     "file": "0231.json",
+     "ref": "27.1.4",
+     "title": "Inference 4.",
+     "segments": 5
+    },
+    {
+     "file": "0232.json",
+     "ref": "27.1.5",
+     "title": "Inference 5.",
+     "segments": 3
+    },
+    {
+     "file": "0233.json",
+     "ref": "27.1.6",
+     "title": "Inference 6.",
+     "segments": 3
+    },
+    {
+     "file": "0234.json",
+     "ref": "27.1.7",
+     "title": "Inference 7.",
+     "segments": 2
+    },
+    {
+     "file": "0235.json",
+     "ref": "28.0",
+     "title": "The TWENTY EIGHTHSerm. 28. SERMON.Opens the manner of Christs death in respect of the solitariness thereof.",
+     "segments": 10
+    },
+    {
+     "file": "0236.json",
+     "ref": "28.1.0",
+     "title": "DOCT. That Christs dearest friends forsook and left him alone,Doct. in the time of his greatest distress and danger.",
+     "segments": 24
+    },
+    {
+     "file": "0237.json",
+     "ref": "28.1.1",
+     "title": "Inference 1.",
+     "segments": 3
+    },
+    {
+     "file": "0238.json",
+     "ref": "28.1.2",
+     "title": "Inference 2.",
+     "segments": 2
+    },
+    {
+     "file": "0239.json",
+     "ref": "28.1.3",
+     "title": "Inference 3.",
+     "segments": 4
+    },
+    {
+     "file": "0240.json",
+     "ref": "28.1.4",
+     "title": "Inference 4.",
+     "segments": 3
+    },
+    {
+     "file": "0241.json",
+     "ref": "28.1.5",
+     "title": "Inference 5.",
+     "segments": 3
+    },
+    {
+     "file": "0242.json",
+     "ref": "28.1.6",
+     "title": "Inference 6.",
+     "segments": 2
+    },
+    {
+     "file": "0243.json",
+     "ref": "28.1.7",
+     "title": "Inference 7.",
+     "segments": 1
+    },
+    {
+     "file": "0244.json",
+     "ref": "28.1.8",
+     "title": "Inference 8.",
+     "segments": 4
+    },
+    {
+     "file": "0245.json",
+     "ref": "29.0",
+     "title": "The TWENTY NINTHSerm. 29. SERMON.Opens the manner of Christs death, in respect of the Patience thereof.",
+     "segments": 5
+    },
+    {
+     "file": "0246.json",
+     "ref": "29.1.0",
+     "title": "DOCT. That Iesus Christ supported the burden of his sufferings,Doct. with admirable patience, and meekness of Spirit.",
+     "segments": 26
+    },
+    {
+     "file": "0247.json",
+     "ref": "29.1.1",
+     "title": "Vse.",
+     "segments": 16
+    },
+    {
+     "file": "0248.json",
+     "ref": "30.0",
+     "title": "The THIRTIETHSerm. 30. SERMON.Opens the Instructiveness of the death of Christ in his seven last words; the first of which is here open'd.",
+     "segments": 11
+    },
+    {
+     "file": "0249.json",
+     "ref": "30.1.0",
+     "title": "DOCT. 1. That ignorance is the usual cause of enmity to Christ.Doct. 1.",
+     "segments": 10
+    },
+    {
+     "file": "0250.json",
+     "ref": "30.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0251.json",
+     "ref": "30.1.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0252.json",
+     "ref": "30.1.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0253.json",
+     "ref": "30.1.4",
+     "title": "Inference 4.",
+     "segments": 1
+    },
+    {
+     "file": "0254.json",
+     "ref": "30.1.5",
+     "title": "Inference 5.",
+     "segments": 1
+    },
+    {
+     "file": "0255.json",
+     "ref": "30.2.0",
+     "title": "DOCT. 2. That there is forgiveness with God,Doct. •. for such as oppose Christ out of ignorance.",
+     "segments": 14
+    },
+    {
+     "file": "0256.json",
+     "ref": "30.2.1",
+     "title": "Inference 1.",
+     "segments": 2
+    },
+    {
+     "file": "0257.json",
+     "ref": "30.2.2",
+     "title": "Inference 2.",
+     "segments": 2
+    },
+    {
+     "file": "0258.json",
+     "ref": "30.2.3",
+     "title": "Inference 3.",
+     "segments": 2
+    },
+    {
+     "file": "0259.json",
+     "ref": "30.3.0",
+     "title": "DOCT. 3. That to forgive enemies,Doct. 3. and beg forgiveness for them, is the true character and property of the Christian spirit.",
+     "segments": 16
+    },
+    {
+     "file": "0260.json",
+     "ref": "30.3.1",
+     "title": "Inference 1.",
+     "segments": 3
+    },
+    {
+     "file": "0261.json",
+     "ref": "30.3.2",
+     "title": "Inference 2.",
+     "segments": 2
+    },
+    {
+     "file": "0262.json",
+     "ref": "30.3.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0263.json",
+     "ref": "31.0",
+     "title": "The THIRTY FIRSTSerm. 31. SERMON.Opens the second excellent word of Christ upon the Cross.",
+     "segments": 8
+    },
+    {
+     "file": "0264.json",
+     "ref": "31.1.0",
+     "title": "DOCT. That Christs tender care of his Mother even in the time of his greatest distress;Doct. is an excellent pattern for all gratious Children to the end of the world.",
+     "segments": 17
+    },
+    {
+     "file": "0265.json",
+     "ref": "31.1.1",
+     "title": "Inference 1.",
+     "segments": 13
+    },
+    {
+     "file": "0266.json",
+     "ref": "31.1.2",
+     "title": "Inference 2.",
+     "segments": 3
+    },
+    {
+     "file": "0267.json",
+     "ref": "31.1.3",
+     "title": "Inference 3.",
+     "segments": 3
+    },
+    {
+     "file": "0268.json",
+     "ref": "32.0",
+     "title": "Serm. 32.The THIRTY SECOND SERMON.Opens the third of Christs last words upon the Cross.",
+     "segments": 10
+    },
+    {
+     "file": "0269.json",
+     "ref": "32.1.0",
+     "title": "DOCT. 1. That there is a future eternal state,Doct. 1. into which souls pass at death.",
+     "segments": 6
+    },
+    {
+     "file": "0270.json",
+     "ref": "32.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0271.json",
+     "ref": "32.1.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0272.json",
+     "ref": "32.1.3",
+     "title": "Inference 3.",
+     "segments": 2
+    },
+    {
+     "file": "0273.json",
+     "ref": "32.2.0",
+     "title": "DOCT. 2. That all believers are at their death,Doct. 2. immediately received into a State of glory and eternal happiness.",
+     "segments": 8
+    },
+    {
+     "file": "0274.json",
+     "ref": "32.2.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0275.json",
+     "ref": "32.2.2",
+     "title": "Inference 2.",
+     "segments": 3
+    },
+    {
+     "file": "0276.json",
+     "ref": "32.2.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0277.json",
+     "ref": "32.2.4",
+     "title": "Inference 4.",
+     "segments": 1
+    },
+    {
+     "file": "0278.json",
+     "ref": "32.3.0",
+     "title": "DOCT. 3. That God may,Doct. 3. though he seldom doth prepare men for glory, immediately before their dissolution by death.",
+     "segments": 2
+    },
+    {
+     "file": "0279.json",
+     "ref": "32.3.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0280.json",
+     "ref": "32.3.2",
+     "title": "Inference 2.",
+     "segments": 3
+    },
+    {
+     "file": "0281.json",
+     "ref": "32.3.3",
+     "title": "Inference 3.",
+     "segments": 7
+    },
+    {
+     "file": "0282.json",
+     "ref": "33.0",
+     "title": "The THIRTY TIHRD SERMON.Serm. 33. Opens the fourth excellent saying of Christ upon the Cross.",
+     "segments": 6
+    },
+    {
+     "file": "0283.json",
+     "ref": "33.1.0",
+     "title": "DOCT. That God in design to heighten the sufferings of Christ to the uttermost,Doct. forsook him in the time of his greatest distress; to the unspeakable affliction, and anguish of his soul.",
+     "segments": 18
+    },
+    {
+     "file": "0284.json",
+     "ref": "33.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0285.json",
+     "ref": "33.1.2",
+     "title": "Inference 2.",
+     "segments": 3
+    },
+    {
+     "file": "0286.json",
+     "ref": "33.1.3",
+     "title": "Inference 3.",
+     "segments": 13
+    },
+    {
+     "file": "0287.json",
+     "ref": "33.1.4",
+     "title": "Inference 4.",
+     "segments": 3
+    },
+    {
+     "file": "0288.json",
+     "ref": "34.0",
+     "title": "The THIRTY FOURTHSerm. 34. SERMON.Opens the fifth excellent word of Christ upon the Cross.",
+     "segments": 8
+    },
+    {
+     "file": "0289.json",
+     "ref": "34.1.0",
+     "title": "DOCT. That such were the Agonies and extream sufferings of our Lord Iesus Christ upon the Cross,Doct. as drank up his very spirits, and made him cry I thirst.",
+     "segments": 23
+    },
+    {
+     "file": "0290.json",
+     "ref": "34.1.1",
+     "title": "Inference 1.",
+     "segments": 4
+    },
+    {
+     "file": "0291.json",
+     "ref": "34.1.2",
+     "title": "Inference 2.",
+     "segments": 2
+    },
+    {
+     "file": "0292.json",
+     "ref": "34.1.3",
+     "title": "Inference 3.",
+     "segments": 2
+    },
+    {
+     "file": "0293.json",
+     "ref": "34.1.4",
+     "title": "Inference 4.",
+     "segments": 1
+    },
+    {
+     "file": "0294.json",
+     "ref": "34.1.5",
+     "title": "Inference. 5.",
+     "segments": 4
+    },
+    {
+     "file": "0295.json",
+     "ref": "34.1.6",
+     "title": "Inference 6.",
+     "segments": 6
+    },
+    {
+     "file": "0296.json",
+     "ref": "35.0",
+     "title": "The THIRTY FIFTHSerm. 35. SERMON.Opens the sixth excellent saying of Christ upon the Cross.",
+     "segments": 6
+    },
+    {
+     "file": "0297.json",
+     "ref": "35.1.0",
+     "title": "DOCT. That Iesus Christ hath perfected, Doct. and compleatly finished the great work of Redemption committed to him by God the Father.",
+     "segments": 20
+    },
+    {
+     "file": "0298.json",
+     "ref": "35.1.1",
+     "title": "Inference 1.",
+     "segments": 2
+    },
+    {
+     "file": "0299.json",
+     "ref": "35.1.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0300.json",
+     "ref": "35.1.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0301.json",
+     "ref": "35.1.4",
+     "title": "Inference 4.",
+     "segments": 1
+    },
+    {
+     "file": "0302.json",
+     "ref": "35.1.5",
+     "title": "Inference 5.",
+     "segments": 5
+    },
+    {
+     "file": "0303.json",
+     "ref": "35.1.6",
+     "title": "Inference 6.",
+     "segments": 4
+    },
+    {
+     "file": "0304.json",
+     "ref": "36.0",
+     "title": "The THIRTY SIXTHSerm. 36. SERMON.Opens the seventh and last word with which Christ breathed out his soul.",
+     "segments": 8
+    },
+    {
+     "file": "0305.json",
+     "ref": "36.1.0",
+     "title": "DOCT. That dying believers are both warranted,Doct. and encouraged by Christs example, believingly to commend their pretious Souls into the hands of God.",
+     "segments": 20
+    },
+    {
+     "file": "0306.json",
+     "ref": "36.1.1",
+     "title": "Diduction 1.",
+     "segments": 2
+    },
+    {
+     "file": "0307.json",
+     "ref": "36.1.2",
+     "title": "Diduction 2.",
+     "segments": 1
+    },
+    {
+     "file": "0308.json",
+     "ref": "36.1.3",
+     "title": "Diduction 3.",
+     "segments": 1
+    },
+    {
+     "file": "0309.json",
+     "ref": "36.1.4",
+     "title": "Diduction 4.",
+     "segments": 5
+    },
+    {
+     "file": "0310.json",
+     "ref": "36.1.5",
+     "title": "Diduction 5.",
+     "segments": 1
+    },
+    {
+     "file": "0311.json",
+     "ref": "36.1.6",
+     "title": "Diduction 6.",
+     "segments": 2
+    },
+    {
+     "file": "0312.json",
+     "ref": "37.0",
+     "title": "The THIRTY SEVENTHSerm. 37. SERMON.Treats of Christs Funeral, opening the manner, reasons, and excellent ends thereof.",
+     "segments": 9
+    },
+    {
+     "file": "0313.json",
+     "ref": "37.1.0",
+     "title": "DOCT. That the dead Body of our Lord Iesus Christ was decently interr'd, Doct. by a small number of his own Disciples; and continued in the state of the dead for a time.",
+     "segments": 15
+    },
+    {
+     "file": "0314.json",
+     "ref": "37.1.1",
+     "title": "Vse.",
+     "segments": 6
+    },
+    {
+     "file": "0315.json",
+     "ref": "37.1.2",
+     "title": "Corollary 1.",
+     "segments": 3
+    },
+    {
+     "file": "0316.json",
+     "ref": "37.1.3",
+     "title": "Corollary. 2.",
+     "segments": 1
+    },
+    {
+     "file": "0317.json",
+     "ref": "37.1.4",
+     "title": "Corollary 3.",
+     "segments": 2
+    },
+    {
+     "file": "0318.json",
+     "ref": "37.1.5",
+     "title": "Corollary 4.",
+     "segments": 6
+    },
+    {
+     "file": "0319.json",
+     "ref": "37.1.6",
+     "title": "Corollary 5.",
+     "segments": 8
+    },
+    {
+     "file": "0320.json",
+     "ref": "38.0",
+     "title": "The THIRTY EIGHTH SERMON.Serm. 38. Wherein four weighty ends of Christs humiliation are opened, and particularly applied.",
+     "segments": 6
+    },
+    {
+     "file": "0321.json",
+     "ref": "38.1.0",
+     "title": "DOCT. That all the blessed designs and ends for which the Lord Iesus Christ humbled himself to the death of the Cross,Doct. shall certainly be attained, to his full content and satisfaction.",
+     "segments": 6
+    },
+    {
+     "file": "0322.json",
+     "ref": "38.1.1",
+     "title": "End 1.",
+     "segments": 7
+    },
+    {
+     "file": "0323.json",
+     "ref": "38.1.2",
+     "title": "Corollary 1.",
+     "segments": 9
+    },
+    {
+     "file": "0324.json",
+     "ref": "38.1.3",
+     "title": "Corollary 2.",
+     "segments": 6
+    },
+    {
+     "file": "0325.json",
+     "ref": "38.1.4",
+     "title": "End 2.",
+     "segments": 12
+    },
+    {
+     "file": "0326.json",
+     "ref": "38.1.5",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0327.json",
+     "ref": "38.1.6",
+     "title": "Inference 2.",
+     "segments": 2
+    },
+    {
+     "file": "0328.json",
+     "ref": "38.1.7",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0329.json",
+     "ref": "38.1.8",
+     "title": "End 3.",
+     "segments": 7
+    },
+    {
+     "file": "0330.json",
+     "ref": "38.1.9",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0331.json",
+     "ref": "38.1.10",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0332.json",
+     "ref": "38.1.11",
+     "title": "End 4.",
+     "segments": 4
+    },
+    {
+     "file": "0333.json",
+     "ref": "38.1.12",
+     "title": "Inference 1.",
+     "segments": 3
+    },
+    {
+     "file": "0334.json",
+     "ref": "38.1.13",
+     "title": "Inference 2.",
+     "segments": 15
+    },
+    {
+     "file": "0335.json",
+     "ref": "39.0",
+     "title": "Serm. 39.The THIRTY NINHTH SERMON.Wherein the Resurrection of Christ with its influences upon the Saints Resurrection is clearly opened and comfortably applied, being the first step of his Exaltation.",
+     "segments": 6
+    },
+    {
+     "file": "0336.json",
+     "ref": "39.1.0",
+     "title": "DOCT. That our Lord Iesus Christ,Doct. by the Almighty power of his own God-head, revived, and rose from the Dead; to the terror and consternation of his enemies, and the unspeakable consolation of Be",
+     "segments": 25
+    },
+    {
+     "file": "0337.json",
+     "ref": "39.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0338.json",
+     "ref": "39.1.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0339.json",
+     "ref": "39.1.3",
+     "title": "Inference 3.",
+     "segments": 8
+    },
+    {
+     "file": "0340.json",
+     "ref": "40.0",
+     "title": "The FORTIETHSerm. 40. SERMON.Wherein the Ascension of Christ is opened, and variously improved, being the second step of his Exaltation.",
+     "segments": 4
+    },
+    {
+     "file": "0341.json",
+     "ref": "40.1.0",
+     "title": "DOCT. That our Lord Iesus Christ did not only rise from the Dead,Doct. but also ascended into Heaven; there to dispatch all that remained to be done for the compleating the Salvation of his people.",
+     "segments": 22
+    },
+    {
+     "file": "0342.json",
+     "ref": "40.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0343.json",
+     "ref": "40.1.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0344.json",
+     "ref": "40.1.3",
+     "title": "Inference 3.",
+     "segments": 1
+    },
+    {
+     "file": "0345.json",
+     "ref": "40.1.4",
+     "title": "Inference 4.",
+     "segments": 7
+    },
+    {
+     "file": "0346.json",
+     "ref": "40.1.5",
+     "title": "Inference 5.",
+     "segments": 3
+    },
+    {
+     "file": "0347.json",
+     "ref": "41.0",
+     "title": "The FORTY FIRSTSerm. 41. SERMON.Wherein Christ sitting at Gods right hand is explained and applied, being the third step of his glorious exaltation.",
+     "segments": 5
+    },
+    {
+     "file": "0348.json",
+     "ref": "41.1.0",
+     "title": "DOCT. That when our Lord Iesus Christ had finished his work on earth,Doct. he was placed in the seat of the highest honour, and authority; at the right hand of God in Heaven.",
+     "segments": 9
+    },
+    {
+     "file": "0349.json",
+     "ref": "41.1.1",
+     "title": "Inference 1.",
+     "segments": 2
+    },
+    {
+     "file": "0350.json",
+     "ref": "41.1.2",
+     "title": "Inference 2.",
+     "segments": 1
+    },
+    {
+     "file": "0351.json",
+     "ref": "41.1.3",
+     "title": "Inference 3.",
+     "segments": 3
+    },
+    {
+     "file": "0352.json",
+     "ref": "41.1.4",
+     "title": "Inference 4.",
+     "segments": 1
+    },
+    {
+     "file": "0353.json",
+     "ref": "41.1.5",
+     "title": "Inference 5.",
+     "segments": 6
+    },
+    {
+     "file": "0354.json",
+     "ref": "42.0",
+     "title": "Serm. 42.The FORTY SECOND SERMON.Wherein Christs coming to Judgement being the fourth and last degree of his Exaltation is opened and improved.",
+     "segments": 8
+    },
+    {
+     "file": "0355.json",
+     "ref": "42.1.0",
+     "title": "DOCT. That our Lord Iesus Christ is ordained by God the Father,Doct. to be the Iudge of quick and Dead.",
+     "segments": 18
+    },
+    {
+     "file": "0356.json",
+     "ref": "42.1.1",
+     "title": "Inference 1.",
+     "segments": 1
+    },
+    {
+     "file": "0357.json",
+     "ref": "42.1.2",
+     "title": "Inference 2.",
+     "segments": 7
+    },
+    {
+     "file": "0358.json",
+     "ref": "42.1.3",
+     "title": "Inference 3.",
+     "segments": 2
+    },
+    {
+     "file": "0359.json",
+     "ref": "42.1.4",
+     "title": "Inference 4.",
+     "segments": 2
+    },
+    {
+     "file": "0360.json",
+     "ref": "43",
+     "title": "The General Use of the whole pressing to holiness, which is the main scope of the Doctrine of Redemption.The General USE.",
+     "segments": 39
+    }
+   ]
+  }
+ ]
+}

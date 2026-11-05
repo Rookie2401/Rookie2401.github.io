@@ -1,0 +1,157 @@
+{
+ "workId": "council-constantinople-i-canons",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "council-constantinople-i-npnf14",
+   "role": "english",
+   "language": "english",
+   "credit": "The Second Ecumenical Council: canons and letters, in Nicene and Post-Nicene Fathers, Series II, vol. 14: The Seven Ecumenical Councils of the Undivided Church, their canons and dogmatic decrees, ed. Henry R. Percival, trans. Various (translators of the individual texts are not named on the pages opened); edited with notes by Henry R. Percival (New York; Oxford; Edinburgh: The Christian Literature Company (New York); Parker & Co. (Oxford); T. & T. Clark (Edinburgh), 1900). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers: Series II), CC BY-SA (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_XIV/The_Second_Ecumenical_Council",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 93443,
+   "sourceSha256": "864864b995da11db21f093cf7a45bef9aac11700b69673edf2b958139f3510e9",
+   "leftOut": {
+    "note": 12
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Second Ecumenical Council/Canons/Canon I",
+     "bytes": 3667,
+     "sha256": "4f40352cd8a6fa3e383f662a4055c8d6245098ae9a2da15bdde9bce7290e0f0b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Second Ecumenical Council/Canons/Excursus 1",
+     "bytes": 19329,
+     "sha256": "aeba82e3ab0504f5478de52e0bf46d267e72a6338036e7d8ac182705563cbcaa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Second Ecumenical Council/Canons/Canon II",
+     "bytes": 5945,
+     "sha256": "a7956cb2a03240479b25ce80b9d4d725401530f21c6a83c1f1aeea355e287082"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Second Ecumenical Council/Canons/Canon III",
+     "bytes": 9890,
+     "sha256": "f660165598026006d197cbbf7d6769d3037a9d34238d2f9c20ae06639cf65ffa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Second Ecumenical Council/Canons/Canon IV",
+     "bytes": 9488,
+     "sha256": "9bd7c4c98314106c407304449b77b8948d68a3ef085a38784758bada14e21f29"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Second Ecumenical Council/Canons/Canon V",
+     "bytes": 7135,
+     "sha256": "4697741eb5ebbcf053a5786dc10569983d8e4d199350d1d80b7a8912afc2adda"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Second Ecumenical Council/Canons/Canon VI",
+     "bytes": 9376,
+     "sha256": "c79a07d36c192d73e64ab2a137da207df93f845032eb0640a3ebd31d1830b681"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Second Ecumenical Council/Canons/Warning to the Reader Touching Canon VII",
+     "bytes": 2874,
+     "sha256": "cf887e565b3249bd9518a699f362fdda28cc0cada4b9ef0c079494630c250476"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Second Ecumenical Council/Canons/Canon VII",
+     "bytes": 4904,
+     "sha256": "5fe6d221a70e37c8fff6c738cfbfad6a20cfeb5ccfb353d87b86e393ffa7ad5c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Second Ecumenical Council/Canons/Excursus 2",
+     "bytes": 7371,
+     "sha256": "6c6a190da4d0b997fe3ea5220e0d27b768cd03d0215ce261003f32e7c2de6af9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Second Ecumenical Council/The Synodical Letter",
+     "bytes": 10381,
+     "sha256": "06d7e62e117feacf6dd4ba40a03dadbaea0ba15cc48f26b0a1d008212ad2db67"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Second Ecumenical Council/Letter of the Same Holy Synod to the Most Pious Emperor Theodosius the Great",
+     "bytes": 3083,
+     "sha256": "2e20961c9963a2c3c91e065390930dea90346f30a7794314bc3397a15e583892"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 10
+    },
+    {
+     "file": "0002.json",
+     "ref": "p1.p1",
+     "title": "p1.p1",
+     "segments": 27
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 19
+    },
+    {
+     "file": "0004.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 16
+    },
+    {
+     "file": "0005.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 16
+    },
+    {
+     "file": "0006.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 21
+    },
+    {
+     "file": "0007.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 17
+    },
+    {
+     "file": "0008.json",
+     "ref": "p1.p2",
+     "title": "p1.p2",
+     "segments": 5
+    },
+    {
+     "file": "0009.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 16
+    },
+    {
+     "file": "0010.json",
+     "ref": "p1.p3",
+     "title": "p1.p3",
+     "segments": 9
+    },
+    {
+     "file": "0011.json",
+     "ref": "p2",
+     "title": "p2",
+     "segments": 8
+    },
+    {
+     "file": "0012.json",
+     "ref": "p3",
+     "title": "p3",
+     "segments": 4
+    }
+   ]
+  }
+ ]
+}

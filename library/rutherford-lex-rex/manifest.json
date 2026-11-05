@@ -1,0 +1,305 @@
+{
+ "workId": "rutherford-lex-rex",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "rutherford-lex-rex-1644-tcp",
+   "role": "english",
+   "language": "english",
+   "credit": "Lex, rex: the law and the prince, in EEBO-TCP A57975 (London: John Field, 1644). Transcription: Text Creation Partnership (EEBO-TCP Phase 1): keyboarded and encoded from page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A57975/master/A57975.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1705304,
+   "sourceSha256": "9958a32bcd6f062814144fe6d8c4ecb34334dd40d2fac2f3ff3a7ca03f74f440",
+   "leftOut": {
+    "pb": 454,
+    "note": 824,
+    "unread": 677
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 201032,
+    "unreadPerThousand": 3.4
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "The PREFACE.",
+     "segments": 65
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "QUEST. I. In what sense Government is from God?",
+     "segments": 6
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "QUEST. II. Whether or not, Government be warranted by the Law of nature.",
+     "segments": 5
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.3",
+     "title": "QUEST. III. Whether Royall Power and definite forms of Government be from God?",
+     "segments": 6
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.4",
+     "title": "QUEST. IIII. Whether the king be only and imediatly from God, & not from the people.",
+     "segments": 11
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.5",
+     "title": "QUEST. V. Whether or no P. P. the Author of Sac. San. Regum Majestas, called the sacred and Royall Prerogative of Kings, proveth that God is the immediate Author of Soveraignty, and that the King is n",
+     "segments": 15
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.6",
+     "title": "QUEST. VI. Whether the King be so from God onely both in regard of his Soveraignty, and of the designation of his person to the Crown, as that he is no waies from the people, but by meere approbation?",
+     "segments": 8
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.7",
+     "title": "QUEST. VII. Whether or no the P. Prelate the aforesaid Author doth by force of reason evince, that neither constitution nor designation of the King is from the people?",
+     "segments": 9
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.8",
+     "title": "QUEST. VIII. Whether the Prelate proveth by force of reason, that the people cannot be capable of any power of Government?",
+     "segments": 8
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.9",
+     "title": "QUEST. IX. Whether or no Soveraigntie is so from the people, that it remaineth in them in some part, so as they may in case of necessitie resume it?",
+     "segments": 13
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.10",
+     "title": "QUEST. X. Whether or not Royall birth be equivalent to divine unction?",
+     "segments": 20
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.11",
+     "title": "QUEST. XI. Whether or no he be more principally a King, who is a King by birth, or he who is a King by the free election and suffrages of the people?",
+     "segments": 6
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.12",
+     "title": "QUEST. XII. Whether or not a Kingdome may lawfully be purchased by the sole title of conquest?",
+     "segments": 5
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.13",
+     "title": "QUEST. XIII. Whether or no Royall dignitie have its spring from nature, and how that is true (every man is born free) and how servitude is contrary to nature?",
+     "segments": 11
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.14",
+     "title": "QUEST. XIIII. Whether or no the people make a Person their King conditionally, or absolutely? and whether there be such a thing as a Covenant tying the King no lesse then his subjects?",
+     "segments": 21
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.15",
+     "title": "QUEST. XV. Whether or no the King be Vnivocally, or only Analogically, and by proportion a father?",
+     "segments": 4
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.16",
+     "title": "QUEST. XVI. Whether or no a despotiticall and masterly dominion of men and things, agree to the King, because he is King.",
+     "segments": 23
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.17",
+     "title": "QUEST. XVII. Whether or not the Prince have properly a fiduciarie, and ministeriall power of a Tutor, Husband, Patron, Minister, head, father of a family, not of a Lord or dominator?",
+     "segments": 16
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.18",
+     "title": "QUEST. XVIII. What is the law of the King, and his Power? 1 Sam. 8.11. This will be the manner of the King who shall reigne over you, &c.",
+     "segments": 8
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.19",
+     "title": "QUEST. XIX. Whether or no the King be in Dignity and power above the people?",
+     "segments": 29
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.20",
+     "title": "QUEST. XX. Whether or no inferiour Judges be univocally and essentially Judges, and the immediate Vicars of God, no lesse then the King, or if they be onely the Deputies and Vicars of the King?",
+     "segments": 22
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.21",
+     "title": "QUEST. XXI. What power the People and States of Parliament have over the King, and in the State?",
+     "segments": 12
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.22",
+     "title": "QUEST. XXII. Whether the power of the King as King be absolute, or dependent and limited by Gods first mould and paterne of a King?",
+     "segments": 20
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.23",
+     "title": "QUEST. XXIII. Whether the King hath any Royall prerogative, or a power to dispence with Lawes? And some other grounds against absolute Monarchie.",
+     "segments": 62
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.24",
+     "title": "QUEST. XXIV. What power hath the King in relation to the Law, and the people? And how a King and a Tyrant differ?",
+     "segments": 37
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.25",
+     "title": "QUEST. XXV. What force the Supreme Law hath over the King? even that Law of the Peoples safetie, called, Salus Populi.",
+     "segments": 61
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.26",
+     "title": "QUEST. XXVI. Whether the King be above the Law or no?",
+     "segments": 73
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.27",
+     "title": "QUEST. XXVII. Whether or no the King be the sole supreme and finall interpreter of the Law?",
+     "segments": 19
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.28",
+     "title": "QUEST. XXVIII. Whether or no, Wars raised by the Subjects and Estates, for their own just defence against the Kings bloody Emissaries, be lawfull?",
+     "segments": 21
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.29",
+     "title": "QUEST. XXIX. Whether, in the case of Defensive warre, the distinction of the person of the King, as a man, who can commit acts of hostile Tyrannie against his Subjects: and of the Office and Royall po",
+     "segments": 16
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.30",
+     "title": "QUEST. XXX. Whether or no Passive Obedience be a meane to which we are subjected in conscience by vertue of a Divine Commandement, and what a meane Resistance is. That Flying is Resistance.",
+     "segments": 11
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.31",
+     "title": "QUEST. XXXI. Whether or no self-defence against any unjust violence offered to the life, be warranted by Gods Law, and the Law of Nature and Nations?",
+     "segments": 19
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.32",
+     "title": "QUEST. XXXII. Whether or no the lawfulnesse of defensive warres hath its warrant in Gods word, from the example of David, Elisha, the eighty Priests who resisted Uzziah, &c?",
+     "segments": 14
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.33",
+     "title": "QUEST. XXXIII. Whether or no the place Rom. 13.1. prove that in no case it is lawfull to resist the King?",
+     "segments": 9
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.34",
+     "title": "QUEST. XXXIIII. Whether Royalists by cogent reasons do prove the unlawfulnesse of defensive warres?",
+     "segments": 41
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.35",
+     "title": "QUEST. XXXV. Whether or no the sufferings of the Martyrs in the Primitive Church militate against the lawfulnesse of defensive wars?",
+     "segments": 15
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.36",
+     "title": "QUEST. XXXVI. Whether the power of Warre be onely in the King?",
+     "segments": 14
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.37",
+     "title": "QUEST. XXXVII. Whether or no it be lawfull that the Estates of Scotland help their oppressed brethren the Parliament and Protestants in England against Papists and Prelates now in Armes against them, ",
+     "segments": 21
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.38",
+     "title": "QUEST. XXXVIII. Whether Monarchy be the best of governments?",
+     "segments": 24
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.39",
+     "title": "QUEST. XXXIX. Whether or no any Prerogative at all above the law be due to the King? or if jura Majestatis be any such Prerogative Royall?",
+     "segments": 14
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.40",
+     "title": "QUEST. XL. Whether or no the people have any power over the King, either by his oath, covenant, or any other way?",
+     "segments": 38
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.41",
+     "title": "QUEST. XLI. Whether doth the P. Prelate upon good grounds, ascribe to us the doctrine of Jesuites in these Questions of lawfull defensive Wars?",
+     "segments": 43
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.42",
+     "title": "QUEST. XLII. Whether all Christian Kings are dependent from Christ, and may be called his Vicegerents?",
+     "segments": 65
+    },
+    {
+     "file": "0044.json",
+     "ref": "1.43",
+     "title": "QUEST. XLIII. Whether the King of Scotland be an absolute Prince, having Prerogatives above Parliament and Laws? The Negative is asserted by the Lawes of Scotland, the Kings Oath of Coronation, the Co",
+     "segments": 87
+    },
+    {
+     "file": "0045.json",
+     "ref": "1.44",
+     "title": "QUEST. XLIV. Generall results of the former Doctrine, in some few Corollaries, or straying Questions, fallen off the Road-way: answered briefly.",
+     "segments": 23
+    },
+    {
+     "file": "0046.json",
+     "ref": "1.end",
+     "title": "1.end",
+     "segments": 1
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,631 @@
+{
+ "workId": "chrysostom-homilies-acts",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "chrysostom-acts-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Homilies on the Acts of the Apostles, in A Select Library of the Nicene and Post-Nicene Fathers, series I, vol. XI (Homilies on the Acts of the Apostles and the Epistle to the Romans), trans. J. Walker, J. Sheppard and H. Browne (Oxford translation), revised with notes by George B. Stevens (Buffalo; New York: Christian Literature Co., 1889). Wikisource contributors, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_XI/On_the_Acts_of_the_Apostles",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 2381803,
+   "sourceSha256": "dd80ab287e12b5bad439ac418620f75fa44a09009617361860cd359356d8493e",
+   "leftOut": {
+    "note": 1180,
+    "unclosedTemplate": 2
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily III on Acts i. 12",
+     "bytes": 56447,
+     "sha256": "af990f4201ed75c1627540f0304ad7e119cd892a184d08d223dc1492c9abfd7f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily II on Acts i. 6",
+     "bytes": 44415,
+     "sha256": "3d59f9d087be5a141406645cf46763ccd5389adbb21c2005b68b35a9bf82da25"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily IV on Acts ii. 1, 2",
+     "bytes": 49555,
+     "sha256": "454a9b5e0656b63569b0be1fbec9b0565831035e93863b851257c05f5c173646"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily IX on Acts iii. 12",
+     "bytes": 65857,
+     "sha256": "49ed11b3822dbc88d53f2284590ca8989e2f98cfe3e21d7cea733273689d56e7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily I on Acts i. 1, 2",
+     "bytes": 60671,
+     "sha256": "f65100c9448b7d437ef3e6879fe6a00e108e5c63538c14695d1010268dfc8a09"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily LIII on Acts xxvi. 30-32",
+     "bytes": 33779,
+     "sha256": "2089f1915dc51af95f34b704ad5a345dd905c67a95c3cf39e98a605a4036d7b7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily LII on Acts xxv. 23",
+     "bytes": 46290,
+     "sha256": "012922c79c730a93bb70b3395d427799744e18e87e1631caab60ff67054b6f9f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily LIV on Acts xxviii. 1",
+     "bytes": 28763,
+     "sha256": "3f8397da6d94bc7dddb968fee6803af5c70ccbc92e77491435db8a83cf76f49e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily LI on Acts xxiv. 22, 23",
+     "bytes": 34843,
+     "sha256": "937e94d094848e45acf6f698264cbc0ffe206bb478252583155f9375dc0cdde0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily LV on Acts xxviii. 17-20",
+     "bytes": 30594,
+     "sha256": "fb45a6c6e88972812b7f8ab53d61f88e92860a81ba895a43df28d334b17947f0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily L on Acts xxiii. 31-33",
+     "bytes": 41214,
+     "sha256": "d5688d617b4e10054596e5a630251f25cd9ba994c1c88498fe9ba8eb7a398cbb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily VIII on Acts iii. 1",
+     "bytes": 29594,
+     "sha256": "154c96a412cd7b4370a7cb1146e551788be0be3bb804bf4f16a11455d1d5702f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily VII on Acts ii. 37",
+     "bytes": 42984,
+     "sha256": "40afea8ab2008954f27bd6d0288ba97f80af9afe7127a8de2cacba58f37bbfeb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily VI on Acts ii. 22",
+     "bytes": 51844,
+     "sha256": "90e493fd71347228ad37cca74bab035df64a1f5e565f44b2e8f58e1aaebc70d2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily V on Acts ii. 14",
+     "bytes": 46345,
+     "sha256": "8f293491db88ddb09cab939aba1a6f0ab184c701ba0a9e0a685cdc5d70bfa40c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XIII on Acts v. 17, 18",
+     "bytes": 46080,
+     "sha256": "64853828e4958aca44634902ccb3286c54da02e74d8ef5383dc253223935a11b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XII on Acts iv. 36, 37",
+     "bytes": 29631,
+     "sha256": "45d52fc9e0286bc7b55de95c2cfb7232bd5462d7384ccacd2dc581b60900f291"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XIV on Acts v. 34",
+     "bytes": 56027,
+     "sha256": "957697311a79114f38f9a8ad18642f683975f538cfd669bf9a38a8de96a76045"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XIX on Acts viii. 26, 27",
+     "bytes": 70870,
+     "sha256": "7ba6cd1a8a9d2244a368c70cfb324654b9cbe3be8f07b3a870a60d15f8364021"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XI on Acts iv. 23",
+     "bytes": 40818,
+     "sha256": "e24c2bd6f8eac40e66bb47b7b18d0d13eb37d90bd8b050d5addbff6931fe75d9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XLIII on Acts xx. 1",
+     "bytes": 31398,
+     "sha256": "79f9c87f732381ee91504483781aa702ba974efb417aa6ccfcc5bffbd8d865a3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XLII on Acts xix. 21, 23",
+     "bytes": 41719,
+     "sha256": "f0ba9381dfa356324a630e2e2a81d7491d3f4e65aab6ad1988bd3737de6b110c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XLIV on Acts xx. 17-21",
+     "bytes": 36566,
+     "sha256": "5248fb512563731911b6dfcc0fdd831b2c96f2b9b5be31a2f2d8892da06de81f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XLIX on Acts xxiii. 6-8",
+     "bytes": 28080,
+     "sha256": "bb151bfbf3769097ab3a06648dea34205ed762b981c35e91dbc452d4e2407fb9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XLI on Acts xix. 8, 9",
+     "bytes": 49935,
+     "sha256": "d9356b9e912d5ebe6b49777af58607fa51bdb96a2ad16a736c671828dae3c7b7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XLVIII on Acts xxii. 17-20",
+     "bytes": 38436,
+     "sha256": "c9a20d7a09b567a54315dc299209589db8fd272456b8d68568733186d60ea013"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XLVII on Acts xxi. 39, 40",
+     "bytes": 29520,
+     "sha256": "08e7a72819b83dbd2511607184e448309c39371d1baaf29c362a241790703219"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XLVI on Acts xxi. 18, 19",
+     "bytes": 29905,
+     "sha256": "927efdffb6f920e3b778506b423395cdb0f566046a933f0221a4ade0aeeb7f69"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XLV on Acts xx. 32",
+     "bytes": 33018,
+     "sha256": "7de43d073dfd665fe5b9b1b4907fbdadc1b508a0bafb96fbf6fd0b49425605d0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XL on Acts xviii. 18",
+     "bytes": 41385,
+     "sha256": "5261d66e1fc8c3d1ceb636f66a03fb21bac59cca230d4d3d92b6f94f9bb47b1a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XVIII on Acts vii. 54",
+     "bytes": 73928,
+     "sha256": "ab1973a1b1af4153623e4cc9ec3e33d30b21dbb564863946888cdafd2450b0c9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XVII on Acts vii. 35",
+     "bytes": 39753,
+     "sha256": "a921fde9ad3198a38ae45c3046ff665fa2a810274ebbfffe126f6d28b1c8161f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XVI on Acts vii. 6, 7",
+     "bytes": 41447,
+     "sha256": "1b8de6106ae744e4feb5ae6e763cc01cfd30c209191044d2e4cbcc4c9f5d117a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XV on Acts vi. 8",
+     "bytes": 42078,
+     "sha256": "b8b33a1140221530e4875491e8f2337a254b2b61f0f7ff2caaed9cfe5ae92a94"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XXIII on Acts x. 23, 24",
+     "bytes": 56420,
+     "sha256": "ec1833278d9fd563d18ffa57e694c2773d0b5c9b480e6d5c8d4801c476adc72e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XXII on Acts x. 1-4",
+     "bytes": 59316,
+     "sha256": "4d2761b6a560dbc6cea29c5a3a732089468d063c01f13ab14f221db5d4fd649f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XXIV on Acts x. 44, 46",
+     "bytes": 49000,
+     "sha256": "39a73fcbbbea2875f27421020a2c161bc398bb92e1b549b7d6ccd87f7c8b5fce"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XXIX on Acts xiii. 16, 17",
+     "bytes": 42473,
+     "sha256": "c5fc9906176ae165ff944db100b42d80b660af7065861dfa28f0653146a522cb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XXI on Acts ix. 26, 27",
+     "bytes": 61797,
+     "sha256": "a2fb38012a8d3f88e5db1debf7b30f6a4d79c7301c21e6d807ae23e2c4fb8044"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XXVIII on Acts xiii. 4, 5",
+     "bytes": 24463,
+     "sha256": "c3d66a6642571c328a41b5e6d622dc11bba551c0bd944971d4468285b6534c1d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XXVII on Acts xii. 18, 19",
+     "bytes": 30924,
+     "sha256": "d9df5524c1fe2769a1cb901ab438229a928053d3aba872488b52ceeeb47b3319"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XXVI on Acts xii. 1, 2",
+     "bytes": 39113,
+     "sha256": "b9f2bc6e615996cc1df39c8b35cd3467627936282468cef31560eb109bd0bcd4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XXV on Acts xi. 19",
+     "bytes": 42163,
+     "sha256": "6d82d0a408e5f881b5498b1de90bdf25fc23a6857a7777c5566ea007cb0d7f9c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XXXIII on Acts xv. 13, 15",
+     "bytes": 57440,
+     "sha256": "8e31dfeb55725f0f701f92763949feaebe66bf0f54917c507a4e7b084f9191bf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XXXII on Acts xv. 1",
+     "bytes": 33143,
+     "sha256": "3004fee3cb4862b2e00b3775eddd39369a439260083e178140832e5c8b4430c1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XXXIV on Acts xv. 35",
+     "bytes": 48429,
+     "sha256": "1d00261ff402f7a81b86927a8ce092553d117566de394af90bc913dc2147c926"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XXXIX on Acts xvii. 32-34. xviii. 1",
+     "bytes": 39505,
+     "sha256": "4eaecf2fb6afb822ab4f83476d6d2770074170c6a03e841be1ae216b2ddc7baa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XXXI on Acts xiv. 14, 15",
+     "bytes": 42657,
+     "sha256": "014a6f6e894b16cda57da9e3abb97a8081d41b932ef8d71f365308a8806a69c1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XXXVIII on Acts xvii. 16, 17",
+     "bytes": 59294,
+     "sha256": "c9f7df2145f3b9baf46967d0148ae862d8f3b5313d68517a83445ee4f1cc83aa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XXXVII on Acts xvii. 1, 2, 3",
+     "bytes": 30346,
+     "sha256": "49482c1d177bb961f580ae4c7c0d68ebbc289832711f5770035302a7bc4ba855"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XXXVI on Acts xvi. 25, 26",
+     "bytes": 29742,
+     "sha256": "817fd96e8c8f6aacb0db6206fdd60b17a5437c90e36b1a45e406a9ebd32a71fc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XXXV on Acts xvi. 13, 14",
+     "bytes": 30350,
+     "sha256": "39e572f5caa7a22dbe35e13170b49aacfe831ecceec913e80ce143a59029daca"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XXX on Acts xiii. 42",
+     "bytes": 51224,
+     "sha256": "ccbd1049ed4def0ba2ea70fdcb01746a8b71496b5482accb5cd11a6203a4f9a0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily XX on Acts ix. 10, 12",
+     "bytes": 40340,
+     "sha256": "16556e8176648d347fb0bcd468786b660946f37f6ab9251dc3a02ef95f81b99e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XI/On the Acts of the Apostles/Homily X on Acts iv. 1",
+     "bytes": 49875,
+     "sha256": "c4672723a0da371e734aad0e48aa26e68480918ac40be78c4d6484b5c03c6d27"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 24
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 9
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 16
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 9
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 9
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 8
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 6
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 12
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 12
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 12
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 8
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 9
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 8
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 6
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 7
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 8
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 8
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 12
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 8
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 8
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 7
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 6
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 7
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 9
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 8
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 8
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 7
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 6
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 9
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 8
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 6
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 8
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 7
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 10
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 7
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 8
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 6
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 8
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 7
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 7
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 9
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 7
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 6
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 6
+    },
+    {
+     "file": "0045.json",
+     "ref": "45",
+     "title": "45",
+     "segments": 5
+    },
+    {
+     "file": "0046.json",
+     "ref": "46",
+     "title": "46",
+     "segments": 6
+    },
+    {
+     "file": "0047.json",
+     "ref": "47",
+     "title": "47",
+     "segments": 6
+    },
+    {
+     "file": "0048.json",
+     "ref": "48",
+     "title": "48",
+     "segments": 6
+    },
+    {
+     "file": "0049.json",
+     "ref": "49",
+     "title": "49",
+     "segments": 7
+    },
+    {
+     "file": "0050.json",
+     "ref": "50",
+     "title": "50",
+     "segments": 6
+    },
+    {
+     "file": "0051.json",
+     "ref": "51",
+     "title": "51",
+     "segments": 6
+    },
+    {
+     "file": "0052.json",
+     "ref": "52",
+     "title": "52",
+     "segments": 6
+    },
+    {
+     "file": "0053.json",
+     "ref": "53",
+     "title": "53",
+     "segments": 5
+    },
+    {
+     "file": "0054.json",
+     "ref": "54",
+     "title": "54",
+     "segments": 6
+    },
+    {
+     "file": "0055.json",
+     "ref": "55",
+     "title": "55",
+     "segments": 6
+    }
+   ]
+  }
+ ]
+}

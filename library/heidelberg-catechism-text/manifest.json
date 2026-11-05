@@ -1,0 +1,329 @@
+{
+ "workId": "heidelberg-catechism-text",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "heidelberg-catechism-ny-1764-tcp-n07592",
+   "role": "english",
+   "language": "english",
+   "credit": "The Heidelbergh catechism, or method of instruction, in the Christian religion, as the same is taught in the Reformed churches and schools of Holland, in EEBO-TCP/Evans-TCP N07592 (Evans 9694): New York: John Holt, 1764, translated for the Reformed Protestant Dutch Church of the City of New York, trans. Collegiate Reformed Protestant Dutch Church of the City of New York (translator not named) (New York: John Holt, at the Exchange, 1764). Transcription: Text Creation Partnership (EEBO-TCP Phase 1); keyboarded from page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/N07592/master/N07592.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 111933,
+   "sourceSha256": "df5991df8a1dec8ed29f8fcbcdc2f45de6a61f609ab0404d0e7e88459944cf2d",
+   "leftOut": {
+    "pb": 43,
+    "note": 389,
+    "unread": 2
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 8454,
+    "unreadPerThousand": 0.2
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "front.1",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "I. LORD'S DAY.",
+     "segments": 8
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "THE SECOND PART. Of Man's Deliverance. V. LORD'S DAY.",
+     "segments": 8
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.3",
+     "title": "VI. LORD'S DAY.",
+     "segments": 8
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.4",
+     "title": "VII. LORD'S DAY.",
+     "segments": 8
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.5",
+     "title": "VIII. LORD'S DAY.",
+     "segments": 4
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.6",
+     "title": "OF GOD THE FATHER. IX. LORD'S DAY.",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.7",
+     "title": "X. LORD'S DAY.",
+     "segments": 4
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.8",
+     "title": "OF GOD THE SON. XI. LORD'S DAY.",
+     "segments": 4
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.9",
+     "title": "XII. LORD'S DAY.",
+     "segments": 4
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.10",
+     "title": "XIII. LORD'S DAY.",
+     "segments": 4
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.11",
+     "title": "XIV. LORD'S DAY.",
+     "segments": 4
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.12",
+     "title": "XV. LORD'S DAY.",
+     "segments": 6
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.13",
+     "title": "XVI. LORD'S DAY.",
+     "segments": 10
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.14",
+     "title": "XVII. LORD'S DAY.",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.15",
+     "title": "XVIII. LORD'S DAY.",
+     "segments": 8
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.16",
+     "title": "XIX. LORD'S DAY.",
+     "segments": 6
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.17",
+     "title": "OF GOD THE HOLY GHOST. XX. LORD'S DAY.",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.18",
+     "title": "XXI. LORD'S DAY.",
+     "segments": 6
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.19",
+     "title": "XXII. LORD'S DAY.",
+     "segments": 4
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.20",
+     "title": "XXIII. LORD'S DAY.",
+     "segments": 6
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.21",
+     "title": "XXIV. LORD'S DAY.",
+     "segments": 6
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.22",
+     "title": "OF THE SACRAMENTS. XXV. LORD'S DAY.",
+     "segments": 8
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.23",
+     "title": "OF HOLY BAPTISM. XXVI. LORD'S DAY.",
+     "segments": 6
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.24",
+     "title": "XXVII. LORD'S DAY.",
+     "segments": 6
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.25",
+     "title": "OF THE HOLY SUPPER OF OUR LORD JESUS CHRIST. XXVIII. LORD'S DAY.",
+     "segments": 7
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.26",
+     "title": "XXIX. LORD'S DAY.",
+     "segments": 4
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.27",
+     "title": "XXX. LORD'S DAY.",
+     "segments": 6
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.28",
+     "title": "XXXI. LORD'S DAY.",
+     "segments": 6
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.29",
+     "title": "THE THIRD PART. OF THANKFULNESS. XXXII. LORD'S DAY.",
+     "segments": 4
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.30",
+     "title": "XXXIII. LORD'S DAY.",
+     "segments": 8
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.31",
+     "title": "XXXIV. LORD'S DAY.",
+     "segments": 9
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.32",
+     "title": "XXXV. LORD'S DAY.",
+     "segments": 6
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.33",
+     "title": "XXXVI. LORD'S DAY.",
+     "segments": 4
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.34",
+     "title": "XXXVII. LORD'S DAY.",
+     "segments": 4
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.35",
+     "title": "XXXVIII. LORD'S DAY.",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.36",
+     "title": "XXXIX. LORD'S DAY.",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.37",
+     "title": "XL. LORD'S DAY.",
+     "segments": 6
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.38",
+     "title": "XLI. LORD'S DAY.",
+     "segments": 4
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.39",
+     "title": "XLII. LORD'S DAY.",
+     "segments": 4
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.40",
+     "title": "XLIII. LORD'S DAY.",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.41",
+     "title": "XLIV. LORD'S DAY.",
+     "segments": 6
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.42",
+     "title": "OF PRAYER. XLV. LORD'S DAY.",
+     "segments": 8
+    },
+    {
+     "file": "0044.json",
+     "ref": "1.43",
+     "title": "XLVI. LORD'S DAY.",
+     "segments": 4
+    },
+    {
+     "file": "0045.json",
+     "ref": "1.44",
+     "title": "XLVII. LORD'S DAY.",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "1.45",
+     "title": "XLVIII. LORD'S DAY.",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "1.46",
+     "title": "XLIX. LORD'S DAY.",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "1.47",
+     "title": "L. LORD'S DAY.",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "1.48",
+     "title": "LI. LORD'S DAY.",
+     "segments": 2
+    },
+    {
+     "file": "0050.json",
+     "ref": "1.49",
+     "title": "LII. LORD'S DAY.",
+     "segments": 6
+    }
+   ]
+  }
+ ]
+}

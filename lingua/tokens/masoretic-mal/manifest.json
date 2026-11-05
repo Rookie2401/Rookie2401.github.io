@@ -1,0 +1,52 @@
+{
+ "workId": "masoretic-mal",
+ "editions": [
+  {
+   "editionId": "wlc-oshb-mal",
+   "language": "he",
+   "variety": "he-bib",
+   "textSource": "self",
+   "analysis": {
+    "id": "oshb@2019.01.13",
+    "kind": "verified-dataset",
+    "status": "verified"
+   },
+   "credit": "Open Scriptures Hebrew Bible (OSHB), morphology and lemmas by the OSHB project; text: Westminster Leningrad Codex (WLC)",
+   "licence": "OSHB lemma and morphology: CC BY 4.0; WLC text: public domain; headwords and glosses: Open Scriptures Lexical Index (CC BY 4.0), BDB (public domain), Strong's (public domain, JSON CC BY-SA), curated glosses of the Biblia build",
+   "source": "biblia-v0/data/oshb/Mal.xml",
+   "sourceUrl": "https://github.com/openscriptures/morphhb",
+   "version": "oshb 2018.1.5 (WLC version 4.20.); newest file 2019.01.13",
+   "coverage": {
+    "tokens": 876,
+    "withLemma": 876,
+    "withMorphology": 746,
+    "verified": 876,
+    "ambiguous": 0,
+    "unanalysed": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "MAL.1",
+     "title": "Malachi 1",
+     "segments": 14,
+     "tokens": 239
+    },
+    {
+     "file": "0002.json",
+     "ref": "MAL.2",
+     "title": "Malachi 2",
+     "segments": 17,
+     "tokens": 269
+    },
+    {
+     "file": "0003.json",
+     "ref": "MAL.3",
+     "title": "Malachi 3",
+     "segments": 24,
+     "tokens": 368
+    }
+   ]
+  }
+ ]
+}

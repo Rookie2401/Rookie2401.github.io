@@ -1,0 +1,1043 @@
+{
+ "workId": "tertullian-soul",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "csel20-reifferscheid-anima",
+   "role": "original",
+   "language": "latin",
+   "credit": "De Anima, in Corpus Scriptorum Ecclesiasticorum Latinorum, vol. 20 (Tertulliani opera, pars I), ed. August Reifferscheid; Georg Wissowa (Prague; Vienna; Leipzig: F. Tempsky; G. Freytag, 1890). University of Leipzig / Open Greek and Latin (csel-dev), CC BY-SA 4.0; text of the CSEL volume as cited (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0275/stoa010/stoa0275.stoa010.opp-lat2.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 362062,
+   "sourceSha256": "f9519b0b12b951edd43c9259b12d9f67588373df8f762669d1a53d4c0f23ba8f",
+   "leftOut": {
+    "lb": 2714,
+    "note": 178,
+    "pb": 98,
+    "milestone": 95
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 23665,
+    "garbledPerThousand": 0.2,
+    "joinedPerThousand": 0,
+    "numbersPerThousand": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "45",
+     "title": "45",
+     "segments": 1
+    },
+    {
+     "file": "0046.json",
+     "ref": "46",
+     "title": "46",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "47",
+     "title": "47",
+     "segments": 1
+    },
+    {
+     "file": "0048.json",
+     "ref": "48",
+     "title": "48",
+     "segments": 1
+    },
+    {
+     "file": "0049.json",
+     "ref": "49",
+     "title": "49",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "50",
+     "title": "50",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "51",
+     "title": "51",
+     "segments": 1
+    },
+    {
+     "file": "0052.json",
+     "ref": "52",
+     "title": "52",
+     "segments": 1
+    },
+    {
+     "file": "0053.json",
+     "ref": "53",
+     "title": "53",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "54",
+     "title": "54",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "55",
+     "title": "55",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "56",
+     "title": "56",
+     "segments": 1
+    },
+    {
+     "file": "0057.json",
+     "ref": "57",
+     "title": "57",
+     "segments": 1
+    },
+    {
+     "file": "0058.json",
+     "ref": "58",
+     "title": "58",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "anf3-holmes-soul",
+   "role": "english",
+   "language": "english",
+   "credit": "A Treatise on the Soul, in The Ante-Nicene Fathers, vol. III (American edition, ed. A. Cleveland Coxe), Tertullian, trans. Peter Holmes (Buffalo: Christian Literature Publishing Co., 1885). Wikisource contributors, \"Ante-Nicene Fathers\" (Peter Holmes), en.wikisource.org, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_III/Apologetic/A_Treatise_on_the_Soul",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 312868,
+   "sourceSha256": "13eb2ee6a3d72cd7ae23d394f1a2e669ba100bd2494aced6ecc89eb13d851d3d",
+   "leftOut": {
+    "note": 357
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter I",
+     "bytes": 7749,
+     "sha256": "d79d39a241d920aad4086ba58b570cd7e92271849dc2b5f64c0ab9c32d68302a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter II",
+     "bytes": 7634,
+     "sha256": "4afa4f4764fcedc7149362c74cb03dccc3303200c77b1f55226ab7008a108016"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter III",
+     "bytes": 3769,
+     "sha256": "072a3fe63cdee716d6618b87a943c56156e94aa24dc02d377854f0524b2a1997"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter IV",
+     "bytes": 1804,
+     "sha256": "d23c3034c50f3ff592a559d0b7a451bbb1e5464c269b47cc471ac87d5f7684e3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter V",
+     "bytes": 3903,
+     "sha256": "4218d021903287cc7573f1a9cf9c1ec5564871bc2f049f970b2922fe6f8bda73"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter VI",
+     "bytes": 8168,
+     "sha256": "eab0c51015ce9adc61327c20db5773d355aa279e2a3ea5f60d9d3f1b269492f4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter VII",
+     "bytes": 2971,
+     "sha256": "200e86af670de8d4cb077772fdaf808ebd57e220066c1fcaa1a29e1f0ca61c52"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter VIII",
+     "bytes": 3509,
+     "sha256": "5fd42b3f7398be38c4285a749da2bdaddd7a9e40f9d0d3895ac96405c469adbb"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter IX",
+     "bytes": 7773,
+     "sha256": "3785690da8452ac90405c9bf821aee880095cf6ccb3e3506d16618c45c6559f6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter X",
+     "bytes": 8103,
+     "sha256": "25b6dcd14260e34c57c7f83e19a74a006cc4c6972fdac3e4dee46062eafafa5c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XI",
+     "bytes": 5562,
+     "sha256": "326c4313ff42e3f4a126a42050d0b630e366c0fc1605d2212af2f9d50fb1addd"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XII",
+     "bytes": 4689,
+     "sha256": "663986ee128f1fd5e2de7b12bf1c245547997e42cef614ec4e9129baf5a88b58"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XIII",
+     "bytes": 2369,
+     "sha256": "d134da0fe3a6d1dad622b56ba9ad83d95f563bfde3ea5ef7d9ed72c2e38d0936"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XIV",
+     "bytes": 4192,
+     "sha256": "0551579d309c2a41cae618c6550bac19086b3c90e22f7d0b0f232cd33e13d193"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XV",
+     "bytes": 5811,
+     "sha256": "454aa3e3ef9f2b75d65950dc9225cd28f24bf45a43a0654b009a4e2f3038d58c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XVI",
+     "bytes": 5217,
+     "sha256": "f72ca48ee6c8cfaeb6572558f1b5db2adccb611744aedc688eee9b683b6afbf6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XVII",
+     "bytes": 10826,
+     "sha256": "7d1fc087243cfa0c8c2a1055261e3b37c290079a5b626a3411cf717fc32c713f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XVIII",
+     "bytes": 11505,
+     "sha256": "c8ee74ea35ee4f8a016de66080f7fc59190673c1bef2b92f9f837f3b27afa02a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XIX",
+     "bytes": 6965,
+     "sha256": "5ceec87040bdb11979d0327bf1e1faeec57542d73d7f40e8ab85fd015dca46a5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XX",
+     "bytes": 4899,
+     "sha256": "b9502aa8e6a4f24084957bac5b849f9df024f513e07d761bb24f9223ebb1c598"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XXI",
+     "bytes": 5639,
+     "sha256": "e7e5df3ea890ba4e3a641f4275ef1da08c92d1a0622211f0e5c1d2d009ff8ff8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XXII",
+     "bytes": 2985,
+     "sha256": "765c08891b687ac2217d954239858e8ef97c4145d0429e65e7c19372cabfd83d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XXIII",
+     "bytes": 3424,
+     "sha256": "f3bf547a483202cf05d0aadf98e64e81cdbd0f317e863625fc57555537e67555"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XXIV",
+     "bytes": 9148,
+     "sha256": "01f02bb43a6ba6158c04a8eec476bc349c24ab3517a0a57163ea0cdd0f9a349b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XXV",
+     "bytes": 9783,
+     "sha256": "990778d8c6c68756db9c7075f83778a14c25cf73427520b77b7024f7deb256d3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XXVI",
+     "bytes": 4187,
+     "sha256": "ba6ee44043fc87e18f50874129c1c49066414fbb55d6665bc7f9ea5eca8af5ec"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XXVII",
+     "bytes": 6044,
+     "sha256": "bdefcb5973b29e00fcc191015d18168ef46390e29a3eebbd091e456981a695c7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XXVIII",
+     "bytes": 6274,
+     "sha256": "e07b6024133012e7d54326a3f7e8a3d6790ac59d5febc554af341e56982fb81a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XXIX",
+     "bytes": 3105,
+     "sha256": "bd82abcdfa6d1c7dacff60f2eb0389866820ae5cb9ed2f89e69b526445bf6241"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XXX",
+     "bytes": 4502,
+     "sha256": "33e86f43b79974faefa2859fd7c1531683be9e6239469bbd670e412f3be0002c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XXXI",
+     "bytes": 4470,
+     "sha256": "a7d8e5198cb55829cb1d4171f4144c125eb69850bea391989cf9e8e6a7d694ee"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XXXII",
+     "bytes": 9675,
+     "sha256": "2837c255ff8521a2a06707d7faa849ae6ff88cdfdcab53fb2e9c5eb95de2960b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XXXIII",
+     "bytes": 8852,
+     "sha256": "ad3bd42dd4d61fa10391bd13e2fa39057bac026c9e5904559622aebfe29f889b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XXXIV",
+     "bytes": 4361,
+     "sha256": "2793bccde57ef57ed41a47b62b61579ba7bc89d25c30565d4e8906ba8ac917a1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XXXV",
+     "bytes": 6895,
+     "sha256": "72d46296783a6324eaa684c98457be1d100c32c118b20b1ac07be4e1f47c9cfc"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XXXVI",
+     "bytes": 3053,
+     "sha256": "d9fe54d6d3da3f354764ec7b5eda7f5b12c9339ae8a2b47e79ac367e908cde94"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XXXVII",
+     "bytes": 5419,
+     "sha256": "389e478206f63676c76dc556a663b014ad03c45d9755729e0bfd306401ca4674"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XXXVIII",
+     "bytes": 5043,
+     "sha256": "3688e24bc530a732f8ca3a70392b0a595e2b62ec9e5c8f8543c57d234a25ea48"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XXXIX",
+     "bytes": 3000,
+     "sha256": "2c2d86ccdca0d8cc06bf006831f8c08c1973056cc470a8876f2f6af998b400bf"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XL",
+     "bytes": 3193,
+     "sha256": "abc43cb1666f025fb56df9b57d63c4ac5bb03d3b6ece527663ff95ffb4785b5c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XLI",
+     "bytes": 2830,
+     "sha256": "e5cfb9e2e0d6a5c68ed9aa71dbaf69ff9c20d451d1d76dd67a762545b6550af0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XLII",
+     "bytes": 2265,
+     "sha256": "df7ed62dfde7c8421c04bdcf4defeeb7f698188ff26e3343b5822d3210f440fd"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XLIII",
+     "bytes": 8524,
+     "sha256": "c6232a3a825081793bf284b0821ab1de58a16333dac4e819bc35c35f0103e3f4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XLIV",
+     "bytes": 2771,
+     "sha256": "f1210a45bef800f876cfe3dbb562e61cf0cd6087fb7c41baf3a30f2175c20ba3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XLV",
+     "bytes": 3671,
+     "sha256": "3ebd57c2abbdfab1547d0803f309ec74273fcbfae3f2d8ec92d6db38cd9d2238"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XLVI",
+     "bytes": 8299,
+     "sha256": "0e64cbfb3388aa63bbd6f69551a72e4a094c0d89be963083bc4b2b4c54886322"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XLVII",
+     "bytes": 2834,
+     "sha256": "a4c9d1f610e5f01b6d3c5e071fcae8515f1f7cc521242c5467216fe0c9be382d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XLVIII",
+     "bytes": 3621,
+     "sha256": "aa71738b877443924ee19b73aadf0b98c83faf5475c4ea380ef103d12b2a4017"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter XLIX",
+     "bytes": 2220,
+     "sha256": "ac23295f650f2f5e0b563477179527fc08b72626704d41d19e8000505f673814"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter L",
+     "bytes": 4787,
+     "sha256": "07394061c0b423ddf63d8ea83607fdf8f537874a59ce38ee4f1548791eef3221"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter LI",
+     "bytes": 5219,
+     "sha256": "3212bbd81023f79fa5791a810f20428b7db316ebad49586da6492edb4eb7a699"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter LII",
+     "bytes": 3553,
+     "sha256": "0e25ebbcda6e24f3e565c3f35521911d5748fd46aefe50c3cbc9a8d8032e25b5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter LIII",
+     "bytes": 5738,
+     "sha256": "90fbce4ba170819175df8cf64fb64f5dd7e758df1ba3d47027f0e112ca0fb7f0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter LIV",
+     "bytes": 2369,
+     "sha256": "3caeae5c58637bef6f965c709c3f6e413d294bf347ffec03cc1e3257ad1d559b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter LV",
+     "bytes": 4699,
+     "sha256": "23110ddf583b6ad8a74539f23b6f558bd2348e5fdbd30c624b76ce200d6f3069"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter LVI",
+     "bytes": 7269,
+     "sha256": "3bf195aa4c11e820a7ef6d6eaf0327fee12ad6b70f9fc17e3e8f473255a84bb4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter LVII",
+     "bytes": 8994,
+     "sha256": "f82351519b22a94fc42c5acd6013b6c06866cab8807d96ca351fb9f06a90c2da"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Apologetic/A Treatise on the Soul/Chapter LVIII",
+     "bytes": 6735,
+     "sha256": "5ea7969ab7b4233448ec9c879be160b7c88aaaddc46e6d1257b559aea1058fe2"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 5
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 5
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 5
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "45",
+     "title": "45",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "46",
+     "title": "46",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "47",
+     "title": "47",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "48",
+     "title": "48",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "49",
+     "title": "49",
+     "segments": 2
+    },
+    {
+     "file": "0050.json",
+     "ref": "50",
+     "title": "50",
+     "segments": 2
+    },
+    {
+     "file": "0051.json",
+     "ref": "51",
+     "title": "51",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "52",
+     "title": "52",
+     "segments": 2
+    },
+    {
+     "file": "0053.json",
+     "ref": "53",
+     "title": "53",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "54",
+     "title": "54",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "55",
+     "title": "55",
+     "segments": 2
+    },
+    {
+     "file": "0056.json",
+     "ref": "56",
+     "title": "56",
+     "segments": 2
+    },
+    {
+     "file": "0057.json",
+     "ref": "57",
+     "title": "57",
+     "segments": 2
+    },
+    {
+     "file": "0058.json",
+     "ref": "58",
+     "title": "58",
+     "segments": 2
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 58,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 0
+ }
+}

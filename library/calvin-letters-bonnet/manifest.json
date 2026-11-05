@@ -1,0 +1,3572 @@
+{
+ "workId": "calvin-letters-bonnet",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "calvin-letters-bonnet-gutenberg",
+   "role": "english",
+   "language": "english",
+   "credit": "Letters of John Calvin, compiled from the original manuscripts and edited by Dr. Jules Bonnet (Philadelphia, 1858), vols 1 and 2, in Project Gutenberg eBook #45423 (vol. 1); vol. 2 is eBook #45463, trans. Mr. Constable, revised by the Rev. Dr. Cunningham (per the Advertisement) (Philadelphia: Presbyterian Board of Publication, 1858). Transcription: Project Gutenberg volunteers, Distributed Proofreaders (Heather Clark, Julia Neufeld) (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/45423/pg45423.txt",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 2200072,
+   "sourceSha256": "3e1a3cc6c8dd43cd63a16fc2013381034348d77d59ee6f5af17256ff648493e4",
+   "leftOut": {
+    "transcriberNote": 4,
+    "illustration": 1,
+    "noteMark": 799,
+    "note": 973
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "https://www.gutenberg.org/cache/epub/45423/pg45423.txt",
+     "bytes": 1130504,
+     "sha256": "ce77a25e5d7824beff8ee350b7f8420f131418a6dedc8b2a90be38182b07ac0c"
+    },
+    {
+     "title": "https://www.gutenberg.org/cache/epub/45463/pg45463.txt",
+     "bytes": 1069568,
+     "sha256": "7196166ec36eb2b20d256487182b681d8750d35ab6e63e25c41044b84aef4b5e"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "v1.s1",
+     "title": "v1.s1",
+     "segments": 3
+    },
+    {
+     "file": "0002.json",
+     "ref": "v1.s2",
+     "title": "CALVIN TO EDWARD VI., KING OF ENGLAND",
+     "segments": 5
+    },
+    {
+     "file": "0003.json",
+     "ref": "v1.s3",
+     "title": "LETTERS",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "v1.s5",
+     "title": "COMPILED FROM THE ORIGINAL MANUSCRIPTS AND EDITED WITH HISTORICAL NOTES",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "v1.s8",
+     "title": "TRANSLATED FROM THE ORIGINAL LATIN AND FRENCH.",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "v1.s9",
+     "title": "ADVERTISEMENT.",
+     "segments": 3
+    },
+    {
+     "file": "0007.json",
+     "ref": "v1.s11",
+     "title": "PREFACE.",
+     "segments": 17
+    },
+    {
+     "file": "0008.json",
+     "ref": "v1.s13",
+     "title": "LETTER      PAGE",
+     "segments": 143
+    },
+    {
+     "file": "0009.json",
+     "ref": "v1.s15",
+     "title": "I.--TO NICOLAS DUCHEMIN.[13]",
+     "segments": 5
+    },
+    {
+     "file": "0010.json",
+     "ref": "v1.s16",
+     "title": "II.--TO FRANCIS DANIEL.[17]",
+     "segments": 6
+    },
+    {
+     "file": "0011.json",
+     "ref": "v1.s17",
+     "title": "III.--TO FRANCIS DANIEL.",
+     "segments": 4
+    },
+    {
+     "file": "0012.json",
+     "ref": "v1.s18",
+     "title": "IV.--TO FRANCIS DANIEL.",
+     "segments": 5
+    },
+    {
+     "file": "0013.json",
+     "ref": "v1.s19",
+     "title": "V.--TO FRANCIS DANIEL.",
+     "segments": 4
+    },
+    {
+     "file": "0014.json",
+     "ref": "v1.s20",
+     "title": "VI.--TO FRANCIS DANIEL.",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "v1.s21",
+     "title": "PARIS, [1532.]",
+     "segments": 5
+    },
+    {
+     "file": "0016.json",
+     "ref": "v1.s22",
+     "title": "VII.--TO DR. MARTIN BUCER.[25]",
+     "segments": 4
+    },
+    {
+     "file": "0017.json",
+     "ref": "v1.s23",
+     "title": "CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "v1.s24",
+     "title": "VIII.--TO FRANCIS DANIEL.[26]",
+     "segments": 4
+    },
+    {
+     "file": "0019.json",
+     "ref": "v1.s25",
+     "title": "CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "v1.s26",
+     "title": "IX.--TO FRANCIS DANIEL.[27]",
+     "segments": 4
+    },
+    {
+     "file": "0021.json",
+     "ref": "v1.s27",
+     "title": "X.--TO FRANCIS DANIEL.[34]",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "v1.s28",
+     "title": "DOXOPOLIS, [1534.]",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "v1.s29",
+     "title": "XI.--TO CHRISTOPHER LIBERTET.[35]",
+     "segments": 3
+    },
+    {
+     "file": "0024.json",
+     "ref": "v1.s30",
+     "title": "MARTIANUS LUCANIUS.[39]",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "v1.s31",
+     "title": "XII.--TO FRANCIS DANIEL.[40]",
+     "segments": 5
+    },
+    {
+     "file": "0026.json",
+     "ref": "v1.s32",
+     "title": "MARTIANUS LUCANIUS.",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "v1.s33",
+     "title": "XIII.--TO MEGANDER.[45]",
+     "segments": 5
+    },
+    {
+     "file": "0028.json",
+     "ref": "v1.s34",
+     "title": "XIV.--TO VIRET.[49]",
+     "segments": 7
+    },
+    {
+     "file": "0029.json",
+     "ref": "v1.s35",
+     "title": "XV.--TO SIMON GRYNEE.[53]",
+     "segments": 5
+    },
+    {
+     "file": "0030.json",
+     "ref": "v1.s36",
+     "title": "CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "v1.s37",
+     "title": "XVI.--TO THE MINISTERS OF THE CHURCH OF BASLE.",
+     "segments": 5
+    },
+    {
+     "file": "0032.json",
+     "ref": "v1.s38",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "v1.s39",
+     "title": "XVII.--TO LOUIS DU TILLET.[62]",
+     "segments": 13
+    },
+    {
+     "file": "0034.json",
+     "ref": "v1.s40",
+     "title": "CHARLES D'ESPEVILLE.[68]",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "v1.s41",
+     "title": "XVIII.--TO HENRY BULLINGER.[69]",
+     "segments": 8
+    },
+    {
+     "file": "0036.json",
+     "ref": "v1.s42",
+     "title": "CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "v1.s43",
+     "title": "XIX.--TO HENRY BULLINGER.[71]",
+     "segments": 3
+    },
+    {
+     "file": "0038.json",
+     "ref": "v1.s44",
+     "title": "CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "v1.s45",
+     "title": "XX.--TO PETER VIRET.",
+     "segments": 4
+    },
+    {
+     "file": "0040.json",
+     "ref": "v1.s46",
+     "title": "FAREL AND CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "v1.s47",
+     "title": "XXI.--TO LOUIS DU TILLET.[76]",
+     "segments": 7
+    },
+    {
+     "file": "0042.json",
+     "ref": "v1.s48",
+     "title": "CHARLES D'ESPEVILLE.",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "v1.s49",
+     "title": "XXII.--TO WILLIAM FAREL.[84]",
+     "segments": 5
+    },
+    {
+     "file": "0044.json",
+     "ref": "v1.s50",
+     "title": "CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "v1.s51",
+     "title": "XXIII.--TO FAREL.",
+     "segments": 5
+    },
+    {
+     "file": "0046.json",
+     "ref": "v1.s52",
+     "title": "CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "v1.s53",
+     "title": "XXIV.--TO FAREL.[89]",
+     "segments": 3
+    },
+    {
+     "file": "0048.json",
+     "ref": "v1.s54",
+     "title": "CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0049.json",
+     "ref": "v1.s55",
+     "title": "XXV.--TO THE CHURCH OF GENEVA.[93]",
+     "segments": 13
+    },
+    {
+     "file": "0050.json",
+     "ref": "v1.s56",
+     "title": "XXVI.--TO FAREL.",
+     "segments": 6
+    },
+    {
+     "file": "0051.json",
+     "ref": "v1.s57",
+     "title": "CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "v1.s58",
+     "title": "XVII.--TO LOUIS DU TILLET.[99]",
+     "segments": 8
+    },
+    {
+     "file": "0053.json",
+     "ref": "v1.s59",
+     "title": "CHARLES D'ESPEVILLE.",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "v1.s60",
+     "title": "XXVIII.--TO FAREL.",
+     "segments": 7
+    },
+    {
+     "file": "0055.json",
+     "ref": "v1.s61",
+     "title": "XXIX.--TO FAREL.",
+     "segments": 7
+    },
+    {
+     "file": "0056.json",
+     "ref": "v1.s62",
+     "title": "XXX.--FAREL.[111]",
+     "segments": 12
+    },
+    {
+     "file": "0057.json",
+     "ref": "v1.s63",
+     "title": "XXXI.--TO BULLINGER.[118]",
+     "segments": 4
+    },
+    {
+     "file": "0058.json",
+     "ref": "v1.s64",
+     "title": "CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0059.json",
+     "ref": "v1.s65",
+     "title": "XXXII.--TO FAREL.",
+     "segments": 6
+    },
+    {
+     "file": "0060.json",
+     "ref": "v1.s66",
+     "title": "CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0061.json",
+     "ref": "v1.s67",
+     "title": "XXXIII.--TO FAREL.",
+     "segments": 3
+    },
+    {
+     "file": "0062.json",
+     "ref": "v1.s68",
+     "title": "CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0063.json",
+     "ref": "v1.s69",
+     "title": "XXXIV.--TO FAREL.",
+     "segments": 3
+    },
+    {
+     "file": "0064.json",
+     "ref": "v1.s70",
+     "title": "CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0065.json",
+     "ref": "v1.s71",
+     "title": "XXXV.--TO FAREL.",
+     "segments": 6
+    },
+    {
+     "file": "0066.json",
+     "ref": "v1.s72",
+     "title": "CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0067.json",
+     "ref": "v1.s73",
+     "title": "XXXVI.--TO FAREL.",
+     "segments": 5
+    },
+    {
+     "file": "0068.json",
+     "ref": "v1.s74",
+     "title": "CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0069.json",
+     "ref": "v1.s75",
+     "title": "XXXVII.--TO THE CHURCH OF GENEVA.[157]",
+     "segments": 13
+    },
+    {
+     "file": "0070.json",
+     "ref": "v1.s76",
+     "title": "XXXIX.--TO FAREL.",
+     "segments": 4
+    },
+    {
+     "file": "0071.json",
+     "ref": "v1.s77",
+     "title": "CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0072.json",
+     "ref": "v1.s78",
+     "title": "XL.--TO FAREL.",
+     "segments": 3
+    },
+    {
+     "file": "0073.json",
+     "ref": "v1.s79",
+     "title": "CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0074.json",
+     "ref": "v1.s80",
+     "title": "XLI.--TO FAREL.",
+     "segments": 7
+    },
+    {
+     "file": "0075.json",
+     "ref": "v1.s81",
+     "title": "CALVIN.",
+     "segments": 4
+    },
+    {
+     "file": "0076.json",
+     "ref": "v1.s82",
+     "title": "XLII.--TO FAREL.",
+     "segments": 5
+    },
+    {
+     "file": "0077.json",
+     "ref": "v1.s83",
+     "title": "CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0078.json",
+     "ref": "v1.s84",
+     "title": "XLIII.--TO FAREL.",
+     "segments": 4
+    },
+    {
+     "file": "0079.json",
+     "ref": "v1.s85",
+     "title": "CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0080.json",
+     "ref": "v1.s86",
+     "title": "XLIV.--TO FAREL.",
+     "segments": 5
+    },
+    {
+     "file": "0081.json",
+     "ref": "v1.s87",
+     "title": "CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0082.json",
+     "ref": "v1.s88",
+     "title": "XLV.--TO FAREL.",
+     "segments": 4
+    },
+    {
+     "file": "0083.json",
+     "ref": "v1.s89",
+     "title": "CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0084.json",
+     "ref": "v1.s90",
+     "title": "XLVI.--TO FAREL.",
+     "segments": 11
+    },
+    {
+     "file": "0085.json",
+     "ref": "v1.s91",
+     "title": "CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0086.json",
+     "ref": "v1.s92",
+     "title": "XLVII.--TO PETER VIRET.",
+     "segments": 8
+    },
+    {
+     "file": "0087.json",
+     "ref": "v1.s93",
+     "title": "CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0088.json",
+     "ref": "v1.s94",
+     "title": "XLVIII.--TO FAREL.",
+     "segments": 6
+    },
+    {
+     "file": "0089.json",
+     "ref": "v1.s95",
+     "title": "CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0090.json",
+     "ref": "v1.s97",
+     "title": "MONSIEUR DU TAILLY TO FAREL.",
+     "segments": 1
+    },
+    {
+     "file": "0091.json",
+     "ref": "v1.s98",
+     "title": "DU TAILLY.",
+     "segments": 9
+    },
+    {
+     "file": "0092.json",
+     "ref": "v1.s99",
+     "title": "L.--TO PETER CAROLI.[218]",
+     "segments": 4
+    },
+    {
+     "file": "0093.json",
+     "ref": "v1.s100",
+     "title": "CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0094.json",
+     "ref": "v1.s101",
+     "title": "LI.--TO VIRET.",
+     "segments": 4
+    },
+    {
+     "file": "0095.json",
+     "ref": "v1.s102",
+     "title": "CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0096.json",
+     "ref": "v1.s103",
+     "title": "LII.--TO FAREL.",
+     "segments": 4
+    },
+    {
+     "file": "0097.json",
+     "ref": "v1.s104",
+     "title": "LIII.--TO THE SEIGNEURY OF GENEVA.[225]",
+     "segments": 8
+    },
+    {
+     "file": "0098.json",
+     "ref": "v1.s105",
+     "title": "LIV.--TO FAREL.",
+     "segments": 6
+    },
+    {
+     "file": "0099.json",
+     "ref": "v1.s107",
+     "title": "TO DOCTOR CALVIN, MINISTER OF THE GOSPEL.",
+     "segments": 1
+    },
+    {
+     "file": "0100.json",
+     "ref": "v1.s108",
+     "title": "THE SYNDICS AND COUNCIL OF GENEVA.",
+     "segments": 10
+    },
+    {
+     "file": "0101.json",
+     "ref": "v1.s109",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0102.json",
+     "ref": "v1.s110",
+     "title": "LVI.--TO FAREL.",
+     "segments": 4
+    },
+    {
+     "file": "0103.json",
+     "ref": "v1.s111",
+     "title": "LVII.--TO NICOLAS PARENT.[229]",
+     "segments": 4
+    },
+    {
+     "file": "0104.json",
+     "ref": "v1.s112",
+     "title": "CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0105.json",
+     "ref": "v1.s113",
+     "title": "LVIII.--TO NICOLAS PARENT.[232]",
+     "segments": 5
+    },
+    {
+     "file": "0106.json",
+     "ref": "v1.s114",
+     "title": "CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0107.json",
+     "ref": "v1.s115",
+     "title": "CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0108.json",
+     "ref": "v1.s116",
+     "title": "LIX.--TO THE SEIGNEURY OF GENEVA.",
+     "segments": 5
+    },
+    {
+     "file": "0109.json",
+     "ref": "v1.s117",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0110.json",
+     "ref": "v1.s118",
+     "title": "LX.--TO FAREL.",
+     "segments": 6
+    },
+    {
+     "file": "0111.json",
+     "ref": "v1.s119",
+     "title": "CALVIN.",
+     "segments": 3
+    },
+    {
+     "file": "0112.json",
+     "ref": "v1.s120",
+     "title": "LXI.--TO VIRET.[239]",
+     "segments": 5
+    },
+    {
+     "file": "0113.json",
+     "ref": "v1.s121",
+     "title": "LXII.--TO JAMES BERNARD.[240]",
+     "segments": 4
+    },
+    {
+     "file": "0114.json",
+     "ref": "v1.s122",
+     "title": "LXIII.--TO FAREL.[243]",
+     "segments": 7
+    },
+    {
+     "file": "0115.json",
+     "ref": "v1.s123",
+     "title": "LXIV.--TO MONSIEUR DE RICHEBOURG.[256]",
+     "segments": 4
+    },
+    {
+     "file": "0116.json",
+     "ref": "v1.s124",
+     "title": "LX.--TO FAREL.",
+     "segments": 4
+    },
+    {
+     "file": "0117.json",
+     "ref": "v1.s125",
+     "title": "CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0118.json",
+     "ref": "v1.s126",
+     "title": "LXVI.--TO FAREL.",
+     "segments": 3
+    },
+    {
+     "file": "0119.json",
+     "ref": "v1.s127",
+     "title": "CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0120.json",
+     "ref": "v1.s128",
+     "title": "LXVII.--TO FAREL.",
+     "segments": 4
+    },
+    {
+     "file": "0121.json",
+     "ref": "v1.s129",
+     "title": "LXVIII.--TO FAREL.",
+     "segments": 4
+    },
+    {
+     "file": "0122.json",
+     "ref": "v1.s130",
+     "title": "LXIX.--TO THE PASTORS OF THE CHURCH OF ZURICH.[276]",
+     "segments": 5
+    },
+    {
+     "file": "0123.json",
+     "ref": "v1.s131",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0124.json",
+     "ref": "v1.s132",
+     "title": "LXX.--TO FAREL.[279]",
+     "segments": 3
+    },
+    {
+     "file": "0125.json",
+     "ref": "v1.s133",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0126.json",
+     "ref": "v1.s134",
+     "title": "LXXI.--TO FAREL AND VIRET.[284]",
+     "segments": 5
+    },
+    {
+     "file": "0127.json",
+     "ref": "v1.s135",
+     "title": "TO VIRET.",
+     "segments": 2
+    },
+    {
+     "file": "0128.json",
+     "ref": "v1.s136",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0129.json",
+     "ref": "v1.s137",
+     "title": "LXXII.--TO VIRET.",
+     "segments": 5
+    },
+    {
+     "file": "0130.json",
+     "ref": "v1.s138",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0131.json",
+     "ref": "v1.s139",
+     "title": "LXXIII.--TO FAREL.[292]",
+     "segments": 4
+    },
+    {
+     "file": "0132.json",
+     "ref": "v1.s140",
+     "title": "LXXIV.--TO THE SEIGNEURY OF GENEVA.[293]",
+     "segments": 4
+    },
+    {
+     "file": "0133.json",
+     "ref": "v1.s141",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0134.json",
+     "ref": "v1.s142",
+     "title": "LXXV.--TO FAREL.[295]",
+     "segments": 3
+    },
+    {
+     "file": "0135.json",
+     "ref": "v1.s143",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0136.json",
+     "ref": "v1.s144",
+     "title": "LXXVI.--TO FAREL.[297]",
+     "segments": 4
+    },
+    {
+     "file": "0137.json",
+     "ref": "v1.s145",
+     "title": "LXXVII.--TO THE SEIGNEURY OF NEUCHATEL.[299]",
+     "segments": 14
+    },
+    {
+     "file": "0138.json",
+     "ref": "v1.s146",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0139.json",
+     "ref": "v1.s147",
+     "title": "LXXVIII.--TO BUCER.[300]",
+     "segments": 11
+    },
+    {
+     "file": "0140.json",
+     "ref": "v1.s148",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0141.json",
+     "ref": "v1.s149",
+     "title": "LXXIX.--TO MADAME THE DUCHESS OF FERRARA.[310]",
+     "segments": 10
+    },
+    {
+     "file": "0142.json",
+     "ref": "v1.s150",
+     "title": "LXXX.--TO FAREL.",
+     "segments": 4
+    },
+    {
+     "file": "0143.json",
+     "ref": "v1.s151",
+     "title": "LXXXI.--TO FAREL.",
+     "segments": 6
+    },
+    {
+     "file": "0144.json",
+     "ref": "v1.s152",
+     "title": "LXXXII.--TO FAREL.[325]",
+     "segments": 6
+    },
+    {
+     "file": "0145.json",
+     "ref": "v1.s153",
+     "title": "LXXXIII.--TO OSWALD MYCONIUS.[326]",
+     "segments": 4
+    },
+    {
+     "file": "0146.json",
+     "ref": "v1.s154",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0147.json",
+     "ref": "v1.s155",
+     "title": "LXXXIV. TO OSWALD MYCONIUS.[329]",
+     "segments": 4
+    },
+    {
+     "file": "0148.json",
+     "ref": "v1.s156",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0149.json",
+     "ref": "v1.s157",
+     "title": "LXXXV.--TO THE BRETHREN OF LYONS.[335]",
+     "segments": 13
+    },
+    {
+     "file": "0150.json",
+     "ref": "v1.s158",
+     "title": "LXXXVI.--TO FAREL.[338]",
+     "segments": 6
+    },
+    {
+     "file": "0151.json",
+     "ref": "v1.s159",
+     "title": "LXXXVII.--TO VIRET.[341]",
+     "segments": 4
+    },
+    {
+     "file": "0152.json",
+     "ref": "v1.s160",
+     "title": "LXXXVIII.--TO BENEDICT TEXTOR.[344]",
+     "segments": 4
+    },
+    {
+     "file": "0153.json",
+     "ref": "v1.s161",
+     "title": "LXXXIX.--TO FAREL.",
+     "segments": 8
+    },
+    {
+     "file": "0154.json",
+     "ref": "v1.s162",
+     "title": "XC.--TO VIRET.",
+     "segments": 4
+    },
+    {
+     "file": "0155.json",
+     "ref": "v1.s163",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0156.json",
+     "ref": "v1.s164",
+     "title": "XCI.--TO VIRET.[363]",
+     "segments": 5
+    },
+    {
+     "file": "0157.json",
+     "ref": "v1.s165",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0158.json",
+     "ref": "v1.s166",
+     "title": "XCII.--TO VIRET.[364]",
+     "segments": 6
+    },
+    {
+     "file": "0159.json",
+     "ref": "v1.s167",
+     "title": "XCIII.--TO FAREL.[368]",
+     "segments": 5
+    },
+    {
+     "file": "0160.json",
+     "ref": "v1.s168",
+     "title": "XCIV.--TO VIRET.[369]",
+     "segments": 4
+    },
+    {
+     "file": "0161.json",
+     "ref": "v1.s169",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0162.json",
+     "ref": "v1.s170",
+     "title": "XCV.--TO VIRET.",
+     "segments": 5
+    },
+    {
+     "file": "0163.json",
+     "ref": "v1.s171",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0164.json",
+     "ref": "v1.s172",
+     "title": "XCVI.--TO VIRET.",
+     "segments": 10
+    },
+    {
+     "file": "0165.json",
+     "ref": "v1.s173",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0166.json",
+     "ref": "v1.s174",
+     "title": "XCVII.--TO VIRET.",
+     "segments": 9
+    },
+    {
+     "file": "0167.json",
+     "ref": "v1.s175",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0168.json",
+     "ref": "v1.s176",
+     "title": "XCVIII.--TO BULLINGER.",
+     "segments": 3
+    },
+    {
+     "file": "0169.json",
+     "ref": "v1.s177",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0170.json",
+     "ref": "v1.s178",
+     "title": "XCIX.--TO MICHAEL VAROD.[390]",
+     "segments": 2
+    },
+    {
+     "file": "0171.json",
+     "ref": "v1.s179",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0172.json",
+     "ref": "v1.s180",
+     "title": "C.--TO MONSIEUR LE CURÉ DE CERNEX.[391]",
+     "segments": 6
+    },
+    {
+     "file": "0173.json",
+     "ref": "v1.s181",
+     "title": "CI.--TO PHILIP MELANCHTHON.[392]",
+     "segments": 5
+    },
+    {
+     "file": "0174.json",
+     "ref": "v1.s182",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0175.json",
+     "ref": "v1.s183",
+     "title": "CII.--TO VIRET.",
+     "segments": 3
+    },
+    {
+     "file": "0176.json",
+     "ref": "v1.s184",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0177.json",
+     "ref": "v1.s185",
+     "title": "CIII.--TO CONRAD PELLICAN.[400]",
+     "segments": 8
+    },
+    {
+     "file": "0178.json",
+     "ref": "v1.s186",
+     "title": "CIV.--TO THE SEIGNEURY OF GENEVA.[404]",
+     "segments": 12
+    },
+    {
+     "file": "0179.json",
+     "ref": "v1.s187",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0180.json",
+     "ref": "v1.s188",
+     "title": "CV.--TO THE PASTORS OF THE CHURCH OF GENEVA.[407]",
+     "segments": 4
+    },
+    {
+     "file": "0181.json",
+     "ref": "v1.s189",
+     "title": "CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0182.json",
+     "ref": "v1.s190",
+     "title": "CVI.--TO VIRET.",
+     "segments": 3
+    },
+    {
+     "file": "0183.json",
+     "ref": "v1.s191",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0184.json",
+     "ref": "v1.s192",
+     "title": "CVII.--TO THE SEIGNEURY OF GENEVA.",
+     "segments": 9
+    },
+    {
+     "file": "0185.json",
+     "ref": "v1.s193",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0186.json",
+     "ref": "v1.s194",
+     "title": "CVIII.--TO THE AMBASSADORS OF GENEVA.[414]",
+     "segments": 6
+    },
+    {
+     "file": "0187.json",
+     "ref": "v1.s195",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0188.json",
+     "ref": "v1.s196",
+     "title": "CIX.--TO THE SEIGNEURY OF GENEVA.[416]",
+     "segments": 6
+    },
+    {
+     "file": "0189.json",
+     "ref": "v1.s197",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0190.json",
+     "ref": "v1.s198",
+     "title": "CX.--TO MONSIEUR DE FALAIS.[417]",
+     "segments": 11
+    },
+    {
+     "file": "0191.json",
+     "ref": "v1.s199",
+     "title": "CXI.--TO MADAME DE FALAIS.[419]",
+     "segments": 8
+    },
+    {
+     "file": "0192.json",
+     "ref": "v1.s200",
+     "title": "CXII.--TO MONSIEUR DE FALAIS.[420]",
+     "segments": 1
+    },
+    {
+     "file": "0193.json",
+     "ref": "v1.s201",
+     "title": "GENEVA, [1543.]",
+     "segments": 5
+    },
+    {
+     "file": "0194.json",
+     "ref": "v1.s202",
+     "title": "CXIII.--TO VIRET.[421]",
+     "segments": 3
+    },
+    {
+     "file": "0195.json",
+     "ref": "v1.s203",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0196.json",
+     "ref": "v1.s204",
+     "title": "CXIV.--TO BULLINGER.",
+     "segments": 3
+    },
+    {
+     "file": "0197.json",
+     "ref": "v1.s205",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0198.json",
+     "ref": "v1.s206",
+     "title": "CXV.--TO VIRET.",
+     "segments": 9
+    },
+    {
+     "file": "0199.json",
+     "ref": "v1.s207",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0200.json",
+     "ref": "v1.s208",
+     "title": "CXVI.--TO THE MINISTERS OF NEUCHATEL.[431]",
+     "segments": 9
+    },
+    {
+     "file": "0201.json",
+     "ref": "v1.s209",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0202.json",
+     "ref": "v1.s210",
+     "title": "CXVII.--TO FAREL.[434]",
+     "segments": 4
+    },
+    {
+     "file": "0203.json",
+     "ref": "v1.s211",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0204.json",
+     "ref": "v1.s212",
+     "title": "CXVIII.--TO OSWALD MYCONIUS.[441]",
+     "segments": 3
+    },
+    {
+     "file": "0205.json",
+     "ref": "v1.s213",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0206.json",
+     "ref": "v1.s214",
+     "title": "CXIX.--TO MONSIEUR DE FALAIS.[443]",
+     "segments": 14
+    },
+    {
+     "file": "0207.json",
+     "ref": "v1.s215",
+     "title": "CHARLES D'ESPEVILLE.",
+     "segments": 1
+    },
+    {
+     "file": "0208.json",
+     "ref": "v1.s216",
+     "title": "CXX.--TO MADAME DE FALAIS.",
+     "segments": 6
+    },
+    {
+     "file": "0209.json",
+     "ref": "v1.s217",
+     "title": "CHARLES D'ESPEVILLE.",
+     "segments": 1
+    },
+    {
+     "file": "0210.json",
+     "ref": "v1.s218",
+     "title": "CXXI.--TO FAREL.[446]",
+     "segments": 4
+    },
+    {
+     "file": "0211.json",
+     "ref": "v1.s219",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0212.json",
+     "ref": "v1.s220",
+     "title": "CXXII.--TO BULLINGER.",
+     "segments": 6
+    },
+    {
+     "file": "0213.json",
+     "ref": "v1.s221",
+     "title": "CXXIII.--TO MELANCHTHON.[451]",
+     "segments": 6
+    },
+    {
+     "file": "0214.json",
+     "ref": "v1.s222",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0215.json",
+     "ref": "v1.s223",
+     "title": "CXXIV.--TO LUTHER.[464]",
+     "segments": 4
+    },
+    {
+     "file": "0216.json",
+     "ref": "v1.s224",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0217.json",
+     "ref": "v1.s225",
+     "title": "CXXV.--TO AN UNKNOWN PERSONAGE.[465]",
+     "segments": 5
+    },
+    {
+     "file": "0218.json",
+     "ref": "v1.s226",
+     "title": "CXXVI.--TO VIRET.",
+     "segments": 4
+    },
+    {
+     "file": "0219.json",
+     "ref": "v1.s227",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0220.json",
+     "ref": "v1.s228",
+     "title": "CXXVII.--TO VIRET.[477]",
+     "segments": 3
+    },
+    {
+     "file": "0221.json",
+     "ref": "v1.s229",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0222.json",
+     "ref": "v1.s230",
+     "title": "CXXVIII.--TO VIRET.",
+     "segments": 4
+    },
+    {
+     "file": "0223.json",
+     "ref": "v1.s231",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0224.json",
+     "ref": "v1.s232",
+     "title": "CXXIX.--TO OSWALD MYCONIUS.[480]",
+     "segments": 4
+    },
+    {
+     "file": "0225.json",
+     "ref": "v1.s233",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0226.json",
+     "ref": "v1.s234",
+     "title": "CXXX.--TO THE QUEEN OF NAVARRE.[485]",
+     "segments": 9
+    },
+    {
+     "file": "0227.json",
+     "ref": "v1.s235",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0228.json",
+     "ref": "v1.s236",
+     "title": "CXXXI.--TO FAREL.[488]",
+     "segments": 3
+    },
+    {
+     "file": "0229.json",
+     "ref": "v1.s237",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0230.json",
+     "ref": "v1.s238",
+     "title": "CXXXII.--TO VIRET.[490]",
+     "segments": 3
+    },
+    {
+     "file": "0231.json",
+     "ref": "v1.s239",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0232.json",
+     "ref": "v1.s240",
+     "title": "CXXXIII.--TO MONSIEUR DE FALAIS.[491]",
+     "segments": 7
+    },
+    {
+     "file": "0233.json",
+     "ref": "v1.s241",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0234.json",
+     "ref": "v1.s242",
+     "title": "CXXXIV.--TO JOHN CAVENT.[494]",
+     "segments": 3
+    },
+    {
+     "file": "0235.json",
+     "ref": "v1.s243",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0236.json",
+     "ref": "v1.s244",
+     "title": "CXXXV.--TO MONSIEUR DE FALAIS.",
+     "segments": 6
+    },
+    {
+     "file": "0237.json",
+     "ref": "v1.s245",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0238.json",
+     "ref": "v1.s246",
+     "title": "CXXXVI.--TO MELANCHTHON.[500]",
+     "segments": 4
+    },
+    {
+     "file": "0239.json",
+     "ref": "v1.s247",
+     "title": "CXXXVII.--TO BULLINGER.[502]",
+     "segments": 3
+    },
+    {
+     "file": "0240.json",
+     "ref": "v1.s248",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0241.json",
+     "ref": "v1.s249",
+     "title": "CXXXVIII.--TO THE PASTORS OF SCHAFFHAUSEN.[506]",
+     "segments": 4
+    },
+    {
+     "file": "0242.json",
+     "ref": "v1.s250",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0243.json",
+     "ref": "v1.s251",
+     "title": "CXXXIX.--TO OSWALD MYCONIUS.[507]",
+     "segments": 4
+    },
+    {
+     "file": "0244.json",
+     "ref": "v1.s252",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0245.json",
+     "ref": "v1.s253",
+     "title": "CXL.--TO JOACHIM WADIAN.[508]",
+     "segments": 5
+    },
+    {
+     "file": "0246.json",
+     "ref": "v1.s254",
+     "title": "JOHN CALVIN.",
+     "segments": 11
+    },
+    {
+     "file": "0247.json",
+     "ref": "v1.s255",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0248.json",
+     "ref": "v1.s256",
+     "title": "CXLII.--TO OSWALD MYCONIUS.",
+     "segments": 3
+    },
+    {
+     "file": "0249.json",
+     "ref": "v1.s257",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0250.json",
+     "ref": "v1.s258",
+     "title": "CXLIII.--TO MADAM DE FALAIS.",
+     "segments": 7
+    },
+    {
+     "file": "0251.json",
+     "ref": "v1.s259",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0252.json",
+     "ref": "v1.s260",
+     "title": "STEREOTYPED BY JESPER HARDING & SON, INQUIRER BUILDING, SOUTH THIRD STREET, PHILADELPHIA.",
+     "segments": 4
+    },
+    {
+     "file": "0253.json",
+     "ref": "v2.s1",
+     "title": "v2.s1",
+     "segments": 3
+    },
+    {
+     "file": "0254.json",
+     "ref": "v2.s2",
+     "title": "COMPILED FROM THE ORIGINAL MANUSCRIPTS AND EDITED WITH HISTORICAL NOTES",
+     "segments": 1
+    },
+    {
+     "file": "0255.json",
+     "ref": "v2.s5",
+     "title": "TRANSLATED FROM THE LATIN AND FRENCH LANGUAGES.",
+     "segments": 2
+    },
+    {
+     "file": "0256.json",
+     "ref": "v2.s6",
+     "title": "JAMES DUNLAP, TREAS.,",
+     "segments": 1
+    },
+    {
+     "file": "0257.json",
+     "ref": "v2.s8",
+     "title": "LETTER                                                       PAGE",
+     "segments": 196
+    },
+    {
+     "file": "0258.json",
+     "ref": "v2.s10",
+     "title": "CXLIV.--TO VIRET.[1]",
+     "segments": 5
+    },
+    {
+     "file": "0259.json",
+     "ref": "v2.s11",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0260.json",
+     "ref": "v2.s12",
+     "title": "CXLV.--TO MONSIEUR DE FALAIS.[2]",
+     "segments": 7
+    },
+    {
+     "file": "0261.json",
+     "ref": "v2.s13",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0262.json",
+     "ref": "v2.s14",
+     "title": "CXLVI.--TO MADAME DE FALAIS.",
+     "segments": 7
+    },
+    {
+     "file": "0263.json",
+     "ref": "v2.s15",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0264.json",
+     "ref": "v2.s16",
+     "title": "CXLVII.--TO MONSIEUR DE FALAIS.[3]",
+     "segments": 12
+    },
+    {
+     "file": "0265.json",
+     "ref": "v2.s17",
+     "title": "CXLIX.--TO VIRET.",
+     "segments": 5
+    },
+    {
+     "file": "0266.json",
+     "ref": "v2.s18",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0267.json",
+     "ref": "v2.s19",
+     "title": "CL.--TO MONSIEUR DE FALAIS.",
+     "segments": 6
+    },
+    {
+     "file": "0268.json",
+     "ref": "v2.s20",
+     "title": "CLI.--TO FAREL.",
+     "segments": 8
+    },
+    {
+     "file": "0269.json",
+     "ref": "v2.s21",
+     "title": "CLII.--TO MONSIEUR DE FALAIS.[17]",
+     "segments": 6
+    },
+    {
+     "file": "0270.json",
+     "ref": "v2.s22",
+     "title": "CLIII.--TO JOHN FRELLON.[21]",
+     "segments": 7
+    },
+    {
+     "file": "0271.json",
+     "ref": "v2.s23",
+     "title": "CLIV.--TO FAREL.",
+     "segments": 4
+    },
+    {
+     "file": "0272.json",
+     "ref": "v2.s24",
+     "title": "JOHN CALVIN.",
+     "segments": 6
+    },
+    {
+     "file": "0273.json",
+     "ref": "v2.s25",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0274.json",
+     "ref": "v2.s26",
+     "title": "CLVI.--TO VIRET.",
+     "segments": 5
+    },
+    {
+     "file": "0275.json",
+     "ref": "v2.s27",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0276.json",
+     "ref": "v2.s28",
+     "title": "CLVII.--TO VIRET.[34]",
+     "segments": 4
+    },
+    {
+     "file": "0277.json",
+     "ref": "v2.s29",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0278.json",
+     "ref": "v2.s30",
+     "title": "CLVIII.--TO VIRET.",
+     "segments": 3
+    },
+    {
+     "file": "0279.json",
+     "ref": "v2.s31",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0280.json",
+     "ref": "v2.s32",
+     "title": "CLIX. TO THEODORE VITUS.[36]",
+     "segments": 7
+    },
+    {
+     "file": "0281.json",
+     "ref": "v2.s33",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0282.json",
+     "ref": "v2.s34",
+     "title": "CLX.--TO VIRET.[41]",
+     "segments": 4
+    },
+    {
+     "file": "0283.json",
+     "ref": "v2.s35",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0284.json",
+     "ref": "v2.s36",
+     "title": "CLXI.--TO MONSIEUR DE FALAIS.",
+     "segments": 13
+    },
+    {
+     "file": "0285.json",
+     "ref": "v2.s37",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0286.json",
+     "ref": "v2.s38",
+     "title": "CLXII.--TO MONSIEUR DE FALAIS.",
+     "segments": 13
+    },
+    {
+     "file": "0287.json",
+     "ref": "v2.s39",
+     "title": "CLXIII.--TO FAREL.[56]",
+     "segments": 6
+    },
+    {
+     "file": "0288.json",
+     "ref": "v2.s40",
+     "title": "CLXIV.--TO AMY PERRIN.[60]",
+     "segments": 6
+    },
+    {
+     "file": "0289.json",
+     "ref": "v2.s41",
+     "title": "CLXV.--TO FAREL AND VIRET.[61]",
+     "segments": 3
+    },
+    {
+     "file": "0290.json",
+     "ref": "v2.s42",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0291.json",
+     "ref": "v2.s43",
+     "title": "CLXVI.--TO MADAME DE FALAIS.",
+     "segments": 7
+    },
+    {
+     "file": "0292.json",
+     "ref": "v2.s44",
+     "title": "CLXVII.--TO FAREL.[68]",
+     "segments": 6
+    },
+    {
+     "file": "0293.json",
+     "ref": "v2.s45",
+     "title": "CLXVIII.--TO MONSIEUR DE FALAIS.",
+     "segments": 6
+    },
+    {
+     "file": "0294.json",
+     "ref": "v2.s46",
+     "title": "CLXIX.--TO VIRET.",
+     "segments": 3
+    },
+    {
+     "file": "0295.json",
+     "ref": "v2.s47",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0296.json",
+     "ref": "v2.s48",
+     "title": "CLXX.--TO VIRET.",
+     "segments": 6
+    },
+    {
+     "file": "0297.json",
+     "ref": "v2.s49",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0298.json",
+     "ref": "v2.s50",
+     "title": "CLXXI.--TO VIRET.",
+     "segments": 4
+    },
+    {
+     "file": "0299.json",
+     "ref": "v2.s51",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0300.json",
+     "ref": "v2.s52",
+     "title": "CLXXII.--TO VIRET.[72]",
+     "segments": 3
+    },
+    {
+     "file": "0301.json",
+     "ref": "v2.s53",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0302.json",
+     "ref": "v2.s54",
+     "title": "CLXXIII.--TO FAREL.",
+     "segments": 5
+    },
+    {
+     "file": "0303.json",
+     "ref": "v2.s55",
+     "title": "CLXXIV.--TO FAREL.",
+     "segments": 3
+    },
+    {
+     "file": "0304.json",
+     "ref": "v2.s56",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0305.json",
+     "ref": "v2.s57",
+     "title": "CLXXV.--TO MONSIEUR DE FALAIS.",
+     "segments": 8
+    },
+    {
+     "file": "0306.json",
+     "ref": "v2.s58",
+     "title": "CLXXVI.--TO MADAME DE FALAIS.",
+     "segments": 6
+    },
+    {
+     "file": "0307.json",
+     "ref": "v2.s59",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0308.json",
+     "ref": "v2.s60",
+     "title": "CLXXVII.--TO MONSIEUR DE FALAIS.",
+     "segments": 7
+    },
+    {
+     "file": "0309.json",
+     "ref": "v2.s61",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0310.json",
+     "ref": "v2.s62",
+     "title": "CLXXVIII.--TO MONSIEUR DE FALAIS.",
+     "segments": 16
+    },
+    {
+     "file": "0311.json",
+     "ref": "v2.s63",
+     "title": "CLXXIX.--TO MONSIEUR DE FALAIS.",
+     "segments": 7
+    },
+    {
+     "file": "0312.json",
+     "ref": "v2.s64",
+     "title": "CLXXX.--TO MADAME DE FALAIS.",
+     "segments": 6
+    },
+    {
+     "file": "0313.json",
+     "ref": "v2.s65",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0314.json",
+     "ref": "v2.s66",
+     "title": "CLXXXI.--TO VIRET.",
+     "segments": 5
+    },
+    {
+     "file": "0315.json",
+     "ref": "v2.s67",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0316.json",
+     "ref": "v2.s68",
+     "title": "CLXXXII.--TO MONSIEUR DE FALAIS.",
+     "segments": 7
+    },
+    {
+     "file": "0317.json",
+     "ref": "v2.s69",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0318.json",
+     "ref": "v2.s70",
+     "title": "CLXXXIII.--TO MADAME DE BUDÉ.[97]",
+     "segments": 8
+    },
+    {
+     "file": "0319.json",
+     "ref": "v2.s71",
+     "title": "CLXXXIV.--TO THE AVOYER NŒGUELY.[100]",
+     "segments": 4
+    },
+    {
+     "file": "0320.json",
+     "ref": "v2.s72",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0321.json",
+     "ref": "v2.s73",
+     "title": "CLXXXV.--TO FAREL.[103]",
+     "segments": 4
+    },
+    {
+     "file": "0322.json",
+     "ref": "v2.s74",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0323.json",
+     "ref": "v2.s75",
+     "title": "CLXXXVI.--TO MONSIEUR DE FALAIS.",
+     "segments": 10
+    },
+    {
+     "file": "0324.json",
+     "ref": "v2.s76",
+     "title": "CLXXXVII.--TO MONSIEUR DE FALAIS.[111]",
+     "segments": 7
+    },
+    {
+     "file": "0325.json",
+     "ref": "v2.s77",
+     "title": "CLXXXVIII.--TO MONSIEUR DE FALAIS.",
+     "segments": 8
+    },
+    {
+     "file": "0326.json",
+     "ref": "v2.s78",
+     "title": "CLXXXIX.--TO VALERAN POULAIN.[116]",
+     "segments": 7
+    },
+    {
+     "file": "0327.json",
+     "ref": "v2.s79",
+     "title": "CXC.--TO VIRET.[117]",
+     "segments": 3
+    },
+    {
+     "file": "0328.json",
+     "ref": "v2.s80",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0329.json",
+     "ref": "v2.s81",
+     "title": "CXCI.--TO WOLFGANG MUSCULUS.[121]",
+     "segments": 5
+    },
+    {
+     "file": "0330.json",
+     "ref": "v2.s82",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0331.json",
+     "ref": "v2.s83",
+     "title": "CXCII.--TO MONSIEUR DE FALAIS.",
+     "segments": 6
+    },
+    {
+     "file": "0332.json",
+     "ref": "v2.s84",
+     "title": "CXCIII.--TO FRANCIS DRYANDER.[125]",
+     "segments": 4
+    },
+    {
+     "file": "0333.json",
+     "ref": "v2.s85",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0334.json",
+     "ref": "v2.s86",
+     "title": "CXCIV.--TO MONSIEUR DE FALAIS.",
+     "segments": 16
+    },
+    {
+     "file": "0335.json",
+     "ref": "v2.s87",
+     "title": "CXCVI.--TO VIRET.",
+     "segments": 5
+    },
+    {
+     "file": "0336.json",
+     "ref": "v2.s88",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0337.json",
+     "ref": "v2.s89",
+     "title": "CXCVII.--TO MONSIEUR DE FALAIS.",
+     "segments": 8
+    },
+    {
+     "file": "0338.json",
+     "ref": "v2.s90",
+     "title": "CXCVIII.--TO MONSIEUR DE BUDÉ.[137]",
+     "segments": 4
+    },
+    {
+     "file": "0339.json",
+     "ref": "v2.s91",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0340.json",
+     "ref": "v2.s92",
+     "title": "CXCIX.--TO VIRET.",
+     "segments": 6
+    },
+    {
+     "file": "0341.json",
+     "ref": "v2.s93",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0342.json",
+     "ref": "v2.s94",
+     "title": "CC.--TO MONSIEUR DE FALAIS.",
+     "segments": 10
+    },
+    {
+     "file": "0343.json",
+     "ref": "v2.s95",
+     "title": "CCI.--TO VIRET.[150]",
+     "segments": 3
+    },
+    {
+     "file": "0344.json",
+     "ref": "v2.s96",
+     "title": "CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0345.json",
+     "ref": "v2.s97",
+     "title": "CCII.--TO THE FAITHFUL OF FRANCE.[151]",
+     "segments": 11
+    },
+    {
+     "file": "0346.json",
+     "ref": "v2.s98",
+     "title": "CCIII.--TO MONSIEUR DE FALAIS.",
+     "segments": 18
+    },
+    {
+     "file": "0347.json",
+     "ref": "v2.s99",
+     "title": "CCIV.--TO FAREL.",
+     "segments": 3
+    },
+    {
+     "file": "0348.json",
+     "ref": "v2.s100",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0349.json",
+     "ref": "v2.s101",
+     "title": "CCV.--TO VIRET.",
+     "segments": 4
+    },
+    {
+     "file": "0350.json",
+     "ref": "v2.s102",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0351.json",
+     "ref": "v2.s103",
+     "title": "CCVI.--TO MONSIEUR DE FALAIS.",
+     "segments": 7
+    },
+    {
+     "file": "0352.json",
+     "ref": "v2.s104",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0353.json",
+     "ref": "v2.s105",
+     "title": "CCVII.--TO HENRY BULLINGER.",
+     "segments": 6
+    },
+    {
+     "file": "0354.json",
+     "ref": "v2.s106",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0355.json",
+     "ref": "v2.s107",
+     "title": "CCVIII.--TO MONSIEUR DE FALAIS.",
+     "segments": 8
+    },
+    {
+     "file": "0356.json",
+     "ref": "v2.s108",
+     "title": "CCIX.--TO MONSIEUR DE FALAIS.",
+     "segments": 8
+    },
+    {
+     "file": "0357.json",
+     "ref": "v2.s109",
+     "title": "CCX.--TO FAREL.",
+     "segments": 4
+    },
+    {
+     "file": "0358.json",
+     "ref": "v2.s110",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0359.json",
+     "ref": "v2.s111",
+     "title": "CCXI.--TO VIRET.[177]",
+     "segments": 8
+    },
+    {
+     "file": "0360.json",
+     "ref": "v2.s112",
+     "title": "CCXII.--TO MONSIEUR DE FALAIS.",
+     "segments": 8
+    },
+    {
+     "file": "0361.json",
+     "ref": "v2.s113",
+     "title": "CCXIII.--TO VIRET.[178]",
+     "segments": 3
+    },
+    {
+     "file": "0362.json",
+     "ref": "v2.s114",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0363.json",
+     "ref": "v2.s115",
+     "title": "CCXIV.--TO FAREL.",
+     "segments": 3
+    },
+    {
+     "file": "0364.json",
+     "ref": "v2.s116",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0365.json",
+     "ref": "v2.s117",
+     "title": "CCXV.--TO THE FAMILY OF BUDÉ.[182]",
+     "segments": 4
+    },
+    {
+     "file": "0366.json",
+     "ref": "v2.s118",
+     "title": "CHARLES D'ESPEVILLE.",
+     "segments": 1
+    },
+    {
+     "file": "0367.json",
+     "ref": "v2.s119",
+     "title": "CCXVI.--TO MONSIEUR DE FALAIS.",
+     "segments": 7
+    },
+    {
+     "file": "0368.json",
+     "ref": "v2.s120",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0369.json",
+     "ref": "v2.s121",
+     "title": "CCXVII.--TO MONSIEUR DE FALAIS.",
+     "segments": 8
+    },
+    {
+     "file": "0370.json",
+     "ref": "v2.s122",
+     "title": "CCXVIII.--TO HENRY BULLINGER.[190]",
+     "segments": 6
+    },
+    {
+     "file": "0371.json",
+     "ref": "v2.s123",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0372.json",
+     "ref": "v2.s124",
+     "title": "CCXIX.--TO MONSIEUR DE FALAIS.",
+     "segments": 10
+    },
+    {
+     "file": "0373.json",
+     "ref": "v2.s125",
+     "title": "CCXX.--TO FAREL.[194]",
+     "segments": 4
+    },
+    {
+     "file": "0374.json",
+     "ref": "v2.s126",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0375.json",
+     "ref": "v2.s127",
+     "title": "CCXXI--TO FAREL AND VIRET.[195]",
+     "segments": 5
+    },
+    {
+     "file": "0376.json",
+     "ref": "v2.s128",
+     "title": "CCXXII.--TO VIRET.",
+     "segments": 5
+    },
+    {
+     "file": "0377.json",
+     "ref": "v2.s129",
+     "title": "CCXXIII.--TO VIRET.[197]",
+     "segments": 5
+    },
+    {
+     "file": "0378.json",
+     "ref": "v2.s130",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0379.json",
+     "ref": "v2.s131",
+     "title": "CCXXIV.--TO HENRY BULLINGER.[199]",
+     "segments": 5
+    },
+    {
+     "file": "0380.json",
+     "ref": "v2.s132",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0381.json",
+     "ref": "v2.s133",
+     "title": "CCXXV.--TO MONSIEUR DE FALAIS.[201]",
+     "segments": 9
+    },
+    {
+     "file": "0382.json",
+     "ref": "v2.s134",
+     "title": "CCXXVI.--TO FAREL.",
+     "segments": 3
+    },
+    {
+     "file": "0383.json",
+     "ref": "v2.s135",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0384.json",
+     "ref": "v2.s136",
+     "title": "CCXXVII.--TO VIRET.[207]",
+     "segments": 6
+    },
+    {
+     "file": "0385.json",
+     "ref": "v2.s137",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0386.json",
+     "ref": "v2.s138",
+     "title": "CCXXVIII.--TO A FRENCH SEIGNEUR.[208]",
+     "segments": 5
+    },
+    {
+     "file": "0387.json",
+     "ref": "v2.s139",
+     "title": "CHARLES D'ESPEVILLE.",
+     "segments": 1
+    },
+    {
+     "file": "0388.json",
+     "ref": "v2.s140",
+     "title": "CCXXIX.--TO THE PROTECTOR SOMERSET.[209]",
+     "segments": 18
+    },
+    {
+     "file": "0389.json",
+     "ref": "v2.s141",
+     "title": "CCXXX.--TO FAREL.",
+     "segments": 4
+    },
+    {
+     "file": "0390.json",
+     "ref": "v2.s142",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0391.json",
+     "ref": "v2.s143",
+     "title": "CCXXXI.--TO JOHN STURM.[214]",
+     "segments": 6
+    },
+    {
+     "file": "0392.json",
+     "ref": "v2.s144",
+     "title": "CCXXXII.--TO MADAME DE CANY.[216]",
+     "segments": 6
+    },
+    {
+     "file": "0393.json",
+     "ref": "v2.s145",
+     "title": "CHARLES D'ESPEVILLE.",
+     "segments": 1
+    },
+    {
+     "file": "0394.json",
+     "ref": "v2.s146",
+     "title": "CCXXXIII.--TO MADEMOISELLE DE....",
+     "segments": 6
+    },
+    {
+     "file": "0395.json",
+     "ref": "v2.s147",
+     "title": "CHARLES D'ESPEVILLE.",
+     "segments": 1
+    },
+    {
+     "file": "0396.json",
+     "ref": "v2.s148",
+     "title": "CCXXXIV.--TO THE MINISTERS OF THE CHURCH OF MONTBELIARD.[218]",
+     "segments": 5
+    },
+    {
+     "file": "0397.json",
+     "ref": "v2.s149",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0398.json",
+     "ref": "v2.s150",
+     "title": "CCXXXV.--TO HENRY BULLINGER.[219]",
+     "segments": 3
+    },
+    {
+     "file": "0399.json",
+     "ref": "v2.s151",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0400.json",
+     "ref": "v2.s152",
+     "title": "CCXXXVI.--TO BUCER.[223]",
+     "segments": 5
+    },
+    {
+     "file": "0401.json",
+     "ref": "v2.s153",
+     "title": "CCXXXVII.--TO THE PASTORS OF THE CHURCH OF BERNE.[224]",
+     "segments": 4
+    },
+    {
+     "file": "0402.json",
+     "ref": "v2.s154",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0403.json",
+     "ref": "v2.s155",
+     "title": "CCXXXVIII.--TO VIRET.[225]",
+     "segments": 3
+    },
+    {
+     "file": "0404.json",
+     "ref": "v2.s156",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0405.json",
+     "ref": "v2.s157",
+     "title": "CCXXXIX.--TO FAREL.",
+     "segments": 3
+    },
+    {
+     "file": "0406.json",
+     "ref": "v2.s158",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0407.json",
+     "ref": "v2.s159",
+     "title": "CCXL.--TO MADAME DE CANY.[229]",
+     "segments": 7
+    },
+    {
+     "file": "0408.json",
+     "ref": "v2.s160",
+     "title": "CHARLES D'ESPEVILLE.",
+     "segments": 1
+    },
+    {
+     "file": "0409.json",
+     "ref": "v2.s161",
+     "title": "CCXLI.--TO VIRET.",
+     "segments": 4
+    },
+    {
+     "file": "0410.json",
+     "ref": "v2.s162",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0411.json",
+     "ref": "v2.s163",
+     "title": "CCXLII.--TO HENRY BULLINGER.[235]",
+     "segments": 8
+    },
+    {
+     "file": "0412.json",
+     "ref": "v2.s164",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0413.json",
+     "ref": "v2.s165",
+     "title": "CCXLIII.--TO MADAME DE LA ROCHE-POSAY.[236]",
+     "segments": 5
+    },
+    {
+     "file": "0414.json",
+     "ref": "v2.s166",
+     "title": "CHARLES D'ESPEVILLE.",
+     "segments": 1
+    },
+    {
+     "file": "0415.json",
+     "ref": "v2.s167",
+     "title": "CCXLIV.--TO BUCER.[237]",
+     "segments": 3
+    },
+    {
+     "file": "0416.json",
+     "ref": "v2.s168",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0417.json",
+     "ref": "v2.s169",
+     "title": "CCXLV.--TO LADY ANNE SEYMOUR.[244]",
+     "segments": 5
+    },
+    {
+     "file": "0418.json",
+     "ref": "v2.s170",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0419.json",
+     "ref": "v2.s171",
+     "title": "CCXLVI.--TO FAREL.",
+     "segments": 3
+    },
+    {
+     "file": "0420.json",
+     "ref": "v2.s172",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0421.json",
+     "ref": "v2.s173",
+     "title": "CCXLVII.--TO FAREL.",
+     "segments": 4
+    },
+    {
+     "file": "0422.json",
+     "ref": "v2.s174",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0423.json",
+     "ref": "v2.s175",
+     "title": "CCXLVIII.--TO VIRET.",
+     "segments": 6
+    },
+    {
+     "file": "0424.json",
+     "ref": "v2.s176",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0425.json",
+     "ref": "v2.s177",
+     "title": "CCXLIX.--TO THE PASTORS OF THE CHURCH OF ZURICH.[250]",
+     "segments": 6
+    },
+    {
+     "file": "0426.json",
+     "ref": "v2.s178",
+     "title": "CCL.--TO BULLINGER.[251]",
+     "segments": 5
+    },
+    {
+     "file": "0427.json",
+     "ref": "v2.s179",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0428.json",
+     "ref": "v2.s180",
+     "title": "CCLI.--TO FAREL AND VIRET.",
+     "segments": 3
+    },
+    {
+     "file": "0429.json",
+     "ref": "v2.s181",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0430.json",
+     "ref": "v2.s182",
+     "title": "CCLII.--TO FAREL.[257]",
+     "segments": 4
+    },
+    {
+     "file": "0431.json",
+     "ref": "v2.s183",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0432.json",
+     "ref": "v2.s184",
+     "title": "CCLIII.--TO VIRET.",
+     "segments": 4
+    },
+    {
+     "file": "0433.json",
+     "ref": "v2.s185",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0434.json",
+     "ref": "v2.s186",
+     "title": "CCLIV.--TO JOHN HALLER.[263]",
+     "segments": 5
+    },
+    {
+     "file": "0435.json",
+     "ref": "v2.s187",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0436.json",
+     "ref": "v2.s188",
+     "title": "CCLV.--TO WOLFGANG MUSCULUS.[265]",
+     "segments": 4
+    },
+    {
+     "file": "0437.json",
+     "ref": "v2.s189",
+     "title": "JOHN CALVIN.",
+     "segments": 3
+    },
+    {
+     "file": "0438.json",
+     "ref": "v2.s190",
+     "title": "CCLVI.--TO MONSIEUR DE SAINT LAURENS.[268]",
+     "segments": 1
+    },
+    {
+     "file": "0439.json",
+     "ref": "v2.s191",
+     "title": "FROM GENEVA, ... [1549?]",
+     "segments": 3
+    },
+    {
+     "file": "0440.json",
+     "ref": "v2.s192",
+     "title": "CHARLES D'ESPEVILLE.",
+     "segments": 1
+    },
+    {
+     "file": "0441.json",
+     "ref": "v2.s193",
+     "title": "CCLVII.--TO THE PROTECTOR SOMERSET.[269]",
+     "segments": 7
+    },
+    {
+     "file": "0442.json",
+     "ref": "v2.s194",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0443.json",
+     "ref": "v2.s195",
+     "title": "CCLVIII.--TO FAREL.",
+     "segments": 6
+    },
+    {
+     "file": "0444.json",
+     "ref": "v2.s196",
+     "title": "JOHN CALVIN.",
+     "segments": 3
+    },
+    {
+     "file": "0445.json",
+     "ref": "v2.s197",
+     "title": "CCLIX.--TO FAREL.",
+     "segments": 5
+    },
+    {
+     "file": "0446.json",
+     "ref": "v2.s198",
+     "title": "JOHN CALVIN",
+     "segments": 1
+    },
+    {
+     "file": "0447.json",
+     "ref": "v2.s199",
+     "title": "CCLX.--TO FRANCIS DRYANDER.[276]",
+     "segments": 5
+    },
+    {
+     "file": "0448.json",
+     "ref": "v2.s200",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0449.json",
+     "ref": "v2.s201",
+     "title": "CCLXI.--TO NICOLAS COLLADON.[277]",
+     "segments": 5
+    },
+    {
+     "file": "0450.json",
+     "ref": "v2.s202",
+     "title": "CHARLES PASSELIUS.",
+     "segments": 1
+    },
+    {
+     "file": "0451.json",
+     "ref": "v2.s203",
+     "title": "CCLXII.--TO THE SEIGNEURY OF GENEVA.[280]",
+     "segments": 14
+    },
+    {
+     "file": "0452.json",
+     "ref": "v2.s204",
+     "title": "CCLXIII.--TO MELANCHTHON.[281]",
+     "segments": 6
+    },
+    {
+     "file": "0453.json",
+     "ref": "v2.s205",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0454.json",
+     "ref": "v2.s206",
+     "title": "CCLXIV.--TO VIRET.",
+     "segments": 4
+    },
+    {
+     "file": "0455.json",
+     "ref": "v2.s207",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0456.json",
+     "ref": "v2.s208",
+     "title": "CCLXV.--TO FAREL.",
+     "segments": 3
+    },
+    {
+     "file": "0457.json",
+     "ref": "v2.s209",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0458.json",
+     "ref": "v2.s210",
+     "title": "CCLXVI.--TO WILLIAM RABOT.[294]",
+     "segments": 5
+    },
+    {
+     "file": "0459.json",
+     "ref": "v2.s211",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0460.json",
+     "ref": "v2.s212",
+     "title": "CCLXVII.--TO FAREL.",
+     "segments": 8
+    },
+    {
+     "file": "0461.json",
+     "ref": "v2.s213",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0462.json",
+     "ref": "v2.s214",
+     "title": "CCLXVIII.--TO FAREL.",
+     "segments": 5
+    },
+    {
+     "file": "0463.json",
+     "ref": "v2.s215",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0464.json",
+     "ref": "v2.s216",
+     "title": "CCLXIX.--TO MONSIEUR DE FALAIS.[310]",
+     "segments": 6
+    },
+    {
+     "file": "0465.json",
+     "ref": "v2.s217",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0466.json",
+     "ref": "v2.s218",
+     "title": "CCLXX.--TO HALLER.[313]",
+     "segments": 5
+    },
+    {
+     "file": "0467.json",
+     "ref": "v2.s219",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0468.json",
+     "ref": "v2.s220",
+     "title": "CCLXXI.--TO VIRET.[316]",
+     "segments": 3
+    },
+    {
+     "file": "0469.json",
+     "ref": "v2.s221",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0470.json",
+     "ref": "v2.s222",
+     "title": "CCLXXII.--TO RICHARD LE FEVRE.[318]",
+     "segments": 13
+    },
+    {
+     "file": "0471.json",
+     "ref": "v2.s223",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0472.json",
+     "ref": "v2.s224",
+     "title": "CCLXXIII.--TO VIRET.",
+     "segments": 3
+    },
+    {
+     "file": "0473.json",
+     "ref": "v2.s225",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0474.json",
+     "ref": "v2.s226",
+     "title": "CCLXXIV.--TO THE KING OF ENGLAND.[321]",
+     "segments": 12
+    },
+    {
+     "file": "0475.json",
+     "ref": "v2.s227",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0476.json",
+     "ref": "v2.s228",
+     "title": "CCLXXV.--TO BULLINGER.[323]",
+     "segments": 6
+    },
+    {
+     "file": "0477.json",
+     "ref": "v2.s229",
+     "title": "CCLXXVI.--TO BULLINGER.",
+     "segments": 4
+    },
+    {
+     "file": "0478.json",
+     "ref": "v2.s230",
+     "title": "CCLXXVII.--TO BULLINGER.",
+     "segments": 3
+    },
+    {
+     "file": "0479.json",
+     "ref": "v2.s231",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0480.json",
+     "ref": "v2.s232",
+     "title": "CCLXXVIII.--TO VIRET.[333]",
+     "segments": 4
+    },
+    {
+     "file": "0481.json",
+     "ref": "v2.s233",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0482.json",
+     "ref": "v2.s234",
+     "title": "CCLXXIX.--TO FAREL.",
+     "segments": 3
+    },
+    {
+     "file": "0483.json",
+     "ref": "v2.s235",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0484.json",
+     "ref": "v2.s236",
+     "title": "CCLXXX.--TO A FRENCH GENTLEMAN.[341]",
+     "segments": 13
+    },
+    {
+     "file": "0485.json",
+     "ref": "v2.s237",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0486.json",
+     "ref": "v2.s238",
+     "title": "CCLXXXII.--TO VIRET.",
+     "segments": 3
+    },
+    {
+     "file": "0487.json",
+     "ref": "v2.s239",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0488.json",
+     "ref": "v2.s240",
+     "title": "CCLXXXIII.--TO THE MINISTERS OF NEUCHATEL.",
+     "segments": 3
+    },
+    {
+     "file": "0489.json",
+     "ref": "v2.s241",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0490.json",
+     "ref": "v2.s242",
+     "title": "CCLXXXIV.--TO BULLINGER.[345]",
+     "segments": 5
+    },
+    {
+     "file": "0491.json",
+     "ref": "v2.s243",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0492.json",
+     "ref": "v2.s244",
+     "title": "CCLXXXV.--TO THE MINISTERS OF SWITZERLAND.[348]",
+     "segments": 5
+    },
+    {
+     "file": "0493.json",
+     "ref": "v2.s245",
+     "title": "CCLXXXVI.--TO OSWALD MYCONIUS.[349]",
+     "segments": 4
+    },
+    {
+     "file": "0494.json",
+     "ref": "v2.s246",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0495.json",
+     "ref": "v2.s247",
+     "title": "CCLXXXVII.--TO CHRISTOPHER FABRI.[352]",
+     "segments": 4
+    },
+    {
+     "file": "0496.json",
+     "ref": "v2.s248",
+     "title": "CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0497.json",
+     "ref": "v2.s249",
+     "title": "CCLXXXVIII.--TO FAREL.",
+     "segments": 4
+    },
+    {
+     "file": "0498.json",
+     "ref": "v2.s250",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0499.json",
+     "ref": "v2.s251",
+     "title": "CCLXXXIX.--TO LELIO SOCIN.[356]",
+     "segments": 10
+    },
+    {
+     "file": "0500.json",
+     "ref": "v2.s252",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0501.json",
+     "ref": "v2.s253",
+     "title": "CCXCI.--TO FAREL.",
+     "segments": 6
+    },
+    {
+     "file": "0502.json",
+     "ref": "v2.s254",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0503.json",
+     "ref": "v2.s255",
+     "title": "CCXCII.--TO MADAME DE CANY.[363]",
+     "segments": 6
+    },
+    {
+     "file": "0504.json",
+     "ref": "v2.s256",
+     "title": "CCXCIII.--TO BULLINGER.[368]",
+     "segments": 9
+    },
+    {
+     "file": "0505.json",
+     "ref": "v2.s257",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0506.json",
+     "ref": "v2.s258",
+     "title": "CCXCIV.-TO CRANMER.[372]",
+     "segments": 1
+    },
+    {
+     "file": "0507.json",
+     "ref": "v2.s259",
+     "title": "\"THOMAS CANTUAR.",
+     "segments": 5
+    },
+    {
+     "file": "0508.json",
+     "ref": "v2.s260",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0509.json",
+     "ref": "v2.s261",
+     "title": "CCXCV.--TO BULLINGER.",
+     "segments": 3
+    },
+    {
+     "file": "0510.json",
+     "ref": "v2.s262",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0511.json",
+     "ref": "v2.s263",
+     "title": "CCXCVI.--TO THE FIVE PRISONERS OF LYONS,--MARTIAL ALBA, PETER ESCRIVAIN, CHARLES FAVRE, PETER NAVIHERES, BERNARD SEGUIN.[376]",
+     "segments": 6
+    },
+    {
+     "file": "0512.json",
+     "ref": "v2.s264",
+     "title": "CCXCVII--TO EDWARD VI.[377]",
+     "segments": 6
+    },
+    {
+     "file": "0513.json",
+     "ref": "v2.s265",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0514.json",
+     "ref": "v2.s266",
+     "title": "CCXCVIII--TO CRANMER.[380]",
+     "segments": 3
+    },
+    {
+     "file": "0515.json",
+     "ref": "v2.s267",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0516.json",
+     "ref": "v2.s268",
+     "title": "CCXCIX.--TO JOHN LINER.[381]",
+     "segments": 4
+    },
+    {
+     "file": "0517.json",
+     "ref": "v2.s269",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0518.json",
+     "ref": "v2.s270",
+     "title": "CCC.--TO THE FRENCH CHURCH IN LONDON.[382]",
+     "segments": 7
+    },
+    {
+     "file": "0519.json",
+     "ref": "v2.s271",
+     "title": "CCCI.--TO THE SEIGNEURS OF GENEVA.[384]",
+     "segments": 19
+    },
+    {
+     "file": "0520.json",
+     "ref": "v2.s273",
+     "title": "CCCII.--TO FAREL.[391]",
+     "segments": 5
+    },
+    {
+     "file": "0521.json",
+     "ref": "v2.s274",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0522.json",
+     "ref": "v2.s275",
+     "title": "CCCIII.--TO VIRET.",
+     "segments": 3
+    },
+    {
+     "file": "0523.json",
+     "ref": "v2.s276",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0524.json",
+     "ref": "v2.s277",
+     "title": "CCCIV.--TO AMBROISE BLAURER.[397]",
+     "segments": 5
+    },
+    {
+     "file": "0525.json",
+     "ref": "v2.s278",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0526.json",
+     "ref": "v2.s279",
+     "title": "CCCV.--TO MELANCHTHON.[400]",
+     "segments": 3
+    },
+    {
+     "file": "0527.json",
+     "ref": "v2.s280",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0528.json",
+     "ref": "v2.s281",
+     "title": "CCCVI.--TO MONSIEUR DE FALAIS.[403]",
+     "segments": 4
+    },
+    {
+     "file": "0529.json",
+     "ref": "v2.s282",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0530.json",
+     "ref": "v2.s283",
+     "title": "CCCVII.--TO MATHIEU DIMONET.[406]",
+     "segments": 6
+    },
+    {
+     "file": "0531.json",
+     "ref": "v2.s284",
+     "title": "CCCVIII.--TO CHRISTOPHER FABRI.",
+     "segments": 3
+    },
+    {
+     "file": "0532.json",
+     "ref": "v2.s285",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0533.json",
+     "ref": "v2.s286",
+     "title": "CCCIX.--TO JOHN CHEKE.[413]",
+     "segments": 3
+    },
+    {
+     "file": "0534.json",
+     "ref": "v2.s287",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0535.json",
+     "ref": "v2.s288",
+     "title": "CCCX.--TO THE FIVE PRISONERS OF LYONS.[414]",
+     "segments": 6
+    },
+    {
+     "file": "0536.json",
+     "ref": "v2.s289",
+     "title": "CCCXI--TO EDWARD VI.",
+     "segments": 4
+    },
+    {
+     "file": "0537.json",
+     "ref": "v2.s290",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0538.json",
+     "ref": "v2.s291",
+     "title": "CCCXII.--TO FAREL.[419]",
+     "segments": 3
+    },
+    {
+     "file": "0539.json",
+     "ref": "v2.s292",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0540.json",
+     "ref": "v2.s293",
+     "title": "CCCXIII.--TO CHRISTOPER AND TO THOMAS ZOLLICOFFRE.[420]",
+     "segments": 2
+    },
+    {
+     "file": "0541.json",
+     "ref": "v2.s294",
+     "title": "FROM THE HOSTELLERIE IN LAUSANNE,",
+     "segments": 3
+    },
+    {
+     "file": "0542.json",
+     "ref": "v2.s295",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0543.json",
+     "ref": "v2.s296",
+     "title": "CCCXIV.--TO CRANMER.",
+     "segments": 3
+    },
+    {
+     "file": "0544.json",
+     "ref": "v2.s297",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0545.json",
+     "ref": "v2.s298",
+     "title": "CCCXV.--TO MONSIEUR DE MAROLLES.[423]",
+     "segments": 3
+    },
+    {
+     "file": "0546.json",
+     "ref": "v2.s299",
+     "title": "CHARLES D'ESPEVILLE.",
+     "segments": 1
+    },
+    {
+     "file": "0547.json",
+     "ref": "v2.s300",
+     "title": "CCCXVI.--TO VIRET.[425]",
+     "segments": 3
+    },
+    {
+     "file": "0548.json",
+     "ref": "v2.s301",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0549.json",
+     "ref": "v2.s302",
+     "title": "CCCXVII.--TO BULLINGER.[427]",
+     "segments": 4
+    },
+    {
+     "file": "0550.json",
+     "ref": "v2.s303",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0551.json",
+     "ref": "v2.s304",
+     "title": "CCCXVIII.--TO THE FIVE PRISONERS OF LYONS.[431]",
+     "segments": 7
+    },
+    {
+     "file": "0552.json",
+     "ref": "v2.s305",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0553.json",
+     "ref": "v2.s306",
+     "title": "CCCXIX.--TO MADAME DE CANY.[433]",
+     "segments": 7
+    },
+    {
+     "file": "0554.json",
+     "ref": "v2.s307",
+     "title": "CCCXX.--TO THE PRISONERS OF LYONS.[435]",
+     "segments": 5
+    },
+    {
+     "file": "0555.json",
+     "ref": "v2.s308",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0556.json",
+     "ref": "v2.s309",
+     "title": "CCCXXI.--TO BULLINGER.",
+     "segments": 5
+    },
+    {
+     "file": "0557.json",
+     "ref": "v2.s310",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0558.json",
+     "ref": "v2.s311",
+     "title": "CCCXXII.--TO FAREL.[437]",
+     "segments": 4
+    },
+    {
+     "file": "0559.json",
+     "ref": "v2.s312",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0560.json",
+     "ref": "v2.s313",
+     "title": "CCCXXIII.--TO DENIS PELOQUIN AND LOUIS DE MARSAC.[440]",
+     "segments": 10
+    },
+    {
+     "file": "0561.json",
+     "ref": "v2.s314",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0562.json",
+     "ref": "v2.s315",
+     "title": "CCCXXIV.--TO HIS DEARLY BELOVED, THE PASTORS OF THE CHURCH OF FRANKFORT.[442]",
+     "segments": 5
+    },
+    {
+     "file": "0563.json",
+     "ref": "v2.s316",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0564.json",
+     "ref": "v2.s317",
+     "title": "CCCXXV.--TO VIRET.[443]",
+     "segments": 4
+    },
+    {
+     "file": "0565.json",
+     "ref": "v2.s318",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0566.json",
+     "ref": "v2.s319",
+     "title": "CCCXXVI.--TO BULLINGER.",
+     "segments": 6
+    },
+    {
+     "file": "0567.json",
+     "ref": "v2.s320",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0568.json",
+     "ref": "v2.s321",
+     "title": "CCCXXVII.--TO SULZER.[449]",
+     "segments": 4
+    },
+    {
+     "file": "0569.json",
+     "ref": "v2.s322",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0570.json",
+     "ref": "v2.s323",
+     "title": "CCCXXVIII.--TO A CAPTIVE LADY.[452]",
+     "segments": 4
+    },
+    {
+     "file": "0571.json",
+     "ref": "v2.s324",
+     "title": "CCCXXIX.--TO THE BELIEVERS IN THE ISLES.[453]",
+     "segments": 6
+    },
+    {
+     "file": "0572.json",
+     "ref": "v2.s325",
+     "title": "CCCXXX.--TO FAREL.",
+     "segments": 3
+    },
+    {
+     "file": "0573.json",
+     "ref": "v2.s326",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0574.json",
+     "ref": "v2.s327",
+     "title": "CCCXXXI.--TO FAREL.[458]",
+     "segments": 4
+    },
+    {
+     "file": "0575.json",
+     "ref": "v2.s328",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0576.json",
+     "ref": "v2.s329",
+     "title": "CCCXXXII.--TO MADAME DE PONS.",
+     "segments": 3
+    },
+    {
+     "file": "0577.json",
+     "ref": "v2.s330",
+     "title": "CHARLES D'ESPEVILLE.",
+     "segments": 1
+    },
+    {
+     "file": "0578.json",
+     "ref": "v2.s331",
+     "title": "CCCXXXIII.--TO VIRET.[460]",
+     "segments": 3
+    },
+    {
+     "file": "0579.json",
+     "ref": "v2.s332",
+     "title": "JOHN CALVIN",
+     "segments": 1
+    },
+    {
+     "file": "0580.json",
+     "ref": "v2.s333",
+     "title": "CCCXXXIV.--TO BULLINGER.[462]",
+     "segments": 3
+    },
+    {
+     "file": "0581.json",
+     "ref": "v2.s334",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0582.json",
+     "ref": "v2.s335",
+     "title": "CCCXXXV.--TO THE PASTORS AND DOCTORS OF THE CHURCH OF ZURICH.[464]",
+     "segments": 5
+    },
+    {
+     "file": "0583.json",
+     "ref": "v2.s336",
+     "title": "JOHN CALVIN.",
+     "segments": 2
+    },
+    {
+     "file": "0584.json",
+     "ref": "v2.s337",
+     "title": "CCCXXXVI.--TO BULLINGER.",
+     "segments": 4
+    },
+    {
+     "file": "0585.json",
+     "ref": "v2.s338",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0586.json",
+     "ref": "v2.s339",
+     "title": "CCCXXXVII.--TO FAREL.[469]",
+     "segments": 4
+    },
+    {
+     "file": "0587.json",
+     "ref": "v2.s340",
+     "title": "JOHN CALVIN.",
+     "segments": 1
+    },
+    {
+     "file": "0588.json",
+     "ref": "v2.s341",
+     "title": "CCCXXXVIII.--TO AN ITALIAN LADY.[470]",
+     "segments": 3
+    },
+    {
+     "file": "0589.json",
+     "ref": "v2.s342",
+     "title": "CCCXXXIX.--TO A SEIGNEUR OF JERSEY.[471]",
+     "segments": 9
+    }
+   ]
+  }
+ ]
+}

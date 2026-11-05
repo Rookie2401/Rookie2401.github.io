@@ -1,0 +1,233 @@
+{
+ "workId": "westminster-confession-text",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "westminster-confession-edinburgh-1671-tcp-a34242",
+   "role": "english",
+   "language": "english",
+   "credit": "The Confession of Faith (Edinburgh 1671), in EEBO-TCP A34242 (Wing C5769): The confession of faith; and, The larger and shorter catechism ... approved by the General Assembly of the kirk of Scotland, Edinburgh: George Swinton and Thomas Brown, 1671 (Edinburgh: George Swinton and Thomas Brown (sold by James Glen and David Trench), 1671). Transcription: Text Creation Partnership (EEBO-TCP Phase 1); keyboarded from page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A34242/master/A34242.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 668313,
+   "sourceSha256": "67336b370fb1905285155bdaa28d71a736e3ad956209ca3f37df88b63276fed4",
+   "leftOut": {
+    "pb": 73,
+    "note": 573,
+    "unread": 110
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 11877,
+    "unreadPerThousand": 9.3
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "CHAP. I. Of the holy Scripture.",
+     "segments": 13
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "CHAP. II. Of God, and of the Holy Trinity.",
+     "segments": 3
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.3",
+     "title": "CHAP. III. Of Gods Eternal Decree.",
+     "segments": 8
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.4",
+     "title": "CHAP. IV. Of Creation.",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.5",
+     "title": "CHHP. V. Of Providence.",
+     "segments": 6
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.6",
+     "title": "CHAP. VI. Of the fall of Man, of Sin, and of the punishment thereof.",
+     "segments": 6
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.7",
+     "title": "CHAP. VII. Of Gods Covenant with man.",
+     "segments": 6
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.8",
+     "title": "CHAP. VIII. Of Christ the Mediator.",
+     "segments": 8
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.9",
+     "title": "CHAP. IX. Of Free Will.",
+     "segments": 5
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.10",
+     "title": "CHAP. X. Of effectual calling.",
+     "segments": 4
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.11",
+     "title": "CHAP. XI. Of Iustification,",
+     "segments": 6
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.12",
+     "title": "CHAP. XII. Of Adoption.",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.13",
+     "title": "CHAP. XIII. Of Sanctification.",
+     "segments": 3
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.14",
+     "title": "CHAP. XIV. Of saving Faith.",
+     "segments": 3
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.15",
+     "title": "CHAP. XV. Of Repentance unto life.",
+     "segments": 6
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.16",
+     "title": "CHAP. XVI. Of good Woorks.",
+     "segments": 7
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.17",
+     "title": "CHAP. XVII. Of Perseverance.",
+     "segments": 3
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.18",
+     "title": "CHAP. XVIII. Of the assurance of Grace and Salvation.",
+     "segments": 4
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.19",
+     "title": "CHAP. XIX. Of the Law of God.",
+     "segments": 7
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.20",
+     "title": "CHAP. XX. Of Christian Liberty, and Liberty of Conscience.",
+     "segments": 4
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.21",
+     "title": "CHAP. XXI. Of Religious Worship, and the Sabbath day.",
+     "segments": 8
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.22",
+     "title": "CHAP. XXII. Of Lawful Oaths and Vows.",
+     "segments": 7
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.23",
+     "title": "CHAP. XXIII. Of the Civil Magistrate.",
+     "segments": 4
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.24",
+     "title": "CHAP. XXIV. Of Marriage and Divorce.",
+     "segments": 6
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.25",
+     "title": "CHAP. XXV. Of the Church.",
+     "segments": 6
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.26",
+     "title": "CHAP. XXVI. Of the Communion of Saints.",
+     "segments": 3
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.27",
+     "title": "CHAP. XXVII. Of the Sacraments.",
+     "segments": 5
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.28",
+     "title": "CHAP. XXVIII. Of Baptisme.",
+     "segments": 7
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.29",
+     "title": "CHAP. XXIX. Of the LORDS Supper.",
+     "segments": 8
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.30",
+     "title": "CHAP. XXX. Of Church Censures.",
+     "segments": 4
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.31",
+     "title": "CHAP. XXXI. Of Synods and Councils.",
+     "segments": 5
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.32",
+     "title": "CHAP. XXXII· Of the state of men after death, and of the Resurrection of the dead.",
+     "segments": 3
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.33",
+     "title": "CHAP. XXXIII. Of the last judgment.",
+     "segments": 3
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.end",
+     "title": "1.end",
+     "segments": 1
+    }
+   ]
+  }
+ ]
+}

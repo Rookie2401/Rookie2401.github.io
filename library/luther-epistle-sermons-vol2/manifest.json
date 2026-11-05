@@ -1,0 +1,597 @@
+{
+ "workId": "luther-epistle-sermons-vol2",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "luther-epistle-sermons-vol2-lenker-gutenberg",
+   "role": "english",
+   "language": "english",
+   "credit": "Luther's Epistle Sermons: Epiphany, Easter and Pentecost, in Luther's Complete Works, vol. VIII (Minneapolis: The Luther Press, 1909), trans. John Nicholas Lenker, with the help of others (Minneapolis: The Luther Press, 1909). Transcription: Ron Swanson (Project Gutenberg), from Internet Archive images (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/28464/pg28464.txt",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 705209,
+   "sourceSha256": "21bd1afd374a600535a59721feaf2dab0284f1a9245a2dc8baf0005265cfed52",
+   "leftOut": {
+    "transcriberNote": 1,
+    "note": 7,
+    "noteMark": 4,
+    "gutenbergLine": 1
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "https://www.gutenberg.org/cache/epub/28464/pg28464.txt",
+     "bytes": 705209,
+     "sha256": "21bd1afd374a600535a59721feaf2dab0284f1a9245a2dc8baf0005265cfed52"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "s1",
+     "title": "s1",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "s2",
+     "title": "AUTHOR OF \"LUTHERANS IN ALL LANDS,\" TRANSLATOR OF LUTHER'S WORKS INTO ENGLISH AND PRESIDENT OF THE NATIONAL LUTHERAN LIBRARY ASSOCIATION",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "s3",
+     "title": "THIRD THOUSAND",
+     "segments": 19
+    },
+    {
+     "file": "0004.json",
+     "ref": "s4",
+     "title": "J. N. LENKER.",
+     "segments": 16
+    },
+    {
+     "file": "0005.json",
+     "ref": "s5",
+     "title": "SUMMER PART OF THE EPISTLE POSTIL.",
+     "segments": 20
+    },
+    {
+     "file": "0006.json",
+     "ref": "s6",
+     "title": "THE FRUITS OF FAITH.",
+     "segments": 9
+    },
+    {
+     "file": "0007.json",
+     "ref": "s7",
+     "title": "OUR SPIRITUAL SERVICE.",
+     "segments": 23
+    },
+    {
+     "file": "0008.json",
+     "ref": "s8",
+     "title": "SOBER THOUGHTS OF OURSELVES.",
+     "segments": 7
+    },
+    {
+     "file": "0009.json",
+     "ref": "s9",
+     "title": "GIFTS AND WORKS OF CHRIST'S MEMBERS.",
+     "segments": 3
+    },
+    {
+     "file": "0010.json",
+     "ref": "s10",
+     "title": "WE ARE BORN MEMBERS OF CHRIST.",
+     "segments": 4
+    },
+    {
+     "file": "0011.json",
+     "ref": "s11",
+     "title": "EACH MEMBER CONTENT WITH ITS OWN POWERS.",
+     "segments": 3
+    },
+    {
+     "file": "0012.json",
+     "ref": "s12",
+     "title": "EACH MEMBER SERVES ALL THE OTHERS.",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "s13",
+     "title": "EACH MEMBER SUFFERS AND REJOICES WITH ALL.",
+     "segments": 3
+    },
+    {
+     "file": "0014.json",
+     "ref": "s14",
+     "title": "CHRISTIAN EQUALITY AND CHRISTIAN GIFTS.",
+     "segments": 27
+    },
+    {
+     "file": "0015.json",
+     "ref": "s15",
+     "title": "THE WORKS OF CHRIST'S MEMBERS.",
+     "segments": 58
+    },
+    {
+     "file": "0016.json",
+     "ref": "s16",
+     "title": "CHRISTIAN REVENGE.[1]",
+     "segments": 19
+    },
+    {
+     "file": "0017.json",
+     "ref": "s17",
+     "title": "CHRISTIAN LOVE AND THE COMMAND TO LOVE.",
+     "segments": 7
+    },
+    {
+     "file": "0018.json",
+     "ref": "s18",
+     "title": "LOVE FULFILS THE LAW.",
+     "segments": 27
+    },
+    {
+     "file": "0019.json",
+     "ref": "s19",
+     "title": "ALL COMMANDMENTS SUMMED UP IN LOVE.",
+     "segments": 11
+    },
+    {
+     "file": "0020.json",
+     "ref": "s20",
+     "title": "LOVE WORKS ONLY GOOD TO ITS NEIGHBOR.",
+     "segments": 5
+    },
+    {
+     "file": "0021.json",
+     "ref": "s21",
+     "title": "THE GLORIOUS ADORNMENT OF CHRISTIANS.",
+     "segments": 57
+    },
+    {
+     "file": "0022.json",
+     "ref": "s22",
+     "title": "THE CHRISTIAN RACE FOR THE PRIZE.",
+     "segments": 12
+    },
+    {
+     "file": "0023.json",
+     "ref": "s23",
+     "title": "EXAMPLES FROM SCRIPTURE.",
+     "segments": 27
+    },
+    {
+     "file": "0024.json",
+     "ref": "s24",
+     "title": "PAUL'S GLORY IN HIS LABOR AND SUFFERING.",
+     "segments": 12
+    },
+    {
+     "file": "0025.json",
+     "ref": "s25",
+     "title": "PAUL'S DESCRIPTION OF FALSE TEACHERS.",
+     "segments": 20
+    },
+    {
+     "file": "0026.json",
+     "ref": "s26",
+     "title": "PAUL'S THORN IN THE FLESH AND HUMILITY.",
+     "segments": 10
+    },
+    {
+     "file": "0027.json",
+     "ref": "s27",
+     "title": "PAUL'S PRAISE OF CHRISTIAN LOVE.",
+     "segments": 9
+    },
+    {
+     "file": "0028.json",
+     "ref": "s28",
+     "title": "LOVE THE SPIRIT'S FRUIT RECEIVED BY FAITH.",
+     "segments": 9
+    },
+    {
+     "file": "0029.json",
+     "ref": "s29",
+     "title": "THE NATURE OF CHRISTIAN LOVE.",
+     "segments": 24
+    },
+    {
+     "file": "0030.json",
+     "ref": "s30",
+     "title": "THE GREATEST CHRISTIAN VIRTUE IS LOVE.",
+     "segments": 10
+    },
+    {
+     "file": "0031.json",
+     "ref": "s31",
+     "title": "AN ENTREATY TO LIVE AS CHRISTIANS.",
+     "segments": 8
+    },
+    {
+     "file": "0032.json",
+     "ref": "s32",
+     "title": "SALVATION WHEREVER THE GOSPEL IS SENT.",
+     "segments": 11
+    },
+    {
+     "file": "0033.json",
+     "ref": "s33",
+     "title": "MARKS OF CHRISTIANS AS MINISTERS OF GOD.",
+     "segments": 18
+    },
+    {
+     "file": "0034.json",
+     "ref": "s34",
+     "title": "THE ARMOR OF RIGHTEOUSNESS.",
+     "segments": 10
+    },
+    {
+     "file": "0035.json",
+     "ref": "s35",
+     "title": "EXHORTATION TO HOLINESS.",
+     "segments": 16
+    },
+    {
+     "file": "0036.json",
+     "ref": "s36",
+     "title": "EXHORTATION TO BE IMITATORS OF GOD.",
+     "segments": 7
+    },
+    {
+     "file": "0037.json",
+     "ref": "s37",
+     "title": "SINS NOT TO BE NAMED AMONG CHRISTIANS.",
+     "segments": 8
+    },
+    {
+     "file": "0038.json",
+     "ref": "s38",
+     "title": "FOOLISH TALKING AND JESTING.",
+     "segments": 7
+    },
+    {
+     "file": "0039.json",
+     "ref": "s39",
+     "title": "FRUITLESS CHRISTIANS ARE HEATHEN.",
+     "segments": 5
+    },
+    {
+     "file": "0040.json",
+     "ref": "s40",
+     "title": "DECEPTION BY EMPTY WORDS.",
+     "segments": 18
+    },
+    {
+     "file": "0041.json",
+     "ref": "s41",
+     "title": "THE CHILDREN OF PROMISE.",
+     "segments": 4
+    },
+    {
+     "file": "0042.json",
+     "ref": "s42",
+     "title": "CHRIST OUR GREAT HIGH PRIEST.",
+     "segments": 20
+    },
+    {
+     "file": "0043.json",
+     "ref": "s43",
+     "title": "CHRIST AN EXAMPLE OF LOVE.",
+     "segments": 33
+    },
+    {
+     "file": "0044.json",
+     "ref": "s44",
+     "title": "SUMMER PART",
+     "segments": 3
+    },
+    {
+     "file": "0045.json",
+     "ref": "s45",
+     "title": "EXHORTATION TO WALK AS CHRISTIANS.[1]",
+     "segments": 51
+    },
+    {
+     "file": "0046.json",
+     "ref": "s46",
+     "title": "THE BLESSINGS OF CHRIST'S RESURRECTION.",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "s47",
+     "title": "THE GOSPEL A DOCTRINE OF PEACE.",
+     "segments": 3
+    },
+    {
+     "file": "0048.json",
+     "ref": "s48",
+     "title": "THE ARTICLE OF FAITH ON THE RESURRECTION.",
+     "segments": 24
+    },
+    {
+     "file": "0049.json",
+     "ref": "s49",
+     "title": "THE WORD AND THE RESURRECTION.[1]",
+     "segments": 4
+    },
+    {
+     "file": "0050.json",
+     "ref": "s50",
+     "title": "THE WORD OF SALVATION.",
+     "segments": 23
+    },
+    {
+     "file": "0051.json",
+     "ref": "s51",
+     "title": "THE RESURRECTION AND FAITH.",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "s52",
+     "title": "OLD TESTAMENT TESTIMONY.",
+     "segments": 11
+    },
+    {
+     "file": "0053.json",
+     "ref": "s53",
+     "title": "EXHORTATION TO TRULY GOOD WORKS.",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "s54",
+     "title": "HOW WE ARE RISEN WITH CHRIST.",
+     "segments": 14
+    },
+    {
+     "file": "0055.json",
+     "ref": "s55",
+     "title": "SPIRITUAL AND CARNAL WORLDLINESS.",
+     "segments": 14
+    },
+    {
+     "file": "0056.json",
+     "ref": "s56",
+     "title": "THE NEW LIFE IN CHRIST.",
+     "segments": 17
+    },
+    {
+     "file": "0057.json",
+     "ref": "s57",
+     "title": "VICTORIOUS FAITH.",
+     "segments": 1
+    },
+    {
+     "file": "0058.json",
+     "ref": "s58",
+     "title": "THE NEW BIRTH.",
+     "segments": 7
+    },
+    {
+     "file": "0059.json",
+     "ref": "s59",
+     "title": "THE TWO KINGDOMS.",
+     "segments": 5
+    },
+    {
+     "file": "0060.json",
+     "ref": "s60",
+     "title": "FAITH THE VICTOR.",
+     "segments": 12
+    },
+    {
+     "file": "0061.json",
+     "ref": "s61",
+     "title": "THE SOURCE OF FAITH.",
+     "segments": 5
+    },
+    {
+     "file": "0062.json",
+     "ref": "s62",
+     "title": "BAPTISM BY WATER AND BLOOD.",
+     "segments": 5
+    },
+    {
+     "file": "0063.json",
+     "ref": "s63",
+     "title": "THE SPIRIT.",
+     "segments": 6
+    },
+    {
+     "file": "0064.json",
+     "ref": "s64",
+     "title": "FAITH TO BE IMPLICIT.",
+     "segments": 7
+    },
+    {
+     "file": "0065.json",
+     "ref": "s65",
+     "title": "PATIENCE UNDER TRIBULATION.",
+     "segments": 8
+    },
+    {
+     "file": "0066.json",
+     "ref": "s66",
+     "title": "CHRIST OUR PATTERN.",
+     "segments": 35
+    },
+    {
+     "file": "0067.json",
+     "ref": "s67",
+     "title": "CHRIST OUR EXAMPLE IN SUFFERING.",
+     "segments": 26
+    },
+    {
+     "file": "0068.json",
+     "ref": "s68",
+     "title": "OUR CHRISTIAN DUTIES.",
+     "segments": 2
+    },
+    {
+     "file": "0069.json",
+     "ref": "s69",
+     "title": "REMISSION AND MORTIFICATION DEFINED.",
+     "segments": 3
+    },
+    {
+     "file": "0070.json",
+     "ref": "s70",
+     "title": "THE NATURE OF CHRIST'S KINGDOM.",
+     "segments": 2
+    },
+    {
+     "file": "0071.json",
+     "ref": "s71",
+     "title": "CHRISTIAN USE OF THIS LIFE.",
+     "segments": 11
+    },
+    {
+     "file": "0072.json",
+     "ref": "s72",
+     "title": "CHRISTIANS SUBJECTS OF TWO KINGDOMS.",
+     "segments": 5
+    },
+    {
+     "file": "0073.json",
+     "ref": "s73",
+     "title": "HOW TO ESCAPE THE WORLD.",
+     "segments": 5
+    },
+    {
+     "file": "0074.json",
+     "ref": "s74",
+     "title": "REASONS TO ABSTAIN FROM CARNAL LUST.",
+     "segments": 20
+    },
+    {
+     "file": "0075.json",
+     "ref": "s75",
+     "title": "WHY MEN REJECT THE GOSPEL.",
+     "segments": 5
+    },
+    {
+     "file": "0076.json",
+     "ref": "s76",
+     "title": "OUR BLESSINGS OUTWEIGH OUR ILLS.",
+     "segments": 5
+    },
+    {
+     "file": "0077.json",
+     "ref": "s77",
+     "title": "OUR BLESSINGS IN CHRIST'S RESURRECTION.",
+     "segments": 6
+    },
+    {
+     "file": "0078.json",
+     "ref": "s78",
+     "title": "THE FUTURE LIFE OF BLESSEDNESS.",
+     "segments": 4
+    },
+    {
+     "file": "0079.json",
+     "ref": "s79",
+     "title": "GOD'S CHILDREN BEGOTTEN BY THE WORD.",
+     "segments": 4
+    },
+    {
+     "file": "0080.json",
+     "ref": "s80",
+     "title": "CHRISTIANS THE FIRST-FRUITS.",
+     "segments": 3
+    },
+    {
+     "file": "0081.json",
+     "ref": "s81",
+     "title": "IMPATIENT ANGER FORBIDDEN.",
+     "segments": 5
+    },
+    {
+     "file": "0082.json",
+     "ref": "s82",
+     "title": "MEEKNESS AND PATIENCE ENJOINED.",
+     "segments": 1
+    },
+    {
+     "file": "0083.json",
+     "ref": "s83",
+     "title": "THE POWER OF THE WORD.",
+     "segments": 14
+    },
+    {
+     "file": "0084.json",
+     "ref": "s84",
+     "title": "EXHORTATION TO CHRISTIAN LIVING.",
+     "segments": 1
+    },
+    {
+     "file": "0085.json",
+     "ref": "s85",
+     "title": "EXHORTATION TO SOBERNESS.",
+     "segments": 20
+    },
+    {
+     "file": "0086.json",
+     "ref": "s86",
+     "title": "NECESSITY FOR PRAYER.",
+     "segments": 5
+    },
+    {
+     "file": "0087.json",
+     "ref": "s87",
+     "title": "TEMPERANCE IN ALL THINGS.",
+     "segments": 28
+    },
+    {
+     "file": "0088.json",
+     "ref": "s88",
+     "title": "STEWARDS OF GOD'S GIFTS.",
+     "segments": 8
+    },
+    {
+     "file": "0089.json",
+     "ref": "s89",
+     "title": "ASSURANCE OF PURE DOCTRINE ESSENTIAL.",
+     "segments": 6
+    },
+    {
+     "file": "0090.json",
+     "ref": "s90",
+     "title": "ASSURANCE OF DIVINE EFFICIENCY ESSENTIAL.",
+     "segments": 8
+    },
+    {
+     "file": "0091.json",
+     "ref": "s91",
+     "title": "THE GIFT OF THE HOLY SPIRIT.",
+     "segments": 2
+    },
+    {
+     "file": "0092.json",
+     "ref": "s92",
+     "title": "LITERAL LAW AND SPIRITUAL LAW.",
+     "segments": 4
+    },
+    {
+     "file": "0093.json",
+     "ref": "s93",
+     "title": "THE OFFICE OF THE HOLY SPIRIT.",
+     "segments": 8
+    },
+    {
+     "file": "0094.json",
+     "ref": "s94",
+     "title": "BELIEVERS MUST YET RESIST SIN.",
+     "segments": 13
+    }
+   ]
+  }
+ ]
+}

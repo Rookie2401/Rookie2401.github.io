@@ -1,0 +1,270 @@
+{
+ "workId": "tertullian-repentance",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "oehler-1853-paenitentia",
+   "role": "original",
+   "language": "latin",
+   "credit": "De Paenitentia, in Quinti Septimii Florentis Tertulliani Quae supersunt omnia, vol. 1, ed. Franz Oehler (Leipzig: T. O. Weigel, 1853). Trustees of Tufts University / Perseus Digital Library, CC BY-SA 4.0; text of F. Oehler (ed.), Tertulliani Quae supersunt omnia, Leipzig 1853-54 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/stoa0275/stoa021/stoa0275.stoa021.opp-lat1.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 34429,
+   "sourceSha256": "045e70b5c48d9eadd19484dd6b930c643b912f50403a31c84680b29c2f464317",
+   "leftOut": {
+    "pb": 22,
+    "bibl": 13
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 4074,
+    "garbledPerThousand": 0,
+    "joinedPerThousand": 0,
+    "numbersPerThousand": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "anf3-thelwall-repentance",
+   "role": "english",
+   "language": "english",
+   "credit": "On Repentance, in The Ante-Nicene Fathers, vol. III (American edition, ed. A. Cleveland Coxe), Tertullian, trans. Sydney Thelwall (Buffalo: Christian Literature Publishing Co., 1885). Wikisource contributors, \"Ante-Nicene Fathers\" (Sydney Thelwall), en.wikisource.org, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_III/Ethical/On_Repentance",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 63545,
+   "sourceSha256": "20508cc49b597b5d228e3026f94d0d483565cf97f5dad95a3e98b3a5fe5e2c6b",
+   "leftOut": {
+    "note": 122
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Ethical/On Repentance/I",
+     "bytes": 2833,
+     "sha256": "8a6e782805b1747fd6fd556a70a70c5fee3f27c831b1cf1f9752c9be057050c3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Ethical/On Repentance/II",
+     "bytes": 5176,
+     "sha256": "c38c96a0ce9514456fc1e451aed7bf53867913bc3e856f73809562d8a929c9c0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Ethical/On Repentance/III",
+     "bytes": 6233,
+     "sha256": "462cc02b8fa59e80e8742997731b591ec0e1ebfef0bb42bec0c2370cdf7f7eec"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Ethical/On Repentance/IV",
+     "bytes": 4163,
+     "sha256": "bc679acddcfe1eea54d40b5c89f6516ad75ca57de02206ada6797ae53d8d7f90"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Ethical/On Repentance/V",
+     "bytes": 4731,
+     "sha256": "1ef1498f3ac332a2d8c36bc38c615387c7d98fc053b470d597be0a43f709fa00"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Ethical/On Repentance/VI",
+     "bytes": 8254,
+     "sha256": "c41270c6bb21cdb3634f8ea880e82cd02809c2c2caecd047d6044b665a04ac93"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Ethical/On Repentance/VII",
+     "bytes": 5118,
+     "sha256": "f097dd3a8735e3bdc75d623ef5cc1894fd1f8cf4015aa3fe8ad19fae36a55502"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Ethical/On Repentance/VIII",
+     "bytes": 4340,
+     "sha256": "55ba47c99cc285823bd3a881b06f6d37476489d5c18114e522280813bf3e78ff"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Ethical/On Repentance/IX",
+     "bytes": 2977,
+     "sha256": "b6077b25d61a217ad0c9baaad42b1f22f267c4b43ae00db751c02aa70b11dca8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Ethical/On Repentance/X",
+     "bytes": 3577,
+     "sha256": "1bc87eeee301ecfa0c1f4f9e881fd0a9a65281e269ed943b050e5abd479d8669"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Ethical/On Repentance/XI",
+     "bytes": 2670,
+     "sha256": "575f51f87c15fe85be4d976bd5f559b92349553460f6d7ac3a2a015a807f7088"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Ethical/On Repentance/XII",
+     "bytes": 4800,
+     "sha256": "eb83d4a23ecfa2d45cac52017ad2ec590932dd997534b59c2743a7e7ecb44c14"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Ethical/On Repentance/Elucidations",
+     "bytes": 8673,
+     "sha256": "1618dd83c3339ffef693785a12da555dd53e34ef5f42c431feb90554ab977b58"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 5
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 3
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 3
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 3
+    },
+    {
+     "file": "0013.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 23
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 12,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 1
+ }
+}

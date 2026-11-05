@@ -1,0 +1,2443 @@
+{
+ "workId": "eusebius-preparation",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "teubner-dindorf-praeparatio",
+   "role": "original",
+   "language": "greek",
+   "credit": "Praeparatio Evangelica, in Eusebii Caesariensis Opera, vols. 1-2, ed. Wilhelm Dindorf (Leipzig: Teubner, 1867). Perseus Digital Library (Tufts) / Open Greek and Latin First1KGreek, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2018/tlg001/tlg2018.tlg001.1st1K-grc1.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 3454701,
+   "sourceSha256": "c90fcf7562fccc3cb34b853df777885135e8beae4002ab56cefe91a9378bbd26",
+   "leftOut": {
+    "milestone": 3687,
+    "lb": 5941,
+    "pb": 1004,
+    "note": 259
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 229093,
+    "barePerThousand": 32,
+    "digitWords": 6
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.1",
+     "title": "1.1",
+     "segments": 13
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.2",
+     "title": "1.2",
+     "segments": 8
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.3",
+     "title": "1.3",
+     "segments": 15
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.4",
+     "title": "1.4",
+     "segments": 15
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.5",
+     "title": "1.5",
+     "segments": 14
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.6",
+     "title": "1.6",
+     "segments": 9
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.7",
+     "title": "1.7",
+     "segments": 16
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.8",
+     "title": "1.8",
+     "segments": 19
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.9",
+     "title": "1.9",
+     "segments": 30
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.10",
+     "title": "1.10",
+     "segments": 55
+    },
+    {
+     "file": "0011.json",
+     "ref": "2.pref",
+     "title": "2.pref",
+     "segments": 6
+    },
+    {
+     "file": "0012.json",
+     "ref": "2.1",
+     "title": "2.1",
+     "segments": 56
+    },
+    {
+     "file": "0013.json",
+     "ref": "2.2",
+     "title": "2.2",
+     "segments": 64
+    },
+    {
+     "file": "0014.json",
+     "ref": "2.3",
+     "title": "2.3",
+     "segments": 42
+    },
+    {
+     "file": "0015.json",
+     "ref": "2.4",
+     "title": "2.4",
+     "segments": 6
+    },
+    {
+     "file": "0016.json",
+     "ref": "2.5",
+     "title": "2.5",
+     "segments": 6
+    },
+    {
+     "file": "0017.json",
+     "ref": "2.6",
+     "title": "2.6",
+     "segments": 24
+    },
+    {
+     "file": "0018.json",
+     "ref": "2.7",
+     "title": "2.7",
+     "segments": 9
+    },
+    {
+     "file": "0019.json",
+     "ref": "2.8",
+     "title": "2.8",
+     "segments": 13
+    },
+    {
+     "file": "0020.json",
+     "ref": "3.pref",
+     "title": "3.pref",
+     "segments": 5
+    },
+    {
+     "file": "0021.json",
+     "ref": "3.1",
+     "title": "3.1",
+     "segments": 7
+    },
+    {
+     "file": "0022.json",
+     "ref": "3.2",
+     "title": "3.2",
+     "segments": 7
+    },
+    {
+     "file": "0023.json",
+     "ref": "3.3",
+     "title": "3.3",
+     "segments": 21
+    },
+    {
+     "file": "0024.json",
+     "ref": "3.4",
+     "title": "3.4",
+     "segments": 14
+    },
+    {
+     "file": "0025.json",
+     "ref": "3.5",
+     "title": "3.5",
+     "segments": 5
+    },
+    {
+     "file": "0026.json",
+     "ref": "3.6",
+     "title": "3.6",
+     "segments": 7
+    },
+    {
+     "file": "0027.json",
+     "ref": "3.7",
+     "title": "3.7",
+     "segments": 5
+    },
+    {
+     "file": "0028.json",
+     "ref": "3.8",
+     "title": "3.8",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "3.9",
+     "title": "3.9",
+     "segments": 15
+    },
+    {
+     "file": "0030.json",
+     "ref": "3.10",
+     "title": "3.10",
+     "segments": 26
+    },
+    {
+     "file": "0031.json",
+     "ref": "3.11",
+     "title": "3.11",
+     "segments": 51
+    },
+    {
+     "file": "0032.json",
+     "ref": "3.12",
+     "title": "3.12",
+     "segments": 6
+    },
+    {
+     "file": "0033.json",
+     "ref": "3.13",
+     "title": "3.13",
+     "segments": 25
+    },
+    {
+     "file": "0034.json",
+     "ref": "3.14",
+     "title": "3.14",
+     "segments": 13
+    },
+    {
+     "file": "0035.json",
+     "ref": "3.15",
+     "title": "3.15",
+     "segments": 5
+    },
+    {
+     "file": "0036.json",
+     "ref": "3.16",
+     "title": "3.16",
+     "segments": 4
+    },
+    {
+     "file": "0037.json",
+     "ref": "3.17",
+     "title": "3.17",
+     "segments": 3
+    },
+    {
+     "file": "0038.json",
+     "ref": "4.1",
+     "title": "4.1",
+     "segments": 11
+    },
+    {
+     "file": "0039.json",
+     "ref": "4.2",
+     "title": "4.2",
+     "segments": 14
+    },
+    {
+     "file": "0040.json",
+     "ref": "4.3",
+     "title": "4.3",
+     "segments": 16
+    },
+    {
+     "file": "0041.json",
+     "ref": "4.4",
+     "title": "4.4",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "4.5",
+     "title": "4.5",
+     "segments": 5
+    },
+    {
+     "file": "0043.json",
+     "ref": "4.6",
+     "title": "4.6",
+     "segments": 4
+    },
+    {
+     "file": "0044.json",
+     "ref": "4.7",
+     "title": "4.7",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "4.8",
+     "title": "4.8",
+     "segments": 6
+    },
+    {
+     "file": "0046.json",
+     "ref": "4.9",
+     "title": "4.9",
+     "segments": 7
+    },
+    {
+     "file": "0047.json",
+     "ref": "4.10",
+     "title": "4.10",
+     "segments": 7
+    },
+    {
+     "file": "0048.json",
+     "ref": "4.11",
+     "title": "4.11",
+     "segments": 1
+    },
+    {
+     "file": "0049.json",
+     "ref": "4.12",
+     "title": "4.12",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "4.13",
+     "title": "4.13",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "4.14",
+     "title": "4.14",
+     "segments": 10
+    },
+    {
+     "file": "0052.json",
+     "ref": "4.15",
+     "title": "4.15",
+     "segments": 9
+    },
+    {
+     "file": "0053.json",
+     "ref": "4.16",
+     "title": "4.16",
+     "segments": 27
+    },
+    {
+     "file": "0054.json",
+     "ref": "4.17",
+     "title": "4.17",
+     "segments": 11
+    },
+    {
+     "file": "0055.json",
+     "ref": "4.18",
+     "title": "4.18",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "4.19",
+     "title": "4.19",
+     "segments": 8
+    },
+    {
+     "file": "0057.json",
+     "ref": "4.20",
+     "title": "4.20",
+     "segments": 3
+    },
+    {
+     "file": "0058.json",
+     "ref": "4.21",
+     "title": "4.21",
+     "segments": 6
+    },
+    {
+     "file": "0059.json",
+     "ref": "4.22",
+     "title": "4.22",
+     "segments": 15
+    },
+    {
+     "file": "0060.json",
+     "ref": "4.23",
+     "title": "4.23",
+     "segments": 8
+    },
+    {
+     "file": "0061.json",
+     "ref": "5.1",
+     "title": "5.1",
+     "segments": 16
+    },
+    {
+     "file": "0062.json",
+     "ref": "5.2",
+     "title": "5.2",
+     "segments": 5
+    },
+    {
+     "file": "0063.json",
+     "ref": "5.3",
+     "title": "5.3",
+     "segments": 10
+    },
+    {
+     "file": "0064.json",
+     "ref": "5.4",
+     "title": "5.4",
+     "segments": 10
+    },
+    {
+     "file": "0065.json",
+     "ref": "5.5",
+     "title": "5.5",
+     "segments": 9
+    },
+    {
+     "file": "0066.json",
+     "ref": "5.6",
+     "title": "5.6",
+     "segments": 4
+    },
+    {
+     "file": "0067.json",
+     "ref": "5.7",
+     "title": "5.7",
+     "segments": 6
+    },
+    {
+     "file": "0068.json",
+     "ref": "5.8",
+     "title": "5.8",
+     "segments": 13
+    },
+    {
+     "file": "0069.json",
+     "ref": "5.9",
+     "title": "5.9",
+     "segments": 16
+    },
+    {
+     "file": "0070.json",
+     "ref": "5.10",
+     "title": "5.10",
+     "segments": 13
+    },
+    {
+     "file": "0071.json",
+     "ref": "5.11",
+     "title": "5.11",
+     "segments": 1
+    },
+    {
+     "file": "0072.json",
+     "ref": "5.12",
+     "title": "5.12",
+     "segments": 2
+    },
+    {
+     "file": "0073.json",
+     "ref": "5.13",
+     "title": "5.13",
+     "segments": 3
+    },
+    {
+     "file": "0074.json",
+     "ref": "5.14",
+     "title": "5.14",
+     "segments": 4
+    },
+    {
+     "file": "0075.json",
+     "ref": "5.15",
+     "title": "5.15",
+     "segments": 6
+    },
+    {
+     "file": "0076.json",
+     "ref": "5.16",
+     "title": "5.16",
+     "segments": 4
+    },
+    {
+     "file": "0077.json",
+     "ref": "5.17",
+     "title": "5.17",
+     "segments": 14
+    },
+    {
+     "file": "0078.json",
+     "ref": "5.18",
+     "title": "5.18",
+     "segments": 6
+    },
+    {
+     "file": "0079.json",
+     "ref": "5.19",
+     "title": "5.19",
+     "segments": 4
+    },
+    {
+     "file": "0080.json",
+     "ref": "5.20",
+     "title": "5.20",
+     "segments": 10
+    },
+    {
+     "file": "0081.json",
+     "ref": "5.21",
+     "title": "5.21",
+     "segments": 6
+    },
+    {
+     "file": "0082.json",
+     "ref": "5.22",
+     "title": "5.22",
+     "segments": 7
+    },
+    {
+     "file": "0083.json",
+     "ref": "5.23",
+     "title": "5.23",
+     "segments": 7
+    },
+    {
+     "file": "0084.json",
+     "ref": "5.24",
+     "title": "5.24",
+     "segments": 12
+    },
+    {
+     "file": "0085.json",
+     "ref": "5.25",
+     "title": "5.25",
+     "segments": 8
+    },
+    {
+     "file": "0086.json",
+     "ref": "5.26",
+     "title": "5.26",
+     "segments": 6
+    },
+    {
+     "file": "0087.json",
+     "ref": "5.27",
+     "title": "5.27",
+     "segments": 8
+    },
+    {
+     "file": "0088.json",
+     "ref": "5.28",
+     "title": "5.28",
+     "segments": 10
+    },
+    {
+     "file": "0089.json",
+     "ref": "5.29",
+     "title": "5.29",
+     "segments": 7
+    },
+    {
+     "file": "0090.json",
+     "ref": "5.30",
+     "title": "5.30",
+     "segments": 2
+    },
+    {
+     "file": "0091.json",
+     "ref": "5.31",
+     "title": "5.31",
+     "segments": 3
+    },
+    {
+     "file": "0092.json",
+     "ref": "5.32",
+     "title": "5.32",
+     "segments": 2
+    },
+    {
+     "file": "0093.json",
+     "ref": "5.33",
+     "title": "5.33",
+     "segments": 17
+    },
+    {
+     "file": "0094.json",
+     "ref": "5.34",
+     "title": "5.34",
+     "segments": 17
+    },
+    {
+     "file": "0095.json",
+     "ref": "5.35",
+     "title": "5.35",
+     "segments": 3
+    },
+    {
+     "file": "0096.json",
+     "ref": "5.36",
+     "title": "5.36",
+     "segments": 5
+    },
+    {
+     "file": "0097.json",
+     "ref": "6.pref",
+     "title": "6.pref",
+     "segments": 3
+    },
+    {
+     "file": "0098.json",
+     "ref": "6.1",
+     "title": "6.1",
+     "segments": 7
+    },
+    {
+     "file": "0099.json",
+     "ref": "6.2",
+     "title": "6.2",
+     "segments": 2
+    },
+    {
+     "file": "0100.json",
+     "ref": "6.3",
+     "title": "6.3",
+     "segments": 5
+    },
+    {
+     "file": "0101.json",
+     "ref": "6.4",
+     "title": "6.4",
+     "segments": 3
+    },
+    {
+     "file": "0102.json",
+     "ref": "6.5",
+     "title": "6.5",
+     "segments": 4
+    },
+    {
+     "file": "0103.json",
+     "ref": "6.6",
+     "title": "6.6",
+     "segments": 74
+    },
+    {
+     "file": "0104.json",
+     "ref": "6.7",
+     "title": "6.7",
+     "segments": 44
+    },
+    {
+     "file": "0105.json",
+     "ref": "6.8",
+     "title": "6.8",
+     "segments": 39
+    },
+    {
+     "file": "0106.json",
+     "ref": "6.9",
+     "title": "6.9",
+     "segments": 32
+    },
+    {
+     "file": "0107.json",
+     "ref": "6.10",
+     "title": "6.10",
+     "segments": 50
+    },
+    {
+     "file": "0108.json",
+     "ref": "6.11",
+     "title": "6.11",
+     "segments": 83
+    },
+    {
+     "file": "0109.json",
+     "ref": "7.1",
+     "title": "7.1",
+     "segments": 3
+    },
+    {
+     "file": "0110.json",
+     "ref": "7.2",
+     "title": "7.2",
+     "segments": 6
+    },
+    {
+     "file": "0111.json",
+     "ref": "7.3",
+     "title": "7.3",
+     "segments": 3
+    },
+    {
+     "file": "0112.json",
+     "ref": "7.4",
+     "title": "7.4",
+     "segments": 7
+    },
+    {
+     "file": "0113.json",
+     "ref": "7.5",
+     "title": "7.5",
+     "segments": 2
+    },
+    {
+     "file": "0114.json",
+     "ref": "7.6",
+     "title": "7.6",
+     "segments": 3
+    },
+    {
+     "file": "0115.json",
+     "ref": "7.7",
+     "title": "7.7",
+     "segments": 4
+    },
+    {
+     "file": "0116.json",
+     "ref": "7.8",
+     "title": "7.8",
+     "segments": 41
+    },
+    {
+     "file": "0117.json",
+     "ref": "7.9",
+     "title": "7.9",
+     "segments": 4
+    },
+    {
+     "file": "0118.json",
+     "ref": "7.10",
+     "title": "7.10",
+     "segments": 16
+    },
+    {
+     "file": "0119.json",
+     "ref": "7.11",
+     "title": "7.11",
+     "segments": 14
+    },
+    {
+     "file": "0120.json",
+     "ref": "7.12",
+     "title": "7.12",
+     "segments": 14
+    },
+    {
+     "file": "0121.json",
+     "ref": "7.13",
+     "title": "7.13",
+     "segments": 7
+    },
+    {
+     "file": "0122.json",
+     "ref": "7.14",
+     "title": "7.14",
+     "segments": 3
+    },
+    {
+     "file": "0123.json",
+     "ref": "7.15",
+     "title": "7.15",
+     "segments": 18
+    },
+    {
+     "file": "0124.json",
+     "ref": "7.16",
+     "title": "7.16",
+     "segments": 11
+    },
+    {
+     "file": "0125.json",
+     "ref": "7.17",
+     "title": "7.17",
+     "segments": 4
+    },
+    {
+     "file": "0126.json",
+     "ref": "7.18",
+     "title": "7.18",
+     "segments": 13
+    },
+    {
+     "file": "0127.json",
+     "ref": "7.19",
+     "title": "7.19",
+     "segments": 8
+    },
+    {
+     "file": "0128.json",
+     "ref": "7.20",
+     "title": "7.20",
+     "segments": 9
+    },
+    {
+     "file": "0129.json",
+     "ref": "7.21",
+     "title": "7.21",
+     "segments": 5
+    },
+    {
+     "file": "0130.json",
+     "ref": "7.22",
+     "title": "7.22",
+     "segments": 64
+    },
+    {
+     "file": "0131.json",
+     "ref": "8.1",
+     "title": "8.1",
+     "segments": 8
+    },
+    {
+     "file": "0132.json",
+     "ref": "8.2",
+     "title": "8.2",
+     "segments": 5
+    },
+    {
+     "file": "0133.json",
+     "ref": "8.3",
+     "title": "8.3",
+     "segments": 6
+    },
+    {
+     "file": "0134.json",
+     "ref": "8.4",
+     "title": "8.4",
+     "segments": 4
+    },
+    {
+     "file": "0135.json",
+     "ref": "8.5",
+     "title": "8.5",
+     "segments": 11
+    },
+    {
+     "file": "0136.json",
+     "ref": "8.6",
+     "title": "8.6",
+     "segments": 10
+    },
+    {
+     "file": "0137.json",
+     "ref": "8.7",
+     "title": "8.7",
+     "segments": 21
+    },
+    {
+     "file": "0138.json",
+     "ref": "8.8",
+     "title": "8.8",
+     "segments": 57
+    },
+    {
+     "file": "0139.json",
+     "ref": "8.9",
+     "title": "8.9",
+     "segments": 38
+    },
+    {
+     "file": "0140.json",
+     "ref": "8.10",
+     "title": "8.10",
+     "segments": 19
+    },
+    {
+     "file": "0141.json",
+     "ref": "8.11",
+     "title": "8.11",
+     "segments": 19
+    },
+    {
+     "file": "0142.json",
+     "ref": "8.12",
+     "title": "8.12",
+     "segments": 22
+    },
+    {
+     "file": "0143.json",
+     "ref": "8.13",
+     "title": "8.13",
+     "segments": 7
+    },
+    {
+     "file": "0144.json",
+     "ref": "8.14",
+     "title": "8.14",
+     "segments": 73
+    },
+    {
+     "file": "0145.json",
+     "ref": "9.1",
+     "title": "9.1",
+     "segments": 4
+    },
+    {
+     "file": "0146.json",
+     "ref": "9.2",
+     "title": "9.2",
+     "segments": 2
+    },
+    {
+     "file": "0147.json",
+     "ref": "9.3",
+     "title": "9.3",
+     "segments": 22
+    },
+    {
+     "file": "0148.json",
+     "ref": "9.4",
+     "title": "9.4",
+     "segments": 9
+    },
+    {
+     "file": "0149.json",
+     "ref": "9.5",
+     "title": "9.5",
+     "segments": 7
+    },
+    {
+     "file": "0150.json",
+     "ref": "9.6",
+     "title": "9.6",
+     "segments": 9
+    },
+    {
+     "file": "0151.json",
+     "ref": "9.7",
+     "title": "9.7",
+     "segments": 1
+    },
+    {
+     "file": "0152.json",
+     "ref": "9.8",
+     "title": "9.8",
+     "segments": 3
+    },
+    {
+     "file": "0153.json",
+     "ref": "9.9",
+     "title": "9.9",
+     "segments": 2
+    },
+    {
+     "file": "0154.json",
+     "ref": "9.10",
+     "title": "9.10",
+     "segments": 7
+    },
+    {
+     "file": "0155.json",
+     "ref": "9.11",
+     "title": "9.11",
+     "segments": 4
+    },
+    {
+     "file": "0156.json",
+     "ref": "9.12",
+     "title": "9.12",
+     "segments": 5
+    },
+    {
+     "file": "0157.json",
+     "ref": "9.13",
+     "title": "9.13",
+     "segments": 5
+    },
+    {
+     "file": "0158.json",
+     "ref": "9.14",
+     "title": "9.14",
+     "segments": 3
+    },
+    {
+     "file": "0159.json",
+     "ref": "9.15",
+     "title": "9.15",
+     "segments": 1
+    },
+    {
+     "file": "0160.json",
+     "ref": "9.16",
+     "title": "9.16",
+     "segments": 8
+    },
+    {
+     "file": "0161.json",
+     "ref": "9.17",
+     "title": "9.17",
+     "segments": 9
+    },
+    {
+     "file": "0162.json",
+     "ref": "9.18",
+     "title": "9.18",
+     "segments": 2
+    },
+    {
+     "file": "0163.json",
+     "ref": "9.19",
+     "title": "9.19",
+     "segments": 4
+    },
+    {
+     "file": "0164.json",
+     "ref": "9.20",
+     "title": "9.20",
+     "segments": 4
+    },
+    {
+     "file": "0165.json",
+     "ref": "9.21",
+     "title": "9.21",
+     "segments": 19
+    },
+    {
+     "file": "0166.json",
+     "ref": "9.22",
+     "title": "9.22",
+     "segments": 11
+    },
+    {
+     "file": "0167.json",
+     "ref": "9.23",
+     "title": "9.23",
+     "segments": 4
+    },
+    {
+     "file": "0168.json",
+     "ref": "9.24",
+     "title": "9.24",
+     "segments": 1
+    },
+    {
+     "file": "0169.json",
+     "ref": "9.25",
+     "title": "9.25",
+     "segments": 4
+    },
+    {
+     "file": "0170.json",
+     "ref": "9.26",
+     "title": "9.26",
+     "segments": 1
+    },
+    {
+     "file": "0171.json",
+     "ref": "9.27",
+     "title": "9.27",
+     "segments": 37
+    },
+    {
+     "file": "0172.json",
+     "ref": "9.28",
+     "title": "9.28",
+     "segments": 1
+    },
+    {
+     "file": "0173.json",
+     "ref": "9.29",
+     "title": "9.29",
+     "segments": 16
+    },
+    {
+     "file": "0174.json",
+     "ref": "9.30",
+     "title": "9.30",
+     "segments": 8
+    },
+    {
+     "file": "0175.json",
+     "ref": "9.31",
+     "title": "9.31",
+     "segments": 1
+    },
+    {
+     "file": "0176.json",
+     "ref": "9.32",
+     "title": "9.32",
+     "segments": 1
+    },
+    {
+     "file": "0177.json",
+     "ref": "9.33",
+     "title": "9.33",
+     "segments": 1
+    },
+    {
+     "file": "0178.json",
+     "ref": "9.34",
+     "title": "9.34",
+     "segments": 20
+    },
+    {
+     "file": "0179.json",
+     "ref": "9.35",
+     "title": "9.35",
+     "segments": 1
+    },
+    {
+     "file": "0180.json",
+     "ref": "9.36",
+     "title": "9.36",
+     "segments": 1
+    },
+    {
+     "file": "0181.json",
+     "ref": "9.37",
+     "title": "9.37",
+     "segments": 3
+    },
+    {
+     "file": "0182.json",
+     "ref": "9.38",
+     "title": "9.38",
+     "segments": 3
+    },
+    {
+     "file": "0183.json",
+     "ref": "9.39",
+     "title": "9.39",
+     "segments": 5
+    },
+    {
+     "file": "0184.json",
+     "ref": "9.40",
+     "title": "9.40",
+     "segments": 11
+    },
+    {
+     "file": "0185.json",
+     "ref": "9.41",
+     "title": "9.41",
+     "segments": 9
+    },
+    {
+     "file": "0186.json",
+     "ref": "9.42",
+     "title": "9.42",
+     "segments": 4
+    },
+    {
+     "file": "0187.json",
+     "ref": "10.1",
+     "title": "10.1",
+     "segments": 9
+    },
+    {
+     "file": "0188.json",
+     "ref": "10.2",
+     "title": "10.2",
+     "segments": 16
+    },
+    {
+     "file": "0189.json",
+     "ref": "10.3",
+     "title": "10.3",
+     "segments": 26
+    },
+    {
+     "file": "0190.json",
+     "ref": "10.4",
+     "title": "10.4",
+     "segments": 33
+    },
+    {
+     "file": "0191.json",
+     "ref": "10.5",
+     "title": "10.5",
+     "segments": 12
+    },
+    {
+     "file": "0192.json",
+     "ref": "10.6",
+     "title": "10.6",
+     "segments": 15
+    },
+    {
+     "file": "0193.json",
+     "ref": "10.7",
+     "title": "10.7",
+     "segments": 22
+    },
+    {
+     "file": "0194.json",
+     "ref": "10.8",
+     "title": "10.8",
+     "segments": 18
+    },
+    {
+     "file": "0195.json",
+     "ref": "10.9",
+     "title": "10.9",
+     "segments": 28
+    },
+    {
+     "file": "0196.json",
+     "ref": "10.10",
+     "title": "10.10",
+     "segments": 23
+    },
+    {
+     "file": "0197.json",
+     "ref": "10.11",
+     "title": "10.11",
+     "segments": 35
+    },
+    {
+     "file": "0198.json",
+     "ref": "10.12",
+     "title": "10.12",
+     "segments": 31
+    },
+    {
+     "file": "0199.json",
+     "ref": "10.13",
+     "title": "10.13",
+     "segments": 13
+    },
+    {
+     "file": "0200.json",
+     "ref": "10.14",
+     "title": "10.14",
+     "segments": 19
+    },
+    {
+     "file": "0201.json",
+     "ref": "11.pref",
+     "title": "11.pref",
+     "segments": 5
+    },
+    {
+     "file": "0202.json",
+     "ref": "11.1",
+     "title": "11.1",
+     "segments": 2
+    },
+    {
+     "file": "0203.json",
+     "ref": "11.2",
+     "title": "11.2",
+     "segments": 6
+    },
+    {
+     "file": "0204.json",
+     "ref": "11.3",
+     "title": "11.3",
+     "segments": 10
+    },
+    {
+     "file": "0205.json",
+     "ref": "11.4",
+     "title": "11.4",
+     "segments": 7
+    },
+    {
+     "file": "0206.json",
+     "ref": "11.5",
+     "title": "11.5",
+     "segments": 9
+    },
+    {
+     "file": "0207.json",
+     "ref": "11.6",
+     "title": "11.6",
+     "segments": 41
+    },
+    {
+     "file": "0208.json",
+     "ref": "11.7",
+     "title": "11.7",
+     "segments": 12
+    },
+    {
+     "file": "0209.json",
+     "ref": "11.8",
+     "title": "11.8",
+     "segments": 1
+    },
+    {
+     "file": "0210.json",
+     "ref": "11.9",
+     "title": "11.9",
+     "segments": 8
+    },
+    {
+     "file": "0211.json",
+     "ref": "11.10",
+     "title": "11.10",
+     "segments": 16
+    },
+    {
+     "file": "0212.json",
+     "ref": "11.11",
+     "title": "11.11",
+     "segments": 15
+    },
+    {
+     "file": "0213.json",
+     "ref": "11.12",
+     "title": "11.12",
+     "segments": 2
+    },
+    {
+     "file": "0214.json",
+     "ref": "11.13",
+     "title": "11.13",
+     "segments": 8
+    },
+    {
+     "file": "0215.json",
+     "ref": "11.14",
+     "title": "11.14",
+     "segments": 10
+    },
+    {
+     "file": "0216.json",
+     "ref": "11.15",
+     "title": "11.15",
+     "segments": 7
+    },
+    {
+     "file": "0217.json",
+     "ref": "11.16",
+     "title": "11.16",
+     "segments": 4
+    },
+    {
+     "file": "0218.json",
+     "ref": "11.17",
+     "title": "11.17",
+     "segments": 11
+    },
+    {
+     "file": "0219.json",
+     "ref": "11.18",
+     "title": "11.18",
+     "segments": 26
+    },
+    {
+     "file": "0220.json",
+     "ref": "11.19",
+     "title": "11.19",
+     "segments": 5
+    },
+    {
+     "file": "0221.json",
+     "ref": "11.20",
+     "title": "11.20",
+     "segments": 3
+    },
+    {
+     "file": "0222.json",
+     "ref": "11.21",
+     "title": "11.21",
+     "segments": 7
+    },
+    {
+     "file": "0223.json",
+     "ref": "11.22",
+     "title": "11.22",
+     "segments": 10
+    },
+    {
+     "file": "0224.json",
+     "ref": "11.23",
+     "title": "11.23",
+     "segments": 12
+    },
+    {
+     "file": "0225.json",
+     "ref": "11.24",
+     "title": "11.24",
+     "segments": 12
+    },
+    {
+     "file": "0226.json",
+     "ref": "11.25",
+     "title": "11.25",
+     "segments": 5
+    },
+    {
+     "file": "0227.json",
+     "ref": "11.26",
+     "title": "11.26",
+     "segments": 8
+    },
+    {
+     "file": "0228.json",
+     "ref": "11.27",
+     "title": "11.27",
+     "segments": 20
+    },
+    {
+     "file": "0229.json",
+     "ref": "11.28",
+     "title": "11.28",
+     "segments": 19
+    },
+    {
+     "file": "0230.json",
+     "ref": "11.29",
+     "title": "11.29",
+     "segments": 5
+    },
+    {
+     "file": "0231.json",
+     "ref": "11.30",
+     "title": "11.30",
+     "segments": 3
+    },
+    {
+     "file": "0232.json",
+     "ref": "11.31",
+     "title": "11.31",
+     "segments": 1
+    },
+    {
+     "file": "0233.json",
+     "ref": "11.32",
+     "title": "11.32",
+     "segments": 11
+    },
+    {
+     "file": "0234.json",
+     "ref": "11.33",
+     "title": "11.33",
+     "segments": 4
+    },
+    {
+     "file": "0235.json",
+     "ref": "11.34",
+     "title": "11.34",
+     "segments": 4
+    },
+    {
+     "file": "0236.json",
+     "ref": "11.35",
+     "title": "11.35",
+     "segments": 6
+    },
+    {
+     "file": "0237.json",
+     "ref": "11.36",
+     "title": "11.36",
+     "segments": 2
+    },
+    {
+     "file": "0238.json",
+     "ref": "11.37",
+     "title": "11.37",
+     "segments": 13
+    },
+    {
+     "file": "0239.json",
+     "ref": "11.38",
+     "title": "11.38",
+     "segments": 10
+    },
+    {
+     "file": "0240.json",
+     "ref": "12.1",
+     "title": "12.1",
+     "segments": 4
+    },
+    {
+     "file": "0241.json",
+     "ref": "12.2",
+     "title": "12.2",
+     "segments": 5
+    },
+    {
+     "file": "0242.json",
+     "ref": "12.3",
+     "title": "12.3",
+     "segments": 2
+    },
+    {
+     "file": "0243.json",
+     "ref": "12.4",
+     "title": "12.4",
+     "segments": 2
+    },
+    {
+     "file": "0244.json",
+     "ref": "12.5",
+     "title": "12.5",
+     "segments": 4
+    },
+    {
+     "file": "0245.json",
+     "ref": "12.6",
+     "title": "12.6",
+     "segments": 24
+    },
+    {
+     "file": "0246.json",
+     "ref": "12.7",
+     "title": "12.7",
+     "segments": 1
+    },
+    {
+     "file": "0247.json",
+     "ref": "12.8",
+     "title": "12.8",
+     "segments": 4
+    },
+    {
+     "file": "0248.json",
+     "ref": "12.9",
+     "title": "12.9",
+     "segments": 3
+    },
+    {
+     "file": "0249.json",
+     "ref": "12.10",
+     "title": "12.10",
+     "segments": 7
+    },
+    {
+     "file": "0250.json",
+     "ref": "12.11",
+     "title": "12.11",
+     "segments": 2
+    },
+    {
+     "file": "0251.json",
+     "ref": "12.12",
+     "title": "12.12",
+     "segments": 3
+    },
+    {
+     "file": "0252.json",
+     "ref": "12.13",
+     "title": "12.13",
+     "segments": 2
+    },
+    {
+     "file": "0253.json",
+     "ref": "12.14",
+     "title": "12.14",
+     "segments": 3
+    },
+    {
+     "file": "0254.json",
+     "ref": "12.15",
+     "title": "12.15",
+     "segments": 6
+    },
+    {
+     "file": "0255.json",
+     "ref": "12.16",
+     "title": "12.16",
+     "segments": 9
+    },
+    {
+     "file": "0256.json",
+     "ref": "12.17",
+     "title": "12.17",
+     "segments": 3
+    },
+    {
+     "file": "0257.json",
+     "ref": "12.18",
+     "title": "12.18",
+     "segments": 6
+    },
+    {
+     "file": "0258.json",
+     "ref": "12.19",
+     "title": "12.19",
+     "segments": 9
+    },
+    {
+     "file": "0259.json",
+     "ref": "12.20",
+     "title": "12.20",
+     "segments": 3
+    },
+    {
+     "file": "0260.json",
+     "ref": "12.21",
+     "title": "12.21",
+     "segments": 6
+    },
+    {
+     "file": "0261.json",
+     "ref": "12.22",
+     "title": "12.22",
+     "segments": 2
+    },
+    {
+     "file": "0262.json",
+     "ref": "12.23",
+     "title": "12.23",
+     "segments": 4
+    },
+    {
+     "file": "0263.json",
+     "ref": "12.24",
+     "title": "12.24",
+     "segments": 5
+    },
+    {
+     "file": "0264.json",
+     "ref": "12.25",
+     "title": "12.25",
+     "segments": 2
+    },
+    {
+     "file": "0265.json",
+     "ref": "12.26",
+     "title": "12.26",
+     "segments": 1
+    },
+    {
+     "file": "0266.json",
+     "ref": "12.27",
+     "title": "12.27",
+     "segments": 6
+    },
+    {
+     "file": "0267.json",
+     "ref": "12.28",
+     "title": "12.28",
+     "segments": 2
+    },
+    {
+     "file": "0268.json",
+     "ref": "12.29",
+     "title": "12.29",
+     "segments": 21
+    },
+    {
+     "file": "0269.json",
+     "ref": "12.30",
+     "title": "12.30",
+     "segments": 6
+    },
+    {
+     "file": "0270.json",
+     "ref": "12.31",
+     "title": "12.31",
+     "segments": 2
+    },
+    {
+     "file": "0271.json",
+     "ref": "12.32",
+     "title": "12.32",
+     "segments": 7
+    },
+    {
+     "file": "0272.json",
+     "ref": "12.33",
+     "title": "12.33",
+     "segments": 3
+    },
+    {
+     "file": "0273.json",
+     "ref": "12.34",
+     "title": "12.34",
+     "segments": 3
+    },
+    {
+     "file": "0274.json",
+     "ref": "12.35",
+     "title": "12.35",
+     "segments": 1
+    },
+    {
+     "file": "0275.json",
+     "ref": "12.36",
+     "title": "12.36",
+     "segments": 1
+    },
+    {
+     "file": "0276.json",
+     "ref": "12.37",
+     "title": "12.37",
+     "segments": 1
+    },
+    {
+     "file": "0277.json",
+     "ref": "12.38",
+     "title": "12.38",
+     "segments": 1
+    },
+    {
+     "file": "0278.json",
+     "ref": "12.39",
+     "title": "12.39",
+     "segments": 1
+    },
+    {
+     "file": "0279.json",
+     "ref": "12.40",
+     "title": "12.40",
+     "segments": 1
+    },
+    {
+     "file": "0280.json",
+     "ref": "12.41",
+     "title": "12.41",
+     "segments": 1
+    },
+    {
+     "file": "0281.json",
+     "ref": "12.42",
+     "title": "12.42",
+     "segments": 1
+    },
+    {
+     "file": "0282.json",
+     "ref": "12.43",
+     "title": "12.43",
+     "segments": 4
+    },
+    {
+     "file": "0283.json",
+     "ref": "12.44",
+     "title": "12.44",
+     "segments": 2
+    },
+    {
+     "file": "0284.json",
+     "ref": "12.45",
+     "title": "12.45",
+     "segments": 1
+    },
+    {
+     "file": "0285.json",
+     "ref": "12.46",
+     "title": "12.46",
+     "segments": 6
+    },
+    {
+     "file": "0286.json",
+     "ref": "12.47",
+     "title": "12.47",
+     "segments": 1
+    },
+    {
+     "file": "0287.json",
+     "ref": "12.48",
+     "title": "12.48",
+     "segments": 5
+    },
+    {
+     "file": "0288.json",
+     "ref": "12.49",
+     "title": "12.49",
+     "segments": 15
+    },
+    {
+     "file": "0289.json",
+     "ref": "12.50",
+     "title": "12.50",
+     "segments": 11
+    },
+    {
+     "file": "0290.json",
+     "ref": "12.51",
+     "title": "12.51",
+     "segments": 48
+    },
+    {
+     "file": "0291.json",
+     "ref": "12.52",
+     "title": "12.52",
+     "segments": 33
+    },
+    {
+     "file": "0292.json",
+     "ref": "13.pref",
+     "title": "13.pref",
+     "segments": 1
+    },
+    {
+     "file": "0293.json",
+     "ref": "13.1",
+     "title": "13.1",
+     "segments": 5
+    },
+    {
+     "file": "0294.json",
+     "ref": "13.2",
+     "title": "13.2",
+     "segments": 2
+    },
+    {
+     "file": "0295.json",
+     "ref": "13.3",
+     "title": "13.3",
+     "segments": 47
+    },
+    {
+     "file": "0296.json",
+     "ref": "13.4",
+     "title": "13.4",
+     "segments": 4
+    },
+    {
+     "file": "0297.json",
+     "ref": "13.5",
+     "title": "13.5",
+     "segments": 1
+    },
+    {
+     "file": "0298.json",
+     "ref": "13.6",
+     "title": "13.6",
+     "segments": 12
+    },
+    {
+     "file": "0299.json",
+     "ref": "13.7",
+     "title": "13.7",
+     "segments": 5
+    },
+    {
+     "file": "0300.json",
+     "ref": "13.8",
+     "title": "13.8",
+     "segments": 3
+    },
+    {
+     "file": "0301.json",
+     "ref": "13.9",
+     "title": "13.9",
+     "segments": 7
+    },
+    {
+     "file": "0302.json",
+     "ref": "13.10",
+     "title": "13.10",
+     "segments": 13
+    },
+    {
+     "file": "0303.json",
+     "ref": "13.11",
+     "title": "13.11",
+     "segments": 3
+    },
+    {
+     "file": "0304.json",
+     "ref": "13.12",
+     "title": "13.12",
+     "segments": 16
+    },
+    {
+     "file": "0305.json",
+     "ref": "13.13",
+     "title": "13.13",
+     "segments": 66
+    },
+    {
+     "file": "0306.json",
+     "ref": "13.14",
+     "title": "13.14",
+     "segments": 13
+    },
+    {
+     "file": "0307.json",
+     "ref": "13.15",
+     "title": "13.15",
+     "segments": 10
+    },
+    {
+     "file": "0308.json",
+     "ref": "13.16",
+     "title": "13.16",
+     "segments": 18
+    },
+    {
+     "file": "0309.json",
+     "ref": "13.17",
+     "title": "13.17",
+     "segments": 7
+    },
+    {
+     "file": "0310.json",
+     "ref": "13.18",
+     "title": "13.18",
+     "segments": 18
+    },
+    {
+     "file": "0311.json",
+     "ref": "13.19",
+     "title": "13.19",
+     "segments": 18
+    },
+    {
+     "file": "0312.json",
+     "ref": "13.20",
+     "title": "13.20",
+     "segments": 7
+    },
+    {
+     "file": "0313.json",
+     "ref": "13.21",
+     "title": "13.21",
+     "segments": 14
+    },
+    {
+     "file": "0314.json",
+     "ref": "14.1",
+     "title": "14.1",
+     "segments": 4
+    },
+    {
+     "file": "0315.json",
+     "ref": "14.2",
+     "title": "14.2",
+     "segments": 7
+    },
+    {
+     "file": "0316.json",
+     "ref": "14.3",
+     "title": "14.3",
+     "segments": 9
+    },
+    {
+     "file": "0317.json",
+     "ref": "14.4",
+     "title": "14.4",
+     "segments": 16
+    },
+    {
+     "file": "0318.json",
+     "ref": "14.5",
+     "title": "14.5",
+     "segments": 14
+    },
+    {
+     "file": "0319.json",
+     "ref": "14.6",
+     "title": "14.6",
+     "segments": 14
+    },
+    {
+     "file": "0320.json",
+     "ref": "14.7",
+     "title": "14.7",
+     "segments": 15
+    },
+    {
+     "file": "0321.json",
+     "ref": "14.8",
+     "title": "14.8",
+     "segments": 15
+    },
+    {
+     "file": "0322.json",
+     "ref": "14.9",
+     "title": "14.9",
+     "segments": 9
+    },
+    {
+     "file": "0323.json",
+     "ref": "14.10",
+     "title": "14.10",
+     "segments": 11
+    },
+    {
+     "file": "0324.json",
+     "ref": "14.11",
+     "title": "14.11",
+     "segments": 7
+    },
+    {
+     "file": "0325.json",
+     "ref": "14.12",
+     "title": "14.12",
+     "segments": 1
+    },
+    {
+     "file": "0326.json",
+     "ref": "14.13",
+     "title": "14.13",
+     "segments": 9
+    },
+    {
+     "file": "0327.json",
+     "ref": "14.14",
+     "title": "14.14",
+     "segments": 10
+    },
+    {
+     "file": "0328.json",
+     "ref": "14.15",
+     "title": "14.15",
+     "segments": 11
+    },
+    {
+     "file": "0329.json",
+     "ref": "14.16",
+     "title": "14.16",
+     "segments": 13
+    },
+    {
+     "file": "0330.json",
+     "ref": "14.17",
+     "title": "14.17",
+     "segments": 10
+    },
+    {
+     "file": "0331.json",
+     "ref": "14.18",
+     "title": "14.18",
+     "segments": 32
+    },
+    {
+     "file": "0332.json",
+     "ref": "14.19",
+     "title": "14.19",
+     "segments": 10
+    },
+    {
+     "file": "0333.json",
+     "ref": "14.20",
+     "title": "14.20",
+     "segments": 14
+    },
+    {
+     "file": "0334.json",
+     "ref": "14.21",
+     "title": "14.21",
+     "segments": 7
+    },
+    {
+     "file": "0335.json",
+     "ref": "14.22",
+     "title": "14.22",
+     "segments": 17
+    },
+    {
+     "file": "0336.json",
+     "ref": "14.23",
+     "title": "14.23",
+     "segments": 4
+    },
+    {
+     "file": "0337.json",
+     "ref": "14.24",
+     "title": "14.24",
+     "segments": 6
+    },
+    {
+     "file": "0338.json",
+     "ref": "14.25",
+     "title": "14.25",
+     "segments": 17
+    },
+    {
+     "file": "0339.json",
+     "ref": "14.26",
+     "title": "14.26",
+     "segments": 14
+    },
+    {
+     "file": "0340.json",
+     "ref": "14.27",
+     "title": "14.27",
+     "segments": 13
+    },
+    {
+     "file": "0341.json",
+     "ref": "15.1",
+     "title": "15.1",
+     "segments": 13
+    },
+    {
+     "file": "0342.json",
+     "ref": "15.2",
+     "title": "15.2",
+     "segments": 16
+    },
+    {
+     "file": "0343.json",
+     "ref": "15.3",
+     "title": "15.3",
+     "segments": 1
+    },
+    {
+     "file": "0344.json",
+     "ref": "15.4",
+     "title": "15.4",
+     "segments": 21
+    },
+    {
+     "file": "0345.json",
+     "ref": "15.5",
+     "title": "15.5",
+     "segments": 14
+    },
+    {
+     "file": "0346.json",
+     "ref": "15.6",
+     "title": "15.6",
+     "segments": 17
+    },
+    {
+     "file": "0347.json",
+     "ref": "15.7",
+     "title": "15.7",
+     "segments": 7
+    },
+    {
+     "file": "0348.json",
+     "ref": "15.8",
+     "title": "15.8",
+     "segments": 13
+    },
+    {
+     "file": "0349.json",
+     "ref": "15.9",
+     "title": "15.9",
+     "segments": 14
+    },
+    {
+     "file": "0350.json",
+     "ref": "15.10",
+     "title": "15.10",
+     "segments": 9
+    },
+    {
+     "file": "0351.json",
+     "ref": "15.11",
+     "title": "15.11",
+     "segments": 4
+    },
+    {
+     "file": "0352.json",
+     "ref": "15.12",
+     "title": "15.12",
+     "segments": 4
+    },
+    {
+     "file": "0353.json",
+     "ref": "15.13",
+     "title": "15.13",
+     "segments": 9
+    },
+    {
+     "file": "0354.json",
+     "ref": "15.14",
+     "title": "15.14",
+     "segments": 2
+    },
+    {
+     "file": "0355.json",
+     "ref": "15.15",
+     "title": "15.15",
+     "segments": 9
+    },
+    {
+     "file": "0356.json",
+     "ref": "15.16",
+     "title": "15.16",
+     "segments": 2
+    },
+    {
+     "file": "0357.json",
+     "ref": "15.17",
+     "title": "15.17",
+     "segments": 8
+    },
+    {
+     "file": "0358.json",
+     "ref": "15.18",
+     "title": "15.18",
+     "segments": 3
+    },
+    {
+     "file": "0359.json",
+     "ref": "15.19",
+     "title": "15.19",
+     "segments": 3
+    },
+    {
+     "file": "0360.json",
+     "ref": "15.20",
+     "title": "15.20",
+     "segments": 8
+    },
+    {
+     "file": "0361.json",
+     "ref": "15.21",
+     "title": "15.21",
+     "segments": 3
+    },
+    {
+     "file": "0362.json",
+     "ref": "15.22",
+     "title": "15.22",
+     "segments": 69
+    },
+    {
+     "file": "0363.json",
+     "ref": "15.23",
+     "title": "15.23",
+     "segments": 9
+    },
+    {
+     "file": "0364.json",
+     "ref": "15.24",
+     "title": "15.24",
+     "segments": 4
+    },
+    {
+     "file": "0365.json",
+     "ref": "15.25",
+     "title": "15.25",
+     "segments": 4
+    },
+    {
+     "file": "0366.json",
+     "ref": "15.26",
+     "title": "15.26",
+     "segments": 7
+    },
+    {
+     "file": "0367.json",
+     "ref": "15.27",
+     "title": "15.27",
+     "segments": 2
+    },
+    {
+     "file": "0368.json",
+     "ref": "15.28",
+     "title": "15.28",
+     "segments": 1
+    },
+    {
+     "file": "0369.json",
+     "ref": "15.29",
+     "title": "15.29",
+     "segments": 4
+    },
+    {
+     "file": "0370.json",
+     "ref": "15.30",
+     "title": "15.30",
+     "segments": 9
+    },
+    {
+     "file": "0371.json",
+     "ref": "15.31",
+     "title": "15.31",
+     "segments": 3
+    },
+    {
+     "file": "0372.json",
+     "ref": "15.32",
+     "title": "15.32",
+     "segments": 10
+    },
+    {
+     "file": "0373.json",
+     "ref": "15.33",
+     "title": "15.33",
+     "segments": 5
+    },
+    {
+     "file": "0374.json",
+     "ref": "15.34",
+     "title": "15.34",
+     "segments": 3
+    },
+    {
+     "file": "0375.json",
+     "ref": "15.35",
+     "title": "15.35",
+     "segments": 4
+    },
+    {
+     "file": "0376.json",
+     "ref": "15.36",
+     "title": "15.36",
+     "segments": 3
+    },
+    {
+     "file": "0377.json",
+     "ref": "15.37",
+     "title": "15.37",
+     "segments": 6
+    },
+    {
+     "file": "0378.json",
+     "ref": "15.38",
+     "title": "15.38",
+     "segments": 6
+    },
+    {
+     "file": "0379.json",
+     "ref": "15.39",
+     "title": "15.39",
+     "segments": 2
+    },
+    {
+     "file": "0380.json",
+     "ref": "15.40",
+     "title": "15.40",
+     "segments": 4
+    },
+    {
+     "file": "0381.json",
+     "ref": "15.41",
+     "title": "15.41",
+     "segments": 2
+    },
+    {
+     "file": "0382.json",
+     "ref": "15.42",
+     "title": "15.42",
+     "segments": 3
+    },
+    {
+     "file": "0383.json",
+     "ref": "15.43",
+     "title": "15.43",
+     "segments": 3
+    },
+    {
+     "file": "0384.json",
+     "ref": "15.44",
+     "title": "15.44",
+     "segments": 4
+    },
+    {
+     "file": "0385.json",
+     "ref": "15.45",
+     "title": "15.45",
+     "segments": 4
+    },
+    {
+     "file": "0386.json",
+     "ref": "15.46",
+     "title": "15.46",
+     "segments": 6
+    },
+    {
+     "file": "0387.json",
+     "ref": "15.47",
+     "title": "15.47",
+     "segments": 4
+    },
+    {
+     "file": "0388.json",
+     "ref": "15.48",
+     "title": "15.48",
+     "segments": 4
+    },
+    {
+     "file": "0389.json",
+     "ref": "15.49",
+     "title": "15.49",
+     "segments": 2
+    },
+    {
+     "file": "0390.json",
+     "ref": "15.50",
+     "title": "15.50",
+     "segments": 7
+    },
+    {
+     "file": "0391.json",
+     "ref": "15.51",
+     "title": "15.51",
+     "segments": 5
+    },
+    {
+     "file": "0392.json",
+     "ref": "15.52",
+     "title": "15.52",
+     "segments": 3
+    },
+    {
+     "file": "0393.json",
+     "ref": "15.53",
+     "title": "15.53",
+     "segments": 3
+    },
+    {
+     "file": "0394.json",
+     "ref": "15.54",
+     "title": "15.54",
+     "segments": 3
+    },
+    {
+     "file": "0395.json",
+     "ref": "15.55",
+     "title": "15.55",
+     "segments": 5
+    },
+    {
+     "file": "0396.json",
+     "ref": "15.56",
+     "title": "15.56",
+     "segments": 5
+    },
+    {
+     "file": "0397.json",
+     "ref": "15.57",
+     "title": "15.57",
+     "segments": 4
+    },
+    {
+     "file": "0398.json",
+     "ref": "15.58",
+     "title": "15.58",
+     "segments": 4
+    },
+    {
+     "file": "0399.json",
+     "ref": "15.59",
+     "title": "15.59",
+     "segments": 7
+    },
+    {
+     "file": "0400.json",
+     "ref": "15.60",
+     "title": "15.60",
+     "segments": 4
+    },
+    {
+     "file": "0401.json",
+     "ref": "15.61",
+     "title": "15.61",
+     "segments": 12
+    },
+    {
+     "file": "0402.json",
+     "ref": "15.62",
+     "title": "15.62",
+     "segments": 18
+    }
+   ]
+  }
+ ]
+}

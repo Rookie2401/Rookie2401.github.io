@@ -1,0 +1,135 @@
+{
+ "workId": "chrysostom-homilies-2-timothy",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "chrysostom-2-timothy-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Homilies on the Second Epistle to Timothy, in A Select Library of the Nicene and Post-Nicene Fathers, series I, vol. XIII (Homilies on Galatians, Ephesians, Philippians, Colossians, Thessalonians, Timothy, Titus, and Philemon), trans. The Oxford translation (Library of the Fathers), revised for the American edition; the original Oxford translators are not named on the pages opened; revised with additional notes by Philip Schaff (Buffalo; New York: Christian Literature Co., 1889). Wikisource contributors, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_XIII/On_Timothy,_Titus,_and_Philemon/On_2_Timothy",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 243698,
+   "sourceSha256": "02631e168ac390ab6474d97e9f0537fe45c46a7ac6ceacc13a620a204c4541af",
+   "leftOut": {
+    "note": 130
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Timothy, Titus, and Philemon/On 2 Timothy/2 Timothy 1:1,2",
+     "bytes": 23399,
+     "sha256": "bc5e89515905b4a7479a1541646cd477ca62ded667364eeea7833633847f48ec"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Timothy, Titus, and Philemon/On 2 Timothy/2 Timothy 1:13-18",
+     "bytes": 19440,
+     "sha256": "16ddf9cdca34c1ded1620eb367b23a1ef8d52586566066afda023d2ac891b2bb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Timothy, Titus, and Philemon/On 2 Timothy/2 Timothy 1:8-10",
+     "bytes": 25558,
+     "sha256": "4461a1b1cf24aea5a071e37e4011b1b01d5f6e65633e4601d7bd774c7118bcd9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Timothy, Titus, and Philemon/On 2 Timothy/2 Timothy 2:1-7",
+     "bytes": 25757,
+     "sha256": "47686767767c1bfcc90aac7b1b95a6b3b9ac1673acf3b26103b708db3a4d8261"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Timothy, Titus, and Philemon/On 2 Timothy/2 Timothy 2:11-14",
+     "bytes": 24477,
+     "sha256": "e08be2fc438425e3ea49565aa5161dc98765cffaa124ba230a6a393ec71f0eb9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Timothy, Titus, and Philemon/On 2 Timothy/2 Timothy 2:20,21",
+     "bytes": 25790,
+     "sha256": "674f321004568fde65ddb8f582f87bc671f8424e9b9ca08b74efa882040cb59d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Timothy, Titus, and Philemon/On 2 Timothy/2 Timothy 3:1-4",
+     "bytes": 28148,
+     "sha256": "c79d97c1a8eb73bf150d5a80bdfe9b7138f6a489d9659d605c00718e385d82d8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Timothy, Titus, and Philemon/On 2 Timothy/2 Timothy 3:1-7",
+     "bytes": 22876,
+     "sha256": "5d4b054098ae8d1e542895483d7b3c64b4d25de297ad03e9a699001ce390d69f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Timothy, Titus, and Philemon/On 2 Timothy/2 Timothy 3:16,17",
+     "bytes": 20611,
+     "sha256": "8633dab668f14287f80f2be1220b0e70243da079005e82cb375eefb5336935aa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Timothy, Titus, and Philemon/On 2 Timothy/2 Timothy 4:9-13",
+     "bytes": 27642,
+     "sha256": "2dd774d27362119ac319b53f523ec4a142d50bbc724fd837d752215f7b5aa9d8"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 33
+    },
+    {
+     "file": "0002.json",
+     "ref": "p2",
+     "title": "p2",
+     "segments": 15
+    },
+    {
+     "file": "0003.json",
+     "ref": "p3",
+     "title": "p3",
+     "segments": 18
+    },
+    {
+     "file": "0004.json",
+     "ref": "p4",
+     "title": "p4",
+     "segments": 26
+    },
+    {
+     "file": "0005.json",
+     "ref": "p5",
+     "title": "p5",
+     "segments": 32
+    },
+    {
+     "file": "0006.json",
+     "ref": "p6",
+     "title": "p6",
+     "segments": 31
+    },
+    {
+     "file": "0007.json",
+     "ref": "p7",
+     "title": "p7",
+     "segments": 40
+    },
+    {
+     "file": "0008.json",
+     "ref": "p8",
+     "title": "p8",
+     "segments": 13
+    },
+    {
+     "file": "0009.json",
+     "ref": "p9",
+     "title": "p9",
+     "segments": 35
+    },
+    {
+     "file": "0010.json",
+     "ref": "p10",
+     "title": "p10",
+     "segments": 54
+    }
+   ]
+  }
+ ]
+}

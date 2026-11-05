@@ -1,0 +1,83 @@
+{
+ "workId": "edwards-nature-of-true-virtue",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "edwards-two-dissertations-boston-1765-tcp-virtue",
+   "role": "english",
+   "language": "english",
+   "credit": "Two dissertations, I. Concerning the end for which God created the world. II. The nature of true virtue, in Text Creation Partnership N07809 (Boston: S. Kneeland, 1765). Transcription: Text Creation Partnership (EEBO/Evans/ECCO-TCP), keyed and encoded from page images of the printing named in the header (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/N07809/master/N07809.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 523553,
+   "sourceSha256": "71d2bd56ffffccb1d22b32451d5a50b61765d0c45d22ad15355fd6d1778a310c",
+   "leftOut": {
+    "pb": 76,
+    "unread": 31,
+    "note": 2
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 28903,
+    "unreadPerThousand": 1.1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "CHAP. I.",
+     "segments": 23
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "CHAP. II.",
+     "segments": 20
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.3",
+     "title": "CHAP. III.",
+     "segments": 23
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.4",
+     "title": "CHAP. IV.",
+     "segments": 30
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.5",
+     "title": "CHAP. V.",
+     "segments": 17
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.6",
+     "title": "CHAP. VI.",
+     "segments": 15
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.7",
+     "title": "CHAP. VII.",
+     "segments": 19
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.8",
+     "title": "CHAP. VIII.",
+     "segments": 17
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.end",
+     "title": "1.end",
+     "segments": 1
+    }
+   ]
+  }
+ ]
+}

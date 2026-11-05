@@ -1,0 +1,550 @@
+{
+ "workId": "vulgate-job",
+ "parallel": "segment",
+ "editions": [
+  {
+   "editionId": "clementine-job",
+   "role": "original",
+   "language": "latin",
+   "credit": "Biblia Sacra Vulgatae editionis, Sixti V Pontificis Maximi jussu recognita et edita (the Clementine Vulgate; Editio Typica 1598), in the Clementine Vulgate Project's transcription, ed. Clementine Vulgate Project (text derived principally from the printing of A. Colunga and L. Turrado, Madrid 1946, compared with Vercellone 1861 and Hetzenauer 1914) (Rome: Typographus Vaticanus (the edition); Clementine Vulgate Project (the transcription), 1598). Transcription: Clementine Vulgate Project (via seven1m/open-bibles, USFX) (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://raw.githubusercontent.com/seven1m/open-bibles/master/lat-clementine.usfx.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 4652377,
+   "sourceSha256": "5da5f3c07fa6896d4a2b45f5f309c3ece43e554fd059b31b8ae3688bbd182baf",
+   "leftOut": {},
+   "segmentRefs": "citation",
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "JOB.1",
+     "title": "Job 1",
+     "segments": 22
+    },
+    {
+     "file": "0002.json",
+     "ref": "JOB.2",
+     "title": "Job 2",
+     "segments": 13
+    },
+    {
+     "file": "0003.json",
+     "ref": "JOB.3",
+     "title": "Job 3",
+     "segments": 26
+    },
+    {
+     "file": "0004.json",
+     "ref": "JOB.4",
+     "title": "Job 4",
+     "segments": 21
+    },
+    {
+     "file": "0005.json",
+     "ref": "JOB.5",
+     "title": "Job 5",
+     "segments": 27
+    },
+    {
+     "file": "0006.json",
+     "ref": "JOB.6",
+     "title": "Job 6",
+     "segments": 30
+    },
+    {
+     "file": "0007.json",
+     "ref": "JOB.7",
+     "title": "Job 7",
+     "segments": 21
+    },
+    {
+     "file": "0008.json",
+     "ref": "JOB.8",
+     "title": "Job 8",
+     "segments": 22
+    },
+    {
+     "file": "0009.json",
+     "ref": "JOB.9",
+     "title": "Job 9",
+     "segments": 35
+    },
+    {
+     "file": "0010.json",
+     "ref": "JOB.10",
+     "title": "Job 10",
+     "segments": 22
+    },
+    {
+     "file": "0011.json",
+     "ref": "JOB.11",
+     "title": "Job 11",
+     "segments": 20
+    },
+    {
+     "file": "0012.json",
+     "ref": "JOB.12",
+     "title": "Job 12",
+     "segments": 25
+    },
+    {
+     "file": "0013.json",
+     "ref": "JOB.13",
+     "title": "Job 13",
+     "segments": 28
+    },
+    {
+     "file": "0014.json",
+     "ref": "JOB.14",
+     "title": "Job 14",
+     "segments": 22
+    },
+    {
+     "file": "0015.json",
+     "ref": "JOB.15",
+     "title": "Job 15",
+     "segments": 35
+    },
+    {
+     "file": "0016.json",
+     "ref": "JOB.16",
+     "title": "Job 16",
+     "segments": 23
+    },
+    {
+     "file": "0017.json",
+     "ref": "JOB.17",
+     "title": "Job 17",
+     "segments": 16
+    },
+    {
+     "file": "0018.json",
+     "ref": "JOB.18",
+     "title": "Job 18",
+     "segments": 21
+    },
+    {
+     "file": "0019.json",
+     "ref": "JOB.19",
+     "title": "Job 19",
+     "segments": 29
+    },
+    {
+     "file": "0020.json",
+     "ref": "JOB.20",
+     "title": "Job 20",
+     "segments": 29
+    },
+    {
+     "file": "0021.json",
+     "ref": "JOB.21",
+     "title": "Job 21",
+     "segments": 34
+    },
+    {
+     "file": "0022.json",
+     "ref": "JOB.22",
+     "title": "Job 22",
+     "segments": 30
+    },
+    {
+     "file": "0023.json",
+     "ref": "JOB.23",
+     "title": "Job 23",
+     "segments": 17
+    },
+    {
+     "file": "0024.json",
+     "ref": "JOB.24",
+     "title": "Job 24",
+     "segments": 25
+    },
+    {
+     "file": "0025.json",
+     "ref": "JOB.25",
+     "title": "Job 25",
+     "segments": 6
+    },
+    {
+     "file": "0026.json",
+     "ref": "JOB.26",
+     "title": "Job 26",
+     "segments": 14
+    },
+    {
+     "file": "0027.json",
+     "ref": "JOB.27",
+     "title": "Job 27",
+     "segments": 23
+    },
+    {
+     "file": "0028.json",
+     "ref": "JOB.28",
+     "title": "Job 28",
+     "segments": 28
+    },
+    {
+     "file": "0029.json",
+     "ref": "JOB.29",
+     "title": "Job 29",
+     "segments": 25
+    },
+    {
+     "file": "0030.json",
+     "ref": "JOB.30",
+     "title": "Job 30",
+     "segments": 31
+    },
+    {
+     "file": "0031.json",
+     "ref": "JOB.31",
+     "title": "Job 31",
+     "segments": 40
+    },
+    {
+     "file": "0032.json",
+     "ref": "JOB.32",
+     "title": "Job 32",
+     "segments": 22
+    },
+    {
+     "file": "0033.json",
+     "ref": "JOB.33",
+     "title": "Job 33",
+     "segments": 33
+    },
+    {
+     "file": "0034.json",
+     "ref": "JOB.34",
+     "title": "Job 34",
+     "segments": 37
+    },
+    {
+     "file": "0035.json",
+     "ref": "JOB.35",
+     "title": "Job 35",
+     "segments": 16
+    },
+    {
+     "file": "0036.json",
+     "ref": "JOB.36",
+     "title": "Job 36",
+     "segments": 33
+    },
+    {
+     "file": "0037.json",
+     "ref": "JOB.37",
+     "title": "Job 37",
+     "segments": 24
+    },
+    {
+     "file": "0038.json",
+     "ref": "JOB.38",
+     "title": "Job 38",
+     "segments": 41
+    },
+    {
+     "file": "0039.json",
+     "ref": "JOB.39",
+     "title": "Job 39",
+     "segments": 35
+    },
+    {
+     "file": "0040.json",
+     "ref": "JOB.40",
+     "title": "Job 40",
+     "segments": 28
+    },
+    {
+     "file": "0041.json",
+     "ref": "JOB.41",
+     "title": "Job 41",
+     "segments": 25
+    },
+    {
+     "file": "0042.json",
+     "ref": "JOB.42",
+     "title": "Job 42",
+     "segments": 16
+    }
+   ]
+  },
+  {
+   "editionId": "douay-rheims-1899-job",
+   "role": "english",
+   "language": "english",
+   "credit": "The Holy Bible, translated from the Latin Vulgate (Douay-Rheims; revised by Bishop Richard Challoner, 1749–1752), American edition of 1899, trans. English College, Douai and Rheims; revised by Richard Challoner (Baltimore: John Murphy Company, 1899). Transcription: eBible.org (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://ebible.org/Scriptures/engDRA_usfx.zip",
+   "sourceMember": "engDRA_usfx.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 2948574,
+   "sourceSha256": "f6560ec0cb95e8ed97207ca83298f0bda5c32261b9188844b2d7ecb6bfb67adb",
+   "leftOut": {
+    "id": 73,
+    "toc": 219,
+    "cl": 1
+   },
+   "segmentRefs": "citation",
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "JOB.1",
+     "title": "Job 1",
+     "segments": 22
+    },
+    {
+     "file": "0002.json",
+     "ref": "JOB.2",
+     "title": "Job 2",
+     "segments": 13
+    },
+    {
+     "file": "0003.json",
+     "ref": "JOB.3",
+     "title": "Job 3",
+     "segments": 26
+    },
+    {
+     "file": "0004.json",
+     "ref": "JOB.4",
+     "title": "Job 4",
+     "segments": 21
+    },
+    {
+     "file": "0005.json",
+     "ref": "JOB.5",
+     "title": "Job 5",
+     "segments": 27
+    },
+    {
+     "file": "0006.json",
+     "ref": "JOB.6",
+     "title": "Job 6",
+     "segments": 30
+    },
+    {
+     "file": "0007.json",
+     "ref": "JOB.7",
+     "title": "Job 7",
+     "segments": 21
+    },
+    {
+     "file": "0008.json",
+     "ref": "JOB.8",
+     "title": "Job 8",
+     "segments": 22
+    },
+    {
+     "file": "0009.json",
+     "ref": "JOB.9",
+     "title": "Job 9",
+     "segments": 35
+    },
+    {
+     "file": "0010.json",
+     "ref": "JOB.10",
+     "title": "Job 10",
+     "segments": 22
+    },
+    {
+     "file": "0011.json",
+     "ref": "JOB.11",
+     "title": "Job 11",
+     "segments": 20
+    },
+    {
+     "file": "0012.json",
+     "ref": "JOB.12",
+     "title": "Job 12",
+     "segments": 25
+    },
+    {
+     "file": "0013.json",
+     "ref": "JOB.13",
+     "title": "Job 13",
+     "segments": 28
+    },
+    {
+     "file": "0014.json",
+     "ref": "JOB.14",
+     "title": "Job 14",
+     "segments": 22
+    },
+    {
+     "file": "0015.json",
+     "ref": "JOB.15",
+     "title": "Job 15",
+     "segments": 35
+    },
+    {
+     "file": "0016.json",
+     "ref": "JOB.16",
+     "title": "Job 16",
+     "segments": 23
+    },
+    {
+     "file": "0017.json",
+     "ref": "JOB.17",
+     "title": "Job 17",
+     "segments": 16
+    },
+    {
+     "file": "0018.json",
+     "ref": "JOB.18",
+     "title": "Job 18",
+     "segments": 21
+    },
+    {
+     "file": "0019.json",
+     "ref": "JOB.19",
+     "title": "Job 19",
+     "segments": 29
+    },
+    {
+     "file": "0020.json",
+     "ref": "JOB.20",
+     "title": "Job 20",
+     "segments": 29
+    },
+    {
+     "file": "0021.json",
+     "ref": "JOB.21",
+     "title": "Job 21",
+     "segments": 34
+    },
+    {
+     "file": "0022.json",
+     "ref": "JOB.22",
+     "title": "Job 22",
+     "segments": 30
+    },
+    {
+     "file": "0023.json",
+     "ref": "JOB.23",
+     "title": "Job 23",
+     "segments": 17
+    },
+    {
+     "file": "0024.json",
+     "ref": "JOB.24",
+     "title": "Job 24",
+     "segments": 25
+    },
+    {
+     "file": "0025.json",
+     "ref": "JOB.25",
+     "title": "Job 25",
+     "segments": 6
+    },
+    {
+     "file": "0026.json",
+     "ref": "JOB.26",
+     "title": "Job 26",
+     "segments": 14
+    },
+    {
+     "file": "0027.json",
+     "ref": "JOB.27",
+     "title": "Job 27",
+     "segments": 23
+    },
+    {
+     "file": "0028.json",
+     "ref": "JOB.28",
+     "title": "Job 28",
+     "segments": 28
+    },
+    {
+     "file": "0029.json",
+     "ref": "JOB.29",
+     "title": "Job 29",
+     "segments": 25
+    },
+    {
+     "file": "0030.json",
+     "ref": "JOB.30",
+     "title": "Job 30",
+     "segments": 31
+    },
+    {
+     "file": "0031.json",
+     "ref": "JOB.31",
+     "title": "Job 31",
+     "segments": 40
+    },
+    {
+     "file": "0032.json",
+     "ref": "JOB.32",
+     "title": "Job 32",
+     "segments": 22
+    },
+    {
+     "file": "0033.json",
+     "ref": "JOB.33",
+     "title": "Job 33",
+     "segments": 33
+    },
+    {
+     "file": "0034.json",
+     "ref": "JOB.34",
+     "title": "Job 34",
+     "segments": 37
+    },
+    {
+     "file": "0035.json",
+     "ref": "JOB.35",
+     "title": "Job 35",
+     "segments": 16
+    },
+    {
+     "file": "0036.json",
+     "ref": "JOB.36",
+     "title": "Job 36",
+     "segments": 33
+    },
+    {
+     "file": "0037.json",
+     "ref": "JOB.37",
+     "title": "Job 37",
+     "segments": 24
+    },
+    {
+     "file": "0038.json",
+     "ref": "JOB.38",
+     "title": "Job 38",
+     "segments": 41
+    },
+    {
+     "file": "0039.json",
+     "ref": "JOB.39",
+     "title": "Job 39",
+     "segments": 35
+    },
+    {
+     "file": "0040.json",
+     "ref": "JOB.40",
+     "title": "Job 40",
+     "segments": 28
+    },
+    {
+     "file": "0041.json",
+     "ref": "JOB.41",
+     "title": "Job 41",
+     "segments": 25
+    },
+    {
+     "file": "0042.json",
+     "ref": "JOB.42",
+     "title": "Job 42",
+     "segments": 16
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "divisionOnly": [],
+  "missingInOriginal": [],
+  "missingInEnglish": []
+ }
+}

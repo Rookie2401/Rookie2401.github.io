@@ -1,0 +1,3040 @@
+{
+ "workId": "rutherford-letters",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "rutherford-letters-bonar-gutenberg",
+   "role": "english",
+   "language": "english",
+   "credit": "Letters of Samuel Rutherford, with a Sketch of his Life and Biographical Notices of his Correspondents, in Project Gutenberg eBook #42557 (Bonar, third edition), ed. Andrew A. Bonar (London: The Religious Tract Society, 1863). Transcription: Colin Bell, Julia Neufeld and the Online Distributed Proofreading Team (pgdp.net) (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/42557/pg42557.txt",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1967356,
+   "sourceSha256": "9b71a14ce61f58feb1162925c7c6ffc2f838cd38b07971e19d53d5569e71100d",
+   "leftOut": {
+    "transcriberNote": 1,
+    "noteMark": 535,
+    "illustration": 15,
+    "note": 531,
+    "gutenbergLine": 1
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "https://www.gutenberg.org/cache/epub/42557/pg42557.txt",
+     "bytes": 1967356,
+     "sha256": "9b71a14ce61f58feb1162925c7c6ffc2f838cd38b07971e19d53d5569e71100d"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "s1",
+     "title": "s1",
+     "segments": 9
+    },
+    {
+     "file": "0002.json",
+     "ref": "s2",
+     "title": "LETTERS",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "s4",
+     "title": "LETTERS",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "s5",
+     "title": "SAMUEL RUTHERFORD",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "s6",
+     "title": "AND",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "s9",
+     "title": "THIRD EDITION",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "s10",
+     "title": "PREFACE.",
+     "segments": 3
+    },
+    {
+     "file": "0008.json",
+     "ref": "s12",
+     "title": "PAGE",
+     "segments": 369
+    },
+    {
+     "file": "0009.json",
+     "ref": "s13",
+     "title": "APPENDIX.",
+     "segments": 3
+    },
+    {
+     "file": "0010.json",
+     "ref": "s14",
+     "title": "SKETCH",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "s15",
+     "title": "SAMUEL RUTHERFORD.",
+     "segments": 71
+    },
+    {
+     "file": "0012.json",
+     "ref": "s16",
+     "title": "LIST OF HIS WORKS.",
+     "segments": 16
+    },
+    {
+     "file": "0013.json",
+     "ref": "s17",
+     "title": "POSTHUMOUS.",
+     "segments": 9
+    },
+    {
+     "file": "0014.json",
+     "ref": "s18",
+     "title": "LETTERS.",
+     "segments": 3
+    },
+    {
+     "file": "0015.json",
+     "ref": "s19",
+     "title": "(CHILDREN TO BE DEDICATED TO GOD.)",
+     "segments": 5
+    },
+    {
+     "file": "0016.json",
+     "ref": "s20",
+     "title": "(CHRIST'S SYMPATHY WITH, AND PROPERTY IN US--REASONS FOR RESIGNATION.)",
+     "segments": 6
+    },
+    {
+     "file": "0017.json",
+     "ref": "s21",
+     "title": "(ACQUIESCENCE IN GOD'S PURPOSE--FAITH IN EXERCISE--ENCOURAGEMENT IN VIEW OF SICKNESS AND DEATH--PUBLIC AFFAIRS.)",
+     "segments": 8
+    },
+    {
+     "file": "0018.json",
+     "ref": "s22",
+     "title": "(TRIBULATION THE PORTION OF GOD'S PEOPLE, AND INTENDED TO WEAN THEM FROM THE WORLD.)",
+     "segments": 5
+    },
+    {
+     "file": "0019.json",
+     "ref": "s23",
+     "title": "(CHANGES AND LOSS OF FRIENDS--THIS WORLD NO ABIDING PLACE.)",
+     "segments": 15
+    },
+    {
+     "file": "0020.json",
+     "ref": "s24",
+     "title": "(INWARD CONFLICT ARISING FROM OUTWARD TRIAL.)",
+     "segments": 6
+    },
+    {
+     "file": "0021.json",
+     "ref": "s25",
+     "title": "(THE EARNEST OF THE SPIRIT--COMMUNION WITH CHRIST--FAITH IN THE PROMISES.)",
+     "segments": 7
+    },
+    {
+     "file": "0022.json",
+     "ref": "s26",
+     "title": "(WRESTLINGS WITH GOD.)",
+     "segments": 3
+    },
+    {
+     "file": "0023.json",
+     "ref": "s27",
+     "title": "ANWOTH.",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "s28",
+     "title": "(PRAYERS ASKED.)",
+     "segments": 4
+    },
+    {
+     "file": "0025.json",
+     "ref": "s29",
+     "title": "ANWOTH.",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "s30",
+     "title": "(SUBMISSION, PERSEVERANCE AND ZEAL RECOMMENDED.)",
+     "segments": 5
+    },
+    {
+     "file": "0027.json",
+     "ref": "s31",
+     "title": "ANWOTH.",
+     "segments": 10
+    },
+    {
+     "file": "0028.json",
+     "ref": "s32",
+     "title": "(GOD MIXETH THE CUP--THE WICKED HAVE THEIR REWARD--FAITHFULNESS--FORBEARANCE--TRIALS.)",
+     "segments": 8
+    },
+    {
+     "file": "0029.json",
+     "ref": "s33",
+     "title": "(JESUS A PATTERN OF PATIENCE UNDER SUFFERING.)",
+     "segments": 6
+    },
+    {
+     "file": "0030.json",
+     "ref": "s34",
+     "title": "(ABUNDANCE IN JESUS--THE RESTORATION OF THE JEWS--ENEMIES OF GOD.)",
+     "segments": 8
+    },
+    {
+     "file": "0031.json",
+     "ref": "s35",
+     "title": "(TROUBLES OF THE CHURCH--PRIVATE WRONGS.)",
+     "segments": 7
+    },
+    {
+     "file": "0032.json",
+     "ref": "s36",
+     "title": "(BABYLON'S DESTRUCTION AND CHRIST'S COMING--THE YOUNG INVITED.)",
+     "segments": 5
+    },
+    {
+     "file": "0033.json",
+     "ref": "s37",
+     "title": "ANWOTH.",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "s38",
+     "title": "(ARMINIANISM--CALL TO PRAYER--NO HELP BUT IN CHRIST.)",
+     "segments": 3
+    },
+    {
+     "file": "0035.json",
+     "ref": "s39",
+     "title": "ANWOTH.",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "s40",
+     "title": "(PRAYER SOLICITED--THE CHURCH'S PROSPECTS.)",
+     "segments": 4
+    },
+    {
+     "file": "0037.json",
+     "ref": "s41",
+     "title": "ANWOTH.",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "s42",
+     "title": "(ENCOURAGEMENT TO ABOUND IN FAITH FROM THE PROSPECT OF GLORY--CHRIST'S UNCHANGEABLENESS.)",
+     "segments": 6
+    },
+    {
+     "file": "0039.json",
+     "ref": "s43",
+     "title": "(ASSURANCE OF CHRIST'S LOVE UNDER TRIALS--FULNESS OF CHRIST--HOPE OF GLORY.)",
+     "segments": 8
+    },
+    {
+     "file": "0040.json",
+     "ref": "s44",
+     "title": "(SELF-DENIAL--HOPE OF CHRIST'S COMING--LOVING GOD FOR HIMSELF.)",
+     "segments": 6
+    },
+    {
+     "file": "0041.json",
+     "ref": "s45",
+     "title": "(DELIVERANCE FROM SHIPWRECK--RECOVERY FROM THREATENED DEATH--USE OF TRIALS--REMEMBRANCE OF FRIENDS.)",
+     "segments": 10
+    },
+    {
+     "file": "0042.json",
+     "ref": "s46",
+     "title": "(EXHORTING TO REMEMBER HER ESPOUSAL TO CHRIST--TRIBULATION A PREPARATION FOR THE KINGDOM--GLORY IN THE END.)",
+     "segments": 8
+    },
+    {
+     "file": "0043.json",
+     "ref": "s47",
+     "title": "(CHRIST AND HIS GARDEN--PROVISION OF ORDINANCES IN THE CHURCH--OUR CHILDREN.)",
+     "segments": 11
+    },
+    {
+     "file": "0044.json",
+     "ref": "s48",
+     "title": "(USE OF SICKNESS--REPROACHES--CHRIST OUR ETERNAL FEAST--FASTING.)",
+     "segments": 7
+    },
+    {
+     "file": "0045.json",
+     "ref": "s49",
+     "title": "(LOVE TO CHRIST AND SUBMISSION TO HIS CROSS--BELIEVERS KEPT--THE HEAVENLY PARADISE.)",
+     "segments": 4
+    },
+    {
+     "file": "0046.json",
+     "ref": "s50",
+     "title": "ANWOTH.",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "s51",
+     "title": "(THE STATE OF THE CHURCH, CAUSE FOR GOD'S DISPLEASURE--HIS CARE OF HIS CHURCH--THE JEWS--AFFLICTED SAINTS.)",
+     "segments": 6
+    },
+    {
+     "file": "0048.json",
+     "ref": "s52",
+     "title": "(CHRIST WITH HIS PEOPLE IN THE FURNACE OF AFFLICTION--PRAYER.)",
+     "segments": 5
+    },
+    {
+     "file": "0049.json",
+     "ref": "s53",
+     "title": "(RANK AND PROSPERITY HINDER PROGRESS--WATCHFULNESS--CASE OF RELATIVES.)",
+     "segments": 10
+    },
+    {
+     "file": "0050.json",
+     "ref": "s54",
+     "title": "(A UNION FOR PRAYER RECOMMENDED.)",
+     "segments": 12
+    },
+    {
+     "file": "0051.json",
+     "ref": "s55",
+     "title": "(STATE AND PROSPECTS OF THE CHURCH--SATAN.)",
+     "segments": 8
+    },
+    {
+     "file": "0052.json",
+     "ref": "s56",
+     "title": "(IN PROSPECT OF A COMMUNION SEASON.)",
+     "segments": 3
+    },
+    {
+     "file": "0053.json",
+     "ref": "s57",
+     "title": "ANWOTH.",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "s58",
+     "title": "(PROSPECTS OF THE CHURCH--CHRIST'S CARE FOR THE CHILDREN OF BELIEVERS.)",
+     "segments": 7
+    },
+    {
+     "file": "0055.json",
+     "ref": "s59",
+     "title": "(GOD MEASURES OUR DAYS--BEREAVEMENTS RIPEN US FOR THE HARVEST.)",
+     "segments": 6
+    },
+    {
+     "file": "0056.json",
+     "ref": "s60",
+     "title": "(CHOICE OF A COMMISSIONER FOR PARLIAMENT.)",
+     "segments": 5
+    },
+    {
+     "file": "0057.json",
+     "ref": "s61",
+     "title": "(ON THE DEATH OF LORD KENMURE--DESIGNS OF AND DUTIES OF AFFLICTION.)",
+     "segments": 6
+    },
+    {
+     "file": "0058.json",
+     "ref": "s62",
+     "title": "(CHRIST'S CARE OF HIS CHURCH, AND HIS JUDGMENTS ON HER ENEMIES.)",
+     "segments": 6
+    },
+    {
+     "file": "0059.json",
+     "ref": "s63",
+     "title": "(PREPARATION FOR DEATH AND ETERNITY.)",
+     "segments": 6
+    },
+    {
+     "file": "0060.json",
+     "ref": "s64",
+     "title": "(WHEN MR. RUTHERFORD HAD THE PROSPECT OF BEING REMOVED FROM ANWOTH.)",
+     "segments": 5
+    },
+    {
+     "file": "0061.json",
+     "ref": "s65",
+     "title": "(THE CHURCH'S TRIALS--COMFORT UNDER TEMPTATIONS--DELIVERANCE--A MESSAGE TO THE YOUNG.)",
+     "segments": 7
+    },
+    {
+     "file": "0062.json",
+     "ref": "s66",
+     "title": "EDINBURGH, 1634.",
+     "segments": 2
+    },
+    {
+     "file": "0063.json",
+     "ref": "s67",
+     "title": "(THE WORLD PASSETH AWAY--SPECIAL PORTIONS OF THE WORD FOR THE AFFLICTED--CALL TO KIRKCUDBRIGHT.)",
+     "segments": 5
+    },
+    {
+     "file": "0064.json",
+     "ref": "s68",
+     "title": "KIRKCUDBRIGHT.",
+     "segments": 1
+    },
+    {
+     "file": "0065.json",
+     "ref": "s69",
+     "title": "(WHEN MR. RUTHERFORD WAS IN DIFFICULTY AS TO ACCEPTING A CALL TO KIRKCUDBRIGHT, AND CRAMOND.)",
+     "segments": 5
+    },
+    {
+     "file": "0066.json",
+     "ref": "s70",
+     "title": "ANWOTH.",
+     "segments": 1
+    },
+    {
+     "file": "0067.json",
+     "ref": "s71",
+     "title": "(TROUBLES THREATENING THE CHURCH.)",
+     "segments": 4
+    },
+    {
+     "file": "0068.json",
+     "ref": "s72",
+     "title": "ANWOTH.",
+     "segments": 1
+    },
+    {
+     "file": "0069.json",
+     "ref": "s73",
+     "title": "(IN THE PROSPECT OF THE COMMUNION, AND OF TRIALS TO THE CHURCH.)",
+     "segments": 4
+    },
+    {
+     "file": "0070.json",
+     "ref": "s74",
+     "title": "ANWOTH.",
+     "segments": 1
+    },
+    {
+     "file": "0071.json",
+     "ref": "s75",
+     "title": "(TOSSINGS OF SPIRIT--HER CHILDREN AND HUSBAND.)",
+     "segments": 8
+    },
+    {
+     "file": "0072.json",
+     "ref": "s76",
+     "title": "ANWOTH.",
+     "segments": 1
+    },
+    {
+     "file": "0073.json",
+     "ref": "s77",
+     "title": "(SUBMISSION TO GOD'S ARRANGEMENTS.)",
+     "segments": 3
+    },
+    {
+     "file": "0074.json",
+     "ref": "s78",
+     "title": "ANWOTH.",
+     "segments": 1
+    },
+    {
+     "file": "0075.json",
+     "ref": "s79",
+     "title": "(TROUBLES FROM FALSE BRETHREN--OCCURRENCES--CHRIST'S COMING--INTERCESSION.)",
+     "segments": 6
+    },
+    {
+     "file": "0076.json",
+     "ref": "s80",
+     "title": "(SPOILING OF GOODS--CALL TO KIRKCUDBRIGHT--THE LORD REIGNETH.)",
+     "segments": 7
+    },
+    {
+     "file": "0077.json",
+     "ref": "s81",
+     "title": "ANWOTH.",
+     "segments": 3
+    },
+    {
+     "file": "0078.json",
+     "ref": "s82",
+     "title": "ANWOTH.",
+     "segments": 1
+    },
+    {
+     "file": "0079.json",
+     "ref": "s83",
+     "title": "(CHRIST COMING AS CAPTAIN OF SALVATION--HIS CHURCH'S CONFLICT AND COVENANT--THE JEWS--LAST DAYS APOSTASY.)",
+     "segments": 9
+    },
+    {
+     "file": "0080.json",
+     "ref": "s84",
+     "title": "(PUBLIC TEMPTATIONS--THE SECURITY OF EVERY SAINT--OCCURRENCES IN THE COUNTRY-SIDE.)",
+     "segments": 5
+    },
+    {
+     "file": "0081.json",
+     "ref": "s85",
+     "title": "ANWOTH, 1635.",
+     "segments": 1
+    },
+    {
+     "file": "0082.json",
+     "ref": "s86",
+     "title": "(IN THE PROSPECT OF HER HUSBAND BEING COMPELLED TO RECEIVE THE COMMAND OF THE PRELATES--SAINTS ARE YET TO JUDGE.)",
+     "segments": 5
+    },
+    {
+     "file": "0083.json",
+     "ref": "s87",
+     "title": "(ENCOURAGEMENT UNDER TRIAL BY PROSPECT OF BRIGHTER DAYS.)",
+     "segments": 3
+    },
+    {
+     "file": "0084.json",
+     "ref": "s88",
+     "title": "ANWOTH.",
+     "segments": 1
+    },
+    {
+     "file": "0085.json",
+     "ref": "s89",
+     "title": "(PUBLIC WRONGS--WORDS OF COMFORT.)",
+     "segments": 4
+    },
+    {
+     "file": "0086.json",
+     "ref": "s90",
+     "title": "ANWOTH.",
+     "segments": 1
+    },
+    {
+     "file": "0087.json",
+     "ref": "s91",
+     "title": "(WHEN HE HAD BEEN THREATENED WITH PERSECUTION FOR PREACHING THE GOSPEL--THE SAINTS SHALL YET WIN THE DAY.)",
+     "segments": 3
+    },
+    {
+     "file": "0088.json",
+     "ref": "s92",
+     "title": "ANWOTH.",
+     "segments": 1
+    },
+    {
+     "file": "0089.json",
+     "ref": "s93",
+     "title": "(REASONS FOR RESIGNATION--SECURITY OF SAINTS--THE END OF TIME.)",
+     "segments": 7
+    },
+    {
+     "file": "0090.json",
+     "ref": "s94",
+     "title": "(IN THE PROSPECT OF REMOVAL TO ABERDEEN.)",
+     "segments": 7
+    },
+    {
+     "file": "0091.json",
+     "ref": "s95",
+     "title": "(ON OCCASION OF EFFORTS TO INTRODUCE EPISCOPACY.)",
+     "segments": 10
+    },
+    {
+     "file": "0092.json",
+     "ref": "s96",
+     "title": "(NO SUFFERING FOR CHRIST UNREWARDED--LOSS OF CHILDREN--CHRIST IN PROVIDENCE.)",
+     "segments": 7
+    },
+    {
+     "file": "0093.json",
+     "ref": "s97",
+     "title": "(WHEN HE WAS UNDER TRIAL BY THE HIGH COMMISSION.)",
+     "segments": 2
+    },
+    {
+     "file": "0094.json",
+     "ref": "s98",
+     "title": "EDINBURGH, 1636.",
+     "segments": 1
+    },
+    {
+     "file": "0095.json",
+     "ref": "s99",
+     "title": "(HIS ONLY REGRETS--THE CROSS UNSPEAKABLY SWEET--RETROSPECT OF HIS MINISTRY.)",
+     "segments": 12
+    },
+    {
+     "file": "0096.json",
+     "ref": "s100",
+     "title": "(CHALLENGES OF CONSCIENCE--THE CROSS NO BURDEN.)",
+     "segments": 7
+    },
+    {
+     "file": "0097.json",
+     "ref": "s101",
+     "title": "(CONSOLATION TO A BROTHER IN TRIBULATION--HIS OWN DEPRIVATION OF MINISTRY--CHRIST WORTH SUFFERING FOR.)",
+     "segments": 7
+    },
+    {
+     "file": "0098.json",
+     "ref": "s102",
+     "title": "(HIS FEELINGS UPON LEAVING ANWOTH.)",
+     "segments": 7
+    },
+    {
+     "file": "0099.json",
+     "ref": "s103",
+     "title": "(HOW UPHELD ON THE WAY.)",
+     "segments": 5
+    },
+    {
+     "file": "0100.json",
+     "ref": "s104",
+     "title": "(CHALLENGES OF CONSCIENCE--EASE IN ZION.)",
+     "segments": 7
+    },
+    {
+     "file": "0101.json",
+     "ref": "s105",
+     "title": "(ENCOURAGEMENT TO SUFFER FOR CHRIST.)",
+     "segments": 8
+    },
+    {
+     "file": "0102.json",
+     "ref": "s106",
+     "title": "(THE SWEETNESS AND FAITHFULNESS OF CHRIST'S LOVE.)",
+     "segments": 7
+    },
+    {
+     "file": "0103.json",
+     "ref": "s107",
+     "title": "(HIS ENJOYMENT OF CHRIST IN ABERDEEN--A SIGHT OF CHRIST EXCEEDS ALL REPORTS--SOME ASHAMED OF HIM AND HIS.)",
+     "segments": 7
+    },
+    {
+     "file": "0104.json",
+     "ref": "s108",
+     "title": "(EXERCISE UNDER RESTRAINT FROM PREACHING--THE DEVIL--CHRIST'S LOVING KINDNESS--PROGRESS.)",
+     "segments": 6
+    },
+    {
+     "file": "0105.json",
+     "ref": "s109",
+     "title": "ABERDEEN.",
+     "segments": 2
+    },
+    {
+     "file": "0106.json",
+     "ref": "s110",
+     "title": "(CHRIST TO BE TRUSTED AMID TRIAL.)",
+     "segments": 13
+    },
+    {
+     "file": "0107.json",
+     "ref": "s111",
+     "title": "ABERDEEN, 1636.",
+     "segments": 2
+    },
+    {
+     "file": "0108.json",
+     "ref": "s112",
+     "title": "(CHRIST'S LIBERALITY--HIS OWN MISAPPREHENSIONS OF CHRIST.)",
+     "segments": 6
+    },
+    {
+     "file": "0109.json",
+     "ref": "s113",
+     "title": "(HIS OWN MISCONCEPTION OF CHRIST'S WAYS--CHRIST'S KINDNESS.)",
+     "segments": 7
+    },
+    {
+     "file": "0110.json",
+     "ref": "s114",
+     "title": "(LONGING AFTER CLEARER VIEWS OF CHRIST--HIS LONG-SUFFERING--TRYING CIRCUMSTANCES.)",
+     "segments": 7
+    },
+    {
+     "file": "0111.json",
+     "ref": "s115",
+     "title": "(BENEFIT OF AFFLICTION.)",
+     "segments": 11
+    },
+    {
+     "file": "0112.json",
+     "ref": "s116",
+     "title": "(ABERDEEN--EXPERIENCE OF HIMSELF SAD--PRESSING FORWARDS.)",
+     "segments": 3
+    },
+    {
+     "file": "0113.json",
+     "ref": "s117",
+     "title": "ABERDEEN.",
+     "segments": 2
+    },
+    {
+     "file": "0114.json",
+     "ref": "s118",
+     "title": "(ENCOURAGEMENT TO EXERTION FOR CHRIST'S CAUSE.)",
+     "segments": 5
+    },
+    {
+     "file": "0115.json",
+     "ref": "s119",
+     "title": "ABERDEEN, 1637.",
+     "segments": 2
+    },
+    {
+     "file": "0116.json",
+     "ref": "s120",
+     "title": "(VALUE OF THE SOUL AND URGENCY OF SALVATION.)",
+     "segments": 4
+    },
+    {
+     "file": "0117.json",
+     "ref": "s121",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0118.json",
+     "ref": "s122",
+     "title": "(HIS COMFORT UNDER TRIBULATION, AND THE PRISON A PALACE.)",
+     "segments": 6
+    },
+    {
+     "file": "0119.json",
+     "ref": "s123",
+     "title": "(EXPERIENCE--PATIENT WAITING--SANCTIFICATION.)",
+     "segments": 8
+    },
+    {
+     "file": "0120.json",
+     "ref": "s124",
+     "title": "(WIN CHRIST AT ALL HAZARDS--CHRIST'S BEAUTY--A WORD TO CHILDREN.)",
+     "segments": 9
+    },
+    {
+     "file": "0121.json",
+     "ref": "s125",
+     "title": "ABERDEEN, 1637.",
+     "segments": 2
+    },
+    {
+     "file": "0122.json",
+     "ref": "s126",
+     "title": "(ADVICE AS TO PUBLIC CONDUCT--EVERYTHING TO BE ENDURED FOR CHRIST.)",
+     "segments": 7
+    },
+    {
+     "file": "0123.json",
+     "ref": "s127",
+     "title": "ABERDEEN, 1637.",
+     "segments": 2
+    },
+    {
+     "file": "0124.json",
+     "ref": "s128",
+     "title": "(THE JOYS OF THIS LIFE EMBITTERED BY SIN--HEAVEN AN OBJECT OF DESIRE--TRIAL A BLESSED THING.)",
+     "segments": 5
+    },
+    {
+     "file": "0125.json",
+     "ref": "s129",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0126.json",
+     "ref": "s130",
+     "title": "(THE REASONABLENESS OF BELIEVING UNDER ALL AFFLICTION--OBLIGATIONS TO FREE GRACE.)",
+     "segments": 9
+    },
+    {
+     "file": "0127.json",
+     "ref": "s131",
+     "title": "(EPISCOPALIAN CEREMONIES--HOW TO ABIDE IN THE TRUTH--DESIRE FOR LIBERTY TO PREACH CHRIST.)",
+     "segments": 9
+    },
+    {
+     "file": "0128.json",
+     "ref": "s132",
+     "title": "(DANGER OF FORMALITY--CHRIST WHOLLY TO BE LOVED--OTHER OBJECTS OF LOVE.)",
+     "segments": 6
+    },
+    {
+     "file": "0129.json",
+     "ref": "s133",
+     "title": "ABERDEEN, 1637.",
+     "segments": 2
+    },
+    {
+     "file": "0130.json",
+     "ref": "s134",
+     "title": "(CHRIST TO BE KEPT AT EVERY SACRIFICE--HIS INCOMPARABLE LOVELINESS.)",
+     "segments": 3
+    },
+    {
+     "file": "0131.json",
+     "ref": "s135",
+     "title": "ABERDEEN, 1637.",
+     "segments": 2
+    },
+    {
+     "file": "0132.json",
+     "ref": "s136",
+     "title": "(GOD'S ARRANGEMENTS SOMETIMES MYSTERIOUS.)",
+     "segments": 11
+    },
+    {
+     "file": "0133.json",
+     "ref": "s137",
+     "title": "(RESIGNATION--ENJOYMENT--STATE OF THE CHURCH.)",
+     "segments": 11
+    },
+    {
+     "file": "0134.json",
+     "ref": "s138",
+     "title": "(THE IDOLATRY OF KNEELING AT THE COMMUNION.)",
+     "segments": 6
+    },
+    {
+     "file": "0135.json",
+     "ref": "s139",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0136.json",
+     "ref": "s140",
+     "title": "(VISITS OF CHRIST--THE THINGS WHICH AFFLICTION TEACHES.)",
+     "segments": 12
+    },
+    {
+     "file": "0137.json",
+     "ref": "s141",
+     "title": "(GOD'S DEALINGS WITH SCOTLAND--THE EYE TO BE DIRECTED HEAVENWARD.)",
+     "segments": 9
+    },
+    {
+     "file": "0138.json",
+     "ref": "s142",
+     "title": "(THE TIMES--CHRIST'S SWEETNESS IN TROUBLE--LONGING AFTER HIM.)",
+     "segments": 5
+    },
+    {
+     "file": "0139.json",
+     "ref": "s143",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0140.json",
+     "ref": "s144",
+     "title": "(CHRIST'S CROSS SWEET--HIS COMING TO BE DESIRED--JEALOUS OF ANY RIVAL.)",
+     "segments": 5
+    },
+    {
+     "file": "0141.json",
+     "ref": "s145",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0142.json",
+     "ref": "s146",
+     "title": "(CHRIST ALL WORTHY--ANWOTH.)",
+     "segments": 10
+    },
+    {
+     "file": "0143.json",
+     "ref": "s147",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0144.json",
+     "ref": "s148",
+     "title": "(CHRIST ENDEARED BY BITTER EXPERIENCES--SEARCHINGS OF HEART--FEAR FOR THE CHURCH.)",
+     "segments": 10
+    },
+    {
+     "file": "0145.json",
+     "ref": "s149",
+     "title": "(INCREASING EXPERIENCE OF CHRIST'S LOVE--GOD WITH HIS SAINTS.)",
+     "segments": 8
+    },
+    {
+     "file": "0146.json",
+     "ref": "s150",
+     "title": "(CHRIST'S WAYS MISUNDERSTOOD--HIS INCREASING KINDNESS--SPIRITUAL DELICACY--HARD TO BE DEAD TO THE WORLD.)",
+     "segments": 9
+    },
+    {
+     "file": "0147.json",
+     "ref": "s151",
+     "title": "(THE ONE THING NEEDFUL--CONSCIENTIOUS ACTING IN THE WORLD--ADVICE UNDER DEJECTING TRIALS.)",
+     "segments": 14
+    },
+    {
+     "file": "0148.json",
+     "ref": "s152",
+     "title": "(CHRIST'S SUFFICIENCY--STEDFASTNESS IN THE TRUTH.)",
+     "segments": 10
+    },
+    {
+     "file": "0149.json",
+     "ref": "s153",
+     "title": "(GROUNDS OF PRAISE--AFFLICTION TEMPTS TO MISREPRESENT CHRIST--IDOLS.)",
+     "segments": 10
+    },
+    {
+     "file": "0150.json",
+     "ref": "s154",
+     "title": "(CHRIST AND HIS CAUSE RECOMMENDED--HEAVENLY-MINDEDNESS--CAUTION AGAINST COMPLIANCES--ANXIETY ABOUT HIS PARISH.)",
+     "segments": 9
+    },
+    {
+     "file": "0151.json",
+     "ref": "s155",
+     "title": "(PAINSTAKING IN THE KNOWLEDGE OF CHRIST--UNUSUAL ENJOYMENT OF HIS LOVE--NOT EASY TO BE A CHRISTIAN--FRIENDS MUST NOT MISLEAD.)",
+     "segments": 10
+    },
+    {
+     "file": "0152.json",
+     "ref": "s156",
+     "title": "(RESIGNATION UNDER BEREAVEMENT--HIS OWN ENJOYMENT OF CHRIST'S LOVE.)",
+     "segments": 9
+    },
+    {
+     "file": "0153.json",
+     "ref": "s157",
+     "title": "(WEAK ASSURANCE--GRACE DIFFERENT FROM LEARNING--SELF-ACCUSATIONS.)",
+     "segments": 11
+    },
+    {
+     "file": "0154.json",
+     "ref": "s158",
+     "title": "ABERDEEN.",
+     "segments": 1
+    },
+    {
+     "file": "0155.json",
+     "ref": "s159",
+     "title": "(CONSCIOUSNESS OF DEFECTS NO ARGUMENT OF CHRIST BEING UNKNOWN--HIS EXPERIENCE IN EXILE.)",
+     "segments": 11
+    },
+    {
+     "file": "0156.json",
+     "ref": "s160",
+     "title": "(GRATITUDE FOR KINDNESS--CHRIST'S PRESENCE FELT.)",
+     "segments": 8
+    },
+    {
+     "file": "0157.json",
+     "ref": "s161",
+     "title": "(FOLLOWING CHRIST NOT EASY--CHILDREN NOT TO BE OVER-LOVED--JOY IN THE LORD.)",
+     "segments": 8
+    },
+    {
+     "file": "0158.json",
+     "ref": "s162",
+     "title": "(GOD'S DEALINGS--THE BITTER SWEETENED--NOTES ON SCRIPTURE.)",
+     "segments": 10
+    },
+    {
+     "file": "0159.json",
+     "ref": "s163",
+     "title": "(CHRIST'S UNTOLD PRECIOUSNESS--A WORD TO HER BOY.)",
+     "segments": 8
+    },
+    {
+     "file": "0160.json",
+     "ref": "s164",
+     "title": "(THE ROD UPON GOD'S CHILDREN--PAIN FROM A SENSE OF CHRIST'S LOVE--HIS PRESENCE A SUPPORT UNDER TRIALS--CONTENTEDNESS WITH HIM ALONE.)",
+     "segments": 9
+    },
+    {
+     "file": "0161.json",
+     "ref": "s165",
+     "title": "(GREATNESS OF CHRIST'S LOVE REVEALED TO THOSE WHO SUFFER FOR HIM.)",
+     "segments": 7
+    },
+    {
+     "file": "0162.json",
+     "ref": "s166",
+     "title": "(SUSTAINING POWER OF CHRIST'S LOVE--SATAN'S OPPOSITION--YEARNINGS FOR CHRIST HIMSELF--FEARS FOR THE CHURCH.)",
+     "segments": 11
+    },
+    {
+     "file": "0163.json",
+     "ref": "s167",
+     "title": "(SADNESS BECAUSE CHRIST'S HEADSHIP NOT SET FORTH--HIS CAUSE ATTENDED WITH CROSSES--THE BELIEVER SEEN OF ALL.)",
+     "segments": 8
+    },
+    {
+     "file": "0164.json",
+     "ref": "s168",
+     "title": "(BLESSEDNESS OF ACTING FOR CHRIST--HIS LOVE TO HIS PRISONER.)",
+     "segments": 15
+    },
+    {
+     "file": "0165.json",
+     "ref": "s169",
+     "title": "(CHRIST'S KINDNESS--DEPENDENCE ON PROVIDENCE--CONTROVERSIES.)",
+     "segments": 7
+    },
+    {
+     "file": "0166.json",
+     "ref": "s170",
+     "title": "ABERDEEN.",
+     "segments": 1
+    },
+    {
+     "file": "0167.json",
+     "ref": "s171",
+     "title": "(CHRIST'S BOUNTIFUL DEALINGS--JOY IN CHRIST THROUGH THE CROSS.)",
+     "segments": 5
+    },
+    {
+     "file": "0168.json",
+     "ref": "s172",
+     "title": "ABERDEEN.",
+     "segments": 1
+    },
+    {
+     "file": "0169.json",
+     "ref": "s173",
+     "title": "(JOYFUL EXPERIENCE--CUP OVERFLOWING IN EXILE.)",
+     "segments": 5
+    },
+    {
+     "file": "0170.json",
+     "ref": "s174",
+     "title": "ABERDEEN.",
+     "segments": 11
+    },
+    {
+     "file": "0171.json",
+     "ref": "s175",
+     "title": "ABERDEEN, 1637.",
+     "segments": 4
+    },
+    {
+     "file": "0172.json",
+     "ref": "s176",
+     "title": "(DILIGENCE IN SECURING SALVATION.)",
+     "segments": 3
+    },
+    {
+     "file": "0173.json",
+     "ref": "s177",
+     "title": "ABERDEEN.",
+     "segments": 1
+    },
+    {
+     "file": "0174.json",
+     "ref": "s178",
+     "title": "(VANITY OF EARTHLY POSSESSIONS--CHRIST A SUFFICIENT PORTION--DESIGN OF AFFLICTION.)",
+     "segments": 5
+    },
+    {
+     "file": "0175.json",
+     "ref": "s179",
+     "title": "ABERDEEN.",
+     "segments": 2
+    },
+    {
+     "file": "0176.json",
+     "ref": "s180",
+     "title": "(REASONS FOR BEING EARNEST ABOUT THE SOUL, AND FOR RESIGNATION.)",
+     "segments": 6
+    },
+    {
+     "file": "0177.json",
+     "ref": "s181",
+     "title": "ABERDEEN.",
+     "segments": 1
+    },
+    {
+     "file": "0178.json",
+     "ref": "s182",
+     "title": "(CALL TO EARNESTNESS ABOUT SALVATION--INTRUSION OF MINISTERS.)",
+     "segments": 5
+    },
+    {
+     "file": "0179.json",
+     "ref": "s183",
+     "title": "ABERDEEN.",
+     "segments": 2
+    },
+    {
+     "file": "0180.json",
+     "ref": "s184",
+     "title": "(SICKNESS A KINDNESS--CHRIST'S GLOOMS BETTER THAN THE WORLD'S JOYS.)",
+     "segments": 7
+    },
+    {
+     "file": "0181.json",
+     "ref": "s185",
+     "title": "(ADHERENCE TO DUTY AMIDST OPPOSITION--POWER OF CHRIST'S LOVE.)",
+     "segments": 9
+    },
+    {
+     "file": "0182.json",
+     "ref": "s186",
+     "title": "(NOTHING WORTH THE FINDING, BUT CHRIST.)",
+     "segments": 7
+    },
+    {
+     "file": "0183.json",
+     "ref": "s187",
+     "title": "(HONOUR OF TESTIFYING FOR CHRIST.)",
+     "segments": 8
+    },
+    {
+     "file": "0184.json",
+     "ref": "s188",
+     "title": "(CHRIST ABOVE ALL.)",
+     "segments": 6
+    },
+    {
+     "file": "0185.json",
+     "ref": "s189",
+     "title": "(CHRIST'S LOVE--THE THREE WONDERS--DESIRES FOR HIS SECOND COMING.)",
+     "segments": 4
+    },
+    {
+     "file": "0186.json",
+     "ref": "s190",
+     "title": "ABERDEEN.",
+     "segments": 1
+    },
+    {
+     "file": "0187.json",
+     "ref": "s191",
+     "title": "(HIS WISDOM IN OUR TRIALS--REJOICE IN TRIBULATION.)",
+     "segments": 10
+    },
+    {
+     "file": "0188.json",
+     "ref": "s192",
+     "title": "(STRIVE TO ENTER IN.)",
+     "segments": 4
+    },
+    {
+     "file": "0189.json",
+     "ref": "s193",
+     "title": "ABERDEEN, 1637.",
+     "segments": 2
+    },
+    {
+     "file": "0190.json",
+     "ref": "s194",
+     "title": "(COMPLETE SURRENDER TO CHRIST--NO IDOLS--TRIALS DISCOVER SINS--A FREE SALVATION--THE MARRIAGE SUPPER.)",
+     "segments": 7
+    },
+    {
+     "file": "0191.json",
+     "ref": "s195",
+     "title": "ABERDEEN, 1637.",
+     "segments": 2
+    },
+    {
+     "file": "0192.json",
+     "ref": "s196",
+     "title": "(THE CROSS NO BURDEN--NEED OF SURE FOUNDATION.)",
+     "segments": 8
+    },
+    {
+     "file": "0193.json",
+     "ref": "s197",
+     "title": "(FEAR NOT THEM WHO KILL THE BODY--UNEXPECTED FAVOUR.)",
+     "segments": 10
+    },
+    {
+     "file": "0194.json",
+     "ref": "s198",
+     "title": "(PREPARE TO MEET THY GOD--CHRIST HIS JOY.)",
+     "segments": 8
+    },
+    {
+     "file": "0195.json",
+     "ref": "s199",
+     "title": "(PERSEVERANCE AGAINST OPPOSITION.)",
+     "segments": 7
+    },
+    {
+     "file": "0196.json",
+     "ref": "s200",
+     "title": "(TRIALS SELECTED BY GOD--PATIENCE--LOOKING FOR THE JUDGE.)",
+     "segments": 9
+    },
+    {
+     "file": "0197.json",
+     "ref": "s201",
+     "title": "(HIS HAPPY OBLIGATIONS TO CHRIST--EMPTINESS OF THE WORLD.)",
+     "segments": 8
+    },
+    {
+     "file": "0198.json",
+     "ref": "s202",
+     "title": "(NO EXCHANGE FOR CHRIST.)",
+     "segments": 12
+    },
+    {
+     "file": "0199.json",
+     "ref": "s203",
+     "title": "(THE KINGDOM TAKEN BY FORCE.)",
+     "segments": 9
+    },
+    {
+     "file": "0200.json",
+     "ref": "s204",
+     "title": "(COUNSEL TO A YOUTH.)",
+     "segments": 8
+    },
+    {
+     "file": "0201.json",
+     "ref": "s205",
+     "title": "(NOTHING LOST BY TRIALS--LONGING FOR CHRIST HIMSELF BECAUSE OF HIS LOVE.)",
+     "segments": 8
+    },
+    {
+     "file": "0202.json",
+     "ref": "s206",
+     "title": "(SUSPICIONS OF CHRIST'S LOVE REMOVED THREE DESIRES.)",
+     "segments": 7
+    },
+    {
+     "file": "0203.json",
+     "ref": "s207",
+     "title": "(GOD THE SATISFYING PORTION--ADHERENCE TO CHRIST.)",
+     "segments": 7
+    },
+    {
+     "file": "0204.json",
+     "ref": "s208",
+     "title": "(MISJUDGING OF CHRIST'S WAYS.)",
+     "segments": 7
+    },
+    {
+     "file": "0205.json",
+     "ref": "s209",
+     "title": "(PRESSING INTO HEAVEN--A CHRISTIAN NO EASY ATTAINMENT--SINS TO BE AVOIDED.)",
+     "segments": 10
+    },
+    {
+     "file": "0206.json",
+     "ref": "s210",
+     "title": "(CHRIST'S CROSSES BETTER THAN EGYPT'S TREASURES.)",
+     "segments": 9
+    },
+    {
+     "file": "0207.json",
+     "ref": "s211",
+     "title": "(ADHERENCE TO CHRIST--HIS APPROBATION WORTH ALL WORLDS.)",
+     "segments": 6
+    },
+    {
+     "file": "0208.json",
+     "ref": "s212",
+     "title": "(CONTINUING IN CHRIST--PREPAREDNESS FOR DEATH.)",
+     "segments": 8
+    },
+    {
+     "file": "0209.json",
+     "ref": "s213",
+     "title": "(ENJOYMENT OF GOD'S LOVE--NEED OF HELP--BURDENS.)",
+     "segments": 8
+    },
+    {
+     "file": "0210.json",
+     "ref": "s214",
+     "title": "(A PRISONER'S JOYS--LOVE OF CHRIST--THE GOOD PART--HEAVEN IN SIGHT.)",
+     "segments": 9
+    },
+    {
+     "file": "0211.json",
+     "ref": "s215",
+     "title": "(UNBELIEF UNDER TRIAL--CHRIST'S SYMPATHY AND LOVE.)",
+     "segments": 8
+    },
+    {
+     "file": "0212.json",
+     "ref": "s216",
+     "title": "(PROSPECTIVE TRIALS.)",
+     "segments": 5
+    },
+    {
+     "file": "0213.json",
+     "ref": "s217",
+     "title": "ABERDEEN, 1637.",
+     "segments": 2
+    },
+    {
+     "file": "0214.json",
+     "ref": "s218",
+     "title": "(THE ONE THING NEEDFUL--CHRIST'S LOVE.)",
+     "segments": 7
+    },
+    {
+     "file": "0215.json",
+     "ref": "s219",
+     "title": "(EARLY DEVOTEDNESS TO CHRIST.)",
+     "segments": 8
+    },
+    {
+     "file": "0216.json",
+     "ref": "s220",
+     "title": "(INCREASING SENSE OF CHRIST'S LOVE--RESIGNATION--DEADNESS TO EARTH--TEMPTATIONS--INFIRMITIES.)",
+     "segments": 12
+    },
+    {
+     "file": "0217.json",
+     "ref": "s221",
+     "title": "(CHRIST ALLWORTHY AND BEST AT OUR LOWEST--SINFULNESS OF THE LAND--PRAYERS.)",
+     "segments": 7
+    },
+    {
+     "file": "0218.json",
+     "ref": "s222",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0219.json",
+     "ref": "s223",
+     "title": "(DIRECTIONS FOR CHRISTIAN CONDUCT.)",
+     "segments": 19
+    },
+    {
+     "file": "0220.json",
+     "ref": "s224",
+     "title": "(HUNGERING AFTER CHRIST HIMSELF RATHER THAN HIS LOVE.)",
+     "segments": 8
+    },
+    {
+     "file": "0221.json",
+     "ref": "s225",
+     "title": "ABERDEEN, 1637.",
+     "segments": 2
+    },
+    {
+     "file": "0222.json",
+     "ref": "s226",
+     "title": "(COMMERCIAL MISFORTUNES--SERVICE-BOOK--BLESSEDNESS OF TRIAL.)",
+     "segments": 8
+    },
+    {
+     "file": "0223.json",
+     "ref": "s227",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0224.json",
+     "ref": "s228",
+     "title": "(THE BURDEN OF A SILENCED MINISTER--SPIRITUAL SHORTCOMINGS.)",
+     "segments": 6
+    },
+    {
+     "file": "0225.json",
+     "ref": "s229",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0226.json",
+     "ref": "s230",
+     "title": "(VIEW OF TRIALS PAST--HARD THOUGHTS OF CHRIST--CROSSES--HOPE.)",
+     "segments": 6
+    },
+    {
+     "file": "0227.json",
+     "ref": "s231",
+     "title": "ABERDEEN, 1637.",
+     "segments": 3
+    },
+    {
+     "file": "0228.json",
+     "ref": "s232",
+     "title": "(A YOUTH ADMONISHED.)",
+     "segments": 3
+    },
+    {
+     "file": "0229.json",
+     "ref": "s233",
+     "title": "ABERDEEN, 1637.",
+     "segments": 2
+    },
+    {
+     "file": "0230.json",
+     "ref": "s234",
+     "title": "(PERSONAL INSUFFICIENCY--GRACE FROM CHRIST ALONE--LONGINGS AFTER HIM.)",
+     "segments": 6
+    },
+    {
+     "file": "0231.json",
+     "ref": "s235",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0232.json",
+     "ref": "s236",
+     "title": "(A GOOD CONSCIENCE--CHRIST KIND TO SUFFERERS--RESPONSIBILITY--YOUTH.)",
+     "segments": 7
+    },
+    {
+     "file": "0233.json",
+     "ref": "s237",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0234.json",
+     "ref": "s238",
+     "title": "(LESSONS LEARNED IN THE SCHOOL OF ADVERSITY.)",
+     "segments": 15
+    },
+    {
+     "file": "0235.json",
+     "ref": "s239",
+     "title": "(CHRIST'S INFINITE FULNESS.)",
+     "segments": 6
+    },
+    {
+     "file": "0236.json",
+     "ref": "s240",
+     "title": "(GOD'S WORKING INCOMPREHENSIBLE--LONGING AFTER ANY DROP OF CHRIST'S FULNESS.)",
+     "segments": 7
+    },
+    {
+     "file": "0237.json",
+     "ref": "s241",
+     "title": "(LONGING FOR CHRIST'S GLORY--FELT GUILTINESS--LONGING FOR CHRIST'S LOVE--SANCTIFICATION.)",
+     "segments": 8
+    },
+    {
+     "file": "0238.json",
+     "ref": "s242",
+     "title": "ABERDEEN, 1637.",
+     "segments": 2
+    },
+    {
+     "file": "0239.json",
+     "ref": "s243",
+     "title": "(CONCERT IN PRAYER--STEDFASTNESS TO CHRIST--GRIEF MISREPRESENTS CHRIST'S GLORY.)",
+     "segments": 8
+    },
+    {
+     "file": "0240.json",
+     "ref": "s244",
+     "title": "(MARKS OF DIFFERENCE BETWIXT CHRISTIANS AND REPROBATES.)",
+     "segments": 5
+    },
+    {
+     "file": "0241.json",
+     "ref": "s245",
+     "title": "ABERDEEN.",
+     "segments": 1
+    },
+    {
+     "file": "0242.json",
+     "ref": "s246",
+     "title": "(WARNING AND ADVICE AS TO THINGS OF SALVATION.)",
+     "segments": 4
+    },
+    {
+     "file": "0243.json",
+     "ref": "s247",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0244.json",
+     "ref": "s248",
+     "title": "(IDOLATRY CONDEMNED.)",
+     "segments": 9
+    },
+    {
+     "file": "0245.json",
+     "ref": "s249",
+     "title": "(CHRIST'S LOVE--A RIGHT ESTIMATE OF HIM--HIS GRACE.)",
+     "segments": 7
+    },
+    {
+     "file": "0246.json",
+     "ref": "s250",
+     "title": "(A CHRISTIAN'S CONFESSION OF UNWORTHINESS--DESIRE FOR CHRIST'S HONOUR--PRESENT CIRCUMSTANCES.)",
+     "segments": 11
+    },
+    {
+     "file": "0247.json",
+     "ref": "s251",
+     "title": "(CHRIST SUFFERING IN HIS CHURCH--HIS COMING--OUTPOURINGS OF LOVE FROM HIM.)",
+     "segments": 9
+    },
+    {
+     "file": "0248.json",
+     "ref": "s252",
+     "title": "(CHRIST'S MANAGEMENT OF TRIALS--WHAT FAITH CAN DO--CHRIST NOT EXPERIENCE--PRAYERS.)",
+     "segments": 10
+    },
+    {
+     "file": "0249.json",
+     "ref": "s253",
+     "title": "(CHRIST'S LOVE SHARPENED IN SUFFERING--KNEELING AT THE COMMUNION--POSTURES AT ORDINANCES.)",
+     "segments": 12
+    },
+    {
+     "file": "0250.json",
+     "ref": "s254",
+     "title": "(LONGINGS FOR THOSE UNDER HIS FORMER MINISTRY--DELIGHT IN CHRIST AND HIS APPEARING--PLEADING WITH HIS FLOCK.)",
+     "segments": 8
+    },
+    {
+     "file": "0251.json",
+     "ref": "s255",
+     "title": "(DANGERS OF YOUTH--CHRIST THE BEST PHYSICIAN--FOUR REMEDIES AGAINST DOUBTING--BREATHINGS AFTER CHRIST'S HONOUR.)",
+     "segments": 12
+    },
+    {
+     "file": "0252.json",
+     "ref": "s256",
+     "title": "(JOY IN GOD--TRIALS WORK OUT GLORY TO CHRIST.)",
+     "segments": 9
+    },
+    {
+     "file": "0253.json",
+     "ref": "s257",
+     "title": "(CHRIST THE PURIFIER OF HIS CHURCH--SUBMISSION TO HIS WAYS.)",
+     "segments": 8
+    },
+    {
+     "file": "0254.json",
+     "ref": "s258",
+     "title": "(THE FRAGRANCE OF THE MINISTRY--A REVIEW OF HIS PAST AND PRESENT SITUATION, AND OF HIS PROSPECTS.)",
+     "segments": 11
+    },
+    {
+     "file": "0255.json",
+     "ref": "s259",
+     "title": "(LONGING TO BE RESTORED TO HIS CHARGE.)",
+     "segments": 5
+    },
+    {
+     "file": "0256.json",
+     "ref": "s260",
+     "title": "ABERDEEN, 1637.",
+     "segments": 2
+    },
+    {
+     "file": "0257.json",
+     "ref": "s261",
+     "title": "(CHRIST CHOOSES HIS OWN IN THE FURNACE--NEED OF A DEEP WORK--THE GOD-MAN, A WORLD'S WONDER.)",
+     "segments": 13
+    },
+    {
+     "file": "0258.json",
+     "ref": "s262",
+     "title": "(CHRIST UNCHANGEABLE, THOUGH NOT ALWAYS ENJOYED--HIS LOVE NEVER YET FULLY POURED OUT--HIMSELF HIS PEOPLE'S CAUTIONER.)",
+     "segments": 6
+    },
+    {
+     "file": "0259.json",
+     "ref": "s263",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0260.json",
+     "ref": "s264",
+     "title": "(DESPONDING VIEWS OF HIS OWN STATE--MINISTERIAL DILIGENCE--CHRIST'S WORTH--SELF-SEEKING.)",
+     "segments": 6
+    },
+    {
+     "file": "0261.json",
+     "ref": "s265",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0262.json",
+     "ref": "s266",
+     "title": "(HOPE FOR SCOTLAND--SELF-SUBMISSION--CHRIST HIMSELF IS SOUGHT FOR BY FAITH--STABILITY OF SALVATION--HIS WAYS.)",
+     "segments": 6
+    },
+    {
+     "file": "0263.json",
+     "ref": "s267",
+     "title": "ABERDEEN, 1637.",
+     "segments": 3
+    },
+    {
+     "file": "0264.json",
+     "ref": "s268",
+     "title": "(NECESSITY OF MAKING SURE OF SALVATION--VANITY OF THE WORLD--NOTHING WORTH HAVING BUT CHRIST--FLIGHT OF TIME.)",
+     "segments": 5
+    },
+    {
+     "file": "0265.json",
+     "ref": "s269",
+     "title": "ABERDEEN, 1637.",
+     "segments": 2
+    },
+    {
+     "file": "0266.json",
+     "ref": "s270",
+     "title": "(EARNESTNESS ABOUT SALVATION--CHRIST HIMSELF TO BE SOUGHT.)",
+     "segments": 4
+    },
+    {
+     "file": "0267.json",
+     "ref": "s271",
+     "title": "ABERDEEN, 1637.",
+     "segments": 8
+    },
+    {
+     "file": "0268.json",
+     "ref": "s272",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0269.json",
+     "ref": "s273",
+     "title": "(CHRIST'S BEAUTY AND EXCELLENCE.)",
+     "segments": 4
+    },
+    {
+     "file": "0270.json",
+     "ref": "s274",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0271.json",
+     "ref": "s275",
+     "title": "(THE WAYS OF PROVIDENCE--BELIEVING PATIENCE.)",
+     "segments": 4
+    },
+    {
+     "file": "0272.json",
+     "ref": "s276",
+     "title": "ABERDEEN, 1637.",
+     "segments": 2
+    },
+    {
+     "file": "0273.json",
+     "ref": "s277",
+     "title": "(CHRIST THE EXCLUSIVE OBJECT OF LOVE--PREPARATION FOR DEATH.)",
+     "segments": 5
+    },
+    {
+     "file": "0274.json",
+     "ref": "s278",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0275.json",
+     "ref": "s279",
+     "title": "(SUFFERINGS--HOPE OF FINAL DELIVERANCE--THE BELIEVER IN SAFE KEEPING--THE RECOMPENSE MARRED BY TEMPTATIONS.)",
+     "segments": 7
+    },
+    {
+     "file": "0276.json",
+     "ref": "s280",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0277.json",
+     "ref": "s281",
+     "title": "(THOUGHTS AS TO GOD'S ARRANGEMENTS--WINNING SOULS TO BE SUPREMELY DESIRED--LONGINGS FOR CHRIST.)",
+     "segments": 8
+    },
+    {
+     "file": "0278.json",
+     "ref": "s282",
+     "title": "ABERDEEN, 1637.",
+     "segments": 3
+    },
+    {
+     "file": "0279.json",
+     "ref": "s283",
+     "title": "(SPIRITUAL SLOTH--DANGER OF COMPROMISE--SELF, THE ROOT OF ALL SIN--SELF-RENUNCIATION.)",
+     "segments": 7
+    },
+    {
+     "file": "0280.json",
+     "ref": "s284",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0281.json",
+     "ref": "s285",
+     "title": "(DANGERS OF YOUTH--EARLY DECISION.)",
+     "segments": 6
+    },
+    {
+     "file": "0282.json",
+     "ref": "s286",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0283.json",
+     "ref": "s287",
+     "title": "(THE MISERY OF MERE WORLDLY HOPE--EARNESTNESS ABOUT SALVATION.)",
+     "segments": 5
+    },
+    {
+     "file": "0284.json",
+     "ref": "s288",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0285.json",
+     "ref": "s289",
+     "title": "(CHRIST'S KINGDOM TO BE EXALTED OVER ALL; AND MORE PAINS TO BE TAKEN TO WIN FARTHER UNTO HIM.)",
+     "segments": 6
+    },
+    {
+     "file": "0286.json",
+     "ref": "s290",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0287.json",
+     "ref": "s291",
+     "title": "(YOUTH A PRECIOUS SEASON--CHRIST'S BEAUTY.)",
+     "segments": 6
+    },
+    {
+     "file": "0288.json",
+     "ref": "s292",
+     "title": "ABERDEEN, 1637.",
+     "segments": 2
+    },
+    {
+     "file": "0289.json",
+     "ref": "s293",
+     "title": "(TESTIMONY TO CHRIST'S WORTH--MARKS OF GRACE IN CONVICTION OF SIN AND SPIRITUAL CONFLICT.)",
+     "segments": 5
+    },
+    {
+     "file": "0290.json",
+     "ref": "s294",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0291.json",
+     "ref": "s295",
+     "title": "(CHRIST, AND NOT CREATURES, WORTHY OF ALL LOVE--LOVE NOT TO BE MEASURED BY FEELING.)",
+     "segments": 5
+    },
+    {
+     "file": "0292.json",
+     "ref": "s296",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0293.json",
+     "ref": "s297",
+     "title": "(DIFFICULTIES IN THE WAY TO THE KINGDOM--CHRIST'S LOVE.)",
+     "segments": 7
+    },
+    {
+     "file": "0294.json",
+     "ref": "s299",
+     "title": "POSTSCRIPT.",
+     "segments": 2
+    },
+    {
+     "file": "0295.json",
+     "ref": "s300",
+     "title": "(THE USE OF SUFFERINGS--FEARS UNDER THEM--DESIRE THAT CHRIST BE GLORIFIED.)",
+     "segments": 14
+    },
+    {
+     "file": "0296.json",
+     "ref": "s301",
+     "title": "(PRACTICAL HINTS.)",
+     "segments": 4
+    },
+    {
+     "file": "0297.json",
+     "ref": "s302",
+     "title": "ABERDEEN.",
+     "segments": 1
+    },
+    {
+     "file": "0298.json",
+     "ref": "s303",
+     "title": "(REGRETS FOR NOT BEING ABLE TO PREACH--LONGINGS FOR CHRIST.)",
+     "segments": 8
+    },
+    {
+     "file": "0299.json",
+     "ref": "s304",
+     "title": "(CHRIST'S SURPASSING EXCELLENCY--HIS CAUSE IN SCOTLAND.)",
+     "segments": 10
+    },
+    {
+     "file": "0300.json",
+     "ref": "s305",
+     "title": "(HIS SOUL FAINTING FOR CHRIST'S MATCHLESS BEAUTY--PRAYER FOR A REVIVAL.)",
+     "segments": 5
+    },
+    {
+     "file": "0301.json",
+     "ref": "s306",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0302.json",
+     "ref": "s307",
+     "title": "(GOD'S SKILL TO BLESS BY AFFLICTION--UNKINDNESS OF MEN--NEAR THE DAY OF MEETING THE LORD.)",
+     "segments": 9
+    },
+    {
+     "file": "0303.json",
+     "ref": "s308",
+     "title": "(SEARCH INTO CHRIST'S LOVELINESS--WHAT HE WOULD SUFFER TO SEE IT--CHRIST'S COMING TO DELIVER.)",
+     "segments": 9
+    },
+    {
+     "file": "0304.json",
+     "ref": "s309",
+     "title": "(MEN'S FOLLY IN UNDERVALUING CHRIST--IT IS HE THAT SATISFIETH--ADMIRATION OF HIM.)",
+     "segments": 7
+    },
+    {
+     "file": "0305.json",
+     "ref": "s310",
+     "title": "ABERDEEN, 1637.",
+     "segments": 2
+    },
+    {
+     "file": "0306.json",
+     "ref": "s311",
+     "title": "(SUFFERING FOR CHRIST'S HEADSHIP--HOW CHRIST VISITED HIM IN PREACHING.)",
+     "segments": 11
+    },
+    {
+     "file": "0307.json",
+     "ref": "s312",
+     "title": "(PERSONAL UNWORTHINESS--LONGING AFTER HOLINESS--WINNOWING TIME.)",
+     "segments": 7
+    },
+    {
+     "file": "0308.json",
+     "ref": "s313",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0309.json",
+     "ref": "s314",
+     "title": "(ADVANTAGES OF OUR WANTS AND DISTEMPERS--CHRIST UNSPEAKABLE.)",
+     "segments": 9
+    },
+    {
+     "file": "0310.json",
+     "ref": "s315",
+     "title": "(FREE GRACE FINDING ITS MATERIALS IN US.)",
+     "segments": 5
+    },
+    {
+     "file": "0311.json",
+     "ref": "s316",
+     "title": "ABERDEEN, 1637.",
+     "segments": 4
+    },
+    {
+     "file": "0312.json",
+     "ref": "s317",
+     "title": "(DANGER OF TRUSTING TO A NAME--CONVERSION NO SUPERFICIAL WORK--EXHORTATION TO MAKE SURE.)",
+     "segments": 5
+    },
+    {
+     "file": "0313.json",
+     "ref": "s318",
+     "title": "ABERDEEN, 1637.",
+     "segments": 2
+    },
+    {
+     "file": "0314.json",
+     "ref": "s319",
+     "title": "(CHRIST'S CROSSES BETTER THAN THE WORLD'S JOYS--CHRIST EXTOLLED.)",
+     "segments": 7
+    },
+    {
+     "file": "0315.json",
+     "ref": "s320",
+     "title": "(DUTY OF BEING DISENTANGLED FROM CHRIST--DISHONOURING COMPLIANCES.)",
+     "segments": 6
+    },
+    {
+     "file": "0316.json",
+     "ref": "s321",
+     "title": "(HER PRAYERS FOR SCOTLAND NOT FORGOTTEN.)",
+     "segments": 7
+    },
+    {
+     "file": "0317.json",
+     "ref": "s322",
+     "title": "(CHRIST'S WAY OF SHOWING HIMSELF THE BEST--WHAT FITS FOR HIM--YEARNING AFTER HIM INSATIABLY--DOMESTIC MATTERS.)",
+     "segments": 10
+    },
+    {
+     "file": "0318.json",
+     "ref": "s323",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0319.json",
+     "ref": "s324",
+     "title": "(STATE OF THE CHURCH--BELIEVERS PURIFIED BY AFFLICTION--FOLLY OF SEEKING JOY IN A DOOMED WORLD.)",
+     "segments": 6
+    },
+    {
+     "file": "0320.json",
+     "ref": "s325",
+     "title": "ABERDEEN, 1637.",
+     "segments": 2
+    },
+    {
+     "file": "0321.json",
+     "ref": "s326",
+     "title": "(VANITY OF THE WORLD IN THE LIGHT OF DEATH AND CHRIST--THE PRESENT TRUTH--CHRIST'S COMING.)",
+     "segments": 27
+    },
+    {
+     "file": "0322.json",
+     "ref": "s327",
+     "title": "(STANDING FOR CHRIST--DANGER FROM FEAR, OR PROMISES OF MEN--CHRIST'S REQUITALS--SIN AGAINST THE HOLY SPIRIT.)",
+     "segments": 10
+    },
+    {
+     "file": "0323.json",
+     "ref": "s328",
+     "title": "(GLORY GAINED TO CHRIST--SPIRITUAL DEADNESS--HELP TO PRAISE HIM--THE MINISTRY.)",
+     "segments": 10
+    },
+    {
+     "file": "0324.json",
+     "ref": "s329",
+     "title": "(THE LAW--THIS WORLD UNDER CHRIST'S CONTROL FOR THE BELIEVER.)",
+     "segments": 8
+    },
+    {
+     "file": "0325.json",
+     "ref": "s330",
+     "title": "(BELIEVER SAFE THOUGH TRIED--DELIGHT IN CHRIST'S TRUTH.)",
+     "segments": 9
+    },
+    {
+     "file": "0326.json",
+     "ref": "s331",
+     "title": "(THE CHURCH'S DESOLATIONS--THE END OF THE WORLD, AND CHRIST'S COMING--HIS ATTRACTIVENESS.)",
+     "segments": 7
+    },
+    {
+     "file": "0327.json",
+     "ref": "s332",
+     "title": "(SEEKING CHRIST IN YOUTH--ITS TEMPTATIONS--CHRIST'S EXCELLENCE--THE CHURCH'S CAUSE CONCERNS THE NOBLES.)",
+     "segments": 7
+    },
+    {
+     "file": "0328.json",
+     "ref": "s333",
+     "title": "(FRIENDS IN IRELAND--DIFFICULTIES IN PROVIDENCE--UNFAITHFULNESS TO LIGHT--CONSTANT NEED OF CHRIST.)",
+     "segments": 10
+    },
+    {
+     "file": "0329.json",
+     "ref": "s334",
+     "title": "(DESERTIONS, THEIR USE--PRAYERS OF REPROBATES, AND HOW THE GOSPEL AFFECTS THEIR RESPONSIBILITY.)",
+     "segments": 11
+    },
+    {
+     "file": "0330.json",
+     "ref": "s335",
+     "title": "(FEAR GOD, NOT MAN--SIGN OF BACKSLIDING.)",
+     "segments": 5
+    },
+    {
+     "file": "0331.json",
+     "ref": "s336",
+     "title": "(CHRIST'S GLORY NOT AFFECTED BY HIS PEOPLE'S WEAKNESS.)",
+     "segments": 6
+    },
+    {
+     "file": "0332.json",
+     "ref": "s337",
+     "title": "(TRUTH WORTH SUFFERING FOR--LIGHT SOWN, BUT EVIL IN THIS WORLD TILL CHRIST COME.)",
+     "segments": 10
+    },
+    {
+     "file": "0333.json",
+     "ref": "s338",
+     "title": "(CHRIST AN EXAMPLE IN BEARING CROSSES--THE EXTENT TO WHICH CHILDREN SHOULD BE LOVED--WHY SAINTS DIE.)",
+     "segments": 9
+    },
+    {
+     "file": "0334.json",
+     "ref": "s339",
+     "title": "(WHAT AM I?--LONGING TO ACT FOR CHRIST--UNBELIEF--LOVE IN THE HIDING OF CHRIST'S FACE--CHRIST'S REPROACH.)",
+     "segments": 9
+    },
+    {
+     "file": "0335.json",
+     "ref": "s340",
+     "title": "(CHRIST THE SAME--YOUTHFUL SINS--NO DISPENSING WITH CROSSES.)",
+     "segments": 7
+    },
+    {
+     "file": "0336.json",
+     "ref": "s341",
+     "title": "(RICHES OF CHRIST FAIL NOT--SALVATION--VANITY OF CREATED COMFORTS--LONGING FOR MORE OF CHRIST.)",
+     "segments": 11
+    },
+    {
+     "file": "0337.json",
+     "ref": "s342",
+     "title": "(JESUS THE BEST CHOICE, AND TO BE MADE SURE OF--THE CROSS AND JESUS INSEPARABLE--SORROWS ONLY TEMPORARY.)",
+     "segments": 5
+    },
+    {
+     "file": "0338.json",
+     "ref": "s343",
+     "title": "(HIS OWN PROSPECTS--HOPES--SALUTATIONS.)",
+     "segments": 13
+    },
+    {
+     "file": "0339.json",
+     "ref": "s344",
+     "title": "(PROCEEDINGS OF PARLIAMENT--PRIVATE MATTERS--HER DAUGHTER'S MARRIAGE.)",
+     "segments": 6
+    },
+    {
+     "file": "0340.json",
+     "ref": "s345",
+     "title": "ABERDEEN.",
+     "segments": 1
+    },
+    {
+     "file": "0341.json",
+     "ref": "s346",
+     "title": "(IMPERFECTIONS--YEARNINGS AFTER CHRIST--CHRIST'S SUPREMACY NOT INCONSISTENT WITH CIVIL AUTHORITY.)",
+     "segments": 9
+    },
+    {
+     "file": "0342.json",
+     "ref": "s347",
+     "title": "(HEAVEN'S HAPPINESS--JOY IN THE CROSS.)",
+     "segments": 6
+    },
+    {
+     "file": "0343.json",
+     "ref": "s348",
+     "title": "(THE HEAVENLY MANSIONS--EARTH A SHADOW.)",
+     "segments": 6
+    },
+    {
+     "file": "0344.json",
+     "ref": "s349",
+     "title": "(BENEFITS OF THE CROSS, IF WE ARE CHRIST'S.)",
+     "segments": 4
+    },
+    {
+     "file": "0345.json",
+     "ref": "s350",
+     "title": "ABERDEEN.",
+     "segments": 2
+    },
+    {
+     "file": "0346.json",
+     "ref": "s351",
+     "title": "(SPIRITUAL DIFFICULTIES SOLVED.)",
+     "segments": 15
+    },
+    {
+     "file": "0347.json",
+     "ref": "s352",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0348.json",
+     "ref": "s353",
+     "title": "(PART WITH ALL FOR CHRIST--NO UNMIXED JOY HERE.)",
+     "segments": 6
+    },
+    {
+     "file": "0349.json",
+     "ref": "s354",
+     "title": "ABERDEEN.",
+     "segments": 3
+    },
+    {
+     "file": "0350.json",
+     "ref": "s355",
+     "title": "(JESUS OR THE WORLD--SCOTLAND'S TRIALS AND HOPES.)",
+     "segments": 4
+    },
+    {
+     "file": "0351.json",
+     "ref": "s356",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0352.json",
+     "ref": "s357",
+     "title": "(CARES TO BE CAST ON CHRIST--CHRIST A STEADY FRIEND.)",
+     "segments": 6
+    },
+    {
+     "file": "0353.json",
+     "ref": "s358",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0354.json",
+     "ref": "s359",
+     "title": "(CHRIST THE TRUE GAIN.)",
+     "segments": 7
+    },
+    {
+     "file": "0355.json",
+     "ref": "s360",
+     "title": "(PERSONAL UNWORTHINESS--GOD'S GRACE--PRAYER FOR OTHERS.)",
+     "segments": 8
+    },
+    {
+     "file": "0356.json",
+     "ref": "s361",
+     "title": "(SUBMISSION TO GOD'S WILL--WONDERS IN THE LOVE OF CHRIST--NO DEBT TO THE WORLD.)",
+     "segments": 3
+    },
+    {
+     "file": "0357.json",
+     "ref": "s362",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0358.json",
+     "ref": "s363",
+     "title": "(THE LAW--GRACE--CHALKING OUT PROVIDENCES FOR OURSELVES--PRESCRIBING TO HIS LOVE.)",
+     "segments": 5
+    },
+    {
+     "file": "0359.json",
+     "ref": "s364",
+     "title": "(THE COMFORTS OF CHRIST'S CROSS--DESIRES FOR CHRIST.)",
+     "segments": 5
+    },
+    {
+     "file": "0360.json",
+     "ref": "s365",
+     "title": "(THE WISDOM OF ADHERING TO CHRIST'S CAUSE.)",
+     "segments": 9
+    },
+    {
+     "file": "0361.json",
+     "ref": "s366",
+     "title": "(DANGER OF WORLDLY EASE--PERSONAL OCCURRENCES.)",
+     "segments": 9
+    },
+    {
+     "file": "0362.json",
+     "ref": "s367",
+     "title": "(ALL CROSSES WELL ORDERED--PROVIDENCES.)",
+     "segments": 12
+    },
+    {
+     "file": "0363.json",
+     "ref": "s368",
+     "title": "(THE KINGDOM TO BE TAKEN BY VIOLENCE.)",
+     "segments": 6
+    },
+    {
+     "file": "0364.json",
+     "ref": "s369",
+     "title": "(INCREASING EXPERIENCE OF CHRIST'S LOVE--SALVATION TO BE MADE SURE.)",
+     "segments": 8
+    },
+    {
+     "file": "0365.json",
+     "ref": "s370",
+     "title": "(HOPE IN TRIAL--PRAYER AND WATCHFULNESS.)",
+     "segments": 4
+    },
+    {
+     "file": "0366.json",
+     "ref": "s371",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0367.json",
+     "ref": "s372",
+     "title": "(GODLY COUNSELS--FOLLOWING CHRIST.)",
+     "segments": 5
+    },
+    {
+     "file": "0368.json",
+     "ref": "s373",
+     "title": "ABERDEEN, 1637.",
+     "segments": 2
+    },
+    {
+     "file": "0369.json",
+     "ref": "s374",
+     "title": "(CHRIST'S LOVE IN AFFLICTION--THE SAINT'S SUPPORT AND FINAL VICTORY.)",
+     "segments": 5
+    },
+    {
+     "file": "0370.json",
+     "ref": "s375",
+     "title": "(COMFORT ABOUNDING UNDER TRIALS.)",
+     "segments": 6
+    },
+    {
+     "file": "0371.json",
+     "ref": "s376",
+     "title": "(THE PAST AND THE FUTURE--PRESENT HAPPINESS.)",
+     "segments": 28
+    },
+    {
+     "file": "0372.json",
+     "ref": "s377",
+     "title": "(HIS EXPERIENCE OF CHRIST'S LOVE--STATE OF THE LAND AND CHURCH--CHRIST NOT DULY ESTEEMED--DESIRES AFTER HIM, AND FOR A REVIVAL.)",
+     "segments": 4
+    },
+    {
+     "file": "0373.json",
+     "ref": "s378",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0374.json",
+     "ref": "s379",
+     "title": "(PROSPERITY UNDER THE CROSS--NEED OF SINCERITY, AND BEING FOUNDED ON CHRIST.)",
+     "segments": 8
+    },
+    {
+     "file": "0375.json",
+     "ref": "s380",
+     "title": "(CHRIST ALL WORTHY--THIS WORLD A CLAY PRISON--DESIRE FOR A REVIVAL OF CHRIST'S CAUSE.)",
+     "segments": 9
+    },
+    {
+     "file": "0376.json",
+     "ref": "s381",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0377.json",
+     "ref": "s382",
+     "title": "(COMFORT IN TRIALS FROM THE KNOWLEDGE OF CHRIST'S POWER AND WORK--THAT WILL SOON BE OVER--CORRUPTION--FREE GRACE.)",
+     "segments": 7
+    },
+    {
+     "file": "0378.json",
+     "ref": "s383",
+     "title": "(THE CHRISTIAN LIFE A MYSTERY TO THE WORLD--CHRIST'S KINDNESS.)",
+     "segments": 6
+    },
+    {
+     "file": "0379.json",
+     "ref": "s384",
+     "title": "(SPIRITUAL LONGINGS UNDER CHRIST'S CROSS--HOW TO BEAR IT--CHRIST PRECIOUS, AND TO BE HAD WITHOUT MONEY--THE CHURCH.)",
+     "segments": 8
+    },
+    {
+     "file": "0380.json",
+     "ref": "s385",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0381.json",
+     "ref": "s386",
+     "title": "(SWEETNESS OF TRIAL--SWIFTNESS OF TIME--PREVALENCE OF SIN.)",
+     "segments": 6
+    },
+    {
+     "file": "0382.json",
+     "ref": "s387",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0383.json",
+     "ref": "s388",
+     "title": "(SENSE OF UNWORTHINESS--OBLIGATION TO GRACE--CHRIST'S ABSENCE--STATE OF THE LAND.)",
+     "segments": 9
+    },
+    {
+     "file": "0384.json",
+     "ref": "s389",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0385.json",
+     "ref": "s390",
+     "title": "(AMBITION--CHRIST'S ROYAL PREROGATIVE--PRELACY.)",
+     "segments": 6
+    },
+    {
+     "file": "0386.json",
+     "ref": "s391",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0387.json",
+     "ref": "s392",
+     "title": "(A SPRING-TIDE OF CHRIST'S LOVE.)",
+     "segments": 7
+    },
+    {
+     "file": "0388.json",
+     "ref": "s393",
+     "title": "(HEAVEN HARD TO BE WON--MANY COME SHORT IN ATTAINING--IDOL SINS TO BE RENOUNCED--LIKENESS TO CHRIST.)",
+     "segments": 12
+    },
+    {
+     "file": "0389.json",
+     "ref": "s394",
+     "title": "ABERDEEN, 1637.",
+     "segments": 1
+    },
+    {
+     "file": "0390.json",
+     "ref": "s395",
+     "title": "(TRUE HONOUR IN MAINTAINING CHRIST'S CAUSE--PRELACY--LIGHT OF ETERNITY.)",
+     "segments": 8
+    },
+    {
+     "file": "0391.json",
+     "ref": "s396",
+     "title": "(AFFLICTIONS PURIFY--THE WORLD'S VANITY--CHRIST'S WISE LOVE.)",
+     "segments": 9
+    },
+    {
+     "file": "0392.json",
+     "ref": "s397",
+     "title": "(EARNEST CALL TO DILIGENCE--CIRCUMSPECT WALKING.)",
+     "segments": 21
+    },
+    {
+     "file": "0393.json",
+     "ref": "s398",
+     "title": "(NOT OUR CROSS, BUT CHRIST, THE OBJECT OF ATTRACTION--TOO LITTLE EXPECTED FROM HIM--SPIRITUAL DEADNESS.)",
+     "segments": 24
+    },
+    {
+     "file": "0394.json",
+     "ref": "s399",
+     "title": "(ON THE DEATH OF HER CHILD--CHRIST SHARES IN HIS PEOPLE'S SORROWS.)",
+     "segments": 27
+    },
+    {
+     "file": "0395.json",
+     "ref": "s400",
+     "title": "ANWOTH, 1639.",
+     "segments": 2
+    },
+    {
+     "file": "0396.json",
+     "ref": "s401",
+     "title": "(PUBLIC BLESSINGS ALLEVIATE PRIVATE SUFFERINGS--TRIALS LIGHT WHEN VIEWED IN THE LIGHT OF HEAVEN--CHRIST WORTHY OF SUFFERING FOR.)",
+     "segments": 30
+    },
+    {
+     "file": "0397.json",
+     "ref": "s402",
+     "title": "ST. ANDREWS, 1640.",
+     "segments": 2
+    },
+    {
+     "file": "0398.json",
+     "ref": "s403",
+     "title": "(SUPPORT UNDER TRIALS--THE MASTER'S REWARD.)",
+     "segments": 5
+    },
+    {
+     "file": "0399.json",
+     "ref": "s404",
+     "title": "ST. ANDREWS, 1640.",
+     "segments": 2
+    },
+    {
+     "file": "0400.json",
+     "ref": "s405",
+     "title": "(ADVICES TO A DOUBTING SOUL--MISTAKES ABOUT HIS INTEREST IN GOD'S LOVE--TEMPTATION--PERPLEXITY ABOUT PRAYER--WANT OF FEELING.)",
+     "segments": 10
+    },
+    {
+     "file": "0401.json",
+     "ref": "s406",
+     "title": "(SINS OF THE LAND--DWELLING IN CHRIST--FAITH AWAKE SEES ALL WELL.)",
+     "segments": 7
+    },
+    {
+     "file": "0402.json",
+     "ref": "s407",
+     "title": "ST. ANDREWS.",
+     "segments": 16
+    },
+    {
+     "file": "0403.json",
+     "ref": "s408",
+     "title": "(BELIEVERS' GRACES ALL FROM CHRIST--ASPIRATION AFTER MORE LOVE TO HIM--HIS REIGN DESIRED.)",
+     "segments": 7
+    },
+    {
+     "file": "0404.json",
+     "ref": "s409",
+     "title": "(FAITH'S MISGIVINGS--SPIRITUAL DARKNESS NOT GRACE--CHRIST'S LOVE INIMITABLE.)",
+     "segments": 9
+    },
+    {
+     "file": "0405.json",
+     "ref": "s410",
+     "title": "(GOD'S SOVEREIGNTY, AND DISCIPLINE BY AFFLICTION.)",
+     "segments": 9
+    },
+    {
+     "file": "0406.json",
+     "ref": "s411",
+     "title": "(TRUST EVEN THOUGH SLAIN--SECOND CAUSES NOT TO BE REGARDED--GOD'S THOUGHTS OF PEACE THEREIN--ALL IN MERCY.)",
+     "segments": 13
+    },
+    {
+     "file": "0407.json",
+     "ref": "s412",
+     "title": "(REASON FOR RESIGNATION.)",
+     "segments": 8
+    },
+    {
+     "file": "0408.json",
+     "ref": "s413",
+     "title": "(WORTHINESS OF GOD'S LOVE AS MANIFESTED IN CHRIST--HEAVEN WITH CHRIST.)",
+     "segments": 4
+    },
+    {
+     "file": "0409.json",
+     "ref": "s414",
+     "title": "ST. ANDREWS, 1640.",
+     "segments": 1
+    },
+    {
+     "file": "0410.json",
+     "ref": "s415",
+     "title": "(GOD'S METHOD IN AFFLICTION--FUTURE GLORY.)",
+     "segments": 3
+    },
+    {
+     "file": "0411.json",
+     "ref": "s416",
+     "title": "ST. ANDREWS.",
+     "segments": 1
+    },
+    {
+     "file": "0412.json",
+     "ref": "s417",
+     "title": "(SIN OF THE LAND--READ PRAYERS--BROWNISM.)",
+     "segments": 6
+    },
+    {
+     "file": "0413.json",
+     "ref": "s418",
+     "title": "ST. ANDREWS.",
+     "segments": 1
+    },
+    {
+     "file": "0414.json",
+     "ref": "s419",
+     "title": "(HEAVEN A REALITY--STEDFASTNESS TO BE GROUNDED ON CHRIST.)",
+     "segments": 3
+    },
+    {
+     "file": "0415.json",
+     "ref": "s420",
+     "title": "ST. ANDREWS.",
+     "segments": 1
+    },
+    {
+     "file": "0416.json",
+     "ref": "s421",
+     "title": "(SINS OF THE TIMES--PRACTICAL ATHEISM.)",
+     "segments": 8
+    },
+    {
+     "file": "0417.json",
+     "ref": "s422",
+     "title": "(SUFFICIENCY OF DIVINE GRACE--CALL TO ENGLAND TO ASSIST AT WESTMINSTER ASSEMBLY--FELT UNWORTHINESS.)",
+     "segments": 7
+    },
+    {
+     "file": "0418.json",
+     "ref": "s423",
+     "title": "(NECESSITY OF GODLINESS IN ITS POWER.)",
+     "segments": 5
+    },
+    {
+     "file": "0419.json",
+     "ref": "s424",
+     "title": "ST. ANDREWS.",
+     "segments": 1
+    },
+    {
+     "file": "0420.json",
+     "ref": "s425",
+     "title": "(WESTMINSTER ASSEMBLY--RELIGIOUS SECTS.)",
+     "segments": 6
+    },
+    {
+     "file": "0421.json",
+     "ref": "s426",
+     "title": "(PROCEEDINGS OF THE WESTMINSTER ASSEMBLY.)",
+     "segments": 10
+    },
+    {
+     "file": "0422.json",
+     "ref": "s427",
+     "title": "(SUGGESTIONS FOR COMFORT UNDER SORROW.)",
+     "segments": 9
+    },
+    {
+     "file": "0423.json",
+     "ref": "s428",
+     "title": "LONDON, 1645.",
+     "segments": 2
+    },
+    {
+     "file": "0424.json",
+     "ref": "s429",
+     "title": "(ON DEATH OF HER SON-IN-LAW--GOD'S PURPOSES.)",
+     "segments": 11
+    },
+    {
+     "file": "0425.json",
+     "ref": "s430",
+     "title": "(GOD'S VOICE IN THE ROD.)",
+     "segments": 6
+    },
+    {
+     "file": "0426.json",
+     "ref": "s431",
+     "title": "(CHRIST'S DESIGNS IN SICKNESS AND SORROW.)",
+     "segments": 7
+    },
+    {
+     "file": "0427.json",
+     "ref": "s432",
+     "title": "(GOD DOES ALL THINGS WELL, AND WITH DESIGN.)",
+     "segments": 8
+    },
+    {
+     "file": "0428.json",
+     "ref": "s433",
+     "title": "(GOD THE FIRST CAUSE--THE END OF AFFLICTION.)",
+     "segments": 6
+    },
+    {
+     "file": "0429.json",
+     "ref": "s434",
+     "title": "LONDON, 1645.",
+     "segments": 1
+    },
+    {
+     "file": "0430.json",
+     "ref": "s435",
+     "title": "(CONSOLATION IN HER HAVING GONE BEFORE--CHRIST THE BEST HUSBAND.)",
+     "segments": 8
+    },
+    {
+     "file": "0431.json",
+     "ref": "s436",
+     "title": "(VIEWS OF DEATH AND HEAVEN--ASPIRATIONS.)",
+     "segments": 14
+    },
+    {
+     "file": "0432.json",
+     "ref": "s437",
+     "title": "(CHRIST NEVER IN OUR DEBT--RICHES OF CHRIST--EXCELLENCE OF THE HEAVENLY STATE.)",
+     "segments": 8
+    },
+    {
+     "file": "0433.json",
+     "ref": "s438",
+     "title": "(PROSPECTS FOR SCOTLAND--HIS OWN DARKNESS--ABILITY OF CHRIST.)",
+     "segments": 9
+    },
+    {
+     "file": "0434.json",
+     "ref": "s439",
+     "title": "(TRIALS CANNOT INJURE SAINTS--BLESSEDNESS IN SEEING CHRIST.)",
+     "segments": 10
+    },
+    {
+     "file": "0435.json",
+     "ref": "s440",
+     "title": "(ON HER MOTHER'S DEATH--HAPPINESS OF HEAVEN, AND BLESSEDNESS OF DYING IN THE LORD.)",
+     "segments": 9
+    },
+    {
+     "file": "0436.json",
+     "ref": "s441",
+     "title": "(GLOOMY PROSPECTS FOR THE BACKSLIDING CHURCH--THE MISUNDERSTANDINGS OF BELIEVERS CAUSE OF GREAT GRIEF--THE DAY OF CHRIST.)",
+     "segments": 7
+    },
+    {
+     "file": "0437.json",
+     "ref": "s442",
+     "title": "(CHRIST'S WAY OF AFFLICTING THE BEST--OBLIGATION TO FREE GRACE--ENDURING THE CROSS.)",
+     "segments": 7
+    },
+    {
+     "file": "0438.json",
+     "ref": "s443",
+     "title": "(PROSPECT OF DEATH--CHRIST THE TRUE SUPPORT IN DEATH.)",
+     "segments": 15
+    },
+    {
+     "file": "0439.json",
+     "ref": "s444",
+     "title": "(ON THE DEATH OF A CHILD--GOD AFFLICTS IN ORDER TO SAVE US FROM THE WORLD.)",
+     "segments": 9
+    },
+    {
+     "file": "0440.json",
+     "ref": "s445",
+     "title": "(REGARDING SOME MISUNDERSTANDING.)",
+     "segments": 6
+    },
+    {
+     "file": "0441.json",
+     "ref": "s446",
+     "title": "(SINGLENESS OF AIM--JUDGMENT IN REGARD TO ADVERSARIES.)",
+     "segments": 8
+    },
+    {
+     "file": "0442.json",
+     "ref": "s447",
+     "title": "(COURAGE IN DAYS OF REBUKE--GOD'S ARRANGEMENTS ALL WISE.)",
+     "segments": 9
+    },
+    {
+     "file": "0443.json",
+     "ref": "s448",
+     "title": "(DEPRESSION UNDER DARK TRIALS--DANGER OF COMPLIANCE.)",
+     "segments": 5
+    },
+    {
+     "file": "0444.json",
+     "ref": "s449",
+     "title": "ST. ANDREWS.",
+     "segments": 1
+    },
+    {
+     "file": "0445.json",
+     "ref": "s450",
+     "title": "(COURAGE IN THE LORD'S CAUSE--DUTY IN REGARD TO PROVIDENCE TO BE OBSERVED--SAFETY IN THIS.)",
+     "segments": 9
+    },
+    {
+     "file": "0446.json",
+     "ref": "s451",
+     "title": "(CHRISTS CAUSE DESERVES SERVICE AND SUFFERING FROM US.)",
+     "segments": 20
+    },
+    {
+     "file": "0447.json",
+     "ref": "s452",
+     "title": "(COMFORT UNDER THE CLOUD HANGING OVER SCOTLAND--DISSUASION FROM LEAVING SCOTLAND.)",
+     "segments": 7
+    },
+    {
+     "file": "0448.json",
+     "ref": "s453",
+     "title": "(DIFFERENCE BETWEEN WHAT IS MAN'S AND CHRIST'S, AND BETWEEN CHRIST HIMSELF AND HIS BLESSINGS.)",
+     "segments": 9
+    },
+    {
+     "file": "0449.json",
+     "ref": "s454",
+     "title": "(DUTY OF PREFERRING TO LIVE RATHER THAN DIE--WANT OF UNION IN THE JUDGMENTS OF THE GODLY.)",
+     "segments": 7
+    },
+    {
+     "file": "0450.json",
+     "ref": "s455",
+     "title": "(ENCOURAGING WORDS TO A SUFFERING BROTHER--WHY MEN SHRINK FROM CHRIST'S TESTIMONY.)",
+     "segments": 3
+    },
+    {
+     "file": "0451.json",
+     "ref": "s456",
+     "title": "(A WORD TO CHEER IN TIMES OF DARKNESS.)",
+     "segments": 8
+    },
+    {
+     "file": "0452.json",
+     "ref": "s457",
+     "title": "(EXHORTATION TO FOLLOW CHRIST FULLY WHEN OTHERS ARE COLD.)",
+     "segments": 9
+    },
+    {
+     "file": "0453.json",
+     "ref": "s458",
+     "title": "(REGARDING A LETTER OF EXPLANATION.)",
+     "segments": 6
+    },
+    {
+     "file": "0454.json",
+     "ref": "s459",
+     "title": "(PRESENT NEED HELPED BY PAST EXPERIENCE.)",
+     "segments": 7
+    },
+    {
+     "file": "0455.json",
+     "ref": "s460",
+     "title": "(DEADNESS--HOPES OF REFRESHMENT--DISTANCE FROM GOD--NEARNESS DELIGHTED IN.)",
+     "segments": 12
+    },
+    {
+     "file": "0456.json",
+     "ref": "s461",
+     "title": "(THE STATE OF THE LAND.)",
+     "segments": 7
+    },
+    {
+     "file": "0457.json",
+     "ref": "s462",
+     "title": "(EXCUSE FOR ABSENCE FROM DUTY.)",
+     "segments": 5
+    },
+    {
+     "file": "0458.json",
+     "ref": "s463",
+     "title": "(THOUGHTS FOR A TIME OF SICKNESS, ABOUT THE LIFE TO COME.)",
+     "segments": 4
+    },
+    {
+     "file": "0459.json",
+     "ref": "s464",
+     "title": "ST. ANDREWS.",
+     "segments": 2
+    },
+    {
+     "file": "0460.json",
+     "ref": "s465",
+     "title": "(VIEWS OF THE PRESBYTERIANS AS TO ALLEGIANCE TO THE PROTECTOR.)",
+     "segments": 4
+    },
+    {
+     "file": "0461.json",
+     "ref": "s466",
+     "title": "(UNKINDNESS OF THE CREATURE--GOD'S SOVEREIGNTY IN PERMITTING HIS CHILDREN TO BE INJURED BY MEN.)",
+     "segments": 7
+    },
+    {
+     "file": "0462.json",
+     "ref": "s467",
+     "title": "(GOD'S DEALINGS WITH THE LAND.)",
+     "segments": 6
+    },
+    {
+     "file": "0463.json",
+     "ref": "s468",
+     "title": "(PROTESTERS' TOLERATION.)",
+     "segments": 5
+    },
+    {
+     "file": "0464.json",
+     "ref": "s469",
+     "title": "(GLOOMY TIMES--MEANS OF PROMOTING GODLINESS.)",
+     "segments": 4
+    },
+    {
+     "file": "0465.json",
+     "ref": "s470",
+     "title": "ST. ANDREWS.",
+     "segments": 2
+    },
+    {
+     "file": "0466.json",
+     "ref": "s471",
+     "title": "(MAN'S WAYS NOT GOD'S WAYS.)",
+     "segments": 6
+    },
+    {
+     "file": "0467.json",
+     "ref": "s472",
+     "title": "(ADHERENCE TO THE TESTIMONY AGAINST TOLERATION.)",
+     "segments": 6
+    },
+    {
+     "file": "0468.json",
+     "ref": "s473",
+     "title": "(TRIALS--DEADNESS OF SPIRIT--DANGER OF FALSE SECURITY.)",
+     "segments": 8
+    },
+    {
+     "file": "0469.json",
+     "ref": "s474",
+     "title": "(PREVAILING DECLENSION, DECAY, AND INDIFFERENCE TO GOD'S DEALINGS--THINGS FUTURE.)",
+     "segments": 7
+    },
+    {
+     "file": "0470.json",
+     "ref": "s475",
+     "title": "(UNION--HUMILIATION--CHOICE OF A PROFESSOR.)",
+     "segments": 5
+    },
+    {
+     "file": "0471.json",
+     "ref": "s476",
+     "title": "(A SYNOD PROPOSAL FOR UNION--BRETHREN UNDER CENSURE.)",
+     "segments": 7
+    },
+    {
+     "file": "0472.json",
+     "ref": "s477",
+     "title": "(ON SUFFERING FOR CHRIST--GOD'S PRESENCE EVER WITH HIS PEOPLE--FIRMNESS AND CONSTANCY.)",
+     "segments": 7
+    },
+    {
+     "file": "0473.json",
+     "ref": "s478",
+     "title": "ST. ANDREWS, 1660.",
+     "segments": 9
+    },
+    {
+     "file": "0474.json",
+     "ref": "s479",
+     "title": "ST. ANDREWS, 1660.",
+     "segments": 14
+    },
+    {
+     "file": "0475.json",
+     "ref": "s480",
+     "title": "ST. ANDREWS, 1660.",
+     "segments": 2
+    },
+    {
+     "file": "0476.json",
+     "ref": "s481",
+     "title": "(GOD'S JUDGMENTS CALLING TO FLEE TO HIM--THE RESULT OF TIMID COMPLIANCE.)",
+     "segments": 6
+    },
+    {
+     "file": "0477.json",
+     "ref": "s482",
+     "title": "(NINE REASONS FOR RESIGNATION.)",
+     "segments": 16
+    },
+    {
+     "file": "0478.json",
+     "ref": "s483",
+     "title": "(STEDFAST THOUGH PERSECUTED--BLESSEDNESS OF MARTYRDOM.)",
+     "segments": 9
+    },
+    {
+     "file": "0479.json",
+     "ref": "s484",
+     "title": "(STEDFASTNESS TO PROTEST AGAINST PRELACY AND POPERY.)",
+     "segments": 8
+    },
+    {
+     "file": "0480.json",
+     "ref": "s485",
+     "title": "(SINFUL CONFORMITY AND SCHISMATIC DESIGNS REPROVED.)",
+     "segments": 7
+    },
+    {
+     "file": "0481.json",
+     "ref": "s486",
+     "title": "ST. ANDREWS.",
+     "segments": 1
+    },
+    {
+     "file": "0482.json",
+     "ref": "s487",
+     "title": "(PROPOSAL OF A SEASON OF PRAYER.)",
+     "segments": 7
+    },
+    {
+     "file": "0483.json",
+     "ref": "s488",
+     "title": "INDEX",
+     "segments": 1
+    },
+    {
+     "file": "0484.json",
+     "ref": "s489",
+     "title": "THE CHIEF PLACES AND INDIVIDUALS REFERRED TO IN THE LETTERS.",
+     "segments": 56
+    },
+    {
+     "file": "0485.json",
+     "ref": "s490",
+     "title": "B., 53. R. B., 246.",
+     "segments": 325
+    },
+    {
+     "file": "0486.json",
+     "ref": "s491",
+     "title": "INDEX OF SPECIAL SUBJECTS.",
+     "segments": 130
+    },
+    {
+     "file": "0487.json",
+     "ref": "s492",
+     "title": "GLOSSARY.",
+     "segments": 691
+    },
+    {
+     "file": "0488.json",
+     "ref": "s493",
+     "title": "NOTE.",
+     "segments": 1
+    },
+    {
+     "file": "0489.json",
+     "ref": "s495",
+     "title": "EDITIONS OF RUTHERFORD'S LETTERS.",
+     "segments": 4
+    },
+    {
+     "file": "0490.json",
+     "ref": "s496",
+     "title": "JOSHUA REDIVIVUS.",
+     "segments": 42
+    },
+    {
+     "file": "0491.json",
+     "ref": "s497",
+     "title": "SAMPLE OF THE OLD ORTHOGRAPHY.",
+     "segments": 5
+    },
+    {
+     "file": "0492.json",
+     "ref": "s498",
+     "title": "LAST WORDS.",
+     "segments": 20
+    },
+    {
+     "file": "0493.json",
+     "ref": "s499",
+     "title": "MORRISON AND GIBB, PRINTERS, EDINBURGH",
+     "segments": 1
+    },
+    {
+     "file": "0494.json",
+     "ref": "s500",
+     "title": "LIBRARY EDITION OF M'CHEYNE'S 'MEMOIR.'",
+     "segments": 1
+    },
+    {
+     "file": "0495.json",
+     "ref": "s501",
+     "title": "MEMOIR AND REMAINS",
+     "segments": 2
+    },
+    {
+     "file": "0496.json",
+     "ref": "s503",
+     "title": "BY REV. ANDREW A. BONAR, D.D.",
+     "segments": 5
+    },
+    {
+     "file": "0497.json",
+     "ref": "s504",
+     "title": "A CLOUD OF WITNESSES.",
+     "segments": 2
+    },
+    {
+     "file": "0498.json",
+     "ref": "s505",
+     "title": "EDINBURGH & LONDON: OLIPHANT ANDERSON & FERRIER.",
+     "segments": 5
+    },
+    {
+     "file": "0499.json",
+     "ref": "s506",
+     "title": "FIRST SERIES.",
+     "segments": 1
+    },
+    {
+     "file": "0500.json",
+     "ref": "s507",
+     "title": "=BUNYAN CHARACTERS=",
+     "segments": 1
+    },
+    {
+     "file": "0501.json",
+     "ref": "s508",
+     "title": "CONTENTS.",
+     "segments": 3
+    }
+   ]
+  }
+ ]
+}

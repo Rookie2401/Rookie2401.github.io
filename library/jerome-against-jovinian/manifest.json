@@ -1,0 +1,47 @@
+{
+ "workId": "jerome-against-jovinian",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "jerome-against-jovinian-npnf2-fremantle-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Against Jovinianus, in A Select Library of Nicene and Post-Nicene Fathers, series II, vol. 6 (Jerome: Letters and Select Works), Treatises, trans. W. H. Fremantle, with G. Lewis and W. G. Martley (New York: The Christian Literature Company, 1893). Wikisource contributors, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_VI/Treatises/Against_Jovinianus",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 405226,
+   "sourceSha256": "9e718fc343692ceba276363922e8d3f74ceb8ca609066394de24a15e5f908dc4",
+   "leftOut": {
+    "note": 690
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VI/Treatises/Against Jovinianus/Book I",
+     "bytes": 238808,
+     "sha256": "9941e9024c6f2122ab5245f4a30444b5454967e6f81168e97640581c89b1821f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VI/Treatises/Against Jovinianus/Book II",
+     "bytes": 166418,
+     "sha256": "1e9af0c571feb738a30ceca0cd78de98c4332dd851981ead94523b4fc31ed7ed"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 65
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 52
+    }
+   ]
+  }
+ ]
+}

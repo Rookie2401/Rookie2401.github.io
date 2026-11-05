@@ -1,0 +1,52 @@
+{
+ "workId": "masoretic-hab",
+ "editions": [
+  {
+   "editionId": "wlc-oshb-hab",
+   "language": "he",
+   "variety": "he-bib",
+   "textSource": "self",
+   "analysis": {
+    "id": "oshb@2019.01.13",
+    "kind": "verified-dataset",
+    "status": "verified"
+   },
+   "credit": "Open Scriptures Hebrew Bible (OSHB), morphology and lemmas by the OSHB project; text: Westminster Leningrad Codex (WLC)",
+   "licence": "OSHB lemma and morphology: CC BY 4.0; WLC text: public domain; headwords and glosses: Open Scriptures Lexical Index (CC BY 4.0), BDB (public domain), Strong's (public domain, JSON CC BY-SA), curated glosses of the Biblia build",
+   "source": "biblia-v0/data/oshb/Hab.xml",
+   "sourceUrl": "https://github.com/openscriptures/morphhb",
+   "version": "oshb 2018.1.5 (WLC version 4.20.); newest file 2019.01.13",
+   "coverage": {
+    "tokens": 671,
+    "withLemma": 671,
+    "withMorphology": 596,
+    "verified": 671,
+    "ambiguous": 0,
+    "unanalysed": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "HAB.1",
+     "title": "Habakkuk 1",
+     "segments": 17,
+     "tokens": 197
+    },
+    {
+     "file": "0002.json",
+     "ref": "HAB.2",
+     "title": "Habakkuk 2",
+     "segments": 20,
+     "tokens": 262
+    },
+    {
+     "file": "0003.json",
+     "ref": "HAB.3",
+     "title": "Habakkuk 3",
+     "segments": 19,
+     "tokens": 212
+    }
+   ]
+  }
+ ]
+}

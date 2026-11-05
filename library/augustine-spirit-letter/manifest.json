@@ -1,0 +1,1218 @@
+{
+ "workId": "augustine-spirit-letter",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "spiritu-littera-urba-zycha-csel60",
+   "role": "original",
+   "language": "latin",
+   "credit": "De spiritu et littera, in Sancti Aureli Augustini Opera, Sectio VIII, Pars I (CSEL 60), ed. Karl F. Urba; Joseph Zycha (Prague; Vienna; Leipzig: F. Tempsky; G. Freytag, 1913). Open Greek and Latin / University of Leipzig (csel-dev): Latin text of Augustine, De spiritu et littera, ed. K. F. Urba and J. Zycha (CSEL 60, 1913), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa062/stoa0040.stoa062.opp-lat1.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 271349,
+   "sourceSha256": "59522f67942b7286485e3893f76b320c704d9e12a61156efb8c35ce57537b2cd",
+   "leftOut": {
+    "milestone": 36,
+    "lb": 1957,
+    "note": 177,
+    "pb": 75
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 17914,
+    "garbledPerThousand": 0.1,
+    "joinedPerThousand": 0,
+    "numbersPerThousand": 1.1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "45",
+     "title": "45",
+     "segments": 1
+    },
+    {
+     "file": "0046.json",
+     "ref": "46",
+     "title": "46",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "47",
+     "title": "47",
+     "segments": 1
+    },
+    {
+     "file": "0048.json",
+     "ref": "48",
+     "title": "48",
+     "segments": 1
+    },
+    {
+     "file": "0049.json",
+     "ref": "49",
+     "title": "49",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "50",
+     "title": "50",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "51",
+     "title": "51",
+     "segments": 1
+    },
+    {
+     "file": "0052.json",
+     "ref": "52",
+     "title": "52",
+     "segments": 1
+    },
+    {
+     "file": "0053.json",
+     "ref": "53",
+     "title": "53",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "54",
+     "title": "54",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "55",
+     "title": "55",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "56",
+     "title": "56",
+     "segments": 1
+    },
+    {
+     "file": "0057.json",
+     "ref": "57",
+     "title": "57",
+     "segments": 1
+    },
+    {
+     "file": "0058.json",
+     "ref": "58",
+     "title": "58",
+     "segments": 1
+    },
+    {
+     "file": "0059.json",
+     "ref": "59",
+     "title": "59",
+     "segments": 1
+    },
+    {
+     "file": "0060.json",
+     "ref": "60",
+     "title": "60",
+     "segments": 1
+    },
+    {
+     "file": "0061.json",
+     "ref": "61",
+     "title": "61",
+     "segments": 1
+    },
+    {
+     "file": "0062.json",
+     "ref": "62",
+     "title": "62",
+     "segments": 1
+    },
+    {
+     "file": "0063.json",
+     "ref": "63",
+     "title": "63",
+     "segments": 1
+    },
+    {
+     "file": "0064.json",
+     "ref": "64",
+     "title": "64",
+     "segments": 1
+    },
+    {
+     "file": "0065.json",
+     "ref": "65",
+     "title": "65",
+     "segments": 1
+    },
+    {
+     "file": "0066.json",
+     "ref": "66",
+     "title": "66",
+     "segments": 1
+    },
+    {
+     "file": "0067.json",
+     "ref": "retractationes",
+     "title": "AVGVSTINI RETRACTATIONVM LIB. II. CAP. LXIII (XXXVII)",
+     "segments": 4
+    }
+   ]
+  },
+  {
+   "editionId": "spirit-letter-holmes-npnf5-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "On the Spirit and the Letter, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. V: Saint Augustin: Anti-Pelagian Writings (ed. Philip Schaff; New York, Christian Literature Co., 1887); copy on English Wikisource, trans. Peter Holmes (revised by B. B. Warfield) (New York: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_V/On_the_Spirit_and_the_Letter",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 222978,
+   "sourceSha256": "75608391707022ecb37527b0a114c3aa289bad872033a9631c7848abe7005468",
+   "leftOut": {
+    "note": 412
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Argument",
+     "bytes": 2191,
+     "sha256": "8438fda6ed3d1d72cc7866e9950fe478305f05bb2ee30ea542fbd9c66a045a0c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 1",
+     "bytes": 2875,
+     "sha256": "ba7ee1abfbdcf996ebdb069ee0b597d8662bca176f1390e367768ef1381a1484"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 10",
+     "bytes": 2227,
+     "sha256": "6784221aee22b64c5d40bd9b4b45713ecbb4ecce227c8366a0798873019ddfcb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 11",
+     "bytes": 3310,
+     "sha256": "cf14bf0d3d1d4e229512985cf4274bc75acf0e4d85c0a59b7a64fcfdd1f331f9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 12",
+     "bytes": 2532,
+     "sha256": "bda91a8a2afa7a60a96b5cbdfde02bb80e6951a96e389b2e713326c6dec12cfa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 13",
+     "bytes": 4359,
+     "sha256": "2db00a2795d8396896ca9afe269049274f5ec8cee7af3de45e8e1899854398c1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 14",
+     "bytes": 2079,
+     "sha256": "f39ebe364827c5d9fc0b82532d147e141e7c22d1a1b1a1cf9856452c0165b995"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 15",
+     "bytes": 4567,
+     "sha256": "7654291f1190308ce44a6745c47912be69cdecbc417826621522cc38f3aa0e4d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 16",
+     "bytes": 4213,
+     "sha256": "c1d5a43aaa7e5f9d5f118ca1f59cfc8bed5be6514b80bbf3798ed1218b67d65c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 17",
+     "bytes": 2419,
+     "sha256": "867f1c86cb03f3016f73cc5adccc8fee092c103c658f869fb73467fb4e5dcd05"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 18",
+     "bytes": 4075,
+     "sha256": "73b1f0a996674af29b47937e8e4d8ea5eb0dc3bf091f471428e28833649d9a4c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 19",
+     "bytes": 3918,
+     "sha256": "28d535c422d50672edb7d4114464cee8e714fd56bb216461c81b4df8818d529e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 2",
+     "bytes": 1579,
+     "sha256": "5698f80d79406e55f63cfe7130b555a9d4b8c01b11f7df46d8027f38d25b1b05"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 20",
+     "bytes": 2215,
+     "sha256": "6b16c52ce2f3f0987a0d81f633904d17c0edd24be61aaca928a3f4c611a05aa3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 21",
+     "bytes": 5023,
+     "sha256": "6a1dd25449f126c43779e183bf93a3837a347076f9be1ad792bb648382d7459c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 22",
+     "bytes": 3707,
+     "sha256": "c7d45d5c37505200aafee903ed7df3cd49398d272e224b2552b96ca3adca5ab6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 23",
+     "bytes": 2980,
+     "sha256": "850d93ad983e016b2e74c530ad157ef4c7c3787630ec40172a3802d025dbb179"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 24",
+     "bytes": 3960,
+     "sha256": "b83f7e1a2962aaf9aa2551d5d19e77bfc25e14cdfca863a170dec9ce7f8ce71f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 25",
+     "bytes": 3431,
+     "sha256": "b1b82161228b8e415d437fe3825fadfd091baa87db31173bac725a5938d475a1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 26",
+     "bytes": 1989,
+     "sha256": "ee0a5a785a370c7473743aca48f13639e301ba311791d8df17e82a078b9bfc5c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 27",
+     "bytes": 2299,
+     "sha256": "8337f19b83b46922fc5354954854572bbe1f92a4c7eb365db32a4bfba68fd6a4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 28",
+     "bytes": 2259,
+     "sha256": "ffec6720a6dd69f2ad857d335556ce3cc43a6d1ed70fb29bf1a4a80386f13522"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 29",
+     "bytes": 2439,
+     "sha256": "3a68b8ec59b5efd68080aa731c4fe8bd487012f14e75a319beeb86e364ec0b17"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 3",
+     "bytes": 2250,
+     "sha256": "2419f187584eaf06a49c45b15132234c4dea839b0c586787c2c388b48f8a20b1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 30",
+     "bytes": 2737,
+     "sha256": "ed9d0c568c34a6963d2e9e180fd035e43f4e23a510fe6e9520194dd12fd48edc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 31",
+     "bytes": 4075,
+     "sha256": "bbcbb3080e60a71ef904b4647c3bbd3c8e6d29e578e521c4867b1469ed43ccf6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 32",
+     "bytes": 1545,
+     "sha256": "fdee5874114d464e513a852cbd37dc75b4115e29805abf1ec842e96351071989"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 33",
+     "bytes": 2221,
+     "sha256": "79134dd22c3888c3ba1a954c7df5283341c9664ee4dbc4cf4dc3dbca3eaac06b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 34",
+     "bytes": 3568,
+     "sha256": "0078e4251ca9a98163e7b20fe24ea349bd0997c035c6f9ab66a43a632bbf0771"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 35",
+     "bytes": 2506,
+     "sha256": "f6cc1fcc4f2ab5ca56ac9b940655df11c0abe9be816fb04a79517a9d1a7d52a4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 36",
+     "bytes": 2680,
+     "sha256": "d8efdde2352aa452278a8996eae1174482e689e72caf4c676d10c7023a04b844"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 37",
+     "bytes": 2786,
+     "sha256": "d9214d21141d640feddd8b7508da0572c05d64a55af4a4f1d7f7bf20365c64fa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 38",
+     "bytes": 1515,
+     "sha256": "f15bae34e57d536a15f3586e6cda57a41b2371942dba79e7c0c5391bad6e609e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 39",
+     "bytes": 2622,
+     "sha256": "bcfaf5231049419cb250f5e1387b3c5ee88b4c2f1ad1569948befb92ea6a520b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 4",
+     "bytes": 1877,
+     "sha256": "c1334e95dc4d5e22c6c075d95ff4739945e4c17227a7c61783ec0f2d9b6c6832"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 40",
+     "bytes": 4103,
+     "sha256": "4148d97211b22ec353871834d674369d8ef7132c632a719344f116fe2998a78f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 41",
+     "bytes": 4194,
+     "sha256": "7c4fce6f0e8b25b18cd0e7172dad5ddd43e499627cfec457f1e4700450c14802"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 42",
+     "bytes": 3403,
+     "sha256": "33c6f2a1df2cdc8b859f90090bdeab5256876430cec764b2769edae87b2ca592"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 43",
+     "bytes": 2123,
+     "sha256": "c59e0681d9c699e1644e8727e24de7f38fabc66553fc4aa37acdb316f89b3099"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 44",
+     "bytes": 4245,
+     "sha256": "4b5cb4947c5568a46d95f7e75e06919f3f29ad4c4c415098af8875eb036be2a5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 45",
+     "bytes": 3835,
+     "sha256": "9f8a28b6b544704aa1670789b351c045968d052e518c317e29375a153328b9eb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 46",
+     "bytes": 3613,
+     "sha256": "d7d327de2bf9b7de61476e9a6d6112abb1c3f0803fbae43e8e44682463f9994a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 47",
+     "bytes": 2387,
+     "sha256": "0787013a0f18502d00aa0f775e11bd64ab5a504d16a63eef4167ff1274ebc7a1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 48",
+     "bytes": 5404,
+     "sha256": "e105a34c25f626aa00b6faee1a892c3121a090d3e396f323e159b73fc57daca8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 49",
+     "bytes": 3203,
+     "sha256": "c167ec45b6bbf5a83c60cc7a22fae7c8cd42123495f0d55fdc9596f8b4522670"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 5",
+     "bytes": 2113,
+     "sha256": "c0a3f82655ba0f48449d951d9b26dd97713d0cc5a9cfa45f1669ca936805d138"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 50",
+     "bytes": 5531,
+     "sha256": "0950fb5e995d8ddd480f6b56991e8967682fbea6be53dcb3c959bd5bf62a1ee8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 51",
+     "bytes": 3735,
+     "sha256": "34e5d85b2cfc913198fb4ddfa78dc3604a19279adc42814a7f49bff2c02cde77"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 52",
+     "bytes": 3188,
+     "sha256": "c1a5858359a75be3a694b31f7a5e5cbd0d585e7dbb16dc447a29781332fc05f1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 53",
+     "bytes": 3679,
+     "sha256": "3dd4d5fb1d4131ba70744c7c366bea48c9348c9bd019c01836982d2932b8b5c4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 54",
+     "bytes": 4421,
+     "sha256": "4399a12a6ba34bc73f839fdb84fb08e714447fbd0ab19a5560c55a74107e3523"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 55",
+     "bytes": 1983,
+     "sha256": "e072c5c034353bc55d0ecd64d64c8b48f43ebafb3dbcaaa3d8fb0b3e0d1fdef2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 56",
+     "bytes": 6892,
+     "sha256": "5802cf00eba1d669923617cb89d1125a19abe1ee9ee622bfecd5224b06a14726"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 57",
+     "bytes": 2484,
+     "sha256": "df858f0c688960e19dd0c7e927847122b276ac3231bfa2f43b15b3c09a219374"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 58",
+     "bytes": 3803,
+     "sha256": "8ada31044a74e3c5ebb6ff2e3ddc0c143643983c520df98ba184f92fa155c037"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 59",
+     "bytes": 5375,
+     "sha256": "f3dc75b1340c5fa124754ee462c4850c728323aae928fdbf067e59c9548a828c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 6",
+     "bytes": 3655,
+     "sha256": "fbe89a136d0f5c96525745650085291343a58b8b8acdf5a1f9eb69c1950b1a95"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 60",
+     "bytes": 3330,
+     "sha256": "d864bcf0d122284c634464620c363f262f29ab9b726f647c01e5f40baf9e588c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 61",
+     "bytes": 1638,
+     "sha256": "8b254e2e4bb92cd7478592d79d1d8e225527c3eefe9b57c68d91d732d8de3235"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 62",
+     "bytes": 3820,
+     "sha256": "0abf39f7a353aaa5bc93afce0ef256bcc9281482d490fa5eb588f0dabd6da0dc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 63",
+     "bytes": 3257,
+     "sha256": "ac0b0755a810294d6e305103c950c87324b4e9e7857b4c4ae4ec165a118cc0b4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 64",
+     "bytes": 4678,
+     "sha256": "1b2d34acf31bf6a1482e85014f565289b4447a0b3f5ebf9d4eb1ffd35d18bed7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 65",
+     "bytes": 5851,
+     "sha256": "cc6a0f4137d5105de39fb30aeb3b4b8bc8827f637ebfc0814c3d5f4f8bd697db"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 66",
+     "bytes": 3617,
+     "sha256": "00b1d09ad71dc7a706b62f2ca5d2c99d148994f22c7bf0b3483b1c9c6b6fcf8f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 7",
+     "bytes": 3353,
+     "sha256": "a42335066f63656fcb094e8482e3529faf49bbc430b94d4b7b056e9dcd572ce3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 8",
+     "bytes": 1326,
+     "sha256": "60130f726e10ee7236b0ab1c04a7a5276990b779595235afb47cba1661ecddf9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Chapter 9",
+     "bytes": 3332,
+     "sha256": "ad3bd0ae233d89e20b9b87f1ee03ddff7ee6ec1377605da7ffd0a4a20f57721d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Extract from Augustin's Retractations",
+     "bytes": 3627,
+     "sha256": "b4c67ce9a878e9ef52a7949635ad4bdc96b28372f8cfb44c4b4b7ac76b09e716"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Spirit and the Letter/Title Page",
+     "bytes": 752,
+     "sha256": "d4628ab5785633221b91ff0d026989b4aea73e56096fd93bdf7271e89788979b"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 5
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "45",
+     "title": "45",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "46",
+     "title": "46",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "47",
+     "title": "47",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "48",
+     "title": "48",
+     "segments": 2
+    },
+    {
+     "file": "0050.json",
+     "ref": "49",
+     "title": "49",
+     "segments": 2
+    },
+    {
+     "file": "0051.json",
+     "ref": "50",
+     "title": "50",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "51",
+     "title": "51",
+     "segments": 2
+    },
+    {
+     "file": "0053.json",
+     "ref": "52",
+     "title": "52",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "53",
+     "title": "53",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "54",
+     "title": "54",
+     "segments": 2
+    },
+    {
+     "file": "0056.json",
+     "ref": "55",
+     "title": "55",
+     "segments": 2
+    },
+    {
+     "file": "0057.json",
+     "ref": "56",
+     "title": "56",
+     "segments": 2
+    },
+    {
+     "file": "0058.json",
+     "ref": "57",
+     "title": "57",
+     "segments": 2
+    },
+    {
+     "file": "0059.json",
+     "ref": "58",
+     "title": "58",
+     "segments": 2
+    },
+    {
+     "file": "0060.json",
+     "ref": "59",
+     "title": "59",
+     "segments": 2
+    },
+    {
+     "file": "0061.json",
+     "ref": "60",
+     "title": "60",
+     "segments": 2
+    },
+    {
+     "file": "0062.json",
+     "ref": "61",
+     "title": "61",
+     "segments": 2
+    },
+    {
+     "file": "0063.json",
+     "ref": "62",
+     "title": "62",
+     "segments": 2
+    },
+    {
+     "file": "0064.json",
+     "ref": "63",
+     "title": "63",
+     "segments": 2
+    },
+    {
+     "file": "0065.json",
+     "ref": "64",
+     "title": "64",
+     "segments": 2
+    },
+    {
+     "file": "0066.json",
+     "ref": "65",
+     "title": "65",
+     "segments": 2
+    },
+    {
+     "file": "0067.json",
+     "ref": "66",
+     "title": "66",
+     "segments": 2
+    },
+    {
+     "file": "0068.json",
+     "ref": "p2",
+     "title": "p2",
+     "segments": 5
+    },
+    {
+     "file": "0069.json",
+     "ref": "p3",
+     "title": "p3",
+     "segments": 1
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 66,
+  "onlyInOriginal": 1,
+  "onlyInEnglish": 3
+ }
+}

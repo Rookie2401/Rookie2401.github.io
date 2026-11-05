@@ -1,0 +1,610 @@
+{
+ "workId": "perkins-art-of-prophesying",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "perkins-prophetica-1592-tcp-a09452",
+   "role": "original",
+   "language": "latin",
+   "credit": "Prophetica, sive, De sacra et unica ratione concionandi tractatus, in EEBO-TCP text A09452 (STC STC 19735; STC) (Cambridge England: Ex officina Johannis Legatt, celeberrimæ Academiæ Cantabrigiensis typographi, 1592). Transcription: Text Creation Partnership (EEBO-TCP Phase I), keyboarded from images of the original (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A09452/master/A09452.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 260950,
+   "sourceSha256": "553a44160362fc295539b2aeeb713bbd8fdff93582ff3a74d54fb2bcf12291de",
+   "leftOut": {
+    "pb": 114,
+    "note": 4,
+    "unread": 300
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 16916,
+    "unreadPerThousand": 17.7
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "PROPHETICA, SIVE DE SACRA ET vnica ratione Concionandì TRACTATVS.",
+     "segments": 3
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "CAP. I.",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "CAP. II. DE PRADICATIone verbi.",
+     "segments": 3
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.3",
+     "title": "CAP. III. De verbo Dei.",
+     "segments": 47
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.4",
+     "title": "FIDELIBVS MJNJSTRIS euangelij & omnibus THEOLOGIAE STUDIOSIS, S. D.",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.5.0",
+     "title": "CAP. IIII. DE INTERPRETAtione Scripturarum.",
+     "segments": 15
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.5.1",
+     "title": "1.5.1",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.5.2",
+     "title": "II. Diacriticae, vt loci, & tempora, & personae invicem distinguantur.",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.5.3",
+     "title": "III. Circumscriptivae, quae sensum & sententiam loci verè restringunt, prout fuit mens Spiritus sancti.",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.5.4",
+     "title": "IIII. Applicatoriae, quibus accommodatur typus ad veritatem; generale ad certam speciem, vel contrà.",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.5.5",
+     "title": "V. Brevitatis gratia quaedam omittuntur: vel quia rei praesenti non conveniunt.",
+     "segments": 11
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.6.0",
+     "title": "CAP. II. DE MODIS INterpretandi.",
+     "segments": 7
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.6.1",
+     "title": "Exemplum.",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.6.2",
+     "title": "Datus sensus.",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.6.3",
+     "title": "Incongruentia dati sensus.",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.6.4",
+     "title": "Novus sensus.",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.6.5",
+     "title": "Novi sensus corgruentia.",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.6.6",
+     "title": "Cedent armatogae, concedat laurea linguae.",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.6.7",
+     "title": "I. Ellipsis cujusque supplementum analogiae fidei, circumstantiis loci eiusue verbis congruum, dato loco congruum est.",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.6.8",
+     "title": "II. Si dati loci datus alter sensus, habet mutationem nominis pro nomine, loci verba tropum continent.",
+     "segments": 15
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.6.9",
+     "title": "III. Vocum Grammaticae & Rhetori • ae proprietates ipsis vocabulis variè consignificant. vt,",
+     "segments": 14
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.6.10.0",
+     "title": "IIII. Si dissimilarium • ocorum oppositio, doceatur esse, vel non eiusdem rei, sed nominis tantùm, vel non secundum idem, vel non ad idem, vel non eodem modo, vel non eodem tempore, conciliatio facta ",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.6.10.1",
+     "title": "Conciliatio.",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.6.10.2",
+     "title": "Conciliatio.",
+     "segments": 11
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.6.10.3",
+     "title": "Conciliatio.",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.6.10.4",
+     "title": "Conciliatio.",
+     "segments": 5
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.6.10.5",
+     "title": "Conciliatio.",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.6.10.6",
+     "title": "Conciliatio.",
+     "segments": 4
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.6.10.7",
+     "title": "Conciliatio.",
+     "segments": 3
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.6.10.8",
+     "title": "Conciliatio.",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.6.10.9",
+     "title": "Conciliatio.",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.6.11",
+     "title": "V.",
+     "segments": 3
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.7",
+     "title": "CAP. VI. DE ORTHOTOMIA.",
+     "segments": 16
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.8.0",
+     "title": "CAP. 7. DE APPLICATIOnis modis.",
+     "segments": 6
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.8.1",
+     "title": "I. Infideles qui & ignari & indociles.",
+     "segments": 4
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.8.2",
+     "title": "II. Dociles sed ignari.",
+     "segments": 7
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.8.3",
+     "title": "III. Scientes non humiliati.",
+     "segments": 5
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.8.4",
+     "title": "IIII. Humiliati •",
+     "segments": 3
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.8.5",
+     "title": "V. Credentes.",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.8.6",
+     "title": "VI. Lapsi.",
+     "segments": 15
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.8.7",
+     "title": "VII. Mixtus populus.",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.9.0",
+     "title": "CAP. VII. DE SPECIEBVS applicationis.",
+     "segments": 9
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.9.1",
+     "title": "Illyricus libr. de ratione cognoscendi S. litteras. Tract. 1.",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "1.9.2",
+     "title": "Hinc facile est, multiplicem doctrinam eruere; partim de confessione fidei; partim de providentia.",
+     "segments": 5
+    },
+    {
+     "file": "0045.json",
+     "ref": "1.10",
+     "title": "CAP. VIII. De Reminiscentia in concionando.",
+     "segments": 4
+    },
+    {
+     "file": "0046.json",
+     "ref": "1.11",
+     "title": "CAP. IX",
+     "segments": 20
+    },
+    {
+     "file": "0047.json",
+     "ref": "1.12",
+     "title": "CAP. X. DE CONCEPTIOne precum.",
+     "segments": 9
+    },
+    {
+     "file": "0048.json",
+     "ref": "1.end",
+     "title": "1.end",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "perkins-arte-of-prophecying-1607-tcp-a09449",
+   "role": "english",
+   "language": "english",
+   "credit": "The Arte of Prophecying, or, A treatise concerning the sacred and onely true manner and methode of preaching (translated by Thomas Tuke), in EEBO-TCP text A09449 (STC STC 19735.4; STC), trans. Thomas Tuke (Imprinted at London: By Felix Kyngston for E.E. and are to be sold in Pauls Church-yard at the signe of the Swan, 1607). Transcription: Text Creation Partnership (EEBO-TCP Phase I), keyboarded from images of the original (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A09449/master/A09449.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 286306,
+   "sourceSha256": "67c9d8515d6bc6a90b1887201f5eaa844920ac4f41b14d0ff6b7c6a5eee853e3",
+   "leftOut": {
+    "pb": 162,
+    "note": 87,
+    "unread": 41
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 27259,
+    "unreadPerThousand": 1.5
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "TO THE RIGHT WORSHIPFVLL SIR WILLIAM ARMIN Knight.",
+     "segments": 3
+    },
+    {
+     "file": "0002.json",
+     "ref": "front.2",
+     "title": "TO THE FAITHFVLL MINISTERS OF THE GOSPELL: AND to all that are desirous of, and doe labour for the knowledge of Holy learning.",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "front.3",
+     "title": "The Analysis of the whole booke.",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.1",
+     "title": "CHAP. 1.",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.2",
+     "title": "CHAP. II.",
+     "segments": 5
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.3",
+     "title": "CHAP. III.",
+     "segments": 101
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.4",
+     "title": "CHAP. IIII.",
+     "segments": 37
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.5.0",
+     "title": "CHAP. V.",
+     "segments": 39
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.5.1",
+     "title": "Consectary 1. The supply of euery word, which is wanting, is fitting for the place propounded, if it agree with the analogie (or squire) of faith, and with the circumstances and words of the same plac",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.5.2",
+     "title": "Consect. 2. If that other exposition giuen of the place propounded doe change one nowne (or name) for another, then the words of the place containe in them a trope, or berowed speech.",
+     "segments": 20
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.5.3",
+     "title": "Consect. 3. Grammaticall and Rhetoricall proprieties of words signifie diuersly with those words: As,",
+     "segments": 14
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.5.4.1",
+     "title": "1.5.4.1",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.5.4.2",
+     "title": "The Reconcilation.",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.5.4.3",
+     "title": "1.5.4.3",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.5.4.4",
+     "title": "The Reconciliation.",
+     "segments": 9
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.5.4.5",
+     "title": "1.5.4.5",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.5.4.6",
+     "title": "The Reconcilement.",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.5.4.7",
+     "title": "1.5.4.7",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.5.4.8",
+     "title": "The Reconcilement.",
+     "segments": 3
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.5.4.9",
+     "title": "1.5.4.9",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.5.4.10",
+     "title": "The Reconciliation.",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.5.4.11",
+     "title": "The Reconciliation.",
+     "segments": 4
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.5.4.12",
+     "title": "1.5.4.12",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.5.4.13",
+     "title": "The Reconciliation.",
+     "segments": 3
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.5.4.14",
+     "title": "1.5.4.14",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.5.4.15",
+     "title": "The Reconciliation.",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.5.4.16",
+     "title": "1.5.4.16",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.5.4.17",
+     "title": "The Reconciliation.",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.5.5",
+     "title": "Consect. 5. When the naturall sense of the place (propounded) is giuen by the fore-said helpes, a signification of a word signifying diuers things ( 〈 in non-Latin alphabet 〉) shall bee giuen, which i",
+     "segments": 3
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.5.6",
+     "title": "Consect. 6. If a word giuen in the Bible, whether it bee an Hebrew word or a Greeke, if first it do agree with Grammaticall construction, and with other approued copies: if also it doe agree in respec",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.6",
+     "title": "CHAP. VI.",
+     "segments": 19
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.7.0",
+     "title": "CHAP. VII.",
+     "segments": 7
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.7.1",
+     "title": "I. Vnbeleeuers who are both ignorant and vnteachable.",
+     "segments": 4
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.7.2",
+     "title": "II. Some are teachable, but yet ignorant.",
+     "segments": 11
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.7.3",
+     "title": "III. Some haue knowledge, but are not as yet humbled.",
+     "segments": 8
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.7.4",
+     "title": "IIII. Some are humbled.",
+     "segments": 3
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.7.5",
+     "title": "V. Some doe beleeue.",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.7.6",
+     "title": "VI. Some are fallen.",
+     "segments": 15
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.7.7",
+     "title": "VII. There is a mingled people.",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.8",
+     "title": "CHAP. VIII.",
+     "segments": 11
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.9",
+     "title": "CHAP. IX.",
+     "segments": 5
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.10",
+     "title": "CHAP. X.",
+     "segments": 20
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.11",
+     "title": "CHAP. XI.",
+     "segments": 12
+    },
+    {
+     "file": "0044.json",
+     "ref": "2",
+     "title": "THE ORDER AND SVMME of the sacred and only methode of Preaching.",
+     "segments": 9
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 3,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 0
+ }
+}

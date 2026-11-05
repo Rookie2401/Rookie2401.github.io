@@ -1,0 +1,4844 @@
+{
+ "workId": "cassian-institutes",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "cassian-institutes-petschenig-csel",
+   "role": "original",
+   "language": "latin",
+   "credit": "Institutiones, in Johannis Cassiani Opera, Pars I (Corpus Scriptorum Ecclesiasticorum Latinorum, vol. 17), ed. Michael Petschenig (Vienna: Gerold, 1888). University of Leipzig / Open Greek and Latin (csel-dev), Latin text of M. Petschenig's CSEL edition, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0076c/stoa002/stoa0076c.stoa002.opp-lat2.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 871308,
+   "sourceSha256": "6d03f79b95468fbbfe02fd435b7a4c31bdaa338c33553268ba031c1e62b6213e",
+   "leftOut": {
+    "lb": 5465,
+    "note": 412,
+    "pb": 228
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 47358,
+    "garbledPerThousand": 0.1,
+    "joinedPerThousand": 0.4,
+    "numbersPerThousand": 0.3
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "pr",
+     "title": "PRAEFATIO.",
+     "segments": 9
+    },
+    {
+     "file": "0002.json",
+     "ref": "u1",
+     "title": "LIBER PRIMUS.",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.1",
+     "title": "1.1",
+     "segments": 5
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.2",
+     "title": "1.2",
+     "segments": 4
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.3",
+     "title": "1.3",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.4",
+     "title": "1.4",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.5",
+     "title": "1.5",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.6",
+     "title": "1.6",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.7",
+     "title": "1.7",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.8",
+     "title": "1.8",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.9",
+     "title": "1.9",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.10",
+     "title": "1.10",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.11",
+     "title": "1.11",
+     "segments": 3
+    },
+    {
+     "file": "0014.json",
+     "ref": "u2",
+     "title": "LIBER SECUNDUS.",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "2.1",
+     "title": "2.1",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "2.2",
+     "title": "2.2",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "2.3",
+     "title": "2.3",
+     "segments": 5
+    },
+    {
+     "file": "0018.json",
+     "ref": "2.4",
+     "title": "2.4",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "2.5",
+     "title": "2.5",
+     "segments": 5
+    },
+    {
+     "file": "0020.json",
+     "ref": "2.6",
+     "title": "2.6",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "2.7",
+     "title": "2.7",
+     "segments": 3
+    },
+    {
+     "file": "0022.json",
+     "ref": "2.8",
+     "title": "2.8",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "2.9",
+     "title": "2.9",
+     "segments": 3
+    },
+    {
+     "file": "0024.json",
+     "ref": "2.10",
+     "title": "2.10",
+     "segments": 3
+    },
+    {
+     "file": "0025.json",
+     "ref": "2.11",
+     "title": "2.11",
+     "segments": 3
+    },
+    {
+     "file": "0026.json",
+     "ref": "2.12",
+     "title": "2.12",
+     "segments": 3
+    },
+    {
+     "file": "0027.json",
+     "ref": "2.13",
+     "title": "2.13",
+     "segments": 3
+    },
+    {
+     "file": "0028.json",
+     "ref": "2.14",
+     "title": "2.14",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "2.15",
+     "title": "2.15",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "2.16",
+     "title": "2.16",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "2.17",
+     "title": "2.17",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "u3",
+     "title": "LIBER TERTIUS.",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "3.1",
+     "title": "3.1",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "3.2",
+     "title": "3.2",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "3.3",
+     "title": "3.3",
+     "segments": 11
+    },
+    {
+     "file": "0036.json",
+     "ref": "3.4",
+     "title": "3.4",
+     "segments": 3
+    },
+    {
+     "file": "0037.json",
+     "ref": "3.5",
+     "title": "3.5",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "3.6",
+     "title": "3.6",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "3.7",
+     "title": "3.7",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "3.8",
+     "title": "3.8",
+     "segments": 4
+    },
+    {
+     "file": "0041.json",
+     "ref": "3.9",
+     "title": "3.9",
+     "segments": 3
+    },
+    {
+     "file": "0042.json",
+     "ref": "3.10",
+     "title": "3.10",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "3.11",
+     "title": "3.11",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "3.12",
+     "title": "3.12",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "u4",
+     "title": "LIBER QVARTUS.",
+     "segments": 1
+    },
+    {
+     "file": "0046.json",
+     "ref": "4.1",
+     "title": "4.1",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "4.2",
+     "title": "4.2",
+     "segments": 1
+    },
+    {
+     "file": "0048.json",
+     "ref": "4.3",
+     "title": "4.3",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "4.4",
+     "title": "4.4",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "4.5",
+     "title": "4.5",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "4.6",
+     "title": "4.6",
+     "segments": 1
+    },
+    {
+     "file": "0052.json",
+     "ref": "4.7",
+     "title": "4.7",
+     "segments": 1
+    },
+    {
+     "file": "0053.json",
+     "ref": "4.8",
+     "title": "4.8",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "4.9",
+     "title": "4.9",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "4.10",
+     "title": "4.10",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "4.11",
+     "title": "4.11",
+     "segments": 1
+    },
+    {
+     "file": "0057.json",
+     "ref": "4.12",
+     "title": "4.12",
+     "segments": 1
+    },
+    {
+     "file": "0058.json",
+     "ref": "4.13",
+     "title": "4.13",
+     "segments": 1
+    },
+    {
+     "file": "0059.json",
+     "ref": "4.14",
+     "title": "4.14",
+     "segments": 1
+    },
+    {
+     "file": "0060.json",
+     "ref": "4.15",
+     "title": "4.15",
+     "segments": 2
+    },
+    {
+     "file": "0061.json",
+     "ref": "4.16",
+     "title": "4.16",
+     "segments": 3
+    },
+    {
+     "file": "0062.json",
+     "ref": "4.17",
+     "title": "4.17",
+     "segments": 1
+    },
+    {
+     "file": "0063.json",
+     "ref": "4.18",
+     "title": "4.18",
+     "segments": 1
+    },
+    {
+     "file": "0064.json",
+     "ref": "4.19",
+     "title": "4.19",
+     "segments": 3
+    },
+    {
+     "file": "0065.json",
+     "ref": "4.20",
+     "title": "4.20",
+     "segments": 1
+    },
+    {
+     "file": "0066.json",
+     "ref": "4.21",
+     "title": "4.21",
+     "segments": 1
+    },
+    {
+     "file": "0067.json",
+     "ref": "4.22",
+     "title": "4.22",
+     "segments": 1
+    },
+    {
+     "file": "0068.json",
+     "ref": "4.23",
+     "title": "4.23",
+     "segments": 1
+    },
+    {
+     "file": "0069.json",
+     "ref": "4.24",
+     "title": "4.24",
+     "segments": 4
+    },
+    {
+     "file": "0070.json",
+     "ref": "4.25",
+     "title": "4.25",
+     "segments": 1
+    },
+    {
+     "file": "0071.json",
+     "ref": "4.26",
+     "title": "4.26",
+     "segments": 1
+    },
+    {
+     "file": "0072.json",
+     "ref": "4.27",
+     "title": "4.27",
+     "segments": 4
+    },
+    {
+     "file": "0073.json",
+     "ref": "4.28",
+     "title": "4.28",
+     "segments": 1
+    },
+    {
+     "file": "0074.json",
+     "ref": "4.29",
+     "title": "4.29",
+     "segments": 1
+    },
+    {
+     "file": "0075.json",
+     "ref": "4.30",
+     "title": "4.30",
+     "segments": 6
+    },
+    {
+     "file": "0076.json",
+     "ref": "4.31",
+     "title": "4.31",
+     "segments": 1
+    },
+    {
+     "file": "0077.json",
+     "ref": "4.32",
+     "title": "4.32",
+     "segments": 1
+    },
+    {
+     "file": "0078.json",
+     "ref": "4.33",
+     "title": "4.33",
+     "segments": 1
+    },
+    {
+     "file": "0079.json",
+     "ref": "4.34",
+     "title": "4.34",
+     "segments": 1
+    },
+    {
+     "file": "0080.json",
+     "ref": "4.35",
+     "title": "4.35",
+     "segments": 1
+    },
+    {
+     "file": "0081.json",
+     "ref": "4.36",
+     "title": "4.36",
+     "segments": 2
+    },
+    {
+     "file": "0082.json",
+     "ref": "4.37",
+     "title": "4.37",
+     "segments": 1
+    },
+    {
+     "file": "0083.json",
+     "ref": "4.38",
+     "title": "4.38",
+     "segments": 1
+    },
+    {
+     "file": "0084.json",
+     "ref": "4.39",
+     "title": "4.39",
+     "segments": 3
+    },
+    {
+     "file": "0085.json",
+     "ref": "4.40",
+     "title": "4.40",
+     "segments": 1
+    },
+    {
+     "file": "0086.json",
+     "ref": "4.41",
+     "title": "4.41",
+     "segments": 3
+    },
+    {
+     "file": "0087.json",
+     "ref": "4.42",
+     "title": "4.42",
+     "segments": 1
+    },
+    {
+     "file": "0088.json",
+     "ref": "4.43",
+     "title": "4.43",
+     "segments": 1
+    },
+    {
+     "file": "0089.json",
+     "ref": "u5",
+     "title": "LIBER QVINTUS.",
+     "segments": 1
+    },
+    {
+     "file": "0090.json",
+     "ref": "5.1",
+     "title": "5.1",
+     "segments": 1
+    },
+    {
+     "file": "0091.json",
+     "ref": "5.2",
+     "title": "5.2",
+     "segments": 3
+    },
+    {
+     "file": "0092.json",
+     "ref": "5.3",
+     "title": "5.3",
+     "segments": 1
+    },
+    {
+     "file": "0093.json",
+     "ref": "5.4",
+     "title": "5.4",
+     "segments": 4
+    },
+    {
+     "file": "0094.json",
+     "ref": "5.5",
+     "title": "5.5",
+     "segments": 2
+    },
+    {
+     "file": "0095.json",
+     "ref": "5.6",
+     "title": "5.6",
+     "segments": 1
+    },
+    {
+     "file": "0096.json",
+     "ref": "5.7",
+     "title": "5.7",
+     "segments": 1
+    },
+    {
+     "file": "0097.json",
+     "ref": "5.8",
+     "title": "5.8",
+     "segments": 1
+    },
+    {
+     "file": "0098.json",
+     "ref": "5.9",
+     "title": "5.9",
+     "segments": 1
+    },
+    {
+     "file": "0099.json",
+     "ref": "5.10",
+     "title": "5.10",
+     "segments": 1
+    },
+    {
+     "file": "0100.json",
+     "ref": "5.11",
+     "title": "5.11",
+     "segments": 2
+    },
+    {
+     "file": "0101.json",
+     "ref": "5.12",
+     "title": "5.12",
+     "segments": 2
+    },
+    {
+     "file": "0102.json",
+     "ref": "5.13",
+     "title": "5.13",
+     "segments": 1
+    },
+    {
+     "file": "0103.json",
+     "ref": "5.14",
+     "title": "5.14",
+     "segments": 3
+    },
+    {
+     "file": "0104.json",
+     "ref": "5.15",
+     "title": "5.15",
+     "segments": 1
+    },
+    {
+     "file": "0105.json",
+     "ref": "5.16",
+     "title": "5.16",
+     "segments": 2
+    },
+    {
+     "file": "0106.json",
+     "ref": "5.17",
+     "title": "5.17",
+     "segments": 3
+    },
+    {
+     "file": "0107.json",
+     "ref": "5.18",
+     "title": "5.18",
+     "segments": 2
+    },
+    {
+     "file": "0108.json",
+     "ref": "5.19",
+     "title": "5.19",
+     "segments": 2
+    },
+    {
+     "file": "0109.json",
+     "ref": "5.20",
+     "title": "5.20",
+     "segments": 1
+    },
+    {
+     "file": "0110.json",
+     "ref": "5.21",
+     "title": "5.21",
+     "segments": 5
+    },
+    {
+     "file": "0111.json",
+     "ref": "5.22",
+     "title": "5.22",
+     "segments": 1
+    },
+    {
+     "file": "0112.json",
+     "ref": "5.23",
+     "title": "5.23",
+     "segments": 3
+    },
+    {
+     "file": "0113.json",
+     "ref": "5.24",
+     "title": "5.24",
+     "segments": 1
+    },
+    {
+     "file": "0114.json",
+     "ref": "5.25",
+     "title": "5.25",
+     "segments": 1
+    },
+    {
+     "file": "0115.json",
+     "ref": "5.26",
+     "title": "5.26",
+     "segments": 1
+    },
+    {
+     "file": "0116.json",
+     "ref": "5.27",
+     "title": "5.27",
+     "segments": 1
+    },
+    {
+     "file": "0117.json",
+     "ref": "5.28",
+     "title": "5.28",
+     "segments": 1
+    },
+    {
+     "file": "0118.json",
+     "ref": "5.29",
+     "title": "5.29",
+     "segments": 1
+    },
+    {
+     "file": "0119.json",
+     "ref": "5.30",
+     "title": "5.30",
+     "segments": 4
+    },
+    {
+     "file": "0120.json",
+     "ref": "5.31",
+     "title": "5.31",
+     "segments": 1
+    },
+    {
+     "file": "0121.json",
+     "ref": "5.32",
+     "title": "5.32",
+     "segments": 3
+    },
+    {
+     "file": "0122.json",
+     "ref": "5.33",
+     "title": "5.33",
+     "segments": 1
+    },
+    {
+     "file": "0123.json",
+     "ref": "5.34",
+     "title": "5.34",
+     "segments": 1
+    },
+    {
+     "file": "0124.json",
+     "ref": "5.35",
+     "title": "5.35",
+     "segments": 1
+    },
+    {
+     "file": "0125.json",
+     "ref": "5.36",
+     "title": "5.36",
+     "segments": 2
+    },
+    {
+     "file": "0126.json",
+     "ref": "5.37",
+     "title": "5.37",
+     "segments": 1
+    },
+    {
+     "file": "0127.json",
+     "ref": "5.38",
+     "title": "5.38",
+     "segments": 2
+    },
+    {
+     "file": "0128.json",
+     "ref": "5.39",
+     "title": "5.39",
+     "segments": 3
+    },
+    {
+     "file": "0129.json",
+     "ref": "5.40",
+     "title": "5.40",
+     "segments": 3
+    },
+    {
+     "file": "0130.json",
+     "ref": "5.41",
+     "title": "5.41",
+     "segments": 1
+    },
+    {
+     "file": "0131.json",
+     "ref": "u6",
+     "title": "LIBER SEXTUS.",
+     "segments": 1
+    },
+    {
+     "file": "0132.json",
+     "ref": "6.1",
+     "title": "6.1",
+     "segments": 1
+    },
+    {
+     "file": "0133.json",
+     "ref": "6.2",
+     "title": "6.2",
+     "segments": 1
+    },
+    {
+     "file": "0134.json",
+     "ref": "6.3",
+     "title": "6.3",
+     "segments": 1
+    },
+    {
+     "file": "0135.json",
+     "ref": "6.4",
+     "title": "6.4",
+     "segments": 2
+    },
+    {
+     "file": "0136.json",
+     "ref": "6.5",
+     "title": "6.5",
+     "segments": 1
+    },
+    {
+     "file": "0137.json",
+     "ref": "6.6",
+     "title": "6.6",
+     "segments": 1
+    },
+    {
+     "file": "0138.json",
+     "ref": "6.7",
+     "title": "6.7",
+     "segments": 2
+    },
+    {
+     "file": "0139.json",
+     "ref": "6.8",
+     "title": "6.8",
+     "segments": 1
+    },
+    {
+     "file": "0140.json",
+     "ref": "6.9",
+     "title": "6.9",
+     "segments": 1
+    },
+    {
+     "file": "0141.json",
+     "ref": "6.10",
+     "title": "6.10",
+     "segments": 1
+    },
+    {
+     "file": "0142.json",
+     "ref": "6.11",
+     "title": "6.11",
+     "segments": 1
+    },
+    {
+     "file": "0143.json",
+     "ref": "6.12",
+     "title": "6.12",
+     "segments": 1
+    },
+    {
+     "file": "0144.json",
+     "ref": "6.13",
+     "title": "6.13",
+     "segments": 2
+    },
+    {
+     "file": "0145.json",
+     "ref": "6.14",
+     "title": "6.14",
+     "segments": 1
+    },
+    {
+     "file": "0146.json",
+     "ref": "6.15",
+     "title": "6.15",
+     "segments": 2
+    },
+    {
+     "file": "0147.json",
+     "ref": "6.16",
+     "title": "6.16",
+     "segments": 1
+    },
+    {
+     "file": "0148.json",
+     "ref": "6.17",
+     "title": "6.17",
+     "segments": 1
+    },
+    {
+     "file": "0149.json",
+     "ref": "6.18",
+     "title": "6.18",
+     "segments": 1
+    },
+    {
+     "file": "0150.json",
+     "ref": "6.19",
+     "title": "6.19",
+     "segments": 1
+    },
+    {
+     "file": "0151.json",
+     "ref": "6.20",
+     "title": "6.20",
+     "segments": 1
+    },
+    {
+     "file": "0152.json",
+     "ref": "6.21",
+     "title": "6.21",
+     "segments": 1
+    },
+    {
+     "file": "0153.json",
+     "ref": "6.22",
+     "title": "6.22",
+     "segments": 1
+    },
+    {
+     "file": "0154.json",
+     "ref": "6.23",
+     "title": "6.23",
+     "segments": 1
+    },
+    {
+     "file": "0155.json",
+     "ref": "u7",
+     "title": "LIBER SEPTIMUS.",
+     "segments": 1
+    },
+    {
+     "file": "0156.json",
+     "ref": "7.1",
+     "title": "7.1",
+     "segments": 1
+    },
+    {
+     "file": "0157.json",
+     "ref": "7.2",
+     "title": "7.2",
+     "segments": 1
+    },
+    {
+     "file": "0158.json",
+     "ref": "7.3",
+     "title": "7.3",
+     "segments": 3
+    },
+    {
+     "file": "0159.json",
+     "ref": "7.4",
+     "title": "7.4",
+     "segments": 1
+    },
+    {
+     "file": "0160.json",
+     "ref": "7.5",
+     "title": "7.5",
+     "segments": 1
+    },
+    {
+     "file": "0161.json",
+     "ref": "7.6",
+     "title": "7.6",
+     "segments": 1
+    },
+    {
+     "file": "0162.json",
+     "ref": "7.7",
+     "title": "7.7",
+     "segments": 6
+    },
+    {
+     "file": "0163.json",
+     "ref": "7.8",
+     "title": "7.8",
+     "segments": 1
+    },
+    {
+     "file": "0164.json",
+     "ref": "7.9",
+     "title": "7.9",
+     "segments": 3
+    },
+    {
+     "file": "0165.json",
+     "ref": "7.10",
+     "title": "7.10",
+     "segments": 1
+    },
+    {
+     "file": "0166.json",
+     "ref": "7.11",
+     "title": "7.11",
+     "segments": 1
+    },
+    {
+     "file": "0167.json",
+     "ref": "7.12",
+     "title": "7.12",
+     "segments": 1
+    },
+    {
+     "file": "0168.json",
+     "ref": "7.13",
+     "title": "7.13",
+     "segments": 1
+    },
+    {
+     "file": "0169.json",
+     "ref": "7.14",
+     "title": "7.14",
+     "segments": 2
+    },
+    {
+     "file": "0170.json",
+     "ref": "7.15",
+     "title": "7.15",
+     "segments": 3
+    },
+    {
+     "file": "0171.json",
+     "ref": "7.16",
+     "title": "7.16",
+     "segments": 1
+    },
+    {
+     "file": "0172.json",
+     "ref": "7.17",
+     "title": "7.17",
+     "segments": 6
+    },
+    {
+     "file": "0173.json",
+     "ref": "7.18",
+     "title": "7.18",
+     "segments": 1
+    },
+    {
+     "file": "0174.json",
+     "ref": "7.19",
+     "title": "7.19",
+     "segments": 1
+    },
+    {
+     "file": "0175.json",
+     "ref": "7.20",
+     "title": "7.20",
+     "segments": 1
+    },
+    {
+     "file": "0176.json",
+     "ref": "7.21",
+     "title": "7.21",
+     "segments": 1
+    },
+    {
+     "file": "0177.json",
+     "ref": "7.22",
+     "title": "7.22",
+     "segments": 1
+    },
+    {
+     "file": "0178.json",
+     "ref": "7.23",
+     "title": "7.23",
+     "segments": 1
+    },
+    {
+     "file": "0179.json",
+     "ref": "7.24",
+     "title": "7.24",
+     "segments": 1
+    },
+    {
+     "file": "0180.json",
+     "ref": "7.25",
+     "title": "7.25",
+     "segments": 2
+    },
+    {
+     "file": "0181.json",
+     "ref": "7.26",
+     "title": "7.26",
+     "segments": 1
+    },
+    {
+     "file": "0182.json",
+     "ref": "7.27",
+     "title": "7.27",
+     "segments": 1
+    },
+    {
+     "file": "0183.json",
+     "ref": "7.28",
+     "title": "7.28",
+     "segments": 1
+    },
+    {
+     "file": "0184.json",
+     "ref": "7.29",
+     "title": "7.29",
+     "segments": 1
+    },
+    {
+     "file": "0185.json",
+     "ref": "7.30",
+     "title": "7.30",
+     "segments": 1
+    },
+    {
+     "file": "0186.json",
+     "ref": "7.31",
+     "title": "7.31",
+     "segments": 1
+    },
+    {
+     "file": "0187.json",
+     "ref": "u8",
+     "title": "LIBER OCTAUUS.",
+     "segments": 1
+    },
+    {
+     "file": "0188.json",
+     "ref": "8.1",
+     "title": "8.1",
+     "segments": 3
+    },
+    {
+     "file": "0189.json",
+     "ref": "8.2",
+     "title": "8.2",
+     "segments": 1
+    },
+    {
+     "file": "0190.json",
+     "ref": "8.3",
+     "title": "8.3",
+     "segments": 1
+    },
+    {
+     "file": "0191.json",
+     "ref": "8.4",
+     "title": "8.4",
+     "segments": 5
+    },
+    {
+     "file": "0192.json",
+     "ref": "8.5",
+     "title": "8.5",
+     "segments": 1
+    },
+    {
+     "file": "0193.json",
+     "ref": "8.6",
+     "title": "8.6",
+     "segments": 1
+    },
+    {
+     "file": "0194.json",
+     "ref": "8.7",
+     "title": "8.7",
+     "segments": 1
+    },
+    {
+     "file": "0195.json",
+     "ref": "8.8",
+     "title": "8.8",
+     "segments": 3
+    },
+    {
+     "file": "0196.json",
+     "ref": "8.9",
+     "title": "8.9",
+     "segments": 1
+    },
+    {
+     "file": "0197.json",
+     "ref": "8.10",
+     "title": "8.10",
+     "segments": 1
+    },
+    {
+     "file": "0198.json",
+     "ref": "8.11",
+     "title": "8.11",
+     "segments": 1
+    },
+    {
+     "file": "0199.json",
+     "ref": "8.12",
+     "title": "8.12",
+     "segments": 1
+    },
+    {
+     "file": "0200.json",
+     "ref": "8.13",
+     "title": "8.13",
+     "segments": 1
+    },
+    {
+     "file": "0201.json",
+     "ref": "8.14",
+     "title": "8.14",
+     "segments": 1
+    },
+    {
+     "file": "0202.json",
+     "ref": "8.15",
+     "title": "8.15",
+     "segments": 1
+    },
+    {
+     "file": "0203.json",
+     "ref": "8.16",
+     "title": "8.16",
+     "segments": 1
+    },
+    {
+     "file": "0204.json",
+     "ref": "8.17",
+     "title": "8.17",
+     "segments": 1
+    },
+    {
+     "file": "0205.json",
+     "ref": "8.18",
+     "title": "8.18",
+     "segments": 1
+    },
+    {
+     "file": "0206.json",
+     "ref": "8.19",
+     "title": "8.19",
+     "segments": 3
+    },
+    {
+     "file": "0207.json",
+     "ref": "8.20",
+     "title": "8.20",
+     "segments": 2
+    },
+    {
+     "file": "0208.json",
+     "ref": "8.21",
+     "title": "8.21",
+     "segments": 1
+    },
+    {
+     "file": "0209.json",
+     "ref": "8.22",
+     "title": "8.22",
+     "segments": 1
+    },
+    {
+     "file": "0210.json",
+     "ref": "u9",
+     "title": "LIBER NONUS.",
+     "segments": 1
+    },
+    {
+     "file": "0211.json",
+     "ref": "9.1",
+     "title": "9.1",
+     "segments": 1
+    },
+    {
+     "file": "0212.json",
+     "ref": "9.2",
+     "title": "9.2",
+     "segments": 1
+    },
+    {
+     "file": "0213.json",
+     "ref": "9.3",
+     "title": "9.3",
+     "segments": 1
+    },
+    {
+     "file": "0214.json",
+     "ref": "9.4",
+     "title": "9.4",
+     "segments": 1
+    },
+    {
+     "file": "0215.json",
+     "ref": "9.5",
+     "title": "9.5",
+     "segments": 1
+    },
+    {
+     "file": "0216.json",
+     "ref": "9.6",
+     "title": "9.6",
+     "segments": 1
+    },
+    {
+     "file": "0217.json",
+     "ref": "9.7",
+     "title": "9.7",
+     "segments": 1
+    },
+    {
+     "file": "0218.json",
+     "ref": "9.8",
+     "title": "9.8",
+     "segments": 1
+    },
+    {
+     "file": "0219.json",
+     "ref": "9.9",
+     "title": "9.9",
+     "segments": 1
+    },
+    {
+     "file": "0220.json",
+     "ref": "9.10",
+     "title": "9.10",
+     "segments": 1
+    },
+    {
+     "file": "0221.json",
+     "ref": "9.11",
+     "title": "9.11",
+     "segments": 1
+    },
+    {
+     "file": "0222.json",
+     "ref": "9.12",
+     "title": "9.12",
+     "segments": 1
+    },
+    {
+     "file": "0223.json",
+     "ref": "9.13",
+     "title": "9.13",
+     "segments": 1
+    },
+    {
+     "file": "0224.json",
+     "ref": "u10",
+     "title": "LIBER DECIMUS.",
+     "segments": 1
+    },
+    {
+     "file": "0225.json",
+     "ref": "10.1",
+     "title": "10.1",
+     "segments": 1
+    },
+    {
+     "file": "0226.json",
+     "ref": "10.2",
+     "title": "10.2",
+     "segments": 4
+    },
+    {
+     "file": "0227.json",
+     "ref": "10.3",
+     "title": "10.3",
+     "segments": 1
+    },
+    {
+     "file": "0228.json",
+     "ref": "10.4",
+     "title": "10.4",
+     "segments": 1
+    },
+    {
+     "file": "0229.json",
+     "ref": "10.5",
+     "title": "10.5",
+     "segments": 1
+    },
+    {
+     "file": "0230.json",
+     "ref": "10.6",
+     "title": "10.6",
+     "segments": 1
+    },
+    {
+     "file": "0231.json",
+     "ref": "10.7",
+     "title": "10.7",
+     "segments": 9
+    },
+    {
+     "file": "0232.json",
+     "ref": "10.8",
+     "title": "10.8",
+     "segments": 3
+    },
+    {
+     "file": "0233.json",
+     "ref": "10.9",
+     "title": "10.9",
+     "segments": 1
+    },
+    {
+     "file": "0234.json",
+     "ref": "10.10",
+     "title": "10.10",
+     "segments": 1
+    },
+    {
+     "file": "0235.json",
+     "ref": "10.11",
+     "title": "10.11",
+     "segments": 1
+    },
+    {
+     "file": "0236.json",
+     "ref": "10.12",
+     "title": "10.12",
+     "segments": 1
+    },
+    {
+     "file": "0237.json",
+     "ref": "10.13",
+     "title": "10.13",
+     "segments": 1
+    },
+    {
+     "file": "0238.json",
+     "ref": "10.14",
+     "title": "10.14",
+     "segments": 1
+    },
+    {
+     "file": "0239.json",
+     "ref": "10.15",
+     "title": "10.15",
+     "segments": 1
+    },
+    {
+     "file": "0240.json",
+     "ref": "10.16",
+     "title": "10.16",
+     "segments": 1
+    },
+    {
+     "file": "0241.json",
+     "ref": "10.17",
+     "title": "10.17",
+     "segments": 1
+    },
+    {
+     "file": "0242.json",
+     "ref": "10.18",
+     "title": "10.18",
+     "segments": 1
+    },
+    {
+     "file": "0243.json",
+     "ref": "10.19",
+     "title": "10.19",
+     "segments": 1
+    },
+    {
+     "file": "0244.json",
+     "ref": "10.20",
+     "title": "10.20",
+     "segments": 1
+    },
+    {
+     "file": "0245.json",
+     "ref": "10.21",
+     "title": "10.21",
+     "segments": 3
+    },
+    {
+     "file": "0246.json",
+     "ref": "10.22",
+     "title": "10.22",
+     "segments": 1
+    },
+    {
+     "file": "0247.json",
+     "ref": "10.23",
+     "title": "10.23",
+     "segments": 1
+    },
+    {
+     "file": "0248.json",
+     "ref": "10.24",
+     "title": "10.24",
+     "segments": 1
+    },
+    {
+     "file": "0249.json",
+     "ref": "10.25",
+     "title": "10.25",
+     "segments": 1
+    },
+    {
+     "file": "0250.json",
+     "ref": "u11",
+     "title": "LIBER UNDECIMUS.",
+     "segments": 1
+    },
+    {
+     "file": "0251.json",
+     "ref": "11.1",
+     "title": "11.1",
+     "segments": 1
+    },
+    {
+     "file": "0252.json",
+     "ref": "11.2",
+     "title": "11.2",
+     "segments": 1
+    },
+    {
+     "file": "0253.json",
+     "ref": "11.3",
+     "title": "11.3",
+     "segments": 1
+    },
+    {
+     "file": "0254.json",
+     "ref": "11.4",
+     "title": "11.4",
+     "segments": 1
+    },
+    {
+     "file": "0255.json",
+     "ref": "11.5",
+     "title": "11.5",
+     "segments": 1
+    },
+    {
+     "file": "0256.json",
+     "ref": "11.6",
+     "title": "11.6",
+     "segments": 1
+    },
+    {
+     "file": "0257.json",
+     "ref": "11.7",
+     "title": "11.7",
+     "segments": 1
+    },
+    {
+     "file": "0258.json",
+     "ref": "11.8",
+     "title": "11.8",
+     "segments": 1
+    },
+    {
+     "file": "0259.json",
+     "ref": "11.9",
+     "title": "11.9",
+     "segments": 1
+    },
+    {
+     "file": "0260.json",
+     "ref": "11.10",
+     "title": "11.10",
+     "segments": 3
+    },
+    {
+     "file": "0261.json",
+     "ref": "11.11",
+     "title": "11.11",
+     "segments": 1
+    },
+    {
+     "file": "0262.json",
+     "ref": "11.12",
+     "title": "11.12",
+     "segments": 1
+    },
+    {
+     "file": "0263.json",
+     "ref": "11.13",
+     "title": "11.13",
+     "segments": 1
+    },
+    {
+     "file": "0264.json",
+     "ref": "11.14",
+     "title": "11.14",
+     "segments": 1
+    },
+    {
+     "file": "0265.json",
+     "ref": "11.15",
+     "title": "11.15",
+     "segments": 1
+    },
+    {
+     "file": "0266.json",
+     "ref": "11.16",
+     "title": "11.16",
+     "segments": 1
+    },
+    {
+     "file": "0267.json",
+     "ref": "11.17",
+     "title": "11.17",
+     "segments": 2
+    },
+    {
+     "file": "0268.json",
+     "ref": "11.18",
+     "title": "11.18",
+     "segments": 1
+    },
+    {
+     "file": "0269.json",
+     "ref": "11.19",
+     "title": "11.19",
+     "segments": 2
+    },
+    {
+     "file": "0270.json",
+     "ref": "u12",
+     "title": "LIBER DUODECIMUS.",
+     "segments": 1
+    },
+    {
+     "file": "0271.json",
+     "ref": "12.1",
+     "title": "12.1",
+     "segments": 1
+    },
+    {
+     "file": "0272.json",
+     "ref": "12.2",
+     "title": "12.2",
+     "segments": 1
+    },
+    {
+     "file": "0273.json",
+     "ref": "12.3",
+     "title": "12.3",
+     "segments": 2
+    },
+    {
+     "file": "0274.json",
+     "ref": "12.4",
+     "title": "12.4",
+     "segments": 3
+    },
+    {
+     "file": "0275.json",
+     "ref": "12.5",
+     "title": "12.5",
+     "segments": 1
+    },
+    {
+     "file": "0276.json",
+     "ref": "12.6",
+     "title": "12.6",
+     "segments": 2
+    },
+    {
+     "file": "0277.json",
+     "ref": "12.7",
+     "title": "12.7",
+     "segments": 1
+    },
+    {
+     "file": "0278.json",
+     "ref": "12.8",
+     "title": "12.8",
+     "segments": 3
+    },
+    {
+     "file": "0279.json",
+     "ref": "12.9",
+     "title": "12.9",
+     "segments": 1
+    },
+    {
+     "file": "0280.json",
+     "ref": "12.10",
+     "title": "12.10",
+     "segments": 1
+    },
+    {
+     "file": "0281.json",
+     "ref": "12.11",
+     "title": "12.11",
+     "segments": 3
+    },
+    {
+     "file": "0282.json",
+     "ref": "12.12",
+     "title": "12.12",
+     "segments": 1
+    },
+    {
+     "file": "0283.json",
+     "ref": "12.13",
+     "title": "12.13",
+     "segments": 1
+    },
+    {
+     "file": "0284.json",
+     "ref": "12.14",
+     "title": "12.14",
+     "segments": 3
+    },
+    {
+     "file": "0285.json",
+     "ref": "12.15",
+     "title": "12.15",
+     "segments": 2
+    },
+    {
+     "file": "0286.json",
+     "ref": "12.16",
+     "title": "12.16",
+     "segments": 1
+    },
+    {
+     "file": "0287.json",
+     "ref": "12.17",
+     "title": "12.17",
+     "segments": 6
+    },
+    {
+     "file": "0288.json",
+     "ref": "12.18",
+     "title": "12.18",
+     "segments": 1
+    },
+    {
+     "file": "0289.json",
+     "ref": "12.19",
+     "title": "12.19",
+     "segments": 1
+    },
+    {
+     "file": "0290.json",
+     "ref": "12.20",
+     "title": "12.20",
+     "segments": 1
+    },
+    {
+     "file": "0291.json",
+     "ref": "12.21",
+     "title": "12.21",
+     "segments": 3
+    },
+    {
+     "file": "0292.json",
+     "ref": "12.22",
+     "title": "12.22",
+     "segments": 1
+    },
+    {
+     "file": "0293.json",
+     "ref": "12.23",
+     "title": "12.23",
+     "segments": 1
+    },
+    {
+     "file": "0294.json",
+     "ref": "12.24",
+     "title": "12.24",
+     "segments": 1
+    },
+    {
+     "file": "0295.json",
+     "ref": "12.25",
+     "title": "12.25",
+     "segments": 1
+    },
+    {
+     "file": "0296.json",
+     "ref": "12.26",
+     "title": "12.26",
+     "segments": 1
+    },
+    {
+     "file": "0297.json",
+     "ref": "12.27",
+     "title": "12.27",
+     "segments": 6
+    },
+    {
+     "file": "0298.json",
+     "ref": "12.28",
+     "title": "12.28",
+     "segments": 1
+    },
+    {
+     "file": "0299.json",
+     "ref": "12.29",
+     "title": "12.29",
+     "segments": 3
+    },
+    {
+     "file": "0300.json",
+     "ref": "12.30",
+     "title": "12.30",
+     "segments": 1
+    },
+    {
+     "file": "0301.json",
+     "ref": "12.31",
+     "title": "12.31",
+     "segments": 1
+    },
+    {
+     "file": "0302.json",
+     "ref": "12.32",
+     "title": "12.32",
+     "segments": 2
+    },
+    {
+     "file": "0303.json",
+     "ref": "12.33",
+     "title": "12.33",
+     "segments": 2
+    }
+   ]
+  },
+  {
+   "editionId": "cassian-institutes-npnf11-gibson",
+   "role": "english",
+   "language": "english",
+   "credit": "The Twelve Books of the Institutes, in Nicene and Post-Nicene Fathers, Series II, vol. 11: Sulpitius Severus, Vincent of Lerins, John Cassian, trans. Edgar C. S. Gibson (New York; Oxford; Edinburgh: The Christian Literature Company (New York); Parker & Co. (Oxford); T. & T. Clark (Edinburgh), 1894). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers: Series II), CC BY-SA (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_XI/John_Cassian/The_Twelve_Books",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 704579,
+   "sourceSha256": "8049f09268a344562bcc3063939618414a8d27d8bfb0484cd10078b6f577c98d",
+   "leftOut": {
+    "note": 453
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/Preface",
+     "bytes": 9637,
+     "sha256": "7458ba94ca1da07a0805d5d60dbefc8924189065d484e36b10771664a7eb9897"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book I/Chapter 1",
+     "bytes": 4433,
+     "sha256": "af5909f1afb33360a2092f52dd328d4ffcf30643ee3cd2c6753daa65de1e0edd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book I/Chapter 2",
+     "bytes": 5129,
+     "sha256": "04a96d98ffb777de09768b637a592405fc6d86d6e683110015a3bc8f7cffc71d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book I/Chapter 3",
+     "bytes": 2258,
+     "sha256": "0ddae5886121f79bdf8d00f50c12a9d55fdf9ecb7d0cd110f4a68b8d4bf9bb0e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book I/Chapter 4",
+     "bytes": 2487,
+     "sha256": "1355fca1262160d4835958b58588a1c61c7811ec66746f8cd47aaaeacb997b64"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book I/Chapter 5",
+     "bytes": 2660,
+     "sha256": "f17556fc5fbcd09ab2e35f0284099484bf2cf3a5b4882bf4e2c8cfe6e929f71f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book I/Chapter 6",
+     "bytes": 1481,
+     "sha256": "35d25ce5f88af2ea6dfd7338b530f43edefc2b2ca74dad16324308901b8f91a9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book I/Chapter 7",
+     "bytes": 2330,
+     "sha256": "714c0490d7bcd44a67b4799aba206a0c4d24da202e30f4a36d9741b22eeebb1f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book I/Chapter 8",
+     "bytes": 2020,
+     "sha256": "1d74b5206f80732cd27811719fa2f070c0f3210c0b412055b76b68b0d5872976"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book I/Chapter 9",
+     "bytes": 2693,
+     "sha256": "910afc87c2ddfd2456dbd3ccf449e234548adad35bd6df061b58e5eea9c799b5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book I/Chapter 10",
+     "bytes": 1954,
+     "sha256": "e923ad659c97d33e639b51160cae896ce29a494383503f5d8a47e7bf82e2e308"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book I/Chapter 11",
+     "bytes": 3757,
+     "sha256": "328ab721e9324083e362d7b675e77dd9464669812ae5dc2df406c900d98d8ed9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book II/Chapter 1",
+     "bytes": 1472,
+     "sha256": "b5621273bece39f8fa78209f7a18db7ca856a7c3c15549af3131574d735fe7d8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book II/Chapter 2",
+     "bytes": 3168,
+     "sha256": "c2d8a7887faf935dc2d6888da1d80a20c0b2a928232b550888379a71a2190767"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book II/Chapter 3",
+     "bytes": 4157,
+     "sha256": "851d4b3fca2bc11a9f80b7992880dd970eac6245e82eca5bce74182ac01ee437"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book II/Chapter 4",
+     "bytes": 2152,
+     "sha256": "55ed375a50590d9a6fc16adf8f1ea1a295a6eb48f615d4e714d08887dd3157d8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book II/Chapter 5",
+     "bytes": 5979,
+     "sha256": "2bb6be670b6c57508ab66cd2cc4ef154b552161d3bd2bb24891f49f5112ccb74"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book II/Chapter 6",
+     "bytes": 2352,
+     "sha256": "6771fc27447e4cee7b7b84e7332028d278d4dc4ffc3f69c08a15169b92651086"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book II/Chapter 7",
+     "bytes": 3849,
+     "sha256": "429a205f21a6978204aafd91eb9a08a133ee5af5984c692f27a0de1d267dffbc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book II/Chapter 8",
+     "bytes": 3176,
+     "sha256": "05da3ed470efda6ea79d3429692b8e0ddd2aca3fabe695f7dece2c5b6487f2e0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book II/Chapter 9",
+     "bytes": 2996,
+     "sha256": "8571db34fad13a773c7833df53ff5386ded796bde280ad7aedaec643ca715e65"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book II/Chapter 10",
+     "bytes": 4798,
+     "sha256": "edf6ca1f25e7a72de6f76b551ff2d73a1a97d2bbbe2d4f653e8cd98777f78b2e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book II/Chapter 11",
+     "bytes": 4176,
+     "sha256": "1a67b605b64d252830cb21e85365021c43d893c6fe3ee3522cd7af5cbb482af0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book II/Chapter 12",
+     "bytes": 3041,
+     "sha256": "eca0c35da686856ca1ca161d14a8f68142961943d2b14a81f1b8ff4d9d69d5d4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book II/Chapter 13",
+     "bytes": 3241,
+     "sha256": "ffc97f6a237212d3225c6d2d6ba8d94a65381e635f10c2b54f962adbc8ea7960"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book II/Chapter 14",
+     "bytes": 2304,
+     "sha256": "bcf9c7da713f94aca0f973225b52a9f1aac873feb2c5999fcf35c439b70f5f5e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book II/Chapter 15",
+     "bytes": 2578,
+     "sha256": "189dbfe75a5a7af724c2c47064e67f7f70261513db66f5f3d29364a9f9d0e6f0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book II/Chapter 16",
+     "bytes": 2516,
+     "sha256": "ce0b506cca14dd43b43caa0578e46ba8580bfa76a30726c6bd2a4ecc335a8c29"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book II/Chapter 17",
+     "bytes": 1969,
+     "sha256": "e72f8619709f03adf7eeb6dd5f34d4d5bd1d99a5117993a1f4bf6f38710eb595"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book II/Chapter 18",
+     "bytes": 2499,
+     "sha256": "1489d1ac8c63c4dbdf6196e1bc01f8c322760039ff55bdaea458f9ec113b5fad"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book III/Chapter 1",
+     "bytes": 1993,
+     "sha256": "7dee8e0c8f537d3115933093317380cd5960918dc5477f4a82b8b09820ed87fe"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book III/Chapter 2",
+     "bytes": 3027,
+     "sha256": "f5a17b3d96c4ff5384ce19fcb88f4b0a274fd185e20266cbf8b19bc60bfa7124"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book III/Chapter 3",
+     "bytes": 12813,
+     "sha256": "98817f175b0a9af001103377eff3aaa80528cddbc471b6855558f874118b55e3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book III/Chapter 4",
+     "bytes": 5726,
+     "sha256": "94b1194c3e2fc4fcdfc0fd7ae9b099ab96cbf25cbc62abd6f3a9754e3273d49c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book III/Chapter 5",
+     "bytes": 2552,
+     "sha256": "907ee06aa450ee2709472877c55ba0d10b5a1536d9be12befa79fccfc5e8ccef"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book III/Chapter 6",
+     "bytes": 3725,
+     "sha256": "b9603700c4c04b7493920e0df749e966def713ce9a395853f23d46227881bce4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book III/Chapter 7",
+     "bytes": 3295,
+     "sha256": "1371e5de7b493b988b2e1cef978dbfdd463cff7893c7b24dca2225922d51fa42"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book III/Chapter 8",
+     "bytes": 5406,
+     "sha256": "7a27886d5279393748dfea7fa4a29e69dfb4719e14fce2aa6cd3959369b09ff0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book III/Chapter 9",
+     "bytes": 3299,
+     "sha256": "b1af2851e21d7010609b687410d4c052526971094c2d4eeca4d9b0327a3b62ad"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book III/Chapter 10",
+     "bytes": 3301,
+     "sha256": "137486929708876b6b6372bc13ffc92b826cd100cb191d47b6b53aae05e29ab4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book III/Chapter 11",
+     "bytes": 2381,
+     "sha256": "4469b3417188b017839fd7450449db8d7feb1b34a1bb761447468c95ec649bcc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book III/Chapter 12",
+     "bytes": 2953,
+     "sha256": "c3cf910ba465d635995ec0d3e99665fdbebc7a6e81cbcc4fd0878dcf3b197618"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 1",
+     "bytes": 2413,
+     "sha256": "52005e5fbc23c08611be3f3e41550e3707de1c37d472eef0fc94dcd0ad7e88e0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 2",
+     "bytes": 1549,
+     "sha256": "98467e87ee4713551e910c3bfe7747327933308402a4be296b8753ac923abb99"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 3",
+     "bytes": 3270,
+     "sha256": "2ccc9d94b2b063557f28eb5ccb2500e08eac052116fed4db485659d89d9553bc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 4",
+     "bytes": 1972,
+     "sha256": "dd6342ef2785f3400ee0345d3207ef3bdba2ea534bcaab940e3cfc81279967a9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 5",
+     "bytes": 2800,
+     "sha256": "300c4a3f29e3c12083cfbe01263354d20a905d09aec75c539fe6a7368f94893b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 6",
+     "bytes": 2297,
+     "sha256": "ee448d9789a8c1c707e11e546075b1d51067a713ad2d3456956556e8211f69a6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 7",
+     "bytes": 2968,
+     "sha256": "1b306bab36c6e0da3a015b5bf151abf524387134705276f5de7be66211178523"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 8",
+     "bytes": 1916,
+     "sha256": "28d3cd30c9c35511ab85e7e830467004f5f331196812a8b7403ff8b4613f9f2e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 9",
+     "bytes": 2723,
+     "sha256": "c38d9c0360e7723c3b5bf01ac7ac65682c0420eca6edf47b2140c3457e21cd07"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 10",
+     "bytes": 3406,
+     "sha256": "b26e8bd9b70ba2bc7b411eab6c20a33808fa6d29f4bb0f6499527f71f808606b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 11",
+     "bytes": 1677,
+     "sha256": "d2468127e65695740c698146c4ab3d87b19080caf25a5d4f38c4e658f2a469d1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 12",
+     "bytes": 2478,
+     "sha256": "677aae3f4a1b386cdbd022d042e9a08d2abacfc647cae51f94269eb996d73516"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 13",
+     "bytes": 2644,
+     "sha256": "77b78a07107c5bfda5d45c6256d35f1bbeeb3cdf52ef885c2bb4b2e78c8d77a0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 14",
+     "bytes": 2796,
+     "sha256": "c0c206ca07076c6391d1d525a3454d58a7db8ea1d10302bf6f121237effc8f33"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 15",
+     "bytes": 2599,
+     "sha256": "34e66e18aac3fc8c2114c462cbd93a607506a08ac903261b71c8587c1c33497c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 16",
+     "bytes": 4872,
+     "sha256": "69cf46498b363971a12fe9501b66eeb94d0aac952ad3559307618af04f00bb54"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 17",
+     "bytes": 3938,
+     "sha256": "d2a29a397a8699db74aa2645906f186afa0a1aec0b90aa62602003e160354b6d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 18",
+     "bytes": 2760,
+     "sha256": "07ee343ea4c10f46e1c481223feaac122aa693b72132b1d9b998915108956722"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 19",
+     "bytes": 4281,
+     "sha256": "f59940431d3b7d4e93b7b9f346734f4531d8a7d756ce87c6add97926f3515e3d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 20",
+     "bytes": 2284,
+     "sha256": "ab3c1905d5d949c55f91d1ea26055a4067a8726d6b16c560c483c44cf3f21934"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 21",
+     "bytes": 2913,
+     "sha256": "45b6c2330ed023dcb024e767a7b637f0d54395ed54da2c249a50a99b067e0dab"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 22",
+     "bytes": 2744,
+     "sha256": "ce26c53eb18fc7fd2a83d93fef6f4f07be47cdff97c4e0a135624a22ec117d98"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 23",
+     "bytes": 3503,
+     "sha256": "f0e614e40acf9106905a1a05212d76b352664eaae7371f0a77924bff3dc158b5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 24",
+     "bytes": 3876,
+     "sha256": "84c543109cf4b0197e1894919b44a27939cf70b178bff26559d829bb76754e1c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 25",
+     "bytes": 2206,
+     "sha256": "b810aff5031981f078c4678ed90b565dd23ea77856b827c39eb971ea8e7d2deb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 26",
+     "bytes": 1739,
+     "sha256": "92fdd572c1963c2f490225e98f76a910037c439688affacafcfc9482779713ee"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 27",
+     "bytes": 4531,
+     "sha256": "fe17290c319405d70a75e0af92022abf60269f60c6100096d44e5fee11634082"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 28",
+     "bytes": 1510,
+     "sha256": "e02859d9124ca0858fadc437fd30716548f7e541b44e3665b187709c3d31ea7f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 29",
+     "bytes": 2366,
+     "sha256": "0f36dce20caf63941074d62a9725206c3d6f6605ad7a21c30a439463657c9925"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 30",
+     "bytes": 5996,
+     "sha256": "04b2992d8fa0678209d296beb4e1332b1db1e46597b6499441642472b97681f1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 31",
+     "bytes": 2320,
+     "sha256": "96ac89c3c0beab98466f674cd484413772d576e1d1f17a32aa03c7db3125c74e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 32",
+     "bytes": 1675,
+     "sha256": "67f5df9c859cf438b083f366e426cffc07ff928a75c04214fecffa1d38d4d6df"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 33",
+     "bytes": 2559,
+     "sha256": "710c115423e781667e3975118775399e31f5e1d43cc8feb6480aedda89d3b154"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 34",
+     "bytes": 2268,
+     "sha256": "71644369dc6ca0ec2b33994f3984c440710cf21c21dda7060429072aa4ba798d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 35",
+     "bytes": 2200,
+     "sha256": "5f58fabdd827899b918c373a9ed1d1934cac695b886c54ef161ba77732d101f3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 36",
+     "bytes": 2957,
+     "sha256": "852a6828e0e4e9cc1a990f71dd1cfa96fb918ef3cc23abab2ba2192c031f1873"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 37",
+     "bytes": 2555,
+     "sha256": "19289e774dee6af4573660f4ca78c6007eff74fff468ecc90105e8feabebdca0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 38",
+     "bytes": 2157,
+     "sha256": "1dc25f6a02f0489cedc5823d978aeccd901be142f1480b7c2ebe99d29631185c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 39",
+     "bytes": 3400,
+     "sha256": "da106b166c3f4fd6ccff213e94f9ddb0cf06a4d19c8a2cee34a975703783e690"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 40",
+     "bytes": 1537,
+     "sha256": "b7f24377f1f0b47d76ca74aefd93538be568150415fd4aa17bfe049e72fee65c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 41",
+     "bytes": 3685,
+     "sha256": "c7536d8bd0de4d8f65592eedada61de68d7c6fa084ec54b3c05855ebba99ed13"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 42",
+     "bytes": 1413,
+     "sha256": "53ecf49bc19602f4125f88c899b73705e6131355b1999ad0d18946f327dc7970"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IV/Chapter 43",
+     "bytes": 2038,
+     "sha256": "45db85345a233f592f5049df8aa781a6fc85c5b7e8f51c7db5018c73e51cf5d7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 1",
+     "bytes": 3869,
+     "sha256": "7dc87c1de17c98881c394b881a1075fcd111fc5e894110400026e1b7c6fe28e7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 2",
+     "bytes": 3050,
+     "sha256": "4120a69701af67026cd799304f8c4d6a2693c0d4a149d68b88d9c579c39d08cc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 3",
+     "bytes": 1402,
+     "sha256": "f5e12aa45a48fbc6d9672ce120d8e221d340c3f08ffd58145379409d0d9e82f9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 4",
+     "bytes": 4368,
+     "sha256": "3746df2d638367d46b4ffb64b3d43358644c101ee28a01fdf9ecdaad93ab42fc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 5",
+     "bytes": 2582,
+     "sha256": "8349a36bdf87ab9485ac15339761b7585069874e5a713bf28fc4467fa16f02f8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 6",
+     "bytes": 2117,
+     "sha256": "5b3ac6e7cd606c7e0a9f2ff5e0b0583a054a22fa4665039a752c0f9657e97c3f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 7",
+     "bytes": 2944,
+     "sha256": "c1bf3a0bdbd8fe89b22b4a3ed6e5806fc633b6f6bc28e6ad116a0a8bb4c947ea"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 8",
+     "bytes": 2398,
+     "sha256": "75bb5288f6ace48111e5ae1f99bb16caadbc419a7e8d9742b66f6cc54dd24768"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 9",
+     "bytes": 2180,
+     "sha256": "8bb46450bd98b6e5aa5fdc006568fdb348bce8dbadcfd3f6acf6402c94d516d8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 10",
+     "bytes": 2173,
+     "sha256": "1d0c054db13200e1db3e6f726eb6429e9454e5ddfb413d8d4f8378aa783f2474"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 11",
+     "bytes": 3184,
+     "sha256": "b7f2bff747261b65b1bf857cb77e264d118c5c6ae421450e79b438f6fe36db82"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 12",
+     "bytes": 3426,
+     "sha256": "22d37372341ff33370e7164c9f5b65e32a8aaef6acde0f0107d236a7b36838b2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 13",
+     "bytes": 1847,
+     "sha256": "b060878ca4eb3d75218263c84e432ed66cfe70568d9ef40b96fca266919ca42c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 14",
+     "bytes": 3801,
+     "sha256": "61af3fc9a29a083eef5614e134b3e6ed7dd2520c4ef0dca2752c503157229064"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 15",
+     "bytes": 1586,
+     "sha256": "6152ca53498e4e5860105f424a5467dfc2fded03b8440b70ccf8d03f1a89b0a6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 16",
+     "bytes": 3339,
+     "sha256": "ac94aabfb46da9c8190358c2ca78b5dd03e40e6bfd73b5d6f5d8fd0722c39da4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 17",
+     "bytes": 3768,
+     "sha256": "0d0108ccaae5ffdf238367f6a48c2280b7109dd8c1775e35b9b6d0c126b71b98"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 18",
+     "bytes": 3568,
+     "sha256": "f714a3de48b98e51e618e9d86cbb75a140f60b256465bdb740c876fce676c21e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 19",
+     "bytes": 2657,
+     "sha256": "621b08b74a723ec68b6c1b59cfa6b4c1fecd0005efb08f498084a9b73be5dd53"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 20",
+     "bytes": 3241,
+     "sha256": "5bf8a29390a4468cd9f958889d590a2cefcfda3ca7c8d03d27c84af352c4d5cb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 21",
+     "bytes": 3813,
+     "sha256": "b386cd217ea3378063541ab1289342e3f655c72480721efe8179600d85794ada"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 22",
+     "bytes": 2438,
+     "sha256": "d3724ebf5a6372af048a3e3bb726a581a697f09c2b0ea3c08568f9029b06513c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 23",
+     "bytes": 3214,
+     "sha256": "de3b631cbbda1ea7355e9cc5e04989afe68cc9d16d536fc7c3cd42774ca6a887"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 24",
+     "bytes": 3526,
+     "sha256": "d3a7bb7c3bb5d7dd33c011d32da4851fd939b0f7ff64e4e6671d6653ff004603"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 25",
+     "bytes": 1376,
+     "sha256": "5bc25a4efc802c0a3d72dd771061d70302336e2f392bc57e6fcc1b20016ffa1e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 26",
+     "bytes": 1827,
+     "sha256": "dc218227f0db8b94598520f750a14562ad737a37c2fe6086a8360668fdc129d1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 27",
+     "bytes": 1784,
+     "sha256": "91d4b43d24a54e91b1f3b5221c55f917f71fee41e95c0ba1f03957a8d6f1cde5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 28",
+     "bytes": 1411,
+     "sha256": "6fb4dccf580cf2ef187107848e880ff70c3a3f9f03847c889cb547a2c5f55ff5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 29",
+     "bytes": 1453,
+     "sha256": "7845867269a951bf6d0a34788354c21b31a12fc1afee30c95f058b52464866c4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 30",
+     "bytes": 3282,
+     "sha256": "b714f41d53fac2b651f79b812b339ffb6038ee4ab05194c16d9879eaa3a5f052"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 31",
+     "bytes": 2079,
+     "sha256": "e375b2063e6d6bfe2c60ceb42d902d3d8c69f0054e5633e91bc3e9d35d450d7c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 32",
+     "bytes": 2766,
+     "sha256": "294cec369cf00c0ad19e8972f8d7ae1b1594a1a99d34dd0dd83eee230cc10cb1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 33",
+     "bytes": 1876,
+     "sha256": "342ec75cc7ac8db493b464b4e1e10c7ff4ab423e4fdd5e2a8ad4fd108800e033"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 34",
+     "bytes": 2626,
+     "sha256": "3a3cd7f39a614134e8403935e88d564060e1a9b21bf54a1ad46f5f0e1d0b6e27"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 35",
+     "bytes": 2070,
+     "sha256": "81c5998d15cc81cbe92088f09946e957e9f3843fe77e36f40faa984a30af563d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 36",
+     "bytes": 2938,
+     "sha256": "01921e221095f445f864a5d154d105935f64df73e43b0523dcdeb612b53cc23a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 37",
+     "bytes": 2248,
+     "sha256": "e32d11af62bf492359ad748beacb30ace1ad01243119a778e79fbfa7d3efc065"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 38",
+     "bytes": 2985,
+     "sha256": "0767cd7a1dfaf6bd5f03f2f3202ae83c0a86a8a1276023dff72458ab6ded5ed0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 39",
+     "bytes": 3353,
+     "sha256": "555c53975e735cc162e11abd1ba0a0df24f6da94ab89fd4b4b841eae357a902e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 40",
+     "bytes": 3206,
+     "sha256": "742f61722d6f5e49a474d83accfab3fa08842af2a12d264e9977a5a4c5cb15ed"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book V/Chapter 41",
+     "bytes": 2780,
+     "sha256": "9184214bad6d98f726408f584d4499ff0e947dcc068cc628aab5572c4da12412"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VI",
+     "bytes": 871,
+     "sha256": "ca8fa44b471597463d71284e2dacbaf9f2f60929d55a6a607c32796801d72be3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 1",
+     "bytes": 1711,
+     "sha256": "bd9eb3dcbd42b8803e98fa83617faa2aaf198522e71db04e17c42aadb80261ca"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 2",
+     "bytes": 1399,
+     "sha256": "e6da8e27a2d669d3e97f4f41501a2bfdc86716e9206fbf9c107658199ceff0b9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 3",
+     "bytes": 3070,
+     "sha256": "47f8630f2535e92258b743ccfc3f73d2cb678cbf3dc7b9eda1e8dd6a05e12c1c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 4",
+     "bytes": 1747,
+     "sha256": "066d6493a7c94ab802c54f621c3761a262c76127731c9c0bfa749f7aed87785d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 5",
+     "bytes": 1789,
+     "sha256": "a18057bba5789e74012f0921b30054b529bc474aa55accc3ca772e65f688abef"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 6",
+     "bytes": 1488,
+     "sha256": "453569d8ae1386ed9151ba9d646d2cb6afedb21c3a178d646acff6a1ece3f1cf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 7",
+     "bytes": 5080,
+     "sha256": "039aa4c01af4da6eb67a299d84b21efb2e5a52d62fa3b62690713af165e0d189"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 8",
+     "bytes": 1610,
+     "sha256": "3c8b18447c5a7e9b18e0a7a9325b858c80ab5d97f1bb64f4300632d9ca1ed4e1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 9",
+     "bytes": 2523,
+     "sha256": "76e86dfc411130818b77b71ee4ea7bda0874ad594a4d098676136298460baa0d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 10",
+     "bytes": 1939,
+     "sha256": "53f725d5628718f9e4c5cc80a58f183de90294f9938748b0b144a439109721ca"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 11",
+     "bytes": 2036,
+     "sha256": "91421cf16bcadfcd8942cf86037c0f55391f3f655c3f586a4b0f52267e1f4f79"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 12",
+     "bytes": 1905,
+     "sha256": "9ee0fd5142bb22e4393bff2f0a87749f96ccb8b264a681d7bb3a30149fbcbc90"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 13",
+     "bytes": 2287,
+     "sha256": "9c00403f29e6ad7632683c61c9d163ccff0b864d57d766d64ecfba40613a398d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 14",
+     "bytes": 2660,
+     "sha256": "9a4441e3c6cdf2a570e92483e5df1d01ee4b62d2aaabc65e34422b789eb75680"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 15",
+     "bytes": 2942,
+     "sha256": "9dc3c757302daa43a63659afaaa284eb0712abd00321eb379d745a5f44f8b45b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 16",
+     "bytes": 2828,
+     "sha256": "d2748114595683599bb6f55f27eecb5cac7f94144756f25ab60861dda64b9ab5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 17",
+     "bytes": 5865,
+     "sha256": "dbece459daaf5872741658047322edaccdbcb3f5f573e85ae6be2b26de9e5c8d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 18",
+     "bytes": 1767,
+     "sha256": "f24a9f1e488e7d382bc4e26b0a37dbb0b0f0b79d62f19b749c7188f307549dd2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 19",
+     "bytes": 1919,
+     "sha256": "17999c7c86f732b2ef807ea4e23bb7c88cb4a02649a9706a83c61fcb457737a3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 20",
+     "bytes": 1576,
+     "sha256": "fd8f52a23251fa841e0f8602ef4bb88273653112b9bd3128d5b5ae49de47ece4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 21",
+     "bytes": 2156,
+     "sha256": "659218738138e9125510ae1bca1701b03e37cf6d92d0c6370201c78ef8e8e3ec"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 22",
+     "bytes": 2051,
+     "sha256": "0daa161bfc0522819cfbbaeea0c73935c82d6a63c9972f636fb0b9545b100d03"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 23",
+     "bytes": 1928,
+     "sha256": "d300352a1018932a2b1b7d26e1f63ccc92ecf005fb868328a3118090036d9806"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 24",
+     "bytes": 1780,
+     "sha256": "583eb8bcf41cc97057265829a49b53a0c7949053ab68733d4c843ceb5c33bf3e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 25",
+     "bytes": 2736,
+     "sha256": "9366056c39fb5b522176afd3f1f1a0c1c2136b0ddb84de7e3596d240b41179af"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 26",
+     "bytes": 1336,
+     "sha256": "eba0fb2bab93e849cf46f247bd160367677c71ca3d71e13faf18db6b2a9bc0b5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 27",
+     "bytes": 2383,
+     "sha256": "dccf963a40a72a344fabbaec92abc0ba88524bdd5996c0b1dba8890d78922b14"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 28",
+     "bytes": 1253,
+     "sha256": "a6dfa459e61263f675053a2421d6b9c0b497c6b3243cdf3d5cea47965e0a7db8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 29",
+     "bytes": 1134,
+     "sha256": "a1143da377e832d5ca533317e00778f80486f574fdc1048179539e23479a4743"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 30",
+     "bytes": 2201,
+     "sha256": "aee87ddd87c8998939fe08acfe966d30c5ea8212ff336d135426074f46cdb7ef"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VII/Chapter 31",
+     "bytes": 1335,
+     "sha256": "ceebfa4cbe4439464edc6b2379dc321fe63221421f44c4308fb88e924117c2ff"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VIII/Chapter 1",
+     "bytes": 3785,
+     "sha256": "1b726759442f813b398631726f704b90ec63ee1cc7ba93908229e89122503e9e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VIII/Chapter 2",
+     "bytes": 1891,
+     "sha256": "478609e15a1a1f78d61f382154a9fed46426e1f21924dc7a2c2b472e58ca6b48"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VIII/Chapter 3",
+     "bytes": 2485,
+     "sha256": "f60bc46bd3a3e7b4b218a76ae2141a96b1a995e06100c08dbdf02a9d7f4e149b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VIII/Chapter 4",
+     "bytes": 4199,
+     "sha256": "6507061d6b628bab23f1d3a0356a1c00e60fd56083ee970713b0ac4c2a1b982d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VIII/Chapter 5",
+     "bytes": 2190,
+     "sha256": "b24b28c791422f9952b58f25798018f9439db4a7424dfeb991d2977a6fc6990f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VIII/Chapter 6",
+     "bytes": 1330,
+     "sha256": "6f9075a8df94af68684380004130e74d1c37892cc67e5675dc05dc824bc647ee"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VIII/Chapter 7",
+     "bytes": 1489,
+     "sha256": "472ff8a4544fff6f4d5d7724bcac7ff3ac9504a546f78ed5cdafb1d431b9307c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VIII/Chapter 8",
+     "bytes": 2982,
+     "sha256": "74d4e24c73772aaab511f0096b32536ae5d581a85f1818ce6454c25fff4a3d7c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VIII/Chapter 9",
+     "bytes": 2402,
+     "sha256": "f805d577930f322f391f11aefbb30317c3319761ba71205a0ddfd6ed14e75fde"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VIII/Chapter 10",
+     "bytes": 3089,
+     "sha256": "d5a5a27eb565486ab84fc90633240a59eeca0489e2f1d70585cf40f00e878110"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VIII/Chapter 11",
+     "bytes": 1941,
+     "sha256": "aba641e7c818968afc6d3cccf8bcb5680cf077291fb935048a8d3686c33c425d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VIII/Chapter 12",
+     "bytes": 1978,
+     "sha256": "17ea53f3ffd8e7a927a12644e331e8a67f3236829c7ae183664be98913a0118c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VIII/Chapter 13",
+     "bytes": 2323,
+     "sha256": "cca72d1a250137f39b498fbe74b972d1ed6886878e58285c1cb291cdedc027ac"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VIII/Chapter 14",
+     "bytes": 2180,
+     "sha256": "50890c4e5e0e7c4f923cb3b3ef2b52b6332d3db350235754a2b456ce310344a1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VIII/Chapter 15",
+     "bytes": 1741,
+     "sha256": "6462ccd42dca1157564bdb529d58c0debcc1a53f187d4a900d13e36106f5113e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VIII/Chapter 16",
+     "bytes": 1480,
+     "sha256": "b3aa58cbfa082cd4af2e9c10423d5d1c70adbd087bfe076891fd8cc4c09b50f4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VIII/Chapter 17",
+     "bytes": 1398,
+     "sha256": "203a46dc770532b8a01d7e42fc6ab2467dac721ac906d807b95d07e1d4341448"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VIII/Chapter 18",
+     "bytes": 2652,
+     "sha256": "8b451f8fbf210f1396469170fcbada06a247cdff1d95d8b51037cd909817c659"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VIII/Chapter 19",
+     "bytes": 2854,
+     "sha256": "bcf49580cb65b455135a8db1997fd341f516b8ae6280571b44b6ce9acadf3672"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VIII/Chapter 20",
+     "bytes": 2994,
+     "sha256": "a66f20698b5c5fbfdd208146b9cf926696fbd2ae4c6a69b665927153b6e9a7bd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VIII/Chapter 21",
+     "bytes": 2469,
+     "sha256": "55f5c4589a497e5119ea9ddc98f74a9ff17d377be97effc5d9a2baf0ce258597"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book VIII/Chapter 22",
+     "bytes": 2130,
+     "sha256": "a0068709d3a7b0902b3600f901b5c6800364dccc3e72264cf23bdf2c897f7138"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IX/Chapter 1",
+     "bytes": 1809,
+     "sha256": "23ecce9a08d4dd05b253b4c1f2cd8e2b8711de0ed1d57215e0afebc27cc0f4a0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IX/Chapter 2",
+     "bytes": 1407,
+     "sha256": "48f2f937f565a318a4e8f661040bc49b53e6b064dab45701dcdbf05484382145"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IX/Chapter 3",
+     "bytes": 2462,
+     "sha256": "572a9ac13e3db4b6e23ca27f99a48df472dd529a0b286a5a7d15c7d4dae5e189"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IX/Chapter 4",
+     "bytes": 1649,
+     "sha256": "e8ebd0400e7181de4f364e411cacf90102f01236f1cdd054c92801e593babac7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IX/Chapter 5",
+     "bytes": 1292,
+     "sha256": "faeaae36962273e7eacbc962182bf1c61f0921061a0d06809790ce5945f79c43"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IX/Chapter 6",
+     "bytes": 1535,
+     "sha256": "845729daa30d5bf94870ee177b6c09f5859d2c49c5157d536058073c4a9d86df"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IX/Chapter 7",
+     "bytes": 2043,
+     "sha256": "e8e3fa805327331aee229bf22b212d61afd106038d859f94ea45d60abb587883"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IX/Chapter 8",
+     "bytes": 1700,
+     "sha256": "b5361ee55df2718323d526d9c67d5c8927df05d5763e88764cd5dbe652460b4b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IX/Chapter 9",
+     "bytes": 1310,
+     "sha256": "9469fdb0dcb9b14bc90d0f57af02aa885928dd81403c0f111ca555a0e7b2db37"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IX/Chapter 10",
+     "bytes": 1390,
+     "sha256": "7aa3dae96f8457f5136105cd4f16000d74d5113cf0bc1994cca70acd2bd48a05"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IX/Chapter 11",
+     "bytes": 2066,
+     "sha256": "bca326b2911e4aed424380b187e667de701fbfcee304d9bf487e5527eb866234"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IX/Chapter 12",
+     "bytes": 1405,
+     "sha256": "c9a303a6b1c8a8028bac9bd6a181dd75625b0a53c204928104bf24c600ca8f88"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book IX/Chapter 13",
+     "bytes": 1746,
+     "sha256": "1b96c5dbe0629d9d0246dad59c1943fd04a7a804818137c5dfd148fe429efe29"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 1",
+     "bytes": 1872,
+     "sha256": "c88a33ad1aa3e5467a7df8bfac90185c1e2a5b9f07ba1494333810677bfbeb21"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 2",
+     "bytes": 4246,
+     "sha256": "4e0f9adbeb410b19538c61e30863269eb4b844905b98ba08a580879d9a391fb7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 3",
+     "bytes": 2141,
+     "sha256": "8528d8cd0b8ffde8249e42d785a1f3e87d84b82924dd8dc89299d2709e7f9ec8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 4",
+     "bytes": 1613,
+     "sha256": "8a7e3c05ab55771ec1378f09ab26991e340b3eba514b17f5ccd21f1705a50635"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 5",
+     "bytes": 1347,
+     "sha256": "c944b994651a568d22d115e172fabc8afcc2792f2e0eec38619760e638a5de0a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 6",
+     "bytes": 1811,
+     "sha256": "c098f4cd4b135cd0b07b79e505f6becdda0f8060c5e15f596835214883ed40e8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 7",
+     "bytes": 8933,
+     "sha256": "64f97be7be5a7c797dcf4e96dcfd72dd135a3967cddf727aae296cd21021e447"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 8",
+     "bytes": 3348,
+     "sha256": "0b5fe776d99a2c4946d30566b89c2af8f29eb4adf2d2bd10b09b06f78ad7607c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 9",
+     "bytes": 1668,
+     "sha256": "363493031ccaead6a3d2cbcbacd079d1b4837a85e3f9f58f34f8ac8e4ab2e8c8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 10",
+     "bytes": 2443,
+     "sha256": "0f96db833324f08eba203c65ceb2b9a18ec1829436a095bdfc131e005c9c6f28"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 11",
+     "bytes": 1716,
+     "sha256": "c9cb6d50435cb691536e2383ce15ae9be6571740151012ccd9817bd81f4e94cd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 12",
+     "bytes": 2273,
+     "sha256": "f2ab2dabfb6b81044dd6ee46bd353b49f23d2097407a1ff4459c4a0d25e25d0e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 13",
+     "bytes": 2007,
+     "sha256": "f7b5d143ea1f131d86a892609e28bc11cde8bf8193fa1da1741736509360830e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 14",
+     "bytes": 1920,
+     "sha256": "2c6e8ba42f895284f2d30d6adc56174e6d5b125b43040b4ec93d195b9224a593"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 15",
+     "bytes": 2048,
+     "sha256": "541c861452bde5a67f3614ad64f94ccdc4b4d1883ecf66592515b9e53cfa070a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 16",
+     "bytes": 2412,
+     "sha256": "4d3cb367d3a9ca5aa479b8f0aeacf84adfa48bf7296c5fc70dff886ad7afd689"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 17",
+     "bytes": 1970,
+     "sha256": "c274c8e645912ca7d0c5684474fc5c3ebf1705a0057137c31a064c6419c424c4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 18",
+     "bytes": 2494,
+     "sha256": "f7eb2856d95f479e16d2941d35597309d24d2a2de3dbf04f9df1be1f279532bd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 19",
+     "bytes": 2230,
+     "sha256": "9c5717f969d0a017b0be8788f13ccef2a6812a3e393d33f072d2fb3a320d4615"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 20",
+     "bytes": 2690,
+     "sha256": "fe9fc0c7d7ad9d798772bd9afb06a7aa5ecacf7e1abeb0a67c52d3aebe7befcd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 21",
+     "bytes": 4851,
+     "sha256": "5d182769b5eefe64845752bf9c202864e17bdc209197b477cd255d53ee9d204b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 22",
+     "bytes": 2990,
+     "sha256": "364ba8bef4b0493a777d87b7b172119fa853dfa6140688aec5a2063d6478e579"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 23",
+     "bytes": 1566,
+     "sha256": "1b0765d631a85cb74149da46372b9efd8046bb693fc9cf2e7bba0cfab6b603ee"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 24",
+     "bytes": 2661,
+     "sha256": "82f8dc168d149599da2f6a8c35d49aeff41495a9c19b5142a706927d8ee66132"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book X/Chapter 25",
+     "bytes": 2151,
+     "sha256": "0305a1db3e4247d3fea87142f7b713cdc9c4bcaf592f0c22cb482d8b711d1221"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XI/Chapter 1",
+     "bytes": 1278,
+     "sha256": "47eab282ea30168cb514f0cf1f62296c0ac28808edb7f7c74a5a53fa40488920"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XI/Chapter 2",
+     "bytes": 1931,
+     "sha256": "c881cd783f5bf7e169d0f7419e57dc8645e6160683f69a3737f642ed3ef2a221"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XI/Chapter 3",
+     "bytes": 1634,
+     "sha256": "9cc00078463e4507610aa59de24f518d2b1c0f31a1e1b6f594057dd27b992b87"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XI/Chapter 4",
+     "bytes": 2783,
+     "sha256": "1de06088734eaec45dfa2035a98ffd83133e508cc4416b5ed86f43969cc9bf14"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XI/Chapter 5",
+     "bytes": 1166,
+     "sha256": "e9c647c92d6f86b692763ac1d9712e0e43abd73968909a1db5027f4d87720d6e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XI/Chapter 6",
+     "bytes": 2694,
+     "sha256": "dd862c43c1646e823b1de96f01ad84873f573eb7272f3d91363a7cb773da4b40"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XI/Chapter 7",
+     "bytes": 1841,
+     "sha256": "12b370201178dc325a5380c67dda582a47a35123d6a2b3b86e47a9cc807631be"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XI/Chapter 8",
+     "bytes": 1680,
+     "sha256": "46cdb0ca589da2773a997297887c57423abbb050d2dc03b69474833de3116c9d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XI/Chapter 9",
+     "bytes": 1374,
+     "sha256": "63a1c3f35a60d656d20285ff8ee32c1b383a9427e207bf24f4639cf6d320590a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XI/Chapter 10",
+     "bytes": 3680,
+     "sha256": "ec75c9f6cf0455c092e48decab5220a48a2d9e79e69d681f65c83308f08cf4df"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XI/Chapter 11",
+     "bytes": 2025,
+     "sha256": "05761b2de7244ab6738d4a8da8bef84cebfddbc554e314dc0a75be2117fbf248"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XI/Chapter 12",
+     "bytes": 1400,
+     "sha256": "e404f7c664c9df8a815ef048df6f299fadf40f0fa03f814ea0e5a044555c080c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XI/Chapter 13",
+     "bytes": 1770,
+     "sha256": "67dbf32bcdad2857a456b268b9cfc17739561d4f844df6f8d3c36dbfe7fdf731"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XI/Chapter 14",
+     "bytes": 1576,
+     "sha256": "570e6a654d46138a83a319313dd0758db9c923568cc69ded45e07df7f2eb629c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XI/Chapter 15",
+     "bytes": 1315,
+     "sha256": "33c406fcb8cc733044372b640c90e8e5706124178f675093606ffaed7eb58209"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XI/Chapter 16",
+     "bytes": 3460,
+     "sha256": "1efc6a89a2cc059843dbda46e25f959be02f2c54f1bbb988fde3f0073c73df7c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XI/Chapter 17",
+     "bytes": 2560,
+     "sha256": "ac150798908aadd03c44b7d78493a41869ca408e2f3670ee977fcaa544828b39"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XI/Chapter 18",
+     "bytes": 1434,
+     "sha256": "ffa11ed5be358cccafd11dc4b5c339f3aa0589da72641b8571df563193b4ab08"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XI/Chapter 19",
+     "bytes": 2616,
+     "sha256": "dc4858afe1480264a5e29374a5c33953821af6b2a95e752a6ea95a32b12983a3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 1",
+     "bytes": 1375,
+     "sha256": "3d677cbcbcbd9dd3052329e0d3da9d4aa8feae4e1aec1e74921727e92009371b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 2",
+     "bytes": 1584,
+     "sha256": "f7ebd4db6802339b6a8a0ea3f11cc6d555d6c6d90e6d071442b2a6cb1ef25e13"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 3",
+     "bytes": 2639,
+     "sha256": "ceb21e78f0440120bd4809d9d4044d0aae1c89bd06429e0c45658e1c2216e18a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 4",
+     "bytes": 3826,
+     "sha256": "e2800af607851ee50515b37ce9e4d642cbb6f72b5ce46d7bdca61c86dc4f334b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 5",
+     "bytes": 1780,
+     "sha256": "a46ad398a5865eff8ee7b43cbeba975cb156e0fc6fdb405e34769dc9a31edb84"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 6",
+     "bytes": 2802,
+     "sha256": "ec2242696c9652db065ce8cafd67c64f20283252261a09342f92b4d04d8c54f3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 7",
+     "bytes": 1636,
+     "sha256": "60e436e4530eb4965ae4080a22d6ec75bf1db076f1a90f9b8b281e7ea8c41444"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 8",
+     "bytes": 3612,
+     "sha256": "51019514248d7e8a32f46f0d3d3d960e9663c080215a3687a7a2c606ab401664"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 9",
+     "bytes": 1924,
+     "sha256": "5f5d9ca93d7f5df89461eb74ed0c2aa3bd6a69d39c46f3fc3dc0a5a86977dac7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 10",
+     "bytes": 1809,
+     "sha256": "948b80a0307036575ee3699cf0d25b896a0b95e6ec1b1a8d94e5171c60557f23"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 11",
+     "bytes": 2770,
+     "sha256": "64d8833a60d8b6935e91846f100f7fdf45e89cf88554de29917c9bc95fdccaf4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 12",
+     "bytes": 1219,
+     "sha256": "8cfdac2654aecb8f9aec3b6715065ad1dc08d63c7c90e3146977153192316d16"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 13",
+     "bytes": 2124,
+     "sha256": "71fd133f4aa57dd906f1e6e915c7eb47b7b0be0e5482bc268b41602ddb866328"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 14",
+     "bytes": 3053,
+     "sha256": "143a177ddd940c6348decd5be1a4e73f918e40f79807b2de20b312efa33c3990"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 15",
+     "bytes": 2786,
+     "sha256": "8ca81eced6b99dc65253be5533fe9b476f906f652e4f780eaf18a973b524727f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 16",
+     "bytes": 1740,
+     "sha256": "003cb8cbf16fa3a63dbb49e1a2c96486c71114063170486ccc9aeb05bd903b12"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 17",
+     "bytes": 6195,
+     "sha256": "adf6c159e258817d13af6db726b5173196bc365fe6ed1e7f85f383bb3e569309"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 18",
+     "bytes": 2323,
+     "sha256": "e048a2dff2878b47f0fa5b37635be90295a78b89b0089dea7b44f531ecec77d9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 19",
+     "bytes": 1788,
+     "sha256": "4ccfe9f73cd38927b46a5273c9eede098199cfebcf375f5f738fb8f2361acaf0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 20",
+     "bytes": 2251,
+     "sha256": "3215bd70a4b3fd21fd6d2ab68c4a87a4dd9992242319083d4b680a13476f7b9a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 21",
+     "bytes": 3373,
+     "sha256": "5b90cda2bbb8bca3f99de5212f61ccc4ab9eea1bdbb0ec5cb47a84861365c891"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 22",
+     "bytes": 1755,
+     "sha256": "89321ac3337a0223307d7cbcf83622ebbc8a7b4f51663fac8edd62cc488bfb16"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 23",
+     "bytes": 1347,
+     "sha256": "7c788438fcb79a258449700dcd73d077c6e0f986543536a2e1c252a7e52140ef"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 24",
+     "bytes": 2294,
+     "sha256": "478215447452fdddcee6783aaef2649eef0e862360efa7a1903c1044c583aa89"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 25",
+     "bytes": 2525,
+     "sha256": "dc7b56ed0cb8ce83dab12135d79f797f8f53bbc8561ff308a1b6fce82963c61a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 26",
+     "bytes": 1952,
+     "sha256": "890e3ca149086500771060e90a1072d5ec70fe1efabbbc9db6808fa47933dc03"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 27",
+     "bytes": 5136,
+     "sha256": "9675cd4d043b50f5fb61134189be3af30f049b2ea5b80ac4969610a370602288"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 28",
+     "bytes": 2036,
+     "sha256": "40e2718056f4263ccbf30be6adfde9fbb6c1313fbf415686fba372b3075c59c0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 29",
+     "bytes": 2984,
+     "sha256": "fc231826e420874fa7599ec2aa8e3bfe9aa6e1e87b08019576a9446379cc9b71"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 30",
+     "bytes": 1802,
+     "sha256": "3c867b0fd26c1d9ffe929e19c4d0e588f80ed981c0025a82cbc5585acabea38c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 31",
+     "bytes": 2701,
+     "sha256": "fd61af91b0e14c4fc922b892718c68aba7a88ad13fc12c00f6e4787487788289"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 32",
+     "bytes": 2438,
+     "sha256": "fe88feafbf643aa7ba02b2a6acd14e281390356b03d468c498e71c9a963316d5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XI/John Cassian/The Twelve Books/Book XII/Chapter 33",
+     "bytes": 2206,
+     "sha256": "b593431b2b796246e1d720710ee8a62955023f5d22d39bb7c6b9eca1bced2ae5"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "p1",
+     "title": "Preface.",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.1",
+     "title": "Chapter I.",
+     "segments": 3
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.2",
+     "title": "Chapter II.",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.3",
+     "title": "Chapter III.",
+     "segments": 3
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.4",
+     "title": "Chapter IV.",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.5",
+     "title": "Chapter V.",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.6",
+     "title": "Chapter VI.",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.7",
+     "title": "Chapter VII.",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.8",
+     "title": "Chapter VIII.",
+     "segments": 3
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.9",
+     "title": "Chapter IX.",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.10",
+     "title": "1.10",
+     "segments": 3
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.11",
+     "title": "Chapter XI.",
+     "segments": 3
+    },
+    {
+     "file": "0013.json",
+     "ref": "2.1",
+     "title": "Chapter I.",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "2.2",
+     "title": "Chapter II.",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "2.3",
+     "title": "Chapter III.",
+     "segments": 3
+    },
+    {
+     "file": "0016.json",
+     "ref": "2.4",
+     "title": "Chapter IV.",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "2.5",
+     "title": "Chapter V.",
+     "segments": 3
+    },
+    {
+     "file": "0018.json",
+     "ref": "2.6",
+     "title": "Chapter VI.",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "2.7",
+     "title": "Chapter VII.",
+     "segments": 3
+    },
+    {
+     "file": "0020.json",
+     "ref": "2.8",
+     "title": "Chapter VIII.",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "2.9",
+     "title": "Chapter IX.",
+     "segments": 3
+    },
+    {
+     "file": "0022.json",
+     "ref": "2.10",
+     "title": "Chapter X.",
+     "segments": 3
+    },
+    {
+     "file": "0023.json",
+     "ref": "2.11",
+     "title": "Chapter XI.",
+     "segments": 3
+    },
+    {
+     "file": "0024.json",
+     "ref": "2.12",
+     "title": "Chapter XII.",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "2.13",
+     "title": "Chapter XIII.",
+     "segments": 3
+    },
+    {
+     "file": "0026.json",
+     "ref": "2.14",
+     "title": "Chapter XIV.",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "2.15",
+     "title": "Chapter XV.",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "2.16",
+     "title": "Chapter XVI.",
+     "segments": 3
+    },
+    {
+     "file": "0029.json",
+     "ref": "2.17",
+     "title": "Chapter XVII.",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "2.18",
+     "title": "Chapter XVIII.",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "3.1",
+     "title": "Chapter I.",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "3.2",
+     "title": "Chapter II.",
+     "segments": 3
+    },
+    {
+     "file": "0033.json",
+     "ref": "3.3",
+     "title": "Chapter III.",
+     "segments": 3
+    },
+    {
+     "file": "0034.json",
+     "ref": "3.4",
+     "title": "Chapter IV.",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "3.5",
+     "title": "Chapter V.",
+     "segments": 3
+    },
+    {
+     "file": "0036.json",
+     "ref": "3.6",
+     "title": "Chapter VI.",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "3.7",
+     "title": "Chapter VII.",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "3.8",
+     "title": "Chapter VIII.",
+     "segments": 3
+    },
+    {
+     "file": "0039.json",
+     "ref": "3.9",
+     "title": "Chapter IX.",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "3.10",
+     "title": "Chapter X.",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "3.11",
+     "title": "Chapter XI.",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "3.12",
+     "title": "Chapter XII.",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "4.1",
+     "title": "Chapter I.",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "4.2",
+     "title": "Chapter II.",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "4.3",
+     "title": "Chapter III.",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "4.4",
+     "title": "Chapter IV.",
+     "segments": 3
+    },
+    {
+     "file": "0047.json",
+     "ref": "4.5",
+     "title": "Chapter V.",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "4.6",
+     "title": "Chapter VI.",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "4.7",
+     "title": "Chapter VII.",
+     "segments": 3
+    },
+    {
+     "file": "0050.json",
+     "ref": "4.8",
+     "title": "Chapter VIII.",
+     "segments": 2
+    },
+    {
+     "file": "0051.json",
+     "ref": "4.9",
+     "title": "Chapter IX.",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "4.10",
+     "title": "Chapter X.",
+     "segments": 3
+    },
+    {
+     "file": "0053.json",
+     "ref": "4.11",
+     "title": "Chapter XI.",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "4.12",
+     "title": "Chapter XII.",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "4.13",
+     "title": "Chapter XIII.",
+     "segments": 2
+    },
+    {
+     "file": "0056.json",
+     "ref": "4.14",
+     "title": "Chapter XIV.",
+     "segments": 3
+    },
+    {
+     "file": "0057.json",
+     "ref": "4.15",
+     "title": "Chapter XV.",
+     "segments": 2
+    },
+    {
+     "file": "0058.json",
+     "ref": "4.16",
+     "title": "Chapter XVI.",
+     "segments": 3
+    },
+    {
+     "file": "0059.json",
+     "ref": "4.17",
+     "title": "Chapter XVII.",
+     "segments": 2
+    },
+    {
+     "file": "0060.json",
+     "ref": "4.18",
+     "title": "Chapter XVIII.",
+     "segments": 2
+    },
+    {
+     "file": "0061.json",
+     "ref": "4.19",
+     "title": "Chapter XIX.",
+     "segments": 3
+    },
+    {
+     "file": "0062.json",
+     "ref": "4.20",
+     "title": "Chapter XX.",
+     "segments": 2
+    },
+    {
+     "file": "0063.json",
+     "ref": "4.21",
+     "title": "Chapter XXI.",
+     "segments": 3
+    },
+    {
+     "file": "0064.json",
+     "ref": "4.22",
+     "title": "Chapter XXII.",
+     "segments": 2
+    },
+    {
+     "file": "0065.json",
+     "ref": "4.23",
+     "title": "Chapter XXIII.",
+     "segments": 2
+    },
+    {
+     "file": "0066.json",
+     "ref": "4.24",
+     "title": "Chapter XXIV.",
+     "segments": 3
+    },
+    {
+     "file": "0067.json",
+     "ref": "4.25",
+     "title": "Chapter XXV.",
+     "segments": 2
+    },
+    {
+     "file": "0068.json",
+     "ref": "4.26",
+     "title": "Chapter XXVI.",
+     "segments": 2
+    },
+    {
+     "file": "0069.json",
+     "ref": "4.27",
+     "title": "Chapter XXVII.",
+     "segments": 3
+    },
+    {
+     "file": "0070.json",
+     "ref": "4.28",
+     "title": "Chapter XXVIII.",
+     "segments": 2
+    },
+    {
+     "file": "0071.json",
+     "ref": "4.29",
+     "title": "Chapter XXIX.",
+     "segments": 2
+    },
+    {
+     "file": "0072.json",
+     "ref": "4.30",
+     "title": "Chapter XXX.",
+     "segments": 2
+    },
+    {
+     "file": "0073.json",
+     "ref": "4.31",
+     "title": "Chapter XXXI.",
+     "segments": 3
+    },
+    {
+     "file": "0074.json",
+     "ref": "4.32",
+     "title": "Chapter XXXII.",
+     "segments": 2
+    },
+    {
+     "file": "0075.json",
+     "ref": "4.33",
+     "title": "Chapter XXXIII.",
+     "segments": 2
+    },
+    {
+     "file": "0076.json",
+     "ref": "4.34",
+     "title": "Chapter XXXIV.",
+     "segments": 2
+    },
+    {
+     "file": "0077.json",
+     "ref": "4.35",
+     "title": "Chapter XXXV.",
+     "segments": 2
+    },
+    {
+     "file": "0078.json",
+     "ref": "4.36",
+     "title": "Chapter XXXVI.",
+     "segments": 2
+    },
+    {
+     "file": "0079.json",
+     "ref": "4.37",
+     "title": "Chapter XXXVII.",
+     "segments": 2
+    },
+    {
+     "file": "0080.json",
+     "ref": "4.38",
+     "title": "Chapter XXXVIII.",
+     "segments": 3
+    },
+    {
+     "file": "0081.json",
+     "ref": "4.39",
+     "title": "Chapter XXXIX.",
+     "segments": 2
+    },
+    {
+     "file": "0082.json",
+     "ref": "4.40",
+     "title": "Chapter XL.",
+     "segments": 2
+    },
+    {
+     "file": "0083.json",
+     "ref": "4.41",
+     "title": "Chapter XLI.",
+     "segments": 3
+    },
+    {
+     "file": "0084.json",
+     "ref": "4.42",
+     "title": "Chapter XLII.",
+     "segments": 2
+    },
+    {
+     "file": "0085.json",
+     "ref": "4.43",
+     "title": "Chapter XLIII.",
+     "segments": 2
+    },
+    {
+     "file": "0086.json",
+     "ref": "5.1",
+     "title": "Chapter I.",
+     "segments": 2
+    },
+    {
+     "file": "0087.json",
+     "ref": "5.2",
+     "title": "Chapter II.",
+     "segments": 2
+    },
+    {
+     "file": "0088.json",
+     "ref": "5.3",
+     "title": "Chapter III.",
+     "segments": 2
+    },
+    {
+     "file": "0089.json",
+     "ref": "5.4",
+     "title": "Chapter IV.",
+     "segments": 3
+    },
+    {
+     "file": "0090.json",
+     "ref": "5.5",
+     "title": "Chapter V.",
+     "segments": 2
+    },
+    {
+     "file": "0091.json",
+     "ref": "5.6",
+     "title": "Chapter VI.",
+     "segments": 3
+    },
+    {
+     "file": "0092.json",
+     "ref": "5.7",
+     "title": "Chapter VII.",
+     "segments": 2
+    },
+    {
+     "file": "0093.json",
+     "ref": "5.8",
+     "title": "Chapter VIII.",
+     "segments": 2
+    },
+    {
+     "file": "0094.json",
+     "ref": "5.9",
+     "title": "Chapter IX.",
+     "segments": 2
+    },
+    {
+     "file": "0095.json",
+     "ref": "5.10",
+     "title": "Chapter X.",
+     "segments": 2
+    },
+    {
+     "file": "0096.json",
+     "ref": "5.11",
+     "title": "Chapter XI.",
+     "segments": 2
+    },
+    {
+     "file": "0097.json",
+     "ref": "5.12",
+     "title": "Chapter XII.",
+     "segments": 3
+    },
+    {
+     "file": "0098.json",
+     "ref": "5.13",
+     "title": "Chapter XIII.",
+     "segments": 2
+    },
+    {
+     "file": "0099.json",
+     "ref": "5.14",
+     "title": "Chapter XIV.",
+     "segments": 3
+    },
+    {
+     "file": "0100.json",
+     "ref": "5.15",
+     "title": "Chapter XV.",
+     "segments": 2
+    },
+    {
+     "file": "0101.json",
+     "ref": "5.16",
+     "title": "Chapter XVI.",
+     "segments": 2
+    },
+    {
+     "file": "0102.json",
+     "ref": "5.17",
+     "title": "Chapter XVII.",
+     "segments": 3
+    },
+    {
+     "file": "0103.json",
+     "ref": "5.18",
+     "title": "Chapter XVIII.",
+     "segments": 2
+    },
+    {
+     "file": "0104.json",
+     "ref": "5.19",
+     "title": "Chapter XIX.",
+     "segments": 2
+    },
+    {
+     "file": "0105.json",
+     "ref": "5.20",
+     "title": "Chapter XX.",
+     "segments": 2
+    },
+    {
+     "file": "0106.json",
+     "ref": "5.21",
+     "title": "Chapter XXI.",
+     "segments": 2
+    },
+    {
+     "file": "0107.json",
+     "ref": "5.22",
+     "title": "Chapter XXII.",
+     "segments": 2
+    },
+    {
+     "file": "0108.json",
+     "ref": "5.23",
+     "title": "Chapter XXIII.",
+     "segments": 2
+    },
+    {
+     "file": "0109.json",
+     "ref": "5.24",
+     "title": "Chapter XXIV.",
+     "segments": 3
+    },
+    {
+     "file": "0110.json",
+     "ref": "5.25",
+     "title": "Chapter XXV.",
+     "segments": 2
+    },
+    {
+     "file": "0111.json",
+     "ref": "5.26",
+     "title": "Chapter XXVI.",
+     "segments": 2
+    },
+    {
+     "file": "0112.json",
+     "ref": "5.27",
+     "title": "Chapter XXVII.",
+     "segments": 2
+    },
+    {
+     "file": "0113.json",
+     "ref": "5.28",
+     "title": "Chapter XXVIII.",
+     "segments": 2
+    },
+    {
+     "file": "0114.json",
+     "ref": "5.29",
+     "title": "Chapter XXIX.",
+     "segments": 3
+    },
+    {
+     "file": "0115.json",
+     "ref": "5.30",
+     "title": "Chapter XXX.",
+     "segments": 2
+    },
+    {
+     "file": "0116.json",
+     "ref": "5.31",
+     "title": "Chapter XXXI.",
+     "segments": 2
+    },
+    {
+     "file": "0117.json",
+     "ref": "5.32",
+     "title": "Chapter XXXII.",
+     "segments": 3
+    },
+    {
+     "file": "0118.json",
+     "ref": "5.33",
+     "title": "Chapter XXXIII.",
+     "segments": 2
+    },
+    {
+     "file": "0119.json",
+     "ref": "5.34",
+     "title": "Chapter XXXIV.",
+     "segments": 2
+    },
+    {
+     "file": "0120.json",
+     "ref": "5.35",
+     "title": "Chapter XXXV.",
+     "segments": 3
+    },
+    {
+     "file": "0121.json",
+     "ref": "5.36",
+     "title": "Chapter XXXVI.",
+     "segments": 2
+    },
+    {
+     "file": "0122.json",
+     "ref": "5.37",
+     "title": "Chapter XXXVII.",
+     "segments": 2
+    },
+    {
+     "file": "0123.json",
+     "ref": "5.38",
+     "title": "Chapter XXXVIII.",
+     "segments": 3
+    },
+    {
+     "file": "0124.json",
+     "ref": "5.39",
+     "title": "Chapter XXXIX.",
+     "segments": 2
+    },
+    {
+     "file": "0125.json",
+     "ref": "5.40",
+     "title": "Chapter XL.",
+     "segments": 3
+    },
+    {
+     "file": "0126.json",
+     "ref": "5.41",
+     "title": "Chapter XLI.",
+     "segments": 2
+    },
+    {
+     "file": "0127.json",
+     "ref": "6",
+     "title": "On the Spirit of Fornication.",
+     "segments": 1
+    },
+    {
+     "file": "0128.json",
+     "ref": "7.1",
+     "title": "Chapter I.",
+     "segments": 2
+    },
+    {
+     "file": "0129.json",
+     "ref": "7.2",
+     "title": "Chapter II.",
+     "segments": 2
+    },
+    {
+     "file": "0130.json",
+     "ref": "7.3",
+     "title": "Chapter III.",
+     "segments": 2
+    },
+    {
+     "file": "0131.json",
+     "ref": "7.4",
+     "title": "Chapter IV.",
+     "segments": 2
+    },
+    {
+     "file": "0132.json",
+     "ref": "7.5",
+     "title": "Chapter V.",
+     "segments": 2
+    },
+    {
+     "file": "0133.json",
+     "ref": "7.6",
+     "title": "Chapter VI.",
+     "segments": 3
+    },
+    {
+     "file": "0134.json",
+     "ref": "7.7",
+     "title": "Chapter VII.",
+     "segments": 2
+    },
+    {
+     "file": "0135.json",
+     "ref": "7.8",
+     "title": "Chapter VIII.",
+     "segments": 3
+    },
+    {
+     "file": "0136.json",
+     "ref": "7.9",
+     "title": "Chapter IX.",
+     "segments": 2
+    },
+    {
+     "file": "0137.json",
+     "ref": "7.10",
+     "title": "Chapter X.",
+     "segments": 2
+    },
+    {
+     "file": "0138.json",
+     "ref": "7.11",
+     "title": "Chapter XI.",
+     "segments": 2
+    },
+    {
+     "file": "0139.json",
+     "ref": "7.12",
+     "title": "Chapter XII.",
+     "segments": 3
+    },
+    {
+     "file": "0140.json",
+     "ref": "7.13",
+     "title": "Chapter XIII.",
+     "segments": 2
+    },
+    {
+     "file": "0141.json",
+     "ref": "7.14",
+     "title": "Chapter XIV.",
+     "segments": 2
+    },
+    {
+     "file": "0142.json",
+     "ref": "7.15",
+     "title": "Chapter XV.",
+     "segments": 3
+    },
+    {
+     "file": "0143.json",
+     "ref": "7.16",
+     "title": "Chapter XVI.",
+     "segments": 2
+    },
+    {
+     "file": "0144.json",
+     "ref": "7.17",
+     "title": "Chapter XVII.",
+     "segments": 3
+    },
+    {
+     "file": "0145.json",
+     "ref": "7.18",
+     "title": "Chapter XVIII.",
+     "segments": 2
+    },
+    {
+     "file": "0146.json",
+     "ref": "7.19",
+     "title": "Chapter XIX.",
+     "segments": 2
+    },
+    {
+     "file": "0147.json",
+     "ref": "7.20",
+     "title": "Chapter XX.",
+     "segments": 3
+    },
+    {
+     "file": "0148.json",
+     "ref": "7.21",
+     "title": "Chapter XXI.",
+     "segments": 2
+    },
+    {
+     "file": "0149.json",
+     "ref": "7.22",
+     "title": "Chapter XXII.",
+     "segments": 2
+    },
+    {
+     "file": "0150.json",
+     "ref": "7.23",
+     "title": "Chapter XXIII.",
+     "segments": 2
+    },
+    {
+     "file": "0151.json",
+     "ref": "7.24",
+     "title": "Chapter XXIV.",
+     "segments": 2
+    },
+    {
+     "file": "0152.json",
+     "ref": "7.25",
+     "title": "Chapter XXV.",
+     "segments": 2
+    },
+    {
+     "file": "0153.json",
+     "ref": "7.26",
+     "title": "Chapter XXVI.",
+     "segments": 2
+    },
+    {
+     "file": "0154.json",
+     "ref": "7.27",
+     "title": "Chapter XXVII.",
+     "segments": 2
+    },
+    {
+     "file": "0155.json",
+     "ref": "7.28",
+     "title": "Chapter XXVIII.",
+     "segments": 2
+    },
+    {
+     "file": "0156.json",
+     "ref": "7.29",
+     "title": "Chapter XXIX.",
+     "segments": 2
+    },
+    {
+     "file": "0157.json",
+     "ref": "7.30",
+     "title": "Chapter XXX.",
+     "segments": 2
+    },
+    {
+     "file": "0158.json",
+     "ref": "7.31",
+     "title": "Chapter XXXI.",
+     "segments": 2
+    },
+    {
+     "file": "0159.json",
+     "ref": "8.1",
+     "title": "Chapter I.",
+     "segments": 3
+    },
+    {
+     "file": "0160.json",
+     "ref": "8.2",
+     "title": "Chapter II.",
+     "segments": 2
+    },
+    {
+     "file": "0161.json",
+     "ref": "8.3",
+     "title": "Chapter III.",
+     "segments": 2
+    },
+    {
+     "file": "0162.json",
+     "ref": "8.4",
+     "title": "Chapter IV.",
+     "segments": 3
+    },
+    {
+     "file": "0163.json",
+     "ref": "8.5",
+     "title": "Chapter V.",
+     "segments": 2
+    },
+    {
+     "file": "0164.json",
+     "ref": "8.6",
+     "title": "Chapter VI.",
+     "segments": 2
+    },
+    {
+     "file": "0165.json",
+     "ref": "8.7",
+     "title": "Chapter VII.",
+     "segments": 2
+    },
+    {
+     "file": "0166.json",
+     "ref": "8.8",
+     "title": "Chapter VIII.",
+     "segments": 3
+    },
+    {
+     "file": "0167.json",
+     "ref": "8.9",
+     "title": "Chapter IX.",
+     "segments": 2
+    },
+    {
+     "file": "0168.json",
+     "ref": "8.10",
+     "title": "Chapter X.",
+     "segments": 2
+    },
+    {
+     "file": "0169.json",
+     "ref": "8.11",
+     "title": "Chapter XI.",
+     "segments": 2
+    },
+    {
+     "file": "0170.json",
+     "ref": "8.12",
+     "title": "Chapter XII.",
+     "segments": 2
+    },
+    {
+     "file": "0171.json",
+     "ref": "8.13",
+     "title": "Chapter XIII.",
+     "segments": 2
+    },
+    {
+     "file": "0172.json",
+     "ref": "8.14",
+     "title": "Chapter XIV.",
+     "segments": 2
+    },
+    {
+     "file": "0173.json",
+     "ref": "8.15",
+     "title": "Chapter XV.",
+     "segments": 2
+    },
+    {
+     "file": "0174.json",
+     "ref": "8.16",
+     "title": "Chapter XVI.",
+     "segments": 2
+    },
+    {
+     "file": "0175.json",
+     "ref": "8.17",
+     "title": "Chapter XVII.",
+     "segments": 2
+    },
+    {
+     "file": "0176.json",
+     "ref": "8.18",
+     "title": "Chapter XVIII.",
+     "segments": 2
+    },
+    {
+     "file": "0177.json",
+     "ref": "8.19",
+     "title": "Chapter XIX.",
+     "segments": 3
+    },
+    {
+     "file": "0178.json",
+     "ref": "8.20",
+     "title": "Chapter XX.",
+     "segments": 2
+    },
+    {
+     "file": "0179.json",
+     "ref": "8.21",
+     "title": "Chapter XXI.",
+     "segments": 2
+    },
+    {
+     "file": "0180.json",
+     "ref": "8.22",
+     "title": "Chapter XXII.",
+     "segments": 2
+    },
+    {
+     "file": "0181.json",
+     "ref": "9.1",
+     "title": "Chapter I.",
+     "segments": 2
+    },
+    {
+     "file": "0182.json",
+     "ref": "9.2",
+     "title": "Chapter II.",
+     "segments": 2
+    },
+    {
+     "file": "0183.json",
+     "ref": "9.3",
+     "title": "Chapter III.",
+     "segments": 2
+    },
+    {
+     "file": "0184.json",
+     "ref": "9.4",
+     "title": "Chapter IV.",
+     "segments": 2
+    },
+    {
+     "file": "0185.json",
+     "ref": "9.5",
+     "title": "Chapter V.",
+     "segments": 2
+    },
+    {
+     "file": "0186.json",
+     "ref": "9.6",
+     "title": "Chapter VI.",
+     "segments": 2
+    },
+    {
+     "file": "0187.json",
+     "ref": "9.7",
+     "title": "Chapter VII.",
+     "segments": 2
+    },
+    {
+     "file": "0188.json",
+     "ref": "9.8",
+     "title": "Chapter VIII.",
+     "segments": 2
+    },
+    {
+     "file": "0189.json",
+     "ref": "9.9",
+     "title": "Chapter IX.",
+     "segments": 2
+    },
+    {
+     "file": "0190.json",
+     "ref": "9.10",
+     "title": "Chapter X.",
+     "segments": 2
+    },
+    {
+     "file": "0191.json",
+     "ref": "9.11",
+     "title": "Chapter XI.",
+     "segments": 2
+    },
+    {
+     "file": "0192.json",
+     "ref": "9.12",
+     "title": "Chapter XII.",
+     "segments": 2
+    },
+    {
+     "file": "0193.json",
+     "ref": "9.13",
+     "title": "Chapter XIII.",
+     "segments": 2
+    },
+    {
+     "file": "0194.json",
+     "ref": "10.1",
+     "title": "Chapter I.",
+     "segments": 2
+    },
+    {
+     "file": "0195.json",
+     "ref": "10.2",
+     "title": "Chapter II.",
+     "segments": 2
+    },
+    {
+     "file": "0196.json",
+     "ref": "10.3",
+     "title": "Chapter III.",
+     "segments": 2
+    },
+    {
+     "file": "0197.json",
+     "ref": "10.4",
+     "title": "Chapter IV.",
+     "segments": 3
+    },
+    {
+     "file": "0198.json",
+     "ref": "10.5",
+     "title": "Chapter V.",
+     "segments": 2
+    },
+    {
+     "file": "0199.json",
+     "ref": "10.6",
+     "title": "Chapter VI.",
+     "segments": 2
+    },
+    {
+     "file": "0200.json",
+     "ref": "10.7",
+     "title": "Chapter VII.",
+     "segments": 3
+    },
+    {
+     "file": "0201.json",
+     "ref": "10.8",
+     "title": "Chapter VIII.",
+     "segments": 3
+    },
+    {
+     "file": "0202.json",
+     "ref": "10.9",
+     "title": "Chapter IX.",
+     "segments": 2
+    },
+    {
+     "file": "0203.json",
+     "ref": "10.10",
+     "title": "Chapter X.",
+     "segments": 2
+    },
+    {
+     "file": "0204.json",
+     "ref": "10.11",
+     "title": "Chapter XI.",
+     "segments": 2
+    },
+    {
+     "file": "0205.json",
+     "ref": "10.12",
+     "title": "Chapter XII.",
+     "segments": 2
+    },
+    {
+     "file": "0206.json",
+     "ref": "10.13",
+     "title": "Chapter XIII.",
+     "segments": 2
+    },
+    {
+     "file": "0207.json",
+     "ref": "10.14",
+     "title": "Chapter XIV.",
+     "segments": 2
+    },
+    {
+     "file": "0208.json",
+     "ref": "10.15",
+     "title": "Chapter XV.",
+     "segments": 2
+    },
+    {
+     "file": "0209.json",
+     "ref": "10.16",
+     "title": "Chapter XVI.",
+     "segments": 2
+    },
+    {
+     "file": "0210.json",
+     "ref": "10.17",
+     "title": "Chapter XVII.",
+     "segments": 2
+    },
+    {
+     "file": "0211.json",
+     "ref": "10.18",
+     "title": "Chapter XVIII.",
+     "segments": 2
+    },
+    {
+     "file": "0212.json",
+     "ref": "10.19",
+     "title": "Chapter XIX.",
+     "segments": 2
+    },
+    {
+     "file": "0213.json",
+     "ref": "10.20",
+     "title": "Chapter XX.",
+     "segments": 2
+    },
+    {
+     "file": "0214.json",
+     "ref": "10.21",
+     "title": "Chapter XXI.",
+     "segments": 3
+    },
+    {
+     "file": "0215.json",
+     "ref": "10.22",
+     "title": "Chapter XXII.",
+     "segments": 2
+    },
+    {
+     "file": "0216.json",
+     "ref": "10.23",
+     "title": "Chapter XXIII.",
+     "segments": 2
+    },
+    {
+     "file": "0217.json",
+     "ref": "10.24",
+     "title": "Chapter XXIV.",
+     "segments": 3
+    },
+    {
+     "file": "0218.json",
+     "ref": "10.25",
+     "title": "Chapter XXV.",
+     "segments": 2
+    },
+    {
+     "file": "0219.json",
+     "ref": "11.1",
+     "title": "Chapter I.",
+     "segments": 2
+    },
+    {
+     "file": "0220.json",
+     "ref": "11.2",
+     "title": "Chapter II.",
+     "segments": 2
+    },
+    {
+     "file": "0221.json",
+     "ref": "11.3",
+     "title": "Chapter III.",
+     "segments": 2
+    },
+    {
+     "file": "0222.json",
+     "ref": "11.4",
+     "title": "Chapter IV.",
+     "segments": 2
+    },
+    {
+     "file": "0223.json",
+     "ref": "11.5",
+     "title": "Chapter V.",
+     "segments": 2
+    },
+    {
+     "file": "0224.json",
+     "ref": "11.6",
+     "title": "Chapter VI.",
+     "segments": 2
+    },
+    {
+     "file": "0225.json",
+     "ref": "11.7",
+     "title": "Chapter VII.",
+     "segments": 3
+    },
+    {
+     "file": "0226.json",
+     "ref": "11.8",
+     "title": "Chapter VIII.",
+     "segments": 2
+    },
+    {
+     "file": "0227.json",
+     "ref": "11.9",
+     "title": "Chapter IX.",
+     "segments": 2
+    },
+    {
+     "file": "0228.json",
+     "ref": "11.10",
+     "title": "Chapter X.",
+     "segments": 2
+    },
+    {
+     "file": "0229.json",
+     "ref": "11.11",
+     "title": "Chapter XI.",
+     "segments": 3
+    },
+    {
+     "file": "0230.json",
+     "ref": "11.12",
+     "title": "Chapter XII.",
+     "segments": 2
+    },
+    {
+     "file": "0231.json",
+     "ref": "11.13",
+     "title": "Chapter XIII.",
+     "segments": 2
+    },
+    {
+     "file": "0232.json",
+     "ref": "11.14",
+     "title": "Chapter XIV.",
+     "segments": 2
+    },
+    {
+     "file": "0233.json",
+     "ref": "11.15",
+     "title": "Chapter XV.",
+     "segments": 2
+    },
+    {
+     "file": "0234.json",
+     "ref": "11.16",
+     "title": "Chapter XVI.",
+     "segments": 3
+    },
+    {
+     "file": "0235.json",
+     "ref": "11.17",
+     "title": "Chapter XVII.",
+     "segments": 2
+    },
+    {
+     "file": "0236.json",
+     "ref": "11.18",
+     "title": "Chapter XVIII.",
+     "segments": 2
+    },
+    {
+     "file": "0237.json",
+     "ref": "11.19",
+     "title": "Chapter XIX.",
+     "segments": 2
+    },
+    {
+     "file": "0238.json",
+     "ref": "12.1",
+     "title": "Chapter I.",
+     "segments": 2
+    },
+    {
+     "file": "0239.json",
+     "ref": "12.2",
+     "title": "Chapter II.",
+     "segments": 2
+    },
+    {
+     "file": "0240.json",
+     "ref": "12.3",
+     "title": "Chapter III.",
+     "segments": 2
+    },
+    {
+     "file": "0241.json",
+     "ref": "12.4",
+     "title": "Chapter IV.",
+     "segments": 3
+    },
+    {
+     "file": "0242.json",
+     "ref": "12.5",
+     "title": "Chapter V.",
+     "segments": 2
+    },
+    {
+     "file": "0243.json",
+     "ref": "12.6",
+     "title": "Chapter VI.",
+     "segments": 2
+    },
+    {
+     "file": "0244.json",
+     "ref": "12.7",
+     "title": "Chapter VII.",
+     "segments": 3
+    },
+    {
+     "file": "0245.json",
+     "ref": "12.8",
+     "title": "Chapter VIII.",
+     "segments": 2
+    },
+    {
+     "file": "0246.json",
+     "ref": "12.9",
+     "title": "Chapter IX.",
+     "segments": 2
+    },
+    {
+     "file": "0247.json",
+     "ref": "12.10",
+     "title": "Chapter X.",
+     "segments": 2
+    },
+    {
+     "file": "0248.json",
+     "ref": "12.11",
+     "title": "Chapter XI.",
+     "segments": 2
+    },
+    {
+     "file": "0249.json",
+     "ref": "12.12",
+     "title": "Chapter XII.",
+     "segments": 2
+    },
+    {
+     "file": "0250.json",
+     "ref": "12.13",
+     "title": "Chapter XIII.",
+     "segments": 2
+    },
+    {
+     "file": "0251.json",
+     "ref": "12.14",
+     "title": "Chapter XIV.",
+     "segments": 3
+    },
+    {
+     "file": "0252.json",
+     "ref": "12.15",
+     "title": "Chapter XV.",
+     "segments": 2
+    },
+    {
+     "file": "0253.json",
+     "ref": "12.16",
+     "title": "Chapter XVI.",
+     "segments": 2
+    },
+    {
+     "file": "0254.json",
+     "ref": "12.17",
+     "title": "Chapter XVII.",
+     "segments": 3
+    },
+    {
+     "file": "0255.json",
+     "ref": "12.18",
+     "title": "Chapter XVIII.",
+     "segments": 3
+    },
+    {
+     "file": "0256.json",
+     "ref": "12.19",
+     "title": "Chapter XIX.",
+     "segments": 2
+    },
+    {
+     "file": "0257.json",
+     "ref": "12.20",
+     "title": "Chapter XX.",
+     "segments": 2
+    },
+    {
+     "file": "0258.json",
+     "ref": "12.21",
+     "title": "Chapter XXI.",
+     "segments": 3
+    },
+    {
+     "file": "0259.json",
+     "ref": "12.22",
+     "title": "Chapter XXII.",
+     "segments": 2
+    },
+    {
+     "file": "0260.json",
+     "ref": "12.23",
+     "title": "Chapter XXIII.",
+     "segments": 2
+    },
+    {
+     "file": "0261.json",
+     "ref": "12.24",
+     "title": "Chapter XXIV.",
+     "segments": 2
+    },
+    {
+     "file": "0262.json",
+     "ref": "12.25",
+     "title": "Chapter XXV.",
+     "segments": 3
+    },
+    {
+     "file": "0263.json",
+     "ref": "12.26",
+     "title": "Chapter XXVI.",
+     "segments": 2
+    },
+    {
+     "file": "0264.json",
+     "ref": "12.27",
+     "title": "Chapter XXVII.",
+     "segments": 3
+    },
+    {
+     "file": "0265.json",
+     "ref": "12.28",
+     "title": "Chapter XXVIII.",
+     "segments": 2
+    },
+    {
+     "file": "0266.json",
+     "ref": "12.29",
+     "title": "Chapter XXIX.",
+     "segments": 2
+    },
+    {
+     "file": "0267.json",
+     "ref": "12.30",
+     "title": "Chapter XXX.",
+     "segments": 2
+    },
+    {
+     "file": "0268.json",
+     "ref": "12.31",
+     "title": "Chapter XXXI.",
+     "segments": 2
+    },
+    {
+     "file": "0269.json",
+     "ref": "12.32",
+     "title": "Chapter XXXII.",
+     "segments": 2
+    },
+    {
+     "file": "0270.json",
+     "ref": "12.33",
+     "title": "Chapter XXXIII.",
+     "segments": 2
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 2,
+  "shared": 267,
+  "onlyInOriginal": 32,
+  "onlyInEnglish": 1
+ }
+}

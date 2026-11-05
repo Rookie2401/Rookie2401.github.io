@@ -1,0 +1,142 @@
+{
+ "workId": "vulgate-1co",
+ "editions": [
+  {
+   "editionId": "clementine-1co",
+   "language": "la",
+   "variety": "la-ecc",
+   "textSource": "store",
+   "analysis": {
+    "id": "golearn-la@1",
+    "kind": "analyser",
+    "status": "automatic"
+   },
+   "credit": "GoLearn Latin analyser (adapter-la; Whitaker's Words, Lewis & Short, Perseus treebank form priors, hand-written Vulgate priors); no Latinist has checked its data",
+   "licence": "Whitaker's Words: free for any use; Lewis & Short via Perseus: CC BY-SA 4.0; Perseus Latin Treebank priors: CC BY-SA 3.0; analyser code: the user's own",
+   "source": "local: go-v0-ecclesia/src/adapters/la.ts",
+   "version": "1",
+   "coverage": {
+    "tokens": 6445,
+    "withLemma": 6444,
+    "withMorphology": 4430,
+    "verified": 0,
+    "ambiguous": 2989,
+    "unanalysed": 1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1CO.1",
+     "title": "1 Corinthians 1",
+     "segments": 31,
+     "tokens": 463
+    },
+    {
+     "file": "0002.json",
+     "ref": "1CO.2",
+     "title": "1 Corinthians 2",
+     "segments": 16,
+     "tokens": 261
+    },
+    {
+     "file": "0003.json",
+     "ref": "1CO.3",
+     "title": "1 Corinthians 3",
+     "segments": 23,
+     "tokens": 325
+    },
+    {
+     "file": "0004.json",
+     "ref": "1CO.4",
+     "title": "1 Corinthians 4",
+     "segments": 21,
+     "tokens": 344
+    },
+    {
+     "file": "0005.json",
+     "ref": "1CO.5",
+     "title": "1 Corinthians 5",
+     "segments": 13,
+     "tokens": 213
+    },
+    {
+     "file": "0006.json",
+     "ref": "1CO.6",
+     "title": "1 Corinthians 6",
+     "segments": 20,
+     "tokens": 308
+    },
+    {
+     "file": "0007.json",
+     "ref": "1CO.7",
+     "title": "1 Corinthians 7",
+     "segments": 40,
+     "tokens": 666
+    },
+    {
+     "file": "0008.json",
+     "ref": "1CO.8",
+     "title": "1 Corinthians 8",
+     "segments": 13,
+     "tokens": 213
+    },
+    {
+     "file": "0009.json",
+     "ref": "1CO.9",
+     "title": "1 Corinthians 9",
+     "segments": 27,
+     "tokens": 462
+    },
+    {
+     "file": "0010.json",
+     "ref": "1CO.10",
+     "title": "1 Corinthians 10",
+     "segments": 33,
+     "tokens": 439
+    },
+    {
+     "file": "0011.json",
+     "ref": "1CO.11",
+     "title": "1 Corinthians 11",
+     "segments": 34,
+     "tokens": 479
+    },
+    {
+     "file": "0012.json",
+     "ref": "1CO.12",
+     "title": "1 Corinthians 12",
+     "segments": 31,
+     "tokens": 414
+    },
+    {
+     "file": "0013.json",
+     "ref": "1CO.13",
+     "title": "1 Corinthians 13",
+     "segments": 13,
+     "tokens": 196
+    },
+    {
+     "file": "0014.json",
+     "ref": "1CO.14",
+     "title": "1 Corinthians 14",
+     "segments": 40,
+     "tokens": 567
+    },
+    {
+     "file": "0015.json",
+     "ref": "1CO.15",
+     "title": "1 Corinthians 15",
+     "segments": 58,
+     "tokens": 775
+    },
+    {
+     "file": "0016.json",
+     "ref": "1CO.16",
+     "title": "1 Corinthians 16",
+     "segments": 24,
+     "tokens": 320
+    }
+   ]
+  }
+ ]
+}

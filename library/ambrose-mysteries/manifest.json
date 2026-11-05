@@ -1,0 +1,159 @@
+{
+ "workId": "ambrose-mysteries",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "ambrose-mysteries-npnf2-de-romestin-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "On the Mysteries, in A Select Library of Nicene and Post-Nicene Fathers, series II, vol. 10 (Ambrose: Select Works and Letters), trans. H. de Romestin, with E. de Romestin and H. T. F. Duckworth (volume title page) (New York: The Christian Literature Company, 1896). Wikisource contributors, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_X/Works/On_the_Mysteries",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 51358,
+   "sourceSha256": "9da5b8caea34db91c4fe4f77aa5cf5bd721fcada2c26cb0fd105c1db575876c7",
+   "leftOut": {
+    "note": 81
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Mysteries/Chapter 1",
+     "bytes": 3304,
+     "sha256": "d2a9314efdf21eb0e61b562c087e7e96fed976a7cc78ea906bbb21184250ecfe"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Mysteries/Chapter 2",
+     "bytes": 2410,
+     "sha256": "8fc0c5ffba3466d8ef7264974310567db35e4f9f9ab80e0a91869c5a6f4733b8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Mysteries/Chapter 3",
+     "bytes": 7882,
+     "sha256": "2a97284ac166445c0bd040a11b432aacdd25458b3f72caa1b2f8959633014eec"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Mysteries/Chapter 4",
+     "bytes": 5986,
+     "sha256": "f5bf42c90f73173d379c0ed404bec5b16e21f7788c56e2627d0b5840554a2d6c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Mysteries/Chapter 5",
+     "bytes": 3032,
+     "sha256": "7ed8e52ccd9084b0564dca2582b952ff72f6b16de4d9dfdfcab9b80359bfd34f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Mysteries/Chapter 6",
+     "bytes": 3434,
+     "sha256": "2945e2f605217c3bfd703fe403208e50077fc159be87cb15ea166164aed822be"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Mysteries/Chapter 7",
+     "bytes": 7120,
+     "sha256": "520272aa7562838bb5ee82f6bcaa32917f672de775eb7e3a057b256fe296cba3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Mysteries/Chapter 8",
+     "bytes": 6269,
+     "sha256": "904282707966cf4c450ea5a3c6c1d11d3e93cdbafe9e8ebf6a44ba42398743b0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Mysteries/Chapter 9",
+     "bytes": 9650,
+     "sha256": "4691b679c463373d919850da7d7b070bc17d5caddaca084b150c5fff5ec58614"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume X/Works/On the Mysteries/Introduction",
+     "bytes": 2271,
+     "sha256": "6d445035d2bfbc7f23769beb8e572fad618e38a589628ac9e9670f41d06e6bbf"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.front",
+     "title": "Chapter I.",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "2",
+     "title": "Chapter II.",
+     "segments": 5
+    },
+    {
+     "file": "0007.json",
+     "ref": "3",
+     "title": "Chapter III.",
+     "segments": 13
+    },
+    {
+     "file": "0008.json",
+     "ref": "4",
+     "title": "Chapter IV.",
+     "segments": 9
+    },
+    {
+     "file": "0009.json",
+     "ref": "5",
+     "title": "Chapter V.",
+     "segments": 5
+    },
+    {
+     "file": "0010.json",
+     "ref": "6",
+     "title": "Chapter VI.",
+     "segments": 6
+    },
+    {
+     "file": "0011.json",
+     "ref": "7",
+     "title": "Chapter VII.",
+     "segments": 11
+    },
+    {
+     "file": "0012.json",
+     "ref": "8",
+     "title": "Chapter VIII.",
+     "segments": 9
+    },
+    {
+     "file": "0013.json",
+     "ref": "9",
+     "title": "Chapter IX.",
+     "segments": 12
+    },
+    {
+     "file": "0014.json",
+     "ref": "p1",
+     "title": "Introduction.",
+     "segments": 4
+    }
+   ]
+  }
+ ]
+}

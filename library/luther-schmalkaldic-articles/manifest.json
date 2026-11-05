@@ -1,0 +1,72 @@
+{
+ "workId": "luther-schmalkaldic-articles",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "luther-schmalkald-triglot-gutenberg",
+   "role": "english",
+   "language": "english",
+   "credit": "The Smalcald Articles (tr. F. Bente and W. H. T. Dau), in Triglot Concordia (St. Louis: Concordia Publishing House, 1921), pp. 453–529, trans. F. Bente; W. H. T. Dau (St. Louis: Concordia Publishing House, 1921). Transcription: Allen Mulvey and David Widger (Project Gutenberg / Project Wittenberg) (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/273/pg273.txt",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 97547,
+   "sourceSha256": "1a9df673efcd3a5bd7353b524a7bf03e54c882f0b1c54c193b5e02c2a78c51db",
+   "leftOut": {
+    "transcriberNote": 1
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "https://www.gutenberg.org/cache/epub/273/pg273.txt",
+     "bytes": 97547,
+     "sha256": "1a9df673efcd3a5bd7353b524a7bf03e54c882f0b1c54c193b5e02c2a78c51db"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "s1",
+     "title": "THE SMALCALD ARTICLES",
+     "segments": 16
+    },
+    {
+     "file": "0002.json",
+     "ref": "s2",
+     "title": "THE FIRST PART",
+     "segments": 6
+    },
+    {
+     "file": "0003.json",
+     "ref": "s3",
+     "title": "THE SECOND PART",
+     "segments": 7
+    },
+    {
+     "file": "0004.json",
+     "ref": "a2",
+     "title": "Article II: Of the Mass.",
+     "segments": 22
+    },
+    {
+     "file": "0005.json",
+     "ref": "a3",
+     "title": "Article III: Of Chapters and Cloisters.",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "a4",
+     "title": "Article IV: Of the Papacy.",
+     "segments": 11
+    },
+    {
+     "file": "0007.json",
+     "ref": "s7",
+     "title": "THE THIRD PART OF THE ARTICLES.",
+     "segments": 111
+    }
+   ]
+  }
+ ]
+}

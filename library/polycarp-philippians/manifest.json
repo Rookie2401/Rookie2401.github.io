@@ -1,0 +1,239 @@
+{
+ "workId": "polycarp-philippians",
+ "parallel": "segment",
+ "editions": [
+  {
+   "editionId": "polycarp-philippians-lake-grc-first1k",
+   "role": "original",
+   "language": "greek",
+   "credit": "Epistula ad Philippenses, in Kirsopp Lake, The Apostolic Fathers, vol. 1 (Loeb Classical Library; Greek text with facing English), ed. Kirsopp Lake (London; Cambridge, MA: William Heinemann; Harvard University Press, 1912). First1KGreek / Perseus Digital Library, Tufts University (Open Greek and Latin): Greek text of Kirsopp Lake, The Apostolic Fathers (Loeb Classical Library), under CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg1622/tlg001/tlg1622.tlg001.1st1K-grc1.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 46708,
+   "sourceSha256": "3e4115e6c7026136ccede52edbab85fefc4b90cf4096b7cb008fa07613e0a317",
+   "leftOut": {
+    "note": 59,
+    "pb": 9
+   },
+   "segmentRefs": "citation",
+   "passagesLeftOut": {
+    "segments": 10,
+    "words": 450,
+    "refs": [
+     "10.1",
+     "10.2",
+     "10.3",
+     "11.1",
+     "11.2",
+     "11.3",
+     "11.4",
+     "12.1",
+     "12.2",
+     "12.3",
+     "13.2",
+     "14.1"
+    ],
+    "reason": "Where the Greek is lost the printed edition gives the Latin version; the source copy encodes that Latin in Greek letters, which cannot be restored reliably. Those passages are left out of the Greek text and marked […]."
+   },
+   "signals": {
+    "words": 1130,
+    "barePerThousand": 6,
+    "digitWords": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "pref",
+     "title": "pref",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 3
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 3
+    },
+    {
+     "file": "0004.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 3
+    },
+    {
+     "file": "0005.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 3
+    },
+    {
+     "file": "0006.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 3
+    },
+    {
+     "file": "0007.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 3
+    },
+    {
+     "file": "0008.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 2
+    }
+   ]
+  },
+  {
+   "editionId": "polycarp-philippians-lake-eng-perseus",
+   "role": "english",
+   "language": "english",
+   "credit": "The Epistle of Polycarp to the Philippians, in The Apostolic Fathers, with an English translation by Kirsopp Lake, vol. 1 (Loeb Classical Library), trans. Kirsopp Lake (London; Cambridge, MA: William Heinemann; Harvard University Press, 1912). Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit): English translation by Kirsopp Lake, The Apostolic Fathers (Loeb Classical Library, 1912), under CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg1622/tlg001/tlg1622.tlg001.perseus-eng1.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 21521,
+   "sourceSha256": "ec6399730fd089755ea0571245357e8998d4468e3ae76d4cd0388358e3ada3ef",
+   "leftOut": {
+    "note": 29,
+    "pb": 5
+   },
+   "segmentRefs": "citation",
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "pref",
+     "title": "pref",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 3
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 3
+    },
+    {
+     "file": "0004.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 3
+    },
+    {
+     "file": "0005.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 3
+    },
+    {
+     "file": "0006.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 3
+    },
+    {
+     "file": "0007.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 3
+    },
+    {
+     "file": "0008.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 3
+    },
+    {
+     "file": "0012.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 4
+    },
+    {
+     "file": "0013.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 3
+    },
+    {
+     "file": "0014.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "divisionOnly": [
+   "10"
+  ],
+  "missingInOriginal": [
+   "11",
+   "12",
+   "14"
+  ],
+  "missingInEnglish": []
+ }
+}

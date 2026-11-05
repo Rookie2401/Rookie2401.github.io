@@ -1,0 +1,10 @@
+{
+  "serviceUrl": "https://go-v0.onrender.com",
+  "assetBaseUrl": "./",
+  "dictionaryFallbackUrl": "https://rookie2401.github.io/go-v0/",
+  "bibliaUrl": "https://rookie2401.github.io/biblia/",
+  "sourceLinks": {
+    "wiktionary": "https://en.wiktionary.org/wiki/{lemma}#{language}",
+    "kaikki": "https://kaikki.org/dictionary/{language}/"
+  }
+}

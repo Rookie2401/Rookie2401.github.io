@@ -1,0 +1,322 @@
+{
+ "workId": "watts-divine-songs",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "watts-divine-songs-london-1777-tcp",
+   "role": "english",
+   "language": "english",
+   "credit": "Divine songs: attempted in easy language for the use of children, in Text Creation Partnership K123515.000 (London: J. Buckland; J. F. and C. Rivington; T. Longman; W. Fenner; T. Field; E. and C. Dilly, 1777). Transcription: Text Creation Partnership (EEBO/Evans/ECCO-TCP), keyed and encoded from page images of the printing named in the header (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/K123515.000/master/K123515.000.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 106479,
+   "sourceSha256": "64f4b1a96915e215e53a1bb18043b01e3d06173d287e08ec2b251e649fb02851",
+   "leftOut": {
+    "pb": 64,
+    "note": 1
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 6826,
+    "unreadPerThousand": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "PREFACE, To all that are concerned in the EDUCATION of CHILDREN.",
+     "segments": 10
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "SONG I.",
+     "segments": 5
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "SONG II.",
+     "segments": 8
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.3",
+     "title": "SONG III.",
+     "segments": 8
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.4",
+     "title": "SONG IV.",
+     "segments": 6
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.5",
+     "title": "SONG V.",
+     "segments": 6
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.6",
+     "title": "SONG VI.",
+     "segments": 4
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.7",
+     "title": "SONG VII.",
+     "segments": 7
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.8",
+     "title": "SONG VIII.",
+     "segments": 8
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.9",
+     "title": "SONG IX.",
+     "segments": 6
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.10",
+     "title": "SONG X.",
+     "segments": 6
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.11",
+     "title": "SONG XI.",
+     "segments": 4
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.12",
+     "title": "SONG XII.",
+     "segments": 6
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.13",
+     "title": "SONG XIII.",
+     "segments": 6
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.14",
+     "title": "SONG XIV.",
+     "segments": 6
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.15",
+     "title": "SONG XV.",
+     "segments": 6
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.16",
+     "title": "SONG XVI.",
+     "segments": 5
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.17",
+     "title": "SONG XVII.",
+     "segments": 6
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.18",
+     "title": "SONG XVIII.",
+     "segments": 6
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.19",
+     "title": "SONG XIX.",
+     "segments": 6
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.20",
+     "title": "SONG XX.",
+     "segments": 4
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.21",
+     "title": "SONG XXI.",
+     "segments": 5
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.22",
+     "title": "SONG XXII.",
+     "segments": 8
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.23",
+     "title": "SONG XXIII.",
+     "segments": 4
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.24",
+     "title": "SONG XXIV.",
+     "segments": 4
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.25",
+     "title": "SONG XXV.",
+     "segments": 4
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.26",
+     "title": "SONG XXVI.",
+     "segments": 4
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.27",
+     "title": "SONG XXVII.",
+     "segments": 4
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.28",
+     "title": "SONG XXVIII.",
+     "segments": 4
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.29.0",
+     "title": "The TEN COMMANDMENTS, out of the Old Teſtament, put into ſhort Rhyme for Children.",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.29.1",
+     "title": "The Sum of the COMMANDMENTS, out of the New Teſtament.",
+     "segments": 3
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.30",
+     "title": "Our Saviour's Golden Rule.",
+     "segments": 5
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.31",
+     "title": "Duty to God and our Neighbour.",
+     "segments": 8
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.32.1.1",
+     "title": "Long Metre.",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.32.1.2",
+     "title": "Common Metre.",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.32.1.3",
+     "title": "Short Metre.",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.32.2.1",
+     "title": "Long Metre.",
+     "segments": 4
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.32.2.2",
+     "title": "Common Metre.",
+     "segments": 4
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.32.2.3",
+     "title": "Short Metre.",
+     "segments": 4
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.33.0",
+     "title": "SPECIMEN OF MORAL SONGS, Such as I wiſh ſome happy and condeſcending Genius would undertake for the Uſe of Children, and perform much better.",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.33.1",
+     "title": "I. The SLUGGARD.",
+     "segments": 5
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.33.2",
+     "title": "II. Innocent Play.",
+     "segments": 3
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.33.3",
+     "title": "III. The ROSE.",
+     "segments": 4
+    },
+    {
+     "file": "0044.json",
+     "ref": "1.33.4",
+     "title": "IV. The THIEF.",
+     "segments": 6
+    },
+    {
+     "file": "0045.json",
+     "ref": "1.33.5",
+     "title": "V. The ANT or EMMET.",
+     "segments": 4
+    },
+    {
+     "file": "0046.json",
+     "ref": "1.33.6",
+     "title": "VI. Good Reſolutions.",
+     "segments": 10
+    },
+    {
+     "file": "0047.json",
+     "ref": "1.33.7",
+     "title": "A SUMMER EVENING.",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "1.33.8",
+     "title": "A CRADLE HYMN.",
+     "segments": 15
+    },
+    {
+     "file": "0049.json",
+     "ref": "1.end",
+     "title": "1.end",
+     "segments": 1
+    }
+   ]
+  }
+ ]
+}

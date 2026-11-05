@@ -1,0 +1,751 @@
+{
+ "workId": "gregory-pastoral-rule",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "gregory-pastoral-rule-npnf12-barmby",
+   "role": "english",
+   "language": "english",
+   "credit": "The Book of Pastoral Rule, in Nicene and Post-Nicene Fathers, Series II, vol. 12: Leo the Great, Gregory the Great (The Book of Pastoral Rule and Selected Epistles, translated by James Barmby), trans. James Barmby (New York; Oxford; Edinburgh: The Christian Literature Company (New York); Parker & Co. (Oxford); T. & T. Clark (Edinburgh), 1895). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers: Series II), CC BY-SA (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_XII/Gregory_the_Great/The_Book_of_Pastoral_Rule",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 459357,
+   "sourceSha256": "d0b55a27ee74a6ebf4ff4ea557973c0f2216ab64a01fe23b405dbc24517f401c",
+   "leftOut": {
+    "note": 36
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Preface",
+     "bytes": 8354,
+     "sha256": "32e957030d213eba62e0ddf7af76db79b30112be54ec3f52bcd06a4b5f0e9380"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part I/Prologue",
+     "bytes": 3413,
+     "sha256": "27e304513e884b3fedf2c5344441745e97e549c31b3bddf0f86a5f4991dee9ad"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part I/Chapter 1",
+     "bytes": 5475,
+     "sha256": "afd2d875dbf90600673ef1bb1bb481a4d72b91349e9fa88d8963694232e212b3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part I/Chapter 2",
+     "bytes": 3858,
+     "sha256": "47a0ae0a7ac095af9cc2dcb6fc4e9c98e36d7e649b69d8c93540e37e96fb8cd2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part I/Chapter 3",
+     "bytes": 4329,
+     "sha256": "78e85f221fb59278c4fa55104bc47f248c7eb594c9234169c9703dc4d9c110b1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part I/Chapter 4",
+     "bytes": 4376,
+     "sha256": "e7855221b23e51b564548a58ef6f0341dfa948b19f890f0435b7054182010a7e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part I/Chapter 5",
+     "bytes": 4888,
+     "sha256": "28799c2a209e93529efd078dbc9ef7a3dc13c480f27a8314c639138139457ea4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part I/Chapter 6",
+     "bytes": 1837,
+     "sha256": "1d05aa00877a8a574765a1f108e8ea2f8633b46ad445da7ddfa27fbe6878ea11"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part I/Chapter 7",
+     "bytes": 4160,
+     "sha256": "7101aedaf7780ea040100c25ef2f93cde1219370b23fa5be939a8e1002f805f5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part I/Chapter 8",
+     "bytes": 3392,
+     "sha256": "228544244fa2180f6ced6423ff400a4c8b2fca6ff4fe64e63d6a63cca9382a88"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part I/Chapter 9",
+     "bytes": 4743,
+     "sha256": "e9ebe9952c30011cc2dd2373ed045b115074ab0e1c52d64432889be57688c5bc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part I/Chapter 10",
+     "bytes": 3634,
+     "sha256": "aa7d6102b20850536a6a947884bb9882f5277f2b4dbddb6e55aa98bdb502903a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part I/Chapter 11",
+     "bytes": 11542,
+     "sha256": "87f8261ebd93fe5eeb915987f64f7bfce9a9f8934f316bcfabecfb7aecc83a84"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part II/Chapter 1",
+     "bytes": 2000,
+     "sha256": "d0c825957acb33d14d5cf80174cfc52f6960caf0aa3f374362da139406ca656b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part II/Chapter 2",
+     "bytes": 5802,
+     "sha256": "e23668a9a08b74a64075e90d7732438834de14c54bc6f9b99b5bd01c2022dbb9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part II/Chapter 3",
+     "bytes": 7112,
+     "sha256": "df347d9cc5857b83fd283152136d2b73b7c1e39ab120f2351a3da30c6b7d4de4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part II/Chapter 4",
+     "bytes": 8757,
+     "sha256": "3b43353c776851fe84bcd1d39be0a74c5dab3aabdba6f08d6131f941fd47a98f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part II/Chapter 5",
+     "bytes": 7725,
+     "sha256": "e3e1e4f1e7f62dd44345c280790177a962f927848d476256108add02a7315e26"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part II/Chapter 6",
+     "bytes": 16442,
+     "sha256": "941bc17a638e9ca2e826a2b09ac77ac015c731738fd9e5a95208bba2eee357da"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part II/Chapter 7",
+     "bytes": 15523,
+     "sha256": "1fc665c3e0cd311d3626c38f50a4c606362d1f3b293c33c19719ba95b10f82f1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part II/Chapter 8",
+     "bytes": 6180,
+     "sha256": "feca693bce46901a288c76d962a45e7e6c78e29c7d0af0ab3a840c5ff54e4e24"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part II/Chapter 9",
+     "bytes": 2187,
+     "sha256": "d3f64e2536afdcf898f4a9d7b4394bbb43ee52d6be9090728cfb7a56b748fd14"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part II/Chapter 10",
+     "bytes": 15351,
+     "sha256": "aeaf75a3311b1219cb7704ee567215e5d048bf3e516084ea795e63c5f14225c1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part II/Chapter 11",
+     "bytes": 4811,
+     "sha256": "14fc8f1bf5c0eb4c3570905288d4c8cfda9d0defe923f75356df54671bf25b1f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Prologue",
+     "bytes": 2501,
+     "sha256": "5dc88619369e4b4755de08a4fe993cd76ef1232348ced3c7b9bbf937c708e922"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 1",
+     "bytes": 4338,
+     "sha256": "984266446e53b11600ba8f3e4df0bf4b2d1db8abd3462efc5b7d18da21b04e09"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 2",
+     "bytes": 5938,
+     "sha256": "9ddd02c11bda162545cabb3004beaba85dd549a76376ade9d8150df15d531651"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 3",
+     "bytes": 2203,
+     "sha256": "d93e91f80da99b827ec008fa5433e79850c464a0fd9f02a2aa1e3fd52e0a144f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 4",
+     "bytes": 9303,
+     "sha256": "207de0a7c4220f907c71ba53a601cbdf57a9cb2e8cf9b2ab6ccd3d8c1735fa25"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 5",
+     "bytes": 2280,
+     "sha256": "49b684e1bfd1488ca41500e2d2f62f2e9221bb65a70c50e43c3ecedcef269431"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 6",
+     "bytes": 3460,
+     "sha256": "de71f7ecf7acaf037dffb579becca0e056461f689e4b8c41c7ed9aa3f8dab000"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 7",
+     "bytes": 2691,
+     "sha256": "4350cf2889d6b40b33bccad9a33344738686d46110287c98f6898faa94440613"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 8",
+     "bytes": 5707,
+     "sha256": "252e1810f4a52cdc4e47fe00c37dbbc47d318c28c9677a6c3672c80c808b7a4a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 9",
+     "bytes": 12104,
+     "sha256": "08a4d6e7f0777cdf050ac7a402d9da76079fe6f0c099055b90727095abd360fe"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 10",
+     "bytes": 6527,
+     "sha256": "40010fa675c51ece0a94024bb75c3ddb75ba1cad8dd7731581baaa45e0b73f2b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 11",
+     "bytes": 8276,
+     "sha256": "177af1c8fa6c12495e4e1d0854f16ed68b0de4cf3d476facb8fc1ff850c965b1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 12",
+     "bytes": 11964,
+     "sha256": "bec9137f12e070d47460facd9dc5a95e3c1bed8524955cf6ae569f7d8eaefcbb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 13",
+     "bytes": 6879,
+     "sha256": "b12148ecb9fab6f32c6eab3575e638f4031b05b53a4cf2ef257fd2a8d9763649"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 14",
+     "bytes": 9569,
+     "sha256": "6a89830b50e1f88d6655d663cca579e31a4036da03352be00974af900d6ad369"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 15",
+     "bytes": 5768,
+     "sha256": "0dc5718346b37e1f6b30f600456c0736205d8dde1ad23ed2ab3239f702ffafd6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 16",
+     "bytes": 8114,
+     "sha256": "b8eb3046e705df570e23d7c10aac62432c8fe27ef00d5a14d3909e463278ac4f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 17",
+     "bytes": 8031,
+     "sha256": "4828c9840e6aa29994148e1c123e46b7d32f09785107bc9fab3f625fbd9ead49"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 18",
+     "bytes": 4687,
+     "sha256": "5c312d595720993c1bb465347af2bbc4768f974af93e5f1c76fc8109f6f7db07"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 19",
+     "bytes": 9994,
+     "sha256": "1b6c0a8c9a438e6e253916db306adde8c916e66d45c0515d14ed321b73a29a19"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 20",
+     "bytes": 12953,
+     "sha256": "b4314530b1e6d697b7e302da984e1b983fbe3565fad75334c34bcf04a4801677"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 21",
+     "bytes": 8177,
+     "sha256": "558d0fd8f7b131fa0235dc9810139efbebada543b99aa81d31b318cdf9a35412"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 22",
+     "bytes": 11490,
+     "sha256": "02b3a1f923d5749e35a2720b4e6a042cf77783c52c73ea27d7cb12a23d660b00"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 23",
+     "bytes": 6951,
+     "sha256": "530c24eeb201bfa0325a20bc07f79705608f1bfa6cea2574490c3f6530c407a6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 24",
+     "bytes": 9731,
+     "sha256": "9e847c10919bb60256a328716212d9d46f5f505a082886969596670c5f3c7686"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 25",
+     "bytes": 11995,
+     "sha256": "184a9a03619cd3754b85d80428590b2421500da878f59e9e3c448d49088a4bd6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 26",
+     "bytes": 9144,
+     "sha256": "fb8028617bb7ef69f62f822f3c7d9a8169fbec4fb713773764f3877466379123"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 27",
+     "bytes": 11648,
+     "sha256": "80a7c008462ac0a07131ed0b4fcf8d79a95d39a56d9154c1290aedccd82a856c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 28",
+     "bytes": 12201,
+     "sha256": "16a3feed88d05b8c5a72fe4f6cc4764353bc04e42c351a14635e54dac10b5ff5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 29",
+     "bytes": 8993,
+     "sha256": "d1892bf06cef83cdae6066103124f0ace8604f338e7d0a294a7e944125dd186a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 30",
+     "bytes": 9577,
+     "sha256": "72c997811757e948ef84e1fd9aa3d4fbfa3a4b8b7142bbe8334a20184743603d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 31",
+     "bytes": 5102,
+     "sha256": "a364bf4c8617a04b93d54c9ebbd48f3f591d30c0b3fd7b72a0a32c087ea49542"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 32",
+     "bytes": 8267,
+     "sha256": "9d983c219f3f59809f7f53523fd89b32572362124494f33940a308836d58337f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 33",
+     "bytes": 5780,
+     "sha256": "e4e449b99ce3425c21ff21f518c206b11f191868a38fb3a0d360ac6a8ff6b823"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 34",
+     "bytes": 9925,
+     "sha256": "46e246fa41afd7c28ffded1d5f855d151e0a33a60ffdaf003c6e2d4173779a0b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 35",
+     "bytes": 7571,
+     "sha256": "8b358c3acb8a8f26bfa49f54909eab69f55fee7500577fae43d341960010a338"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 36",
+     "bytes": 3507,
+     "sha256": "dff5f18e2d61a3b5436ea2bce523e65083dd319d80fd4e636aff58a4edf5d0e3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 37",
+     "bytes": 3452,
+     "sha256": "fab3a6398d2116e46fb1873245de50712ca078d94e70f521449e20aee3a4b8ba"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 38",
+     "bytes": 3466,
+     "sha256": "aed9eac0d7dc9cd89dd8c508c9e07e0e42f89cc5179201286b82288dc68d554d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 39",
+     "bytes": 3357,
+     "sha256": "824d1b92aa63947b8c2f3a7e103be9cbd83e5bd0cb3963e543fc622ce7fb540a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part III/Chapter 40",
+     "bytes": 2371,
+     "sha256": "39744492f33cde19d6ee385a24297d6bae978b75a5a8b02885742c60161748f5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XII/Gregory the Great/The Book of Pastoral Rule/Part IV",
+     "bytes": 7474,
+     "sha256": "ee915a8a25b22b7ccd37755b0293c3de50dc56842d8d525596d6bd79394ee44f"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 8
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.p1",
+     "title": "1.p1",
+     "segments": 8
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.1",
+     "title": "1.1",
+     "segments": 4
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.2",
+     "title": "1.2",
+     "segments": 4
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.3",
+     "title": "1.3",
+     "segments": 3
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.4",
+     "title": "1.4",
+     "segments": 5
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.5",
+     "title": "1.5",
+     "segments": 3
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.6",
+     "title": "1.6",
+     "segments": 3
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.7",
+     "title": "1.7",
+     "segments": 3
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.8",
+     "title": "1.8",
+     "segments": 4
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.9",
+     "title": "1.9",
+     "segments": 4
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.10",
+     "title": "1.10",
+     "segments": 3
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.11",
+     "title": "1.11",
+     "segments": 6
+    },
+    {
+     "file": "0014.json",
+     "ref": "2.1",
+     "title": "2.1",
+     "segments": 5
+    },
+    {
+     "file": "0015.json",
+     "ref": "2.2",
+     "title": "2.2",
+     "segments": 3
+    },
+    {
+     "file": "0016.json",
+     "ref": "2.3",
+     "title": "2.3",
+     "segments": 3
+    },
+    {
+     "file": "0017.json",
+     "ref": "2.4",
+     "title": "2.4",
+     "segments": 4
+    },
+    {
+     "file": "0018.json",
+     "ref": "2.5",
+     "title": "2.5",
+     "segments": 5
+    },
+    {
+     "file": "0019.json",
+     "ref": "2.6",
+     "title": "2.6",
+     "segments": 8
+    },
+    {
+     "file": "0020.json",
+     "ref": "2.7",
+     "title": "2.7",
+     "segments": 7
+    },
+    {
+     "file": "0021.json",
+     "ref": "2.8",
+     "title": "2.8",
+     "segments": 3
+    },
+    {
+     "file": "0022.json",
+     "ref": "2.9",
+     "title": "2.9",
+     "segments": 3
+    },
+    {
+     "file": "0023.json",
+     "ref": "2.10",
+     "title": "2.10",
+     "segments": 10
+    },
+    {
+     "file": "0024.json",
+     "ref": "2.11",
+     "title": "2.11",
+     "segments": 3
+    },
+    {
+     "file": "0025.json",
+     "ref": "3.p1",
+     "title": "3.p1",
+     "segments": 4
+    },
+    {
+     "file": "0026.json",
+     "ref": "3.1",
+     "title": "3.1",
+     "segments": 41
+    },
+    {
+     "file": "0027.json",
+     "ref": "3.2",
+     "title": "3.2",
+     "segments": 3
+    },
+    {
+     "file": "0028.json",
+     "ref": "3.3",
+     "title": "3.3",
+     "segments": 3
+    },
+    {
+     "file": "0029.json",
+     "ref": "3.4",
+     "title": "3.4",
+     "segments": 6
+    },
+    {
+     "file": "0030.json",
+     "ref": "3.5",
+     "title": "3.5",
+     "segments": 3
+    },
+    {
+     "file": "0031.json",
+     "ref": "3.6",
+     "title": "3.6",
+     "segments": 3
+    },
+    {
+     "file": "0032.json",
+     "ref": "3.7",
+     "title": "3.7",
+     "segments": 3
+    },
+    {
+     "file": "0033.json",
+     "ref": "3.8",
+     "title": "3.8",
+     "segments": 5
+    },
+    {
+     "file": "0034.json",
+     "ref": "3.9",
+     "title": "3.9",
+     "segments": 7
+    },
+    {
+     "file": "0035.json",
+     "ref": "3.10",
+     "title": "3.10",
+     "segments": 4
+    },
+    {
+     "file": "0036.json",
+     "ref": "3.11",
+     "title": "3.11",
+     "segments": 5
+    },
+    {
+     "file": "0037.json",
+     "ref": "3.12",
+     "title": "3.12",
+     "segments": 8
+    },
+    {
+     "file": "0038.json",
+     "ref": "3.13",
+     "title": "3.13",
+     "segments": 5
+    },
+    {
+     "file": "0039.json",
+     "ref": "3.14",
+     "title": "3.14",
+     "segments": 6
+    },
+    {
+     "file": "0040.json",
+     "ref": "3.15",
+     "title": "3.15",
+     "segments": 4
+    },
+    {
+     "file": "0041.json",
+     "ref": "3.16",
+     "title": "3.16",
+     "segments": 6
+    },
+    {
+     "file": "0042.json",
+     "ref": "3.17",
+     "title": "3.17",
+     "segments": 6
+    },
+    {
+     "file": "0043.json",
+     "ref": "3.18",
+     "title": "3.18",
+     "segments": 5
+    },
+    {
+     "file": "0044.json",
+     "ref": "3.19",
+     "title": "3.19",
+     "segments": 8
+    },
+    {
+     "file": "0045.json",
+     "ref": "3.20",
+     "title": "3.20",
+     "segments": 9
+    },
+    {
+     "file": "0046.json",
+     "ref": "3.21",
+     "title": "3.21",
+     "segments": 10
+    },
+    {
+     "file": "0047.json",
+     "ref": "3.22",
+     "title": "3.22",
+     "segments": 5
+    },
+    {
+     "file": "0048.json",
+     "ref": "3.23",
+     "title": "3.23",
+     "segments": 4
+    },
+    {
+     "file": "0049.json",
+     "ref": "3.24",
+     "title": "3.24",
+     "segments": 4
+    },
+    {
+     "file": "0050.json",
+     "ref": "3.25",
+     "title": "3.25",
+     "segments": 7
+    },
+    {
+     "file": "0051.json",
+     "ref": "3.26",
+     "title": "3.26",
+     "segments": 5
+    },
+    {
+     "file": "0052.json",
+     "ref": "3.27",
+     "title": "3.27",
+     "segments": 7
+    },
+    {
+     "file": "0053.json",
+     "ref": "3.28",
+     "title": "3.28",
+     "segments": 7
+    },
+    {
+     "file": "0054.json",
+     "ref": "3.29",
+     "title": "3.29",
+     "segments": 8
+    },
+    {
+     "file": "0055.json",
+     "ref": "3.30",
+     "title": "3.30",
+     "segments": 6
+    },
+    {
+     "file": "0056.json",
+     "ref": "3.31",
+     "title": "3.31",
+     "segments": 5
+    },
+    {
+     "file": "0057.json",
+     "ref": "3.32",
+     "title": "3.32",
+     "segments": 5
+    },
+    {
+     "file": "0058.json",
+     "ref": "3.33",
+     "title": "3.33",
+     "segments": 5
+    },
+    {
+     "file": "0059.json",
+     "ref": "3.34",
+     "title": "3.34",
+     "segments": 6
+    },
+    {
+     "file": "0060.json",
+     "ref": "3.35",
+     "title": "3.35",
+     "segments": 5
+    },
+    {
+     "file": "0061.json",
+     "ref": "3.36",
+     "title": "3.36",
+     "segments": 3
+    },
+    {
+     "file": "0062.json",
+     "ref": "3.37",
+     "title": "3.37",
+     "segments": 4
+    },
+    {
+     "file": "0063.json",
+     "ref": "3.38",
+     "title": "3.38",
+     "segments": 3
+    },
+    {
+     "file": "0064.json",
+     "ref": "3.39",
+     "title": "3.39",
+     "segments": 4
+    },
+    {
+     "file": "0065.json",
+     "ref": "3.40",
+     "title": "3.40",
+     "segments": 3
+    },
+    {
+     "file": "0066.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 6
+    }
+   ]
+  }
+ ]
+}

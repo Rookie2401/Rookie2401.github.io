@@ -1,0 +1,66 @@
+{
+ "workId": "gnt-2ti",
+ "editions": [
+  {
+   "editionId": "sblgnt-2ti",
+   "language": "grc",
+   "variety": "grc-koi",
+   "textSource": "self",
+   "analysis": {
+    "id": "morphgnt-sblgnt@6.12",
+    "kind": "verified-dataset",
+    "status": "verified"
+   },
+   "credit": "Greek text: SBL Greek New Testament (SBLGNT), Society of Biblical Literature and Logos Bible Software, CC BY 4.0. Morphology and lemmas: MorphGNT SBLGNT edition, James K. Tauber, CC BY-SA 3.0. Glosses: Dodson Greek Lexicon (public domain). Strong's numbers: Strong's Greek Dictionary, Open Scriptures JSON edition.",
+   "licence": "text CC BY 4.0; analysis CC BY-SA 3.0",
+   "source": {
+    "name": "MorphGNT SBLGNT",
+    "version": "6.12",
+    "sourceUrl": "https://github.com/morphgnt/sblgnt",
+    "localPath": "biblia-v0/data/gnt/76-2Ti-morphgnt.txt",
+    "lexicons": [
+     "dodson.csv",
+     "strongs-greek-dictionary.js"
+    ]
+   },
+   "coverage": {
+    "tokens": 1235,
+    "withLemma": 1235,
+    "withMorphology": 928,
+    "verified": 1235,
+    "ambiguous": 0,
+    "unanalysed": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "2TI.1",
+     "title": "2 Timothy 1",
+     "segments": 18,
+     "tokens": 317
+    },
+    {
+     "file": "0002.json",
+     "ref": "2TI.2",
+     "title": "2 Timothy 2",
+     "segments": 26,
+     "tokens": 356
+    },
+    {
+     "file": "0003.json",
+     "ref": "2TI.3",
+     "title": "2 Timothy 3",
+     "segments": 17,
+     "tokens": 235
+    },
+    {
+     "file": "0004.json",
+     "ref": "2TI.4",
+     "title": "2 Timothy 4",
+     "segments": 22,
+     "tokens": 327
+    }
+   ]
+  }
+ ]
+}

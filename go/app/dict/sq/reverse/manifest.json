@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "lang": "sq",
+  "buckets": 16,
+  "heads": 12156,
+  "shardFiles": [
+    "r-00.json",
+    "r-01.json",
+    "r-02.json",
+    "r-03.json",
+    "r-04.json",
+    "r-05.json",
+    "r-06.json",
+    "r-07.json",
+    "r-08.json",
+    "r-09.json",
+    "r-0a.json",
+    "r-0b.json",
+    "r-0c.json",
+    "r-0d.json",
+    "r-0e.json",
+    "r-0f.json"
+  ],
+  "builtFrom": "kaikki-sq@2026-09-28"
+}

@@ -1,0 +1,35 @@
+{
+ "workId": "hooker-sermon-nature-of-pride",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "hooker-sermon-nature-of-pride-tcp-a03589-1612",
+   "role": "english",
+   "language": "english",
+   "credit": "A learned sermon of the nature of pride, in EEBO-TCP A03589, from the 1612 Oxford printing, ed. Henry Jackson (under the direction of John Spenser) (Oxford: Joseph Barnes (sold by John Barnes), 1612). Transcription: Text Creation Partnership (EEBO-TCP Phase 1); keyboarded from page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A03589/master/A03589.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 42527,
+   "sourceSha256": "060b0f859e2117b4d9017de599081361038cbab922827e8686b5fafaf914fb98",
+   "leftOut": {
+    "pb": 20,
+    "unread": 2,
+    "note": 2
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 4830,
+    "unreadPerThousand": 0.4
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 15
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "workId": "edwards-sinners-angry-god",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "edwards-sinners-boston-1741-tcp",
+   "role": "english",
+   "language": "english",
+   "credit": "Sinners in the hands of an angry God. A sermon preached at Enfield, July 8th 1741, in Text Creation Partnership N03833 (Boston: S. Kneeland and T. Green, 1741). Transcription: Text Creation Partnership (EEBO/Evans/ECCO-TCP), keyed and encoded from page images of the printing named in the header (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/N03833/master/N03833.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 55061,
+   "sourceSha256": "f137afaaf5a596a34a42a2fe0edacc5280301e6da41c82838986b9cba8be23ed",
+   "leftOut": {
+    "pb": 23,
+    "unread": 4,
+    "note": 1
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 7241,
+    "unreadPerThousand": 0.6
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "0",
+     "title": "Sinners in the Hands of an angry GOD.",
+     "segments": 25
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "APPLICATION.",
+     "segments": 25
+    }
+   ]
+  }
+ ]
+}

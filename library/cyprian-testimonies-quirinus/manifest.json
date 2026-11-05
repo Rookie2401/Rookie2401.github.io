@@ -1,0 +1,3093 @@
+{
+ "workId": "cyprian-testimonies-quirinus",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "csel3-hartel-testimonia",
+   "role": "original",
+   "language": "latin",
+   "credit": "Testimoniorum Libri Tres adversus Judaeos, in Corpus Scriptorum Ecclesiasticorum Latinorum, vol. 3.1 (S. Thasci Caecili Cypriani opera omnia, pars I), ed. Wilhelm von Hartel (Vienna: Gerold, 1868). University of Leipzig / Open Greek and Latin (csel-dev), CC BY-SA 4.0; text of the CSEL volume as cited (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0104a/stoa014/stoa0104a.stoa014.opp-lat1.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 592770,
+   "sourceSha256": "45d59bce22bb1d814dcf8feaefb9fa503a6416c96c2ef1b90ea96defdc81e1dd",
+   "leftOut": {
+    "lb": 2719,
+    "note": 316,
+    "pb": 149
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 27961,
+    "garbledPerThousand": 0.7,
+    "joinedPerThousand": 0,
+    "numbersPerThousand": 0.1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "pr",
+     "title": "pr",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 25
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 31
+    },
+    {
+     "file": "0004.json",
+     "ref": "3",
+     "title": "LIBER TERTIVS.",
+     "segments": 120
+    }
+   ]
+  },
+  {
+   "editionId": "anf5-wallis-testimonies",
+   "role": "english",
+   "language": "english",
+   "credit": "Three Books of Testimonies Against the Jews, in The Ante-Nicene Fathers, vol. V (American edition, ed. A. Cleveland Coxe), Cyprian, trans. Robert Ernest Wallis (Buffalo: Christian Literature Publishing Co., 1886). Wikisource contributors, \"Ante-Nicene Fathers\" (Robert Ernest Wallis), en.wikisource.org, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_V/Cyprian/The_Treatises_of_Cyprian/Three_Books_of_Testimonies_Against_the_Jews",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 321407,
+   "sourceSha256": "4744ee3a546002bb83fd92e3016a1d51516136aac18108574cfcf519603929e4",
+   "leftOut": {
+    "note": 825
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Preface",
+     "bytes": 3411,
+     "sha256": "1485c7f8617bb20d35b212e70fc47cf5dd8fc61c6be6daa4c8c275830292754a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Heads",
+     "bytes": 3070,
+     "sha256": "a557c003d1fcb772ea937ce7be7292dd435962d1a0a142e2e074c90601daf9fc"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Part 1",
+     "bytes": 2193,
+     "sha256": "3ae9e077656ae0c28efa46f5b5768d223dc57bc6b40c13adb73b1f94c2e83a13"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Part 2",
+     "bytes": 1730,
+     "sha256": "c5763b8a5b6161f00407fcc2b631f045ee37806a299f6878b9b404871e80edce"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Part 3",
+     "bytes": 3095,
+     "sha256": "65e9cb137f5c9c2f663160803a1813be701659118c52b75b8d0412239846bbff"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Part 4",
+     "bytes": 2594,
+     "sha256": "c71ec72f9c60a98aa83e5ba2b03df7b0dcb6250cec2bb70c05d581ccf0b9ff1b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Part 5",
+     "bytes": 1521,
+     "sha256": "aa8419795029ffb98f15ab897f1a2d233c0443b59a4317dc3e423d8a5a45124a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Part 6",
+     "bytes": 1222,
+     "sha256": "a10454000a9228cefbbfd35b96eb1000d5185b89e50eb49af065844615182379"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Part 7",
+     "bytes": 1053,
+     "sha256": "af34913551e723362bba1670df2c38fc3115594b030b2869f9bc4906f6323d40"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Part 8",
+     "bytes": 1949,
+     "sha256": "547991d717ea3617c6fbb74fef1422335542cf4f2b47b2f0b060b0fcfbb9feca"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Part 9",
+     "bytes": 726,
+     "sha256": "cca9c84aaaaca045efde1d0acb9be1526a380d5e46c0b1366a77f026e99ff0e6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Part 10",
+     "bytes": 939,
+     "sha256": "fc654fa369a23f9b5d2bfa0cb9108e5682e22dea7d7b4fc0faaefd3995e06ea7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Part 11",
+     "bytes": 1275,
+     "sha256": "503aa636385001047f1a0231937a4b83b3b1b6159b4257574e82a7e40c509da1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Part 12",
+     "bytes": 1545,
+     "sha256": "2eb7ab558e4c5fc11425d502842a39f0a22a4aba364d02d755b08341d7106593"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Part 13",
+     "bytes": 1331,
+     "sha256": "2d08c5b31508202fd8d7bc4d243fc6dd0f11dc16e8c153b6f7cf7d04d33b0ff2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Part 14",
+     "bytes": 1231,
+     "sha256": "864f52ccaa221dc1f780f1e56308aa987a0fcf69812469e833d3ce18488de6d1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Part 15",
+     "bytes": 1373,
+     "sha256": "14f6da83a74dad1cb3aaec999f677b4bfa2be5c20c5d42a46fd3c0bae4864094"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Part 16",
+     "bytes": 1946,
+     "sha256": "9c0aa9a5f6f32efa5f174f4b70e7dfaa32cc69b154981d71cffbbfc1a7b8c651"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Part 17",
+     "bytes": 1031,
+     "sha256": "cad7b3795ad301bbcaf6be8b9460045972cd153cc40f89f0110d95b5e697611f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Part 18",
+     "bytes": 1360,
+     "sha256": "7f531fb3abf1f2ab0b7f4f22a50c9d23b91e7b0a3730ac67636a74e497e9e4a2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Part 19",
+     "bytes": 977,
+     "sha256": "cb943db6e30e207cf96baa9f5fea44c2c11d139beea331fa41782d1f795dd8f5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Part 20",
+     "bytes": 2671,
+     "sha256": "a7a066630d6d9c0976a48e1b722952580d8c662887297c192492e0880700a06e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Part 21",
+     "bytes": 7544,
+     "sha256": "d08c80c8a2b0ef2fb26aef97687d67c0efff1054ef97bf9d5d5017cecc98b960"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Part 22",
+     "bytes": 2457,
+     "sha256": "938cb9274c1f29de3992d8503796fff4cbfa40b5a044e57c0fe4cb72d524d3d7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Part 23",
+     "bytes": 698,
+     "sha256": "116cc390088093bf5860e5d6b9e60da9043daae78d0e13c6f74b46bbb0e0b48d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book I/Part 24",
+     "bytes": 1432,
+     "sha256": "1e1c04b7660b41aa8541cf6cd885b85ee16c570f64a1bbab3baff39a98b6ba1e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Heads",
+     "bytes": 2744,
+     "sha256": "0ea38c2e7ca722597a012c02e548258b670154788c3281812f27512d3a9cf112"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 1",
+     "bytes": 4390,
+     "sha256": "4bd5cc06a31eee8089505da0a1d2159f7b3684cda59857c272d4e2d28d78f06e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 2",
+     "bytes": 1266,
+     "sha256": "33c90bd4d6768795e535ed050c483f60442fe92d905d1df0d024ac850cdbe675"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 3",
+     "bytes": 1983,
+     "sha256": "46323ba4ab5c06472ed9be0fb1c53b2e869e14ae2abd127a927d354f7aadba7e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 4",
+     "bytes": 3272,
+     "sha256": "48a5c34f97dd28b58ce2c1753f34529ac3080b7afbe274a3919bce6f11fffc48"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 5",
+     "bytes": 2861,
+     "sha256": "741de2ff67b2227ac9207893c689f7968b13bf2622a6ed3f8358e76e41ad4b0a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 6",
+     "bytes": 5883,
+     "sha256": "f825e7a9f6f7c6191149374c523918828e6f8f6396a37e79433034a56caa5bb5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 7",
+     "bytes": 2924,
+     "sha256": "9f9f4d7491e696505e197c31d7cbe1ce0f9f1411d9860cf3a2114249b70ffac6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 8",
+     "bytes": 1492,
+     "sha256": "24ad7400378f3d7edbb988f8b7e0d84017716c9ade68bded933a410b16f0a539"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 9",
+     "bytes": 1732,
+     "sha256": "7415597b40f1ea289dd061bceeedc78645ff75593082d7c16ddf2d1ad4374d43"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 10",
+     "bytes": 2755,
+     "sha256": "eca8c657df1b56dc0ae566c2531f919635f87f9ad8b14f9c91a2079e71ab919c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 11",
+     "bytes": 2780,
+     "sha256": "c15a1a4c6a69b810bfea75894e208a6690143015727bee12c86a2cd747b609cd"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 12",
+     "bytes": 971,
+     "sha256": "5d0cc6afe5b5183d7ea24f4534e5b0e1c214479575815ea9e3e73d67d4a3ec31"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 13",
+     "bytes": 4315,
+     "sha256": "c52b0e37fec19c7f7dbf9fcd759946d7989cb1a66fed2db594e09806c2241fce"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 14",
+     "bytes": 2211,
+     "sha256": "c6c9fcb3e10d6521e3fd454042f3290e13836653c0162ca9122d556593f90577"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 15",
+     "bytes": 4207,
+     "sha256": "04e72064042bad1b5b805538a257f4399101c6278d86aa1b6c77fa9043d85d2e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 16",
+     "bytes": 4082,
+     "sha256": "a44fda981f52ad31aad6e3fad80dcac1417c49dcb504435d87135a7052396adf"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 17",
+     "bytes": 1270,
+     "sha256": "b982ccd3ebf033a67ad97ca6c15f509a7c5cd401d81d927764f860de7445a67d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 18",
+     "bytes": 1675,
+     "sha256": "819a333c1aace16878a85809e913ee5f1a2e1e8b90447f69a5315139bfd66660"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 19",
+     "bytes": 4557,
+     "sha256": "83ffc693c64f00b0441fa342141a2c0fe79e02b0dcc7ac03a0093616b5831d78"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 20",
+     "bytes": 2877,
+     "sha256": "d3f2898449e2313d4e3a80137ab0be3f22709ee9b5dddcf09656f8621539dab6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 21",
+     "bytes": 1914,
+     "sha256": "324688a702c2baf118aef0e7807cfcbe603b39a653f8a42e906568ba840b2537"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 22",
+     "bytes": 1925,
+     "sha256": "131153b99b90bbc9f5914477b437b53d39fe23d2eabe899212c927f53e223b20"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 23",
+     "bytes": 1220,
+     "sha256": "2b7a6a5f3045c325ba5301ea69744b9275bd4746fea3362e543769d73c6441da"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 24",
+     "bytes": 1057,
+     "sha256": "43eddae233951793a75cb40c4d5a434260d7e6ffbf7454cb2b421adedbe27e7c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 25",
+     "bytes": 1158,
+     "sha256": "a3b82a9313e2537a45fe2d4af262aff21387ebc8268deb05c4c19f5df553ab92"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 26",
+     "bytes": 2839,
+     "sha256": "78ec28c42192873fd5a16f23131b21bd438137e5df655c6812447a06fa3f1938"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 27",
+     "bytes": 2121,
+     "sha256": "5e3727b813029a4b46b6656b07daaae1a83d8623c243abd37f9db5cf9513046a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 28",
+     "bytes": 3250,
+     "sha256": "24577faa0d435d94e150e3085612200859b7635d97b81e2baf0554b1097d75eb"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 29",
+     "bytes": 4364,
+     "sha256": "4fec6ca8e5bb827141a3b6a6912e473d1bf84f0ede30f45d17e062341e9073d3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book II/Part 30",
+     "bytes": 3763,
+     "sha256": "1bdd88fe3baf3139048a61a24df45a27ded3a3e3ecb27f2252a1ea072e08de8b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Preface",
+     "bytes": 1688,
+     "sha256": "b7b7d78dc5f049f68ab98e3c74e7185b217c4e738d981a4394342b1ae7366b19"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Heads",
+     "bytes": 8987,
+     "sha256": "58fea352d18a4bfffc7a59b431248f2943878b41624eba3d896ef6de78c2e17c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 1",
+     "bytes": 12753,
+     "sha256": "c95f02cfb7f5eb98cb058301fd06e096d8abc4942e7c7c4e9b61a0d5de77595b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 2",
+     "bytes": 673,
+     "sha256": "d82d04731a93b74d8eaba864f0df7e20556a3384d8a72243b93d81a599d79f36"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 3",
+     "bytes": 4271,
+     "sha256": "39383b630cf0bf554954b7a3836f1ee28a9f7935c94892afbfe69a8552df364f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 4",
+     "bytes": 1562,
+     "sha256": "dbafeb952eb6e815ab931e6ab4ae5ab34858178fae4384238fe18322407df6eb"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 5",
+     "bytes": 2421,
+     "sha256": "9d6ef25e3258fdb93b5b025ecd84ebeaaac9331475ce70c72ff56c4cdd9351da"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 6",
+     "bytes": 3174,
+     "sha256": "ea00ec2c6f4f8395c9a14d0689ae616defa0b342316be699536d5dbcc20cff88"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 7",
+     "bytes": 699,
+     "sha256": "914b3a50f110783c03605b56dd328eefa87f53e2b9a85df93548199515e341a5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 8",
+     "bytes": 1175,
+     "sha256": "f077353e931b2248b4c689f1beb21b40e32d085eaf15cda5c1eb1a372150ace6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 9",
+     "bytes": 565,
+     "sha256": "8f09ca0a01dcd136bdfb295b85347e17d79128d078b5ea720894db7993b833e2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 10",
+     "bytes": 2502,
+     "sha256": "ac2034101b1b3368d355ba516f67203e9af34bf3db8b640a241239de0ec4475e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 11",
+     "bytes": 7193,
+     "sha256": "6739687273889cacf3ffacfb0b4f82ee5233c2d9ec8ccb36273235d38f7dbd18"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 12",
+     "bytes": 1588,
+     "sha256": "38295474124ee72b9f95912b71dc17da9c2ac394ecf6bfd1e2ad9a2d4291435f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 13",
+     "bytes": 1775,
+     "sha256": "daf0166468d3505a41e4e4f6381d8455878862c05c95b255608ecd62418b1db6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 14",
+     "bytes": 1751,
+     "sha256": "67b414f317fb91648b81fb8173d3d344a2baff678c033721e53ae4d440a82ca1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 15",
+     "bytes": 1572,
+     "sha256": "14346914c01e66116e5d146ca5861181c4007c1bf2c63c5430e8fe8b2c8f5df2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 16",
+     "bytes": 7207,
+     "sha256": "4def9d3d5e902ec9c2a6fddba5e6ba8ec0e13e87bcbb87d82fe550a70f0454fd"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 17",
+     "bytes": 1949,
+     "sha256": "a13f425a59dc085195f6a4601a185a5ed21cb4ef6dd01a0153fdc0b8a1db68fe"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 18",
+     "bytes": 1242,
+     "sha256": "848dcc574a982061f4fa1d76c8dbf160c9d5a0537570680757f1483c16807fc2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 19",
+     "bytes": 1430,
+     "sha256": "934e9de6d4c022b9cfead33972366b18f92b47e60c3de2f9c6afd25066917f40"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 20",
+     "bytes": 10524,
+     "sha256": "78fff5905a23d00d3c6fd95c3f7ace503a40f30de4673fba837716442d4be29c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 21",
+     "bytes": 1404,
+     "sha256": "bbb8d55c1adc7c7d2b23306b4b1e8f17074f0058a9f9f6869e04f5ea93988b92"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 22",
+     "bytes": 950,
+     "sha256": "55f204a2a64235da9b4d2aecd74c69c340d171be38aa236af58e7ff55257f2e9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 23",
+     "bytes": 1091,
+     "sha256": "ff1873afdf95aaa0a95256befb45be2bda9a54c6314823d684c4ebc35db089ab"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 24",
+     "bytes": 667,
+     "sha256": "507ed71067bac494c8a1c1498dfb75ebeba3f06ee993b3ee58a1815e69fd5c9a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 25",
+     "bytes": 831,
+     "sha256": "0643fa3e77a05edd34ce0c4f2b6679b7b35d0a87e072a6eafa51c0e3f49ccf02"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 26",
+     "bytes": 1494,
+     "sha256": "1234487d2a0b9c2c415c520c18386a717a2267b4cf1db4d1ce6ad75e4601a31f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 27",
+     "bytes": 950,
+     "sha256": "89b7c4f1fa9153d8595bc30f26d410839ea61edee344fe22903a3e32586be8b5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 28",
+     "bytes": 1275,
+     "sha256": "30c36055fc7e2234c442267fcd6f5415dc882e5d0d8cb528b7aaa5c2800bb12a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 29",
+     "bytes": 2369,
+     "sha256": "7391cb63a1f8c489f6a53e23f238a0f6e22bcc2d8c636a90c16987cdf5150dc4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 30",
+     "bytes": 1501,
+     "sha256": "ef9e92cd91bcdd8d0e1cc3639b1363c9bd2f87f54ff5e7596223fc05b67ee879"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 31",
+     "bytes": 904,
+     "sha256": "fe8dd276dbe2861b7b000e6fb9322b38b5b25f67110d5adf757dcc428eeaff7d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 32",
+     "bytes": 3886,
+     "sha256": "6db98f00e36ebd168e001c51f8a0378417d6223054f82ac422ea2b78f5f92432"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 33",
+     "bytes": 1051,
+     "sha256": "9f5b5084025167c1af15bb3bc987851c418e4af8b1449a9bc47c80971b9239dd"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 34",
+     "bytes": 1880,
+     "sha256": "f298dc5d0474ea3314b4f6e4df65e0cc047f32a71920d1a62b87106b6561e2a1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 35",
+     "bytes": 991,
+     "sha256": "f09d4c0eca0626fb89a37c20cb905f832de9b519480001af6de638bb0e92aa33"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 36",
+     "bytes": 1695,
+     "sha256": "702798fa5ed9bc4544f3d01b92e5e0bedbb2527be5a87596da074953cb3e9658"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 37",
+     "bytes": 1260,
+     "sha256": "c600104632a5c143f13bf039fc68b227de034a77e2cf150a81866b8174b892c2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 38",
+     "bytes": 574,
+     "sha256": "70587f1374152ad7b519f31ee25513b28ba6d520d862d348c6153747e1a521f4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 39",
+     "bytes": 1692,
+     "sha256": "843c5be6242028a1dd7c533fcec45be36c0ac46f6ae583d94257a185505b93fd"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 40",
+     "bytes": 879,
+     "sha256": "d8693d2846471ceba84ce3cc8bde5818bd4be54aeb7c08b6a4fe06147671e0c3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 41",
+     "bytes": 563,
+     "sha256": "2714790ae8d9b87a1ad7b7684b4ead54d32b579d8ad80d7e0d119c8a94c8adf8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 42",
+     "bytes": 1489,
+     "sha256": "73f2867ade92cc5d25d824e8def4785408483e5d998a623d228db63f0fe4357d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 43",
+     "bytes": 603,
+     "sha256": "c1cd0387b8198314af5262b44424943e28b15abf973fae95e2f4424aa00f61bb"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 44",
+     "bytes": 1219,
+     "sha256": "88b91c6354c5227aad39a65fd5a419db7bc3b69f60236078f2cd5b3bdd8a896d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 45",
+     "bytes": 768,
+     "sha256": "8227d6381312922eee02d93e67ef19de26025727d9f7664ef109c1f34c87394f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 46",
+     "bytes": 1020,
+     "sha256": "0c991d92136f0707d1ef11a9eef723af392e6a1104a98f43d02162942bbde7dc"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 47",
+     "bytes": 1939,
+     "sha256": "3e67f53f759a16d6c57d69452d66633b68b1d5922eccc5588a64a444ab15edaf"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 48",
+     "bytes": 1094,
+     "sha256": "3ad206a344ace14a406e3581859ce3fd2e1751e19a7823f02d626a0d741718df"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 49",
+     "bytes": 813,
+     "sha256": "3f862ed547e866043ee98d77c14288fcba709301c2446c91224cc32253280d3a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 50",
+     "bytes": 789,
+     "sha256": "6605015c04b8750e4498588c7e31972917e6a729ebd67adc1dc749035120b218"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 51",
+     "bytes": 1080,
+     "sha256": "549fd9dafa67b98e59ca7278d5b81ea4331e25d4d1cbad4cd8718b2a2d80b542"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 52",
+     "bytes": 925,
+     "sha256": "13d92b93af9ac8febff132f46783750e9c5735363afd2e77a79f02a29886a166"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 53",
+     "bytes": 2272,
+     "sha256": "26f3ece358d25a6dd7c1a15ca7416aeb34fe86c1628e81adfcfce72c2261ee42"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 54",
+     "bytes": 788,
+     "sha256": "e8084599297cf34a3f12505cffd354eb55667faaf405dde990e1a6380292999f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 55",
+     "bytes": 638,
+     "sha256": "e466c79bb749d50d5731518cbffeb17d1ee281dcb1cb7a98b27ac7f50392ea31"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 56",
+     "bytes": 1459,
+     "sha256": "1db061080976c80b547a93739f1ce37d78a160b530a83f8a3a3514d5ae74aa6b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 57",
+     "bytes": 994,
+     "sha256": "797950ba156544b6def2bdde9162c6949469f512eac667071def7dc1ab78f886"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 58",
+     "bytes": 4164,
+     "sha256": "69de64e4597d9e3f0831ce2d5b03507a8be5349972487ffd736fad7c1e725ab3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 59",
+     "bytes": 7792,
+     "sha256": "fd0d721876baac7d63dafd95c5a7300f3e7498587d5ad23fb1d11f226b111695"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 60",
+     "bytes": 1371,
+     "sha256": "0dd5547c95a63e6ad7d33bd9421babf3a5359a4e29dad1844c1b43250d02cdaa"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 61",
+     "bytes": 2460,
+     "sha256": "772b9047c72f0597f748f3c60f99c045181733049a78fb86c073c69da7399652"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 62",
+     "bytes": 1930,
+     "sha256": "da936eb77b1821aef674622fa60cf33601916fcea63e86988f308af790936d39"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 63",
+     "bytes": 668,
+     "sha256": "a986ebce7572a4da26634d1cce4ac101d4471ea9622ed3834c0c075854036c0e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 64",
+     "bytes": 1232,
+     "sha256": "4e0555f577e43d570a4dc2fd7304b0de0ab8e6b94fef5f9e823f9f6153ee6c4c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 65",
+     "bytes": 803,
+     "sha256": "bedf9eefe53d7cb27f70d70c663a983ecba8cb25596c4ea52b4ac21a2afa5bbb"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 66",
+     "bytes": 1340,
+     "sha256": "8737bd1447617b731940bfcc9ca8331c0d3672d278cdd3158d4c34954eae61b2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 67",
+     "bytes": 717,
+     "sha256": "58af7d9affd3df6f04f1d23defaa0f12989eda396d4d29200ed3a36ed2126a99"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 68",
+     "bytes": 959,
+     "sha256": "7cc009e3635cedef4695998f8c7fa7d0a04f91e7b1ee7dd02b050fa97f5c8938"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 69",
+     "bytes": 1854,
+     "sha256": "9d1847ee18f0901dcac7f3a283f9373fdd056ffac94d67c38bc6411cf505948a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 70",
+     "bytes": 643,
+     "sha256": "027dfdfeb3874601a8f538b2a1bb3f84d34311fbe68366d3d20cfebd3150b2a2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 71",
+     "bytes": 558,
+     "sha256": "c04bae40864f1481f11b0f9220871cb7cb0f53a9c0f2779be8ecfafbd5b01584"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 72",
+     "bytes": 676,
+     "sha256": "f69b97e3f0eda1220b7b376937eca7b6caf4159c729a5695f00f92c5f8135fa8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 73",
+     "bytes": 588,
+     "sha256": "643700ef4351b46bd54fae83d27c9a2ce60240a25345fa684178b76e064bf9d9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 74",
+     "bytes": 768,
+     "sha256": "ebd2861346c1f8b9c58d5fb00ff26070a92c918a7407ab60998835ed6c749c42"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 75",
+     "bytes": 1001,
+     "sha256": "f80c3a8df9e3dd0781bb2aa296bb36720124550cd97fe31e1f11c5d139c87032"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 76",
+     "bytes": 465,
+     "sha256": "171a73687dc4f855b11510a6fe011b8a61f4329075ffb79e15489ac9214cf5e6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 77",
+     "bytes": 521,
+     "sha256": "dfc8f49cdce2123149acab7d3828c994ea5980da374a6248ffb7997cb70b25b8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 78",
+     "bytes": 864,
+     "sha256": "022183a8f029d853b51079c55eb97a94a8350af78f9a12eaa70e61c59ffe5efe"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 79",
+     "bytes": 881,
+     "sha256": "36dbcd7bf50d0be8c62d4da8beba2e54b3ad212cd9f19687d823bd5b23acd5dd"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 80",
+     "bytes": 1011,
+     "sha256": "6bbeb5c7a6db60989b4398110ee74e490fdc32bc5e216326ba887dbe6f5a3d3f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 81",
+     "bytes": 482,
+     "sha256": "a848c6ab4229e242b89db302968e3777f375bcc9d5388e92d86d00e69b9d074e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 82",
+     "bytes": 438,
+     "sha256": "2415f0a5536b1e25b5a77089dccbe23c853e4392ddef5c3591e928c7a9bd7e8b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 83",
+     "bytes": 521,
+     "sha256": "e93c7f1664bd802011c5db44caf8d7148b891590b931abe160b3033c2a530d54"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 84",
+     "bytes": 485,
+     "sha256": "df03bdd032f92f3039dd73b6becdf75a71c9216a470efee34051fb0946816a26"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 85",
+     "bytes": 517,
+     "sha256": "9ad2c19de837e671f268be9cc04c9b4a8f0551bb8d3847b2b1651d1bc9d38e8c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 86",
+     "bytes": 1533,
+     "sha256": "aef433cdb1dbf9460faa38798b7ff01d9d58b5f402636737ae0aa60fd5cfd345"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 87",
+     "bytes": 733,
+     "sha256": "c4f30a2f909b61ab657fdd8eba61410381de7802b0503438cd855e68c8a53eb7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 88",
+     "bytes": 537,
+     "sha256": "ecdafb4a422d1f7ebdc6a12744256ec4a19bf3e3d9967fb921d5f0ad031b70cf"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 89",
+     "bytes": 720,
+     "sha256": "d8a5230d1a020ad9e499442885b2c95eeba8e527a74d996b054c19f644b64bb7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 90",
+     "bytes": 764,
+     "sha256": "254583f5c4de313081d00fecb1a71af072040c0b6f361cec106b9315f15bd242"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 91",
+     "bytes": 689,
+     "sha256": "be418abc667bafa3b7f240a8a576632d6f5375e67813fc9ab5de5b94271eb82d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 92",
+     "bytes": 558,
+     "sha256": "8697b7b7fc945571f52f9afc727a34f1cb6ac504933c509cf27e24b89742f30d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 93",
+     "bytes": 552,
+     "sha256": "aa6da6660e4407055b90ec468f3725d8e79f26d645605ee689679316031d1e69"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 94",
+     "bytes": 862,
+     "sha256": "65b7b977d1a3b59e829905b808bf4ed8ce710a9da95654b10cc010ab2df2f462"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 95",
+     "bytes": 1559,
+     "sha256": "e9698e4be6eb0653d4291e1b62bf5ca8e213576143ec1e20812c35deeba30b87"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 96",
+     "bytes": 1528,
+     "sha256": "3214ff1dbffd42adbf7b5d5ae5acfddd3543f8c5329dea8f66789ade72279f5a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 97",
+     "bytes": 540,
+     "sha256": "4d2bd8bddb0749d2aa2249289013522f7db4afc65e2b455bd005b45aea2e927b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 98",
+     "bytes": 650,
+     "sha256": "e6ac99ef6a856ef5207bef8a6330ab49bfdb0a66d47589f503005c0f58865952"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 99",
+     "bytes": 611,
+     "sha256": "e1caa941848dff4149c676f068fc8776c1f24fbadf7a2c94f8c477cab730eebf"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 100",
+     "bytes": 1383,
+     "sha256": "9ea49f64ba06ca57362905394f366bb59eb0c79d08e20233defac08eb7085316"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 101",
+     "bytes": 1124,
+     "sha256": "06a263181be4729a7a12834df13da6e6145b27a5d176a74c4700074b798de24f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 102",
+     "bytes": 532,
+     "sha256": "660f43991ca24098012ae22ab63ed28a8a4ebd49fe1f3eab7651240fb8d4abb0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 103",
+     "bytes": 502,
+     "sha256": "60426c53552c8930e70e0e4be78026a1ec736855e418cc1569bbd5b38a89aa7a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 104",
+     "bytes": 426,
+     "sha256": "65418438e632637e9c9a6b2f8eada9fb42ed738fad545d2e77af7613aca94690"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 105",
+     "bytes": 578,
+     "sha256": "a3b30f9bfa29db3014bd015f12128d1ba354e8b5187060dc1ef58af39767566f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 106",
+     "bytes": 905,
+     "sha256": "9e1056046f12b218ab48b4cd01d8c59034d92265e0744e8b5992e191866ee6ce"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 107",
+     "bytes": 846,
+     "sha256": "031ffba5cea037ed8a5628be11dc74613fd9ec571a88133740045d123747d02f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 108",
+     "bytes": 510,
+     "sha256": "16937c03e165b82678aa55825828c0064b7151c3d78a0e966d407f046bd59fe0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 109",
+     "bytes": 688,
+     "sha256": "5a28aa2396abbb394e38468020f0fda2a600848515c41bb49aa4e9043e4eae1e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 110",
+     "bytes": 521,
+     "sha256": "c14da787042711f8772d9bd5c6cd55ca5f9af9fe11dca1c416e662a1f8162ffa"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 111",
+     "bytes": 488,
+     "sha256": "bcea6cebb6b71de322d9397ee74a1175f508c11f3ccd4d8c941d04aa577e42e7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 112",
+     "bytes": 719,
+     "sha256": "423a9902a9d7ceae6b9ac89d92d5e667c00069f2c700e691be81bc00bf8c1ccc"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 113",
+     "bytes": 1381,
+     "sha256": "45e244d6654182982801953fcb9b6e1d58c5ab22b148f42670730242d01ad2bb"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 114",
+     "bytes": 1092,
+     "sha256": "829c1e0444db74c6121ab74c248bdf201e5614c33dbeff109a4348aa283e9f0c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 115",
+     "bytes": 484,
+     "sha256": "e9ceb2274a1e0d48179715a32abae69a0cea07dbdcb860d62c4d8cabb0d6d3aa"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 116",
+     "bytes": 564,
+     "sha256": "d18fbf92af16d9329787d66d7f73a9f00bfa964e7f9b3c08688aac41763124cf"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 117",
+     "bytes": 1258,
+     "sha256": "247dc06fc5d7cb9bfb1a42e31885f38411e8cf5375e1d4c1656fde154b46767a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 118",
+     "bytes": 524,
+     "sha256": "8c712e22a0c65871b52eb81b104c612988c69100b5eea7af2d87050b1ad9d3d2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 119",
+     "bytes": 1531,
+     "sha256": "d205b444d2fdef9b96bc058762ef76c01ff2fb4e7ea57fb8a9524bdf93561920"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Three Books of Testimonies Against the Jews/Book III/Part 120",
+     "bytes": 1076,
+     "sha256": "e668d1419835eca70a03deb80c9cb84eb3c0f9799349419d73780e51cf17b257"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 3
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.p1.front",
+     "title": "1.p1.front",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.p1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.p1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.p1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.p1.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.p1.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.p1.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.p1.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.p1.8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.p1.9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.p1.10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.p1.11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.p1.12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.p1.13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.p1.14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.p1.15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.p1.16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.p1.17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.p1.18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.p1.19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.p1.20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.p1.21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.p1.22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.p1.23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.p1.24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.1",
+     "title": "1.1",
+     "segments": 3
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.2",
+     "title": "1.2",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.3",
+     "title": "1.3",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.4",
+     "title": "1.4",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.5",
+     "title": "1.5",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.6",
+     "title": "1.6",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.7",
+     "title": "1.7",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.8",
+     "title": "1.8",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.9",
+     "title": "1.9",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.10",
+     "title": "1.10",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.11",
+     "title": "1.11",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.12",
+     "title": "1.12",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.13",
+     "title": "1.13",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.14",
+     "title": "1.14",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.15",
+     "title": "1.15",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.16",
+     "title": "1.16",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.17",
+     "title": "1.17",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "1.18",
+     "title": "1.18",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "1.19",
+     "title": "1.19",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "1.20",
+     "title": "1.20",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "1.21",
+     "title": "1.21",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "1.22",
+     "title": "1.22",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "1.23",
+     "title": "1.23",
+     "segments": 2
+    },
+    {
+     "file": "0050.json",
+     "ref": "1.24",
+     "title": "1.24",
+     "segments": 2
+    },
+    {
+     "file": "0051.json",
+     "ref": "2.p1.front",
+     "title": "2.p1.front",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "2.p1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0053.json",
+     "ref": "2.p1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "2.p1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "2.p1.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "2.p1.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0057.json",
+     "ref": "2.p1.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0058.json",
+     "ref": "2.p1.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0059.json",
+     "ref": "2.p1.8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0060.json",
+     "ref": "2.p1.9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0061.json",
+     "ref": "2.p1.10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0062.json",
+     "ref": "2.p1.11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0063.json",
+     "ref": "2.p1.12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0064.json",
+     "ref": "2.p1.13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0065.json",
+     "ref": "2.p1.14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0066.json",
+     "ref": "2.p1.15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0067.json",
+     "ref": "2.p1.16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0068.json",
+     "ref": "2.p1.17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0069.json",
+     "ref": "2.p1.18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0070.json",
+     "ref": "2.p1.19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0071.json",
+     "ref": "2.p1.20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0072.json",
+     "ref": "2.p1.21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0073.json",
+     "ref": "2.p1.22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0074.json",
+     "ref": "2.p1.23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0075.json",
+     "ref": "2.p1.24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0076.json",
+     "ref": "2.p1.25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0077.json",
+     "ref": "2.p1.26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0078.json",
+     "ref": "2.p1.27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0079.json",
+     "ref": "2.p1.28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0080.json",
+     "ref": "2.p1.29",
+     "title": "29",
+     "segments": 1
+    },
+    {
+     "file": "0081.json",
+     "ref": "2.p1.30",
+     "title": "30",
+     "segments": 1
+    },
+    {
+     "file": "0082.json",
+     "ref": "2.1",
+     "title": "2.1",
+     "segments": 3
+    },
+    {
+     "file": "0083.json",
+     "ref": "2.2",
+     "title": "2.2",
+     "segments": 2
+    },
+    {
+     "file": "0084.json",
+     "ref": "2.3",
+     "title": "2.3",
+     "segments": 2
+    },
+    {
+     "file": "0085.json",
+     "ref": "2.4",
+     "title": "2.4",
+     "segments": 2
+    },
+    {
+     "file": "0086.json",
+     "ref": "2.5",
+     "title": "2.5",
+     "segments": 2
+    },
+    {
+     "file": "0087.json",
+     "ref": "2.6",
+     "title": "2.6",
+     "segments": 2
+    },
+    {
+     "file": "0088.json",
+     "ref": "2.7",
+     "title": "2.7",
+     "segments": 2
+    },
+    {
+     "file": "0089.json",
+     "ref": "2.8",
+     "title": "2.8",
+     "segments": 2
+    },
+    {
+     "file": "0090.json",
+     "ref": "2.9",
+     "title": "2.9",
+     "segments": 2
+    },
+    {
+     "file": "0091.json",
+     "ref": "2.10",
+     "title": "2.10",
+     "segments": 2
+    },
+    {
+     "file": "0092.json",
+     "ref": "2.11",
+     "title": "2.11",
+     "segments": 2
+    },
+    {
+     "file": "0093.json",
+     "ref": "2.12",
+     "title": "2.12",
+     "segments": 2
+    },
+    {
+     "file": "0094.json",
+     "ref": "2.13",
+     "title": "2.13",
+     "segments": 2
+    },
+    {
+     "file": "0095.json",
+     "ref": "2.14",
+     "title": "2.14",
+     "segments": 2
+    },
+    {
+     "file": "0096.json",
+     "ref": "2.15",
+     "title": "2.15",
+     "segments": 2
+    },
+    {
+     "file": "0097.json",
+     "ref": "2.16",
+     "title": "2.16",
+     "segments": 2
+    },
+    {
+     "file": "0098.json",
+     "ref": "2.17",
+     "title": "2.17",
+     "segments": 2
+    },
+    {
+     "file": "0099.json",
+     "ref": "2.18",
+     "title": "2.18",
+     "segments": 2
+    },
+    {
+     "file": "0100.json",
+     "ref": "2.19",
+     "title": "2.19",
+     "segments": 2
+    },
+    {
+     "file": "0101.json",
+     "ref": "2.20",
+     "title": "2.20",
+     "segments": 2
+    },
+    {
+     "file": "0102.json",
+     "ref": "2.21",
+     "title": "2.21",
+     "segments": 2
+    },
+    {
+     "file": "0103.json",
+     "ref": "2.22",
+     "title": "2.22",
+     "segments": 2
+    },
+    {
+     "file": "0104.json",
+     "ref": "2.23",
+     "title": "2.23",
+     "segments": 2
+    },
+    {
+     "file": "0105.json",
+     "ref": "2.24",
+     "title": "2.24",
+     "segments": 2
+    },
+    {
+     "file": "0106.json",
+     "ref": "2.25",
+     "title": "2.25",
+     "segments": 2
+    },
+    {
+     "file": "0107.json",
+     "ref": "2.26",
+     "title": "2.26",
+     "segments": 2
+    },
+    {
+     "file": "0108.json",
+     "ref": "2.27",
+     "title": "2.27",
+     "segments": 2
+    },
+    {
+     "file": "0109.json",
+     "ref": "2.28",
+     "title": "2.28",
+     "segments": 2
+    },
+    {
+     "file": "0110.json",
+     "ref": "2.29",
+     "title": "2.29",
+     "segments": 2
+    },
+    {
+     "file": "0111.json",
+     "ref": "2.30",
+     "title": "2.30",
+     "segments": 2
+    },
+    {
+     "file": "0112.json",
+     "ref": "3.p1",
+     "title": "3.p1",
+     "segments": 2
+    },
+    {
+     "file": "0113.json",
+     "ref": "3.p2.front",
+     "title": "3.p2.front",
+     "segments": 1
+    },
+    {
+     "file": "0114.json",
+     "ref": "3.p2.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0115.json",
+     "ref": "3.p2.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0116.json",
+     "ref": "3.p2.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0117.json",
+     "ref": "3.p2.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0118.json",
+     "ref": "3.p2.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0119.json",
+     "ref": "3.p2.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0120.json",
+     "ref": "3.p2.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0121.json",
+     "ref": "3.p2.8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0122.json",
+     "ref": "3.p2.9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0123.json",
+     "ref": "3.p2.10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0124.json",
+     "ref": "3.p2.11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0125.json",
+     "ref": "3.p2.12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0126.json",
+     "ref": "3.p2.13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0127.json",
+     "ref": "3.p2.14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0128.json",
+     "ref": "3.p2.15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0129.json",
+     "ref": "3.p2.16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0130.json",
+     "ref": "3.p2.17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0131.json",
+     "ref": "3.p2.18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0132.json",
+     "ref": "3.p2.19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0133.json",
+     "ref": "3.p2.20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0134.json",
+     "ref": "3.p2.21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0135.json",
+     "ref": "3.p2.22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0136.json",
+     "ref": "3.p2.23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0137.json",
+     "ref": "3.p2.24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0138.json",
+     "ref": "3.p2.25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0139.json",
+     "ref": "3.p2.26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0140.json",
+     "ref": "3.p2.27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0141.json",
+     "ref": "3.p2.28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0142.json",
+     "ref": "3.p2.29",
+     "title": "29",
+     "segments": 1
+    },
+    {
+     "file": "0143.json",
+     "ref": "3.p2.30",
+     "title": "30",
+     "segments": 1
+    },
+    {
+     "file": "0144.json",
+     "ref": "3.p2.31",
+     "title": "31",
+     "segments": 1
+    },
+    {
+     "file": "0145.json",
+     "ref": "3.p2.32",
+     "title": "32",
+     "segments": 1
+    },
+    {
+     "file": "0146.json",
+     "ref": "3.p2.33",
+     "title": "33",
+     "segments": 1
+    },
+    {
+     "file": "0147.json",
+     "ref": "3.p2.34",
+     "title": "34",
+     "segments": 1
+    },
+    {
+     "file": "0148.json",
+     "ref": "3.p2.35",
+     "title": "35",
+     "segments": 1
+    },
+    {
+     "file": "0149.json",
+     "ref": "3.p2.36",
+     "title": "36",
+     "segments": 1
+    },
+    {
+     "file": "0150.json",
+     "ref": "3.p2.37",
+     "title": "37",
+     "segments": 1
+    },
+    {
+     "file": "0151.json",
+     "ref": "3.p2.38",
+     "title": "38",
+     "segments": 1
+    },
+    {
+     "file": "0152.json",
+     "ref": "3.p2.39",
+     "title": "39",
+     "segments": 1
+    },
+    {
+     "file": "0153.json",
+     "ref": "3.p2.40",
+     "title": "40",
+     "segments": 1
+    },
+    {
+     "file": "0154.json",
+     "ref": "3.p2.41",
+     "title": "41",
+     "segments": 1
+    },
+    {
+     "file": "0155.json",
+     "ref": "3.p2.42",
+     "title": "42",
+     "segments": 1
+    },
+    {
+     "file": "0156.json",
+     "ref": "3.p2.43",
+     "title": "43",
+     "segments": 1
+    },
+    {
+     "file": "0157.json",
+     "ref": "3.p2.44",
+     "title": "44",
+     "segments": 1
+    },
+    {
+     "file": "0158.json",
+     "ref": "3.p2.45",
+     "title": "45",
+     "segments": 1
+    },
+    {
+     "file": "0159.json",
+     "ref": "3.p2.46",
+     "title": "46",
+     "segments": 1
+    },
+    {
+     "file": "0160.json",
+     "ref": "3.p2.47",
+     "title": "47",
+     "segments": 1
+    },
+    {
+     "file": "0161.json",
+     "ref": "3.p2.48",
+     "title": "48",
+     "segments": 1
+    },
+    {
+     "file": "0162.json",
+     "ref": "3.p2.49",
+     "title": "49",
+     "segments": 1
+    },
+    {
+     "file": "0163.json",
+     "ref": "3.p2.50",
+     "title": "50",
+     "segments": 1
+    },
+    {
+     "file": "0164.json",
+     "ref": "3.p2.51",
+     "title": "51",
+     "segments": 1
+    },
+    {
+     "file": "0165.json",
+     "ref": "3.p2.52",
+     "title": "52",
+     "segments": 1
+    },
+    {
+     "file": "0166.json",
+     "ref": "3.p2.53",
+     "title": "53",
+     "segments": 1
+    },
+    {
+     "file": "0167.json",
+     "ref": "3.p2.54",
+     "title": "54",
+     "segments": 1
+    },
+    {
+     "file": "0168.json",
+     "ref": "3.p2.55",
+     "title": "55",
+     "segments": 1
+    },
+    {
+     "file": "0169.json",
+     "ref": "3.p2.56",
+     "title": "56",
+     "segments": 1
+    },
+    {
+     "file": "0170.json",
+     "ref": "3.p2.57",
+     "title": "57",
+     "segments": 1
+    },
+    {
+     "file": "0171.json",
+     "ref": "3.p2.58",
+     "title": "58",
+     "segments": 1
+    },
+    {
+     "file": "0172.json",
+     "ref": "3.p2.59",
+     "title": "59",
+     "segments": 1
+    },
+    {
+     "file": "0173.json",
+     "ref": "3.p2.60",
+     "title": "60",
+     "segments": 1
+    },
+    {
+     "file": "0174.json",
+     "ref": "3.p2.61",
+     "title": "61",
+     "segments": 1
+    },
+    {
+     "file": "0175.json",
+     "ref": "3.p2.62",
+     "title": "62",
+     "segments": 1
+    },
+    {
+     "file": "0176.json",
+     "ref": "3.p2.63",
+     "title": "63",
+     "segments": 1
+    },
+    {
+     "file": "0177.json",
+     "ref": "3.p2.64",
+     "title": "64",
+     "segments": 1
+    },
+    {
+     "file": "0178.json",
+     "ref": "3.p2.65",
+     "title": "65",
+     "segments": 1
+    },
+    {
+     "file": "0179.json",
+     "ref": "3.p2.66",
+     "title": "66",
+     "segments": 1
+    },
+    {
+     "file": "0180.json",
+     "ref": "3.p2.67",
+     "title": "67",
+     "segments": 1
+    },
+    {
+     "file": "0181.json",
+     "ref": "3.p2.68",
+     "title": "68",
+     "segments": 1
+    },
+    {
+     "file": "0182.json",
+     "ref": "3.p2.69",
+     "title": "69",
+     "segments": 1
+    },
+    {
+     "file": "0183.json",
+     "ref": "3.p2.70",
+     "title": "70",
+     "segments": 1
+    },
+    {
+     "file": "0184.json",
+     "ref": "3.p2.71",
+     "title": "71",
+     "segments": 1
+    },
+    {
+     "file": "0185.json",
+     "ref": "3.p2.72",
+     "title": "72",
+     "segments": 1
+    },
+    {
+     "file": "0186.json",
+     "ref": "3.p2.73",
+     "title": "73",
+     "segments": 1
+    },
+    {
+     "file": "0187.json",
+     "ref": "3.p2.74",
+     "title": "74",
+     "segments": 1
+    },
+    {
+     "file": "0188.json",
+     "ref": "3.p2.75",
+     "title": "75",
+     "segments": 1
+    },
+    {
+     "file": "0189.json",
+     "ref": "3.p2.76",
+     "title": "76",
+     "segments": 1
+    },
+    {
+     "file": "0190.json",
+     "ref": "3.p2.77",
+     "title": "77",
+     "segments": 1
+    },
+    {
+     "file": "0191.json",
+     "ref": "3.p2.78",
+     "title": "78",
+     "segments": 1
+    },
+    {
+     "file": "0192.json",
+     "ref": "3.p2.79",
+     "title": "79",
+     "segments": 1
+    },
+    {
+     "file": "0193.json",
+     "ref": "3.p2.80",
+     "title": "80",
+     "segments": 1
+    },
+    {
+     "file": "0194.json",
+     "ref": "3.p2.81",
+     "title": "81",
+     "segments": 1
+    },
+    {
+     "file": "0195.json",
+     "ref": "3.p2.82",
+     "title": "82",
+     "segments": 1
+    },
+    {
+     "file": "0196.json",
+     "ref": "3.p2.83",
+     "title": "83",
+     "segments": 1
+    },
+    {
+     "file": "0197.json",
+     "ref": "3.p2.84",
+     "title": "84",
+     "segments": 1
+    },
+    {
+     "file": "0198.json",
+     "ref": "3.p2.85",
+     "title": "85",
+     "segments": 1
+    },
+    {
+     "file": "0199.json",
+     "ref": "3.p2.86",
+     "title": "86",
+     "segments": 1
+    },
+    {
+     "file": "0200.json",
+     "ref": "3.p2.87",
+     "title": "87",
+     "segments": 1
+    },
+    {
+     "file": "0201.json",
+     "ref": "3.p2.88",
+     "title": "88",
+     "segments": 1
+    },
+    {
+     "file": "0202.json",
+     "ref": "3.p2.89",
+     "title": "89",
+     "segments": 1
+    },
+    {
+     "file": "0203.json",
+     "ref": "3.p2.90",
+     "title": "90",
+     "segments": 1
+    },
+    {
+     "file": "0204.json",
+     "ref": "3.p2.91",
+     "title": "91",
+     "segments": 1
+    },
+    {
+     "file": "0205.json",
+     "ref": "3.p2.92",
+     "title": "92",
+     "segments": 1
+    },
+    {
+     "file": "0206.json",
+     "ref": "3.p2.93",
+     "title": "93",
+     "segments": 1
+    },
+    {
+     "file": "0207.json",
+     "ref": "3.p2.94",
+     "title": "94",
+     "segments": 1
+    },
+    {
+     "file": "0208.json",
+     "ref": "3.p2.95",
+     "title": "95",
+     "segments": 1
+    },
+    {
+     "file": "0209.json",
+     "ref": "3.p2.96",
+     "title": "96",
+     "segments": 1
+    },
+    {
+     "file": "0210.json",
+     "ref": "3.p2.97",
+     "title": "97",
+     "segments": 1
+    },
+    {
+     "file": "0211.json",
+     "ref": "3.p2.98",
+     "title": "98",
+     "segments": 1
+    },
+    {
+     "file": "0212.json",
+     "ref": "3.p2.99",
+     "title": "99",
+     "segments": 1
+    },
+    {
+     "file": "0213.json",
+     "ref": "3.p2.100",
+     "title": "100",
+     "segments": 1
+    },
+    {
+     "file": "0214.json",
+     "ref": "3.p2.101",
+     "title": "101",
+     "segments": 1
+    },
+    {
+     "file": "0215.json",
+     "ref": "3.p2.102",
+     "title": "102",
+     "segments": 1
+    },
+    {
+     "file": "0216.json",
+     "ref": "3.p2.103",
+     "title": "103",
+     "segments": 1
+    },
+    {
+     "file": "0217.json",
+     "ref": "3.p2.104",
+     "title": "104",
+     "segments": 1
+    },
+    {
+     "file": "0218.json",
+     "ref": "3.p2.105",
+     "title": "105",
+     "segments": 1
+    },
+    {
+     "file": "0219.json",
+     "ref": "3.p2.106",
+     "title": "106",
+     "segments": 1
+    },
+    {
+     "file": "0220.json",
+     "ref": "3.p2.107",
+     "title": "107",
+     "segments": 1
+    },
+    {
+     "file": "0221.json",
+     "ref": "3.p2.108",
+     "title": "108",
+     "segments": 1
+    },
+    {
+     "file": "0222.json",
+     "ref": "3.p2.109",
+     "title": "109",
+     "segments": 1
+    },
+    {
+     "file": "0223.json",
+     "ref": "3.p2.110",
+     "title": "110",
+     "segments": 1
+    },
+    {
+     "file": "0224.json",
+     "ref": "3.p2.111",
+     "title": "111",
+     "segments": 1
+    },
+    {
+     "file": "0225.json",
+     "ref": "3.p2.112",
+     "title": "112",
+     "segments": 1
+    },
+    {
+     "file": "0226.json",
+     "ref": "3.p2.113",
+     "title": "113",
+     "segments": 1
+    },
+    {
+     "file": "0227.json",
+     "ref": "3.p2.114",
+     "title": "114",
+     "segments": 1
+    },
+    {
+     "file": "0228.json",
+     "ref": "3.p2.115",
+     "title": "115",
+     "segments": 1
+    },
+    {
+     "file": "0229.json",
+     "ref": "3.p2.116",
+     "title": "116",
+     "segments": 1
+    },
+    {
+     "file": "0230.json",
+     "ref": "3.p2.117",
+     "title": "117",
+     "segments": 1
+    },
+    {
+     "file": "0231.json",
+     "ref": "3.p2.118",
+     "title": "118",
+     "segments": 1
+    },
+    {
+     "file": "0232.json",
+     "ref": "3.p2.119",
+     "title": "119",
+     "segments": 1
+    },
+    {
+     "file": "0233.json",
+     "ref": "3.p2.120",
+     "title": "120",
+     "segments": 1
+    },
+    {
+     "file": "0234.json",
+     "ref": "3.1",
+     "title": "3.1",
+     "segments": 3
+    },
+    {
+     "file": "0235.json",
+     "ref": "3.2",
+     "title": "3.2",
+     "segments": 2
+    },
+    {
+     "file": "0236.json",
+     "ref": "3.3",
+     "title": "3.3",
+     "segments": 2
+    },
+    {
+     "file": "0237.json",
+     "ref": "3.4",
+     "title": "3.4",
+     "segments": 2
+    },
+    {
+     "file": "0238.json",
+     "ref": "3.5",
+     "title": "3.5",
+     "segments": 2
+    },
+    {
+     "file": "0239.json",
+     "ref": "3.6",
+     "title": "3.6",
+     "segments": 2
+    },
+    {
+     "file": "0240.json",
+     "ref": "3.7",
+     "title": "3.7",
+     "segments": 2
+    },
+    {
+     "file": "0241.json",
+     "ref": "3.8",
+     "title": "3.8",
+     "segments": 2
+    },
+    {
+     "file": "0242.json",
+     "ref": "3.9",
+     "title": "3.9",
+     "segments": 2
+    },
+    {
+     "file": "0243.json",
+     "ref": "3.10",
+     "title": "3.10",
+     "segments": 2
+    },
+    {
+     "file": "0244.json",
+     "ref": "3.11",
+     "title": "3.11",
+     "segments": 2
+    },
+    {
+     "file": "0245.json",
+     "ref": "3.12",
+     "title": "3.12",
+     "segments": 2
+    },
+    {
+     "file": "0246.json",
+     "ref": "3.13",
+     "title": "3.13",
+     "segments": 2
+    },
+    {
+     "file": "0247.json",
+     "ref": "3.14",
+     "title": "3.14",
+     "segments": 2
+    },
+    {
+     "file": "0248.json",
+     "ref": "3.15",
+     "title": "3.15",
+     "segments": 2
+    },
+    {
+     "file": "0249.json",
+     "ref": "3.16",
+     "title": "3.16",
+     "segments": 2
+    },
+    {
+     "file": "0250.json",
+     "ref": "3.17",
+     "title": "3.17",
+     "segments": 2
+    },
+    {
+     "file": "0251.json",
+     "ref": "3.18",
+     "title": "3.18",
+     "segments": 2
+    },
+    {
+     "file": "0252.json",
+     "ref": "3.19",
+     "title": "3.19",
+     "segments": 2
+    },
+    {
+     "file": "0253.json",
+     "ref": "3.20",
+     "title": "3.20",
+     "segments": 2
+    },
+    {
+     "file": "0254.json",
+     "ref": "3.21",
+     "title": "3.21",
+     "segments": 2
+    },
+    {
+     "file": "0255.json",
+     "ref": "3.22",
+     "title": "3.22",
+     "segments": 2
+    },
+    {
+     "file": "0256.json",
+     "ref": "3.23",
+     "title": "3.23",
+     "segments": 2
+    },
+    {
+     "file": "0257.json",
+     "ref": "3.24",
+     "title": "3.24",
+     "segments": 2
+    },
+    {
+     "file": "0258.json",
+     "ref": "3.25",
+     "title": "3.25",
+     "segments": 2
+    },
+    {
+     "file": "0259.json",
+     "ref": "3.26",
+     "title": "3.26",
+     "segments": 2
+    },
+    {
+     "file": "0260.json",
+     "ref": "3.27",
+     "title": "3.27",
+     "segments": 2
+    },
+    {
+     "file": "0261.json",
+     "ref": "3.28",
+     "title": "3.28",
+     "segments": 2
+    },
+    {
+     "file": "0262.json",
+     "ref": "3.29",
+     "title": "3.29",
+     "segments": 2
+    },
+    {
+     "file": "0263.json",
+     "ref": "3.30",
+     "title": "3.30",
+     "segments": 2
+    },
+    {
+     "file": "0264.json",
+     "ref": "3.31",
+     "title": "3.31",
+     "segments": 2
+    },
+    {
+     "file": "0265.json",
+     "ref": "3.32",
+     "title": "3.32",
+     "segments": 2
+    },
+    {
+     "file": "0266.json",
+     "ref": "3.33",
+     "title": "3.33",
+     "segments": 2
+    },
+    {
+     "file": "0267.json",
+     "ref": "3.34",
+     "title": "3.34",
+     "segments": 2
+    },
+    {
+     "file": "0268.json",
+     "ref": "3.35",
+     "title": "3.35",
+     "segments": 2
+    },
+    {
+     "file": "0269.json",
+     "ref": "3.36",
+     "title": "3.36",
+     "segments": 2
+    },
+    {
+     "file": "0270.json",
+     "ref": "3.37",
+     "title": "3.37",
+     "segments": 2
+    },
+    {
+     "file": "0271.json",
+     "ref": "3.38",
+     "title": "3.38",
+     "segments": 2
+    },
+    {
+     "file": "0272.json",
+     "ref": "3.39",
+     "title": "3.39",
+     "segments": 2
+    },
+    {
+     "file": "0273.json",
+     "ref": "3.40",
+     "title": "3.40",
+     "segments": 2
+    },
+    {
+     "file": "0274.json",
+     "ref": "3.41",
+     "title": "3.41",
+     "segments": 2
+    },
+    {
+     "file": "0275.json",
+     "ref": "3.42",
+     "title": "3.42",
+     "segments": 2
+    },
+    {
+     "file": "0276.json",
+     "ref": "3.43",
+     "title": "3.43",
+     "segments": 2
+    },
+    {
+     "file": "0277.json",
+     "ref": "3.44",
+     "title": "3.44",
+     "segments": 2
+    },
+    {
+     "file": "0278.json",
+     "ref": "3.45",
+     "title": "3.45",
+     "segments": 2
+    },
+    {
+     "file": "0279.json",
+     "ref": "3.46",
+     "title": "3.46",
+     "segments": 2
+    },
+    {
+     "file": "0280.json",
+     "ref": "3.47",
+     "title": "3.47",
+     "segments": 2
+    },
+    {
+     "file": "0281.json",
+     "ref": "3.48",
+     "title": "3.48",
+     "segments": 2
+    },
+    {
+     "file": "0282.json",
+     "ref": "3.49",
+     "title": "3.49",
+     "segments": 2
+    },
+    {
+     "file": "0283.json",
+     "ref": "3.50",
+     "title": "3.50",
+     "segments": 2
+    },
+    {
+     "file": "0284.json",
+     "ref": "3.51",
+     "title": "3.51",
+     "segments": 2
+    },
+    {
+     "file": "0285.json",
+     "ref": "3.52",
+     "title": "3.52",
+     "segments": 2
+    },
+    {
+     "file": "0286.json",
+     "ref": "3.53",
+     "title": "3.53",
+     "segments": 2
+    },
+    {
+     "file": "0287.json",
+     "ref": "3.54",
+     "title": "3.54",
+     "segments": 2
+    },
+    {
+     "file": "0288.json",
+     "ref": "3.55",
+     "title": "3.55",
+     "segments": 2
+    },
+    {
+     "file": "0289.json",
+     "ref": "3.56",
+     "title": "3.56",
+     "segments": 2
+    },
+    {
+     "file": "0290.json",
+     "ref": "3.57",
+     "title": "3.57",
+     "segments": 2
+    },
+    {
+     "file": "0291.json",
+     "ref": "3.58",
+     "title": "3.58",
+     "segments": 2
+    },
+    {
+     "file": "0292.json",
+     "ref": "3.59",
+     "title": "3.59",
+     "segments": 2
+    },
+    {
+     "file": "0293.json",
+     "ref": "3.60",
+     "title": "3.60",
+     "segments": 2
+    },
+    {
+     "file": "0294.json",
+     "ref": "3.61",
+     "title": "3.61",
+     "segments": 2
+    },
+    {
+     "file": "0295.json",
+     "ref": "3.62",
+     "title": "3.62",
+     "segments": 2
+    },
+    {
+     "file": "0296.json",
+     "ref": "3.63",
+     "title": "3.63",
+     "segments": 2
+    },
+    {
+     "file": "0297.json",
+     "ref": "3.64",
+     "title": "3.64",
+     "segments": 2
+    },
+    {
+     "file": "0298.json",
+     "ref": "3.65",
+     "title": "3.65",
+     "segments": 2
+    },
+    {
+     "file": "0299.json",
+     "ref": "3.66",
+     "title": "3.66",
+     "segments": 2
+    },
+    {
+     "file": "0300.json",
+     "ref": "3.67",
+     "title": "3.67",
+     "segments": 2
+    },
+    {
+     "file": "0301.json",
+     "ref": "3.68",
+     "title": "3.68",
+     "segments": 2
+    },
+    {
+     "file": "0302.json",
+     "ref": "3.69",
+     "title": "3.69",
+     "segments": 2
+    },
+    {
+     "file": "0303.json",
+     "ref": "3.70",
+     "title": "3.70",
+     "segments": 2
+    },
+    {
+     "file": "0304.json",
+     "ref": "3.71",
+     "title": "3.71",
+     "segments": 2
+    },
+    {
+     "file": "0305.json",
+     "ref": "3.72",
+     "title": "3.72",
+     "segments": 2
+    },
+    {
+     "file": "0306.json",
+     "ref": "3.73",
+     "title": "3.73",
+     "segments": 2
+    },
+    {
+     "file": "0307.json",
+     "ref": "3.74",
+     "title": "3.74",
+     "segments": 2
+    },
+    {
+     "file": "0308.json",
+     "ref": "3.75",
+     "title": "3.75",
+     "segments": 2
+    },
+    {
+     "file": "0309.json",
+     "ref": "3.76",
+     "title": "3.76",
+     "segments": 2
+    },
+    {
+     "file": "0310.json",
+     "ref": "3.77",
+     "title": "3.77",
+     "segments": 2
+    },
+    {
+     "file": "0311.json",
+     "ref": "3.78",
+     "title": "3.78",
+     "segments": 2
+    },
+    {
+     "file": "0312.json",
+     "ref": "3.79",
+     "title": "3.79",
+     "segments": 2
+    },
+    {
+     "file": "0313.json",
+     "ref": "3.80",
+     "title": "3.80",
+     "segments": 2
+    },
+    {
+     "file": "0314.json",
+     "ref": "3.81",
+     "title": "3.81",
+     "segments": 2
+    },
+    {
+     "file": "0315.json",
+     "ref": "3.82",
+     "title": "3.82",
+     "segments": 2
+    },
+    {
+     "file": "0316.json",
+     "ref": "3.83",
+     "title": "3.83",
+     "segments": 2
+    },
+    {
+     "file": "0317.json",
+     "ref": "3.84",
+     "title": "3.84",
+     "segments": 2
+    },
+    {
+     "file": "0318.json",
+     "ref": "3.85",
+     "title": "3.85",
+     "segments": 2
+    },
+    {
+     "file": "0319.json",
+     "ref": "3.86",
+     "title": "3.86",
+     "segments": 2
+    },
+    {
+     "file": "0320.json",
+     "ref": "3.87",
+     "title": "3.87",
+     "segments": 2
+    },
+    {
+     "file": "0321.json",
+     "ref": "3.88",
+     "title": "3.88",
+     "segments": 2
+    },
+    {
+     "file": "0322.json",
+     "ref": "3.89",
+     "title": "3.89",
+     "segments": 2
+    },
+    {
+     "file": "0323.json",
+     "ref": "3.90",
+     "title": "3.90",
+     "segments": 2
+    },
+    {
+     "file": "0324.json",
+     "ref": "3.91",
+     "title": "3.91",
+     "segments": 2
+    },
+    {
+     "file": "0325.json",
+     "ref": "3.92",
+     "title": "3.92",
+     "segments": 2
+    },
+    {
+     "file": "0326.json",
+     "ref": "3.93",
+     "title": "3.93",
+     "segments": 2
+    },
+    {
+     "file": "0327.json",
+     "ref": "3.94",
+     "title": "3.94",
+     "segments": 2
+    },
+    {
+     "file": "0328.json",
+     "ref": "3.95",
+     "title": "3.95",
+     "segments": 2
+    },
+    {
+     "file": "0329.json",
+     "ref": "3.96",
+     "title": "3.96",
+     "segments": 2
+    },
+    {
+     "file": "0330.json",
+     "ref": "3.97",
+     "title": "3.97",
+     "segments": 2
+    },
+    {
+     "file": "0331.json",
+     "ref": "3.98",
+     "title": "3.98",
+     "segments": 2
+    },
+    {
+     "file": "0332.json",
+     "ref": "3.99",
+     "title": "3.99",
+     "segments": 2
+    },
+    {
+     "file": "0333.json",
+     "ref": "3.100",
+     "title": "3.100",
+     "segments": 2
+    },
+    {
+     "file": "0334.json",
+     "ref": "3.101",
+     "title": "3.101",
+     "segments": 2
+    },
+    {
+     "file": "0335.json",
+     "ref": "3.102",
+     "title": "3.102",
+     "segments": 2
+    },
+    {
+     "file": "0336.json",
+     "ref": "3.103",
+     "title": "3.103",
+     "segments": 2
+    },
+    {
+     "file": "0337.json",
+     "ref": "3.104",
+     "title": "3.104",
+     "segments": 2
+    },
+    {
+     "file": "0338.json",
+     "ref": "3.105",
+     "title": "3.105",
+     "segments": 2
+    },
+    {
+     "file": "0339.json",
+     "ref": "3.106",
+     "title": "3.106",
+     "segments": 2
+    },
+    {
+     "file": "0340.json",
+     "ref": "3.107",
+     "title": "3.107",
+     "segments": 2
+    },
+    {
+     "file": "0341.json",
+     "ref": "3.108",
+     "title": "3.108",
+     "segments": 2
+    },
+    {
+     "file": "0342.json",
+     "ref": "3.109",
+     "title": "3.109",
+     "segments": 2
+    },
+    {
+     "file": "0343.json",
+     "ref": "3.110",
+     "title": "3.110",
+     "segments": 2
+    },
+    {
+     "file": "0344.json",
+     "ref": "3.111",
+     "title": "3.111",
+     "segments": 2
+    },
+    {
+     "file": "0345.json",
+     "ref": "3.112",
+     "title": "3.112",
+     "segments": 2
+    },
+    {
+     "file": "0346.json",
+     "ref": "3.113",
+     "title": "3.113",
+     "segments": 2
+    },
+    {
+     "file": "0347.json",
+     "ref": "3.114",
+     "title": "3.114",
+     "segments": 2
+    },
+    {
+     "file": "0348.json",
+     "ref": "3.115",
+     "title": "3.115",
+     "segments": 2
+    },
+    {
+     "file": "0349.json",
+     "ref": "3.116",
+     "title": "3.116",
+     "segments": 2
+    },
+    {
+     "file": "0350.json",
+     "ref": "3.117",
+     "title": "3.117",
+     "segments": 2
+    },
+    {
+     "file": "0351.json",
+     "ref": "3.118",
+     "title": "3.118",
+     "segments": 2
+    },
+    {
+     "file": "0352.json",
+     "ref": "3.119",
+     "title": "3.119",
+     "segments": 2
+    },
+    {
+     "file": "0353.json",
+     "ref": "3.120",
+     "title": "3.120",
+     "segments": 2
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 2,
+  "shared": 172,
+  "onlyInOriginal": 4,
+  "onlyInEnglish": 6
+ }
+}

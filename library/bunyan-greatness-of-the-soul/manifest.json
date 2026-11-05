@@ -1,0 +1,35 @@
+{
+ "workId": "bunyan-greatness-of-the-soul",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "bunyan-greatness-of-the-soul-1691-tcp-a30150",
+   "role": "english",
+   "language": "english",
+   "credit": "The greatness of the soul and unspeakableness of the loss thereof, in EEBO-TCP text A30150 (STC Wing B5531; STC) (London: Printed for Richard Wilde, 1691). Transcription: Text Creation Partnership (EEBO-TCP Phase I), keyboarded from images of the original (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A30150/master/A30150.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 437444,
+   "sourceSha256": "7be942d08f4b1ec2b0214fe4de0bf250c723edb829f95736f16211c3fa1841a1",
+   "leftOut": {
+    "pb": 143,
+    "unread": 1101,
+    "note": 328
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 44936,
+    "unreadPerThousand": 24.5
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "THE GREATNESS OF THE SOUL, And unspeakableness of the Loss thereof, &c.",
+     "segments": 362
+    }
+   ]
+  }
+ ]
+}

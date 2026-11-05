@@ -1,0 +1,155 @@
+{
+ "workId": "athanasius-history-arians",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "athanasius-history-arians-npnf2-4-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "History of the Arians (Historia Arianorum), in A Select Library of Nicene and Post-Nicene Fathers of the Christian Church, Second Series, vol. IV: Athanasius, Select Works and Letters (American edition; ed. Philip Schaff and Henry Wace; vol. edited by Archibald Robertson), trans. John Henry Newman and others (Oxford Library of the Fathers, 'Historical Tracts of S. Athanasius', 1843), revised by Archibald Robertson (New York: The Christian Literature Company, 1892). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers, Series II), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IV/Arian_History/Arian_History",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 190438,
+   "sourceSha256": "d9e563cd2260a7b37b30584e60307d6b672a96156cb873f5e375fb8698526acd",
+   "leftOut": {
+    "note": 306
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Arian History/Arian History/Arian Persecution Under Constantine",
+     "bytes": 15210,
+     "sha256": "8b67a765ec18ceccb913341d6353460d2ed9e36fbdbe61f6b446180090d55b23"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Arian History/Arian History/First Arian Persecution under Constantius",
+     "bytes": 10392,
+     "sha256": "07e5b34488f3f854f56c02ca517852b21c73e16b621f11111cf242fa09a4890e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Arian History/Arian History/Persecution and Lapse of Hosius",
+     "bytes": 16940,
+     "sha256": "34f5ca8dea2d1719014ee821a100f24e27e36e414c455897ad25ea819efe01ad"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Arian History/Arian History/Persecution and Lapse of Liberius",
+     "bytes": 17141,
+     "sha256": "389107da64fb81539a6a79b8a837f6bb490240ee7f510083225478b2fdeb995b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Arian History/Arian History/Persecution at Alexandria",
+     "bytes": 37630,
+     "sha256": "c486d01cd7fcebd54c17297894bf5c5ba2289294deb6de71ff8ebf98e2e84f7e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Arian History/Arian History/Persecution in Egypt",
+     "bytes": 51255,
+     "sha256": "636de1e4f13fa4edd32a5095fb93c5547663072042a11ca7c595c4572441a632"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Arian History/Arian History/Restoration of the Catholics on the Council of Sardica",
+     "bytes": 25744,
+     "sha256": "ee2429c89c280f9243686484dbed547e2cd92fa12c9239a00f5e11066a4ee789"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Arian History/Arian History/Second Arian Persecution under Constantius",
+     "bytes": 16126,
+     "sha256": "231409068b29193e154755e6f7e5900f989ed275afa4cab8fc525931bd673ccc"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "p1.front",
+     "title": "p1.front",
+     "segments": 4
+    },
+    {
+     "file": "0002.json",
+     "ref": "p1.2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "p1.3",
+     "title": "3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "p1.4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "p1.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "p1.6",
+     "title": "6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "p1.7",
+     "title": "7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "p1.8",
+     "title": "8",
+     "segments": 5
+    },
+    {
+     "file": "0009.json",
+     "ref": "p2",
+     "title": "p2",
+     "segments": 12
+    },
+    {
+     "file": "0010.json",
+     "ref": "p3",
+     "title": "p3",
+     "segments": 11
+    },
+    {
+     "file": "0011.json",
+     "ref": "p4",
+     "title": "p4",
+     "segments": 15
+    },
+    {
+     "file": "0012.json",
+     "ref": "p5",
+     "title": "p5",
+     "segments": 32
+    },
+    {
+     "file": "0013.json",
+     "ref": "p6",
+     "title": "p6",
+     "segments": 43
+    },
+    {
+     "file": "0014.json",
+     "ref": "p7",
+     "title": "p7",
+     "segments": 41
+    },
+    {
+     "file": "0015.json",
+     "ref": "p8",
+     "title": "p8",
+     "segments": 15
+    }
+   ]
+  }
+ ]
+}

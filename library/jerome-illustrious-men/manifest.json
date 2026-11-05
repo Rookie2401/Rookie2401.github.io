@@ -1,0 +1,1621 @@
+{
+ "workId": "jerome-illustrious-men",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "jerome-illustrious-men-npnf2-richardson-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Jerome: Lives of Illustrious Men (De viris illustribus), in A Select Library of Nicene and Post-Nicene Fathers, series II, vol. 3 (Theodoret, Jerome and Gennadius, Rufinus and Jerome), 'Lives of Illustrious Men', trans. Ernest Cushing Richardson (New York: The Christian Literature Company, 1892). Wikisource contributors, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_III/Lives_of_Illustrious_Men",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 262543,
+   "sourceSha256": "c6101e9e6b41d4080e8d7cda26a065f977f4928087f986d82d51ed56a7531c17",
+   "leftOut": {
+    "note": 251,
+    "unclosedTemplate": 1
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Title Page",
+     "bytes": 944,
+     "sha256": "7260915b12c9647354fff71d944dd182b575a39e2871b35ecb18236dd9c19707"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Introduction/Editions",
+     "bytes": 4728,
+     "sha256": "6dad00ab27b6725f7c6a63fa37c852f3874a075a4e42792eec1cc47a9910ba20"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Introduction/Literature",
+     "bytes": 2977,
+     "sha256": "cf16d74578aa0d8e42e31ff49152410557481732015a6c534404d2f4f1e3d864"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Introduction/Manuscripts",
+     "bytes": 1306,
+     "sha256": "8af9eac5f77f96825dc6ff0587068aba2af51ef4d9ade639e2891af1df8f8f5f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Introduction/The Present Translation",
+     "bytes": 5949,
+     "sha256": "9a07d73922990640d6902bf748ba6e80209959991e1bb8df23f3fda1b7974a7c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Introduction/Time and Place",
+     "bytes": 4798,
+     "sha256": "b3ab961341966c55e239e82ddab471c38858cc46ef7060f6111927ed5d60dab4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Introduction/Translations",
+     "bytes": 1976,
+     "sha256": "e9fd0bddf9e26c7469faabbf77b74acc5bf362f55aa3ab9940c1ebde0433ad31"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Acacius the bishop",
+     "bytes": 1333,
+     "sha256": "8b3a60c5960e266f4bb002cfc62f43b43b3669841cbb9cba16ca940b5206ea8d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Acilius Severus the senator",
+     "bytes": 1416,
+     "sha256": "b555db894bb649805045ed471c6d4fc5fcd4b411df5acc0b072b8592fe83d328"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Agrippa Castor",
+     "bytes": 1719,
+     "sha256": "6fbbbf51b53d6479e32d3db9d42dc68bd6bee3a3a5fccf9355a9f72ff5c621fd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Alexander the bishop",
+     "bytes": 2353,
+     "sha256": "2ea82a9eceb2abb162970c26798c1eea582a6771fff4064eb892a578e5df3d54"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Ambrose the bishop",
+     "bytes": 1198,
+     "sha256": "6fb89957975a57e2fe3bff093601249c1e21e488cef0bf88fd26cd86f3d62e2f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Ambrose the deacon",
+     "bytes": 1639,
+     "sha256": "7303867c205337dfad4458b1c45db0aa80ee38db45f41731a777b29a7b1753c1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Ambrose the disciple of Didymus",
+     "bytes": 1142,
+     "sha256": "aebc4955dd9920d1832fbd1ad3edb52c0a7c924853c4c84772fbed45c17f5a75"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Ammonius",
+     "bytes": 1423,
+     "sha256": "c6b2308181f959cfcb65de6ec05bc56bc46b348f7fcecf9cc40b469cf73303ba"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Amphilochius the bishop",
+     "bytes": 1156,
+     "sha256": "1f6e8bad3485a2cb1abae82055a74d2e38e362ca60242ea5c7faaba2db8581d4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Anatolius the bishop",
+     "bytes": 1308,
+     "sha256": "b3c7857b1d3c4117ec4aac6a7f7b07fa040cdaffd12b46d7e52eef95aea5c375"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Another Gregory, also a bishop",
+     "bytes": 1234,
+     "sha256": "47e60ef7c34951ed3102816857718f2d5cbb78f717a071029ee1ab9df6de4968"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Antonius the monk",
+     "bytes": 1250,
+     "sha256": "032cc62f281fa89944870b41f926fdb02a96d68134d3d9fbb99794059a879a0c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Apollinaris the bishop",
+     "bytes": 1317,
+     "sha256": "0973daf87be5264bf172d8a1ed058b30a23bad483ae7ef102318654d2eee358f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Apollinarius the bishop",
+     "bytes": 1387,
+     "sha256": "cd73d5e7e0bdacb160976a4d389e303f0a5ec0cf32761f0381426a1f710673a7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Apollonius",
+     "bytes": 2163,
+     "sha256": "8a4e179a51ec895f2807ec7d9b9514f89ad83bcfc3d67350a093218f2daf5712"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Apollonius the senator",
+     "bytes": 1365,
+     "sha256": "4faa89b8d7b61a17fe54cf7156992b5c70c8fb262c01cab3f6a4dfe57c4a149c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Appion",
+     "bytes": 943,
+     "sha256": "32d30586f8136826c00d93b7514b05931a4ca910ae6c8be32cb4eba0739c072c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Arabianus",
+     "bytes": 942,
+     "sha256": "f5cf3aa67a821fbd3a8e868cc9c703453d8f2eb96c6ac723df8d49848eb4460c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Archelaus the bishop",
+     "bytes": 1216,
+     "sha256": "f2d779f8fa3e8626da6b51e42c624aaa78e8930bfee714e836fbe5227e679b25"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Aristides the philosopher",
+     "bytes": 1316,
+     "sha256": "8d2ec43a6a84cf6c64adfad69d855a561d73145ebaf33c84eaf36e04ae0c0f35"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Arnobius the rhetorician",
+     "bytes": 1140,
+     "sha256": "276d0d4a4077c2e5f63b74e7dbcdac5c79231244a39a3f22286dff5d72793241"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Asterius the philosopher",
+     "bytes": 1180,
+     "sha256": "df512aba99b4c97465639dc88b82a06879c79e6a7f7514a9db68ac7d66574b6f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Athanasius the bishop",
+     "bytes": 1552,
+     "sha256": "8d5d838c9149dd175299f2e7ebf07bf9afeb1e0a180d6758f3bd21836fdee374"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Bacchylus the bishop",
+     "bytes": 1122,
+     "sha256": "a9f39b7560f89b95e2e60779673954676075e5fad4b60ec943423fa7cd12666a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Bardesanes the heresiarch",
+     "bytes": 1597,
+     "sha256": "ca3073282ba8329e9f8e9cec503f72d667c7fe65c5afee7f56c09c1f9bd05213"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Barnabas, surnamed Joseph",
+     "bytes": 1526,
+     "sha256": "68348a4eef3bb7f6b4d9264dc45eff3f9d13f14aaea0c87398c81e779d140870"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Basil another bishop",
+     "bytes": 1275,
+     "sha256": "8defb9e7fbcc093233fae28dd0599c9a8aa6f29f71c1c02c88b9c83070fd20f9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Basilius the bishop",
+     "bytes": 1300,
+     "sha256": "61b6c8e85b0c60c1795f4814e3a158003ab3f8be2bdea69d87c1da5403ff532e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Berillus the bishop",
+     "bytes": 1510,
+     "sha256": "f98a2d59283909fdb7f109222d9c3742fb61e043718c05e7b5791776aa33a71d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Candidus",
+     "bytes": 966,
+     "sha256": "a539156c7a71139b0888c9927f1697240f614f8201ebec692428b0323fcf0ef1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Clemens the bishop",
+     "bytes": 2549,
+     "sha256": "dd389b18cb4a45ec70fdd155a8987e91075ee7e3ed94671606c52e63d630c805"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Clemens the presbyter",
+     "bytes": 2893,
+     "sha256": "544c285674fe1bbc7f181303ad876e0f5c7d448c1a1c366cc818ff1c791bc8aa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Cornelius the bishop",
+     "bytes": 1553,
+     "sha256": "e761d906a78a4eb3a2de55ab0a3bdcb9e76b19dcfce1d8e08677601cd43d9247"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Cyprian the bishop",
+     "bytes": 1541,
+     "sha256": "693fe50cfbe48821db3571723d792060d12ef734fd12044d4519a4c210673727"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Cyril the bishop",
+     "bytes": 1255,
+     "sha256": "aa1192ce27c4073d3147bd11b6b51e77abc07a5530f75d2a32d6ec856112ecf8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Damasus the bishop",
+     "bytes": 1071,
+     "sha256": "dc803ca51a883ab389a04aa97cb02d7ad9d6afac3fa81f9b526a7b1249ada201"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Dexter, son of Pacianus, now praetorian prefect",
+     "bytes": 1161,
+     "sha256": "08fa7fe4361ad73ef7b3fd604782883c0937c85556deedf4d718f66dc968b22f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Didymus the Blind",
+     "bytes": 1824,
+     "sha256": "1e843f68e87ee7b61cd5cd35319a970f71c23c35efc70ccd4c244ddf81885d74"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Diodorus the bishop",
+     "bytes": 1256,
+     "sha256": "7877006a337f9534f7c4acbdd6bf5abe312fa60f4d83332a652db24737dcc78c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Dionysius the bishop",
+     "bytes": 1609,
+     "sha256": "6f48d2202c42afc90a7521414ef7e2b24c80acfa3ca1a69760d210fef942a1ba"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Dionysius the bishop 2",
+     "bytes": 3330,
+     "sha256": "5355ff5b4aa03f3a4d7763d9d9932cb03b030acf5d41318176bbefbda7e3c013"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Donatus the heresiarch",
+     "bytes": 1346,
+     "sha256": "24c6e5856a998d071f61bd3309972c9d4d4aeb05eb7ebca6eb0237762940b524"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Ephrem the deacon",
+     "bytes": 1358,
+     "sha256": "f588944cc496ac6179c051514bf2068eaad5df04c5ca65c5a33eae6e54220e83"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Epiphanius the bishop",
+     "bytes": 1246,
+     "sha256": "9ce9d268e2853c50091359a57d9b7b5158de08f56dce5fb5dca244507344998d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Eunomius the heresiarch",
+     "bytes": 1291,
+     "sha256": "3f423292ec41c822aa64765213793e06a465afc6ffaa4b09c7067264ad77c425"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Eusebius another bishop",
+     "bytes": 1414,
+     "sha256": "f850d4268ed0240ca1a105d6a21317a5c1dda3b3528ecb3c2fc2501a4a4c097e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Eusebius the bishop",
+     "bytes": 2066,
+     "sha256": "90d7cbab0eaafdb59ad804c3d1061158b0c7fa3bca7ca1004780fc150140f6b9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Eustathius the bishop",
+     "bytes": 1871,
+     "sha256": "d6913d84beae79b036889e0e847974a4dbc4563f5a99eb4e07b0c35439ff974f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Euzoius the bishop",
+     "bytes": 1387,
+     "sha256": "7dd089d16b85129d9eac520e51ac8d6c7252b43d251f2fe1c933e5c24b05c482"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Evagrius the bishop",
+     "bytes": 1214,
+     "sha256": "19e67a747409959efc2f8c50f7b3e4935f7213ff65aa483b2e4e71fe95031851"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Firmianus the rhetorician, surnamed Lactantius",
+     "bytes": 2278,
+     "sha256": "cba37550d7d31c301f48603d37a4ba840452a38b369db431d875eb448869cccb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Fortunatianus the bishop",
+     "bytes": 1284,
+     "sha256": "a1a295644905e127f77eff1524fb3ccfe37266c347e9461e064d0257a992c896"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Gaius",
+     "bytes": 1378,
+     "sha256": "b17e0ac8bcb2411d99ab327bc62e17f89931038b18cbbcadb0beea57576f9d34"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Gelasius the bishop",
+     "bytes": 1071,
+     "sha256": "1edc2b0856cd02332589da04a3e68f0f08777ecec084c06cc38620fea627ff26"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Geminus the presbyter",
+     "bytes": 1220,
+     "sha256": "307e66e762fe5fe7c65583432102ab10b9060e77c02ab07f4bd44f113d014a29"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Gregory another bishop",
+     "bytes": 2023,
+     "sha256": "33baff56e53dae9d6e1e3f1d69467168f0fa082c521c2d51725d287ba5d249cd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Gregory the bishop",
+     "bytes": 1174,
+     "sha256": "44a1934c87b2084f3b768b5ce5428fadb20f822e6bdb344492afa14d119b419f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Hegesippus the historian",
+     "bytes": 2149,
+     "sha256": "a9422c832913d2c65e4cb5f37174a225d9117d869e2c19a6c498f877609c908f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Heraclitus",
+     "bytes": 977,
+     "sha256": "5500a398680fe0e0b4e4ce523113272594df214720c615c6d7ef05327abc2baf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Hermas",
+     "bytes": 1977,
+     "sha256": "2e02dbd2e293cbb38abf50eec112567e258aa2900b0ef79152b69d55a2a23794"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Hilary the bishop",
+     "bytes": 2243,
+     "sha256": "4cdd45b2823aec97b78952fac021cfc5042b7dd959cef3e8df5400ede9d32519"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Hippolytus the bishop",
+     "bytes": 2521,
+     "sha256": "544e55790860e4acb7636d8c451e6420eb34495d75ada5c5592f75f7d681ced7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Ignatius the bishop",
+     "bytes": 3797,
+     "sha256": "680ef3c9c0ab3c225219c4a9c44084539d3a3951205c1dfa18c3060db84a5cdc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Irenaeus the bishop",
+     "bytes": 3064,
+     "sha256": "4d66f15cd68db186f3ea53fe6989799b1198d04555258f7d543de7cc9236fefa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/James, the brother of our Lord",
+     "bytes": 4999,
+     "sha256": "1b14030514c81003f99ba213e7f65bba8345d85d9a44eb934d7831c3a85d59cb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Jerome the presbyter",
+     "bytes": 3261,
+     "sha256": "71abb64a533e958dd64f48e8c693d1b66a08e33d6eeff2c286b26a1ec6a8f369"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/John, the apostle and evangelist",
+     "bytes": 3799,
+     "sha256": "d0113d17830b030b013da51a6964d83f0a30e59b2c5abb3f3dd1cdcc6cf4a997"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/John the presbyter",
+     "bytes": 1184,
+     "sha256": "d8ec7ddf7b4dab7059cbc2b466ce677db887a3e3099a410eedba604ae088aef0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Josephus, son of Matthias",
+     "bytes": 2745,
+     "sha256": "7a2c163ed8be47eb5219bcea27a3649561d85bcf703028eae380debf65582e5e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Judas",
+     "bytes": 1256,
+     "sha256": "fa570bf704cf344afb4f0a9ec9abb09a046f3567bf5707881b3d64976bd610cb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Jude, the brother of James",
+     "bytes": 1267,
+     "sha256": "b241c4ef36d1b2d3287a67be6db9617bb43ad7aeb1cfb6ed79762e8b499ac6d4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Julius the African",
+     "bytes": 1659,
+     "sha256": "3a53e6571634b455031e0d825b7568f5389f93c5513a3a29612105fd90ae9424"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Justin the philosopher",
+     "bytes": 2688,
+     "sha256": "47803d98895693aca10b7fa8c987cd7d841fcaf4c1d3a148be7587ed4c5149ef"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Justus of Tiberias",
+     "bytes": 1236,
+     "sha256": "961deb014f325edd80dec30234be303f3697c08e267b20661c72ce5c90d9d20c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Juvencus the presbyter",
+     "bytes": 1187,
+     "sha256": "188a97cb9f92c75fea44d1913ac002e9db5d7587099cd729f5df90324d19d43a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Latronianus",
+     "bytes": 1227,
+     "sha256": "6b7a9eec3466cdca47921a5093bc58b241e91f7705fe62e63aab131f9c1c9e64"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/List of Writers",
+     "bytes": 4452,
+     "sha256": "7ae1382b7e4fb4ea0ab877589ff606d82fee477f16038352773362121de34efa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Lucianus the presbyter",
+     "bytes": 1316,
+     "sha256": "7ccf28a317e8032e900bb936a846f6ec59e9399c1da5ae53e8e673af9585cdb0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Lucifer the bishop",
+     "bytes": 1454,
+     "sha256": "08c4f83453e05def49c2a0af4cdfbe06521a6ae861e253a56aa228494015f047"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Lucius Annaeus Seneca",
+     "bytes": 1669,
+     "sha256": "b47d1d7889807d7c4db10425a688156cb57047e18dd44d20a8ba6c28a4bfe0f7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Lucius the bishop",
+     "bytes": 1243,
+     "sha256": "b49fbe055b21b030a2d6c1a3e1fef52e920eb22f6130cb24d0b26293569afa21"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Luke, the evangelist",
+     "bytes": 3437,
+     "sha256": "3b4e13ec7353bb61404fb844708a8f7fdd382a32e088745c85dd92c9968c5624"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Malchion the presbyter",
+     "bytes": 1442,
+     "sha256": "f2de3cee94842d4313ab184a265a3c7f758c5fe9c14e71f8d48aa235e2a3451b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Marcellus the bishop",
+     "bytes": 1427,
+     "sha256": "5dcc37565cb622c99220b43588fd8e5367b72b3d2d37b14cc81a160463b3e4a9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Mark, the evangelist",
+     "bytes": 2735,
+     "sha256": "70271860c7f74927a66a7891ba064c50d27e862830acbdaf320714136b3e0bbb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Matthew, surnamed Levi",
+     "bytes": 2221,
+     "sha256": "71c90374f7bfdb62d5db2a857541fd49882cb7c40bf0e854b7863f9510cebf03"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Maximus",
+     "bytes": 1025,
+     "sha256": "239148f0f02b2ed65af38952d012217de71477d9681895fa3bfc8b4a9e595059"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Maximus, first philosopher, then bishop",
+     "bytes": 1176,
+     "sha256": "c8ce1e3a928f5ce829ef2a21b36305359d5a6689610aad202935b4ba2df5e249"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Melito the bishop",
+     "bytes": 2027,
+     "sha256": "4a009bfcbdd0e4d64bf668df677b22fcead78f25a010631d931f0161787da20a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Methodius the bishop",
+     "bytes": 1480,
+     "sha256": "15040839df291f523e0a3f729351f2df17cd85bc35ec7ac5a7ab003b98de3b48"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Miltiades",
+     "bytes": 1230,
+     "sha256": "651ad505cb225a8db799182b6445b2ac5cdc908239d5060a7b0e61b65647ea03"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Minucius Felix",
+     "bytes": 1327,
+     "sha256": "9759c4af584024e85f6089f2c9a286640158d593cb5e8bd360743e068390ff57"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Modestus",
+     "bytes": 1113,
+     "sha256": "4b1307846fa0450a2792613c006c8daac7b8328831cf86c428cd15f6be47b0c6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Musanus",
+     "bytes": 1096,
+     "sha256": "a05704ec47e25fa9bda1edaf04cdfa618cc26e9903b195de60fbc6394be3a60f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Novatianus the heresiarch",
+     "bytes": 1573,
+     "sha256": "8963573e094a050edbad29bdb167984fdcd556fed34d6476e51030af2253139f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Optatus the bishop",
+     "bytes": 1325,
+     "sha256": "d5a964ed3443274f92da7fbfb5f36aedfa3821611784caf15b21f6d778934260"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Origen, surnamed Adamantius",
+     "bytes": 5258,
+     "sha256": "8b1d7f30288b616f38e181ec265967df74aa3cfc074a7c45885d460bfddc6df3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Pacianus the bishop",
+     "bytes": 1591,
+     "sha256": "ec3d1fc6abd3b408a53fa138a8b4ecd775fac716fc91597123472edab0afa557"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Pamphilus the presbyter",
+     "bytes": 1715,
+     "sha256": "8e53d1e7f1dab039f3eec8a900bc7d3dac49b1316590f4e882078446e18eafa0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Pantaenus the philosopher",
+     "bytes": 1836,
+     "sha256": "a459ab3706870cc60b0c7cf5e2afa1e7134c9e12f492838b192a77066b41e168"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Papias the bishop",
+     "bytes": 2297,
+     "sha256": "96b19c6d26cefc230cd901c6abc1bae9374a0014eac7eabfd369d40696713c31"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Paul, formerly called Saul",
+     "bytes": 5766,
+     "sha256": "10772b7f7ee4178ef6a1349e58183f01a1d8c4bd9fea2a296ccc25389a39a027"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Phileas the bishop",
+     "bytes": 1278,
+     "sha256": "9209fdc5cf611817b27da939d2d86f749c5778522a113f8be886dcecd690e20e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Philip the bishop",
+     "bytes": 1175,
+     "sha256": "3ea13194aafc9fa8893e990d33f0b894cdc4e301523a61b73b0caeb66e068a7a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Philo Judaeus",
+     "bytes": 3925,
+     "sha256": "38ad090307144338b30fc34f7b33d56a88ae9a1052bd58dc19bfc369fc6a9e7f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Phoebadius the bishop",
+     "bytes": 1109,
+     "sha256": "1453b75b64c90eca74a270b0cc16dced4cacb301957d73ef18230eeaf0f1c94a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Photinus the heresiarch",
+     "bytes": 1266,
+     "sha256": "5377b733a8fab3ba03de8819f9034c839ad3286cd820ae0836b1fa24c74fedcd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Pierius the presbyter",
+     "bytes": 1605,
+     "sha256": "ae66cbf74c08615b5aa0912058ba777265c467112f0c8cc0e3dfd51e20f59625"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Pinytus the bishop",
+     "bytes": 1439,
+     "sha256": "1e9bfbfc3709c37505d1a60741ee106e4fc3b495df79701267a04a6cdfa8387a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Polycarp the bishop",
+     "bytes": 2024,
+     "sha256": "408d1316706411ec12c4156260bfe908e509ae084d7056a977366536bf138db6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Polycrates the bishop",
+     "bytes": 3226,
+     "sha256": "856305311ddf50c41a3b57964feb779aa9a153a81557b8fdf36bb43e560952c6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Pontius the deacon",
+     "bytes": 1043,
+     "sha256": "15eb4500d435b1bed7af04750a42ff297041bc54159a6b2a6d174b707c95a2df"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Preface",
+     "bytes": 5397,
+     "sha256": "8899d87109c17d70133857a5ac9398508140b7083fde0b638de70aa872865d90"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Priscillianus the bishop",
+     "bytes": 1349,
+     "sha256": "e526d3b2a78a3aa604385298ec9b4c1702df4bb43e239c9933d1cb8cf9b9d5a8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Quadratus the bishop",
+     "bytes": 1848,
+     "sha256": "48350c5c1370485f9e62dab64a92c1f03c4bee9faf3f77643189ee05f960ae57"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Reticus the bishop",
+     "bytes": 1168,
+     "sha256": "52c188258c85ffdc5720dcef4e5c2d3bf122571939d8a5f4eff70e80fdaa27b3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Rhodo, the disciple of Tatian",
+     "bytes": 1810,
+     "sha256": "4ce2118460575b7095ce818b4cd9e08f0207053ab58d39df33f2cedda5f4e7d1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Serapion the bishop",
+     "bytes": 1314,
+     "sha256": "1d1b128518facd01aa88a018fcd69f0ce8ee91cf3eb0da6158e47595e5c0fa7d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Serapion the bishop 1",
+     "bytes": 1935,
+     "sha256": "78ecc514a0ac2f7208c6e46ed73de3b6d2ba20017c78aaa0d10e01a749f9b21c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Sextus",
+     "bytes": 932,
+     "sha256": "75686f430640c16a4937e1b1ccdd3093214237c07da176da0c3febd869b6bc88"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Simon Peter",
+     "bytes": 3637,
+     "sha256": "18e24544c51eee40a76cfe5cfc0d0aa56e390c1b7b874fe0d9f1601698792da9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Sophronius",
+     "bytes": 1366,
+     "sha256": "3547730f0ee923007cf3b2d571c6137afbc903c34d972f62b7c563a542055513"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Tatian the heresiarch",
+     "bytes": 1682,
+     "sha256": "7268a722c7b634338eb95f50772fba9fdacaba9004dd8b5e1c31146bda03c75c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Tertullian the presbyter",
+     "bytes": 2263,
+     "sha256": "20751291933fe2a3b90064a38b2a5de9d74e4ba0bfb53feb6bbd2460d2d4f9e1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Theodorus, surnamed Gregory the bishop",
+     "bytes": 1961,
+     "sha256": "6495ebce8b3e100dd941c08a4ba0255c06e16840e9906c4f87b0df9a90372f71"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Theodorus the bishop",
+     "bytes": 1177,
+     "sha256": "3ab3e8aef550fd3c25b55dbc3bb5f467ee250568561f32614b53ff4598ee6296"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Theophilus another bishop",
+     "bytes": 1220,
+     "sha256": "26fac0c90d9db85af62ece47ce60ead50a02cd09adb57f4c2cebf3fe8004e453"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Theophilus the bishop",
+     "bytes": 1488,
+     "sha256": "dea41c9f467384fdf21c26842f5793400ddccb6dd1f250c4f9226ecc94d7fdc4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Theotimus the bishop",
+     "bytes": 1159,
+     "sha256": "63a6dac6b3ce6a5900a78dbafefe4ed2b0c2f1aeadeec7a692b835b854d32272"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Tiberianus",
+     "bytes": 1256,
+     "sha256": "87c475e44e6eea22bd4c607b0930712844ef235cf441aa312fb5c04ed4324e03"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Titus the bishop",
+     "bytes": 1086,
+     "sha256": "68341d536da3e5bbf3a1582dea28f1b8041aaaab35c88df1b86dfb6d997b8c24"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Triphylius the bishop",
+     "bytes": 1254,
+     "sha256": "145a8184f09fb2eeb7fd64c4a08db43a9e1d647992f3b51b993c46ae0949dd20"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Trypho the pupil of Origen",
+     "bytes": 1354,
+     "sha256": "bcfe1b007d90bf8c96a790c313546a67cbfd74c70ac66728e6cd82716ba45859"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Victor the bishop",
+     "bytes": 1137,
+     "sha256": "e44e3896cf1e9afe3cc6fac99dce7f32d83a7e7f7feb1562abafd1ef84383557"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Victorinus the bishop",
+     "bytes": 1354,
+     "sha256": "9e37e4f3635db14c519ef4fd553f2a86a2ea8862ae1c02821441c0236a502a92"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/Victorinus the rhetorician",
+     "bytes": 1264,
+     "sha256": "983f46f2ef2e43f5abf6b3dd554ab1bfdd3621b9df17c9ff1f85c418dc495ddd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/ Juvencus the presbyter",
+     "bytes": 121,
+     "sha256": "4dfe030ba119beb53929e6ffe3838890ea2577c3ab5a49267785e35a73300d6f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume III/Lives of Illustrious Men/Jerome/ Paul, formerly called Saul",
+     "bytes": 125,
+     "sha256": "df0eb3db54280bcbcb936f707a2c66c951c667aa2349d363996b5eb4ff8b696f"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 6
+    },
+    {
+     "file": "0002.json",
+     "ref": "p2.p1",
+     "title": "p2.p1",
+     "segments": 7
+    },
+    {
+     "file": "0003.json",
+     "ref": "p2.p2",
+     "title": "p2.p2",
+     "segments": 4
+    },
+    {
+     "file": "0004.json",
+     "ref": "p2.p3",
+     "title": "p2.p3",
+     "segments": 3
+    },
+    {
+     "file": "0005.json",
+     "ref": "p2.p4",
+     "title": "p2.p4",
+     "segments": 12
+    },
+    {
+     "file": "0006.json",
+     "ref": "p2.p5",
+     "title": "p2.p5",
+     "segments": 12
+    },
+    {
+     "file": "0007.json",
+     "ref": "p2.p6",
+     "title": "p2.p6",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "p3.p1",
+     "title": "p3.p1",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "p3.p2",
+     "title": "p3.p2",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "p3.p3",
+     "title": "p3.p3",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "p3.p4",
+     "title": "p3.p4",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "p3.p5",
+     "title": "p3.p5",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "p3.p6",
+     "title": "p3.p6",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "p3.p7",
+     "title": "p3.p7",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "p3.p8",
+     "title": "p3.p8",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "p3.p9",
+     "title": "p3.p9",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "p3.p10",
+     "title": "p3.p10",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "p3.p11",
+     "title": "p3.p11",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "p3.p12",
+     "title": "p3.p12",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "p3.p13",
+     "title": "p3.p13",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "p3.p14",
+     "title": "p3.p14",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "p3.p15",
+     "title": "p3.p15",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "p3.p16",
+     "title": "p3.p16",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "p3.p17",
+     "title": "p3.p17",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "p3.p18",
+     "title": "p3.p18",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "p3.p19",
+     "title": "p3.p19",
+     "segments": 3
+    },
+    {
+     "file": "0027.json",
+     "ref": "p3.p20",
+     "title": "p3.p20",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "p3.p21",
+     "title": "p3.p21",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "p3.p22",
+     "title": "p3.p22",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "p3.p23",
+     "title": "p3.p23",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "p3.p24",
+     "title": "p3.p24",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "p3.p25",
+     "title": "p3.p25",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "p3.p26",
+     "title": "p3.p26",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "p3.p27",
+     "title": "p3.p27",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "p3.p28",
+     "title": "p3.p28",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "p3.p29",
+     "title": "p3.p29",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "p3.p30",
+     "title": "p3.p30",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "p3.p31",
+     "title": "p3.p31",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "p3.p32",
+     "title": "p3.p32",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "p3.p33",
+     "title": "p3.p33",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "p3.p34",
+     "title": "p3.p34",
+     "segments": 3
+    },
+    {
+     "file": "0042.json",
+     "ref": "p3.p35",
+     "title": "p3.p35",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "p3.p36",
+     "title": "p3.p36",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "p3.p37",
+     "title": "p3.p37",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "p3.p38",
+     "title": "p3.p38",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "p3.p39",
+     "title": "p3.p39",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "p3.p40",
+     "title": "p3.p40",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "p3.p41",
+     "title": "p3.p41",
+     "segments": 3
+    },
+    {
+     "file": "0049.json",
+     "ref": "p3.p42",
+     "title": "p3.p42",
+     "segments": 2
+    },
+    {
+     "file": "0050.json",
+     "ref": "p3.p43",
+     "title": "p3.p43",
+     "segments": 3
+    },
+    {
+     "file": "0051.json",
+     "ref": "p3.p44",
+     "title": "p3.p44",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "p3.p45",
+     "title": "p3.p45",
+     "segments": 2
+    },
+    {
+     "file": "0053.json",
+     "ref": "p3.p46",
+     "title": "p3.p46",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "p3.p47",
+     "title": "p3.p47",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "p3.p48",
+     "title": "p3.p48",
+     "segments": 2
+    },
+    {
+     "file": "0056.json",
+     "ref": "p3.p49",
+     "title": "p3.p49",
+     "segments": 2
+    },
+    {
+     "file": "0057.json",
+     "ref": "p3.p50",
+     "title": "p3.p50",
+     "segments": 2
+    },
+    {
+     "file": "0058.json",
+     "ref": "p3.p51",
+     "title": "p3.p51",
+     "segments": 2
+    },
+    {
+     "file": "0059.json",
+     "ref": "p3.p52",
+     "title": "p3.p52",
+     "segments": 2
+    },
+    {
+     "file": "0060.json",
+     "ref": "p3.p53",
+     "title": "p3.p53",
+     "segments": 2
+    },
+    {
+     "file": "0061.json",
+     "ref": "p3.p54",
+     "title": "p3.p54",
+     "segments": 2
+    },
+    {
+     "file": "0062.json",
+     "ref": "p3.p55",
+     "title": "p3.p55",
+     "segments": 2
+    },
+    {
+     "file": "0063.json",
+     "ref": "p3.p56",
+     "title": "p3.p56",
+     "segments": 2
+    },
+    {
+     "file": "0064.json",
+     "ref": "p3.p57",
+     "title": "p3.p57",
+     "segments": 2
+    },
+    {
+     "file": "0065.json",
+     "ref": "p3.p58",
+     "title": "p3.p58",
+     "segments": 2
+    },
+    {
+     "file": "0066.json",
+     "ref": "p3.p59",
+     "title": "p3.p59",
+     "segments": 2
+    },
+    {
+     "file": "0067.json",
+     "ref": "p3.p60",
+     "title": "p3.p60",
+     "segments": 2
+    },
+    {
+     "file": "0068.json",
+     "ref": "p3.p61",
+     "title": "p3.p61",
+     "segments": 2
+    },
+    {
+     "file": "0069.json",
+     "ref": "p3.p62",
+     "title": "p3.p62",
+     "segments": 2
+    },
+    {
+     "file": "0070.json",
+     "ref": "p3.p63",
+     "title": "p3.p63",
+     "segments": 3
+    },
+    {
+     "file": "0071.json",
+     "ref": "p3.p64",
+     "title": "p3.p64",
+     "segments": 2
+    },
+    {
+     "file": "0072.json",
+     "ref": "p3.p65",
+     "title": "p3.p65",
+     "segments": 2
+    },
+    {
+     "file": "0073.json",
+     "ref": "p3.p66",
+     "title": "p3.p66",
+     "segments": 2
+    },
+    {
+     "file": "0074.json",
+     "ref": "p3.p67",
+     "title": "p3.p67",
+     "segments": 2
+    },
+    {
+     "file": "0075.json",
+     "ref": "p3.p68",
+     "title": "p3.p68",
+     "segments": 2
+    },
+    {
+     "file": "0076.json",
+     "ref": "p3.p69",
+     "title": "p3.p69",
+     "segments": 2
+    },
+    {
+     "file": "0077.json",
+     "ref": "p3.p70",
+     "title": "p3.p70",
+     "segments": 2
+    },
+    {
+     "file": "0078.json",
+     "ref": "p3.p71",
+     "title": "p3.p71",
+     "segments": 2
+    },
+    {
+     "file": "0079.json",
+     "ref": "p3.p72",
+     "title": "p3.p72",
+     "segments": 2
+    },
+    {
+     "file": "0080.json",
+     "ref": "p3.p73",
+     "title": "p3.p73",
+     "segments": 2
+    },
+    {
+     "file": "0081.json",
+     "ref": "p3.p74",
+     "title": "p3.p74",
+     "segments": 2
+    },
+    {
+     "file": "0082.json",
+     "ref": "p3.p75",
+     "title": "p3.p75",
+     "segments": 2
+    },
+    {
+     "file": "0083.json",
+     "ref": "p3.p76",
+     "title": "p3.p76",
+     "segments": 2
+    },
+    {
+     "file": "0084.json",
+     "ref": "p3.p77",
+     "title": "p3.p77",
+     "segments": 136
+    },
+    {
+     "file": "0085.json",
+     "ref": "p3.p78",
+     "title": "p3.p78",
+     "segments": 2
+    },
+    {
+     "file": "0086.json",
+     "ref": "p3.p79",
+     "title": "p3.p79",
+     "segments": 2
+    },
+    {
+     "file": "0087.json",
+     "ref": "p3.p80",
+     "title": "p3.p80",
+     "segments": 2
+    },
+    {
+     "file": "0088.json",
+     "ref": "p3.p81",
+     "title": "p3.p81",
+     "segments": 2
+    },
+    {
+     "file": "0089.json",
+     "ref": "p3.p82",
+     "title": "p3.p82",
+     "segments": 2
+    },
+    {
+     "file": "0090.json",
+     "ref": "p3.p83",
+     "title": "p3.p83",
+     "segments": 2
+    },
+    {
+     "file": "0091.json",
+     "ref": "p3.p84",
+     "title": "p3.p84",
+     "segments": 2
+    },
+    {
+     "file": "0092.json",
+     "ref": "p3.p85",
+     "title": "p3.p85",
+     "segments": 2
+    },
+    {
+     "file": "0093.json",
+     "ref": "p3.p86",
+     "title": "p3.p86",
+     "segments": 2
+    },
+    {
+     "file": "0094.json",
+     "ref": "p3.p87",
+     "title": "p3.p87",
+     "segments": 2
+    },
+    {
+     "file": "0095.json",
+     "ref": "p3.p88",
+     "title": "p3.p88",
+     "segments": 2
+    },
+    {
+     "file": "0096.json",
+     "ref": "p3.p89",
+     "title": "p3.p89",
+     "segments": 2
+    },
+    {
+     "file": "0097.json",
+     "ref": "p3.p90",
+     "title": "p3.p90",
+     "segments": 2
+    },
+    {
+     "file": "0098.json",
+     "ref": "p3.p91",
+     "title": "p3.p91",
+     "segments": 2
+    },
+    {
+     "file": "0099.json",
+     "ref": "p3.p92",
+     "title": "p3.p92",
+     "segments": 2
+    },
+    {
+     "file": "0100.json",
+     "ref": "p3.p93",
+     "title": "p3.p93",
+     "segments": 2
+    },
+    {
+     "file": "0101.json",
+     "ref": "p3.p94",
+     "title": "p3.p94",
+     "segments": 2
+    },
+    {
+     "file": "0102.json",
+     "ref": "p3.p95",
+     "title": "p3.p95",
+     "segments": 2
+    },
+    {
+     "file": "0103.json",
+     "ref": "p3.p96",
+     "title": "p3.p96",
+     "segments": 2
+    },
+    {
+     "file": "0104.json",
+     "ref": "p3.p97",
+     "title": "p3.p97",
+     "segments": 4
+    },
+    {
+     "file": "0105.json",
+     "ref": "p3.p98",
+     "title": "p3.p98",
+     "segments": 2
+    },
+    {
+     "file": "0106.json",
+     "ref": "p3.p99",
+     "title": "p3.p99",
+     "segments": 2
+    },
+    {
+     "file": "0107.json",
+     "ref": "p3.p100",
+     "title": "p3.p100",
+     "segments": 2
+    },
+    {
+     "file": "0108.json",
+     "ref": "p3.p101",
+     "title": "p3.p101",
+     "segments": 3
+    },
+    {
+     "file": "0109.json",
+     "ref": "p3.p102",
+     "title": "p3.p102",
+     "segments": 2
+    },
+    {
+     "file": "0110.json",
+     "ref": "p3.p103",
+     "title": "p3.p103",
+     "segments": 2
+    },
+    {
+     "file": "0111.json",
+     "ref": "p3.p104",
+     "title": "p3.p104",
+     "segments": 2
+    },
+    {
+     "file": "0112.json",
+     "ref": "p3.p105",
+     "title": "p3.p105",
+     "segments": 2
+    },
+    {
+     "file": "0113.json",
+     "ref": "p3.p106",
+     "title": "p3.p106",
+     "segments": 2
+    },
+    {
+     "file": "0114.json",
+     "ref": "p3.p107",
+     "title": "p3.p107",
+     "segments": 2
+    },
+    {
+     "file": "0115.json",
+     "ref": "p3.p108",
+     "title": "p3.p108",
+     "segments": 2
+    },
+    {
+     "file": "0116.json",
+     "ref": "p3.p109",
+     "title": "p3.p109",
+     "segments": 2
+    },
+    {
+     "file": "0117.json",
+     "ref": "p3.p110",
+     "title": "p3.p110",
+     "segments": 2
+    },
+    {
+     "file": "0118.json",
+     "ref": "p3.p111",
+     "title": "p3.p111",
+     "segments": 2
+    },
+    {
+     "file": "0119.json",
+     "ref": "p3.p112",
+     "title": "p3.p112",
+     "segments": 2
+    },
+    {
+     "file": "0120.json",
+     "ref": "p3.p113",
+     "title": "p3.p113",
+     "segments": 6
+    },
+    {
+     "file": "0121.json",
+     "ref": "p3.p114",
+     "title": "p3.p114",
+     "segments": 2
+    },
+    {
+     "file": "0122.json",
+     "ref": "p3.p115",
+     "title": "p3.p115",
+     "segments": 2
+    },
+    {
+     "file": "0123.json",
+     "ref": "p3.p116",
+     "title": "p3.p116",
+     "segments": 2
+    },
+    {
+     "file": "0124.json",
+     "ref": "p3.p117",
+     "title": "p3.p117",
+     "segments": 2
+    },
+    {
+     "file": "0125.json",
+     "ref": "p3.p118",
+     "title": "p3.p118",
+     "segments": 2
+    },
+    {
+     "file": "0126.json",
+     "ref": "p3.p119",
+     "title": "p3.p119",
+     "segments": 2
+    },
+    {
+     "file": "0127.json",
+     "ref": "p3.p120",
+     "title": "p3.p120",
+     "segments": 2
+    },
+    {
+     "file": "0128.json",
+     "ref": "p3.p121",
+     "title": "p3.p121",
+     "segments": 3
+    },
+    {
+     "file": "0129.json",
+     "ref": "p3.p122",
+     "title": "p3.p122",
+     "segments": 2
+    },
+    {
+     "file": "0130.json",
+     "ref": "p3.p123",
+     "title": "p3.p123",
+     "segments": 2
+    },
+    {
+     "file": "0131.json",
+     "ref": "p3.p124",
+     "title": "p3.p124",
+     "segments": 3
+    },
+    {
+     "file": "0132.json",
+     "ref": "p3.p125",
+     "title": "p3.p125",
+     "segments": 3
+    },
+    {
+     "file": "0133.json",
+     "ref": "p3.p126",
+     "title": "p3.p126",
+     "segments": 2
+    },
+    {
+     "file": "0134.json",
+     "ref": "p3.p127",
+     "title": "p3.p127",
+     "segments": 2
+    },
+    {
+     "file": "0135.json",
+     "ref": "p3.p128",
+     "title": "p3.p128",
+     "segments": 2
+    },
+    {
+     "file": "0136.json",
+     "ref": "p3.p129",
+     "title": "p3.p129",
+     "segments": 2
+    },
+    {
+     "file": "0137.json",
+     "ref": "p3.p130",
+     "title": "p3.p130",
+     "segments": 2
+    },
+    {
+     "file": "0138.json",
+     "ref": "p3.p131",
+     "title": "p3.p131",
+     "segments": 2
+    },
+    {
+     "file": "0139.json",
+     "ref": "p3.p132",
+     "title": "p3.p132",
+     "segments": 2
+    },
+    {
+     "file": "0140.json",
+     "ref": "p3.p133",
+     "title": "p3.p133",
+     "segments": 2
+    },
+    {
+     "file": "0141.json",
+     "ref": "p3.p134",
+     "title": "p3.p134",
+     "segments": 2
+    },
+    {
+     "file": "0142.json",
+     "ref": "p3.p135",
+     "title": "p3.p135",
+     "segments": 2
+    },
+    {
+     "file": "0143.json",
+     "ref": "p3.p136",
+     "title": "p3.p136",
+     "segments": 2
+    },
+    {
+     "file": "0144.json",
+     "ref": "p3.p137",
+     "title": "p3.p137",
+     "segments": 1
+    },
+    {
+     "file": "0145.json",
+     "ref": "p3.p138",
+     "title": "p3.p138",
+     "segments": 1
+    }
+   ]
+  }
+ ]
+}

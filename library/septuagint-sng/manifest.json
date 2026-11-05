@@ -1,0 +1,153 @@
+{
+ "workId": "septuagint-sng",
+ "parallel": "segment",
+ "editions": [
+  {
+   "editionId": "brenton-greek-sng",
+   "role": "original",
+   "language": "greek",
+   "credit": "The Septuagint Version of the Old Testament, with an English Translation … and the Apocrypha (the Greek according to the Vatican text), ed. Lancelot Charles Lee Brenton (London: Samuel Bagster and Sons, 1851). Transcription: eBible.org (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://ebible.org/Scriptures/grcbrent_usfx.zip",
+   "sourceMember": "grcbrent_usfx.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1816960,
+   "sourceSha256": "ff88d6bdd6f21f279b24fe7ebcefd7747991cc24f232df95a676c5609fc25356",
+   "leftOut": {
+    "id": 52,
+    "toc": 108,
+    "s": 1
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 2013,
+    "barePerThousand": 103,
+    "digitWords": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "SNG.1",
+     "title": "Song of Songs 1",
+     "segments": 17
+    },
+    {
+     "file": "0002.json",
+     "ref": "SNG.2",
+     "title": "Song of Songs 2",
+     "segments": 17
+    },
+    {
+     "file": "0003.json",
+     "ref": "SNG.3",
+     "title": "Song of Songs 3",
+     "segments": 11
+    },
+    {
+     "file": "0004.json",
+     "ref": "SNG.4",
+     "title": "Song of Songs 4",
+     "segments": 16
+    },
+    {
+     "file": "0005.json",
+     "ref": "SNG.5",
+     "title": "Song of Songs 5",
+     "segments": 16
+    },
+    {
+     "file": "0006.json",
+     "ref": "SNG.6",
+     "title": "Song of Songs 6",
+     "segments": 12
+    },
+    {
+     "file": "0007.json",
+     "ref": "SNG.7",
+     "title": "Song of Songs 7",
+     "segments": 14
+    },
+    {
+     "file": "0008.json",
+     "ref": "SNG.8",
+     "title": "Song of Songs 8",
+     "segments": 14
+    }
+   ]
+  },
+  {
+   "editionId": "brenton-english-sng",
+   "role": "english",
+   "language": "english",
+   "credit": "The Septuagint Version of the Old Testament, with an English Translation … and the Apocrypha, trans. Lancelot Charles Lee Brenton (London: Samuel Bagster and Sons, 1851). Transcription: eBible.org (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://ebible.org/Scriptures/eng-Brenton_usfx.zip",
+   "sourceMember": "eng-Brenton_usfx.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1548145,
+   "sourceSha256": "363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554",
+   "leftOut": {
+    "id": 60,
+    "toc": 179,
+    "f": 2600,
+    "x": 150
+   },
+   "segmentRefs": "citation",
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "SNG.1",
+     "title": "Song of Songs 1",
+     "segments": 17
+    },
+    {
+     "file": "0002.json",
+     "ref": "SNG.2",
+     "title": "Song of Songs 2",
+     "segments": 17
+    },
+    {
+     "file": "0003.json",
+     "ref": "SNG.3",
+     "title": "Song of Songs 3",
+     "segments": 11
+    },
+    {
+     "file": "0004.json",
+     "ref": "SNG.4",
+     "title": "Song of Songs 4",
+     "segments": 16
+    },
+    {
+     "file": "0005.json",
+     "ref": "SNG.5",
+     "title": "Song of Songs 5",
+     "segments": 16
+    },
+    {
+     "file": "0006.json",
+     "ref": "SNG.6",
+     "title": "Song of Songs 6",
+     "segments": 12
+    },
+    {
+     "file": "0007.json",
+     "ref": "SNG.7",
+     "title": "Song of Songs 7",
+     "segments": 14
+    },
+    {
+     "file": "0008.json",
+     "ref": "SNG.8",
+     "title": "Song of Songs 8",
+     "segments": 14
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "divisionOnly": [],
+  "missingInOriginal": [],
+  "missingInEnglish": []
+ }
+}

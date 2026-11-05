@@ -1,0 +1,36 @@
+{
+ "workId": "irenaeus-against-heresies",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "irenaeus-ah-anf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Irenaeus Against Heresies, Books I-V, in The Ante-Nicene Fathers, vol. 1 (The Apostolic Fathers with Justin Martyr and Irenaeus) (American edition, ed. A. Cleveland Coxe), trans. Various, as printed in the 1885 volume (the Wikisource copy credits 'Philip Schaff et al.' and does not name individual translators on the page); series editors Alexander Roberts and James Donaldson (Buffalo: Christian Literature Publishing Co., 1885). Wikisource contributors, English Wikisource (Ante-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/IRENAEUS/Against_Heresies:_Book_I",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 259913,
+   "sourceSha256": "21a789ad5b315330f9f257df7005b448c41e4d2f08539fe755d77111824baf59",
+   "leftOut": {
+    "note": 331
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume I/IRENAEUS/Against Heresies: Book I",
+     "bytes": 259913,
+     "sha256": "21a789ad5b315330f9f257df7005b448c41e4d2f08539fe755d77111824baf59"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "s1",
+     "title": "Preface",
+     "segments": 155
+    }
+   ]
+  }
+ ]
+}

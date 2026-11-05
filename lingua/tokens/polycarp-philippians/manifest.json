@@ -1,0 +1,113 @@
+{
+ "workId": "polycarp-philippians",
+ "editions": [
+  {
+   "editionId": "polycarp-philippians-lake-grc-first1k",
+   "language": "grc",
+   "variety": "grc-koi",
+   "textSource": "store",
+   "analysis": {
+    "id": "golearn-el@1+morphgnt-forms",
+    "kind": "analyser",
+    "status": "automatic"
+   },
+   "credit": "GoLearn Greek analyser adapter-el@1 (Wiktionary Ancient Greek tables via kaikki.org); form index of the MorphGNT New Testament (James Tauber et al.); glosses from the Dodson Greek Lexicon",
+   "licence": "CC BY-SA 4.0 (Wiktionary tables) · CC BY-SA 3.0 (MorphGNT morphology) · public domain (Dodson glosses)",
+   "source": "local: go-v0-ecclesia src/adapters/greek + public/lexicon/el/ancient-index.json; biblia-v0 data/gnt/*-morphgnt.txt; biblia-v0 data/lexicon/dodson.csv. Automatic analysis, never reviewed; New Testament Greek is the only verified-dataset evidence behind it.",
+   "coverage": {
+    "tokens": 1132,
+    "withLemma": 1057,
+    "withMorphology": 737,
+    "verified": 0,
+    "ambiguous": 396,
+    "unanalysed": 75
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "pref",
+     "title": "pref",
+     "segments": 1,
+     "tokens": 27
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 3,
+     "tokens": 106
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 3,
+     "tokens": 157
+    },
+    {
+     "file": "0004.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 3,
+     "tokens": 102
+    },
+    {
+     "file": "0005.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 3,
+     "tokens": 117
+    },
+    {
+     "file": "0006.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 3,
+     "tokens": 149
+    },
+    {
+     "file": "0007.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 3,
+     "tokens": 140
+    },
+    {
+     "file": "0008.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 2,
+     "tokens": 95
+    },
+    {
+     "file": "0009.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 2,
+     "tokens": 74
+    },
+    {
+     "file": "0010.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 2,
+     "tokens": 88
+    },
+    {
+     "file": "0011.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1,
+     "tokens": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 2,
+     "tokens": 76
+    }
+   ]
+  }
+ ]
+}

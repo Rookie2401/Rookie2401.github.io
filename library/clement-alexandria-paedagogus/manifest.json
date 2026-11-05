@@ -1,0 +1,439 @@
+{
+ "workId": "clement-alexandria-paedagogus",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "clement-paedagogus-stahlin-first1k",
+   "role": "original",
+   "language": "greek",
+   "credit": "Paedagogus, in Clemens Alexandrinus, vol. 1: Protrepticus und Paedagogus, ed. Otto Stählin (Leipzig: J. C. Hinrichs, 1905). Perseus Digital Library / First1KGreek, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0555/tlg002/tlg0555.tlg002.1st1K-grc1.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 841250,
+   "sourceSha256": "03e6a03655189105f5e897462085cc5d5943f90151d03235c605b14a7b9afea4",
+   "leftOut": {
+    "milestone": 1207,
+    "pb": 497,
+    "lb": 214
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 56043,
+    "barePerThousand": 22,
+    "digitWords": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 14
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 13
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 13
+    }
+   ]
+  },
+  {
+   "editionId": "clement-paedagogus-anf2-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "The Instructor (Paedagogus), in The Ante-Nicene Fathers, vol. 2 (Fathers of the Second Century) (American edition, ed. A. Cleveland Coxe), trans. Various, as printed in the 1885 volume (the Wikisource copy credits 'Philip Schaff et al.' and does not name individual translators on the page); series editors Alexander Roberts and James Donaldson (Buffalo: Christian Literature Publishing Co., 1885). Wikisource contributors, English Wikisource (Ante-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_II/The_Instructor",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 511581,
+   "sourceSha256": "d8b70693d59eb190cf2770264f14d4620ab43679ad5c9d7ea6e360deeee14636",
+   "leftOut": {
+    "note": 763
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume II/The Instructor/Book I",
+     "bytes": 156839,
+     "sha256": "b1e0730f0a28bcfb9d1cda95f39f75803f12e6a36a9edf7a71be910030afbb1e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume II/The Instructor/Book II",
+     "bytes": 194803,
+     "sha256": "d73c985ef166771b5c1263451c6836bb98a3a9a2f874063569ef7deb246b3341"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume II/The Instructor/Book III",
+     "bytes": 153005,
+     "sha256": "0b2155d328e4279d14297f1d5e910a3d7b03f900dd0ae7b34a620f9d77de68be"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume II/The Instructor/Elucidations",
+     "bytes": 6934,
+     "sha256": "88fbfa236dd5c59eb58803ce13998b7448df136adb8638161df4c2cbd3c64edd"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.1~2",
+     "title": "Chapter I. The Office of the Instructor.",
+     "segments": 5
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.2",
+     "title": "Chapter II.—Our Instructor’s Treatment of Our Sins.",
+     "segments": 6
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.3",
+     "title": "Chapter III.—The Philanthropy of the Instructor.",
+     "segments": 4
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.4",
+     "title": "Chapter IV.—Men and Women Alike Under the Instructor’s Charge.",
+     "segments": 16
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.6",
+     "title": "Chapter VI.—The Name Children Does Not Imply Instruction in Elementary Principles.",
+     "segments": 30
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.7",
+     "title": "Chapter VII.—Who the Instructor Is, and Respecting His Instruction.",
+     "segments": 15
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.8",
+     "title": "Chapter VIII.—Against Those Who Think that What is Just is Not Good.",
+     "segments": 19
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.9",
+     "title": "Chapter IX.—That It is the Prerogative of the Same Power to Be Beneficent and to Punish Justly. Also the Manner of the Instruction of the Logos.",
+     "segments": 25
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.10",
+     "title": "Chapter X.—That the Same God, by the Same Word, Restrains from Sin by Threatening, and Saves Humanity by Exhorting.",
+     "segments": 11
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.11",
+     "title": "Chapter XI.—That the Word Instructed by the Law and the Prophets.",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.12",
+     "title": "Chapter XII.—The Instructor Characterized by the Severity and Benignity of Paternal Affection.",
+     "segments": 6
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.13",
+     "title": "Chapter XIII.—Virtue Rational, Sin Irrational.",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "2.1",
+     "title": "Chap. I.—On Eating.",
+     "segments": 12
+    },
+    {
+     "file": "0014.json",
+     "ref": "2.2~2",
+     "title": "Chapter II.—On Drinking.",
+     "segments": 32
+    },
+    {
+     "file": "0015.json",
+     "ref": "2.3",
+     "title": "Chapter III.—On Costly Vessels.",
+     "segments": 7
+    },
+    {
+     "file": "0016.json",
+     "ref": "2.4",
+     "title": "Chapter IV.—How to Conduct Ourselves at Feasts.",
+     "segments": 6
+    },
+    {
+     "file": "0017.json",
+     "ref": "2.5",
+     "title": "Chapter V.—On Laughter.",
+     "segments": 11
+    },
+    {
+     "file": "0018.json",
+     "ref": "2.6",
+     "title": "Chapter VI.—On Filthy Speaking.",
+     "segments": 6
+    },
+    {
+     "file": "0019.json",
+     "ref": "2.7",
+     "title": "Chapter VII.—Directions for Those Who Live Together.",
+     "segments": 6
+    },
+    {
+     "file": "0020.json",
+     "ref": "2.8",
+     "title": "Chapter VIII.—On the Use of Ointments and Crowns.",
+     "segments": 21
+    },
+    {
+     "file": "0021.json",
+     "ref": "2.9",
+     "title": "Chap. IX.—On Sleep.",
+     "segments": 12
+    },
+    {
+     "file": "0022.json",
+     "ref": "2.10",
+     "title": "Chapter X.—Quænam de Procreatione Liberorum Tractanda Sint.",
+     "segments": 12
+    },
+    {
+     "file": "0023.json",
+     "ref": "2.11",
+     "title": "Chapter XI.—On Clothes.",
+     "segments": 18
+    },
+    {
+     "file": "0024.json",
+     "ref": "2.12",
+     "title": "Chap. XII.—On Shoes.",
+     "segments": 4
+    },
+    {
+     "file": "0025.json",
+     "ref": "2.13",
+     "title": "Chapter XIII—Against Excessive Fondness for Jewels and Gold Ornaments.",
+     "segments": 24
+    },
+    {
+     "file": "0026.json",
+     "ref": "3.1",
+     "title": "Chapter I.—On the True Beauty.",
+     "segments": 10
+    },
+    {
+     "file": "0027.json",
+     "ref": "3.2",
+     "title": "Chapter II.—Against Embellishing the Body.",
+     "segments": 30
+    },
+    {
+     "file": "0028.json",
+     "ref": "3.3~2",
+     "title": "Chapter III.—Against Men Who Embellish Themselves.",
+     "segments": 19
+    },
+    {
+     "file": "0029.json",
+     "ref": "3.4",
+     "title": "Chapter IV.—With Whom We are to Associate.",
+     "segments": 7
+    },
+    {
+     "file": "0030.json",
+     "ref": "3.5",
+     "title": "Chapter V.—Behaviour in the Baths.",
+     "segments": 3
+    },
+    {
+     "file": "0031.json",
+     "ref": "3.6",
+     "title": "Chapter VI.—The Christian Alone Rich.",
+     "segments": 5
+    },
+    {
+     "file": "0032.json",
+     "ref": "3.7",
+     "title": "Chapter VII.—Frugality a Good Provision for the Christian.",
+     "segments": 4
+    },
+    {
+     "file": "0033.json",
+     "ref": "3.8",
+     "title": "Chapter VIII.—Similitudes and Examples a Most Important Part of Right Instruction.",
+     "segments": 18
+    },
+    {
+     "file": "0034.json",
+     "ref": "3.9",
+     "title": "Chapter IX.—Why We are to Use the Bath.",
+     "segments": 3
+    },
+    {
+     "file": "0035.json",
+     "ref": "3.10",
+     "title": "Chapter X.—The Exercises Suited to a Good Life.",
+     "segments": 4
+    },
+    {
+     "file": "0036.json",
+     "ref": "3.11",
+     "title": "Chapter XI.—A Compendious View of the Christian Life.",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "3.s14",
+     "title": "Clothes.",
+     "segments": 8
+    },
+    {
+     "file": "0038.json",
+     "ref": "3.s15",
+     "title": "Ear-rings.",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "3.s16",
+     "title": "Finger-rings.",
+     "segments": 9
+    },
+    {
+     "file": "0040.json",
+     "ref": "3.s17",
+     "title": "The Hair.",
+     "segments": 7
+    },
+    {
+     "file": "0041.json",
+     "ref": "3.s18",
+     "title": "Painting the Face.",
+     "segments": 13
+    },
+    {
+     "file": "0042.json",
+     "ref": "3.s19",
+     "title": "Walking.",
+     "segments": 4
+    },
+    {
+     "file": "0043.json",
+     "ref": "3.s20",
+     "title": "The Model Maiden.",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "3.s21",
+     "title": "Amusements and Associates.",
+     "segments": 5
+    },
+    {
+     "file": "0045.json",
+     "ref": "3.s22",
+     "title": "Public Spectacles.",
+     "segments": 3
+    },
+    {
+     "file": "0046.json",
+     "ref": "3.s23",
+     "title": "Religion in Ordinary Life.",
+     "segments": 3
+    },
+    {
+     "file": "0047.json",
+     "ref": "3.s24",
+     "title": "Going to Church.",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "3.s25",
+     "title": "Out of Church.",
+     "segments": 1
+    },
+    {
+     "file": "0049.json",
+     "ref": "3.s26",
+     "title": "Love and the Kiss of Charity.",
+     "segments": 3
+    },
+    {
+     "file": "0050.json",
+     "ref": "3.s27",
+     "title": "The Government of the Eyes.",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "3.12",
+     "title": "Chapter XII.—Continuation: with Texts from Scripture.",
+     "segments": 41
+    },
+    {
+     "file": "0052.json",
+     "ref": "3.s29",
+     "title": "Prayer to the Pædagogus.",
+     "segments": 2
+    },
+    {
+     "file": "0053.json",
+     "ref": "3.s30",
+     "title": "A Hymn to Christ the Saviour.",
+     "segments": 9
+    },
+    {
+     "file": "0054.json",
+     "ref": "3.s31",
+     "title": "To the Pædagogus.",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "p1.s2",
+     "title": "I",
+     "segments": 2
+    },
+    {
+     "file": "0056.json",
+     "ref": "p1.s3",
+     "title": "II.",
+     "segments": 3
+    },
+    {
+     "file": "0057.json",
+     "ref": "p1.s4",
+     "title": "III.",
+     "segments": 1
+    },
+    {
+     "file": "0058.json",
+     "ref": "p1.s5",
+     "title": "Hymn.",
+     "segments": 12
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 0,
+  "shared": 0
+ }
+}

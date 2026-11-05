@@ -1,0 +1,100 @@
+{
+ "workId": "baxter-christian-religion",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "baxter-christian-religion-1660-tcp-a26895",
+   "role": "english",
+   "language": "english",
+   "credit": "The Christian religion expressed I, briefly in the ancient creeds, the Ten commandments, and the Lords prayer, and, II, more largely in a profession taken out of the Holy Scriptures, in EEBO-TCP text A26895 (STC Wing B1221; STC) (London: [s.n.], 1660). Transcription: Text Creation Partnership (EEBO-TCP Phase I), keyboarded from images of the original (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A26895/master/A26895.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 140937,
+   "sourceSha256": "309fd21c48bc8ba79708208c534a016dfadf3e157fb35c6f8fc935ed340976e2",
+   "leftOut": {
+    "pb": 86,
+    "note": 118
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 16935,
+    "unreadPerThousand": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "To fill up this vacant Page.",
+     "segments": 3
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.1.1",
+     "title": "The Ancient CREED.",
+     "segments": 44
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.1.2",
+     "title": "The ten Commandments, Exod. 20.",
+     "segments": 11
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.1.3",
+     "title": "The Lords Prayer, Mat. 6.",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.2.1",
+     "title": "I. The Articles of the Christian Belief.",
+     "segments": 9
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.2.2",
+     "title": "II. Our Consent to the Gospel Covenant, with God the Father, Son and Holy Ghost; by which we are Christians, and members of the Catholick Church.",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.2.3",
+     "title": "III. The summ of Christian Duty.",
+     "segments": 6
+    },
+    {
+     "file": "0008.json",
+     "ref": "2",
+     "title": "The Agreement of the Associated PASTORS.",
+     "segments": 12
+    },
+    {
+     "file": "0009.json",
+     "ref": "3",
+     "title": "The Office of Christs Ministers more largely opened.",
+     "segments": 83
+    },
+    {
+     "file": "0010.json",
+     "ref": "4.1",
+     "title": "4.1",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "4.2",
+     "title": "The Order and Discipline of this Church, agreeable to the Word of God.",
+     "segments": 10
+    },
+    {
+     "file": "0012.json",
+     "ref": "4.end",
+     "title": "4.end",
+     "segments": 1
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "workId": "vermigli-oxford-treatise",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "vermigli-oxford-treatise-udall-1550",
+   "role": "english",
+   "language": "english",
+   "credit": "A discourse or treatise of Peter Martyr Vermigli concerning the sacrament of the Lord's Supper (tr. Nicholas Udall), in EEBO-TCP A14347 (STC 24665), trans. Nicholas Udall (London: Robert Stoughton [i.e. E. Whitchurch] for Nicholas Udall, 1550). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A14347/master/A14347.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 568822,
+   "sourceSha256": "c0a414aab0ad36e7d6d98b0d1b0230b60a2e887d3e7e15e20b746da9bc904aae",
+   "leftOut": {
+    "pb": 223,
+    "unread": 456,
+    "milestone": 23,
+    "note": 315
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 63205,
+    "unreadPerThousand": 7.2
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "¶ To the right honourable Sir Wylliam Parre knight, Lord Parre, Erle of Essex, Marquesse of Northampton, Lorde great Chamberlaine of Englande, and Knight of the moste noble ordre of ȳ • Garter, Nicola",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "¶ A discourse vpō the Sacrament of the Lordes Supper solemnely handled at the Uniuersitie of Oxforde by Doctour Peter Martyr Uermila Florentine, and in the sayde Uniuersite, placed by the Kinges maies",
+     "segments": 393
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1786 @@
+{
+ "workId": "augustine-christian-doctrine",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "christian-doctrine-shaw-npnf2-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "On Christian Doctrine, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. II: St. Augustin's City of God and Christian Doctrine (ed. Philip Schaff; Buffalo, Christian Literature Co., 1887); copy on English Wikisource, trans. J. F. Shaw (Buffalo: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_II/On_Christian_Doctrine",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 514679,
+   "sourceSha256": "b00b7644c28ca586fdc3a417cabda65c3fd7278b93449d9d1f6f07fdc8963fc7",
+   "leftOut": {
+    "note": 323
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 1",
+     "bytes": 2829,
+     "sha256": "bc89576766bf42076ce21f47878c85aa999298f559a90c142a6b7e6c37658325"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 10",
+     "bytes": 1326,
+     "sha256": "530e4324b8f6868ce268b4b3218eaeed756bfc7ff0d72dfdb6c556924e98d5f3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 11",
+     "bytes": 1507,
+     "sha256": "f50ff0af1d0a298d99b4df3b0d4bb9b80aee54303149be6d9e4397ca7920d011"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 12",
+     "bytes": 1994,
+     "sha256": "f3c7a58ca0c9d5699dd6d8d8a96b5b22807cb700b7c1317ee8dc08f85a846c08"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 13",
+     "bytes": 1403,
+     "sha256": "97cd0557cab1ef59d9ba16268f8f1dccbc5010effd8a18ed7138a501cba946ae"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 14",
+     "bytes": 3054,
+     "sha256": "61855c7183d0e8aada4f9040b476038a39d07c3b5fbd6b2df6a30022941ad6ac"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 15",
+     "bytes": 2120,
+     "sha256": "ca77f41354b7bdcc8b1f4c6db0ea15b3eb24aa71b89bad8933aac67f08067189"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 16",
+     "bytes": 1439,
+     "sha256": "24b15258b429817572690d8b9197446a6a4821f09cd42862ccacdc373a7fbef0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 17",
+     "bytes": 1286,
+     "sha256": "92348318e59ad963e4807838896ac06744506bd4fbbf3e3581c6a3f5daa290c4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 18",
+     "bytes": 1602,
+     "sha256": "c0f661777098917d41d35a6ba46f21e59e83febdb252aee0957257fd2349a097"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 19",
+     "bytes": 1788,
+     "sha256": "d3885b36c335b9539d9bcf4abcd287319f3e73009a25c9d68042cbb3155226f0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 2",
+     "bytes": 2336,
+     "sha256": "0396626ca0c07a72b9cf36f441c81698474d9cce9e2790e1b1189cb67270acc7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 20",
+     "bytes": 1040,
+     "sha256": "cd65e340d5990b6cb6a86d3490940cee71a9a0927f407c511e7d728f3391846e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 21",
+     "bytes": 1054,
+     "sha256": "ae7866ccd2adc5d44c4a1a82774e8b66289ab8ed73d61fa6f38bd7e7ac58a59b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 22",
+     "bytes": 4338,
+     "sha256": "b17b57a040fec59aeefbe25d2a5921f17f0103766b141d62261f7b65e479e03a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 23",
+     "bytes": 2959,
+     "sha256": "9559e8f8bc4cebe293f97727a65f4477c9077d45b409aea22a4d45226a9dc9e5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 24",
+     "bytes": 4318,
+     "sha256": "8694b2d9890657b64ed0f9f39b79a381941d9c658819ad4db4facbd719154807"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 25",
+     "bytes": 2072,
+     "sha256": "8c79c645fbbddf95066bb057efa964d800a45c6fb48c06457f9b49d7d3a94aa1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 26",
+     "bytes": 2395,
+     "sha256": "7339ac1e9a19680d9342155b6e3b0d5c6d45cfed7aff080b460634147c045297"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 27",
+     "bytes": 1729,
+     "sha256": "a3d6eb90112197657fab92b62b9b43c0155471a59f28491a0359f2f217230e6f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 28",
+     "bytes": 1662,
+     "sha256": "986eda46294cac1c463fa95eef3900607d4b941ce0e60e4bd5273d077c68f194"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 29",
+     "bytes": 2922,
+     "sha256": "f88993ebdb209322232c609a537cfb19f4de6f6121ca1e7303deec91d79dcb29"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 3",
+     "bytes": 1558,
+     "sha256": "4c8ce34181ba3368b519e6e71662a269de2008d0c25d61f25b0938539d2bd875"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 30",
+     "bytes": 4763,
+     "sha256": "8887da153476a9030420ea3dc74b3cb2f5bf162460b210ff43e617fa322fea90"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 31",
+     "bytes": 1877,
+     "sha256": "f4aa60fd8655950b659ca584bdd18e93209e85bea452796d9953045aa9e16584"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 32",
+     "bytes": 2206,
+     "sha256": "ea1f4873f189d5e0bbc1ee73d9313b861cb30068802eb957768b81fbf439903d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 33",
+     "bytes": 3104,
+     "sha256": "899bc74b9c50a28c184d71ef69e3771f21585b97c080c1ae3f4be44b3622d01e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 34",
+     "bytes": 2923,
+     "sha256": "fa78d7e7139d76050f78031fb277bd73c52baa37e72483832bb0508bb7ef78d5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 35",
+     "bytes": 1838,
+     "sha256": "8c9d9c1a8b6d548fcf8cfbd36ee475239597f4710e38eb930a2cb309930a1edc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 36",
+     "bytes": 3092,
+     "sha256": "cb37703d2bbbed89acf0b29c888dc6ec30e882bc2eb713e4c5cb22ca8fbff817"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 37",
+     "bytes": 2056,
+     "sha256": "71ea0f0737b1660b6ae079e12dd5c558c2579744b08f08f0910fb20523d1d3f9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 38",
+     "bytes": 1984,
+     "sha256": "b04a79c1c4f16fa1349505f2b008e06dc8e2165796547d23c2a24757bb450a5a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 39",
+     "bytes": 2063,
+     "sha256": "a47939921766fa08d5a5344d2bdf81302172f64dd2f4cf29ccffe8d6bfa7a2ad"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 4",
+     "bytes": 2304,
+     "sha256": "a571373427b4fa2ae55d1e5980d7f44d10a9990bdbfa8adb120ad7259ebd1b50"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 40",
+     "bytes": 2166,
+     "sha256": "d0ffab39e21f139de74047c0345cc77bc587797257010ed337f99c327cb96a5f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 5",
+     "bytes": 2192,
+     "sha256": "6c434e9879ae14fb16d5d3ffc186d6607869bedced430c82324c9a462c15cc62"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 6",
+     "bytes": 2053,
+     "sha256": "38042e474f6e0251e6d307e12fb7adc0f4960e5fd503258f6872c1e3a73c9f37"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 7",
+     "bytes": 2477,
+     "sha256": "4cc1a34ae2976345e462f9e7a801628d27786c454cdf21af4f1f14c45819f032"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 8",
+     "bytes": 2675,
+     "sha256": "e8c16b47f2a5a93941f1ea1f6ed7ae12a7847040771ce09354f59fc39d5c460a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book I/Chapter 9",
+     "bytes": 1675,
+     "sha256": "3f91d88f9a383e6b234740c95be7049a4d9b7e2c4797dc1b608b975a141363fb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 1",
+     "bytes": 2796,
+     "sha256": "cf2761964e05803bbe8fc06c30cdff546b0da23d2d147b976b55c9f78d6b3d1b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 10",
+     "bytes": 1778,
+     "sha256": "8abb28ee093dfeb6557b0e5dda0bafaeeab3aa75378b274f7d797940d4227567"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 11",
+     "bytes": 2698,
+     "sha256": "8266d73d0922d3d1aeb28e04ac95381b0d6fa500f54dad47cff5c904f618551b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 12",
+     "bytes": 5518,
+     "sha256": "1c8722d503005d7a6c0c6f8d3843c2d20cbeea9fbb05333ac99df0a475399ddf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 13",
+     "bytes": 6041,
+     "sha256": "9fa6365d481d61191aa7e6bb8d9ad41365a036aa08351d0bf53067cfbcc665a0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 14",
+     "bytes": 2772,
+     "sha256": "698484a79dad32a9439e04c3229cfa93feeedd699f0ff85923db947f3121de9f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 15",
+     "bytes": 3902,
+     "sha256": "2708a5ee0a3961a94a5c368ebe5eae1656f59d935ca8c70d16750f2c79c0fe9e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 16",
+     "bytes": 8984,
+     "sha256": "db2f38cd5d513029b53d3aff84d3c6d488b412d366ba92c826af2b074d1827fd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 17",
+     "bytes": 2308,
+     "sha256": "fa017d05c30328b151900bb0a596715a51ce3d4d177de00c844d43eabba38924"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 18",
+     "bytes": 2298,
+     "sha256": "a59bc9b635eb1008da23030569a4bbb750ff47ff1b600482dbe831bf11b3db51"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 19",
+     "bytes": 1206,
+     "sha256": "dd0f686cdbb18aef852650285c6240c3614c06aaee914f3372d2b1ba474603e9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 2",
+     "bytes": 2213,
+     "sha256": "a9c6e214c417eeb0d92642ec79c9058495a68d89d56798f2e409e8487943f0a7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 20",
+     "bytes": 3371,
+     "sha256": "bdf42a46e765bd7dfd338e3cc46aa81eda75599c384fae43231f6aba59ff8cbd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 21",
+     "bytes": 3484,
+     "sha256": "0683a1ba14352980676ea0e2828092c1aa31bc10d6fec38b1436ac33ad8b3d57"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 22",
+     "bytes": 3584,
+     "sha256": "45d360ea2f0ea2fcd9c1a949ff6d7d3c7793ea4734bea368730522cb7cf2e9f0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 23",
+     "bytes": 4624,
+     "sha256": "cb1d44c88efca30bd56ed75b4ae04a75a404667e095f1c820e834e441f0efa22"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 24",
+     "bytes": 3063,
+     "sha256": "0b2559122d5b432298093e30cac05f979133c88ff74ef9a880720bfdbf4e40ec"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 25",
+     "bytes": 4145,
+     "sha256": "2b5fb4531fe094ecee2f98a3cf209260eb1aed44c60a5902a4da2b1cd122e6f2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 26",
+     "bytes": 1866,
+     "sha256": "4c19c442fe35aabb3a9657d923cf21bc4c86e60a2397f21cc29e0e22d84dc655"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 27",
+     "bytes": 1367,
+     "sha256": "b14eb5e64b2cab88fda4f84360eb5d7da46c30a8db652dfa777d2fe872cfac80"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 28",
+     "bytes": 4379,
+     "sha256": "0daa84e4527404832388b7d966652ab8c7d89ed80ce0948db5dcdca1b2fbca90"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 29",
+     "bytes": 4260,
+     "sha256": "6e228858a4c24520759a8295466280facf4e896fb86c37c13e68fbd1b81c160e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 3",
+     "bytes": 2579,
+     "sha256": "93b2cf4a715a88a925f8a400304b6cb6c0dd88717d8251122d255b2a3b67e775"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 30",
+     "bytes": 1839,
+     "sha256": "fb44b318ca675819b3d4ef1f3c5cc72bc755a75f12425e3dd46e255d8476f8fc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 31",
+     "bytes": 3870,
+     "sha256": "e5ddb6f11d3985df878b24271081e111677801a93737f828d0ea6cc8ad929530"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 32",
+     "bytes": 2698,
+     "sha256": "3f6e8a3ad470636607e30da6535919a849a8d5fa06acd5e1f05d82ba29025237"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 33",
+     "bytes": 2806,
+     "sha256": "9b3cd6a3223b4ca5b5f594188b1db38fa76dd99535d896bbc9f4ea0a1c2ec15b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 34",
+     "bytes": 2119,
+     "sha256": "1f77f6975fa2d6e72a72b4a71dd3b62776979377f2a679b8de9329b0f8998a71"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 35",
+     "bytes": 2349,
+     "sha256": "5b7d4c320ab76c921e582e1b7015d6a87de36c8f80cceca8b8bf213de5b33f9c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 36",
+     "bytes": 1810,
+     "sha256": "c2e7fdb96f06f97cc191d33dfe20d6501ec188b8c6229369430075d44e2005e9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 37",
+     "bytes": 2910,
+     "sha256": "5d781c5154c8dd31fbcc698a740462dff6f086be10b2de55f22af0d205dd2620"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 38",
+     "bytes": 2594,
+     "sha256": "c5e4884d00013b78c6daffb196e73d42359d30131a35f777c5d24a4eb297406e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 39",
+     "bytes": 4497,
+     "sha256": "89032c61fb11600cd8c99a2b753a8dd03a3484c24e351c3a22642e0fe595872d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 4",
+     "bytes": 1576,
+     "sha256": "bb01e1b967795edf42342d9acba2ef50f0be2a8d0fede961bd91ff31757ab1a5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 40",
+     "bytes": 4178,
+     "sha256": "40ee7ceadf865b077fb87dafd7cc01b3b6db280150f103dcea8d87e192f14968"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 41",
+     "bytes": 3870,
+     "sha256": "858225b67a9352ddad7a0fa87a8c9e0573bfd42934a14a81f6ff46e26703f6ce"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 42",
+     "bytes": 2123,
+     "sha256": "ee9462fb33e203b2ecf030a4a8a90c69d220c16a318362d03893b4f6b4a70313"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 5",
+     "bytes": 1393,
+     "sha256": "c766ad66d61dec4ab85654eb3408f646d55188ea7687667b25f410066b2c4009"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 6",
+     "bytes": 4269,
+     "sha256": "53e25bc83009126f4c3ee0a9d568a335bae73cab9ecb0e8ed1ab4a750ab26d8d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 7",
+     "bytes": 5621,
+     "sha256": "f7c15e7177276e86b2d235dac700b9dc731b8a3021524128097980c599bef6fe"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 8",
+     "bytes": 5395,
+     "sha256": "c98a31d3280aa566e0b19f31cef7d2c14609357704da5028f091ca71d68a13de"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book II/Chapter 9",
+     "bytes": 2116,
+     "sha256": "7f7df0d6c145ed636bc53ac26c3215cd436b192c3b92abacf7dacb9fd9a2c89d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 1",
+     "bytes": 2091,
+     "sha256": "3c2e1d53208bcd19efd1396ab5784ecbc7a96e6ebfb1ad266dfbab277d1caf73"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 10",
+     "bytes": 4300,
+     "sha256": "2d7e78a5f089d69e16bb1d20215c0136208b02fe5c112b08a02bc51ef46c31c2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 11",
+     "bytes": 2847,
+     "sha256": "cfaaf72ba1ff2be1d1ffb516c4c6ec49a73c9e0a806dab12b133978b5aa2afd4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 12",
+     "bytes": 5155,
+     "sha256": "6ce1d16493c75a2b01b5fcbc6f10fee3681bf1bbcfb02df500287b7a09809ded"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 13",
+     "bytes": 1102,
+     "sha256": "ad0d08974d9b24f86bf818223226a1e5c963196abc9e74da561f3fd0685e801f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 14",
+     "bytes": 2390,
+     "sha256": "f456de2f9dd3c83e235405bf227ce9db0cb0888fabfc39930f35b2ee028c3b1b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 15",
+     "bytes": 1382,
+     "sha256": "da4b0b22d8c13afe7ee9dc91f11f34dd537b9fbfd43ceccc5b98b282378e4366"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 16",
+     "bytes": 3157,
+     "sha256": "dd774908860d66a60e65577013847ddb25871569e306523f8ac7eb6bf8212375"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 17",
+     "bytes": 1969,
+     "sha256": "7af3cca90e2356538b831f428496861ef1b6e9a29b06cc652783f84dd28e9a52"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 18",
+     "bytes": 3526,
+     "sha256": "f15e7fac72ef88631198a1aa1b881272a43ea95b6d354d8595126f2e097246ec"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 19",
+     "bytes": 2230,
+     "sha256": "2f0bccb62f754d9bf48d67a704dad378ec41cdeb418cac07455d8290415a0fd1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 2",
+     "bytes": 5912,
+     "sha256": "b6a46adfee381610ffdf6069db3856145892317cea7ac2ecc248a0dfb3ec50fe"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 20",
+     "bytes": 1698,
+     "sha256": "b8ae3d436ad0dccd6da11223e5fe069cbb018ad679e694d4d30f2e94c8453ed1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 21",
+     "bytes": 4091,
+     "sha256": "dad9f499dc68695ec740073d971cb52d241a19c7c2bb31275ac6e63b2e042d7a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 22",
+     "bytes": 1485,
+     "sha256": "d10f27444b52201b8df1853a719f303bc3b2938290affa262e89ba6479135173"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 23",
+     "bytes": 1722,
+     "sha256": "64793b1e8dfc32e0cbc156bd5cfa8f1942df9226f298903622b23191ac1d9e51"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 24",
+     "bytes": 1396,
+     "sha256": "0cba35611838df5c3c8ece9d2bba08af979d34d0fff16559a98e3ca04622c1f9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 25",
+     "bytes": 4259,
+     "sha256": "f9f205f56a8e795d89031e8a84398599ea0c03a5941b1443e7795fbf5491d869"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 26",
+     "bytes": 1973,
+     "sha256": "e1810a32db90f588763c54079aed713ac08061a8a33c92fead6e2333dcc5dafc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 27",
+     "bytes": 2109,
+     "sha256": "648cedbd636994a9423d3fb45ad270d382ee2294ef0e659ed3dbf8cc5de8c178"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 28",
+     "bytes": 1450,
+     "sha256": "fa711d5237a1bfda8a811a09a39bf095edff11806f86ea5ec5fc5b8c06332dea"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 29",
+     "bytes": 4393,
+     "sha256": "a03a6a71709ce395b486de02572019601e8f7ec0247f0e7ae5b8370b25b6d7ea"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 3",
+     "bytes": 6037,
+     "sha256": "93c10cbe832df582ac819cd89f5dd6c8d4c834854491497a309cfdad87ca2df7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 30",
+     "bytes": 4750,
+     "sha256": "d2f53e77673b6e250cafe77af04e66b502dc33bb50300fe30d818d858f81b4a3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 31",
+     "bytes": 1814,
+     "sha256": "9843ed2904c1275e1f80a7a836367dc4cc2dd3dddfb710ae4533772f714d7d03"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 32",
+     "bytes": 3267,
+     "sha256": "d49333662b4db0a68b7e085342a30a8b6dbea8611115662dabdfc28813dacabd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 33",
+     "bytes": 3029,
+     "sha256": "6879f1482946e4a228126ac1b4d8e80f02f531792828e13efa916b0128e435ae"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 34",
+     "bytes": 9242,
+     "sha256": "127d9b816ee8f6e350f2dd018f6c6fcd767403eb3404f2c772a55f1622cea4a5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 35",
+     "bytes": 3908,
+     "sha256": "079a6db9221d70dba6fb09576184aa7e08e177412534a8c9e29a3adcf692c926"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 36",
+     "bytes": 6579,
+     "sha256": "a9d4018615e3d7ff72fc3dab967d86477e7fbd1f8199a9007a80d9eb708af5d4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 37",
+     "bytes": 4774,
+     "sha256": "019caf701c94e36d4fcfba10034f09b8bef884b0b966addce628afb104fe1763"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 4",
+     "bytes": 2599,
+     "sha256": "660e94d03dc0543f34ab814716d05a3ddeb3156e91df34af858314d6c0b46b22"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 5",
+     "bytes": 2222,
+     "sha256": "aba1574aac935b5cf6dc84b700d8e2080c9326bdc91bea9ab53d77ecd75c9bc1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 6",
+     "bytes": 3193,
+     "sha256": "819bc5aae27a1527afa932f0315da432746f7c9af19200b7edbb14b2da392517"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 7",
+     "bytes": 2746,
+     "sha256": "1cd652671972a08b9047b66e9264300f00b398779a14ae6cb550acc424e1a158"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 8",
+     "bytes": 1725,
+     "sha256": "9a5302245371175472823ae2f447f3136a55f2010100380dc8b550e5b946a771"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book III/Chapter 9",
+     "bytes": 2797,
+     "sha256": "9f190563a42a42445a43e1fb519515e8b6c552b20ccf64d4027c783c4fd786e7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 1",
+     "bytes": 2257,
+     "sha256": "81ba941119e7aa31ae368a58600bdfb41a4917862421e0cbecf6ba2c9220e3fc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 10",
+     "bytes": 5879,
+     "sha256": "23b4411e3388e47187712ce17ee3d483e93259df2390f7a10cfc1badac0c12c0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 11",
+     "bytes": 1786,
+     "sha256": "dfbcad732ba7472a23cc39a5412f8cdd9cc05144aa876467e56abe5b12613941"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 12",
+     "bytes": 4501,
+     "sha256": "28f998c1264374a6702f401ab1578da2d636205a5b5092e110236a5710339e95"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 13",
+     "bytes": 2338,
+     "sha256": "c8577985866ea26e8e26800f5fc8e16d59cddff65b4a5b5a251e906c5ed45406"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 14",
+     "bytes": 4309,
+     "sha256": "5cc39acb4549c55450bf1d44442cc4c034eed8ae5c19de499a4ef3376fda6002"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 15",
+     "bytes": 2664,
+     "sha256": "33d12a9ad50a7f089a8631bda6ccc8f6b2b16acc2c7727f7eb8e51def57d7d18"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 16",
+     "bytes": 4384,
+     "sha256": "d82961d690665130faec1a3ecb2ad19351fd049f9ce9339f200a479cb34a1598"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 17",
+     "bytes": 2151,
+     "sha256": "b073e61dbb96819aa8517054c6f237013537460a38d2f0e2d6eaa185a9a99765"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 18",
+     "bytes": 6233,
+     "sha256": "a4b1a12342ad4350cd5a5843c6f2c051d0aeb16eb2564e3ae6658dd19f1dd4a2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 19",
+     "bytes": 2624,
+     "sha256": "ecc78f849770f8fb6f6e6a27f57786b3527bfa27190007d992940afedd96d7de"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 2",
+     "bytes": 2320,
+     "sha256": "d09c785b10441542a8ec3b453562760102aebbea61d1097828607b04c31edcdd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 20",
+     "bytes": 15897,
+     "sha256": "ef540d08d42eb53de413d568617f8f894f87c3fad3e7da796c4b48dc257c96a3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 21",
+     "bytes": 15625,
+     "sha256": "b3e30b4cb1edbd113ad6a73ec84beec32a1c97a4094c41fc3c6d246a02f8a257"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 22",
+     "bytes": 2332,
+     "sha256": "d511d199ddf71780d0d487aaf82a1bc6e827f1cab30cb814d7a4b334debcabf0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 23",
+     "bytes": 2601,
+     "sha256": "9dd7f998e12ec54f0b854bda4f0307ee4c65cfc01f6b5f0d9f2b3aa603f43d4c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 24",
+     "bytes": 3680,
+     "sha256": "a24b50d597e467d7364406148a7ad113e2d18a704daa74d9e3958de223b91fd1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 25",
+     "bytes": 3065,
+     "sha256": "9f2f64d9a4d579a3f8b5b386350d65b1f31325b682faa55e733849b996c121cc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 26",
+     "bytes": 4969,
+     "sha256": "bff5cee0389659180ab3b0adfaacf45dc46db97b96bc1db4ad71b62eded6bba8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 27",
+     "bytes": 3693,
+     "sha256": "15bb96de6b9e0d968dc0262737c4c1c829bd224d2f01915fab88b863feb20a83"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 28",
+     "bytes": 3395,
+     "sha256": "bfa175fd9778ac5703b0e8846c4daf30973434ddfd568ba556ac5f37a48b75c0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 29",
+     "bytes": 4099,
+     "sha256": "72a3810954346f0a289e4d2bc8fe2d280d719c889e6e24dd3b834ea6732edfc7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 3",
+     "bytes": 4968,
+     "sha256": "8e22abddfe74646c7d82eedf92ab74671555940caa8a18ea79040b3c3aa2069a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 30",
+     "bytes": 1870,
+     "sha256": "3f2801a55ccda4db94efbe2af139aa4a0677a22328937f8a390000fe2219ac27"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 31",
+     "bytes": 1362,
+     "sha256": "6528024efb606f8f61fba81c39c90c82634a1e41a86f46896fe76759f091a399"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 4",
+     "bytes": 2098,
+     "sha256": "6d44b6dac78be1bb0ccc13ab89f6bbc40bd16085990bddcdb48a41f8b664e81b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 5",
+     "bytes": 4656,
+     "sha256": "3d92cfc5586551332e8a66bfb34d5319aefc2899e91aed4d4bd1edb415d4d687"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 6",
+     "bytes": 4055,
+     "sha256": "be66e45261d7c327bce8726702c12c5b301307b1ab30b583f10b7c736ea989e9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 7",
+     "bytes": 21091,
+     "sha256": "facd4d1bb5993e477c23f9febf541558f418384b4b77cab2bed203f9cfaf1b9a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 8",
+     "bytes": 2337,
+     "sha256": "3fa5a9d45de734e5339ea3804d0497a13879ccde78dd4b74ecf82b1d815a635f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Book IV/Chapter 9",
+     "bytes": 1917,
+     "sha256": "22ee668bf32ef54dca6440cf727f02f7a491fda6bb58ab41e98eaaa362ab898f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Contents of Christian Doctrine",
+     "bytes": 7469,
+     "sha256": "f814590d2cbed9953db0efd3e32b6f8017fcfe6d577e9b84243700a38d285393"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Introductory Note by the Editor",
+     "bytes": 3103,
+     "sha256": "87b86f79a4d971ed3aff45d1c4fda5c94b1d4813ba250bbf3e30ebcd4686b9f7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume II/On Christian Doctrine/Preface",
+     "bytes": 12184,
+     "sha256": "6cd67848b72194a8c544aaaa2264c0fd4c7bf3f4c62a1270bd11057425ab567a"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.1",
+     "title": "1.1",
+     "segments": 3
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.2",
+     "title": "1.2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.3",
+     "title": "1.3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.4",
+     "title": "1.4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.5",
+     "title": "1.5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.6",
+     "title": "1.6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.7",
+     "title": "1.7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.8",
+     "title": "1.8",
+     "segments": 3
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.9",
+     "title": "1.9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.10",
+     "title": "1.10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.11",
+     "title": "1.11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.12",
+     "title": "1.12",
+     "segments": 3
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.13",
+     "title": "1.13",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.14",
+     "title": "1.14",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.15",
+     "title": "1.15",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.16",
+     "title": "1.16",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.17",
+     "title": "1.17",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.18",
+     "title": "1.18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.19",
+     "title": "1.19",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.20",
+     "title": "1.20",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.21",
+     "title": "1.21",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.22",
+     "title": "1.22",
+     "segments": 4
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.23",
+     "title": "1.23",
+     "segments": 3
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.24",
+     "title": "1.24",
+     "segments": 4
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.25",
+     "title": "1.25",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.26",
+     "title": "1.26",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.27",
+     "title": "1.27",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.28",
+     "title": "1.28",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.29",
+     "title": "1.29",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.30",
+     "title": "1.30",
+     "segments": 5
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.31",
+     "title": "1.31",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.32",
+     "title": "1.32",
+     "segments": 3
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.33",
+     "title": "1.33",
+     "segments": 3
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.34",
+     "title": "1.34",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.35",
+     "title": "1.35",
+     "segments": 3
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.36",
+     "title": "1.36",
+     "segments": 3
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.37",
+     "title": "1.37",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.38",
+     "title": "1.38",
+     "segments": 3
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.39",
+     "title": "1.39",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.40",
+     "title": "1.40",
+     "segments": 3
+    },
+    {
+     "file": "0041.json",
+     "ref": "2.1",
+     "title": "2.1",
+     "segments": 4
+    },
+    {
+     "file": "0042.json",
+     "ref": "2.2",
+     "title": "2.2",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "2.3",
+     "title": "2.3",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "2.4",
+     "title": "2.4",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "2.5",
+     "title": "2.5",
+     "segments": 3
+    },
+    {
+     "file": "0046.json",
+     "ref": "2.6",
+     "title": "2.6",
+     "segments": 3
+    },
+    {
+     "file": "0047.json",
+     "ref": "2.7",
+     "title": "2.7",
+     "segments": 5
+    },
+    {
+     "file": "0048.json",
+     "ref": "2.8",
+     "title": "2.8",
+     "segments": 4
+    },
+    {
+     "file": "0049.json",
+     "ref": "2.9",
+     "title": "2.9",
+     "segments": 2
+    },
+    {
+     "file": "0050.json",
+     "ref": "2.10",
+     "title": "2.10",
+     "segments": 2
+    },
+    {
+     "file": "0051.json",
+     "ref": "2.11",
+     "title": "2.11",
+     "segments": 3
+    },
+    {
+     "file": "0052.json",
+     "ref": "2.12",
+     "title": "2.12",
+     "segments": 4
+    },
+    {
+     "file": "0053.json",
+     "ref": "2.13",
+     "title": "2.13",
+     "segments": 4
+    },
+    {
+     "file": "0054.json",
+     "ref": "2.14",
+     "title": "2.14",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "2.15",
+     "title": "2.15",
+     "segments": 3
+    },
+    {
+     "file": "0056.json",
+     "ref": "2.16",
+     "title": "2.16",
+     "segments": 6
+    },
+    {
+     "file": "0057.json",
+     "ref": "2.17",
+     "title": "2.17",
+     "segments": 2
+    },
+    {
+     "file": "0058.json",
+     "ref": "2.18",
+     "title": "2.18",
+     "segments": 3
+    },
+    {
+     "file": "0059.json",
+     "ref": "2.19",
+     "title": "2.19",
+     "segments": 2
+    },
+    {
+     "file": "0060.json",
+     "ref": "2.20",
+     "title": "2.20",
+     "segments": 3
+    },
+    {
+     "file": "0061.json",
+     "ref": "2.21",
+     "title": "2.21",
+     "segments": 3
+    },
+    {
+     "file": "0062.json",
+     "ref": "2.22",
+     "title": "2.22",
+     "segments": 3
+    },
+    {
+     "file": "0063.json",
+     "ref": "2.23",
+     "title": "2.23",
+     "segments": 4
+    },
+    {
+     "file": "0064.json",
+     "ref": "2.24",
+     "title": "2.24",
+     "segments": 3
+    },
+    {
+     "file": "0065.json",
+     "ref": "2.25",
+     "title": "2.25",
+     "segments": 4
+    },
+    {
+     "file": "0066.json",
+     "ref": "2.26",
+     "title": "2.26",
+     "segments": 2
+    },
+    {
+     "file": "0067.json",
+     "ref": "2.27",
+     "title": "2.27",
+     "segments": 2
+    },
+    {
+     "file": "0068.json",
+     "ref": "2.28",
+     "title": "2.28",
+     "segments": 4
+    },
+    {
+     "file": "0069.json",
+     "ref": "2.29",
+     "title": "2.29",
+     "segments": 4
+    },
+    {
+     "file": "0070.json",
+     "ref": "2.30",
+     "title": "2.30",
+     "segments": 2
+    },
+    {
+     "file": "0071.json",
+     "ref": "2.31",
+     "title": "2.31",
+     "segments": 4
+    },
+    {
+     "file": "0072.json",
+     "ref": "2.32",
+     "title": "2.32",
+     "segments": 2
+    },
+    {
+     "file": "0073.json",
+     "ref": "2.33",
+     "title": "2.33",
+     "segments": 3
+    },
+    {
+     "file": "0074.json",
+     "ref": "2.34",
+     "title": "2.34",
+     "segments": 2
+    },
+    {
+     "file": "0075.json",
+     "ref": "2.35",
+     "title": "2.35",
+     "segments": 2
+    },
+    {
+     "file": "0076.json",
+     "ref": "2.36",
+     "title": "2.36",
+     "segments": 2
+    },
+    {
+     "file": "0077.json",
+     "ref": "2.37",
+     "title": "2.37",
+     "segments": 3
+    },
+    {
+     "file": "0078.json",
+     "ref": "2.38",
+     "title": "2.38",
+     "segments": 3
+    },
+    {
+     "file": "0079.json",
+     "ref": "2.39",
+     "title": "2.39",
+     "segments": 3
+    },
+    {
+     "file": "0080.json",
+     "ref": "2.40",
+     "title": "2.40",
+     "segments": 4
+    },
+    {
+     "file": "0081.json",
+     "ref": "2.41",
+     "title": "2.41",
+     "segments": 2
+    },
+    {
+     "file": "0082.json",
+     "ref": "2.42",
+     "title": "2.42",
+     "segments": 3
+    },
+    {
+     "file": "0083.json",
+     "ref": "3.1",
+     "title": "3.1",
+     "segments": 2
+    },
+    {
+     "file": "0084.json",
+     "ref": "3.2.front",
+     "title": "3.2.front",
+     "segments": 1
+    },
+    {
+     "file": "0085.json",
+     "ref": "3.2.2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0086.json",
+     "ref": "3.2.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0087.json",
+     "ref": "3.2.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0088.json",
+     "ref": "3.2.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0089.json",
+     "ref": "3.3",
+     "title": "3.3",
+     "segments": 4
+    },
+    {
+     "file": "0090.json",
+     "ref": "3.4",
+     "title": "3.4",
+     "segments": 3
+    },
+    {
+     "file": "0091.json",
+     "ref": "3.5",
+     "title": "3.5",
+     "segments": 2
+    },
+    {
+     "file": "0092.json",
+     "ref": "3.6",
+     "title": "3.6",
+     "segments": 3
+    },
+    {
+     "file": "0093.json",
+     "ref": "3.7",
+     "title": "3.7",
+     "segments": 3
+    },
+    {
+     "file": "0094.json",
+     "ref": "3.8",
+     "title": "3.8",
+     "segments": 2
+    },
+    {
+     "file": "0095.json",
+     "ref": "3.9",
+     "title": "3.9",
+     "segments": 2
+    },
+    {
+     "file": "0096.json",
+     "ref": "3.10",
+     "title": "3.10",
+     "segments": 5
+    },
+    {
+     "file": "0097.json",
+     "ref": "3.11",
+     "title": "3.11",
+     "segments": 2
+    },
+    {
+     "file": "0098.json",
+     "ref": "3.12",
+     "title": "3.12",
+     "segments": 5
+    },
+    {
+     "file": "0099.json",
+     "ref": "3.13",
+     "title": "3.13",
+     "segments": 2
+    },
+    {
+     "file": "0100.json",
+     "ref": "3.14",
+     "title": "3.14",
+     "segments": 3
+    },
+    {
+     "file": "0101.json",
+     "ref": "3.15",
+     "title": "3.15",
+     "segments": 2
+    },
+    {
+     "file": "0102.json",
+     "ref": "3.16",
+     "title": "3.16",
+     "segments": 2
+    },
+    {
+     "file": "0103.json",
+     "ref": "3.17",
+     "title": "3.17",
+     "segments": 2
+    },
+    {
+     "file": "0104.json",
+     "ref": "3.18",
+     "title": "3.18",
+     "segments": 3
+    },
+    {
+     "file": "0105.json",
+     "ref": "3.19",
+     "title": "3.19",
+     "segments": 3
+    },
+    {
+     "file": "0106.json",
+     "ref": "3.20",
+     "title": "3.20",
+     "segments": 4
+    },
+    {
+     "file": "0107.json",
+     "ref": "3.21",
+     "title": "3.21",
+     "segments": 3
+    },
+    {
+     "file": "0108.json",
+     "ref": "3.22",
+     "title": "3.22",
+     "segments": 2
+    },
+    {
+     "file": "0109.json",
+     "ref": "3.23",
+     "title": "3.23",
+     "segments": 2
+    },
+    {
+     "file": "0110.json",
+     "ref": "3.24",
+     "title": "3.24",
+     "segments": 2
+    },
+    {
+     "file": "0111.json",
+     "ref": "3.25",
+     "title": "3.25",
+     "segments": 5
+    },
+    {
+     "file": "0112.json",
+     "ref": "3.26",
+     "title": "3.26",
+     "segments": 2
+    },
+    {
+     "file": "0113.json",
+     "ref": "3.27",
+     "title": "3.27",
+     "segments": 2
+    },
+    {
+     "file": "0114.json",
+     "ref": "3.28",
+     "title": "3.28",
+     "segments": 2
+    },
+    {
+     "file": "0115.json",
+     "ref": "3.29",
+     "title": "3.29",
+     "segments": 4
+    },
+    {
+     "file": "0116.json",
+     "ref": "3.30",
+     "title": "3.30",
+     "segments": 3
+    },
+    {
+     "file": "0117.json",
+     "ref": "3.31",
+     "title": "3.31",
+     "segments": 3
+    },
+    {
+     "file": "0118.json",
+     "ref": "3.32",
+     "title": "3.32",
+     "segments": 2
+    },
+    {
+     "file": "0119.json",
+     "ref": "3.33",
+     "title": "3.33",
+     "segments": 2
+    },
+    {
+     "file": "0120.json",
+     "ref": "3.34",
+     "title": "3.34",
+     "segments": 6
+    },
+    {
+     "file": "0121.json",
+     "ref": "3.35",
+     "title": "3.35",
+     "segments": 4
+    },
+    {
+     "file": "0122.json",
+     "ref": "3.36",
+     "title": "3.36",
+     "segments": 5
+    },
+    {
+     "file": "0123.json",
+     "ref": "3.37",
+     "title": "3.37",
+     "segments": 3
+    },
+    {
+     "file": "0124.json",
+     "ref": "4.1",
+     "title": "4.1",
+     "segments": 4
+    },
+    {
+     "file": "0125.json",
+     "ref": "4.2",
+     "title": "4.2",
+     "segments": 2
+    },
+    {
+     "file": "0126.json",
+     "ref": "4.3",
+     "title": "4.3",
+     "segments": 4
+    },
+    {
+     "file": "0127.json",
+     "ref": "4.4",
+     "title": "4.4",
+     "segments": 3
+    },
+    {
+     "file": "0128.json",
+     "ref": "4.5",
+     "title": "4.5",
+     "segments": 4
+    },
+    {
+     "file": "0129.json",
+     "ref": "4.6",
+     "title": "4.6",
+     "segments": 3
+    },
+    {
+     "file": "0130.json",
+     "ref": "4.7",
+     "title": "4.7",
+     "segments": 17
+    },
+    {
+     "file": "0131.json",
+     "ref": "4.8",
+     "title": "4.8",
+     "segments": 2
+    },
+    {
+     "file": "0132.json",
+     "ref": "4.9",
+     "title": "4.9",
+     "segments": 3
+    },
+    {
+     "file": "0133.json",
+     "ref": "4.10",
+     "title": "4.10",
+     "segments": 3
+    },
+    {
+     "file": "0134.json",
+     "ref": "4.11",
+     "title": "4.11",
+     "segments": 2
+    },
+    {
+     "file": "0135.json",
+     "ref": "4.12",
+     "title": "4.12",
+     "segments": 3
+    },
+    {
+     "file": "0136.json",
+     "ref": "4.13",
+     "title": "4.13",
+     "segments": 3
+    },
+    {
+     "file": "0137.json",
+     "ref": "4.14",
+     "title": "4.14",
+     "segments": 3
+    },
+    {
+     "file": "0138.json",
+     "ref": "4.15",
+     "title": "4.15",
+     "segments": 3
+    },
+    {
+     "file": "0139.json",
+     "ref": "4.16",
+     "title": "4.16",
+     "segments": 2
+    },
+    {
+     "file": "0140.json",
+     "ref": "4.17",
+     "title": "4.17",
+     "segments": 2
+    },
+    {
+     "file": "0141.json",
+     "ref": "4.18",
+     "title": "4.18",
+     "segments": 5
+    },
+    {
+     "file": "0142.json",
+     "ref": "4.19",
+     "title": "4.19",
+     "segments": 2
+    },
+    {
+     "file": "0143.json",
+     "ref": "4.20",
+     "title": "4.20",
+     "segments": 10
+    },
+    {
+     "file": "0144.json",
+     "ref": "4.21",
+     "title": "4.21",
+     "segments": 10
+    },
+    {
+     "file": "0145.json",
+     "ref": "4.22",
+     "title": "4.22",
+     "segments": 2
+    },
+    {
+     "file": "0146.json",
+     "ref": "4.23",
+     "title": "4.23",
+     "segments": 2
+    },
+    {
+     "file": "0147.json",
+     "ref": "4.24",
+     "title": "4.24",
+     "segments": 4
+    },
+    {
+     "file": "0148.json",
+     "ref": "4.25",
+     "title": "4.25",
+     "segments": 2
+    },
+    {
+     "file": "0149.json",
+     "ref": "4.26",
+     "title": "4.26",
+     "segments": 5
+    },
+    {
+     "file": "0150.json",
+     "ref": "4.27",
+     "title": "4.27",
+     "segments": 4
+    },
+    {
+     "file": "0151.json",
+     "ref": "4.28",
+     "title": "4.28",
+     "segments": 2
+    },
+    {
+     "file": "0152.json",
+     "ref": "4.29",
+     "title": "4.29",
+     "segments": 4
+    },
+    {
+     "file": "0153.json",
+     "ref": "4.30",
+     "title": "4.30",
+     "segments": 2
+    },
+    {
+     "file": "0154.json",
+     "ref": "4.31",
+     "title": "4.31",
+     "segments": 2
+    },
+    {
+     "file": "0155.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 11
+    },
+    {
+     "file": "0156.json",
+     "ref": "p2",
+     "title": "p2",
+     "segments": 4
+    },
+    {
+     "file": "0157.json",
+     "ref": "p3.front",
+     "title": "p3.front",
+     "segments": 2
+    },
+    {
+     "file": "0158.json",
+     "ref": "p3.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0159.json",
+     "ref": "p3.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0160.json",
+     "ref": "p3.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0161.json",
+     "ref": "p3.4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0162.json",
+     "ref": "p3.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0163.json",
+     "ref": "p3.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0164.json",
+     "ref": "p3.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0165.json",
+     "ref": "p3.8",
+     "title": "8",
+     "segments": 2
+    },
+    {
+     "file": "0166.json",
+     "ref": "p3.9",
+     "title": "9",
+     "segments": 1
+    }
+   ]
+  }
+ ]
+}

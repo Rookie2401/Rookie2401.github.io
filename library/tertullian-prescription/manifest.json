@@ -1,0 +1,886 @@
+{
+ "workId": "tertullian-prescription",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "oehler-1854-praescriptione",
+   "role": "original",
+   "language": "latin",
+   "credit": "De Praescriptionibus Hereticorum, in Quinti Septimii Florentis Tertulliani Quae supersunt omnia, vol. 2, ed. Franz Oehler (Leipzig: T. O. Weigel, 1854). Trustees of Tufts University / Perseus Digital Library, CC BY-SA 4.0; text of F. Oehler (ed.), Tertulliani Quae supersunt omnia, Leipzig 1853-54 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/stoa0275/stoa024/stoa0275.stoa024.opp-lat1.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 67809,
+   "sourceSha256": "bbb5b7f7dc7173c24dd61e4d9d97b7021b8f49ff9f7d49ded95a2997da781b8c",
+   "leftOut": {
+    "bibl": 79,
+    "pb": 40
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 8311,
+    "garbledPerThousand": 0.5,
+    "joinedPerThousand": 0,
+    "numbersPerThousand": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "anf3-holmes-prescription",
+   "role": "english",
+   "language": "english",
+   "credit": "The Prescription Against Heretics, in The Ante-Nicene Fathers, vol. III (American edition, ed. A. Cleveland Coxe), Tertullian, trans. Peter Holmes (Buffalo: Christian Literature Publishing Co., 1885). Wikisource contributors, \"Ante-Nicene Fathers\" (Peter Holmes), en.wikisource.org, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_III/Anti-Marcion/The_Prescription_Against_Heretics",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 147033,
+   "sourceSha256": "06f6238c1856ec3b016d7bfd15133c87c5bf53c9a2ede686863fd2fb1b53bd82",
+   "leftOut": {
+    "note": 464
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter I",
+     "bytes": 2770,
+     "sha256": "05aae0d8e43bbd37f8bfbfa3d54d59f49f886f8f5a85767b83754fb5503c9cbc"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter II",
+     "bytes": 2694,
+     "sha256": "06a4f09f9266720eeacd3b8935a76f33c13eb6c89f7d756f9a7ae13a5ff8b284"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter III",
+     "bytes": 4572,
+     "sha256": "cf7d9515bf824813377ef0147dd6fe12cc60225472c11c2d8319db16a4e2e60c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter IV",
+     "bytes": 2792,
+     "sha256": "3255b5a232ea550b5cd2594c4838c3c4fe45afc84003ccc630d86e9e9813f0df"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter V",
+     "bytes": 2144,
+     "sha256": "4a02784f61fb581bbe20205f3601ea833d127fd73e070503082006f49e2bb43c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter VI",
+     "bytes": 3223,
+     "sha256": "22bf999c7a1b9700ff028a02d8146df5ed841d35dc252f3838f225553d87d1dd"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter VII",
+     "bytes": 5159,
+     "sha256": "fd9df5d86bdeed65bb176892c8414c35ce2525144f89cc65f76a67e0a05d1d4e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter VIII",
+     "bytes": 5048,
+     "sha256": "06d0e77fea2f3f2a3dfafb0d23bc8c781bb4a51452df383b401f0fe5d5fee9a6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter IX",
+     "bytes": 2972,
+     "sha256": "5432f09d319df6e24c5039f8c031ccb5ffbe7eb13417515724ff870c74b8d179"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter X",
+     "bytes": 3840,
+     "sha256": "2bd4be002e93e2552eac21db36a774fe5588178956193fcac44ab41c09875cd1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XI",
+     "bytes": 2467,
+     "sha256": "372c819b2f0544d123966dfb0b13589884fcf773612c7417633aef70817890e1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XII",
+     "bytes": 1929,
+     "sha256": "bb5108bf8f0e3402a74aad94ab01c1040a0de2d6c7448987516b031f70571f39"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XIII",
+     "bytes": 2607,
+     "sha256": "53e7ad2e8a03423e81c9f949516c2f84b5107f953d16082e12b8d6a789f81a1d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XIV",
+     "bytes": 4905,
+     "sha256": "ef71f7ee28cb3e7e607609fb105afd7b41bb04fdd1cc5432ba928dca35c83de9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XV",
+     "bytes": 1612,
+     "sha256": "dece8197020136f474d7adaf0d68a45cf6500daab7270f3b40048d6be420efdc"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XVI",
+     "bytes": 1828,
+     "sha256": "374119142a426a8db36a00196f9f8ab44e555927e6612bbf87c34800e3947544"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XVII",
+     "bytes": 1704,
+     "sha256": "916171c782ceede0724e32e04898915671ab05e2b1a23337b569e4c0b16cfc46"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XVIII",
+     "bytes": 1516,
+     "sha256": "1ef5e7db167069c0bc657e16c06bb81f71481da94fb641f34545edd81f9d6955"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XIX",
+     "bytes": 1544,
+     "sha256": "d2361546caf4f66ca7172779ffc8b76ff4efad68e875385c92edab55d8c37c62"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XX",
+     "bytes": 3347,
+     "sha256": "b82bada56309cd676759435a744ed9181453b21acac83a4729b2ff2a53225a27"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XXI",
+     "bytes": 2585,
+     "sha256": "c23d4d58477fd1d815ddf2d3c6a47e88961c1e5ae3ee64855b42d7af8238de37"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XXII",
+     "bytes": 4448,
+     "sha256": "1254761933e66370252ae1c53b736bd0e152d50e1ac244b168088d02b46508ed"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XXIII",
+     "bytes": 3668,
+     "sha256": "f9a9d45627ba3fe32b7c194a1185b4ba274545cff0dd880446d760bb86a7cf1d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XXIV",
+     "bytes": 2675,
+     "sha256": "088dfa7a4ab0d610a4ca8240f65b9fbf470a803f86c5c9c492eb67cdcc799217"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XXV",
+     "bytes": 3462,
+     "sha256": "6fbe0d0c8aba2c6d29edee4209da32ac906a820fcedb713347eb37a13f559245"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XXVI",
+     "bytes": 3794,
+     "sha256": "16e1edb79ef0dbf40f3fbb29e3af422fa7acb5ebf0b271b9b3f85cb61a0917fa"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XXVII",
+     "bytes": 2255,
+     "sha256": "4064f88c9cb565d32b39b44ae920de32b62a33279a00e16401e9bb7e521bad7d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XXVIII",
+     "bytes": 1823,
+     "sha256": "12a6d2b648cef7b4991b676513f4086d2563fcabc1c16af4c39bcefa5a79467e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XXIX",
+     "bytes": 2426,
+     "sha256": "72812f5fff5388bf3fd0860b4d08c46994b2f5617ab107408f0c1af69643d27c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XXX",
+     "bytes": 5883,
+     "sha256": "370900bd5ab5c149f180216f0244f1f59dfcf890e48db730586c8523f647d0f7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XXXI",
+     "bytes": 1628,
+     "sha256": "2d9158e3f428f8cf02ea16b7ce81ddef5d7edc463fc14752cbb15e3eab8b3bdb"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XXXII",
+     "bytes": 3870,
+     "sha256": "ba290edc6b7bf6cb5cf4d4f583650ffa372dfef344fe7357a92cec15f7ecb478"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XXXIII",
+     "bytes": 4018,
+     "sha256": "66469a1c8bf5322a478914bc5df3dda148420132c2c79b1e0379bed88c86c1f5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XXXIV",
+     "bytes": 3785,
+     "sha256": "398b71eb6251548ea0d51118a16e0d4ac0e8657981cc20eb7f4f06410250fefa"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XXXV",
+     "bytes": 1755,
+     "sha256": "91bef0c3c77a0633f3c1a1873ffb56d0bbee3a6a243930aec83e8051ded99fbb"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XXXVI",
+     "bytes": 4372,
+     "sha256": "0dca8029012e11e5d672c632bd62e4add49a515649eb6148547402b0e09f2826"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XXXVII",
+     "bytes": 3181,
+     "sha256": "8ccf18239c7b76725ce9fa559aeb3d83e25b5081f0483d7743915a11ed903bdb"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XXXVIII",
+     "bytes": 3967,
+     "sha256": "13d9dd34e390c1513862d3e14636dd416a6c3a5258df98a0f7fe2c9f786224c4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XXXIX",
+     "bytes": 2715,
+     "sha256": "561811fb6646af720cb21ab7beaa32b0eb7f340b75f963eba472df5f8b95053e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XL",
+     "bytes": 4225,
+     "sha256": "853245c1feb5cfd8cfa70b477d839dacdfc1f3c9357f9c34530aa41a74d85798"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XLI",
+     "bytes": 2855,
+     "sha256": "6f4f54b883c77d4468dffcf79b1bfa068697dde7b1237ee6e051a75ec7218d06"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XLII",
+     "bytes": 3054,
+     "sha256": "ca8076d556aa18bdeee242d16f2b1668677546eb6103c6fcc6e62ec085fc0d53"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XLIII",
+     "bytes": 2225,
+     "sha256": "5fdd8770fdda3aa83be3d7128eb4be6ed7cbb2281f29733653d1c4bd8da615c1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Chapter XLIV",
+     "bytes": 5022,
+     "sha256": "214a0da4281484560c72a8be7985e4ab5bfc8c13d012316749d4ae6de0fe79e0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Prescription Against Heretics/Elucidations",
+     "bytes": 8669,
+     "sha256": "d41876e8392caf239a00c5df1696e9d446715ede96bda009664a8c0f5d90829c"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 5
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 3
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 3
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "p1.front",
+     "title": "p1.front",
+     "segments": 17
+    },
+    {
+     "file": "0046.json",
+     "ref": "p1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "p1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0048.json",
+     "ref": "p1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0049.json",
+     "ref": "p1.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "p1.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "p1.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0052.json",
+     "ref": "p1.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0053.json",
+     "ref": "p1.8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "p1.9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "p1.10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "p1.11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0057.json",
+     "ref": "p1.12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0058.json",
+     "ref": "p1.13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0059.json",
+     "ref": "p1.14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0060.json",
+     "ref": "p1.15",
+     "title": "15",
+     "segments": 4
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 41,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 4
+ }
+}

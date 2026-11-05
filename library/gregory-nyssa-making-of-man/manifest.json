@@ -1,0 +1,546 @@
+{
+ "workId": "gregory-nyssa-making-of-man",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "gregory-nyssa-making-of-man-npnf2-5-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "On the Making of Man, in A Select Library of Nicene and Post-Nicene Fathers of the Christian Church, Second Series, vol. V: Gregory of Nyssa, Dogmatic Treatises; Select Writings and Letters (American edition; ed. Philip Schaff and Henry Wace), trans. William Moore and Henry Austin Wilson (the title page names both; it does not say which of them translated each treatise) (New York: The Christian Literature Company, 1893). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers, Series II), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_V/Philosophical_Works/The_Making_of_Man",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 258652,
+   "sourceSha256": "cc8651347496910da2fb0748c42e32b0f9dafedfef3643314a5aa2a9702e9145",
+   "leftOut": {
+    "note": 160
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 1",
+     "bytes": 8850,
+     "sha256": "5aca4c52a88840d96d69c6583c9089f931df4700dcc08795b2a1d93fbed4a5ce"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 2",
+     "bytes": 8273,
+     "sha256": "bbe3e5d34cd1f6f6a832c128b87e93e373ca6dae49e4d29609282c5c1f741039"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 3",
+     "bytes": 3578,
+     "sha256": "1fcc65028d614f0e9f628a68332a99585d7a0a6fa4421801087c4b389ac7fe55"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 4",
+     "bytes": 3073,
+     "sha256": "41c665bc0f78b7f6450d5500ce2f1b4963c48d7b2645256894af7cb427d8f019"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 5",
+     "bytes": 3191,
+     "sha256": "36fb1b998b1bef2b09a9a344205e0d18bd59c92043d01cabb5bcb42436c82971"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 6",
+     "bytes": 3752,
+     "sha256": "78b21658fae5db846ed15f6c9aaebbbad9c7e8bddee1cec3490100871782767a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 7",
+     "bytes": 4178,
+     "sha256": "185d0661ba5d58555123381838e504ca1f9efd7ed1e0df59546605d3a06c24cd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 8",
+     "bytes": 5569,
+     "sha256": "e3b8fdfa44b689a717660b2423fdfeada7e979dc8f3bd6f15149d2c965fd1497"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 9",
+     "bytes": 13076,
+     "sha256": "4066db137a1f909858bc5e986c5f1cf1309b6e26347326c812d53a0376b9e6b7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 10",
+     "bytes": 3796,
+     "sha256": "0fb595b670ba7f483019b661d6f348ab436d25b35d9fc7d9f6808f2e237211f7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 11",
+     "bytes": 5906,
+     "sha256": "162b2f4b14eb4dfd15c008db0190f6ce535453468282b2cdfa7d96ad60fce89a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 12",
+     "bytes": 3701,
+     "sha256": "503a02eb94a60b79c0733766f938fb96a9364de19f8f62eec75d98f42f929a62"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 13",
+     "bytes": 18290,
+     "sha256": "40016eb2ab8ab3e09516f186fea5f2787fa339caa6ab0fa7ddabd5980bfa8ed9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 14",
+     "bytes": 17716,
+     "sha256": "d612731a304795cb21268a09f5f8133b71f93e92d3edf136f0b61f980b3c4875"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 15",
+     "bytes": 3870,
+     "sha256": "70cb963a6664b301b8809d28ec8b6cee9d46f14ec5a4d7afeec5ecba11e831e9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 16",
+     "bytes": 6083,
+     "sha256": "393d12b055467a16aa8aeded792c2efbb61635b85a5d2047a8f71e75866f49b2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 17",
+     "bytes": 15714,
+     "sha256": "2e664397ff962dda2277a07dde2000a33a22bbc8c15cd2c355e687f256c13d8c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 18",
+     "bytes": 7012,
+     "sha256": "0447267b3075be44f01911369e884824150199b52a1f31d122df9ffe184ec9b6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 19",
+     "bytes": 8177,
+     "sha256": "1c264daffe64f2fd9eb867911fcec425d2a358652d3f6bbf82577116a80d78d8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 20",
+     "bytes": 4938,
+     "sha256": "265fb1e499e344fd1c7c7a9b22dc4521ec87861cade55dad744480baca77373d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 21",
+     "bytes": 6870,
+     "sha256": "c81cc59bcd9ee6cf119466e7509f84abab9a08723945167ce315c1b29b496bfd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 22",
+     "bytes": 4344,
+     "sha256": "a16449295b29053115c781b14dc4cefa9e200cd24879571612fc579ce14c1425"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 23",
+     "bytes": 11484,
+     "sha256": "cad4c5947b107717fd71cf5e8b3f253def838dd092c89e746d3281cab8e26c70"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 24",
+     "bytes": 6883,
+     "sha256": "11cc63c8e7118adcf349babbb66c0d1791a0c7395ce7a17acc90a8605ac2d9fd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 25",
+     "bytes": 4074,
+     "sha256": "f7b90e5bcbdad3f926700cfa77f00dd5abd45a7d5d557120f3722e0be7d75766"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 26",
+     "bytes": 16856,
+     "sha256": "3dc94db14f77970b3d5ac965e1ec054ba41ed714a415dd43550767b43d957529"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 27",
+     "bytes": 3543,
+     "sha256": "c0fdfe8b3266abd92ec78e2497f97c416e3a060b54ac07f643e93c3bdfac6532"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 28",
+     "bytes": 8502,
+     "sha256": "cbc1f3c9dabfc9bb779ecab1871b25afbd6f54722b5fc43376058d70b56db9e5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 29",
+     "bytes": 8622,
+     "sha256": "74644433ab0d37fa559ead2b7087106145e090e850bf8946681859d6bd0cfea2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 30",
+     "bytes": 10879,
+     "sha256": "9cbea46dd1f3fdb1a31a37cfae00eada81f8e133986fcbe3756e10c3e37b80b3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/The Making of Man/On the Making of Man/Chapter 31",
+     "bytes": 27852,
+     "sha256": "b0ef8670e8778b877f63025dbd1bde9fc2be5ef4d263d567d3493ba3f1447b40"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.front",
+     "title": "1.front",
+     "segments": 5
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.29",
+     "title": "29",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.30",
+     "title": "30",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 6
+    },
+    {
+     "file": "0033.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 3
+    },
+    {
+     "file": "0034.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 3
+    },
+    {
+     "file": "0035.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 3
+    },
+    {
+     "file": "0037.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 4
+    },
+    {
+     "file": "0038.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 4
+    },
+    {
+     "file": "0039.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 9
+    },
+    {
+     "file": "0040.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 4
+    },
+    {
+     "file": "0041.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 8
+    },
+    {
+     "file": "0042.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 5
+    },
+    {
+     "file": "0043.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 15
+    },
+    {
+     "file": "0044.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 18
+    },
+    {
+     "file": "0045.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 4
+    },
+    {
+     "file": "0046.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 4
+    },
+    {
+     "file": "0047.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 19
+    },
+    {
+     "file": "0048.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 6
+    },
+    {
+     "file": "0049.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 10
+    },
+    {
+     "file": "0050.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 6
+    },
+    {
+     "file": "0051.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 6
+    },
+    {
+     "file": "0052.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 5
+    },
+    {
+     "file": "0053.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 9
+    },
+    {
+     "file": "0054.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 6
+    },
+    {
+     "file": "0055.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 4
+    },
+    {
+     "file": "0056.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 14
+    },
+    {
+     "file": "0057.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 3
+    },
+    {
+     "file": "0058.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 10
+    },
+    {
+     "file": "0059.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 9
+    },
+    {
+     "file": "0060.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 12
+    },
+    {
+     "file": "0061.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 35
+    }
+   ]
+  }
+ ]
+}

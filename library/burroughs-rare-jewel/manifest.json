@@ -1,0 +1,329 @@
+{
+ "workId": "burroughs-rare-jewel",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "burroughs-rare-jewel-1649-tcp-a30598",
+   "role": "english",
+   "language": "english",
+   "credit": "The rare jewel of Christian contentment, in EEBO-TCP text A30598 (STC Wing B6103; STC) (London: Printed for Peter Cole ..., 1649). Transcription: Text Creation Partnership (EEBO-TCP Phase I), keyboarded from images of the original (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A30598/master/A30598.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 768603,
+   "sourceSha256": "2aa54326f7373c476fcaf562c1cebf6b18687052079a0897b1419c435575ce36",
+   "leftOut": {
+    "pb": 244,
+    "note": 12,
+    "unread": 25
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 102705,
+    "unreadPerThousand": 0.2
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "To the READER.",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.0",
+     "title": "THE RARE JEWEL OF CHRISTIAN Contentment.",
+     "segments": 51
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.1",
+     "title": "SERMON II.",
+     "segments": 19
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.2",
+     "title": "SERMON III.",
+     "segments": 28
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.3",
+     "title": "SERMON IV.",
+     "segments": 23
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.4",
+     "title": "SERMON V.",
+     "segments": 26
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.5.0",
+     "title": "SERMON VI.",
+     "segments": 12
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.5.1",
+     "title": "Now, thus having diſpach'd the Third Head, the Leſſons that we are to learn; we come to the Fourth, and that is, The excellency of this Grace of Contentment: And there is a great deal of excellencie i",
+     "segments": 24
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.6",
+     "title": "SERMON VII.",
+     "segments": 41
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.7",
+     "title": "SERMON VIII.",
+     "segments": 29
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.8.0",
+     "title": "SERMON IX.",
+     "segments": 17
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.8.1",
+     "title": "The Pleas of a diſcontented heart.",
+     "segments": 4
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.8.2",
+     "title": "The Second Plea.",
+     "segments": 7
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.8.3",
+     "title": "The Third Plea.",
+     "segments": 4
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.9.0",
+     "title": "SERMON X.",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.9.1",
+     "title": "The Fourth Plea.",
+     "segments": 4
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.9.2",
+     "title": "A Fifth Plea.",
+     "segments": 3
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.9.3",
+     "title": "The Sixth Plea.",
+     "segments": 4
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.9.4",
+     "title": "A Seventh Plea.",
+     "segments": 5
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.9.5",
+     "title": "An Eighth Plea.",
+     "segments": 5
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.9.6",
+     "title": "A Ninth Plea.",
+     "segments": 9
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.9.7",
+     "title": "A Tenth Plea.",
+     "segments": 4
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.9.8",
+     "title": "A Eleventh Plea.",
+     "segments": 3
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.9.9",
+     "title": "A Twelfth Plea.",
+     "segments": 4
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.9.10",
+     "title": "A Thirteenth Plea.",
+     "segments": 3
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.10.0",
+     "title": "SERMON XI.",
+     "segments": 4
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.10.1",
+     "title": "The Firſt Conſideration.",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.10.2",
+     "title": "The Second Conſideration.",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.10.3",
+     "title": "A Third Conſideration.",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.10.4",
+     "title": "A Fourth Conſideration.",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.10.5",
+     "title": "A Fifth Conſideration.",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.10.6",
+     "title": "A Sixth Conſideration.",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.10.7",
+     "title": "A Seventh Conſideration is this.",
+     "segments": 4
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.10.8",
+     "title": "The Eighth Conſideration.",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.10.9",
+     "title": "The Ninth Conſideration.",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.10.10",
+     "title": "The Tenth Conſideration.",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.10.11",
+     "title": "The Firſt Direction.",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.10.12",
+     "title": "The Second Direction.",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.10.13",
+     "title": "The Third Direction.",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.10.14",
+     "title": "The Fourth Direction.",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.10.15",
+     "title": "The Fifth Direction.",
+     "segments": 3
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.10.16",
+     "title": "The Sixth Direction.",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.10.17",
+     "title": "The Seventh Direction.",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "1.10.18",
+     "title": "The Eighth Direction.",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "1.10.19",
+     "title": "The Ninth Direction.",
+     "segments": 1
+    },
+    {
+     "file": "0046.json",
+     "ref": "1.10.20",
+     "title": "The Tenth Direction.",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "1.10.21",
+     "title": "The Eleventh Direction.",
+     "segments": 1
+    },
+    {
+     "file": "0048.json",
+     "ref": "1.10.22",
+     "title": "The Twelfth Direction.",
+     "segments": 3
+    },
+    {
+     "file": "0049.json",
+     "ref": "1.end",
+     "title": "1.end",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "2",
+     "title": "THE SAINTS DVTY IN TIMES OF EXTREMITY.",
+     "segments": 49
+    }
+   ]
+  }
+ ]
+}

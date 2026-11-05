@@ -1,0 +1,81 @@
+{
+ "workId": "septuagint-hag",
+ "parallel": "segment",
+ "editions": [
+  {
+   "editionId": "brenton-greek-hag",
+   "role": "original",
+   "language": "greek",
+   "credit": "The Septuagint Version of the Old Testament, with an English Translation … and the Apocrypha (the Greek according to the Vatican text), ed. Lancelot Charles Lee Brenton (London: Samuel Bagster and Sons, 1851). Transcription: eBible.org (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://ebible.org/Scriptures/grcbrent_usfx.zip",
+   "sourceMember": "grcbrent_usfx.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1816960,
+   "sourceSha256": "ff88d6bdd6f21f279b24fe7ebcefd7747991cc24f232df95a676c5609fc25356",
+   "leftOut": {
+    "id": 52,
+    "toc": 108,
+    "s": 1
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 947,
+    "barePerThousand": 7,
+    "digitWords": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "HAG.1",
+     "title": "Haggai 1",
+     "segments": 15
+    },
+    {
+     "file": "0002.json",
+     "ref": "HAG.2",
+     "title": "Haggai 2",
+     "segments": 23
+    }
+   ]
+  },
+  {
+   "editionId": "brenton-english-hag",
+   "role": "english",
+   "language": "english",
+   "credit": "The Septuagint Version of the Old Testament, with an English Translation … and the Apocrypha, trans. Lancelot Charles Lee Brenton (London: Samuel Bagster and Sons, 1851). Transcription: eBible.org (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://ebible.org/Scriptures/eng-Brenton_usfx.zip",
+   "sourceMember": "eng-Brenton_usfx.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1548145,
+   "sourceSha256": "363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554",
+   "leftOut": {
+    "id": 60,
+    "toc": 179,
+    "f": 2600,
+    "x": 150
+   },
+   "segmentRefs": "citation",
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "HAG.1",
+     "title": "Haggai 1",
+     "segments": 15
+    },
+    {
+     "file": "0002.json",
+     "ref": "HAG.2",
+     "title": "Haggai 2",
+     "segments": 23
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "divisionOnly": [],
+  "missingInOriginal": [],
+  "missingInEnglish": []
+ }
+}

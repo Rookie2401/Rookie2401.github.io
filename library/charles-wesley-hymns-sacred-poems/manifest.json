@@ -1,0 +1,868 @@
+{
+ "workId": "charles-wesley-hymns-sacred-poems",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "wesley-hymns-sacred-poems-london-1739-tcp",
+   "role": "english",
+   "language": "english",
+   "credit": "Hymns and sacred poems: Published by John Wesley, ... and Charles Wesley, ..., in Text Creation Partnership K034809.000 (London: William Strahan (printer); James Hutton (seller), 1739). Transcription: Text Creation Partnership (EEBO/Evans/ECCO-TCP), keyed and encoded from page images of the printing named in the header (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/K034809.000/master/K034809.000.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 452362,
+   "sourceSha256": "284da497862ce8810e48dd87225976904b3ca3517184261144dcabdbc6564f5d",
+   "leftOut": {
+    "pb": 235,
+    "unread": 4
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 34851,
+    "unreadPerThousand": 0.1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "THE PREFACE.",
+     "segments": 6
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.1",
+     "title": "EUPOLIS' Hymn to the Creator.",
+     "segments": 15
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.2",
+     "title": "SOLITUDE. From the Latin.",
+     "segments": 4
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.3",
+     "title": "The Myſtery of Life.",
+     "segments": 8
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.4",
+     "title": "EPITAPH.",
+     "segments": 10
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.5",
+     "title": "VIRTUE. Altered from Herbert.",
+     "segments": 4
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.6",
+     "title": "Upon liſt'ning to the Vibrations of a Clock.",
+     "segments": 10
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.7",
+     "title": "DOOMSDAY. From Herbert.",
+     "segments": 5
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.8",
+     "title": "SPIRITUAL SLUMBER. From the German.",
+     "segments": 6
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.9",
+     "title": "ZEAL.",
+     "segments": 16
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.10",
+     "title": "On Reading Monſr. de RENTY's Life.",
+     "segments": 21
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.11",
+     "title": "VANITY. From Herbert.",
+     "segments": 4
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.12",
+     "title": "FAREWELL to the WORLD. From the French.",
+     "segments": 6
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.13",
+     "title": "GIDDINESS. From Herbert.",
+     "segments": 7
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.14",
+     "title": "To a FRIEND in LOVE.",
+     "segments": 5
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.15",
+     "title": "1 TIM. v. 6. She that liveth in Pleaſure, is Dead while She liveth.",
+     "segments": 4
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.16",
+     "title": "JOHN xv. 18, 19.",
+     "segments": 11
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.17",
+     "title": "HYMN to CONTEMPT.",
+     "segments": 12
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.18",
+     "title": "The AGONY. From Herbert.",
+     "segments": 3
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.19",
+     "title": "The THANKSGIVING. From the ſame.",
+     "segments": 6
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.20",
+     "title": "The REPRIZAL. From the ſame.",
+     "segments": 3
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.21",
+     "title": "MATTINS. From the ſame.",
+     "segments": 5
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.22",
+     "title": "EMPLOYMENT. From the ſame.",
+     "segments": 5
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.23",
+     "title": "The ELIXIR. From the ſame.",
+     "segments": 6
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.24",
+     "title": "GRACE before MEAT.",
+     "segments": 4
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.25",
+     "title": "Another.",
+     "segments": 8
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.26",
+     "title": "GRACE after MEAT.",
+     "segments": 5
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.27",
+     "title": "On CLEMENS ALEXANDRINUS'S Deſcription of a Perfect Chriſtian.",
+     "segments": 8
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.28",
+     "title": "AFFLICTION. From Herbert.",
+     "segments": 8
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.29",
+     "title": "FRAILTY. From the ſame.",
+     "segments": 3
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.30",
+     "title": "The COLLAR. From the ſame.",
+     "segments": 9
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.31",
+     "title": "GRACE. From the ſame.",
+     "segments": 6
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.32",
+     "title": "GRATEFULNESS. From the ſame.",
+     "segments": 7
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.33",
+     "title": "The METHOD. From the ſame.",
+     "segments": 6
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.34",
+     "title": "Grieve not the HOLY SPIRIT. From the ſame.",
+     "segments": 5
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.35",
+     "title": "The SIGH. From the ſame.",
+     "segments": 3
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.36",
+     "title": "The FLOWER. From the ſame.",
+     "segments": 8
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.37",
+     "title": "DESERTION. From the ſame.",
+     "segments": 6
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.38",
+     "title": "A TRUE HYMN. From the ſame.",
+     "segments": 4
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.39",
+     "title": "The TEMPER. From the ſame.",
+     "segments": 6
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.40",
+     "title": "The ſame.",
+     "segments": 4
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.41",
+     "title": "BITTER-SWEET. From the ſame.",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.42",
+     "title": "A HYMN for MIDNIGHT.",
+     "segments": 6
+    },
+    {
+     "file": "0044.json",
+     "ref": "1.43",
+     "title": "After conſidering ſome of his Friends.",
+     "segments": 9
+    },
+    {
+     "file": "0045.json",
+     "ref": "1.44",
+     "title": "RELIGIOUS DISCOURSE.",
+     "segments": 16
+    },
+    {
+     "file": "0046.json",
+     "ref": "1.45",
+     "title": "MAN'S MEDLEY. From Herbert.",
+     "segments": 6
+    },
+    {
+     "file": "0047.json",
+     "ref": "1.46",
+     "title": "MISERY. From the ſame.",
+     "segments": 12
+    },
+    {
+     "file": "0048.json",
+     "ref": "1.47",
+     "title": "The SINNER. From the ſame.",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "1.48",
+     "title": "REPENTANCE. From the ſame.",
+     "segments": 5
+    },
+    {
+     "file": "0050.json",
+     "ref": "1.49",
+     "title": "COMPLAINING. From the ſame.",
+     "segments": 4
+    },
+    {
+     "file": "0051.json",
+     "ref": "1.50",
+     "title": "HOME. From the ſame.",
+     "segments": 13
+    },
+    {
+     "file": "0052.json",
+     "ref": "1.51",
+     "title": "LONGING. From the ſame.",
+     "segments": 13
+    },
+    {
+     "file": "0053.json",
+     "ref": "1.52",
+     "title": "The SEARCH. From the ſame.",
+     "segments": 6
+    },
+    {
+     "file": "0054.json",
+     "ref": "1.53",
+     "title": "DISCIPLINE. From the ſame.",
+     "segments": 8
+    },
+    {
+     "file": "0055.json",
+     "ref": "1.54",
+     "title": "DIVINE LOVE. From the German.",
+     "segments": 8
+    },
+    {
+     "file": "0056.json",
+     "ref": "1.55",
+     "title": "Written in the Beginning of a Recovery from Sickneſs.",
+     "segments": 8
+    },
+    {
+     "file": "0057.json",
+     "ref": "1.56",
+     "title": "After a Recovery from Sickneſs.",
+     "segments": 17
+    },
+    {
+     "file": "0058.json",
+     "ref": "1.57",
+     "title": "A PRAYER under Convictions.",
+     "segments": 8
+    },
+    {
+     "file": "0059.json",
+     "ref": "1.58",
+     "title": "The 53d Chapter of ISAIAH.",
+     "segments": 15
+    },
+    {
+     "file": "0060.json",
+     "ref": "1.59",
+     "title": "HEB. xii. 2. Looking unto JESUS, the Author and Finiſher of our Faith.",
+     "segments": 6
+    },
+    {
+     "file": "0061.json",
+     "ref": "1.60",
+     "title": "GAL. iii. 22. The Scripture hath concluded all under Sin, that the Promiſe by Faith of JESUS CHRIST might be given to them that believe.",
+     "segments": 13
+    },
+    {
+     "file": "0062.json",
+     "ref": "1.61",
+     "title": "Hoping for GRACE. From the German.",
+     "segments": 11
+    },
+    {
+     "file": "0063.json",
+     "ref": "1.62",
+     "title": "The DAWNING. From Herbert.",
+     "segments": 4
+    },
+    {
+     "file": "0064.json",
+     "ref": "1.63",
+     "title": "MATTH. V. 3. Bleſſed are they that mourn.",
+     "segments": 5
+    },
+    {
+     "file": "0065.json",
+     "ref": "1.64",
+     "title": "The CHANGE. From the German.",
+     "segments": 6
+    },
+    {
+     "file": "0066.json",
+     "ref": "2.1",
+     "title": "CHRIST the Friend of Sinners.",
+     "segments": 8
+    },
+    {
+     "file": "0067.json",
+     "ref": "2.2",
+     "title": "On the Converſion of a Common Harlot. LUKE XV. 10. There is Joy in the Preſence of the Angels of GOD over one Sinner that repenteth.",
+     "segments": 7
+    },
+    {
+     "file": "0068.json",
+     "ref": "2.3",
+     "title": "ROM. iv. 5. To him that worketh not, but believeth on Him that juſtifieth the Ungodly, his Faith is counted for Righteouſneſs.",
+     "segments": 5
+    },
+    {
+     "file": "0069.json",
+     "ref": "2.4",
+     "title": "ACTS i. 4. Wait for the Promiſe of the Father, which ye have heard of me.",
+     "segments": 8
+    },
+    {
+     "file": "0070.json",
+     "ref": "2.5",
+     "title": "HYMN of THANKSGIVING to the FATHER.",
+     "segments": 5
+    },
+    {
+     "file": "0071.json",
+     "ref": "2.6",
+     "title": "HYMN to the SON.",
+     "segments": 9
+    },
+    {
+     "file": "0072.json",
+     "ref": "2.7",
+     "title": "HYMN to the HOLY GHOST.",
+     "segments": 11
+    },
+    {
+     "file": "0073.json",
+     "ref": "2.8",
+     "title": "PRAISE. From Herbert.",
+     "segments": 7
+    },
+    {
+     "file": "0074.json",
+     "ref": "2.9",
+     "title": "The GLANCE. From the ſame.",
+     "segments": 6
+    },
+    {
+     "file": "0075.json",
+     "ref": "2.10",
+     "title": "Deſiring to praiſe worthily. From the German.",
+     "segments": 8
+    },
+    {
+     "file": "0076.json",
+     "ref": "2.11",
+     "title": "FREE GRACE.",
+     "segments": 6
+    },
+    {
+     "file": "0077.json",
+     "ref": "2.12",
+     "title": "The CALL. From Herbert.",
+     "segments": 3
+    },
+    {
+     "file": "0078.json",
+     "ref": "2.13",
+     "title": "TRUE PRAISE. From the ſame.",
+     "segments": 5
+    },
+    {
+     "file": "0079.json",
+     "ref": "2.14",
+     "title": "The DIALOGUE. From the ſame.",
+     "segments": 4
+    },
+    {
+     "file": "0080.json",
+     "ref": "2.15",
+     "title": "Subjection to CHRIST. From the German.",
+     "segments": 6
+    },
+    {
+     "file": "0081.json",
+     "ref": "2.16",
+     "title": "Renouncing all for CHRIST. From the French.",
+     "segments": 10
+    },
+    {
+     "file": "0082.json",
+     "ref": "2.17",
+     "title": "The INVITATION. From Herbert.",
+     "segments": 6
+    },
+    {
+     "file": "0083.json",
+     "ref": "2.18",
+     "title": "The BANQUET. From the ſame.",
+     "segments": 7
+    },
+    {
+     "file": "0084.json",
+     "ref": "2.19",
+     "title": "Therefore with Angels, &c.",
+     "segments": 3
+    },
+    {
+     "file": "0085.json",
+     "ref": "2.20",
+     "title": "Glory be to GOD on high, &c.",
+     "segments": 7
+    },
+    {
+     "file": "0086.json",
+     "ref": "2.21",
+     "title": "HYMN to CHRIST. Altered from Dr. Hickes's Reform'd Devotions.",
+     "segments": 6
+    },
+    {
+     "file": "0087.json",
+     "ref": "2.22",
+     "title": "On the CRUCIFIXION.",
+     "segments": 4
+    },
+    {
+     "file": "0088.json",
+     "ref": "2.23",
+     "title": "Part of the LXIII Chapter of ISAIAH, Altered from Mr. Norris.",
+     "segments": 6
+    },
+    {
+     "file": "0089.json",
+     "ref": "2.24",
+     "title": "The MAGNIFICAT.",
+     "segments": 7
+    },
+    {
+     "file": "0090.json",
+     "ref": "2.25",
+     "title": "PSALM XLVI.",
+     "segments": 6
+    },
+    {
+     "file": "0091.json",
+     "ref": "2.26",
+     "title": "PSALM CXIII.",
+     "segments": 5
+    },
+    {
+     "file": "0092.json",
+     "ref": "2.27",
+     "title": "PSALM CXVI.",
+     "segments": 7
+    },
+    {
+     "file": "0093.json",
+     "ref": "2.28",
+     "title": "PSALM CXVII.",
+     "segments": 2
+    },
+    {
+     "file": "0094.json",
+     "ref": "2.29",
+     "title": "PRAYER. From Herbert.",
+     "segments": 7
+    },
+    {
+     "file": "0095.json",
+     "ref": "2.30",
+     "title": "TRUST in PROVIDENCE. From the German.",
+     "segments": 16
+    },
+    {
+     "file": "0096.json",
+     "ref": "2.31",
+     "title": "In AFFLICTION.",
+     "segments": 6
+    },
+    {
+     "file": "0097.json",
+     "ref": "2.32",
+     "title": "In AFFLICTION, or PAIN. From the German.",
+     "segments": 6
+    },
+    {
+     "file": "0098.json",
+     "ref": "2.33",
+     "title": "Another. From the ſame.",
+     "segments": 6
+    },
+    {
+     "file": "0099.json",
+     "ref": "2.34",
+     "title": "In DESERTION or TEMPTATION.",
+     "segments": 14
+    },
+    {
+     "file": "0100.json",
+     "ref": "2.35",
+     "title": "JUSTIFIED, but not SANCTIFIED.",
+     "segments": 9
+    },
+    {
+     "file": "0101.json",
+     "ref": "2.36",
+     "title": "ISAIAH xliii. 1, 2, 3.",
+     "segments": 7
+    },
+    {
+     "file": "0102.json",
+     "ref": "2.37",
+     "title": "The BELIEVER's SUPPORT. From the German.",
+     "segments": 6
+    },
+    {
+     "file": "0103.json",
+     "ref": "2.38",
+     "title": "Living by CHRIST. From the German.",
+     "segments": 16
+    },
+    {
+     "file": "0104.json",
+     "ref": "2.39",
+     "title": "GOD's Love to Mankind. From the ſame.",
+     "segments": 8
+    },
+    {
+     "file": "0105.json",
+     "ref": "2.40",
+     "title": "GOD's Greatneſs. From the ſame.",
+     "segments": 8
+    },
+    {
+     "file": "0106.json",
+     "ref": "2.41",
+     "title": "HYMN on the Titles of CHRIST.",
+     "segments": 15
+    },
+    {
+     "file": "0107.json",
+     "ref": "2.42",
+     "title": "IId HYMN to CHRIST.",
+     "segments": 6
+    },
+    {
+     "file": "0108.json",
+     "ref": "2.43",
+     "title": "IIId HYMN to CHRIST.",
+     "segments": 7
+    },
+    {
+     "file": "0109.json",
+     "ref": "2.44",
+     "title": "HYMN to CHRIST the King.",
+     "segments": 11
+    },
+    {
+     "file": "0110.json",
+     "ref": "2.45",
+     "title": "IId HYMN to CHRIST the King.",
+     "segments": 4
+    },
+    {
+     "file": "0111.json",
+     "ref": "2.46",
+     "title": "The SAVIOUR glorified by All. From the German.",
+     "segments": 13
+    },
+    {
+     "file": "0112.json",
+     "ref": "2.47",
+     "title": "A MORNING HYMN.",
+     "segments": 3
+    },
+    {
+     "file": "0113.json",
+     "ref": "2.48",
+     "title": "A Morning Dedication of ourſelves to CHRIST. From the German.",
+     "segments": 7
+    },
+    {
+     "file": "0114.json",
+     "ref": "2.49",
+     "title": "CHRIST protecting and ſanctifying. From the ſame.",
+     "segments": 6
+    },
+    {
+     "file": "0115.json",
+     "ref": "2.50",
+     "title": "Supplication for Grace. From the ſame.",
+     "segments": 6
+    },
+    {
+     "file": "0116.json",
+     "ref": "2.51",
+     "title": "HYMN to the HOLY GHOST.",
+     "segments": 6
+    },
+    {
+     "file": "0117.json",
+     "ref": "2.52",
+     "title": "On the Deſcent of the HOLY GHOST at Pentecoſt. Altered from Dr. H. More.",
+     "segments": 15
+    },
+    {
+     "file": "0118.json",
+     "ref": "2.53",
+     "title": "PUBLICK WORSHIP. From the German.",
+     "segments": 6
+    },
+    {
+     "file": "0119.json",
+     "ref": "2.54",
+     "title": "Prayer to CHRIST before the Sacrament. From the ſame.",
+     "segments": 3
+    },
+    {
+     "file": "0120.json",
+     "ref": "2.55",
+     "title": "HYMN after the Sacrament.",
+     "segments": 8
+    },
+    {
+     "file": "0121.json",
+     "ref": "2.56",
+     "title": "ACTS ii. 41, &c.",
+     "segments": 7
+    },
+    {
+     "file": "0122.json",
+     "ref": "2.57",
+     "title": "To be ſung at WORK.",
+     "segments": 5
+    },
+    {
+     "file": "0123.json",
+     "ref": "2.58",
+     "title": "Another.",
+     "segments": 4
+    },
+    {
+     "file": "0124.json",
+     "ref": "2.59",
+     "title": "GOD with us. From the German.",
+     "segments": 4
+    },
+    {
+     "file": "0125.json",
+     "ref": "2.60",
+     "title": "GOD our Portion. From the Spaniſh.",
+     "segments": 10
+    },
+    {
+     "file": "0126.json",
+     "ref": "2.61",
+     "title": "GRATITUDE for our CONVERSION. From the German.",
+     "segments": 7
+    },
+    {
+     "file": "0127.json",
+     "ref": "2.62",
+     "title": "BOLDNESS in the GOSPEL. From the ſame.",
+     "segments": 10
+    },
+    {
+     "file": "0128.json",
+     "ref": "2.63",
+     "title": "ACTS iv. 29.",
+     "segments": 8
+    },
+    {
+     "file": "0129.json",
+     "ref": "2.64",
+     "title": "Congratulation to a Friend, upon Believing in CHRIST.",
+     "segments": 13
+    },
+    {
+     "file": "0130.json",
+     "ref": "2.65",
+     "title": "HYMN for CHRISTMAS-DAY.",
+     "segments": 10
+    },
+    {
+     "file": "0131.json",
+     "ref": "2.66",
+     "title": "HYMN for the EPIPHANY.",
+     "segments": 6
+    },
+    {
+     "file": "0132.json",
+     "ref": "2.67",
+     "title": "HYMN for EASTER-DAY.",
+     "segments": 11
+    },
+    {
+     "file": "0133.json",
+     "ref": "2.68",
+     "title": "HYMN for ASCENSION-DAY.",
+     "segments": 10
+    },
+    {
+     "file": "0134.json",
+     "ref": "2.69",
+     "title": "HYMN for WHITSUNDAY.",
+     "segments": 10
+    },
+    {
+     "file": "0135.json",
+     "ref": "2.70",
+     "title": "GRACE before MEAT.",
+     "segments": 5
+    },
+    {
+     "file": "0136.json",
+     "ref": "2.71",
+     "title": "At MEALS.",
+     "segments": 4
+    },
+    {
+     "file": "0137.json",
+     "ref": "2.72",
+     "title": "GRACE after MEAT.",
+     "segments": 4
+    },
+    {
+     "file": "0138.json",
+     "ref": "2.73",
+     "title": "Another.",
+     "segments": 4
+    },
+    {
+     "file": "0139.json",
+     "ref": "2.74",
+     "title": "JOHN xvi. 24. Aſk, and ye ſhall receive, that your Joy may be full.",
+     "segments": 12
+    },
+    {
+     "file": "0140.json",
+     "ref": "2.75",
+     "title": "ISA. li. 9, &c.",
+     "segments": 5
+    }
+   ]
+  }
+ ]
+}

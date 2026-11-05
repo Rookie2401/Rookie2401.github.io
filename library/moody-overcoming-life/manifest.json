@@ -1,0 +1,102 @@
+{
+ "workId": "moody-overcoming-life",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "moody-overcoming-life-gutenberg",
+   "role": "english",
+   "language": "english",
+   "credit": "The Overcoming Life, and Other Sermons, in Project Gutenberg eBook #33015 (Chicago; New York; Toronto: Fleming H. Revell Company, 1896). Transcription: Keith G. Richardson (Project Gutenberg producer) (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/33015/pg33015.txt",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 206025,
+   "sourceSha256": "a15763d030eb6fe17706f45a956c6a52e418a32296a78a6a711bbe421a14c70f",
+   "leftOut": {
+    "transcriberNote": 1
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "https://www.gutenberg.org/cache/epub/33015/pg33015.txt",
+     "bytes": 206025,
+     "sha256": "a15763d030eb6fe17706f45a956c6a52e418a32296a78a6a711bbe421a14c70f"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "s2",
+     "title": "AND OTHER SERMONS",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "s3",
+     "title": "FLEMING H. REVELL COMPANY",
+     "segments": 3
+    },
+    {
+     "file": "0003.json",
+     "ref": "s17",
+     "title": "THE CHRISTIAN'S WARFARE.",
+     "segments": 29
+    },
+    {
+     "file": "0004.json",
+     "ref": "s19",
+     "title": "INTERNAL FOES.",
+     "segments": 67
+    },
+    {
+     "file": "0005.json",
+     "ref": "s21",
+     "title": "EXTERNAL FOES.",
+     "segments": 63
+    },
+    {
+     "file": "0006.json",
+     "ref": "s22",
+     "title": "RESULTS OF TRUE REPENTANCE.",
+     "segments": 77
+    },
+    {
+     "file": "0007.json",
+     "ref": "s23",
+     "title": "TRUE WISDOM.",
+     "segments": 50
+    },
+    {
+     "file": "0008.json",
+     "ref": "s24",
+     "title": "\"COME THOU AND ALL THY HOUSE INTO THE ARK.\"",
+     "segments": 95
+    },
+    {
+     "file": "0009.json",
+     "ref": "s25",
+     "title": "HUMILITY.",
+     "segments": 43
+    },
+    {
+     "file": "0010.json",
+     "ref": "s26",
+     "title": "REST.",
+     "segments": 85
+    },
+    {
+     "file": "0011.json",
+     "ref": "s27",
+     "title": "SEVEN \"I WILLS\" OF CHRIST.",
+     "segments": 76
+    },
+    {
+     "file": "0012.json",
+     "ref": "s29",
+     "title": "16MO, CLOTH, EACH NET. 30 CTS.",
+     "segments": 38
+    }
+   ]
+  }
+ ]
+}

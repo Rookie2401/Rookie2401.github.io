@@ -1,0 +1,36 @@
+{
+ "workId": "jerome-against-helvidius",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "jerome-against-helvidius-npnf2-fremantle-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "The Perpetual Virginity of Blessed Mary (Against Helvidius), in A Select Library of Nicene and Post-Nicene Fathers, series II, vol. 6 (Jerome: Letters and Select Works), Treatises, trans. W. H. Fremantle, with G. Lewis and W. G. Martley (New York: The Christian Literature Company, 1893). Wikisource contributors, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_VI/Treatises/The_Perpetual_Virginity_of_Blessed_Mary",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 64716,
+   "sourceSha256": "1809558e76479b5cf1311a55716efbfa12e7d3f6711ff6ecfc80b66ecbb2477c",
+   "leftOut": {
+    "note": 86
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VI/Treatises/The Perpetual Virginity of Blessed Mary",
+     "bytes": 64716,
+     "sha256": "1809558e76479b5cf1311a55716efbfa12e7d3f6711ff6ecfc80b66ecbb2477c"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front",
+     "title": "front",
+     "segments": 35
+    }
+   ]
+  }
+ ]
+}

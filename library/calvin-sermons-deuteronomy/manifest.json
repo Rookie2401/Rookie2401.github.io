@@ -1,0 +1,1260 @@
+{
+ "workId": "calvin-sermons-deuteronomy",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "calvin-sermons-deuteronomy-golding-1583",
+   "role": "english",
+   "language": "english",
+   "credit": "The Sermons of M. John Calvin upon the Fifth Book of Moses called Deuteronomy (tr. Arthur Golding), in EEBO-TCP A17698 (STC 4442), trans. Arthur Golding (London: Henry Middleton for George Bishop, 1583). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A17698/master/A17698.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 11370397,
+   "sourceSha256": "f824773bed33a0a3cc6a6e3dfb763db541bbb5f316c2ca8eacb5c6dc9fae9abb",
+   "leftOut": {
+    "pb": 1220,
+    "unread": 633,
+    "milestone": 6648,
+    "note": 3162
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 1322509,
+    "unreadPerThousand": 0.5
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "TO THE RIGHT HONOVRABLE Syr Thomas Bromley Knight, Lord Chauncelour of England, one of her Maiesties most honourable priuie Counsell, his singular good Lord, health, prosperitie, and increase of Honou",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "front.2",
+     "title": "To the Christian Reader, Grace and Peace from GOD, &c.",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "front.3.0",
+     "title": "To all the faithfull which hold the holie faith of the true Catholike Church, and generallie to all Christian Readers: Greeting in Iesus Christ our Lord and GOD. Amen.",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "front.3.1",
+     "title": "The Deacons and disposers of the goods that are giuen in almes to the poore strangers that are come hither into the citie of Geneua for Gods words sake: to all faithfull and true Christians, helth and",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "front.3.2",
+     "title": "The same Deacons.",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "1",
+     "title": "On Wednesday the xx. of March. 1555. The first Sermon vpon the first Chapter.",
+     "segments": 18
+    },
+    {
+     "file": "0007.json",
+     "ref": "2",
+     "title": "On Munday the xxv. of March. 1555. Th second Sermon vpon the first Chapter.",
+     "segments": 26
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.3",
+     "title": "On Wednesday the xxvii. of March. 1555. The third Sermon vppon the first Chapter.",
+     "segments": 20
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.4",
+     "title": "On Thursday the xj. of Aprill. 1555. The fourth Sermon vppon the first Chapter.",
+     "segments": 20
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.5",
+     "title": "On Fryday the xij. of Aprill. 1555. The fift Sermon vpon the first Chapter.",
+     "segments": 24
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.6",
+     "title": "On Saturday the xiij. of Aprill. 1555. The sixth Sermon vpon the first Chapter.",
+     "segments": 19
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.7",
+     "title": "On Wednesday the xvij. of April. 1555. The seuenth Sermon vpon the first Chapter.",
+     "segments": 26
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.8",
+     "title": "On Munday the xxij. of April. 1555. The eight Sermon vpon the first Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.9",
+     "title": "On Tewsday the xxiij. of April. 1555. The ninth Sermon vpon the first Chapter.",
+     "segments": 20
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.10",
+     "title": "On Wednesday the xxiiij. of Aprill. 1555. The tenth Sermon vpon the first Chapter.",
+     "segments": 19
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.11",
+     "title": "On Thursday the xxv. of Aprill. 1555. The eleuenth Sermon which is the first vpon the second Chapter.",
+     "segments": 24
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.12",
+     "title": "On Fryday the xxvj. of Aprill. 1555. The twelfth Sermon, which is the second vpon the second Chapter.",
+     "segments": 24
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.13",
+     "title": "On Wednesday the j. of May. 1555. The xiij. Sermon, which is the third vpon the second Chapter.",
+     "segments": 24
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.14",
+     "title": "On Munday the vj. of May. 1555. The xiiij. Sermon, which is the fourth vpon the second Chapter.",
+     "segments": 18
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.15",
+     "title": "On Tewsday the vij. of May. 1555. The fifteenth Sermon which is the first vpon the third Chapter.",
+     "segments": 20
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.16",
+     "title": "On Wednesday the viij. of May. 1555. The xvj. Sermon which is the second vpon the third Chapter.",
+     "segments": 22
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.17",
+     "title": "On Thursday the ix. of May. 1555. The xvij. Sermon, which is the third vpon the third Chapter.",
+     "segments": 13
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.18",
+     "title": "On Fryday the x. day of May. 1555. The xviij. Sermon which is the fourth vpon the third Chapter.",
+     "segments": 20
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.19",
+     "title": "On Wednesday the xv. of May. 1555. The nineteenth Sermon which is the first vpon the fourth Chapter.",
+     "segments": 19
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.20",
+     "title": "On Munday the xx. of May. 1555. The xx. Sermon which is the second vpon the fourth Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.21",
+     "title": "On Tewsday the xxj. of May. 1555. The xxj. Sermon, which is the third vpon the fourth Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.22",
+     "title": "On Wednesday the xxij. of May. 1555. The xxij. Sermon, which is the fourth vpon the fourth Chapter.",
+     "segments": 16
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.23",
+     "title": "On Thursday the xxiii. of May. 1555. The xxiij. Sermon, which is the fifth vpon the fourth Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.24",
+     "title": "On Fryday the xxiiij. of May. 1555. The xxiiij. Sermon which is the sixth vpon the fourth Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.25",
+     "title": "On Wednesday the xxix. of May. 1555. The xxv. Sermon, which is the seuenth vpon the fourth Chapter.",
+     "segments": 12
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.26",
+     "title": "On Munday the iij. of Iune. 1555. The xxvj. Sermon which is the eight vpon the fourth Chapter.",
+     "segments": 22
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.27",
+     "title": "On Tewsday the iiii. of Iune. 1555. The xxvii. Sermon, which is the ninth vpon the fourth Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.28",
+     "title": "On Wednesday the v. of Iune. 1555. The xxviij. Sermon, which is the tenth vpon the fourth Chapter.",
+     "segments": 18
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.29",
+     "title": "On Munday the xvj. of Iune. 1555. The xxix. Sermon which is the eleuenth vpon the fourth Chapter.",
+     "segments": 16
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.30.0",
+     "title": "On Fryday the vij. of Iune. 1555. The xxx. Sermon, which is the twelfth vpon the fourth Chapter, and the first vpon the fifth Chapter.",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.30.1",
+     "title": "The fifth Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.31",
+     "title": "On Wednesday the xij. of Iune. 1555. The xxxj. Sermon, which is the second vpon the fifth Chapter.",
+     "segments": 20
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.32",
+     "title": "On Munday the xvij. of Iune. 1555. The xxxij. Sermon, which is the third vpon the fifth Chapter.",
+     "segments": 23
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.33",
+     "title": "On Wednesday the xix. of Iune. 1555. The xxxiij. Sermon which is the fourth vpon the fift Chapter.",
+     "segments": 19
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.34",
+     "title": "On Thursday the xx. of Iune. 1555. The xxxiiij. Sermon, which is the fifth vpon the fifth Chapter.",
+     "segments": 12
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.35",
+     "title": "On Friday the xxj. of Iune. 1555. The xxxv Sermon which is the sixth vpon the fift Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.36",
+     "title": "On Wednesday the xxvj. of Iune. 1555. The xxxvj. Sermon which is the seuenth vpon the fifth Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.37",
+     "title": "On Munday the first of Iuly. 1555. The xxxvij Sermon which is the eight vpon the fift Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0044.json",
+     "ref": "1.38",
+     "title": "On Tewsday the ij. of Iuly. 1555. The xxxviij. Sermon, which is the ninth vpon the fifth Chapter.",
+     "segments": 27
+    },
+    {
+     "file": "0045.json",
+     "ref": "1.39",
+     "title": "On Thursday the iiij. of Iuly. 1555. The xl. Sermon, which is the eleuenth vpon the fifth Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0046.json",
+     "ref": "1.40",
+     "title": "On Friday the fift of Iuly. 1555. The xli. Sermon, which is the twelfth vpon the fifth Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0047.json",
+     "ref": "1.41",
+     "title": "On Tewsday the xvj. of Iuly. 1555. The xlij. Sermon, which is the thirteenth vpon the fifth Chapter.",
+     "segments": 16
+    },
+    {
+     "file": "0048.json",
+     "ref": "1.42",
+     "title": "On Wednesday the xvij. of Iuly. 1555. The xliij Sermon which is the fourteenth vpon the fifth Chapter.",
+     "segments": 18
+    },
+    {
+     "file": "0049.json",
+     "ref": "1.43",
+     "title": "On Thursday the xviij. of Iuly. 1555. The xliiij. Sermon which is the fifteenth and last vpon the fifth Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0050.json",
+     "ref": "1.44",
+     "title": "On Friday the nineteenth of Iuly. 1555. The xlv. Sermon, which is the first vpon the sixt Chapter.",
+     "segments": 16
+    },
+    {
+     "file": "0051.json",
+     "ref": "1.45",
+     "title": "On Saturday the xx. of Iuly. 1555. The xlvj Sermon which is the second vpon the sixth Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0052.json",
+     "ref": "1.46",
+     "title": "On Wednesday the xxiiij. of Iuly. 1555. The xlvij. Sermon, which is the third vpon the sixt Chapter.",
+     "segments": 32
+    },
+    {
+     "file": "0053.json",
+     "ref": "1.47",
+     "title": "On Tewsday the xxx. of Iuly. 1555. The xlix. Sermon which is the fift vpon the sixth Chapter.",
+     "segments": 11
+    },
+    {
+     "file": "0054.json",
+     "ref": "1.48",
+     "title": "On Wednesday the last of Iuly. 1555. The L. Sermon, which is the sixth vpon the sixth Chapter.",
+     "segments": 18
+    },
+    {
+     "file": "0055.json",
+     "ref": "1.49",
+     "title": "On Thursday the first of August. 1555. The Lj Sermon which is the first vppon the seuenth Chapter.",
+     "segments": 19
+    },
+    {
+     "file": "0056.json",
+     "ref": "1.50",
+     "title": "On Friday the second day of August. 1555. The Lij. Sermon which is the seconde vpon the seuenth Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0057.json",
+     "ref": "1.51",
+     "title": "On Saturday the third of August. 1555. The Liij. Sermon, which is the third vpon the seuenth Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0058.json",
+     "ref": "1.52",
+     "title": "On Wednesday the vij. of August. 1555. The Liiij. Sermon which is the fourth vpon the seuenth Chapter.",
+     "segments": 13
+    },
+    {
+     "file": "0059.json",
+     "ref": "1.53",
+     "title": "On Munday the twelfth of August. 1555. The Lv. Sermon, which is the fift vpon the seuenth Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0060.json",
+     "ref": "1.54",
+     "title": "On Tewsday the xiij. of August. 1555. The Lvj. Sermon which is the sixth vpon the seuenth Chapter.",
+     "segments": 16
+    },
+    {
+     "file": "0061.json",
+     "ref": "1.55",
+     "title": "On VVednesday the xiiij. of August. 1555. The Lvij. Sermon which is the seuenth vpon the seuenth Chapter.",
+     "segments": 10
+    },
+    {
+     "file": "0062.json",
+     "ref": "1.56",
+     "title": "On Thursday the fifteenth of August. 1555. The Lviij Sermon which is the first vppon the eight Chapter.",
+     "segments": 11
+    },
+    {
+     "file": "0063.json",
+     "ref": "1.57",
+     "title": "On Fryday the xvj. of August. 1555. The Lix. Sermon which is the second vpon the eight Chapter.",
+     "segments": 13
+    },
+    {
+     "file": "0064.json",
+     "ref": "1.58",
+     "title": "On Wednesday the xxj. of August. 1555. The threescore Sermon, which is the third vpon the eight Chapter.",
+     "segments": 22
+    },
+    {
+     "file": "0065.json",
+     "ref": "1.59",
+     "title": "On Tewsday the xxvij. of August. 1555. The Lxij. Sermon, which is the first vpon the ninth Chapter.",
+     "segments": 20
+    },
+    {
+     "file": "0066.json",
+     "ref": "1.60",
+     "title": "On Wednesday the xxviii of August. 1555. The Lxiij. Sermon which is the seconde vpon the ninth Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0067.json",
+     "ref": "1.61",
+     "title": "On Thursday the xxix. of August. 1555. The Lxiiij Sermon which is the third vppon the ninth Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0068.json",
+     "ref": "1.62",
+     "title": "On Friday the xxx. of August. 1555. The Lxv. Sermon, which is the fourth vpon the ninth Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0069.json",
+     "ref": "1.63",
+     "title": "On Saturday the xxxi. of August. 1555. The Lxvj Sermon which is the fifth vppon the ninth Chapter.",
+     "segments": 24
+    },
+    {
+     "file": "0070.json",
+     "ref": "1.64",
+     "title": "On Munday the ix. of September. 1555. The Lxviij. Sermon which is the seuenth vpon the ninth Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0071.json",
+     "ref": "1.65",
+     "title": "On Tewsday the x. of September. 1555. The Lxix. Sermon, which is the first vpon the tenth Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0072.json",
+     "ref": "1.66",
+     "title": "On Wednesday the xi. of September. 1555. The Lxx. Sermon which is the seconde vpon the tenth Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0073.json",
+     "ref": "1.67",
+     "title": "On Thursday the xij of September. 1555. The Lxxj. Sermon, which is the third vpon the tenth Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0074.json",
+     "ref": "1.68",
+     "title": "On Fryday the xiij. of September. 1555. The Lxxii. Sermon which is the fourth vpon the tenth Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0075.json",
+     "ref": "1.69",
+     "title": "On Saturday the xiiij. of September. 1555. The Lxx. Sermon, which is the fifth vpon the tenth Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0076.json",
+     "ref": "1.70.0",
+     "title": "THE 74. SERMON OF IOHN CALVIN On Wednesday the xviij of September. 1555. The Lxxiiii. Sermon, in which the last verse of the tenth Chapter is expounded, and this is the first Sermon vpon the eleuenth ",
+     "segments": 1
+    },
+    {
+     "file": "0077.json",
+     "ref": "1.70.1",
+     "title": "The eleuenth Chapter.",
+     "segments": 11
+    },
+    {
+     "file": "0078.json",
+     "ref": "1.71",
+     "title": "On Munday the xxiij. of September. 1555. The Lxxv. Sermon which is the second vpon the eleuenth Chapter.",
+     "segments": 11
+    },
+    {
+     "file": "0079.json",
+     "ref": "1.72",
+     "title": "On Tewseday the xxiiij of September. 1555. The Lxxvi. Sermon, which is the third vpon the eleuenth Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0080.json",
+     "ref": "1.73",
+     "title": "On Wednesday the xxv of September. 1555. The Lxxvij Sermon which is the fourth vppon the eleuenth Chapter.",
+     "segments": 13
+    },
+    {
+     "file": "0081.json",
+     "ref": "1.74",
+     "title": "On Thursday the xxvj. of September. 1555. The Lxxviij. Sermon which is the fifth vpon the eleuenth Chapter.",
+     "segments": 10
+    },
+    {
+     "file": "0082.json",
+     "ref": "1.75",
+     "title": "On Fryday the xxvij. of September. 1555. The Lxxix. Sermon which is the sixth vpon the eleuenth Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0083.json",
+     "ref": "1.76",
+     "title": "On Saturday the xxviij. of September. 1555. The Lxxx Sermon, which is the first vpon the twelfth Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0084.json",
+     "ref": "1.77",
+     "title": "On Wednesday the ij. of October. 1555. The Lxxxj. Sermon, which is the second vpon the twelfth Chapter.",
+     "segments": 11
+    },
+    {
+     "file": "0085.json",
+     "ref": "1.78",
+     "title": "On Munday the vij. of October. 1555. The Lxxxij. Sermon, which is the third vpon the twelfth Chapter.",
+     "segments": 12
+    },
+    {
+     "file": "0086.json",
+     "ref": "1.79",
+     "title": "On Tewsday the viij. of October. 1555. The lxxxiij. Sermon, which is the fourth vpon the twelfth Chapter.",
+     "segments": 30
+    },
+    {
+     "file": "0087.json",
+     "ref": "1.80",
+     "title": "On Thursday the x. of October. 1555. The Lxxxv. Sermon which is the sixth vpon the twelfth Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0088.json",
+     "ref": "1.81",
+     "title": "On Fryday the xj. of October. 1555. The Lxxxvi. Sermon which is the first vpon the thirteenth Chapter.",
+     "segments": 22
+    },
+    {
+     "file": "0089.json",
+     "ref": "1.82",
+     "title": "On Saturday the xij. of October. 1555. The Lxxxvij Sermon, which is the second vpon the thirteenth Chapter.",
+     "segments": 10
+    },
+    {
+     "file": "0090.json",
+     "ref": "1.83",
+     "title": "On Wednesday the xvj. of October. 1555. The Lxxxviij. Sermon which is the third vpon the thirteenth Chapter.",
+     "segments": 41
+    },
+    {
+     "file": "0091.json",
+     "ref": "1.84",
+     "title": "On Munday the xxj. of October. 1555. The Lxxxix Sermon, which is the fourth vpon the thirteenth Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0092.json",
+     "ref": "1.85",
+     "title": "On Tewsday the xxij. of October. 1555. The XC. Sermon which is the first vpon the fourtenth Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0093.json",
+     "ref": "1.86",
+     "title": "On Wednesday the xxiij. of October. 1555. The XCj. Sermon, which is the second vpon the fourteenth Chapter.",
+     "segments": 12
+    },
+    {
+     "file": "0094.json",
+     "ref": "1.87",
+     "title": "On Thursday the xxiiij. of October. 1555. The XCij. Sermon, which is the third vpon the foureteenth Chapter.",
+     "segments": 19
+    },
+    {
+     "file": "0095.json",
+     "ref": "1.88",
+     "title": "On Fryday the xxv. of October. 1555. The XCiij. Sermon which is the first vpon the fifteenth Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0096.json",
+     "ref": "1.89",
+     "title": "On Saturday the xxvj. of October. 1555. The XCiiij. Sermon which is the second vpon the fifteenth Chapter.",
+     "segments": 18
+    },
+    {
+     "file": "0097.json",
+     "ref": "1.90",
+     "title": "On Wednesday the xxx. of October. 1555. The XCv. Sermon, which is the thirde vpon the fifteenth Chapter.",
+     "segments": 18
+    },
+    {
+     "file": "0098.json",
+     "ref": "1.91",
+     "title": "On Munday the iiij. of Nouember. 1555. The XCvj Sermon, which is the fourth vpon the fifteenth Chapter.",
+     "segments": 12
+    },
+    {
+     "file": "0099.json",
+     "ref": "1.92",
+     "title": "On Tewsday the fifth of Nouember. 1555. The XCvij. Sermon which is the first vpon the sixteenth Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0100.json",
+     "ref": "1.93",
+     "title": "On Wednesday the vj. of Nouember. 1555. The XCviij. Sermon which is the second vpon the sixteenth Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0101.json",
+     "ref": "1.94",
+     "title": "On Thursday the vij. of Nouember. 1555. The XCix. Sermon, which is the third vpon the sixteenth Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0102.json",
+     "ref": "1.95",
+     "title": "On Fryday the viij. of Nouember. 1555. The C. Sermon which is the fourth vpon the sixteenth Chapter.",
+     "segments": 12
+    },
+    {
+     "file": "0103.json",
+     "ref": "1.96",
+     "title": "On Saturday the ix. of Nouember. 1555. The Cj. Sermon, which is the fifth vpon the sixeteenth Chapter.",
+     "segments": 19
+    },
+    {
+     "file": "0104.json",
+     "ref": "1.97.0",
+     "title": "On Wednesday the xiii. of Nouember. 1555. The Cii. Sermon, which is the sixt vpon the sixteenth Chapter, and the first vpon the seuenteenth.",
+     "segments": 1
+    },
+    {
+     "file": "0105.json",
+     "ref": "1.97.1",
+     "title": "The Seuenteenth Chapter.",
+     "segments": 19
+    },
+    {
+     "file": "0106.json",
+     "ref": "1.98",
+     "title": "On Munday the xviij. of Nouember. 1555. The Ciij. Sermon which is the second vpon the seuenteenth Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0107.json",
+     "ref": "1.99",
+     "title": "On Tewsday the xix. of Nouember. 1555. The Ciiij Sermon, which is the third vpon the seuenteenth Chapter.",
+     "segments": 21
+    },
+    {
+     "file": "0108.json",
+     "ref": "1.100",
+     "title": "On Wednesday the xx. of Nouember. 1555. The Cv. Sermon which is the fourth vpon the seuenteenth Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0109.json",
+     "ref": "1.101",
+     "title": "On Thursday the xxj. of Nouember. 1555. The Cvj. Sermon which is the fifth vpon the seuenteenth Chapter.",
+     "segments": 33
+    },
+    {
+     "file": "0110.json",
+     "ref": "1.102",
+     "title": "On Wednesday the xxvij. of Nouember. 1555. The Cviij Sermon, which is the second vpon the eighteenth Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0111.json",
+     "ref": "1.103",
+     "title": "On Munday the ij. of December. 1555. The Cix. Sermon which is the third vpon the eighteenth Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0112.json",
+     "ref": "1.104",
+     "title": "On Tewsday the iij. of December. 1555 The Cx. Sermon which is the fourth vpon the eighteenth Chapter.",
+     "segments": 29
+    },
+    {
+     "file": "0113.json",
+     "ref": "1.105",
+     "title": "On Thursday the v. of December. 1555. The Cxij Sermon which is the first vppon the nineteenth Chapter",
+     "segments": 15
+    },
+    {
+     "file": "0114.json",
+     "ref": "1.106",
+     "title": "On Friday the vj. of December. 1555 The Cxiij. Sermon which is the second vpon the nineteenth Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0115.json",
+     "ref": "1.107",
+     "title": "On Saturday the vij. of December. 1555. The Cxiiij. Sermon which is the third vpon the nineteenth Chapter.",
+     "segments": 10
+    },
+    {
+     "file": "0116.json",
+     "ref": "1.108",
+     "title": "On Munday the xvj. of December. 1555. The Cxv. Sermon which is the fourth vpon the nineteenth Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0117.json",
+     "ref": "1.109.0",
+     "title": "On Tewsday the xvii. of December. 1555. The Cxvj. Sermon which is the fifth vppon the nineteenth Chapter, and the first vpon the twentith Chapter.",
+     "segments": 1
+    },
+    {
+     "file": "0118.json",
+     "ref": "1.109.1",
+     "title": "The twentith Chapter.",
+     "segments": 28
+    },
+    {
+     "file": "0119.json",
+     "ref": "1.110",
+     "title": "On Thursday the xix. of December. 1555. The Cxviij. Sermon, which is the third vpon the twentith Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0120.json",
+     "ref": "1.111",
+     "title": "On Fryday the xx. of December. 1555. The Cxix. Sermon, which is the fourth vpon the twentith Chapter.",
+     "segments": 12
+    },
+    {
+     "file": "0121.json",
+     "ref": "1.112",
+     "title": "On Saturday the xxj. of December. 1555 The Cxx. Sermon which is the first vpon the one and twentith Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0122.json",
+     "ref": "1.113",
+     "title": "On Wednesday the xxv. of December. 1555. The Cxxi. Sermon which is the second vpon the one and twentith Chapter.",
+     "segments": 20
+    },
+    {
+     "file": "0123.json",
+     "ref": "1.114",
+     "title": "On Munday the xxx. of December. 1555. The Cxxij. Sermon which is the third vpon the one and twentith Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0124.json",
+     "ref": "1.115",
+     "title": "On Tewsday the last of December. 1555. The Cxxiij. Sermon which is the fourth vpon the one and twentith Chapter.",
+     "segments": 12
+    },
+    {
+     "file": "0125.json",
+     "ref": "1.116",
+     "title": "On Wednesday the first of Ianuarie 1556. The Cxxiiij. Sermon which is the fifth vpon the one and twentith Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0126.json",
+     "ref": "1.117",
+     "title": "On Thursday the ij. of Ianuarie, 1556. The Cxxv. Sermon, which is the first vpon the two & twentith Chapter.",
+     "segments": 13
+    },
+    {
+     "file": "0127.json",
+     "ref": "1.118",
+     "title": "On Fryday the iij. of Ianuarie. 1556. The Cxxvj. Sermon, which is the second vpon the two and twentith Chapter.",
+     "segments": 10
+    },
+    {
+     "file": "0128.json",
+     "ref": "1.119",
+     "title": "On Wednesday the viij. of Ianuarie. 1556. The Cxxvij. Sermon, which is the third vpon the two & twentith Chapter.",
+     "segments": 10
+    },
+    {
+     "file": "0129.json",
+     "ref": "1.120",
+     "title": "On Tewsday the xiiii. of Ianuarie. 1556. The Cxxviij. Sermon which is the fourth vpon the two and twentith Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0130.json",
+     "ref": "1.121",
+     "title": "On Wednesday the xv. of Ianuarie, 1556. The Cxxix. Sermon which is the fifth vpon the two and twentith Chapter.",
+     "segments": 9
+    },
+    {
+     "file": "0131.json",
+     "ref": "1.122",
+     "title": "On Thursday the xvj. of Ianuarie, 1556 The Cxxx. Sermon which is the first vpon the three and twentith Chapter.",
+     "segments": 18
+    },
+    {
+     "file": "0132.json",
+     "ref": "1.123",
+     "title": "On Fryday the xvij. of Ianuarie, 1556. The Cxxxj. Sermon, which is the second vpon the three and twentith Chapter.",
+     "segments": 11
+    },
+    {
+     "file": "0133.json",
+     "ref": "1.124",
+     "title": "On Wednesday the xxij. of Ianuarie, 1556. The Cxxxij. Sermon which is the third vpon the three and twentith Chapter.",
+     "segments": 13
+    },
+    {
+     "file": "0134.json",
+     "ref": "1.125",
+     "title": "On Munday the xxvij of Ianuary, 1556. The Cxxxiij. Sermon which is the fourth vpon the three and twentith Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0135.json",
+     "ref": "1.126",
+     "title": "On Tewsday the xxviij. of Ianuarie. 1556. The Cxxxiiij. Sermon which is the fifth vpon the three and twentith Chapter.",
+     "segments": 18
+    },
+    {
+     "file": "0136.json",
+     "ref": "1.127",
+     "title": "On Wednesday the xxix. of Ianuarie, 1556. The Cxxxv. Sermon, which is the sixth vpon the three & twentith Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0137.json",
+     "ref": "1.128.0",
+     "title": "On Thursday the xxx. of Ianuarie, 1556. The Cxxxvj. Sermon which is the seuenth vpon the three and twentith Chapter, and the first vpon the xxiiii.",
+     "segments": 1
+    },
+    {
+     "file": "0138.json",
+     "ref": "1.128.1",
+     "title": "The foure and twentith Chapter.",
+     "segments": 18
+    },
+    {
+     "file": "0139.json",
+     "ref": "1.129",
+     "title": "On Fryday the last of Ianuarie, 1556. The Cxxxvij. Sermon, which is the second vpon the foure and twentith Chapter.",
+     "segments": 13
+    },
+    {
+     "file": "0140.json",
+     "ref": "1.130",
+     "title": "On Saturday the j. of Februarie, 1556. The Cxxxviii. Sermon, which is the third vpon the foure & twentith Chapter.",
+     "segments": 10
+    },
+    {
+     "file": "0141.json",
+     "ref": "1.131",
+     "title": "On Wednesday the v. of Februarie, 1556. The Cxxxix. Sermon, which is the fourth vpon the foure & twentith Chapter.",
+     "segments": 18
+    },
+    {
+     "file": "0142.json",
+     "ref": "1.132",
+     "title": "On Munday the x. of February, 1556. The CXL. Sermon which is the fifth vpon the foure and twentith Chapter.",
+     "segments": 9
+    },
+    {
+     "file": "0143.json",
+     "ref": "1.133",
+     "title": "On Tewsday the xj. of February, 1556. The CXLI. Sermon which is the sixth vpon the foure and twentith Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0144.json",
+     "ref": "1.134",
+     "title": "On Wednesday the xij of Februarie., 1556. The CXLII. Sermon which is the first vpon the fiue and twentith Chapter.",
+     "segments": 12
+    },
+    {
+     "file": "0145.json",
+     "ref": "1.135",
+     "title": "On Thursday the xiij. of Februarie, 1556. The CXLiij. Sermon, which is the second vpon the fiue and twentith Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0146.json",
+     "ref": "1.136",
+     "title": "On Fryday the xiiij. of February, 1556. The CXLIIII. Sermon which is the third vpon the fiue and twentith Chapter.",
+     "segments": 16
+    },
+    {
+     "file": "0147.json",
+     "ref": "1.137",
+     "title": "On Wednesday the xix. of Februarie, 1556. The CXLV. Sermon which is the first vpon the sixe and twentith Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0148.json",
+     "ref": "1.138",
+     "title": "On Munday the xxiiij. of Februarie. 1556. The CXLVI. Sermon, which is the second vpon the sixe & twentith Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0149.json",
+     "ref": "1.139",
+     "title": "On Wednesday the xxv. of Februarie, 1556. The Cxlvij. Sermon, which is the third vpon the sixe and twentith Chapter.",
+     "segments": 11
+    },
+    {
+     "file": "0150.json",
+     "ref": "1.140",
+     "title": "On Wednesday the xxvj of Februarie, 1556. The CXLVIII. Sermon which is the fourth vpon the sixe and twentith Chapter.",
+     "segments": 13
+    },
+    {
+     "file": "0151.json",
+     "ref": "1.141.0",
+     "title": "On Thursday the xxvii. of Februarie, 1556. The CXLIX. Sermon which is the first vpon the seuen and twentith Chapter.",
+     "segments": 1
+    },
+    {
+     "file": "0152.json",
+     "ref": "1.141.1",
+     "title": "The xxvii. Chapter.",
+     "segments": 11
+    },
+    {
+     "file": "0153.json",
+     "ref": "1.142",
+     "title": "On Fryday the xxviij. of Februarie, 1556. The CL. Sermon, which is the seconde vpon the seuen and twentith Chapter.",
+     "segments": 10
+    },
+    {
+     "file": "0154.json",
+     "ref": "1.143",
+     "title": "On Wednesday the iiii. of March, 1556. The CLI. Sermon which is the third vpon the seuen and twentith Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0155.json",
+     "ref": "1.144",
+     "title": "On Munday the ix. of March, 1556. The CLII. Sermon, which is the fourth vpon the seuen and twentith Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0156.json",
+     "ref": "1.145",
+     "title": "On Tewsday the x. of March, 1556. The CLiij. Sermon, which is the first vpon the eight and twentith Chapter.",
+     "segments": 10
+    },
+    {
+     "file": "0157.json",
+     "ref": "1.146",
+     "title": "On Wednesday the xj. of March, 1556. The CLIIII. Sermon which is the second vpon the eight and twentith Chapter.",
+     "segments": 18
+    },
+    {
+     "file": "0158.json",
+     "ref": "1.147",
+     "title": "On Thursday the xij. of March, 1556. The CLV. Sermon which is the third vpon the eight and twentith Chapter.",
+     "segments": 13
+    },
+    {
+     "file": "0159.json",
+     "ref": "1.148",
+     "title": "On Friday the xiij. of March, 1556. The CLVI. Sermon which is the fourth vpon the eight and twentith Chapter.",
+     "segments": 26
+    },
+    {
+     "file": "0160.json",
+     "ref": "1.149",
+     "title": "On Munday the xxiij. of March, 1556. The CLVIII. Sermon, which is the sixt vpon the eight and twentith Chapter.",
+     "segments": 21
+    },
+    {
+     "file": "0161.json",
+     "ref": "1.150",
+     "title": "On Tewsday the xxiiij. of March, 1556. The CLIX. Sermon, which is the seuenth vpon the eight and twentith Chapter.",
+     "segments": 11
+    },
+    {
+     "file": "0162.json",
+     "ref": "1.151",
+     "title": "On Wednesday the xxv. of March, 1556. The CLx. Sermon which is the eight vpon the eight and twentith Chapter.",
+     "segments": 12
+    },
+    {
+     "file": "0163.json",
+     "ref": "1.152",
+     "title": "On Thursday the xxvj. of March, 1556. The CLXI. Sermon which is the ninth vpon the eight and twentith Chapter.",
+     "segments": 10
+    },
+    {
+     "file": "0164.json",
+     "ref": "1.153",
+     "title": "On Fryday the xxvii. of March, 1556. The CLxii. Sermon which is the tenth vpon the eight and twentith Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0165.json",
+     "ref": "1.154",
+     "title": "On Saturday the xxviij. of March, 1556. The CLXIII. Sermon, which is the eleuenth vpon the eight and twentith Chapter.",
+     "segments": 13
+    },
+    {
+     "file": "0166.json",
+     "ref": "1.155",
+     "title": "On Munday the vj. of Aprill, 1556. The CLXIIII. Sermon which is the first vppon the nine & twentith Chapter.",
+     "segments": 16
+    },
+    {
+     "file": "0167.json",
+     "ref": "1.156",
+     "title": "On Tewsday the vij. of April, 1556. The CLXV. Sermon which is the second vpon the nine and twentith Chapter.",
+     "segments": 19
+    },
+    {
+     "file": "0168.json",
+     "ref": "1.157",
+     "title": "On Wednesday the viij. of Aprill, 1556. The CLXVI. Sermon which is the third vpon the nine and twentith Chapter.",
+     "segments": 16
+    },
+    {
+     "file": "0169.json",
+     "ref": "1.158",
+     "title": "On Thursday the ix. of April. 1556. The CLxvii. Sermon which is the fourth vpon the nine & twentith Chapter.",
+     "segments": 16
+    },
+    {
+     "file": "0170.json",
+     "ref": "1.159",
+     "title": "On Friday the x. of Aprill, 1556. The CLXVIII. Sermon which is the fifth vpon the nine and twentith Chapter.",
+     "segments": 12
+    },
+    {
+     "file": "0171.json",
+     "ref": "1.160.0",
+     "title": "On Saturday the xi. of April, 1556. The CLXIX. Sermon which is the first vppon the thirtith Chapter.",
+     "segments": 1
+    },
+    {
+     "file": "0172.json",
+     "ref": "1.160.1",
+     "title": "The thirtith Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0173.json",
+     "ref": "1.161",
+     "title": "On Munday the xx. of Aprill, 1556. The CLXX. Sermon which is the second vpon the thirtith Chapter.",
+     "segments": 7
+    },
+    {
+     "file": "0174.json",
+     "ref": "1.162",
+     "title": "On Tewsday the xxj. of April, 1556. The CLXXI. Sermon which is the third vpon the thirtith Chapter.",
+     "segments": 11
+    },
+    {
+     "file": "0175.json",
+     "ref": "1.163",
+     "title": "On Wednesday the xxij. of Aprill, 1556. The CLXXII. Sermon, which is the fourth vpon the thirtith Chapter.",
+     "segments": 8
+    },
+    {
+     "file": "0176.json",
+     "ref": "1.164",
+     "title": "On Thursday the xxiij. of Aprill, 1556 The CLXXIII. Sermon which is the first vpon the one & thirtith Chapter.",
+     "segments": 12
+    },
+    {
+     "file": "0177.json",
+     "ref": "1.165",
+     "title": "On Friday the xxiiij. of Aprill, 1556. The CLXXIIII. Sermon which is the second vpon the one & thirtith Chapter.",
+     "segments": 12
+    },
+    {
+     "file": "0178.json",
+     "ref": "1.166",
+     "title": "On Munday the iiij. of May, 1556. The CLXXV. Sermon which is the third vpon the one & thirtith Chapter.",
+     "segments": 9
+    },
+    {
+     "file": "0179.json",
+     "ref": "1.167",
+     "title": "On Wednesday the v. of May, 1556. The CLXXVI. Sermon which is the fourth vpon the one & thirtith Chapter.",
+     "segments": 10
+    },
+    {
+     "file": "0180.json",
+     "ref": "1.168",
+     "title": "On Wednesday the vj. of May, 1556. The CLXXVII. Sermon which is the fifth vpon the one and thirtith Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0181.json",
+     "ref": "1.169",
+     "title": "On Thursday the vij. of May, 1556. The CLXXVIII. Sermon, which is the first vpon the two and thirtith Chapter.",
+     "segments": 12
+    },
+    {
+     "file": "0182.json",
+     "ref": "1.170",
+     "title": "On Friday the viij. of May, 1556. The CLXXIX. Sermon which is the second vpon the two & thirtith Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0183.json",
+     "ref": "1.171",
+     "title": "On Munday the j. of Iune, 1556. The CLXXX. Sermon which is the third vppon the two and thirtith Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0184.json",
+     "ref": "1.172",
+     "title": "On Tewsday the ij. of Iune, 1556. The CLXXXI. Sermon, which is the fourth vpon the two and thirtith Chapter.",
+     "segments": 16
+    },
+    {
+     "file": "0185.json",
+     "ref": "1.173",
+     "title": "On Wednesday the iij. of Iune, 1556. The CLXXXII. Sermon which is the fifth vppon the two and thirtith Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0186.json",
+     "ref": "1.174",
+     "title": "On Thursday the iiij. of Iune, 1556. The CLXXXIII. Sermon which is the sixt vpon the two & thirtith Chaper.",
+     "segments": 17
+    },
+    {
+     "file": "0187.json",
+     "ref": "1.175",
+     "title": "On Fryday the v. of Iune, 1556. The CLXXXIIII. Sermon which is the seuenth vpon the two & thirtith Chapter.",
+     "segments": 13
+    },
+    {
+     "file": "0188.json",
+     "ref": "1.176",
+     "title": "On Saturday the vj. of Iune, 1556. The CLXXXV. Sermon which is the eight vpon the two & thirtith Chapter.",
+     "segments": 11
+    },
+    {
+     "file": "0189.json",
+     "ref": "1.177",
+     "title": "On Munday the xv. of Iune, 1556. The CLXXXVI. Sermon which is the ninth vpon the two and thirtith Chapter.",
+     "segments": 18
+    },
+    {
+     "file": "0190.json",
+     "ref": "1.178",
+     "title": "On Tewsday the xvj. of Iune, 1556. The CLXXXVII. Sermon, which is the tenth vpon the two and thirtith Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0191.json",
+     "ref": "1.179",
+     "title": "On Wednesday the xvij. of Iune, 1556. The CLXXXVIII. Sermon, which is the eleuenth vpon the two and thirtith Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0192.json",
+     "ref": "1.180",
+     "title": "On Thursday the xviii of Iune, 1556. The CLXXXIX. Sermon which is the twelfth vpon the two & thirtith Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0193.json",
+     "ref": "1.181",
+     "title": "On Fryday the xix. of Iune, 1556. The CXC. Sermon, which is the thirteenth vpon the two and thirtith Chapter.",
+     "segments": 16
+    },
+    {
+     "file": "0194.json",
+     "ref": "1.182",
+     "title": "On Saturday the xx. of Iune, 1556. The CXCI. Sermon which is the first vpon the three & thirtith Chapter.",
+     "segments": 13
+    },
+    {
+     "file": "0195.json",
+     "ref": "1.183",
+     "title": "On Munday the xxix. of Iune, 1556 The CXCII. Sermon which is the second vpon the xxxiij. Chapter.",
+     "segments": 16
+    },
+    {
+     "file": "0196.json",
+     "ref": "1.184",
+     "title": "On Tewsday the last day of Iune, 1556. The CXCIII. Sermon, which is the third vpon the xxxiij. Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0197.json",
+     "ref": "1.185",
+     "title": "On Wednesday the first of Iuly, 1556. The CXCIIII. sermon, which is the fourth vpon the xxxiij. Chapter.",
+     "segments": 12
+    },
+    {
+     "file": "0198.json",
+     "ref": "1.186",
+     "title": "On Thursday the second of Iuly, 1556. The CXCV. sermon, which is the fifth vpon the xxxiij. Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0199.json",
+     "ref": "1.187",
+     "title": "On Fryday the iij. of Iuly, 1556. The CXCVI. Sermon, which is the sixth vpon the xxxiij. Chapter.",
+     "segments": 16
+    },
+    {
+     "file": "0200.json",
+     "ref": "1.188",
+     "title": "On Saturday the iiij. of Iuly, 1556. The CXCVII. Sermon, which is the seuenth vpon the xxxiij. Chapter.",
+     "segments": 19
+    },
+    {
+     "file": "0201.json",
+     "ref": "1.189",
+     "title": "On Munday the xiij. of Iuly, 1556. The CXCVIII. Sermon, which is the eighth vpon the xxxiij. Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0202.json",
+     "ref": "1.190.0",
+     "title": "On Tewsday the xiiij. of Iuly, 1556. The CXCIX. Sermon which is the ninth vpon the xxxiij. Chapter, and the first vpon the xxxiiij. Chapter.",
+     "segments": 1
+    },
+    {
+     "file": "0203.json",
+     "ref": "1.190.1",
+     "title": "The foure and thirtith Chapter.",
+     "segments": 16
+    },
+    {
+     "file": "0204.json",
+     "ref": "1.191",
+     "title": "On Wednesday the xv. of Iuly, 1556. The CC. Sermon, which is the second vpon the xxxiiij. Chapter of Deuteronomie, and the last vpon that booke.",
+     "segments": 20
+    },
+    {
+     "file": "0205.json",
+     "ref": "1.end",
+     "title": "1.end",
+     "segments": 1
+    }
+   ]
+  }
+ ]
+}

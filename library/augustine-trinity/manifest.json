@@ -1,0 +1,2605 @@
+{
+ "workId": "augustine-trinity",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "trinity-haddan-npnf3-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "On the Holy Trinity, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. III: St. Augustin: On the Holy Trinity, Doctrinal Treatises, Moral Treatises (ed. Philip Schaff; Buffalo, Christian Literature Co., 1887); copy on English Wikisource, trans. Arthur West Haddan (revised and annotated by W. G. T. Shedd) (Buffalo: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_III/Doctrinal_Treatises_of_St._Augustin/On_the_Holy_Trinity",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1276975,
+   "sourceSha256": "1dcc111ec46a1568de6c72859b8cc4eba58ede9b8c3a42d24bd7fceb7cd4b63d",
+   "leftOut": {
+    "note": 1051
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book I/Chapter 1",
+     "bytes": 9882,
+     "sha256": "bb37a94743782334dc2e96d76ba0a62963143e681172ac9ccbba62422a81593f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book I/Chapter 10",
+     "bytes": 9722,
+     "sha256": "b234f12713052863bbcdffc57239a00f0a55c83715a35e76ce0e5abec1e914c8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book I/Chapter 11",
+     "bytes": 4513,
+     "sha256": "4c6f4c7f6fca8dcb5bfaf845f1ed5e1c25471426f8ca94cd9f188b420272c2cb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book I/Chapter 12",
+     "bytes": 15324,
+     "sha256": "4f91223e4cd50d8c461e63a0916c6918b241cf181ce4ba22c374b486823a93b4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book I/Chapter 13",
+     "bytes": 20109,
+     "sha256": "2cefe49aec4b48dea36dd6409957f346f8820964a67cb866a2af808676119b03"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book I/Chapter 2",
+     "bytes": 2953,
+     "sha256": "a88fbe35761fb3a72a71d13eb869ef8e25dd2d6f5978c077b1c4fa87a7bcd9d0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book I/Chapter 3",
+     "bytes": 6790,
+     "sha256": "fdd7dd1ab66ddcdafa33ff6040a11cceb59902bdd62f8756b7b27f10e9407788"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book I/Chapter 4",
+     "bytes": 4258,
+     "sha256": "4d45743310494faaa1dd78e1ccf397220f0a38f1b4944f93aa69a6d08549ad13"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book I/Chapter 5",
+     "bytes": 4198,
+     "sha256": "b448b8b351dc58a85d8deed44cd5dc85cf18ddfe9fe273367d58766ab1d7449c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book I/Chapter 6",
+     "bytes": 15259,
+     "sha256": "1f0435dacceec10d7f23f4e87f6e2b671807946c103169f639a170f84a53326b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book I/Chapter 7",
+     "bytes": 4948,
+     "sha256": "b3416234c724db9aef94384fd5ab8295a02d1641c20b0179707d840fca47e618"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book I/Chapter 8",
+     "bytes": 14920,
+     "sha256": "ed240735d3f617ddfb246db5ecad3cfb4f0e00afea3ab9ce16fa7b56ea540438"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book I/Chapter 9",
+     "bytes": 6512,
+     "sha256": "5e85936d3b35f543c55f895bab0f952adc763e423809fcd21057ac4c41b0cc72"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book II/Chapter 1",
+     "bytes": 3531,
+     "sha256": "c38631981bbb0fe3875adb4c6cf5080b6c845c6d928c9dc41a6580376b5c42df"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book II/Chapter 10",
+     "bytes": 5239,
+     "sha256": "84f9f27a04f2bc571e8d49d1771fd35abf2fd12df158ee0d2b02b8f4659358f4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book II/Chapter 11",
+     "bytes": 10740,
+     "sha256": "2c99882a9b573b7b0d9fa9a6a52cb1e1f8d0ba954c5a027f970b5da9008199d3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book II/Chapter 12",
+     "bytes": 3762,
+     "sha256": "a1ea1d5ffba994250ce08649634f4011d6aa1284d0152df1edcef860446cceb2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book II/Chapter 13",
+     "bytes": 5284,
+     "sha256": "e69b66f4fced05f0b6e2f41084870a8f9fbee99ee003d04f30bb47b8fe0464e2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book II/Chapter 14",
+     "bytes": 5299,
+     "sha256": "1371989ce38ca148d6748be859083f640a3bd1442bd714d179f22ddb861c4c65"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book II/Chapter 15",
+     "bytes": 1966,
+     "sha256": "48ab1f0c256ed5eaf654b3f537eddac12f58da77108ba0c8cc47a3fd51d9e372"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book II/Chapter 16",
+     "bytes": 6480,
+     "sha256": "3215d6d57de7c6e92cdad530faf7496bd8b335abf56032fe3d5ebab29cbd5ef2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book II/Chapter 17",
+     "bytes": 4128,
+     "sha256": "b74d557c9b601c3713b00f0f3281b981d0358c95638c3da1f37c19e726237768"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book II/Chapter 18",
+     "bytes": 13081,
+     "sha256": "8fcebe2779480a7e5b497c2d78aa7ba15524f719b17280afbf611485df68fb7e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book II/Chapter 19",
+     "bytes": 6918,
+     "sha256": "a8a6348904d9fe14066a6f8a6cf72eba415967a50c312f620c2c27871c63d170"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book II/Chapter 2",
+     "bytes": 7502,
+     "sha256": "9f667780c98a4b5ad51735b509dc12490c22278a49e186a21d4a9916f75907ad"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book II/Chapter 3",
+     "bytes": 2648,
+     "sha256": "1af27bbbc3f036236c17ff184634ae89ff5ccc2326b248732931092f0cfdd240"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book II/Chapter 4",
+     "bytes": 3821,
+     "sha256": "f94d9e8542dc552f7fb544bd30481b5f2980ede508863952f584b3b95e84e1d2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book II/Chapter 5",
+     "bytes": 2434,
+     "sha256": "a6c9065b1b69526886c5a49ecea59b26d3100b55067cac08cae2642f561557b5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book II/Chapter 6",
+     "bytes": 11256,
+     "sha256": "6528091f1a9d301ffb41e295ba0f2d20bdb6dc8e012025d6214646a0f62b4950"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book II/Chapter 7",
+     "bytes": 7230,
+     "sha256": "2922b4097e743bb483d3e6493d6d086f9cc7f7eb19bc90f1feb5682334ffd70f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book II/Chapter 8",
+     "bytes": 4342,
+     "sha256": "1a59e0c41c053e41a2782a57fea4c15cdb7ec06113a66be58583832c74d4e6da"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book II/Chapter 9",
+     "bytes": 3102,
+     "sha256": "b67cf763f2b1e98d16fe9ce01980945bb9c2570e301f16c1101c1f02becc971c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book III/Chapter 1",
+     "bytes": 8752,
+     "sha256": "89b02348825d77c8cc620d9ab422a7da712d4d190dd65abc429aa4eddf14df69"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book III/Chapter 10",
+     "bytes": 7787,
+     "sha256": "ffc9d4b8dcc4e39d4e5a1ba07840fd23fe4ce11336ebe98fc6b6a19df8e226a7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book III/Chapter 11",
+     "bytes": 10117,
+     "sha256": "ab07d8be77ab6064e26f710e03b589d24e6bf9e2748f65d9069699c2a3a76922"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book III/Chapter 12",
+     "bytes": 17880,
+     "sha256": "ecc3236eeb46c12d72b2840c57d6c1c35b04d179e8afd2bda5d00a2c9084350a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book III/Chapter 2",
+     "bytes": 4691,
+     "sha256": "d9c785a013b907f4fd0e14f1f12e83086d5f08f61821672a0fa75c4cd172376a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book III/Chapter 3",
+     "bytes": 4540,
+     "sha256": "427265c15aa37be60e3871b42775a62af0fa6e943c8344c26a5edf034fa22c40"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book III/Chapter 4",
+     "bytes": 4141,
+     "sha256": "052436af381bf8380ca802a1c3b82aa2c9a241c21aeda4eecd69e10876ef8d22"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book III/Chapter 5",
+     "bytes": 5322,
+     "sha256": "106ecdfa38c08b934271687677060af99dfdd1e3d89c82e9eea30cc5232f0c99"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book III/Chapter 6",
+     "bytes": 4007,
+     "sha256": "145bb9266882c556dfac08e07403f0e756f4488ee87830a2fe90bfa683568700"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book III/Chapter 7",
+     "bytes": 1666,
+     "sha256": "536abb024ac2d1bdd3a842f7782a2801a05c58dce9bebd64eec5fd22f1f3e484"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book III/Chapter 8",
+     "bytes": 2756,
+     "sha256": "5dfc09a86fedaf8d64e29fed5ef70abdad57868ae66e4a4c4ded876c07138571"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book III/Chapter 9",
+     "bytes": 9910,
+     "sha256": "d02689e809fa816ad97a4dc4c81039766c6149158ecde134db40fdc62f4e9672"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IV/Chapter 1",
+     "bytes": 4284,
+     "sha256": "833eb08cb9651ef37cb67f3b54b271d4398c8a15e5a6e7a8abb80d65ce790d25"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IV/Chapter 10",
+     "bytes": 2723,
+     "sha256": "0fd5e673ab3da397052bfd58bf17b5fe9412a201c493bc2e7535b60da70a0c15"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IV/Chapter 11",
+     "bytes": 2660,
+     "sha256": "d2bedbfdc95bbf617a5b6b55ea042c5ecc4f5af2ae0b88c50631b162d6fe82bf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IV/Chapter 12",
+     "bytes": 2673,
+     "sha256": "ae722cf05d9ae6cf92b6e50f5f7ec1bc5208c3f54e1928ea857979d42abad856"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IV/Chapter 13",
+     "bytes": 4569,
+     "sha256": "66fd637fe04d85f12d49c78e4580667823335d42b3d97f43a8294b7425274cc0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IV/Chapter 14",
+     "bytes": 10390,
+     "sha256": "8262a2559ec81ae495c34646bc7a990323fb246646fee6da163baa334de3b5de"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IV/Chapter 15",
+     "bytes": 2727,
+     "sha256": "1719d8dee0e68dedb84be3e0b7842aadd3b3f07a81bc8a8bb4ab0c19b4a9188c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IV/Chapter 16",
+     "bytes": 2740,
+     "sha256": "6fdd97caeb05df613c638335667426c58345024ed5c0db3901ea1ce8f5635412"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IV/Chapter 17",
+     "bytes": 3145,
+     "sha256": "40fc7f931667992c05d2721d173c015c9e2cf4fa183052896e949a99fc770c4d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IV/Chapter 18",
+     "bytes": 5181,
+     "sha256": "467dda2d768ed6f7e5118030253d6d7de198f2c0d9029fb2e2bf449c30b7472b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IV/Chapter 19",
+     "bytes": 6023,
+     "sha256": "210f6f3d43d0ae4e1f95943d7dec6b2ba4c78061a750c302118bdd820e123518"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IV/Chapter 2",
+     "bytes": 5933,
+     "sha256": "ceffbb1cd98f913a50a3495462c2899bb729c1f8c4c79dbc94769c6e77b2f467"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IV/Chapter 20",
+     "bytes": 4494,
+     "sha256": "72abfa9b35eca80a52dc55b56fb16bb1f6e24113abd35b4f92bd938fa7665d4a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IV/Chapter 21",
+     "bytes": 15031,
+     "sha256": "d6c3a5fa167fd62ad416d8d48c8b70e0d08c2ac46fd7c34bdaf4e029f386e509"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IV/Chapter 22",
+     "bytes": 7712,
+     "sha256": "e96c77426f4b2fc8665404bcb19aa909dc55913bd2f31dd541b24e54784447cb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IV/Chapter 3",
+     "bytes": 3849,
+     "sha256": "41d6a9df980928f55146d33e731207d32c81706b089518d5c9bd21a08cc43db0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IV/Chapter 4",
+     "bytes": 9868,
+     "sha256": "dbd86a660d94f9b4333555ed8f9cd63876a295d57db0d3418c911301c84883d2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IV/Chapter 5",
+     "bytes": 5791,
+     "sha256": "e8279a209348638aa4cec737647146c9c2b7e66a6d400c0710c2ef4df2313e0c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IV/Chapter 6",
+     "bytes": 2961,
+     "sha256": "4101fb2bcf7423e62b11477a55ba1845f091be9f79e97890dda43bf560d19cdd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IV/Chapter 7",
+     "bytes": 5013,
+     "sha256": "87ab2ca4b250a4a4937a55bcb87803ca0eef0ef4b8321854bcc3c8df4aef55fe"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IV/Chapter 8",
+     "bytes": 2802,
+     "sha256": "0dffcefcc9013dd55ed1ae530c7d2542343ca2a25f0a822f5590ea4936d17719"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IV/Chapter 9",
+     "bytes": 1923,
+     "sha256": "5c174c0a36cd8b9786fa43c02823e1d4c81522f54736db1226fc026d34c2f06f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IX/Chapter 1",
+     "bytes": 5486,
+     "sha256": "f1d1facd38dac93a442dd6bb231d887adb413577e30ff5e4a33dae02ddfc2765"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IX/Chapter 10",
+     "bytes": 4145,
+     "sha256": "de32c9be2f49912ccd7ec6bdd271fd835a3bfedab951878eae7fc519598c47b6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IX/Chapter 11",
+     "bytes": 3244,
+     "sha256": "7ff83527375d3fcec87e055db03908854a30c4f78a6edb445b4bf272dbe03fb7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IX/Chapter 12",
+     "bytes": 8388,
+     "sha256": "fec72838de4be7e45641afad7f423ede1ad805cf827f19f0955e54353c5f692e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IX/Chapter 2",
+     "bytes": 6865,
+     "sha256": "c5bda32daa7eebf8544bf167efb0d7b6e3cbe8013a478826d541774fdd6abfce"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IX/Chapter 3",
+     "bytes": 2548,
+     "sha256": "fcf3a33970852424c502fb7386da1080b75c359d06e22cd2d35d2849b2149030"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IX/Chapter 4",
+     "bytes": 8720,
+     "sha256": "b6049f1b86c732ed2e4c4a4459019ebdebd5ee0aa9adcad35330c8c9b885d199"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IX/Chapter 5",
+     "bytes": 5126,
+     "sha256": "b7f2c0d3e4ecbe6c3e91b36073814fff2ae7340a8ef4feb21cf62752360bce46"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IX/Chapter 6",
+     "bytes": 7177,
+     "sha256": "f7bfb2b71cdfbb6837eb221f609af775e7fa58f5c9c11cf1d5312bc5dae77637"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IX/Chapter 7",
+     "bytes": 2879,
+     "sha256": "1b64e8cd64840de4c3bff14f4fcf1809f6e227ecdae45825942a4b9a94f8d513"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IX/Chapter 8",
+     "bytes": 2178,
+     "sha256": "475136f9cce97373a4d39fff2334f4fc6ed0c9934eede645bdf8156c071a5920"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book IX/Chapter 9",
+     "bytes": 3377,
+     "sha256": "f34ea69364b3112e86be6f22919e2271dfe1c160235780bd59f4c7e931c2fb95"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book V/Chapter 1",
+     "bytes": 4512,
+     "sha256": "f74383ec41c60095ac51b4a1439e7499fe52c7d8ef5e0e228f54c3dedb49d3e3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book V/Chapter 10",
+     "bytes": 3023,
+     "sha256": "8bf42161f2cd5aa4e0e3f68938f05e0b2dc77c7aee058928dfb4f21f45c698e0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book V/Chapter 11",
+     "bytes": 5848,
+     "sha256": "637cfb1d8acf160a0a5b6dc2cbb83a95a7a84530fb4b6498e5bfc578782a0279"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book V/Chapter 12",
+     "bytes": 2726,
+     "sha256": "86c1fec0b258cca6cda0227ba44d9bc2ef3a9b3d9e55f4547aa2d9d4dc24fa52"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book V/Chapter 13",
+     "bytes": 3762,
+     "sha256": "61a3b9706c0f271c86f43a16e5117b2c093699b27c99d7b7e37d8e8394f9939c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book V/Chapter 14",
+     "bytes": 5745,
+     "sha256": "73f35775f5feb4ddbf3fc7c13bcb2934b0638ae384db5f7bf6b688d1ecba01ed"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book V/Chapter 15",
+     "bytes": 2322,
+     "sha256": "848849887c0414c4f876683d6ab490e282fe21ac628654f4306cdfdda018872d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book V/Chapter 16",
+     "bytes": 7311,
+     "sha256": "3395ca3570036a6f5003e6f06f4672510bbd74b08343082e2c18ac06407860f8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book V/Chapter 2",
+     "bytes": 2324,
+     "sha256": "2f7c481e43d873f4e3b033795cd16efb0d5fde77c20a21bee5fff1aa83cf7469"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book V/Chapter 3",
+     "bytes": 2855,
+     "sha256": "b89e657a7b38efaf513779439af5dcb14c528699b49f37ea2eaee04f58b89b1d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book V/Chapter 4",
+     "bytes": 2872,
+     "sha256": "2706ebdf12c4f0ee70f3717e821e3d2aa92ad87ffd53b34653ce0d0200191eeb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book V/Chapter 5",
+     "bytes": 3577,
+     "sha256": "3fede95330732dd10c0f610ce836fb6327e2e8d395e07db6403b403e8ed755aa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book V/Chapter 6",
+     "bytes": 5300,
+     "sha256": "194a398ea056d609a762367613f2b607f8e004a814637e89eb687005539c3f45"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book V/Chapter 7",
+     "bytes": 6699,
+     "sha256": "833392cb60499a98734d51d8070e76f6100eec753890767dcff9e26f8d0abe67"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book V/Chapter 8",
+     "bytes": 6211,
+     "sha256": "c5c14b505ec25468fe4aa850335c5a0a7caf80fd56b68409aa549acb3ad9a271"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book V/Chapter 9",
+     "bytes": 2162,
+     "sha256": "b5bc6eda4ac24ee4aec5fb4c5f9952e8ad9c60ecbe77632494abe384d28fc8f6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book VI/Chapter 1",
+     "bytes": 4815,
+     "sha256": "06ae3b1ce5e45b662f3598a19fc59ebfbb58e5fdef34fef7f56f70cb2b8937e8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book VI/Chapter 10",
+     "bytes": 5656,
+     "sha256": "d5bb3e1849c350e83655cc789744aad11694ea0df5045a25c2472cb7b5c28a62"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book VI/Chapter 2",
+     "bytes": 6262,
+     "sha256": "de6bf509875005aa601848e6ef13648d9e120c0d7e31f80ac217d040cfd0331b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book VI/Chapter 3",
+     "bytes": 4919,
+     "sha256": "589404b0d301df21db3eb7d7dc3c15afa805126402d29cd80ee152ac28ad72c1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book VI/Chapter 4",
+     "bytes": 3505,
+     "sha256": "bb78004cf9cbc6b669245449885d78ef2e13db06c505e1bcce9937952d645f58"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book VI/Chapter 5",
+     "bytes": 3664,
+     "sha256": "eb43a80f9dc0c15d33c029c10c6ed823a810913298c14e3fde70183f4dd6d3d4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book VI/Chapter 6",
+     "bytes": 3493,
+     "sha256": "0a259f91ff10a8c9f9e05026e52f9aa216bdf5a33e67447301d203c720602218"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book VI/Chapter 7",
+     "bytes": 2729,
+     "sha256": "5f566af580f028b68806599800deef21f769c5945d82e3f2663335e20bc11fb9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book VI/Chapter 8",
+     "bytes": 4022,
+     "sha256": "63f5c02e6957beec9b7d209415c2184038162537c3d9d8ca1169dbaa39b28a05"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book VI/Chapter 9",
+     "bytes": 4929,
+     "sha256": "f937d5ca3e3bda148c418eab0e8e9e0eee2ddc72145fe03a4340df08fe539c19"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book VII/Chapter 1",
+     "bytes": 3595,
+     "sha256": "db5a94f53315fd0c51eddbb5d16c14fad982d35ee6902f92e6fdbbc13b544ae6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book VII/Chapter 10",
+     "bytes": 3790,
+     "sha256": "f7cc813b04984fbe34928f8c95b69795c315d18290d873906735f692fbf2fd58"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book VII/Chapter 11",
+     "bytes": 2358,
+     "sha256": "8fec77018489522b25b1fd8fa9fa57bce6eab4b294f3d660af89caefebd12d40"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book VII/Chapter 2",
+     "bytes": 3795,
+     "sha256": "9cc09a2933e1312ecf4dee420be09d2f27a8c2975c2aa036f7c5396c53232470"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book VII/Chapter 3",
+     "bytes": 4453,
+     "sha256": "d4497874315ffe08e6a7a70ffca7a26ddef6c5de44ecd39a992c3bd6bdab8e24"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book VII/Chapter 4",
+     "bytes": 7295,
+     "sha256": "2b570984ba91c4c55f2f6ab5e51fb3eecc7c924785716dca05f68e0e85e37b40"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book VII/Chapter 5",
+     "bytes": 4746,
+     "sha256": "d8b2a750ec887fca997581e843cff006e02aed0bb08f8102c196abd7d6104a08"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book VII/Chapter 6",
+     "bytes": 6227,
+     "sha256": "2fcf0ffe9b77e71457e400aa7b6ca8388fd6cf0050de621953f4c1d3e57359e3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book VII/Chapter 7",
+     "bytes": 12285,
+     "sha256": "2491b736c613045aa6579e6f8ac31768c90fdc8716f254505f410b02bb84cc04"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book VII/Chapter 8",
+     "bytes": 5901,
+     "sha256": "9d85de01bd9ea884a4741ecf6af4fa9a1a90263556859a332a518836ed11905b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book VII/Chapter 9",
+     "bytes": 6052,
+     "sha256": "6f2f370cb80d01bc056fc143aabb4f6e31f1365524af7748e0a64910412fb651"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book X/Chapter 1",
+     "bytes": 11563,
+     "sha256": "cd306dfd9cf6b08a2a280ab056224de5d5a03dbf6d37ad4be84e15b8811ef9fe"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book X/Chapter 10",
+     "bytes": 8115,
+     "sha256": "c8114a7aaf48e97c5f72eda600aeb0e593d1068ae97eae53dd7885faf4b9da3f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book X/Chapter 11",
+     "bytes": 7629,
+     "sha256": "37f3bcdd295fdb9b26eb5dce4421a0ed24951960fbed13be8b35fc45c19852a6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book X/Chapter 12",
+     "bytes": 2698,
+     "sha256": "eb24fcb1e478c2883659630ac65300c8bb29c3a3b6529750eb534d162838462e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book X/Chapter 2",
+     "bytes": 3545,
+     "sha256": "2061b179c6f563db387cc77b7cbd69d0e21ddb7c5b32854e7d14cf5ed128fa8b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book X/Chapter 3",
+     "bytes": 4802,
+     "sha256": "c8fdfe5c391a07fb5a684d87b8cec3dc1457793a1207219ca4fd86ff71cf25e5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book X/Chapter 4",
+     "bytes": 4336,
+     "sha256": "fd1778a2d9f46b46942561b515ccf4740d44a1528a65c627415f606541e525ab"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book X/Chapter 5",
+     "bytes": 4033,
+     "sha256": "e02b963f787e4d5c2aa96a7cfd57845d32914bfd338fe5338d6e111e6f993cc1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book X/Chapter 6",
+     "bytes": 1754,
+     "sha256": "ec5c8a22c88afada9e74e47dd4fa92e6c2d7c0c627a9370defbb0c4c4a65b239"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book X/Chapter 7",
+     "bytes": 6326,
+     "sha256": "0ab560036f0acbb0f0191534d95079e5ec2d453bd379f288c6fbd5a2986dbff6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book X/Chapter 8",
+     "bytes": 3393,
+     "sha256": "6213ee4756aaa42d743675c220e25fd6758dce37f05652661640ad14b54d2dbc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book X/Chapter 9",
+     "bytes": 2671,
+     "sha256": "a34d5b9333c9c71de2203c1900d11f9bde02354a5fb0dbe49b7871d4551ecf72"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XI/Chapter 1",
+     "bytes": 3637,
+     "sha256": "aad73eb7dd19fab9a7f4608014870eba256909a4d033275dda6263bdd0c084f6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XI/Chapter 10",
+     "bytes": 4128,
+     "sha256": "2380e773a6ce617d10419c9868764b39e138c11f7b87479b064f762d4f7dd4a9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XI/Chapter 11",
+     "bytes": 3083,
+     "sha256": "866d49d708c9577f84e02f3e406e7fcb42822ce04f79516e5e0e1100dd8dd8b8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XI/Chapter 2",
+     "bytes": 13089,
+     "sha256": "2ca24b7fab1f052dda88b1b2211f47ab3b943ce55074e0e846e82c09b5f2c55d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XI/Chapter 3",
+     "bytes": 5114,
+     "sha256": "4a3f302e84ce65aef54f29eff4a4be551156d84062f4d2efd1e300da7b374c1a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XI/Chapter 4",
+     "bytes": 4927,
+     "sha256": "2dfb10fb1afe4eaf5e5bfbc3c6cd733bbe62b084d9cabbf3db9f0b2fdf80791d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XI/Chapter 5",
+     "bytes": 6932,
+     "sha256": "9be1c3937c45e3fa40317a091d95ee698d4460970508492b211246f80209c664"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XI/Chapter 6",
+     "bytes": 4448,
+     "sha256": "1870dd57d05776b87f3160a70697925acf25af08507646562c10d2313b40860f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XI/Chapter 7",
+     "bytes": 6375,
+     "sha256": "bc62da2885deeb29b175acd08464ad4604e55d2b2945fb967eff62b2583fcd4b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XI/Chapter 8",
+     "bytes": 9418,
+     "sha256": "4a51850a02376f1468bcdf13da09ba048930b5cea30d792ace3124b29f7ccb00"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XI/Chapter 9",
+     "bytes": 4200,
+     "sha256": "16e280dceeff2d5ee6227fb20eb2ca9712a951e607d40c299db002c6e91e6be2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XII/Chapter 1",
+     "bytes": 2517,
+     "sha256": "32df2e0f5cad7b39a1964f34fda69df7bd0e748c1cc8e28b56c5f7efe68ef289"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XII/Chapter 10",
+     "bytes": 2770,
+     "sha256": "60756a3b0f298c7e567633b87b36bd9c587b5c5b0de5d259fe998b9b2ca9e98c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XII/Chapter 11",
+     "bytes": 3366,
+     "sha256": "79ade1e672ca8bfe143a88c34678cf3fa68edcfa761442114583f7a46d83d821"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XII/Chapter 12",
+     "bytes": 6845,
+     "sha256": "91ff38f2427065d81c10530284208b47e7f9ac6f46d8ceae9756aec14092295b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XII/Chapter 13",
+     "bytes": 3867,
+     "sha256": "e45f4237aa55aab936e907d0644cb345cdb067eaf191c1fbe0fb53492d52c541"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XII/Chapter 14",
+     "bytes": 7435,
+     "sha256": "0ff682155f4462c2348048491134e9f3539a4b66898293ab3b412dc805117c9d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XII/Chapter 15",
+     "bytes": 6233,
+     "sha256": "b052b7efa842b1488c963bc303970498565c85a18328a3b3ef67b776890cbaa7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XII/Chapter 2",
+     "bytes": 3429,
+     "sha256": "1a2e62acd43b6a9507bdc428600ea30767e32ab20056c57554f2623d03cd409d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XII/Chapter 3",
+     "bytes": 2531,
+     "sha256": "b7efe85a899bf5800051c78b172cd78a5ac2285797f26a248ecb6d4bf2d36e69"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XII/Chapter 4",
+     "bytes": 2297,
+     "sha256": "972aa1c972b82be0ca1cffc6b46f66f8c9473dba8817f21f77b27d437c757b27"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XII/Chapter 5",
+     "bytes": 4196,
+     "sha256": "f57fa36facb012e488ac2c702fb729bb77be325c451d7e449687cc91571a98b2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XII/Chapter 6",
+     "bytes": 8032,
+     "sha256": "53384e45ef59890ae0321d3f5ebdd93ce0b7617a02d447e2309b2602c62c3c2d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XII/Chapter 7",
+     "bytes": 9398,
+     "sha256": "742c9b591d02c54288451fca194d9a23c7d61794bc1211bcaa6214b27c7e3b7a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XII/Chapter 8",
+     "bytes": 2549,
+     "sha256": "87eeba73eb65f5fe932cc33e52d13b510610cb5f546ea1f9b0a292e156729f0b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XII/Chapter 9",
+     "bytes": 2505,
+     "sha256": "b814b07b271e99712dfa6239d2278cebd87dd02bdd08d05f084e3cc924347784"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIII/Chapter 1",
+     "bytes": 11823,
+     "sha256": "9990275762b451f1d995084b235f018ee10925ef316319501465f31de3dad0c8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIII/Chapter 10",
+     "bytes": 5396,
+     "sha256": "fe26e3c3993904ef6b66d5d4b1a444d49d6c9bc7da4276217ec1632df440d8d7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIII/Chapter 11",
+     "bytes": 3189,
+     "sha256": "9fbdfa2e75bfeaf102c984674ca5384dd1e1e1fa1616467b82d1d09ebb1e90ab"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIII/Chapter 12",
+     "bytes": 4374,
+     "sha256": "97c7ea2ff643991fb339f6d2690ec4b249bebc50b9382e5503b130347b93feb6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIII/Chapter 13",
+     "bytes": 5320,
+     "sha256": "33224581b63ff629f6fa033fc5351bd792e645ffb0ed0b01ea5911769078aa20"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIII/Chapter 14",
+     "bytes": 4735,
+     "sha256": "791c221fc6c872d4abbe63b2cd1f5c60d3ce9da747bddb14863b19e9ba975844"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIII/Chapter 15",
+     "bytes": 4379,
+     "sha256": "f9b9b57b60dff83531ef10b68747654783bb8ba346e6a07a779cda0e5e2b6d49"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIII/Chapter 16",
+     "bytes": 7884,
+     "sha256": "3ab3bc8ce6373ee07e1e57b08aa642a9fc5a30f7981700ca201929829de06e1b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIII/Chapter 17",
+     "bytes": 3343,
+     "sha256": "8e2adc8a36560bbcae8665e6fd6bd1191cf039fba520af2fb435d38dc9b96f38"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIII/Chapter 18",
+     "bytes": 4646,
+     "sha256": "fd10954cc7e4daaaf870c0be3d7615abfd6d7eb21fbe0a5670727aad8d9927ba"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIII/Chapter 19",
+     "bytes": 5801,
+     "sha256": "ba95e0e5be3835841cca151fd7b468b50cc5b55a8784a3bf3c4ce9009c830e19"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIII/Chapter 2",
+     "bytes": 4806,
+     "sha256": "1f3ae66dbb2a85b4e4a9dfe11c9d72dd3c4af17766c8f1375486cc53aca70f71"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIII/Chapter 20",
+     "bytes": 7260,
+     "sha256": "8afd7ad3802ed44522fb3fa9fe69d327ecad48fff3d0b312ffdd3bee7b4c1675"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIII/Chapter 3",
+     "bytes": 5060,
+     "sha256": "31a8246c0955056e05774341951e652300b1d118e94ffd4df4048a4cdc9ca9a4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIII/Chapter 4",
+     "bytes": 4394,
+     "sha256": "30f755f01420c1dd78724f4676325882d416e0617ad2576af12806cdfe64cacd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIII/Chapter 5",
+     "bytes": 3849,
+     "sha256": "64fc0bb86ff639de7bc3064911a0e8ae79e47da49cfd9b280aba50d505c5068d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIII/Chapter 6",
+     "bytes": 2915,
+     "sha256": "d7d27fb23f6e14ad9ca7ebc24db6c121f55d87acc70ff3d937794f0ac81c0fbc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIII/Chapter 7",
+     "bytes": 6759,
+     "sha256": "db709f388cba39c0daf18d3fd0d973ddf6ad482301d27842e75be333c91f7037"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIII/Chapter 8",
+     "bytes": 5012,
+     "sha256": "0316e2c40abc494576710444ed8c4459b749a313a70ecff47c795a1bd7a7f3ea"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIII/Chapter 9",
+     "bytes": 3800,
+     "sha256": "77b256e5adb376f8fa436054fc6b027198c42e58804f9b1c22dd3884f64c04de"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIV/Chapter 1",
+     "bytes": 7458,
+     "sha256": "29f2fc55aed53657b91a985a150996908c4ec0a4e2d2ff490924ffe29a969adb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIV/Chapter 10",
+     "bytes": 3240,
+     "sha256": "0bf95fa30b36dda5b3c3813d186fb67e66329de0e62e26366193c7b6e1f5ca5c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIV/Chapter 11",
+     "bytes": 2987,
+     "sha256": "95e94da8870a9433348246fd6e4d92615cf0a284cdc93d134ac0607cbbdfac94"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIV/Chapter 12",
+     "bytes": 4578,
+     "sha256": "07bf1d76655caa792fd6487aba3fde43631a4285c17e40c512a3c4536b42f721"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIV/Chapter 13",
+     "bytes": 3008,
+     "sha256": "613d7f816075bc656c355f6a0d308cabab1006ea8311a05ab930a5e88539b5e9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIV/Chapter 14",
+     "bytes": 8830,
+     "sha256": "1e2f09ceec6d1f6e71d58b93e34a87aadece850e18c19cdc2628fadddda1cd23"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIV/Chapter 15",
+     "bytes": 5771,
+     "sha256": "e7ab664dd9dbb06715881752ad304b0fb271cba9eb06c23863985a64a80f4bb6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIV/Chapter 16",
+     "bytes": 6257,
+     "sha256": "40bca3a5365bf27017021a459b0876d6c3e1ba05605591b6100f60be5abd44cf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIV/Chapter 17",
+     "bytes": 4625,
+     "sha256": "c96c39c3a7bacee703253b34f8965b864960b076bd180d96820cccfd77cd876f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIV/Chapter 18",
+     "bytes": 3164,
+     "sha256": "9a6f7c98a236705b210a43a747335d930491049e8357d4c1445cd238831e5706"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIV/Chapter 19",
+     "bytes": 6390,
+     "sha256": "ef55c76c556f5a4189cc8b405283c6e7bbf8e50dfaf413f31af771072b579f5c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIV/Chapter 2",
+     "bytes": 3166,
+     "sha256": "8466f843b8eff57107f90ac052fd292ea065f0293e40728410fba59a6418fe7b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIV/Chapter 3",
+     "bytes": 5682,
+     "sha256": "e82fb67932bee66f309f9ff0d3f366249d03277d7e105df21ec258190c5791b9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIV/Chapter 4",
+     "bytes": 4265,
+     "sha256": "d6d4d4b19cec4639adae1f8ac7c9ff2a772aa6b3258f385d53fffe505432775f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIV/Chapter 5",
+     "bytes": 3526,
+     "sha256": "16833a800f934ffad7723d9f5bb799af53ffff3a3741bc95e59da45be6ff2f7d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIV/Chapter 6",
+     "bytes": 6037,
+     "sha256": "e28babd4b12b37dbaeaada626223d3db921c51b27c2692fe332ac36c7ce2082a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIV/Chapter 7",
+     "bytes": 6476,
+     "sha256": "c9d527163c78af58434b41d7e4d2e6a231f3242cde616d13cbddd311549f60ef"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIV/Chapter 8",
+     "bytes": 6419,
+     "sha256": "7774abb086ac51b5e0764b775cac7c8d1e0d40628fbae18a2cf362cf93d0323f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XIV/Chapter 9",
+     "bytes": 4711,
+     "sha256": "f5ef3ec8385a013d4caee45ccb2597b13a84e4879ece8b1b98c7797fc5049475"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 1",
+     "bytes": 2115,
+     "sha256": "3a4d672c9d815f8e5ecdea590be956d9f95d78750f225ca93fa106afc924f779"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 10",
+     "bytes": 8091,
+     "sha256": "2c522a9e94c67be1084446327954e89dd06b5bef42ee009f144e3797b314f479"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 11",
+     "bytes": 8059,
+     "sha256": "c1ade3ae2126685f670d0941bb74b33a30180a273bef7c60cd11d8fad42e953e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 12",
+     "bytes": 8535,
+     "sha256": "47599ea5bb65e58ba7c9fcd0694aa09ba56ce683d8c79def8e4e6a2cc90e8dee"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 13",
+     "bytes": 4937,
+     "sha256": "5d6f2584f06dc7bf6f23fb25fcfc474a4a143f1e3de188b562776f69d54f8fa3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 14",
+     "bytes": 3957,
+     "sha256": "d8e89ac0c55cb391fe7fc9f3adc9351341523add93503905b4c8dd7412e53575"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 15",
+     "bytes": 6582,
+     "sha256": "af2f4df2c20a9bc410a0e2073a86e9d552b4f3a48f09213eb6627549cb1450cb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 16",
+     "bytes": 3550,
+     "sha256": "ae498170eb645cec5cde991a1cfaf710f01f8c420ecb366f32498fcf208e071e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 17",
+     "bytes": 11431,
+     "sha256": "05a82c0ff07ac925f2932461b47da5206f8a1b86897f8febbd7c40d414112e94"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 18",
+     "bytes": 3377,
+     "sha256": "ba7e5117426716f8bb0f526d16fef308efd8ce92575ad9e451199129b14505fc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 19",
+     "bytes": 14067,
+     "sha256": "c1f130467b848525193b652343ad22692fee0093d1e7d2f4f7988525a6ccf3dd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 2",
+     "bytes": 5045,
+     "sha256": "169dee0acc7ffbac78a790aee287fb093b735e76dbd621d447e9e482ea6be155"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 20",
+     "bytes": 5650,
+     "sha256": "cb4ee7d20ba6f3de6fe941e7d386c62ec8341b18b6135bcb76490e55541fe120"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 21",
+     "bytes": 4249,
+     "sha256": "a63bdec977dd64ebf3e58bb2e0e65d15f8a9366387abd21c777b603075e6eae9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 22",
+     "bytes": 2950,
+     "sha256": "3167543e173a6afc0c337eeb4abecb0f07c397ecb5b4dff74c8ecf48da9d30c5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 23",
+     "bytes": 6168,
+     "sha256": "895a0d591e0241e6c48a937c585b911feeff8786753e9598550437a3d33b23ae"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 24",
+     "bytes": 2458,
+     "sha256": "34e7fa49e6d0c1b2ddd3dbe58deac45b7f26b1eeca140dff2e4146d5dcf2b44f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 25",
+     "bytes": 3703,
+     "sha256": "e8ad2b6323bcd9622849c72f92d73055ec28515fcf0b6b23efc21e7393b56c64"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 26",
+     "bytes": 11327,
+     "sha256": "3172ace0ddcada42080c8bbd64ac7cc8564f1ecfcd84eea45f4a5f7ecd7ed911"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 27",
+     "bytes": 11445,
+     "sha256": "d3b00ad1582864115bb1aeaeee6e2131fec8427cc84e69eb4740b939827eef49"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 28",
+     "bytes": 5030,
+     "sha256": "2f19c6a0513a8af615f78cc71b7e77517b710cf5398c9fdd3d9eeb47791f51d2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 3",
+     "bytes": 9425,
+     "sha256": "ebe7e3cc07429b1e991736bab734ee84a3b7741e98e4818abbb2996520de1d53"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 4",
+     "bytes": 2484,
+     "sha256": "bbf1d81371d37f6c1c1ce2b77881b241d4b8cc9af4a7d3bd419467e07cdd7b7f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 5",
+     "bytes": 7010,
+     "sha256": "7b38669a40e43fb26c8892f943b9727829e4cebec0662f292541a3626bfccc03"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 6",
+     "bytes": 7583,
+     "sha256": "2962179390d75c8d8bc02d59c6f8481aa7e01b8d4dc89801d29218a4860a5de6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 7",
+     "bytes": 10003,
+     "sha256": "62d7dc4f01332302066a1b19d61c26d00a7ec51a41fbfe6107cc1c8e30b2b371"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 8",
+     "bytes": 4420,
+     "sha256": "15b54d90e5a9541de86404eceedbe5a412577ab6dca0403820f77436027adea2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Book XV/Chapter 9",
+     "bytes": 5766,
+     "sha256": "6e58ed73d1821f2b1187ac17171d8bedac5c1b98653640b6c4264110b2875521"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Introductory Essay",
+     "bytes": 37466,
+     "sha256": "4d88ad10ed1c173a098f806b083c9607acb73beceda6b1c0994b0acb89d1f940"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Holy Trinity/Translator's Preface",
+     "bytes": 10486,
+     "sha256": "d8b6a39a44476ae94dd1c1b5141d1dce9ef1651b9d7c836bbace11653976b2a7"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.1.front",
+     "title": "1.1.front",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.2",
+     "title": "1.2",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.3",
+     "title": "1.3",
+     "segments": 3
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.4",
+     "title": "1.4",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.5",
+     "title": "1.5",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.6",
+     "title": "1.6",
+     "segments": 6
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.7",
+     "title": "1.7",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.8",
+     "title": "1.8",
+     "segments": 5
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.9",
+     "title": "1.9",
+     "segments": 3
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.10",
+     "title": "1.10",
+     "segments": 3
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.11",
+     "title": "1.11",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.12",
+     "title": "1.12",
+     "segments": 6
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.13",
+     "title": "1.13",
+     "segments": 5
+    },
+    {
+     "file": "0017.json",
+     "ref": "2.1",
+     "title": "2.1",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "2.2",
+     "title": "2.2",
+     "segments": 3
+    },
+    {
+     "file": "0019.json",
+     "ref": "2.3",
+     "title": "2.3",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "2.4",
+     "title": "2.4",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "2.5",
+     "title": "2.5",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "2.6",
+     "title": "2.6",
+     "segments": 5
+    },
+    {
+     "file": "0023.json",
+     "ref": "2.7",
+     "title": "2.7",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "2.8",
+     "title": "2.8",
+     "segments": 3
+    },
+    {
+     "file": "0025.json",
+     "ref": "2.9",
+     "title": "2.9",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "2.10",
+     "title": "2.10",
+     "segments": 3
+    },
+    {
+     "file": "0027.json",
+     "ref": "2.11",
+     "title": "2.11",
+     "segments": 4
+    },
+    {
+     "file": "0028.json",
+     "ref": "2.12",
+     "title": "2.12",
+     "segments": 3
+    },
+    {
+     "file": "0029.json",
+     "ref": "2.13",
+     "title": "2.13",
+     "segments": 3
+    },
+    {
+     "file": "0030.json",
+     "ref": "2.14",
+     "title": "2.14",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "2.15",
+     "title": "2.15",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "2.16",
+     "title": "2.16",
+     "segments": 3
+    },
+    {
+     "file": "0033.json",
+     "ref": "2.17",
+     "title": "2.17",
+     "segments": 3
+    },
+    {
+     "file": "0034.json",
+     "ref": "2.18",
+     "title": "2.18",
+     "segments": 6
+    },
+    {
+     "file": "0035.json",
+     "ref": "2.19",
+     "title": "2.19",
+     "segments": 4
+    },
+    {
+     "file": "0036.json",
+     "ref": "3.1.front",
+     "title": "3.1.front",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "3.1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "3.1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "3.1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "3.2",
+     "title": "3.2",
+     "segments": 4
+    },
+    {
+     "file": "0041.json",
+     "ref": "3.3",
+     "title": "3.3",
+     "segments": 3
+    },
+    {
+     "file": "0042.json",
+     "ref": "3.4",
+     "title": "3.4",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "3.5",
+     "title": "3.5",
+     "segments": 3
+    },
+    {
+     "file": "0044.json",
+     "ref": "3.6",
+     "title": "3.6",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "3.7",
+     "title": "3.7",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "3.8",
+     "title": "3.8",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "3.9",
+     "title": "3.9",
+     "segments": 4
+    },
+    {
+     "file": "0048.json",
+     "ref": "3.10",
+     "title": "3.10",
+     "segments": 5
+    },
+    {
+     "file": "0049.json",
+     "ref": "3.11",
+     "title": "3.11",
+     "segments": 4
+    },
+    {
+     "file": "0050.json",
+     "ref": "3.12",
+     "title": "3.12",
+     "segments": 8
+    },
+    {
+     "file": "0051.json",
+     "ref": "4.1",
+     "title": "4.1",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "4.2",
+     "title": "4.2",
+     "segments": 3
+    },
+    {
+     "file": "0053.json",
+     "ref": "4.3",
+     "title": "4.3",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "4.4",
+     "title": "4.4",
+     "segments": 3
+    },
+    {
+     "file": "0055.json",
+     "ref": "4.5",
+     "title": "4.5",
+     "segments": 3
+    },
+    {
+     "file": "0056.json",
+     "ref": "4.6",
+     "title": "4.6",
+     "segments": 2
+    },
+    {
+     "file": "0057.json",
+     "ref": "4.7",
+     "title": "4.7",
+     "segments": 2
+    },
+    {
+     "file": "0058.json",
+     "ref": "4.8",
+     "title": "4.8",
+     "segments": 2
+    },
+    {
+     "file": "0059.json",
+     "ref": "4.9",
+     "title": "4.9",
+     "segments": 2
+    },
+    {
+     "file": "0060.json",
+     "ref": "4.10",
+     "title": "4.10",
+     "segments": 2
+    },
+    {
+     "file": "0061.json",
+     "ref": "4.11",
+     "title": "4.11",
+     "segments": 2
+    },
+    {
+     "file": "0062.json",
+     "ref": "4.12",
+     "title": "4.12",
+     "segments": 2
+    },
+    {
+     "file": "0063.json",
+     "ref": "4.13",
+     "title": "4.13",
+     "segments": 2
+    },
+    {
+     "file": "0064.json",
+     "ref": "4.14",
+     "title": "4.14",
+     "segments": 4
+    },
+    {
+     "file": "0065.json",
+     "ref": "4.15",
+     "title": "4.15",
+     "segments": 2
+    },
+    {
+     "file": "0066.json",
+     "ref": "4.16",
+     "title": "4.16",
+     "segments": 2
+    },
+    {
+     "file": "0067.json",
+     "ref": "4.17",
+     "title": "4.17",
+     "segments": 2
+    },
+    {
+     "file": "0068.json",
+     "ref": "4.18",
+     "title": "4.18",
+     "segments": 3
+    },
+    {
+     "file": "0069.json",
+     "ref": "4.19",
+     "title": "4.19",
+     "segments": 2
+    },
+    {
+     "file": "0070.json",
+     "ref": "4.20",
+     "title": "4.20",
+     "segments": 3
+    },
+    {
+     "file": "0071.json",
+     "ref": "4.21",
+     "title": "4.21",
+     "segments": 5
+    },
+    {
+     "file": "0072.json",
+     "ref": "4.22",
+     "title": "4.22",
+     "segments": 4
+    },
+    {
+     "file": "0073.json",
+     "ref": "5.1",
+     "title": "5.1",
+     "segments": 3
+    },
+    {
+     "file": "0074.json",
+     "ref": "5.2",
+     "title": "5.2",
+     "segments": 2
+    },
+    {
+     "file": "0075.json",
+     "ref": "5.3",
+     "title": "5.3",
+     "segments": 2
+    },
+    {
+     "file": "0076.json",
+     "ref": "5.4",
+     "title": "5.4",
+     "segments": 2
+    },
+    {
+     "file": "0077.json",
+     "ref": "5.5",
+     "title": "5.5",
+     "segments": 2
+    },
+    {
+     "file": "0078.json",
+     "ref": "5.6",
+     "title": "5.6",
+     "segments": 2
+    },
+    {
+     "file": "0079.json",
+     "ref": "5.7",
+     "title": "5.7",
+     "segments": 2
+    },
+    {
+     "file": "0080.json",
+     "ref": "5.8",
+     "title": "5.8",
+     "segments": 3
+    },
+    {
+     "file": "0081.json",
+     "ref": "5.9",
+     "title": "5.9",
+     "segments": 2
+    },
+    {
+     "file": "0082.json",
+     "ref": "5.10",
+     "title": "5.10",
+     "segments": 2
+    },
+    {
+     "file": "0083.json",
+     "ref": "5.11",
+     "title": "5.11",
+     "segments": 2
+    },
+    {
+     "file": "0084.json",
+     "ref": "5.12",
+     "title": "5.12",
+     "segments": 2
+    },
+    {
+     "file": "0085.json",
+     "ref": "5.13",
+     "title": "5.13",
+     "segments": 2
+    },
+    {
+     "file": "0086.json",
+     "ref": "5.14",
+     "title": "5.14",
+     "segments": 2
+    },
+    {
+     "file": "0087.json",
+     "ref": "5.15",
+     "title": "5.15",
+     "segments": 2
+    },
+    {
+     "file": "0088.json",
+     "ref": "5.16",
+     "title": "5.16",
+     "segments": 2
+    },
+    {
+     "file": "0089.json",
+     "ref": "6.1",
+     "title": "6.1",
+     "segments": 3
+    },
+    {
+     "file": "0090.json",
+     "ref": "6.2",
+     "title": "6.2",
+     "segments": 2
+    },
+    {
+     "file": "0091.json",
+     "ref": "6.3",
+     "title": "6.3",
+     "segments": 3
+    },
+    {
+     "file": "0092.json",
+     "ref": "6.4",
+     "title": "6.4",
+     "segments": 2
+    },
+    {
+     "file": "0093.json",
+     "ref": "6.5",
+     "title": "6.5",
+     "segments": 2
+    },
+    {
+     "file": "0094.json",
+     "ref": "6.6",
+     "title": "6.6",
+     "segments": 2
+    },
+    {
+     "file": "0095.json",
+     "ref": "6.7",
+     "title": "6.7",
+     "segments": 3
+    },
+    {
+     "file": "0096.json",
+     "ref": "6.8",
+     "title": "6.8",
+     "segments": 2
+    },
+    {
+     "file": "0097.json",
+     "ref": "6.9",
+     "title": "6.9",
+     "segments": 2
+    },
+    {
+     "file": "0098.json",
+     "ref": "6.10",
+     "title": "6.10",
+     "segments": 3
+    },
+    {
+     "file": "0099.json",
+     "ref": "7.1",
+     "title": "7.1",
+     "segments": 2
+    },
+    {
+     "file": "0100.json",
+     "ref": "7.2",
+     "title": "7.2",
+     "segments": 2
+    },
+    {
+     "file": "0101.json",
+     "ref": "7.3",
+     "title": "7.3",
+     "segments": 2
+    },
+    {
+     "file": "0102.json",
+     "ref": "7.4",
+     "title": "7.4",
+     "segments": 3
+    },
+    {
+     "file": "0103.json",
+     "ref": "7.5",
+     "title": "7.5",
+     "segments": 3
+    },
+    {
+     "file": "0104.json",
+     "ref": "7.6",
+     "title": "7.6",
+     "segments": 3
+    },
+    {
+     "file": "0105.json",
+     "ref": "7.7",
+     "title": "7.7",
+     "segments": 2
+    },
+    {
+     "file": "0106.json",
+     "ref": "7.8",
+     "title": "7.8",
+     "segments": 3
+    },
+    {
+     "file": "0107.json",
+     "ref": "7.9",
+     "title": "7.9",
+     "segments": 2
+    },
+    {
+     "file": "0108.json",
+     "ref": "7.10",
+     "title": "7.10",
+     "segments": 2
+    },
+    {
+     "file": "0109.json",
+     "ref": "7.11",
+     "title": "7.11",
+     "segments": 2
+    },
+    {
+     "file": "0110.json",
+     "ref": "9.1",
+     "title": "9.1",
+     "segments": 2
+    },
+    {
+     "file": "0111.json",
+     "ref": "9.2",
+     "title": "9.2",
+     "segments": 2
+    },
+    {
+     "file": "0112.json",
+     "ref": "9.3",
+     "title": "9.3",
+     "segments": 2
+    },
+    {
+     "file": "0113.json",
+     "ref": "9.4",
+     "title": "9.4",
+     "segments": 5
+    },
+    {
+     "file": "0114.json",
+     "ref": "9.5",
+     "title": "9.5",
+     "segments": 2
+    },
+    {
+     "file": "0115.json",
+     "ref": "9.6",
+     "title": "9.6",
+     "segments": 4
+    },
+    {
+     "file": "0116.json",
+     "ref": "9.7",
+     "title": "9.7",
+     "segments": 3
+    },
+    {
+     "file": "0117.json",
+     "ref": "9.8",
+     "title": "9.8",
+     "segments": 2
+    },
+    {
+     "file": "0118.json",
+     "ref": "9.9",
+     "title": "9.9",
+     "segments": 2
+    },
+    {
+     "file": "0119.json",
+     "ref": "9.10",
+     "title": "9.10",
+     "segments": 2
+    },
+    {
+     "file": "0120.json",
+     "ref": "9.11",
+     "title": "9.11",
+     "segments": 2
+    },
+    {
+     "file": "0121.json",
+     "ref": "9.12",
+     "title": "9.12",
+     "segments": 3
+    },
+    {
+     "file": "0122.json",
+     "ref": "10.1.front",
+     "title": "10.1.front",
+     "segments": 1
+    },
+    {
+     "file": "0123.json",
+     "ref": "10.1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0124.json",
+     "ref": "10.1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0125.json",
+     "ref": "10.1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0126.json",
+     "ref": "10.2",
+     "title": "10.2",
+     "segments": 2
+    },
+    {
+     "file": "0127.json",
+     "ref": "10.3",
+     "title": "10.3",
+     "segments": 2
+    },
+    {
+     "file": "0128.json",
+     "ref": "10.4",
+     "title": "10.4",
+     "segments": 2
+    },
+    {
+     "file": "0129.json",
+     "ref": "10.5",
+     "title": "10.5",
+     "segments": 2
+    },
+    {
+     "file": "0130.json",
+     "ref": "10.6",
+     "title": "10.6",
+     "segments": 2
+    },
+    {
+     "file": "0131.json",
+     "ref": "10.7",
+     "title": "10.7",
+     "segments": 4
+    },
+    {
+     "file": "0132.json",
+     "ref": "10.8",
+     "title": "10.8",
+     "segments": 2
+    },
+    {
+     "file": "0133.json",
+     "ref": "10.9",
+     "title": "10.9",
+     "segments": 2
+    },
+    {
+     "file": "0134.json",
+     "ref": "10.10",
+     "title": "10.10",
+     "segments": 5
+    },
+    {
+     "file": "0135.json",
+     "ref": "10.11",
+     "title": "10.11",
+     "segments": 3
+    },
+    {
+     "file": "0136.json",
+     "ref": "10.12",
+     "title": "10.12",
+     "segments": 2
+    },
+    {
+     "file": "0137.json",
+     "ref": "11.1",
+     "title": "11.1",
+     "segments": 2
+    },
+    {
+     "file": "0138.json",
+     "ref": "11.2.front",
+     "title": "11.2.front",
+     "segments": 1
+    },
+    {
+     "file": "0139.json",
+     "ref": "11.2.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0140.json",
+     "ref": "11.2.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0141.json",
+     "ref": "11.2.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0142.json",
+     "ref": "11.2.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0143.json",
+     "ref": "11.3",
+     "title": "11.3",
+     "segments": 2
+    },
+    {
+     "file": "0144.json",
+     "ref": "11.4",
+     "title": "11.4",
+     "segments": 2
+    },
+    {
+     "file": "0145.json",
+     "ref": "11.5",
+     "title": "11.5",
+     "segments": 3
+    },
+    {
+     "file": "0146.json",
+     "ref": "11.6",
+     "title": "11.6",
+     "segments": 2
+    },
+    {
+     "file": "0147.json",
+     "ref": "11.7",
+     "title": "11.7",
+     "segments": 3
+    },
+    {
+     "file": "0148.json",
+     "ref": "11.8",
+     "title": "11.8",
+     "segments": 5
+    },
+    {
+     "file": "0149.json",
+     "ref": "11.9",
+     "title": "11.9",
+     "segments": 2
+    },
+    {
+     "file": "0150.json",
+     "ref": "11.10",
+     "title": "11.10",
+     "segments": 2
+    },
+    {
+     "file": "0151.json",
+     "ref": "11.11",
+     "title": "11.11",
+     "segments": 2
+    },
+    {
+     "file": "0152.json",
+     "ref": "12.1",
+     "title": "12.1",
+     "segments": 2
+    },
+    {
+     "file": "0153.json",
+     "ref": "12.2",
+     "title": "12.2",
+     "segments": 2
+    },
+    {
+     "file": "0154.json",
+     "ref": "12.3",
+     "title": "12.3",
+     "segments": 2
+    },
+    {
+     "file": "0155.json",
+     "ref": "12.4",
+     "title": "12.4",
+     "segments": 2
+    },
+    {
+     "file": "0156.json",
+     "ref": "12.5",
+     "title": "12.5",
+     "segments": 2
+    },
+    {
+     "file": "0157.json",
+     "ref": "12.6",
+     "title": "12.6",
+     "segments": 4
+    },
+    {
+     "file": "0158.json",
+     "ref": "12.7",
+     "title": "12.7",
+     "segments": 5
+    },
+    {
+     "file": "0159.json",
+     "ref": "12.8",
+     "title": "12.8",
+     "segments": 2
+    },
+    {
+     "file": "0160.json",
+     "ref": "12.9",
+     "title": "12.9",
+     "segments": 2
+    },
+    {
+     "file": "0161.json",
+     "ref": "12.10",
+     "title": "12.10",
+     "segments": 2
+    },
+    {
+     "file": "0162.json",
+     "ref": "12.11",
+     "title": "12.11",
+     "segments": 2
+    },
+    {
+     "file": "0163.json",
+     "ref": "12.12",
+     "title": "12.12",
+     "segments": 4
+    },
+    {
+     "file": "0164.json",
+     "ref": "12.13",
+     "title": "12.13",
+     "segments": 3
+    },
+    {
+     "file": "0165.json",
+     "ref": "12.14",
+     "title": "12.14",
+     "segments": 4
+    },
+    {
+     "file": "0166.json",
+     "ref": "12.15",
+     "title": "12.15",
+     "segments": 3
+    },
+    {
+     "file": "0167.json",
+     "ref": "13.1.front",
+     "title": "13.1.front",
+     "segments": 1
+    },
+    {
+     "file": "0168.json",
+     "ref": "13.1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0169.json",
+     "ref": "13.1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0170.json",
+     "ref": "13.1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0171.json",
+     "ref": "13.1.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0172.json",
+     "ref": "13.2",
+     "title": "13.2",
+     "segments": 2
+    },
+    {
+     "file": "0173.json",
+     "ref": "13.3",
+     "title": "13.3",
+     "segments": 2
+    },
+    {
+     "file": "0174.json",
+     "ref": "13.4",
+     "title": "13.4",
+     "segments": 2
+    },
+    {
+     "file": "0175.json",
+     "ref": "13.5",
+     "title": "13.5",
+     "segments": 2
+    },
+    {
+     "file": "0176.json",
+     "ref": "13.6",
+     "title": "13.6",
+     "segments": 2
+    },
+    {
+     "file": "0177.json",
+     "ref": "13.7",
+     "title": "13.7",
+     "segments": 4
+    },
+    {
+     "file": "0178.json",
+     "ref": "13.8",
+     "title": "13.8",
+     "segments": 2
+    },
+    {
+     "file": "0179.json",
+     "ref": "13.9",
+     "title": "13.9",
+     "segments": 2
+    },
+    {
+     "file": "0180.json",
+     "ref": "13.10",
+     "title": "13.10",
+     "segments": 3
+    },
+    {
+     "file": "0181.json",
+     "ref": "13.11",
+     "title": "13.11",
+     "segments": 2
+    },
+    {
+     "file": "0182.json",
+     "ref": "13.12",
+     "title": "13.12",
+     "segments": 2
+    },
+    {
+     "file": "0183.json",
+     "ref": "13.13",
+     "title": "13.13",
+     "segments": 2
+    },
+    {
+     "file": "0184.json",
+     "ref": "13.14",
+     "title": "13.14",
+     "segments": 2
+    },
+    {
+     "file": "0185.json",
+     "ref": "13.15",
+     "title": "13.15",
+     "segments": 2
+    },
+    {
+     "file": "0186.json",
+     "ref": "13.16",
+     "title": "13.16",
+     "segments": 3
+    },
+    {
+     "file": "0187.json",
+     "ref": "13.17",
+     "title": "13.17",
+     "segments": 2
+    },
+    {
+     "file": "0188.json",
+     "ref": "13.18",
+     "title": "13.18",
+     "segments": 2
+    },
+    {
+     "file": "0189.json",
+     "ref": "13.19",
+     "title": "13.19",
+     "segments": 2
+    },
+    {
+     "file": "0190.json",
+     "ref": "13.20",
+     "title": "13.20",
+     "segments": 3
+    },
+    {
+     "file": "0191.json",
+     "ref": "14.1.front",
+     "title": "14.1.front",
+     "segments": 1
+    },
+    {
+     "file": "0192.json",
+     "ref": "14.1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0193.json",
+     "ref": "14.1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0194.json",
+     "ref": "14.1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0195.json",
+     "ref": "14.2",
+     "title": "14.2",
+     "segments": 2
+    },
+    {
+     "file": "0196.json",
+     "ref": "14.3",
+     "title": "14.3",
+     "segments": 3
+    },
+    {
+     "file": "0197.json",
+     "ref": "14.4",
+     "title": "14.4",
+     "segments": 3
+    },
+    {
+     "file": "0198.json",
+     "ref": "14.5",
+     "title": "14.5",
+     "segments": 3
+    },
+    {
+     "file": "0199.json",
+     "ref": "14.6",
+     "title": "14.6",
+     "segments": 3
+    },
+    {
+     "file": "0200.json",
+     "ref": "14.7",
+     "title": "14.7",
+     "segments": 3
+    },
+    {
+     "file": "0201.json",
+     "ref": "14.8",
+     "title": "14.8",
+     "segments": 2
+    },
+    {
+     "file": "0202.json",
+     "ref": "14.9",
+     "title": "14.9",
+     "segments": 2
+    },
+    {
+     "file": "0203.json",
+     "ref": "14.10",
+     "title": "14.10",
+     "segments": 2
+    },
+    {
+     "file": "0204.json",
+     "ref": "14.11",
+     "title": "14.11",
+     "segments": 2
+    },
+    {
+     "file": "0205.json",
+     "ref": "14.12",
+     "title": "14.12",
+     "segments": 3
+    },
+    {
+     "file": "0206.json",
+     "ref": "14.13",
+     "title": "14.13",
+     "segments": 2
+    },
+    {
+     "file": "0207.json",
+     "ref": "14.14",
+     "title": "14.14",
+     "segments": 4
+    },
+    {
+     "file": "0208.json",
+     "ref": "14.15",
+     "title": "14.15",
+     "segments": 2
+    },
+    {
+     "file": "0209.json",
+     "ref": "14.16",
+     "title": "14.16",
+     "segments": 3
+    },
+    {
+     "file": "0210.json",
+     "ref": "14.17",
+     "title": "14.17",
+     "segments": 2
+    },
+    {
+     "file": "0211.json",
+     "ref": "14.18",
+     "title": "14.18",
+     "segments": 2
+    },
+    {
+     "file": "0212.json",
+     "ref": "14.19",
+     "title": "14.19",
+     "segments": 3
+    },
+    {
+     "file": "0213.json",
+     "ref": "15.1",
+     "title": "15.1",
+     "segments": 2
+    },
+    {
+     "file": "0214.json",
+     "ref": "15.2",
+     "title": "15.2",
+     "segments": 3
+    },
+    {
+     "file": "0215.json",
+     "ref": "15.3",
+     "title": "15.3",
+     "segments": 3
+    },
+    {
+     "file": "0216.json",
+     "ref": "15.4",
+     "title": "15.4",
+     "segments": 2
+    },
+    {
+     "file": "0217.json",
+     "ref": "15.5",
+     "title": "15.5",
+     "segments": 3
+    },
+    {
+     "file": "0218.json",
+     "ref": "15.6",
+     "title": "15.6",
+     "segments": 3
+    },
+    {
+     "file": "0219.json",
+     "ref": "15.7",
+     "title": "15.7",
+     "segments": 4
+    },
+    {
+     "file": "0220.json",
+     "ref": "15.8",
+     "title": "15.8",
+     "segments": 2
+    },
+    {
+     "file": "0221.json",
+     "ref": "15.9",
+     "title": "15.9",
+     "segments": 3
+    },
+    {
+     "file": "0222.json",
+     "ref": "15.10",
+     "title": "15.10",
+     "segments": 4
+    },
+    {
+     "file": "0223.json",
+     "ref": "15.11",
+     "title": "15.11",
+     "segments": 3
+    },
+    {
+     "file": "0224.json",
+     "ref": "15.12",
+     "title": "15.12",
+     "segments": 3
+    },
+    {
+     "file": "0225.json",
+     "ref": "15.13",
+     "title": "15.13",
+     "segments": 2
+    },
+    {
+     "file": "0226.json",
+     "ref": "15.14",
+     "title": "15.14",
+     "segments": 3
+    },
+    {
+     "file": "0227.json",
+     "ref": "15.15",
+     "title": "15.15",
+     "segments": 3
+    },
+    {
+     "file": "0228.json",
+     "ref": "15.16",
+     "title": "15.16",
+     "segments": 3
+    },
+    {
+     "file": "0229.json",
+     "ref": "15.17",
+     "title": "15.17",
+     "segments": 6
+    },
+    {
+     "file": "0230.json",
+     "ref": "15.18",
+     "title": "15.18",
+     "segments": 2
+    },
+    {
+     "file": "0231.json",
+     "ref": "15.19",
+     "title": "15.19",
+     "segments": 6
+    },
+    {
+     "file": "0232.json",
+     "ref": "15.20",
+     "title": "15.20",
+     "segments": 3
+    },
+    {
+     "file": "0233.json",
+     "ref": "15.21",
+     "title": "15.21",
+     "segments": 3
+    },
+    {
+     "file": "0234.json",
+     "ref": "15.22",
+     "title": "15.22",
+     "segments": 2
+    },
+    {
+     "file": "0235.json",
+     "ref": "15.23",
+     "title": "15.23",
+     "segments": 3
+    },
+    {
+     "file": "0236.json",
+     "ref": "15.24",
+     "title": "15.24",
+     "segments": 2
+    },
+    {
+     "file": "0237.json",
+     "ref": "15.25",
+     "title": "15.25",
+     "segments": 3
+    },
+    {
+     "file": "0238.json",
+     "ref": "15.26",
+     "title": "15.26",
+     "segments": 4
+    },
+    {
+     "file": "0239.json",
+     "ref": "15.27",
+     "title": "15.27",
+     "segments": 4
+    },
+    {
+     "file": "0240.json",
+     "ref": "15.28",
+     "title": "15.28",
+     "segments": 2
+    },
+    {
+     "file": "0241.json",
+     "ref": "p1.front",
+     "title": "p1.front",
+     "segments": 11
+    },
+    {
+     "file": "0242.json",
+     "ref": "p1.1",
+     "title": "1",
+     "segments": 2
+    },
+    {
+     "file": "0243.json",
+     "ref": "p1.2",
+     "title": "2",
+     "segments": 3
+    },
+    {
+     "file": "0244.json",
+     "ref": "p1.3",
+     "title": "3",
+     "segments": 22
+    },
+    {
+     "file": "0245.json",
+     "ref": "p2",
+     "title": "p2",
+     "segments": 11
+    }
+   ]
+  }
+ ]
+}

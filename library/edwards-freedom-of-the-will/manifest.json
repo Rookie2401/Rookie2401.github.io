@@ -1,0 +1,269 @@
+{
+ "workId": "edwards-freedom-of-the-will",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "edwards-freedom-boston-1754-tcp",
+   "role": "english",
+   "language": "english",
+   "credit": "A careful and strict enquiry into the modern prevailing notions of that freedom of will, in Text Creation Partnership N05663 (Boston: S. Kneeland, 1754). Transcription: Text Creation Partnership (EEBO/Evans/ECCO-TCP), keyed and encoded from page images of the printing named in the header (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/N05663/master/N05663.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 950492,
+   "sourceSha256": "0c351e861188197f74d0e4fe0ebb787c6361b759abd212cb12761f88549b80e8",
+   "leftOut": {
+    "pb": 300,
+    "unread": 355,
+    "note": 39
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 121627,
+    "unreadPerThousand": 2.9
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "THE PREFACE.",
+     "segments": 6
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.1",
+     "title": "SECTION I. Concerning the Nature of the Will.",
+     "segments": 6
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.2",
+     "title": "SECTION II. Concerning the Determination of the Will.",
+     "segments": 24
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.3",
+     "title": "SECTION III. Concerning the Meaning of the Terms Necessity, Impossibility, Inability, and of Contingence.",
+     "segments": 26
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.4",
+     "title": "SECTION IV. Of the Distinction of natural and moral Necessity, and Inability.",
+     "segments": 13
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.5",
+     "title": "SECTION V. Concerning the Notion of Liberty, and of moral Agency.",
+     "segments": 8
+    },
+    {
+     "file": "0007.json",
+     "ref": "2.1",
+     "title": "SECTION I. Shewing the manifest Inconsistence of the Arminian Notion of Liberty of Will, consisting in the Will's self-determining Power.",
+     "segments": 5
+    },
+    {
+     "file": "0008.json",
+     "ref": "2.2",
+     "title": "SECTION II. Several supposed Ways of evading the foregoing Reasoning, considered.",
+     "segments": 13
+    },
+    {
+     "file": "0009.json",
+     "ref": "2.3",
+     "title": "SECTION III. Whether any Event whatsoever, and Volition in particular, can come to pass without a Cause of it's Existence.",
+     "segments": 15
+    },
+    {
+     "file": "0010.json",
+     "ref": "2.4",
+     "title": "SECTION IV. Whether Volition can arise without a Cause, through the Activity of the Nature of the Soul.",
+     "segments": 8
+    },
+    {
+     "file": "0011.json",
+     "ref": "2.5",
+     "title": "SECTION V. Shewing, that if the Things asserted in these Evasions should be supposed to be true, they are altogether impertinent, and can't help the Cause of Arminian Liberty; And how (this being the ",
+     "segments": 7
+    },
+    {
+     "file": "0012.json",
+     "ref": "2.6",
+     "title": "SECTION VI. Concerning the Will's determining in Things which are perfectly indifferent, in the View of the Mind.",
+     "segments": 14
+    },
+    {
+     "file": "0013.json",
+     "ref": "2.7",
+     "title": "SECTION VII. Concerning the Notion of Liberty of Will consisting in Indifference.",
+     "segments": 22
+    },
+    {
+     "file": "0014.json",
+     "ref": "2.8",
+     "title": "SECTION VIII. Concerning the supposed Liberty of the Will, as opposite to all Necessity.",
+     "segments": 10
+    },
+    {
+     "file": "0015.json",
+     "ref": "2.9",
+     "title": "SECTION IX. Of the Connection of the Acts of the Will with the Dictates of the Understanding.",
+     "segments": 14
+    },
+    {
+     "file": "0016.json",
+     "ref": "2.10",
+     "title": "SECTION X. Volition necessarily connected with the Influence of Motives; with particular Observations on the great Inconsistence of Mr. Chubb's Assertions and Reasonings, about the Freedom of the Will",
+     "segments": 34
+    },
+    {
+     "file": "0017.json",
+     "ref": "2.11",
+     "title": "SECTION XI. The Evidence of GOD's certain Foreknowledge of the Volitions of moral Agents.",
+     "segments": 45
+    },
+    {
+     "file": "0018.json",
+     "ref": "2.12",
+     "title": "SECTION XII. GOD's certain Foreknowledge of the future Volitions of moral Agents, inconsistent with such a Contingence of those Volitions, as is without all Necessity.",
+     "segments": 34
+    },
+    {
+     "file": "0019.json",
+     "ref": "2.13",
+     "title": "SECTION XIII. Whether we suppose the Volitions of moral Agents to be connected with any Thing antecedent, or not, yet they must be necessary in such a Sense as to overthrow Arminian Liberty.",
+     "segments": 4
+    },
+    {
+     "file": "0020.json",
+     "ref": "3.1",
+     "title": "SECTION I. GOD's moral Excellency necessary, yet vertuous and praise-worthy.",
+     "segments": 9
+    },
+    {
+     "file": "0021.json",
+     "ref": "3.2",
+     "title": "SECTION II. The Acts of the Will of the human Soul of JESUS CHRIST necessarily holy, yet truly vertuous, praise-worthy, rewardable, &c.",
+     "segments": 29
+    },
+    {
+     "file": "0022.json",
+     "ref": "3.3",
+     "title": "SECTION III. The Case of such as are given up of God to Sin, and of fallen Man in general, proves moral Necessity and Inability to be consistent with Blame-worthiness.",
+     "segments": 13
+    },
+    {
+     "file": "0023.json",
+     "ref": "3.4",
+     "title": "SECTION IV. Command, and Obligation to Obedience, consistent with moral Inability to obey.",
+     "segments": 27
+    },
+    {
+     "file": "0024.json",
+     "ref": "3.5",
+     "title": "SECTION V. That Sincerity of Desires and Endeavours, which is supposed to excuse in the Non-performance of Things in themselves good, particularly considered.",
+     "segments": 21
+    },
+    {
+     "file": "0025.json",
+     "ref": "3.6",
+     "title": "SECTION VI. Liberty of Indifference, not only not necessary to Vertue, but utterly inconsistent with it; And all, either vertuous or vicious Habits or Inclinations, inconsistent with Arminian Notions ",
+     "segments": 15
+    },
+    {
+     "file": "0026.json",
+     "ref": "3.7",
+     "title": "SECTION VII. Arminian Notions of moral Agency inconsistent with all Influence of Motive and Inducement, in either vertuous or vicious Actions.",
+     "segments": 15
+    },
+    {
+     "file": "0027.json",
+     "ref": "4.1",
+     "title": "SECTION I. The Essence of the Vertue and Vice of Dispositions of the Heart, and Acts of the Will, lies not in their Cause, but their Nature.",
+     "segments": 12
+    },
+    {
+     "file": "0028.json",
+     "ref": "4.2",
+     "title": "SECTION II. The Falseness and Inconsistence of that metaphysical Notion of Action, and Agency, which seems to be generally entertained by the Defenders of the Arminian Doctrine concerning Liberty, mor",
+     "segments": 16
+    },
+    {
+     "file": "0029.json",
+     "ref": "4.3",
+     "title": "SECTION III. The Reasons why some think it contrary to common Sense, to suppose those Things which are necessary, to be worthy of either Praise or Blame.",
+     "segments": 12
+    },
+    {
+     "file": "0030.json",
+     "ref": "4.4",
+     "title": "SECTION IV. It is agreable to common Sense, and the natural Notions of Mankind, to suppose moral Necessity to be consistent with Praise and Blame, Reward and Punishment.",
+     "segments": 14
+    },
+    {
+     "file": "0031.json",
+     "ref": "4.5",
+     "title": "SECTION V. Concerning those Objections, that this Scheme of Necessity renders all Means and Endeavours for the avoiding of Sin, or the obtaining Vertue and Holiness, vain, and to no Purpose; and that ",
+     "segments": 16
+    },
+    {
+     "file": "0032.json",
+     "ref": "4.6",
+     "title": "SECTION VI. Concerning that Objection against the Doctrine which has been maintain'd, that it agrees with the Stoical Doctrine of Fate, and the Opinions of Mr. Hobbes.",
+     "segments": 8
+    },
+    {
+     "file": "0033.json",
+     "ref": "4.7",
+     "title": "SECTION VII. Concerning the Necessity of the Divine Will.",
+     "segments": 14
+    },
+    {
+     "file": "0034.json",
+     "ref": "4.8",
+     "title": "SECTION VIII. Some further Objections against the moral Necessity of GOD'S Volitions considered.",
+     "segments": 28
+    },
+    {
+     "file": "0035.json",
+     "ref": "4.9",
+     "title": "SECTION IX. Concerning that Objection against the Doctrine which has been maintain'd, that it makes GOD the Author of Sin.",
+     "segments": 30
+    },
+    {
+     "file": "0036.json",
+     "ref": "4.10",
+     "title": "SECTION X. Concerning Sin's first Entrance into the World.",
+     "segments": 5
+    },
+    {
+     "file": "0037.json",
+     "ref": "4.11",
+     "title": "SECTION XI. Of a supposed Inconsistence of these Principles, with GOD's moral Character.",
+     "segments": 5
+    },
+    {
+     "file": "0038.json",
+     "ref": "4.12",
+     "title": "SECTION XII. Of a supposed Tendency of these Principles to Atheism and Licentiousness.",
+     "segments": 5
+    },
+    {
+     "file": "0039.json",
+     "ref": "4.13",
+     "title": "SECTION XIII. Concerning that Objection against the Reasoning, by which the Calvinistic Doctrine is supported, that it is Metaphysical and Abstruse.",
+     "segments": 7
+    },
+    {
+     "file": "0040.json",
+     "ref": "5",
+     "title": "THE CONCLUSION.",
+     "segments": 13
+    }
+   ]
+  }
+ ]
+}

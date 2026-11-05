@@ -1,0 +1,2267 @@
+{
+ "workId": "doddridge-hymns-1755",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "doddridge-hymns-shrewsbury-1755-tcp",
+   "role": "english",
+   "language": "english",
+   "credit": "Hymns founded on various texts in the holy scriptures, in Text Creation Partnership K077667.000, ed. Job Orton (Shrewsbury: J. Eddowes and J. Cotton, 1755). Transcription: Text Creation Partnership (EEBO/Evans/ECCO-TCP), keyed and encoded from page images of the printing named in the header (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/K077667.000/master/K077667.000.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 885210,
+   "sourceSha256": "ce4e06758604e031ccf786bc4431a6cc3d06abaec4b3aa2496208a55a42d8c46",
+   "leftOut": {
+    "pb": 347,
+    "unread": 10,
+    "note": 122
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 53656,
+    "unreadPerThousand": 0.2
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "THE PREFACE.",
+     "segments": 11
+    },
+    {
+     "file": "0002.json",
+     "ref": "front.2",
+     "title": "A TABLE TO FIND OUT ANY HYMN BY THE FIRST LINE OF IT.",
+     "segments": 20
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.1.1",
+     "title": "I. Enoch's Piety and Tranſlation, Geneſis V. 24. Hebrews XI. 5.",
+     "segments": 6
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.1.2",
+     "title": "II. GOD'S gracious Approbation of a religious Care of our Families, Geneſis xviii. 19.",
+     "segments": 4
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.1.3",
+     "title": "III. ABRAHAM'S Interceſſion for SODOM. Geneſis xviii. 32.",
+     "segments": 7
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.1.4",
+     "title": "IV. JACOB'S Vow. Geneſis xxviii. 20.-22.",
+     "segments": 5
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.1.5",
+     "title": "V. The Hand of the LORD upon the Cattle. Exodus ix. 3.",
+     "segments": 5
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.1.6",
+     "title": "VI. ISRAEL and AMALEK. Exodus xvii. 11.",
+     "segments": 5
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.1.7",
+     "title": "VII. Againſt following a Multitude to do Evil. Exodus XXIII. 2.",
+     "segments": 5
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.1.8",
+     "title": "VIII. CHRIST'S Interceſſion typified by AARON'S Breaſtplate. Exodus xxviii. 29.",
+     "segments": 5
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.1.9",
+     "title": "IX. Who is on the Lord's Side? Exodus xxxii. 26.",
+     "segments": 4
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.1.10",
+     "title": "X. GOD'S Preſence deſireable. Exodus xxxiii. 15.",
+     "segments": 5
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.1.11",
+     "title": "XI. MOSES'S View of the divine Glory. Exod. xxxiii. 18.",
+     "segments": 4
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.1.12",
+     "title": "XII. The Proclamation of GOD'S Name to Moſes, or divine Mercy and Juſtice. Exod. xxxiv. 6,-8.",
+     "segments": 4
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.1.13",
+     "title": "XIII. The GOD of Spirits ſought to ſupply Vacancies in the Congregations of his People Numbers xxvii. 15,-17.",
+     "segments": 7
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.1.14",
+     "title": "XIV. The Lord's People his Portion. Deuteron. xxxii. 9.",
+     "segments": 5
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.1.15",
+     "title": "XV. The Eternal GOD his People's Refuge, and Support. Deut. xxxiii. 27.",
+     "segments": 4
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.1.16",
+     "title": "XVI. The Happineſs of GOD'S Iſrael. Deut, xxxiii. 29.",
+     "segments": 5
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.1.17",
+     "title": "XVII. Support in the gracious Preſence of GOD under the Loſs of Miniſters, and other uſeful Friends. Joſhua i. 2, 4, 5.",
+     "segments": 6
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.1.18",
+     "title": "XVIII. GOD inſenſibly withdrawn. Judges xvi. 20.",
+     "segments": 6
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.1.19",
+     "title": "XIX. EBENEZER, or GOD'S helping Hand review'd and acknowledged. 1 Sam. vii. 12.",
+     "segments": 4
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.1.20",
+     "title": "XX. The Saint encouraging himſelf in the LORD his GOD. 1 Sam. xxx. 6.",
+     "segments": 3
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.1.21",
+     "title": "XXI. Support in GOD'S Covenant under domeſtick Troubles. 2 Sam. xxiii. 5.",
+     "segments": 5
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.1.22",
+     "title": "XXII. Support in GOD'S Covenant in the near Views of Death. 2 Sam. xxiii. 1. and 5. compared.",
+     "segments": 7
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.1.23",
+     "title": "XXIII. Rejoicing in our Covenant Engagements to GOD. 1 Chron. xv. 15.",
+     "segments": 5
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.1.24",
+     "title": "XXIV. GOD'S ſtirring up the Spirit of CYRUS to redeem ISRAEL. Ezra i. 1. compared with Iſaiah xlv. 1.-4.",
+     "segments": 6
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.1.25",
+     "title": "XXV. A Glance from GOD bringing us down to the Solitude of the Grave. Job vii. 8.",
+     "segments": 5
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.1.26",
+     "title": "XXVI. The Impoſſibility of Proſpering while we harden ourſelves againſt GOD. Job ix. 4.",
+     "segments": 6
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.1.27",
+     "title": "XXVII. The great Journey. Job xvi. 22.",
+     "segments": 7
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.1.28",
+     "title": "XXVIII. The Penitent brought back from 〈◊〉 Pit. Job xxxiii. 27. 28.",
+     "segments": 5
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.1.29",
+     "title": "XXIX. Communing with our Hearts. Pſal. iv. 4.",
+     "segments": 5
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.1.30",
+     "title": "XXX. GOD'S Name the Encouragement of our Faith. Pſalm ix. 10.",
+     "segments": 6
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.1.31",
+     "title": "XXXI. Triumph in GOD'S Protection. Pſalm xviii. 2.",
+     "segments": 6
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.1.32",
+     "title": "XXXII. Support in Death. Pſalm xxiii. 4.",
+     "segments": 6
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.1.33",
+     "title": "XXXIII. The Good Man's Proſpect for Time and Eternity. Pſalm xxiii. 6.",
+     "segments": 5
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.1.34",
+     "title": "XXXIV. The Goodneſs which GOD has wrought, and laid up for his People. Pſal. xxxi. 19.",
+     "segments": 7
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.1.35",
+     "title": "XXXV. Reliſhing the divine Goodneſs. Pſalm xxxiv. 8, 9.",
+     "segments": 5
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.1.36",
+     "title": "XXXVI. GOD'S ſaying to the Soul, that he is its Salvation. Pſalm xxxv. 3.",
+     "segments": 6
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.1.37",
+     "title": "XXXVII. GOD'S Complacency in the Proſperity of his Servants. Pſalm xxxv. 27.",
+     "segments": 4
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.1.38",
+     "title": "XXXVIII. The Days of the Upright known to GOD, and their everlaſting Inheritance. Pſalm xxxvii. 18.",
+     "segments": 6
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.1.39",
+     "title": "XXXIX. Our Deſire and Groaning before GOD, when proceeding from the greateſt Diſtreſs. Pſal. xxxviii. 9. 10.",
+     "segments": 6
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.1.40",
+     "title": "XL. GOD magnified by thoſe that love his Salvation. Pſalm xl. 16.",
+     "segments": 4
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.1.41",
+     "title": "XLI. The Triumph of Chriſt in the Cauſe of Truth, Meekneſs, and Righteouſneſs. Pſalm xlv. 3. 4.",
+     "segments": 5
+    },
+    {
+     "file": "0044.json",
+     "ref": "1.1.42",
+     "title": "XLII. Quietneſs under Affliction a proper Acknowledgment of GOD. Pſalm xlvi. 10.",
+     "segments": 6
+    },
+    {
+     "file": "0045.json",
+     "ref": "1.1.43",
+     "title": "XLIII. The Year crowned with the divine Goodneſs. Pſalm lxv. 11.",
+     "segments": 7
+    },
+    {
+     "file": "0046.json",
+     "ref": "1.1.44",
+     "title": "XLIV. Rebels againſt the ſupreme Sovereign admoniſhed. Pſalm lxvi. 7.",
+     "segments": 3
+    },
+    {
+     "file": "0047.json",
+     "ref": "1.1.45",
+     "title": "XLV. GOD the Happineſs of his People, and their Support in the extremeſt Diſtreſs. Pſalm lxxiii. 25, 26.",
+     "segments": 6
+    },
+    {
+     "file": "0048.json",
+     "ref": "1.1.46",
+     "title": "XLVI. The Rage of Enemies reſtrained, and overruled to the divine Glory. Pſalm lxxvi. 10.",
+     "segments": 4
+    },
+    {
+     "file": "0049.json",
+     "ref": "1.1.47",
+     "title": "XLVII. GOD furniſhing a Table in the Wilderneſs. Pſalm lxxviii. 19. 20.",
+     "segments": 6
+    },
+    {
+     "file": "0050.json",
+     "ref": "1.1.48",
+     "title": "XLVIII. GOD'S ſpeaking Peace to his People. Pſalm lxxxv. 8.",
+     "segments": 4
+    },
+    {
+     "file": "0051.json",
+     "ref": "1.1.49",
+     "title": "XLIX. The Church the Birth-place of the Saints, and GOD'S Care of it. Pſalm lxxxvii. 5.",
+     "segments": 6
+    },
+    {
+     "file": "0052.json",
+     "ref": "1.1.50",
+     "title": "L. The Goſpel Jubilee. Pſalm lxxxix. 15. compared with Levit. xxv. and Iſa. lxi. 2.",
+     "segments": 6
+    },
+    {
+     "file": "0053.json",
+     "ref": "1.1.51",
+     "title": "LI. GOD the Dwelling-Place of his People thro' all Generations. Pſalm xc. 1.",
+     "segments": 6
+    },
+    {
+     "file": "0054.json",
+     "ref": "1.1.52",
+     "title": "LII. Reflections on our Waſte of Years. Pſal. xc. 9.",
+     "segments": 5
+    },
+    {
+     "file": "0055.json",
+     "ref": "1.1.53",
+     "title": "LIII. Joy and Proſperity from the Preſence and Bleſſing of GOD. Pſalm xc. 17.",
+     "segments": 4
+    },
+    {
+     "file": "0056.json",
+     "ref": "1.1.54",
+     "title": "LIV. The Mutability of the Creation, and the Immutability of GOD. Pſalm cii. 25-28.",
+     "segments": 6
+    },
+    {
+     "file": "0057.json",
+     "ref": "1.1.55",
+     "title": "LV. The Frailty of human Nature, and GOD'S gracious Regard to it. Pſalm ciii. 14.",
+     "segments": 6
+    },
+    {
+     "file": "0058.json",
+     "ref": "1.1.56",
+     "title": "LVI. GOD adored for his Goodneſs, and his wonderful Works, to the Children of Men. Pſalm cvii. 31.",
+     "segments": 6
+    },
+    {
+     "file": "0059.json",
+     "ref": "1.1.57",
+     "title": "LVII. The holy Soul returning to its Reſtin a grateful Senſe of divine Bounties. Pſa. cxvi. 7.",
+     "segments": 5
+    },
+    {
+     "file": "0060.json",
+     "ref": "1.1.58",
+     "title": "LVIII. Deliverance celebrated. Pſalm cxvi. 8.",
+     "segments": 7
+    },
+    {
+     "file": "0061.json",
+     "ref": "1.1.59",
+     "title": "LIX. Deliverance celebrated, and good Reſolutions formed. Pſalm cxvi. 8, 9.",
+     "segments": 5
+    },
+    {
+     "file": "0062.json",
+     "ref": "1.1.60",
+     "title": "LX. Praiſe for Recovery from Sickneſs. Pſalm cxviii. 18, 19.",
+     "segments": 6
+    },
+    {
+     "file": "0063.json",
+     "ref": "1.1.61",
+     "title": "LXI. Regard to Scripture preſſed upon young Perſons, that they may cleanſe their Way. Pſalm cxix. 9.",
+     "segments": 4
+    },
+    {
+     "file": "0064.json",
+     "ref": "1.1.62",
+     "title": "LXII. Deſires of being quickned by the Word of GOD. Pſalm cxix. 25.",
+     "segments": 5
+    },
+    {
+     "file": "0065.json",
+     "ref": "1.1.63",
+     "title": "LXIII. Human Perfection no where to be found. Pſalm cxix. 96.",
+     "segments": 6
+    },
+    {
+     "file": "0066.json",
+     "ref": "1.1.64",
+     "title": "LXIV. Beholding Tranſgreſſors with Grief. Pſalm cxix. 136, 158.",
+     "segments": 5
+    },
+    {
+     "file": "0067.json",
+     "ref": "1.1.65",
+     "title": "LXV. The wandering Sheep recovered. Pſalm cxix. 176.",
+     "segments": 3
+    },
+    {
+     "file": "0068.json",
+     "ref": "1.1.66",
+     "title": "LXVI. The weeping Seed-Time, and joyful Harveſt. Pſalm cxxvi. 5, 6.",
+     "segments": 5
+    },
+    {
+     "file": "0069.json",
+     "ref": "1.1.67",
+     "title": "LXVII. Thanks to GOD for his ever-enduring Goodneſs. Pſalm cxxxvi. 1.",
+     "segments": 6
+    },
+    {
+     "file": "0070.json",
+     "ref": "1.1.68",
+     "title": "LXVIII. GOD's ſtrengthening the Souls of his praying People. Pſalm cxxxviii. 3.",
+     "segments": 5
+    },
+    {
+     "file": "0071.json",
+     "ref": "1.1.69",
+     "title": "LXIX. Singing in the Ways of GOD. Pſalm cxxxviii. 5.",
+     "segments": 6
+    },
+    {
+     "file": "0072.json",
+     "ref": "1.1.70",
+     "title": "LXX. The innumerable Mercies of GOD thankfully acknowledged. Pſalm cxxxix. 17, 18.",
+     "segments": 6
+    },
+    {
+     "file": "0073.json",
+     "ref": "1.1.71",
+     "title": "LXXI. Praiſing GOD through the whole of our Exiſtence. Pſalm cxlvi. 2.",
+     "segments": 6
+    },
+    {
+     "file": "0074.json",
+     "ref": "1.1.72",
+     "title": "LXXII. The Meek beautified with Salvation. Pſalm cxlix. 4.",
+     "segments": 5
+    },
+    {
+     "file": "0075.json",
+     "ref": "1.1.73",
+     "title": "LXXIII. The Reproofs of Wiſdom mingled with Promiſes, and Threatnings to reclaim wandering Sinners. Proverbs i. 23.",
+     "segments": 6
+    },
+    {
+     "file": "0076.json",
+     "ref": "1.1.74",
+     "title": "LXXIV. The Voice of CHRIST addreſſed to the Children of Men. Proverbs viii. 4.",
+     "segments": 8
+    },
+    {
+     "file": "0077.json",
+     "ref": "1.1.75",
+     "title": "LXXV. The Encouragement young Perſons have to ſeek, and love CHRIST. Prov. viii. 17.",
+     "segments": 5
+    },
+    {
+     "file": "0078.json",
+     "ref": "1.1.76",
+     "title": "LXXVI. The Houſe and Feaſt of Wiſdom. Prov. ix. 1,-6.",
+     "segments": 5
+    },
+    {
+     "file": "0079.json",
+     "ref": "1.1.77",
+     "title": "LXXVII. The Excellency of the Righteous, with Regard to their Temper. Prov. xii. 26. Part 1ſt.",
+     "segments": 4
+    },
+    {
+     "file": "0080.json",
+     "ref": "1.1.78",
+     "title": "LXXVIII. The Excellency of the Righteous, with Regard to their Relations, Employments, Pleaſures, and Hopes. Prov. xii. 26. Part 2d.",
+     "segments": 4
+    },
+    {
+     "file": "0081.json",
+     "ref": "1.1.79",
+     "title": "LXXIX. Walking with GOD, or being in his Fear all the Day long. Proverbs xxiii. 17.",
+     "segments": 8
+    },
+    {
+     "file": "0082.json",
+     "ref": "1.1.80",
+     "title": "LXXX. The obſtinate Sinner alarmed. Proverbs xxix. 1.",
+     "segments": 4
+    },
+    {
+     "file": "0083.json",
+     "ref": "1.1.81",
+     "title": "LXXXI. GOD'S reaſonable Expectations from his Vineyard. Iſaiah v. 1. 7.",
+     "segments": 5
+    },
+    {
+     "file": "0084.json",
+     "ref": "1.1.82",
+     "title": "LXXXII. Iſaiah's Obedience to the heavenly Viſion. Iſaiah vi. 8.",
+     "segments": 6
+    },
+    {
+     "file": "0085.json",
+     "ref": "1.1.83",
+     "title": "LXXXIII. The Stupidity of Iſrael, and of Britain lamented. Iſaiah vi. 9-12.",
+     "segments": 6
+    },
+    {
+     "file": "0086.json",
+     "ref": "1.1.84",
+     "title": "LXXXIV. Confederate Nations defied by thoſe who ſanctify GOD. Iſaiah viii. 9-14.",
+     "segments": 8
+    },
+    {
+     "file": "0087.json",
+     "ref": "1.1.85",
+     "title": "LXXXV. CHRIST the Steward of GOD'S Family. Iſaiah xxii. 22-24. compared with Revel. iii. 7.",
+     "segments": 5
+    },
+    {
+     "file": "0088.json",
+     "ref": "1.1.86",
+     "title": "LXXXVI. The rich Proviſion and happy Effects of the Goſpel. Iſaiah xxv. 6-9.",
+     "segments": 4
+    },
+    {
+     "file": "0089.json",
+     "ref": "1.1.87",
+     "title": "LXXXVII. The peaceful State of the Soul, that truſteth in GOD. Iſaiah xxvi. 3.",
+     "segments": 5
+    },
+    {
+     "file": "0090.json",
+     "ref": "1.1.88",
+     "title": "LXXXVIII. Iſrael's Obſtinacy under GOD'S lifted Hand. Iſaiah xxvi. 11.",
+     "segments": 4
+    },
+    {
+     "file": "0091.json",
+     "ref": "1.1.89",
+     "title": "LXXXIX. GOD'S quickening the Dead. Iſaiah xxvi. 19.",
+     "segments": 6
+    },
+    {
+     "file": "0092.json",
+     "ref": "1.1.90",
+     "title": "XC. The Godly Man's Ark. Iſaiah xxvi. 20.",
+     "segments": 6
+    },
+    {
+     "file": "0093.json",
+     "ref": "1.1.91",
+     "title": "XCI. Laying hold on GOD'S Strength, that we may be at Peace with him. Iſaiah xxvii. 5.",
+     "segments": 5
+    },
+    {
+     "file": "0094.json",
+     "ref": "1.1.92",
+     "title": "XCII. The divine Goodneſs in moderating Affictions. Iſaiah xxvii. 8.",
+     "segments": 4
+    },
+    {
+     "file": "0095.json",
+     "ref": "1.1.93",
+     "title": "XCIII. GOD waiting to be gracious. Iſaiah xxx. 18.",
+     "segments": 5
+    },
+    {
+     "file": "0096.json",
+     "ref": "1.1.94",
+     "title": "XCIV. The different Views of good and bad Men in Times of publick Danger. Iſaiah xxxiii. 14-17.",
+     "segments": 6
+    },
+    {
+     "file": "0097.json",
+     "ref": "1.1.95",
+     "title": "XCV. GOD the Defence of his People from invading Enemies. Iſaiah xxxiii. 21-23.",
+     "segments": 4
+    },
+    {
+     "file": "0098.json",
+     "ref": "1.1.96",
+     "title": "XCVI. The High-Way to Zion. Iſaiah xxxv. 8, 9, 10.",
+     "segments": 6
+    },
+    {
+     "file": "0099.json",
+     "ref": "1.1.97",
+     "title": "XCVII. The Greatneſs and Majeſty of GOD, and the Meanneſs of the Creatures. Iſaiah xl. 15, 16, 17.",
+     "segments": 6
+    },
+    {
+     "file": "0100.json",
+     "ref": "1.1.98",
+     "title": "XCVIII. The timorous Saint encouraged by the Aſſurance of the divine Preſence and Help. Iſaiah xli. 10.",
+     "segments": 5
+    },
+    {
+     "file": "0101.json",
+     "ref": "1.1.99",
+     "title": "XCIX. The Humiliation and Exaltation of GOD'S Iſrael. Iſaiah xli. 14, 15.",
+     "segments": 5
+    },
+    {
+     "file": "0102.json",
+     "ref": "1.1.100",
+     "title": "C. The Wilderneſs transformed, or the happy Effects of the Goſpel. Iſaiah xli. 18, 19. compared with xxxv. 1, 2. xi. 6-9. lv. 13, &c.",
+     "segments": 6
+    },
+    {
+     "file": "0103.json",
+     "ref": "1.1.101",
+     "title": "CI. The Blind and Weak led and ſupported in GOD'S Ways. Iſaiah xlii. 16.",
+     "segments": 4
+    },
+    {
+     "file": "0104.json",
+     "ref": "1.1.102",
+     "title": "CII. GOD calling his Iſrael by Name, and leading them thro' Water and Fire. Iſa. xliii. 1, 2.",
+     "segments": 5
+    },
+    {
+     "file": "0105.json",
+     "ref": "1.1.103",
+     "title": "CIII. The Riches of pardoning Grace celebrated. Iſaiah xliv. 22, 23.",
+     "segments": 5
+    },
+    {
+     "file": "0106.json",
+     "ref": "1.1.104",
+     "title": "CIV. The little Succeſs which attended the perſonal Miniſtry of CHRIST. Iſaiah xlix. 4.",
+     "segments": 4
+    },
+    {
+     "file": "0107.json",
+     "ref": "1.1.105",
+     "title": "CV. GOD'S Captives releaſed; applied to ſpiritual Deliverances. Iſaiah li. 14, 15.",
+     "segments": 6
+    },
+    {
+     "file": "0108.json",
+     "ref": "1.1.106",
+     "title": "CVI. The Cup of Fury exchanged for the Cup of Bleſſings. Iſaiah li. 22.",
+     "segments": 6
+    },
+    {
+     "file": "0109.json",
+     "ref": "1.1.107",
+     "title": "CVII. The holy City purified and guarded. Iſaiah lii. 1, 2.",
+     "segments": 5
+    },
+    {
+     "file": "0110.json",
+     "ref": "1.1.108",
+     "title": "CVIII. GOD'S Government, Zion's Joy. Iſaiah lii.-7.",
+     "segments": 4
+    },
+    {
+     "file": "0111.json",
+     "ref": "1.1.109",
+     "title": "CIX. Divine Mercies and Judgments compared. Iſaiah liv. 7, 8.",
+     "segments": 4
+    },
+    {
+     "file": "0112.json",
+     "ref": "1.1.110",
+     "title": "CX. Divine Teachings, and their happy Conſequences. Iſaiah liv. 13.",
+     "segments": 4
+    },
+    {
+     "file": "0113.json",
+     "ref": "1.1.111",
+     "title": "CXI. Fruitful Showers, Emblems of the ſalutary Effects of the Goſpel. Iſaiah lv. 10, 11, 12.",
+     "segments": 4
+    },
+    {
+     "file": "0114.json",
+     "ref": "1.1.112",
+     "title": "CXII. Comfort for pious Parents, who have been bereaved of their Children. Iſaiah lvi. 4, 5.",
+     "segments": 6
+    },
+    {
+     "file": "0115.json",
+     "ref": "1.1.113",
+     "title": "CXIII. The Stranger entertained in GOD's Houſe of Prayer. Iſaiah lvi. 6, 7. compared with Matt. xxi. 13. and Eph. ii. 19.",
+     "segments": 5
+    },
+    {
+     "file": "0116.json",
+     "ref": "1.1.114",
+     "title": "CXIV. Peace proclaimed, and the Fruit of the Lips created by a gracious GOD. Iſaiah lvii. 19.",
+     "segments": 5
+    },
+    {
+     "file": "0117.json",
+     "ref": "1.1.115",
+     "title": "CXV. The Duty of remonſtrating againſt Sin, when Judgments are threatned. Iſaiah lviii. 1.",
+     "segments": 4
+    },
+    {
+     "file": "0118.json",
+     "ref": "1.1.116",
+     "title": "CXVI. Unſucceſsful Faſts accounted for. Iſaiah lviii. 3. compared with v. 4-8.",
+     "segments": 5
+    },
+    {
+     "file": "0119.json",
+     "ref": "1.1.117",
+     "title": "CXVII. The Standard of the Spirit lifted up. Iſaiah lix. 19.",
+     "segments": 5
+    },
+    {
+     "file": "0120.json",
+     "ref": "1.1.118",
+     "title": "CXVIII. The Glory of the Church in the latter Day. Iſaiah lx. 1.",
+     "segments": 4
+    },
+    {
+     "file": "0121.json",
+     "ref": "1.1.119",
+     "title": "CXIX. GOD the everlaſting Light of the Saints above. Iſaiah lx. 20.",
+     "segments": 6
+    },
+    {
+     "file": "0122.json",
+     "ref": "1.1.120",
+     "title": "CXX. GOD intreated for Zion. Iſaiah lxii. 6, 7.",
+     "segments": 10
+    },
+    {
+     "file": "0123.json",
+     "ref": "1.1.121",
+     "title": "CXXI. A Nation born in a Day; or The rapid Progreſs of the Goſpel deſired. Iſaiah lxvi. 8.",
+     "segments": 7
+    },
+    {
+     "file": "0124.json",
+     "ref": "1.1.122",
+     "title": "CXXII. Backſliding Iſrael invited to return to GOD. Jerem. iii. 12, 13.",
+     "segments": 5
+    },
+    {
+     "file": "0125.json",
+     "ref": "1.1.123",
+     "title": "CXXIII. The Goodneſs of GOD acknowledged in giving Paſtors after his own Heart. Jerem. iii. 15.",
+     "segments": 5
+    },
+    {
+     "file": "0126.json",
+     "ref": "1.1.124",
+     "title": "CXXIV. GOD's gracious Methods of adopting Love. Jerem. iii. 19.",
+     "segments": 5
+    },
+    {
+     "file": "0127.json",
+     "ref": "1.1.125",
+     "title": "CXXV. Creatures vain, and GOD the Salvation of his People. Jerem. iii. 23.",
+     "segments": 4
+    },
+    {
+     "file": "0128.json",
+     "ref": "1.1.126",
+     "title": "CXXVI. Invitation to return to the LORD, and put away Abominations. Jerem. iv. 1, 2.",
+     "segments": 6
+    },
+    {
+     "file": "0129.json",
+     "ref": "1.1.127",
+     "title": "CXXVII. Miſimproved Priviledges, and diſappointed Hopes. Jerem. viii. 20.",
+     "segments": 5
+    },
+    {
+     "file": "0130.json",
+     "ref": "1.1.128",
+     "title": "CXXVIII. Glorying in GOD alone. Jerem. ix. 23, 24.",
+     "segments": 6
+    },
+    {
+     "file": "0131.json",
+     "ref": "1.1.129",
+     "title": "CXXIX. Jeremiah's Tears over the captive Flock. Jerem. xiii. 15-17.",
+     "segments": 6
+    },
+    {
+     "file": "0132.json",
+     "ref": "1.1.130",
+     "title": "CXXX. Giving Glory to GOD, before Darkneſs comes upon us. Jerem. xiii. 16.",
+     "segments": 6
+    },
+    {
+     "file": "0133.json",
+     "ref": "1.1.131",
+     "title": "CXXXI. The fatal Conſequences of forſaking the Hope of Iſrael. Jerem. xvii. 13, 14.",
+     "segments": 5
+    },
+    {
+     "file": "0134.json",
+     "ref": "1.1.132",
+     "title": "CXXXII. CHRIST, the Lord our Righteouſneſs. Jerem. xxiii. 6.",
+     "segments": 6
+    },
+    {
+     "file": "0135.json",
+     "ref": "1.1.133",
+     "title": "CXXXIII. The Efficacy of GOD's Word. Jerem. xxiii. 29.",
+     "segments": 4
+    },
+    {
+     "file": "0136.json",
+     "ref": "1.1.134",
+     "title": "CXXXIV. The Poſſibility of dying this Year. Jerem. xxviii. -16-.",
+     "segments": 6
+    },
+    {
+     "file": "0137.json",
+     "ref": "1.1.135",
+     "title": "CXXXV. GOD's Complacency in his Thoughts of Peace towards his People. Jerem. xxix. 11.",
+     "segments": 5
+    },
+    {
+     "file": "0138.json",
+     "ref": "1.1.136",
+     "title": "CXXXVI. The impudent Rebellion of the Jewiſh Refugees at Pathros. Jer. xliv. 16, 17, 28.",
+     "segments": 6
+    },
+    {
+     "file": "0139.json",
+     "ref": "1.1.137",
+     "title": "CXXXVII. Aſking the Way to Zion, in order to joining in Covenant with GOD. Jerem. l. 5.",
+     "segments": 6
+    },
+    {
+     "file": "0140.json",
+     "ref": "1.1.138",
+     "title": "CXXXVIII. Searching and trying our Ways. Lament. iii. 40.",
+     "segments": 5
+    },
+    {
+     "file": "0141.json",
+     "ref": "1.1.139",
+     "title": "CXXXIX. The Breath of our Noſtrils taken in the Pits of the Enemy, applied to CHRIST. Lament. iv. 20.",
+     "segments": 6
+    },
+    {
+     "file": "0142.json",
+     "ref": "1.1.140",
+     "title": "CXL. Of lamenting national Sins. Ezek. ix. 4-6.",
+     "segments": 8
+    },
+    {
+     "file": "0143.json",
+     "ref": "1.1.141",
+     "title": "CXLI. The Iniquity of ſacrificing GOD's Children; or The Evil of a bad or neglected Education. Ezek. xvi. 20, 21 Alluding to the cruel Cuſtom among ſome Heathens of ſacrificing their Children to their",
+     "segments": 6
+    },
+    {
+     "file": "0144.json",
+     "ref": "1.1.142",
+     "title": "CXLII. The Humility and Submiſſion of a Penitent. Ezek. xvi. 63.",
+     "segments": 5
+    },
+    {
+     "file": "0145.json",
+     "ref": "1.1.143",
+     "title": "CXLIII. GOD bringing his People into the Covenant under the Rod. Ezek. xx. 37.",
+     "segments": 5
+    },
+    {
+     "file": "0146.json",
+     "ref": "1.1.144",
+     "title": "CXLIV. GOD's Condeſcenſion in becoming the Shepherd of Men. Ezek. xxxiv. 31.",
+     "segments": 5
+    },
+    {
+     "file": "0147.json",
+     "ref": "1.1.145",
+     "title": "CXLV. Seeking to GOD for the Communication of his Spirit. Ezek. xxxvi. 37.",
+     "segments": 5
+    },
+    {
+     "file": "0148.json",
+     "ref": "1.1.146",
+     "title": "CXLVI. Ezekiel's Viſion of the dry Bones, Ezek. xxxvii. 3.",
+     "segments": 5
+    },
+    {
+     "file": "0149.json",
+     "ref": "1.1.147",
+     "title": "CXLVII. The Waters of the Sanctuary healing the dead Sea The Sea or Lake, where Sodom, Gomorrah, &c. had ſtood, which was putrid and poyſonous; and ancient Writers ſay, that no Fiſh could live in it..",
+     "segments": 6
+    },
+    {
+     "file": "0150.json",
+     "ref": "1.1.148",
+     "title": "CXLVIII. TEKEL; or The Sinner weighed in GOD's Balances, and found wanting. Daniel v. 27.",
+     "segments": 6
+    },
+    {
+     "file": "0151.json",
+     "ref": "1.1.149",
+     "title": "CXLIX. The Backſlider recollecting himſelf in his Afflictions. Hoſea ii. 6, 7.",
+     "segments": 5
+    },
+    {
+     "file": "0152.json",
+     "ref": "1.1.150",
+     "title": "CL. The Advantages of ſeeking the Knowledge of GOD. Hoſea vi. 3.",
+     "segments": 4
+    },
+    {
+     "file": "0153.json",
+     "ref": "1.1.151",
+     "title": "CLI. Inconſtancy in Religion. Hoſea vi. 4.",
+     "segments": 6
+    },
+    {
+     "file": "0154.json",
+     "ref": "1.1.152",
+     "title": "CLII. Gratitude the Spring of true Religion. Hoſea xi. 4.",
+     "segments": 5
+    },
+    {
+     "file": "0155.json",
+     "ref": "1.1.153",
+     "title": "CLIII. The Relentings of GOD's Heart over his backſliding People. Hoſea xi. 7, 8, 9.",
+     "segments": 6
+    },
+    {
+     "file": "0156.json",
+     "ref": "1.1.154",
+     "title": "CLIV. GOD's Controverſy by Fire. Amos iv. 11.",
+     "segments": 6
+    },
+    {
+     "file": "0157.json",
+     "ref": "1.1.155",
+     "title": "CLV. Britain unreformed by remarkable Deliverances. Amos iv. 11.",
+     "segments": 9
+    },
+    {
+     "file": "0158.json",
+     "ref": "1.1.156",
+     "title": "CLVI. Preparing to meet GOD. Amos iv. 12, 13.",
+     "segments": 6
+    },
+    {
+     "file": "0159.json",
+     "ref": "1.1.157",
+     "title": "CLVII. Jonah's Faith recommended. Jonah ii. 4.",
+     "segments": 5
+    },
+    {
+     "file": "0160.json",
+     "ref": "1.1.158",
+     "title": "CLVIII. GOD's Controverſy with Britain ſtated and pleaded. Micah vi. 1, 2, 3.",
+     "segments": 8
+    },
+    {
+     "file": "0161.json",
+     "ref": "1.1.159",
+     "title": "CLIX. Hearing the Voice of GOD's Rod. Micah vi. 9.",
+     "segments": 5
+    },
+    {
+     "file": "0162.json",
+     "ref": "1.1.160",
+     "title": "CLX. GOD's incomparable Mercy admired. Micah vii. 18, 19, 20.",
+     "segments": 5
+    },
+    {
+     "file": "0163.json",
+     "ref": "1.1.161",
+     "title": "CLXI. The impoveriſhed Saint rejoicing in GOD. Habakkuk iii. 17, 18.",
+     "segments": 4
+    },
+    {
+     "file": "0164.json",
+     "ref": "1.1.162",
+     "title": "CLXII. GOD's afflicted Poor truſting in his Name. Zephaniah iii. 12.",
+     "segments": 5
+    },
+    {
+     "file": "0165.json",
+     "ref": "1.1.163",
+     "title": "CLXIII. GOD comforting and rejoicing over Zion. Zeph. iii. 16, 17.",
+     "segments": 5
+    },
+    {
+     "file": "0166.json",
+     "ref": "1.1.164",
+     "title": "CLXIV. Practical Reflections on the State of our Fathers. Zechariah i. 5.",
+     "segments": 6
+    },
+    {
+     "file": "0167.json",
+     "ref": "1.1.165",
+     "title": "CLXV. Joſhua the High-Prieſt's Change of Raiment, applied to Chriſtian Priviledges. Zech. iii. 4.",
+     "segments": 8
+    },
+    {
+     "file": "0168.json",
+     "ref": "1.1.166",
+     "title": "CLXVI. Joſhua the High-Prieſt's Zeal and Fidelity rewarded with a Station among the Angels. Zech. iii. 6, 7.",
+     "segments": 6
+    },
+    {
+     "file": "0169.json",
+     "ref": "1.1.167",
+     "title": "CLXVII. The compleating of the ſpiritual Temple. Zech. iv. 7.",
+     "segments": 3
+    },
+    {
+     "file": "0170.json",
+     "ref": "1.1.168",
+     "title": "CLXVIII. The Error of deſpiſing the Day of ſmall Things. Zech. iv. 10-.",
+     "segments": 6
+    },
+    {
+     "file": "0171.json",
+     "ref": "1.1.169",
+     "title": "CLXIX. Priſoners delivered from the Pit by the Blood of the Covenant. Zech. ix. 11.",
+     "segments": 5
+    },
+    {
+     "file": "0172.json",
+     "ref": "1.1.170",
+     "title": "CLXX. The Fountain of Life. Zech. xiii. 1.",
+     "segments": 3
+    },
+    {
+     "file": "0173.json",
+     "ref": "1.1.171",
+     "title": "CLXXI. GOD's Name profaned, when his Table is treated with Contempt. Malachi. i. 12.",
+     "segments": 6
+    },
+    {
+     "file": "0174.json",
+     "ref": "1.1.172",
+     "title": "CLXXII. GOD's gracious Regard to active Attempts to revive Religion. Mal. iii. 16, 17.",
+     "segments": 6
+    },
+    {
+     "file": "0175.json",
+     "ref": "1.1.173",
+     "title": "CLXXIII. CHRIST the Sun of Righteouſneſs. Malachi iv. 2.",
+     "segments": 5
+    },
+    {
+     "file": "0176.json",
+     "ref": "1.2.1",
+     "title": "HYMN CLXXIV. The Ax laid to the Root of unfruitful Trees, Matthew iii. 10.",
+     "segments": 5
+    },
+    {
+     "file": "0177.json",
+     "ref": "1.2.2",
+     "title": "CLXXV. The Light of good Examples, the moſt effectual Way to glorify GOD. Matt. v. 16.",
+     "segments": 4
+    },
+    {
+     "file": "0178.json",
+     "ref": "1.2.3",
+     "title": "CLXXVI. Providential Bounties ſurveyed and improved. Matthew v. 45.",
+     "segments": 6
+    },
+    {
+     "file": "0179.json",
+     "ref": "1.2.4",
+     "title": "CLXXVII. Secret Prayer. Matthew vi. 6.",
+     "segments": 4
+    },
+    {
+     "file": "0180.json",
+     "ref": "1.2.5",
+     "title": "CLXXVIII. Seeking firſt the Kingdom of GOD, &c. Matthew vi. 33.",
+     "segments": 4
+    },
+    {
+     "file": "0181.json",
+     "ref": "1.2.6",
+     "title": "CLXXIX. Pardon ſpoken by CHRIST. Matthew ix. -2.",
+     "segments": 4
+    },
+    {
+     "file": "0182.json",
+     "ref": "1.2.7",
+     "title": "CLXXX. The relapſing Daemoniack. Matthew xii. 43-45.",
+     "segments": 6
+    },
+    {
+     "file": "0183.json",
+     "ref": "1.2.8",
+     "title": "CLXXXI. The Faith of the Syrophenician Woman recommended. Matthew xv. 26, 27.",
+     "segments": 4
+    },
+    {
+     "file": "0184.json",
+     "ref": "1.2.9",
+     "title": "CLXXXII. The Church built on a Rock, and ſecured againſt the Gates of Hell. Matt. xvi. 18.",
+     "segments": 5
+    },
+    {
+     "file": "0185.json",
+     "ref": "1.2.10",
+     "title": "CLXXXIII. CHRIST'S Transfiguration. Matt. xvii. 4-.",
+     "segments": 6
+    },
+    {
+     "file": "0186.json",
+     "ref": "1.2.11",
+     "title": "CLXXXIV. The Grace of CHRIST in miniſtring to Men, and dying for them. Matt. xx. 28.",
+     "segments": 5
+    },
+    {
+     "file": "0187.json",
+     "ref": "1.2.12",
+     "title": "CLXXXV. CHRIST'S compaſſionate Readineſs to gather Souls. Matt. xxiii. 37, 38.",
+     "segments": 6
+    },
+    {
+     "file": "0188.json",
+     "ref": "1.2.13",
+     "title": "CLXXXVI. The Abounding of Iniquity, and Coldneſs of Chriſtian Love. Matt. xxiv. 12.",
+     "segments": 6
+    },
+    {
+     "file": "0189.json",
+     "ref": "1.2.14",
+     "title": "CLXXXVII. The final Sentence, and Happineſs of the Righteous. Matt. xxv. 34.",
+     "segments": 6
+    },
+    {
+     "file": "0190.json",
+     "ref": "1.2.15",
+     "title": "CLXXXVIII. Relieving CHRIST in his poor Saints. Matt. xxv. 40.",
+     "segments": 5
+    },
+    {
+     "file": "0191.json",
+     "ref": "1.2.16",
+     "title": "CLXXXIX. The final Sentence, and Miſery of the Wicked. Matt. xxv. 41.",
+     "segments": 7
+    },
+    {
+     "file": "0192.json",
+     "ref": "1.2.17",
+     "title": "CXC. CHRIST'S Submiſſion to his Father's Will. Matt. xxvi. 42.",
+     "segments": 4
+    },
+    {
+     "file": "0193.json",
+     "ref": "1.2.18",
+     "title": "CXCI. Reflections on the Diſciples forſaking CHRIST, when he was betrayed. Matt. xxvi. -56.",
+     "segments": 4
+    },
+    {
+     "file": "0194.json",
+     "ref": "1.2.19",
+     "title": "CXCII. CHRIST'S Complaint of his Father's forſaking him on the Croſs. Matt. xxvii. 46.",
+     "segments": 7
+    },
+    {
+     "file": "0195.json",
+     "ref": "1.2.20",
+     "title": "CXCIII. The ſame. Matt. xxvii. 46.",
+     "segments": 5
+    },
+    {
+     "file": "0196.json",
+     "ref": "1.2.21",
+     "title": "CXCIV. The Angel's Reply to the Women, that ſought CHRIST. Matt. xxviii. 5, 6.",
+     "segments": 6
+    },
+    {
+     "file": "0197.json",
+     "ref": "1.2.22",
+     "title": "CXCV. CHRIST ever preſent with his Miniſters and Churches. Matt. xxviii. -20.",
+     "segments": 4
+    },
+    {
+     "file": "0198.json",
+     "ref": "1.2.23",
+     "title": "CXCVI. Departed Saints aſleep. Mark v. 39.",
+     "segments": 6
+    },
+    {
+     "file": "0199.json",
+     "ref": "1.2.24",
+     "title": "CXCVII. The Struggle between Faith and Unbelief. Mark ix. 24.",
+     "segments": 4
+    },
+    {
+     "file": "0200.json",
+     "ref": "1.2.25",
+     "title": "CXCVIII. CHRIST'S condeſcending Regard to little Children. Mark x. 14.",
+     "segments": 5
+    },
+    {
+     "file": "0201.json",
+     "ref": "1.2.26",
+     "title": "CXCIX. Chriſtian Watchfulneſs. Mark xiii. 37.",
+     "segments": 5
+    },
+    {
+     "file": "0202.json",
+     "ref": "1.2.27",
+     "title": "CC. The Nativity of Chriſt. Luke ii. 10-12.",
+     "segments": 4
+    },
+    {
+     "file": "0203.json",
+     "ref": "1.2.28",
+     "title": "CCI. The Angels Song at Chriſt's Birth. Luke ii. 13, 14.",
+     "segments": 5
+    },
+    {
+     "file": "0204.json",
+     "ref": "1.2.29",
+     "title": "CCII. Simeon's Song and Declaration to the Virgin Mary. Luke ii. 30-35.",
+     "segments": 5
+    },
+    {
+     "file": "0205.json",
+     "ref": "1.2.30",
+     "title": "CCIII. CHRIST's Meſſage. Luke iv. 18, 19.",
+     "segments": 7
+    },
+    {
+     "file": "0206.json",
+     "ref": "1.2.31",
+     "title": "CCIV. The recovered Daemoniack, an Emblem of a converted Sinner. Luke viii. 35.",
+     "segments": 4
+    },
+    {
+     "file": "0207.json",
+     "ref": "1.2.32",
+     "title": "CCV. The good Samaritan. Luke x. 30-37.",
+     "segments": 5
+    },
+    {
+     "file": "0208.json",
+     "ref": "1.2.33",
+     "title": "CCVI. The Care of the Soul, the one Thing needful. Luke x. 42-.",
+     "segments": 5
+    },
+    {
+     "file": "0209.json",
+     "ref": "1.2.34",
+     "title": "CCVII. Mary's Choice of the better Part. Luke x. -42.",
+     "segments": 4
+    },
+    {
+     "file": "0210.json",
+     "ref": "1.2.35",
+     "title": "CCVIII. CHRIST'S little Flock comforted with the Views of a Kingdom. Luke xii. 32.",
+     "segments": 5
+    },
+    {
+     "file": "0211.json",
+     "ref": "1.2.36",
+     "title": "CCIX. Providing Bags, that wax not old, &c. Luke xii. 33.",
+     "segments": 6
+    },
+    {
+     "file": "0212.json",
+     "ref": "1.2.37",
+     "title": "CCX. The active Chriſtian. Luke xii. 35-38.",
+     "segments": 5
+    },
+    {
+     "file": "0213.json",
+     "ref": "1.2.38",
+     "title": "CCXI. Room at the Goſpel-Feaſt. Luke xiv. 22.",
+     "segments": 6
+    },
+    {
+     "file": "0214.json",
+     "ref": "1.2.39",
+     "title": "CCXII. The preſent and future State of the Saint and Sinner compared. Luke xvi. 25.",
+     "segments": 5
+    },
+    {
+     "file": "0215.json",
+     "ref": "1.2.40",
+     "title": "CCXIII. Rebels againſt CHRIST executed. Luke xix. 27.",
+     "segments": 5
+    },
+    {
+     "file": "0216.json",
+     "ref": "1.2.41",
+     "title": "CCXIV. The Redeemer's Tears wept over leſt Souls. Luke xix. 41, 42.",
+     "segments": 6
+    },
+    {
+     "file": "0217.json",
+     "ref": "1.2.42",
+     "title": "CCXV. Departed Saints living to GOD. Luke xx. -38.",
+     "segments": 5
+    },
+    {
+     "file": "0218.json",
+     "ref": "1.2.43",
+     "title": "CCXVI. CHRIST'S Admonition to, and Care of Peter under approaching Trials. Luke xxii. 31, 32.",
+     "segments": 6
+    },
+    {
+     "file": "0219.json",
+     "ref": "1.2.44",
+     "title": "CCXVII. CHRIST'S Prayer for his Enemies. Luke xxiii. 34.",
+     "segments": 5
+    },
+    {
+     "file": "0220.json",
+     "ref": "1.2.45",
+     "title": "CCXVIII. The Reſurrection of CHRIST. Luke xxiv. 34.",
+     "segments": 5
+    },
+    {
+     "file": "0221.json",
+     "ref": "1.2.46",
+     "title": "CCXIX. The Goſpel firſt preached at Jeruſalem. Luke xxiv.-47.",
+     "segments": 6
+    },
+    {
+     "file": "0222.json",
+     "ref": "1.2.47",
+     "title": "CCXX. GOD's Love to the World in ſending CHRIST for its Redemption. John iii. 16.",
+     "segments": 5
+    },
+    {
+     "file": "0223.json",
+     "ref": "1.2.48",
+     "title": "CCXXI. The Spirit's Influences compared to living Water. John iv. 10.",
+     "segments": 4
+    },
+    {
+     "file": "0224.json",
+     "ref": "1.2.49",
+     "title": "CCXXII. The Chriſtian's ſecret Feaſt. John iv. 32.",
+     "segments": 4
+    },
+    {
+     "file": "0225.json",
+     "ref": "1.2.50",
+     "title": "CCXXIII. The Paralytick at Betheſda. John v. 6.",
+     "segments": 4
+    },
+    {
+     "file": "0226.json",
+     "ref": "1.2.51",
+     "title": "CCXXIV. GOD's Purpoſes effectual, and CHRIST's Invitations ſincere. John vi. 37.",
+     "segments": 5
+    },
+    {
+     "file": "0227.json",
+     "ref": "1.2.52",
+     "title": "CCXXV. CHRIST's Invitation to thirſty Souls John vii. 37.",
+     "segments": 8
+    },
+    {
+     "file": "0228.json",
+     "ref": "1.2.53",
+     "title": "CCXXVI. True Liberty given by CHRIST. John viii. 36.",
+     "segments": 5
+    },
+    {
+     "file": "0229.json",
+     "ref": "1.2.54",
+     "title": "CCXXVII. The ſame. John viii. 36.",
+     "segments": 5
+    },
+    {
+     "file": "0230.json",
+     "ref": "1.2.55",
+     "title": "CCXXVIII. CHRIST the Door. John x. 9.",
+     "segments": 4
+    },
+    {
+     "file": "0231.json",
+     "ref": "1.2.56",
+     "title": "CCXXIX. Abundant Life by CHRIST our Shepherd. John x. -10.",
+     "segments": 4
+    },
+    {
+     "file": "0232.json",
+     "ref": "1.2.57",
+     "title": "CCXXX. CHRIST's Sheep deſcribed. John x. 27.",
+     "segments": 4
+    },
+    {
+     "file": "0233.json",
+     "ref": "1.2.58",
+     "title": "CCXXXI. The Happineſs and Security of CHRIST'S Sheep. John x. 28.",
+     "segments": 6
+    },
+    {
+     "file": "0234.json",
+     "ref": "1.2.59",
+     "title": "CCXXXII. CHRIST's Sheep given by the Father, and guarded by Omnipotence. John x. 29, 30.",
+     "segments": 5
+    },
+    {
+     "file": "0235.json",
+     "ref": "1.2.60",
+     "title": "CCXXXIII. The attractive Influence of a crucified Saviour. John xii. 32.",
+     "segments": 6
+    },
+    {
+     "file": "0236.json",
+     "ref": "1.2.61",
+     "title": "CCXXXIV. CHRIST'S myſterious Conduct to be unfolded hereafter. John xiii. 7.",
+     "segments": 5
+    },
+    {
+     "file": "0237.json",
+     "ref": "1.2.62",
+     "title": "CCXXXV. CHRIST'S Pity and Conſolation for his troubled Diſciples. John xiv. 1-3.",
+     "segments": 6
+    },
+    {
+     "file": "0238.json",
+     "ref": "1.2.63",
+     "title": "CCXXXVI. The Chriſtian's Life connected with that of CHRIST. John xiv. -19.",
+     "segments": 4
+    },
+    {
+     "file": "0239.json",
+     "ref": "1.2.64",
+     "title": "CCXXXVII. Abiding in CHRIST neceſſary to our Fruitfulneſs. John xv. 4.",
+     "segments": 3
+    },
+    {
+     "file": "0240.json",
+     "ref": "1.2.65",
+     "title": "CCXXXVIII. Our Prayers effectual, when we abide in CHRIST, and his Word abideth in us. John xv. 8.",
+     "segments": 4
+    },
+    {
+     "file": "0241.json",
+     "ref": "1.2.66",
+     "title": "CCXXXIX. Continuing in CHRIST'S Love. John XV. 9.",
+     "segments": 4
+    },
+    {
+     "file": "0242.json",
+     "ref": "1.2.67",
+     "title": "CCXL. The Apoſtles and Chriſtians choſen by CHRIST to bring forth permanent Fruit. John xv. 16.",
+     "segments": 4
+    },
+    {
+     "file": "0243.json",
+     "ref": "1.2.68",
+     "title": "CCXLI. Peace in CHRIST amidſt Tribulations. John xvi. 33.",
+     "segments": 4
+    },
+    {
+     "file": "0244.json",
+     "ref": "1.2.69",
+     "title": "CCXLII. CHRIST ſanctifying himſelf, that his People may be ſanctified. John xvii. 19.",
+     "segments": 5
+    },
+    {
+     "file": "0245.json",
+     "ref": "1.2.70",
+     "title": "CCXLIII. Meditations on the Sepulchre in the Garden. John xix. 41.",
+     "segments": 5
+    },
+    {
+     "file": "0246.json",
+     "ref": "1.2.71",
+     "title": "CCXLIV. CHRIST aſcending to his Father and GOD, and ours. John xx. 17.",
+     "segments": 6
+    },
+    {
+     "file": "0247.json",
+     "ref": "1.2.72",
+     "title": "CCXLV. The Diſciples Joy at CHRIST'S Appearance to them after his Reſurrection. John xx. 19, 20.",
+     "segments": 5
+    },
+    {
+     "file": "0248.json",
+     "ref": "1.2.73",
+     "title": "CCXLVI. Appeal to CHRIST for the Sincerity of Love to him. John xxi. 15.",
+     "segments": 7
+    },
+    {
+     "file": "0249.json",
+     "ref": "1.2.74",
+     "title": "CCXLVII. Zeal for the Cauſe of CHRIST; or Peter and John following their Maſter. John xxi. 18-20 See Family Expoſitor in Loc..",
+     "segments": 4
+    },
+    {
+     "file": "0250.json",
+     "ref": "1.2.75",
+     "title": "CCXLVIII. CHRIST exalted to be a Prince and a Saviour. Acts v. 31.",
+     "segments": 4
+    },
+    {
+     "file": "0251.json",
+     "ref": "1.2.76",
+     "title": "CCXLIX. The Believer committing his departing Spirit to JESUS. Acts vii. 59.",
+     "segments": 6
+    },
+    {
+     "file": "0252.json",
+     "ref": "1.2.77",
+     "title": "CCL. PETER's Admonition to SIMON MAGUS. Acts viii. 21-24.",
+     "segments": 5
+    },
+    {
+     "file": "0253.json",
+     "ref": "1.2.78",
+     "title": "CCLI. The Deſcent of the Spirit, or his Influences deſired. Acts x. 44.",
+     "segments": 5
+    },
+    {
+     "file": "0254.json",
+     "ref": "1.2.79",
+     "title": "CCLII. The Word of Salvation ſent to us. Acts xiii. 26.",
+     "segments": 5
+    },
+    {
+     "file": "0255.json",
+     "ref": "1.2.80",
+     "title": "CCLIII. The Unknown GOD. Acts xvii. 23.",
+     "segments": 5
+    },
+    {
+     "file": "0256.json",
+     "ref": "1.2.81",
+     "title": "CCLIV. GOD's Command to all Men to repent. Acts xvii. 30.",
+     "segments": 6
+    },
+    {
+     "file": "0257.json",
+     "ref": "1.2.82",
+     "title": "CCLV. Paul's Sollicitude to finiſh his Courſe with Joy. Acts xx. 24.",
+     "segments": 4
+    },
+    {
+     "file": "0258.json",
+     "ref": "1.2.83",
+     "title": "CCLVI. Paul preaching and Felix trembling. Acts xxiv. 25.",
+     "segments": 6
+    },
+    {
+     "file": "0259.json",
+     "ref": "1.2.84",
+     "title": "CCLVII. Help obtained of GOD. Acts xxvi. 22-.",
+     "segments": 5
+    },
+    {
+     "file": "0260.json",
+     "ref": "1.2.85",
+     "title": "CCLVIII. Treaſuring up Wrath by deſpiſing Mercy. Romans ii. 4, 5.",
+     "segments": 5
+    },
+    {
+     "file": "0261.json",
+     "ref": "1.2.86",
+     "title": "CCLIX. The Love of GOD ſhed abroad in the Heart by the Spirit. Rom. v. 5.",
+     "segments": 4
+    },
+    {
+     "file": "0262.json",
+     "ref": "1.2.87",
+     "title": "CCLX. Chriſtians quickened and raiſed by the Spirit. Rom. viii. 11.",
+     "segments": 6
+    },
+    {
+     "file": "0263.json",
+     "ref": "1.2.88",
+     "title": "CCLXI. GOD's Readineſs to give all Things argued from the Gift of his Son. Rom. viii. 32.",
+     "segments": 5
+    },
+    {
+     "file": "0264.json",
+     "ref": "1.2.89",
+     "title": "CCLXII. Believing with the Heart, and confeſſing with the Mouth, neceſſary to Salvation. Rom. x. 6-10.",
+     "segments": 4
+    },
+    {
+     "file": "0265.json",
+     "ref": "1.2.90",
+     "title": "CCLXIII. The living Sacrifice. Rom. xii. 1.",
+     "segments": 3
+    },
+    {
+     "file": "0266.json",
+     "ref": "1.2.91",
+     "title": "CCLXIV. The near Approach of Salvation, an Engagement to Diligence and Love. Rom. xiii. 11.",
+     "segments": 4
+    },
+    {
+     "file": "0267.json",
+     "ref": "1.2.92",
+     "title": "CCLXV. The GOD of Peace bruiſing Satan. Rom. xvi. 20-.",
+     "segments": 4
+    },
+    {
+     "file": "0268.json",
+     "ref": "1.2.93",
+     "title": "CCLXVI. CHRIST our Wiſdom, Righteouſneſs, Sanctification, and Redemption. 1 Corinth. i. 30, 31.",
+     "segments": 6
+    },
+    {
+     "file": "0269.json",
+     "ref": "1.2.94",
+     "title": "CCLXVII. Being joined to CHRIST, and one Spirit with him. 1. Cor. vi. 17.",
+     "segments": 5
+    },
+    {
+     "file": "0270.json",
+     "ref": "1.2.95",
+     "title": "CCLXVIII. The tranſitory Nature of the World, an Argument for chriſtian Moderation. 1 Cor. vii. 29, 30, 31.",
+     "segments": 4
+    },
+    {
+     "file": "0271.json",
+     "ref": "1.2.96",
+     "title": "CCLXIX. GOD's Fidelity in moderating Temptations. 1 Cor. x. 13.",
+     "segments": 4
+    },
+    {
+     "file": "0272.json",
+     "ref": "1.2.97",
+     "title": "CCLXX. Bearing the Image of the earthy and the heavenly Adam. 1 Cor. xv. 49.",
+     "segments": 8
+    },
+    {
+     "file": "0273.json",
+     "ref": "1.2.98",
+     "title": "CCLXXI. Miniſters comforted, that they may comfort others. 2 Cor. i. 4.",
+     "segments": 6
+    },
+    {
+     "file": "0274.json",
+     "ref": "1.2.99",
+     "title": "CCLXXII. GOD's delivering Goodneſs acknowledged, and truſted. 2 Cor. i. 10.",
+     "segments": 7
+    },
+    {
+     "file": "0275.json",
+     "ref": "1.2.100",
+     "title": "CCLXXIII. Miniſters a ſweet Savour, whether of Life or Death. 2 Cor. ii. 15, 16.",
+     "segments": 4
+    },
+    {
+     "file": "0276.json",
+     "ref": "1.2.101",
+     "title": "CCLXXIV. GOD ſhining into the Heart. 2 Cor. iv. 6.",
+     "segments": 6
+    },
+    {
+     "file": "0277.json",
+     "ref": "1.2.102",
+     "title": "CCLXXV. The Goſpel Treaſure in earthen Veſſels, 2 Cor. iv. 7.",
+     "segments": 5
+    },
+    {
+     "file": "0278.json",
+     "ref": "1.2.103",
+     "title": "CCLXXVI. Living to him, who died for us. 2 Cor. v. 14, 15.",
+     "segments": 5
+    },
+    {
+     "file": "0279.json",
+     "ref": "1.2.104",
+     "title": "CCLXXVII. GOD the Author of Conſolation. 2 Cor. vii. 6.",
+     "segments": 3
+    },
+    {
+     "file": "0280.json",
+     "ref": "1.2.105",
+     "title": "CCLXXVIII. Satan's Strong-Holds caſt down by the Goſpel. 2 Cor. x. 4, 5.",
+     "segments": 6
+    },
+    {
+     "file": "0281.json",
+     "ref": "1.2.106",
+     "title": "CCLXXIX. The Chriſtian Farewel. 2 Cor. xiii. 11.",
+     "segments": 4
+    },
+    {
+     "file": "0282.json",
+     "ref": "1.2.107",
+     "title": "CCLXXX. Living while in the Fleſh by Faith in CHRIST, who loved us, &c. Galat. ii. 20.",
+     "segments": 6
+    },
+    {
+     "file": "0283.json",
+     "ref": "1.2.108",
+     "title": "CCLXXXI. A filial Temper the Work of the Spirit, and a Proof of Adoption. Galat. iv. 6.",
+     "segments": 5
+    },
+    {
+     "file": "0284.json",
+     "ref": "1.2.109",
+     "title": "CCLXXXII. Chriſtian Sympathy. Galat. vi. 2.",
+     "segments": 5
+    },
+    {
+     "file": "0285.json",
+     "ref": "1.2.110",
+     "title": "CCLXXXIII. Bleſſing GOD for ſpiritual Bleſſings in CHRIST. Ephes. i. 3.",
+     "segments": 3
+    },
+    {
+     "file": "0286.json",
+     "ref": "1.2.111",
+     "title": "CCLXXXIV. The grand Scheme of the Goſpel. Ephes. i. 9, 10, 11-.",
+     "segments": 4
+    },
+    {
+     "file": "0287.json",
+     "ref": "1.2.112",
+     "title": "CCLXXXV. The heavenly Inheritance made known by the Spirit. Eph. i. 18.",
+     "segments": 4
+    },
+    {
+     "file": "0288.json",
+     "ref": "1.2.113",
+     "title": "CCLXXXVI. Salvation by Grace. Eph. ii. 5.",
+     "segments": 4
+    },
+    {
+     "file": "0289.json",
+     "ref": "1.2.114",
+     "title": "CCLXXXVII. Chriſtians riſen and exalted with CHRIST to heavenly Places. Eph. ii. 5, 6.",
+     "segments": 6
+    },
+    {
+     "file": "0290.json",
+     "ref": "1.2.115",
+     "title": "CCLXXXVIII. Nearneſs to GOD thro' CHRIST. Eph. ii. 13.",
+     "segments": 5
+    },
+    {
+     "file": "0291.json",
+     "ref": "1.2.116",
+     "title": "CCLXXXIX. The Inſtitution of a Goſpel-Miniſtry from CHRIST. Eph. iv. 11, 12.",
+     "segments": 7
+    },
+    {
+     "file": "0292.json",
+     "ref": "1.2.117",
+     "title": "CCXC. CHRIST the Head of the Church. Eph. iv. 15, 16.",
+     "segments": 5
+    },
+    {
+     "file": "0293.json",
+     "ref": "1.2.118",
+     "title": "CCXCI. Love to others urged from CHRIST'S Love in giving himſelf a Sacrifice. Eph. v. 2.",
+     "segments": 5
+    },
+    {
+     "file": "0294.json",
+     "ref": "1.2.119",
+     "title": "CCXCII. The Wiſdom of redeeming Time. Eph. v. 15, 16.",
+     "segments": 5
+    },
+    {
+     "file": "0295.json",
+     "ref": "1.2.120",
+     "title": "CCXCIII. CHRIST'S Love to the Church in giving himſelf for it, &c. Eph. v. 25, 26, 27.",
+     "segments": 5
+    },
+    {
+     "file": "0296.json",
+     "ref": "1.2.121",
+     "title": "CCXCIV. CHRIST'S Service, the Fruit of our Labours on Earth. Phil. i. 22.",
+     "segments": 5
+    },
+    {
+     "file": "0297.json",
+     "ref": "1.2.122",
+     "title": "CCXCV. The Happineſs of departing, and being with CHRIST. Phil. i. 23.",
+     "segments": 7
+    },
+    {
+     "file": "0298.json",
+     "ref": "1.2.123",
+     "title": "CCXCVI. Preſſing on in the Chriſtian Race. Phil. iii. 12-14.",
+     "segments": 5
+    },
+    {
+     "file": "0299.json",
+     "ref": "1.2.124",
+     "title": "CCXCVII. GOD ſupplying the Neceſſities of his People. Phil. iv. 19, 20.",
+     "segments": 4
+    },
+    {
+     "file": "0300.json",
+     "ref": "1.2.125",
+     "title": "CCXCVIII. Thanks for being made meet for the heavenly Inheritance. Coloſs. i. 12.",
+     "segments": 5
+    },
+    {
+     "file": "0301.json",
+     "ref": "1.2.126",
+     "title": "CCXCIX. Angels and Chriſtians united in CHRIST as their common Head. Coloſs. ii. 10.",
+     "segments": 4
+    },
+    {
+     "file": "0302.json",
+     "ref": "1.2.127",
+     "title": "CCC. Chriſtians, as riſen with CHRIST, exhorted to ſeek Things above. Coloſs. iii. 1.",
+     "segments": 5
+    },
+    {
+     "file": "0303.json",
+     "ref": "1.2.128",
+     "title": "CCCI. The Proſperity of the Church, the Life of a faithful Miniſter. 1 Theſs. iii. 8.",
+     "segments": 4
+    },
+    {
+     "file": "0304.json",
+     "ref": "1.2.129",
+     "title": "CCCII. Comfort on the Death of pious Friends 1 Theſs. iv. 17, 18.",
+     "segments": 6
+    },
+    {
+     "file": "0305.json",
+     "ref": "1.2.130",
+     "title": "CCCIII. CHRIST glorified and admired in his Saints at the great Day. 2 Theſs. i. 10.",
+     "segments": 6
+    },
+    {
+     "file": "0306.json",
+     "ref": "1.2.131",
+     "title": "CCCIV. CHRIST ſeen of Angels. 1 Tim. iii. 16.",
+     "segments": 7
+    },
+    {
+     "file": "0307.json",
+     "ref": "1.2.132",
+     "title": "CCCV. The Stability of the divine Foundation, and its double Inſcription. 2 Tim. ii. 19.",
+     "segments": 5
+    },
+    {
+     "file": "0308.json",
+     "ref": "1.2.133",
+     "title": "CCCVI. Perſecution to be expected by every true Chriſtian. 2 Tim. iii. 12.",
+     "segments": 4
+    },
+    {
+     "file": "0309.json",
+     "ref": "1.2.134",
+     "title": "CCCVII. The Chriſtian Scheme of Salvation worthy of GOD. Hebrews ii. 10.",
+     "segments": 5
+    },
+    {
+     "file": "0310.json",
+     "ref": "1.2.135",
+     "title": "CCCVIII. Satan and Death conquered by the Death of CHRIST. Heb. ii. 14, 15.",
+     "segments": 6
+    },
+    {
+     "file": "0311.json",
+     "ref": "1.2.136",
+     "title": "CCCIX. An immediate Attention to GOD's Voice required. Heb. iii. 15.",
+     "segments": 4
+    },
+    {
+     "file": "0312.json",
+     "ref": "1.2.137",
+     "title": "CCCX. The eternal Sabbath. Heb. iv. 9.",
+     "segments": 5
+    },
+    {
+     "file": "0313.json",
+     "ref": "1.2.138",
+     "title": "CCCXI. CHRIST our Forerunner, and the Foundation of our Hope. Heb. vi. 19, 20.",
+     "segments": 5
+    },
+    {
+     "file": "0314.json",
+     "ref": "1.2.139",
+     "title": "CCCXII. The evil Conſcience purified by the Blood of JESUS. Heb. ix. 13, 14.",
+     "segments": 5
+    },
+    {
+     "file": "0315.json",
+     "ref": "1.2.140",
+     "title": "CCCXIII. Death and Judgment appointed to all. Heb. ix. 27.",
+     "segments": 5
+    },
+    {
+     "file": "0316.json",
+     "ref": "1.2.141",
+     "title": "CCCXIV. CHRIST'S ſecond Appearance, &c. Heb. ix. 28.",
+     "segments": 5
+    },
+    {
+     "file": "0317.json",
+     "ref": "1.2.142",
+     "title": "CCCXV. Liberty to enter thro' the Veil by the Blood of CHRIST. Heb. x. 19-22.",
+     "segments": 5
+    },
+    {
+     "file": "0318.json",
+     "ref": "1.2.143",
+     "title": "CCCXVI. GOD's Fidelity to his Promiſes. Heb. x. -23.",
+     "segments": 3
+    },
+    {
+     "file": "0319.json",
+     "ref": "1.2.144",
+     "title": "CCCXVII. The Day approaching, a Motive to Love and Worſhip. Heb. x. 24. 25.",
+     "segments": 5
+    },
+    {
+     "file": "0320.json",
+     "ref": "1.2.145",
+     "title": "CCCXVIII. Abraham's Faith in leaving his Country at the divine Command. Heb. xi. 8.",
+     "segments": 4
+    },
+    {
+     "file": "0321.json",
+     "ref": "1.2.146",
+     "title": "CCCXIX. The GOD of the Patriarchs preparing them a City. Heb. xi. 16.",
+     "segments": 7
+    },
+    {
+     "file": "0322.json",
+     "ref": "1.2.147",
+     "title": "CCCXX. Moſes's wiſe Choice. Heb. xi. 26.",
+     "segments": 5
+    },
+    {
+     "file": "0323.json",
+     "ref": "1.2.148",
+     "title": "CCCXXI. Acting, as ſeeing him, who is Inviſible. Heb. xi.-27.",
+     "segments": 5
+    },
+    {
+     "file": "0324.json",
+     "ref": "1.2.149",
+     "title": "CCCXXII. Subjection to GOD, the Father of our Spirits. Heb. xii.-9.",
+     "segments": 4
+    },
+    {
+     "file": "0325.json",
+     "ref": "1.2.150",
+     "title": "CCCXXIII. The Immutability of CHRIST▪ Heb. xiii. 8.",
+     "segments": 5
+    },
+    {
+     "file": "0326.json",
+     "ref": "1.2.151",
+     "title": "CCCXXIV. Watching for Souls in the View of the great Account. Heb. xiii.-17.",
+     "segments": 5
+    },
+    {
+     "file": "0327.json",
+     "ref": "1.2.152",
+     "title": "CCCXXV. The Chriſtian perfected by divine Grace through CHRIST. Heb. xiii. 20, 21.",
+     "segments": 4
+    },
+    {
+     "file": "0328.json",
+     "ref": "1.2.153",
+     "title": "CCCXXVI. Chriſtians begotten to GOD as the Firſt-Fruits of his Creatures. James i. 18.",
+     "segments": 4
+    },
+    {
+     "file": "0329.json",
+     "ref": "1.2.154",
+     "title": "CCCXXVII. Looking into the perfect Law of Liberty and continuing in it. James i. 25.",
+     "segments": 5
+    },
+    {
+     "file": "0330.json",
+     "ref": "1.2.155",
+     "title": "CCCXXVIII. James's Advice to Sinners. James iv. 7, 8.",
+     "segments": 5
+    },
+    {
+     "file": "0331.json",
+     "ref": "1.2.156",
+     "title": "CCCXXIX. The Vanity of worldly Schemes inferred from the Unceriainty of Life. James iv. 13, 14, 15.",
+     "segments": 5
+    },
+    {
+     "file": "0332.json",
+     "ref": "1.2.157",
+     "title": "CCCXXX. Rejoicing in an unſeen Saviour. 1 Peter i. 8.",
+     "segments": 6
+    },
+    {
+     "file": "0333.json",
+     "ref": "1.2.158",
+     "title": "CCCXXXI. The Heart purified to Love unfeigned by the Spirit. 1 Peter i. 22.",
+     "segments": 3
+    },
+    {
+     "file": "0334.json",
+     "ref": "1.2.159",
+     "title": "CCCXXXII. Taſting that the Lord is gracious. 1 Pet. ii. 3.",
+     "segments": 4
+    },
+    {
+     "file": "0335.json",
+     "ref": "1.2.160",
+     "title": "CCCXXXIII. Coming to CHRIST as a living Stone. 1 Pet. ii. 4, 5.",
+     "segments": 5
+    },
+    {
+     "file": "0336.json",
+     "ref": "1.2.161",
+     "title": "CCCXXXIV. CHRIST the Corner-Stone. 1 Pet. ii. 6. compared with Iſaiah xxviii. 16, 17.",
+     "segments": 5
+    },
+    {
+     "file": "0337.json",
+     "ref": "1.2.162",
+     "title": "CCCXXXV. CHRIST precious to the Believer. 1 Pet. ii. 7-.",
+     "segments": 5
+    },
+    {
+     "file": "0338.json",
+     "ref": "1.2.163",
+     "title": "CCCXXXVI. Noah preſerved in the Ark, and the Believer in CHRIST. 1 Pet. iii. 20, 21.",
+     "segments": 7
+    },
+    {
+     "file": "0339.json",
+     "ref": "1.2.164",
+     "title": "CCCXXXVII. The ungodly warned of their final Appearance. 1 Pet. iv. -18.",
+     "segments": 8
+    },
+    {
+     "file": "0340.json",
+     "ref": "1.2.165",
+     "title": "CCCXXXVIII. Humbling ourſelves under GOD's mighty Hand. 1 Pet. v. 6.",
+     "segments": 5
+    },
+    {
+     "file": "0341.json",
+     "ref": "1.2.166",
+     "title": "CCCXXXIX. The ſame. For a Faſt-Day.",
+     "segments": 6
+    },
+    {
+     "file": "0342.json",
+     "ref": "1.2.167",
+     "title": "CCCXL. GOD's Care a Remedy for ours. 1 Pet. v. 7.",
+     "segments": 4
+    },
+    {
+     "file": "0343.json",
+     "ref": "1.2.168",
+     "title": "CCCXLI. Eſtabliſhment in Religion from the GOD of Grace, &c. 1 Pet. v. 10, 11.",
+     "segments": 5
+    },
+    {
+     "file": "0344.json",
+     "ref": "1.2.169",
+     "title": "CCCXLII. The Circumſtances of CHRIST'S ſecond Appearing. 2 Pet. iii. 11, 12.",
+     "segments": 5
+    },
+    {
+     "file": "0345.json",
+     "ref": "1.2.170",
+     "title": "CCCXLIII. The Importance of being prepared for CHRIST'S ſecond Appearing. 2 Pet. iii. 14.",
+     "segments": 6
+    },
+    {
+     "file": "0346.json",
+     "ref": "1.2.171",
+     "title": "CCCXLIV. Growing in Grace, &c. 2 Pet. iii. 18.",
+     "segments": 6
+    },
+    {
+     "file": "0347.json",
+     "ref": "1.2.172",
+     "title": "CCCXLV. Experimental Knowledge communicated. 1 John i. 1-3.",
+     "segments": 4
+    },
+    {
+     "file": "0348.json",
+     "ref": "1.2.173",
+     "title": "CCCXLVI. Communion with GOD and CHRIST. 1 John i. -3.",
+     "segments": 5
+    },
+    {
+     "file": "0349.json",
+     "ref": "1.2.174",
+     "title": "CCCXLVII. The Privileges of Saints by the Blood of JESUS. 1 John i. 7.",
+     "segments": 4
+    },
+    {
+     "file": "0350.json",
+     "ref": "1.2.175",
+     "title": "CCCXLVIII. The Blood of CHRIST cleanſing from all Sin. 1 John i. -7.",
+     "segments": 6
+    },
+    {
+     "file": "0351.json",
+     "ref": "1.2.176",
+     "title": "CCCXLIX. Having the Son, and having Life in him. 1 John v. 12.",
+     "segments": 4
+    },
+    {
+     "file": "0352.json",
+     "ref": "1.2.177",
+     "title": "CCCL. CHRIST the Firſt and the Laſt, humbled 〈◊〉 Death, and exalted to an eternal Triumph over it. Revelation i. 17, 18.",
+     "segments": 5
+    },
+    {
+     "file": "0353.json",
+     "ref": "1.2.178",
+     "title": "CCCLI. The Keys of Death and the unſeen World in CHRIST'S Hand. Rev. i. 18.",
+     "segments": 6
+    },
+    {
+     "file": "0354.json",
+     "ref": "1.2.179",
+     "title": "CCCLII. CHRIST'S Care of Miniſters and Churches. Rev. ii. 1.",
+     "segments": 4
+    },
+    {
+     "file": "0355.json",
+     "ref": "1.2.180",
+     "title": "CCCLIII. The Chriſtian Warrior animated and crowned. Rev. ii. 10.",
+     "segments": 6
+    },
+    {
+     "file": "0356.json",
+     "ref": "1.2.181",
+     "title": "CCCLIV. The Pillar in GOD's heavenly Temple with its Inſeription. Rev. iii. 12.",
+     "segments": 6
+    },
+    {
+     "file": "0357.json",
+     "ref": "1.2.182",
+     "title": "CCCLV. GOD's Covenant unchangeable, or The Rainbow round about the Throne. Rev. iv.-3. compared with Gen. ix. 13-17.",
+     "segments": 6
+    },
+    {
+     "file": "0358.json",
+     "ref": "1.2.183",
+     "title": "CCCLVI. Victory over Satan by the Blood of the Lamb, and the Word of the Teſtimony of his Servants. Rev. xii. 11.",
+     "segments": 6
+    },
+    {
+     "file": "0359.json",
+     "ref": "1.2.184",
+     "title": "CCCLVII. The Song of Moſes and the Lamb. Rev. xv. 3.",
+     "segments": 5
+    },
+    {
+     "file": "0360.json",
+     "ref": "1.2.185",
+     "title": "CCCLVIII. The Conqueſt of Death and Grief by Views of the heavenly State. Rev. xxi. 4.",
+     "segments": 6
+    },
+    {
+     "file": "0361.json",
+     "ref": "1.2.186",
+     "title": "CCCLIX. CHRIST the Root and Offspring of David, and the Morning-Star. Rev. xxii -16.",
+     "segments": 4
+    },
+    {
+     "file": "0362.json",
+     "ref": "1.2.187",
+     "title": "CCCLX. CHRIST'S Invitations ecchoed back &c. Rev. xxii. 17.",
+     "segments": 6
+    },
+    {
+     "file": "0363.json",
+     "ref": "1.2.188",
+     "title": "CCCLXI. The Chriſtian rejoicing in the Views of Death and Judgment. Rev. xxii. 20.",
+     "segments": 6
+    },
+    {
+     "file": "0364.json",
+     "ref": "1.3.1",
+     "title": "HYMN CCCLXII. A Morning HYMN, to be uſed at awaking and riſing.",
+     "segments": 7
+    },
+    {
+     "file": "0365.json",
+     "ref": "1.3.2",
+     "title": "CCCLXIII. An Evening HYMN, to be uſed when compoſing oneſelf to ſleep.",
+     "segments": 3
+    },
+    {
+     "file": "0366.json",
+     "ref": "1.3.3",
+     "title": "CCCLXIV. On Recovery from Sickneſs, during which, much of the divine Favour had been experienced.",
+     "segments": 7
+    },
+    {
+     "file": "0367.json",
+     "ref": "1.3.4",
+     "title": "CCCLXV. The laſt Words of David. 2 Samuel xxiii. 1-8 agreeable to the ingenious metrical Verſion of the learned Dr. Richard Grey.",
+     "segments": 6
+    },
+    {
+     "file": "0368.json",
+     "ref": "1.3.5",
+     "title": "CCCLXVI. A MILITARY ODE. PSALM CXLIX.",
+     "segments": 10
+    },
+    {
+     "file": "0369.json",
+     "ref": "1.3.6",
+     "title": "CCCLXVII. For the Thankſgiving-Day for the Peace, April 25, 1749.",
+     "segments": 6
+    },
+    {
+     "file": "0370.json",
+     "ref": "1.3.7",
+     "title": "CCCLXVIII. An Hymn for a Faſt-Day in Time of War.",
+     "segments": 6
+    },
+    {
+     "file": "0371.json",
+     "ref": "1.3.8",
+     "title": "CCCLXIX. Thankſgiving for National Deliverance, and Improvement of it.",
+     "segments": 5
+    },
+    {
+     "file": "0372.json",
+     "ref": "1.3.9",
+     "title": "CCCLXX. A Church ſeeking Direction from God in the Choice of a Paſtor.",
+     "segments": 5
+    },
+    {
+     "file": "0373.json",
+     "ref": "1.end",
+     "title": "1.end",
+     "segments": 1
+    }
+   ]
+  }
+ ]
+}

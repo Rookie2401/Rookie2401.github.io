@@ -1,0 +1,893 @@
+{
+ "workId": "justin-first-apology",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "justin-first-apology-rauschen-first1k",
+   "role": "original",
+   "language": "greek",
+   "credit": "S. Iustini Apologiae duae: Apologia I, in S. Iustini Apologiae duae (Florilegium Patristicum, fasc. 2), ed. Gerhard Rauschen (Bonn: Petri Hanstein, 1911). First1KGreek / Perseus Digital Library, Tufts University (Open Greek and Latin), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0645/tlg001/tlg0645.tlg001.1st1K-grc1.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 195802,
+   "sourceSha256": "d89772ab0d12a0a293c299652ddf4a5d69ccbd6cced5c4f9181ae887bde074bf",
+   "leftOut": {
+    "pb": 53,
+    "lb": 1
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 14420,
+    "barePerThousand": 23,
+    "digitWords": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "45",
+     "title": "45",
+     "segments": 1
+    },
+    {
+     "file": "0046.json",
+     "ref": "46",
+     "title": "46",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "47",
+     "title": "47",
+     "segments": 1
+    },
+    {
+     "file": "0048.json",
+     "ref": "48",
+     "title": "48",
+     "segments": 1
+    },
+    {
+     "file": "0049.json",
+     "ref": "49",
+     "title": "49",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "50",
+     "title": "50",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "51",
+     "title": "51",
+     "segments": 1
+    },
+    {
+     "file": "0052.json",
+     "ref": "52",
+     "title": "52",
+     "segments": 1
+    },
+    {
+     "file": "0053.json",
+     "ref": "53",
+     "title": "53",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "54",
+     "title": "54",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "55",
+     "title": "55",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "56",
+     "title": "56",
+     "segments": 1
+    },
+    {
+     "file": "0057.json",
+     "ref": "57",
+     "title": "57",
+     "segments": 1
+    },
+    {
+     "file": "0058.json",
+     "ref": "58",
+     "title": "58",
+     "segments": 1
+    },
+    {
+     "file": "0059.json",
+     "ref": "59",
+     "title": "59",
+     "segments": 1
+    },
+    {
+     "file": "0060.json",
+     "ref": "60",
+     "title": "60",
+     "segments": 1
+    },
+    {
+     "file": "0061.json",
+     "ref": "61",
+     "title": "61",
+     "segments": 1
+    },
+    {
+     "file": "0062.json",
+     "ref": "62",
+     "title": "62",
+     "segments": 1
+    },
+    {
+     "file": "0063.json",
+     "ref": "63",
+     "title": "63",
+     "segments": 1
+    },
+    {
+     "file": "0064.json",
+     "ref": "64",
+     "title": "64",
+     "segments": 1
+    },
+    {
+     "file": "0065.json",
+     "ref": "65",
+     "title": "65",
+     "segments": 1
+    },
+    {
+     "file": "0066.json",
+     "ref": "66",
+     "title": "66",
+     "segments": 1
+    },
+    {
+     "file": "0067.json",
+     "ref": "67",
+     "title": "67",
+     "segments": 1
+    },
+    {
+     "file": "0068.json",
+     "ref": "68",
+     "title": "68",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "justin-first-apology-anf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "The First Apology of Justin, in The Ante-Nicene Fathers, vol. 1 (The Apostolic Fathers with Justin Martyr and Irenaeus) (American edition, ed. A. Cleveland Coxe), trans. Various, as printed in the 1885 volume (the Wikisource copy credits 'Philip Schaff et al.' and does not name individual translators on the page); series editors Alexander Roberts and James Donaldson (Buffalo: Christian Literature Publishing Co., 1885). Wikisource contributors, English Wikisource (Ante-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/The_First_Apology",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 147767,
+   "sourceSha256": "c88167de71417b4d9562dd32ef49f56812f0a5c02c958c26358c5927ed152b3b",
+   "leftOut": {
+    "note": 154
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume I/The First Apology",
+     "bytes": 147767,
+     "sha256": "c88167de71417b4d9562dd32ef49f56812f0a5c02c958c26358c5927ed152b3b"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Chapter I.—Address.",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "Chapter II.—Justice demanded.",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "Chapter III.—Claim of judicial investigation.",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "Chapter IV.—Christians unjustly condemned for their mere name.",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "Chapter V.—Christians charged with atheism.",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "Chapter VI.—Charge of atheism refuted.",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "Chapter VII.—Each Christian must be tried by his own life.",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "Chapter VIII.—Christians confess their faith in God.",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "Chapter IX.—Folly of idol worship.",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "Chapter X.—How God is to be served.",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "Chapter XI.—What kingdom Christians look for.",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "Chapter XII.—Christians live as under God’s eye.",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "Chapter XIII.—Christians serve God rationally.",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "Chapter XIV.—The demons misrepresent Christian doctrine.",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "Chapter XV.—What Christ himself taught.",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "Chapter XVI.—Concerning patience and swearing.",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "Chapter XVII.—Christ taught civil obedience.",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "Chapter XVIII.—Proof of immortality and the resurrection.",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "Chapter XIX.—The resurrection possible.",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "Chapter XX.—Heathen analogies to Christian doctrine.",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "Chapter XXI.—Analogies to the history of Christ.",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "Chapter XXII.—Analogies to the sonship of Christ.",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "Chapter XXIII.—The argument.",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "Chapter XXIV.—Varieties of heathen worship.",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "Chapter XXV.—False Gods abandoned by Christians.",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "Chapter XXVI.—Magicians not trusted by Christians.",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "Chapter XXVII.—Guilt of exposing children.",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "Chapter XXVIII.—God’s care for men.",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "Chapter XXIX.—Continence of Christians.",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "Chapter XXX.—Was Christ not a magician?",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "Chapter XXXI.—Of the Hebrew prophets.",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "Chapter XXXII.—Christ predicted by Moses.",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "Chapter XXXIII.—Manner of Christ’s birth predicted.",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "Chapter XXXIV.—Place of Christ’s birth foretold.",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "Chapter XXXV.—Other fulfilled prophecies.",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "Chapter XXXVI.—Different modes of prophecy.",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "Chapter XXXVII.—Utterances of the Father.",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "Chapter XXXVIII.—Utterances of the Son.",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "Chapter XXXIX.—Direct predictions by the Spirit.",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "Chapter XL.—Christ’s advent foretold.",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "Chapter XLI.—The crucifixion predicted.",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "Chapter XLII.—Prophecy using the past tense.",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "Chapter XLIII.—Responsibility asserted.",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "Chapter XLIV.—Not nullified by prophecy.",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "45",
+     "title": "Chapter XLV.—Christ’s session in heaven foretold.",
+     "segments": 1
+    },
+    {
+     "file": "0046.json",
+     "ref": "46",
+     "title": "Chapter XLVI.—The Word in the world before Christ.",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "47",
+     "title": "Chapter XLVII.—Desolation of Judæa foretold.",
+     "segments": 1
+    },
+    {
+     "file": "0048.json",
+     "ref": "48",
+     "title": "Chapter XLVIII.—Christ’s work and death foretold.",
+     "segments": 1
+    },
+    {
+     "file": "0049.json",
+     "ref": "49",
+     "title": "Chapter XLIX.—His rejection by the Jews foretold.",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "50",
+     "title": "Chapter L.—His humiliation predicted.",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "51",
+     "title": "Chapter LI.—The majesty of Christ.",
+     "segments": 1
+    },
+    {
+     "file": "0052.json",
+     "ref": "52",
+     "title": "Chapter LII.—Certain fulfilment of prophecy.",
+     "segments": 1
+    },
+    {
+     "file": "0053.json",
+     "ref": "53",
+     "title": "Chapter LIII.—Summary of the prophecies.",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "54",
+     "title": "Chapter LIV.—Origin of heathen mythology.",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "55",
+     "title": "Chapter LV.—Symbols of the cross.",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "56",
+     "title": "Chapter LVI.—The demons still mislead men.",
+     "segments": 1
+    },
+    {
+     "file": "0057.json",
+     "ref": "57",
+     "title": "Chapter LVII.—And cause persecution.",
+     "segments": 1
+    },
+    {
+     "file": "0058.json",
+     "ref": "58",
+     "title": "Chapter LVIII.—And raise up heretics.",
+     "segments": 1
+    },
+    {
+     "file": "0059.json",
+     "ref": "59",
+     "title": "Chapter LIX.—Plato’s obligation to Moses.",
+     "segments": 1
+    },
+    {
+     "file": "0060.json",
+     "ref": "60",
+     "title": "Chapter LX.—Plato’s doctrine of the cross.",
+     "segments": 1
+    },
+    {
+     "file": "0061.json",
+     "ref": "61",
+     "title": "Chapter LXI.—Christian baptism.",
+     "segments": 2
+    },
+    {
+     "file": "0062.json",
+     "ref": "62",
+     "title": "Chapter LXII.—Its imitation by demons.",
+     "segments": 1
+    },
+    {
+     "file": "0063.json",
+     "ref": "63",
+     "title": "Chapter LXIII.—How God appeared to Moses.",
+     "segments": 1
+    },
+    {
+     "file": "0064.json",
+     "ref": "64",
+     "title": "Chapter LXIV.—Further misrepresentations of the truth.",
+     "segments": 1
+    },
+    {
+     "file": "0065.json",
+     "ref": "65",
+     "title": "Chapter LXV.—Administration of the sacraments.",
+     "segments": 1
+    },
+    {
+     "file": "0066.json",
+     "ref": "66",
+     "title": "Chapter LXVI.—Of the Eucharist.",
+     "segments": 1
+    },
+    {
+     "file": "0067.json",
+     "ref": "67",
+     "title": "Chapter LXVII.—Weekly worship of the Christians.",
+     "segments": 1
+    },
+    {
+     "file": "0068.json",
+     "ref": "68",
+     "title": "Chapter LXVIII.—Conclusion.",
+     "segments": 1
+    },
+    {
+     "file": "0069.json",
+     "ref": "s70",
+     "title": "Epistle of Adrian in behalf of the Christians.",
+     "segments": 1
+    },
+    {
+     "file": "0070.json",
+     "ref": "s71",
+     "title": "Epistle of Antoninus to the commonassembly of Asia.",
+     "segments": 2
+    },
+    {
+     "file": "0071.json",
+     "ref": "s72",
+     "title": "Epistle of Marcus Aurelius to the senate, in which he testifies that the Christians were the cause of his victory.",
+     "segments": 1
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 68,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 3
+ }
+}

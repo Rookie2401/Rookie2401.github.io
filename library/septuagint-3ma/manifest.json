@@ -1,0 +1,141 @@
+{
+ "workId": "septuagint-3ma",
+ "parallel": "segment",
+ "editions": [
+  {
+   "editionId": "brenton-greek-3ma",
+   "role": "original",
+   "language": "greek",
+   "credit": "The Septuagint Version of the Old Testament, with an English Translation … and the Apocrypha (the Greek according to the Vatican text), ed. Lancelot Charles Lee Brenton (London: Samuel Bagster and Sons, 1851). Transcription: eBible.org (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://ebible.org/Scriptures/grcbrent_usfx.zip",
+   "sourceMember": "grcbrent_usfx.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1816960,
+   "sourceSha256": "ff88d6bdd6f21f279b24fe7ebcefd7747991cc24f232df95a676c5609fc25356",
+   "leftOut": {
+    "id": 52,
+    "toc": 108,
+    "s": 1
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 5115,
+    "barePerThousand": 19,
+    "digitWords": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "3MA.1",
+     "title": "3 Maccabees 1",
+     "segments": 29
+    },
+    {
+     "file": "0002.json",
+     "ref": "3MA.2",
+     "title": "3 Maccabees 2",
+     "segments": 33
+    },
+    {
+     "file": "0003.json",
+     "ref": "3MA.3",
+     "title": "3 Maccabees 3",
+     "segments": 30
+    },
+    {
+     "file": "0004.json",
+     "ref": "3MA.4",
+     "title": "3 Maccabees 4",
+     "segments": 21
+    },
+    {
+     "file": "0005.json",
+     "ref": "3MA.5",
+     "title": "3 Maccabees 5",
+     "segments": 51
+    },
+    {
+     "file": "0006.json",
+     "ref": "3MA.6",
+     "title": "3 Maccabees 6",
+     "segments": 41
+    },
+    {
+     "file": "0007.json",
+     "ref": "3MA.7",
+     "title": "3 Maccabees 7",
+     "segments": 23
+    }
+   ]
+  },
+  {
+   "editionId": "brenton-english-3ma",
+   "role": "english",
+   "language": "english",
+   "credit": "The Septuagint Version of the Old Testament, with an English Translation … and the Apocrypha, trans. Lancelot Charles Lee Brenton (London: Samuel Bagster and Sons, 1851). Transcription: eBible.org (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://ebible.org/Scriptures/eng-Brenton_usfx.zip",
+   "sourceMember": "eng-Brenton_usfx.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1548145,
+   "sourceSha256": "363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554",
+   "leftOut": {
+    "id": 60,
+    "toc": 179,
+    "f": 2600,
+    "x": 150
+   },
+   "segmentRefs": "citation",
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "3MA.1",
+     "title": "3 Maccabees 1",
+     "segments": 29
+    },
+    {
+     "file": "0002.json",
+     "ref": "3MA.2",
+     "title": "3 Maccabees 2",
+     "segments": 33
+    },
+    {
+     "file": "0003.json",
+     "ref": "3MA.3",
+     "title": "3 Maccabees 3",
+     "segments": 30
+    },
+    {
+     "file": "0004.json",
+     "ref": "3MA.4",
+     "title": "3 Maccabees 4",
+     "segments": 21
+    },
+    {
+     "file": "0005.json",
+     "ref": "3MA.5",
+     "title": "3 Maccabees 5",
+     "segments": 51
+    },
+    {
+     "file": "0006.json",
+     "ref": "3MA.6",
+     "title": "3 Maccabees 6",
+     "segments": 41
+    },
+    {
+     "file": "0007.json",
+     "ref": "3MA.7",
+     "title": "3 Maccabees 7",
+     "segments": 23
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "divisionOnly": [],
+  "missingInOriginal": [],
+  "missingInEnglish": []
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "workId": "masoretic-ecc",
+ "editions": [
+  {
+   "editionId": "wlc-oshb-ecc",
+   "language": "he",
+   "variety": "he-bib",
+   "textSource": "self",
+   "analysis": {
+    "id": "oshb@2019.01.13",
+    "kind": "verified-dataset",
+    "status": "verified"
+   },
+   "credit": "Open Scriptures Hebrew Bible (OSHB), morphology and lemmas by the OSHB project; text: Westminster Leningrad Codex (WLC)",
+   "licence": "OSHB lemma and morphology: CC BY 4.0; WLC text: public domain; headwords and glosses: Open Scriptures Lexical Index (CC BY 4.0), BDB (public domain), Strong's (public domain, JSON CC BY-SA), curated glosses of the Biblia build",
+   "source": "biblia-v0/data/oshb/Eccl.xml",
+   "sourceUrl": "https://github.com/openscriptures/morphhb",
+   "version": "oshb 2018.4.23 (WLC version 4.20.); newest file 2019.01.13",
+   "coverage": {
+    "tokens": 2987,
+    "withLemma": 2987,
+    "withMorphology": 2677,
+    "verified": 2987,
+    "ambiguous": 0,
+    "unanalysed": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "ECC.1",
+     "title": "Ecclesiastes 1",
+     "segments": 18,
+     "tokens": 215
+    },
+    {
+     "file": "0002.json",
+     "ref": "ECC.2",
+     "title": "Ecclesiastes 2",
+     "segments": 26,
+     "tokens": 381
+    },
+    {
+     "file": "0003.json",
+     "ref": "ECC.3",
+     "title": "Ecclesiastes 3",
+     "segments": 22,
+     "tokens": 273
+    },
+    {
+     "file": "0004.json",
+     "ref": "ECC.4",
+     "title": "Ecclesiastes 4",
+     "segments": 17,
+     "tokens": 237
+    },
+    {
+     "file": "0005.json",
+     "ref": "ECC.5",
+     "title": "Ecclesiastes 5",
+     "segments": 19,
+     "tokens": 266
+    },
+    {
+     "file": "0006.json",
+     "ref": "ECC.6",
+     "title": "Ecclesiastes 6",
+     "segments": 12,
+     "tokens": 170
+    },
+    {
+     "file": "0007.json",
+     "ref": "ECC.7",
+     "title": "Ecclesiastes 7",
+     "segments": 29,
+     "tokens": 330
+    },
+    {
+     "file": "0008.json",
+     "ref": "ECC.8",
+     "title": "Ecclesiastes 8",
+     "segments": 17,
+     "tokens": 281
+    },
+    {
+     "file": "0009.json",
+     "ref": "ECC.9",
+     "title": "Ecclesiastes 9",
+     "segments": 18,
+     "tokens": 309
+    },
+    {
+     "file": "0010.json",
+     "ref": "ECC.10",
+     "title": "Ecclesiastes 10",
+     "segments": 20,
+     "tokens": 196
+    },
+    {
+     "file": "0011.json",
+     "ref": "ECC.11",
+     "title": "Ecclesiastes 11",
+     "segments": 10,
+     "tokens": 143
+    },
+    {
+     "file": "0012.json",
+     "ref": "ECC.12",
+     "title": "Ecclesiastes 12",
+     "segments": 14,
+     "tokens": 186
+    }
+   ]
+  }
+ ]
+}

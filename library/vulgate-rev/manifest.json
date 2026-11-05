@@ -1,0 +1,310 @@
+{
+ "workId": "vulgate-rev",
+ "parallel": "segment",
+ "editions": [
+  {
+   "editionId": "clementine-rev",
+   "role": "original",
+   "language": "latin",
+   "credit": "Biblia Sacra Vulgatae editionis, Sixti V Pontificis Maximi jussu recognita et edita (the Clementine Vulgate; Editio Typica 1598), in the Clementine Vulgate Project's transcription, ed. Clementine Vulgate Project (text derived principally from the printing of A. Colunga and L. Turrado, Madrid 1946, compared with Vercellone 1861 and Hetzenauer 1914) (Rome: Typographus Vaticanus (the edition); Clementine Vulgate Project (the transcription), 1598). Transcription: Clementine Vulgate Project (via seven1m/open-bibles, USFX) (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://raw.githubusercontent.com/seven1m/open-bibles/master/lat-clementine.usfx.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 4652377,
+   "sourceSha256": "5da5f3c07fa6896d4a2b45f5f309c3ece43e554fd059b31b8ae3688bbd182baf",
+   "leftOut": {},
+   "segmentRefs": "citation",
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "REV.1",
+     "title": "Revelation 1",
+     "segments": 20
+    },
+    {
+     "file": "0002.json",
+     "ref": "REV.2",
+     "title": "Revelation 2",
+     "segments": 29
+    },
+    {
+     "file": "0003.json",
+     "ref": "REV.3",
+     "title": "Revelation 3",
+     "segments": 22
+    },
+    {
+     "file": "0004.json",
+     "ref": "REV.4",
+     "title": "Revelation 4",
+     "segments": 11
+    },
+    {
+     "file": "0005.json",
+     "ref": "REV.5",
+     "title": "Revelation 5",
+     "segments": 14
+    },
+    {
+     "file": "0006.json",
+     "ref": "REV.6",
+     "title": "Revelation 6",
+     "segments": 17
+    },
+    {
+     "file": "0007.json",
+     "ref": "REV.7",
+     "title": "Revelation 7",
+     "segments": 17
+    },
+    {
+     "file": "0008.json",
+     "ref": "REV.8",
+     "title": "Revelation 8",
+     "segments": 13
+    },
+    {
+     "file": "0009.json",
+     "ref": "REV.9",
+     "title": "Revelation 9",
+     "segments": 21
+    },
+    {
+     "file": "0010.json",
+     "ref": "REV.10",
+     "title": "Revelation 10",
+     "segments": 11
+    },
+    {
+     "file": "0011.json",
+     "ref": "REV.11",
+     "title": "Revelation 11",
+     "segments": 19
+    },
+    {
+     "file": "0012.json",
+     "ref": "REV.12",
+     "title": "Revelation 12",
+     "segments": 18
+    },
+    {
+     "file": "0013.json",
+     "ref": "REV.13",
+     "title": "Revelation 13",
+     "segments": 18
+    },
+    {
+     "file": "0014.json",
+     "ref": "REV.14",
+     "title": "Revelation 14",
+     "segments": 20
+    },
+    {
+     "file": "0015.json",
+     "ref": "REV.15",
+     "title": "Revelation 15",
+     "segments": 8
+    },
+    {
+     "file": "0016.json",
+     "ref": "REV.16",
+     "title": "Revelation 16",
+     "segments": 21
+    },
+    {
+     "file": "0017.json",
+     "ref": "REV.17",
+     "title": "Revelation 17",
+     "segments": 18
+    },
+    {
+     "file": "0018.json",
+     "ref": "REV.18",
+     "title": "Revelation 18",
+     "segments": 24
+    },
+    {
+     "file": "0019.json",
+     "ref": "REV.19",
+     "title": "Revelation 19",
+     "segments": 21
+    },
+    {
+     "file": "0020.json",
+     "ref": "REV.20",
+     "title": "Revelation 20",
+     "segments": 15
+    },
+    {
+     "file": "0021.json",
+     "ref": "REV.21",
+     "title": "Revelation 21",
+     "segments": 27
+    },
+    {
+     "file": "0022.json",
+     "ref": "REV.22",
+     "title": "Revelation 22",
+     "segments": 21
+    }
+   ]
+  },
+  {
+   "editionId": "douay-rheims-1899-rev",
+   "role": "english",
+   "language": "english",
+   "credit": "The Holy Bible, translated from the Latin Vulgate (Douay-Rheims; revised by Bishop Richard Challoner, 1749–1752), American edition of 1899, trans. English College, Douai and Rheims; revised by Richard Challoner (Baltimore: John Murphy Company, 1899). Transcription: eBible.org (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://ebible.org/Scriptures/engDRA_usfx.zip",
+   "sourceMember": "engDRA_usfx.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 2948574,
+   "sourceSha256": "f6560ec0cb95e8ed97207ca83298f0bda5c32261b9188844b2d7ecb6bfb67adb",
+   "leftOut": {
+    "id": 73,
+    "toc": 219,
+    "cl": 1
+   },
+   "segmentRefs": "citation",
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "REV.1",
+     "title": "Revelation 1",
+     "segments": 20
+    },
+    {
+     "file": "0002.json",
+     "ref": "REV.2",
+     "title": "Revelation 2",
+     "segments": 29
+    },
+    {
+     "file": "0003.json",
+     "ref": "REV.3",
+     "title": "Revelation 3",
+     "segments": 22
+    },
+    {
+     "file": "0004.json",
+     "ref": "REV.4",
+     "title": "Revelation 4",
+     "segments": 11
+    },
+    {
+     "file": "0005.json",
+     "ref": "REV.5",
+     "title": "Revelation 5",
+     "segments": 14
+    },
+    {
+     "file": "0006.json",
+     "ref": "REV.6",
+     "title": "Revelation 6",
+     "segments": 17
+    },
+    {
+     "file": "0007.json",
+     "ref": "REV.7",
+     "title": "Revelation 7",
+     "segments": 17
+    },
+    {
+     "file": "0008.json",
+     "ref": "REV.8",
+     "title": "Revelation 8",
+     "segments": 13
+    },
+    {
+     "file": "0009.json",
+     "ref": "REV.9",
+     "title": "Revelation 9",
+     "segments": 21
+    },
+    {
+     "file": "0010.json",
+     "ref": "REV.10",
+     "title": "Revelation 10",
+     "segments": 11
+    },
+    {
+     "file": "0011.json",
+     "ref": "REV.11",
+     "title": "Revelation 11",
+     "segments": 19
+    },
+    {
+     "file": "0012.json",
+     "ref": "REV.12",
+     "title": "Revelation 12",
+     "segments": 18
+    },
+    {
+     "file": "0013.json",
+     "ref": "REV.13",
+     "title": "Revelation 13",
+     "segments": 18
+    },
+    {
+     "file": "0014.json",
+     "ref": "REV.14",
+     "title": "Revelation 14",
+     "segments": 20
+    },
+    {
+     "file": "0015.json",
+     "ref": "REV.15",
+     "title": "Revelation 15",
+     "segments": 8
+    },
+    {
+     "file": "0016.json",
+     "ref": "REV.16",
+     "title": "Revelation 16",
+     "segments": 21
+    },
+    {
+     "file": "0017.json",
+     "ref": "REV.17",
+     "title": "Revelation 17",
+     "segments": 18
+    },
+    {
+     "file": "0018.json",
+     "ref": "REV.18",
+     "title": "Revelation 18",
+     "segments": 24
+    },
+    {
+     "file": "0019.json",
+     "ref": "REV.19",
+     "title": "Revelation 19",
+     "segments": 21
+    },
+    {
+     "file": "0020.json",
+     "ref": "REV.20",
+     "title": "Revelation 20",
+     "segments": 15
+    },
+    {
+     "file": "0021.json",
+     "ref": "REV.21",
+     "title": "Revelation 21",
+     "segments": 27
+    },
+    {
+     "file": "0022.json",
+     "ref": "REV.22",
+     "title": "Revelation 22",
+     "segments": 21
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "divisionOnly": [],
+  "missingInOriginal": [],
+  "missingInEnglish": []
+ }
+}

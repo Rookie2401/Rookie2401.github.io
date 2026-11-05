@@ -1,0 +1,102 @@
+{
+ "workId": "athanasius-de-decretis",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "athanasius-de-decretis-npnf2-4-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Defence of the Nicene Definition (De Decretis), in A Select Library of Nicene and Post-Nicene Fathers of the Christian Church, Second Series, vol. IV: Athanasius, Select Works and Letters (American edition; ed. Philip Schaff and Henry Wace; vol. edited by Archibald Robertson), trans. John Henry Newman (Oxford Library of the Fathers), revised by Archibald Robertson (New York: The Christian Literature Company, 1892). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers, Series II), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IV/Defence_of_the_Nicene_Definition/De_Decretis",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 181899,
+   "sourceSha256": "0d5754910ce49ee035a8337fc9a59efe174b3993132fbe3b9d84661e9d83651e",
+   "leftOut": {
+    "note": 219
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of the Nicene Definition/De Decretis/Chapter 1",
+     "bytes": 13886,
+     "sha256": "65879f9e04dd301897317650218e6ce69a380bbd8f1279ee9e0c54baab46f75b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of the Nicene Definition/De Decretis/Chapter 2",
+     "bytes": 15226,
+     "sha256": "13e99b795c8d1ec1d250d1d53924e074a272f0cada62a8bb98a4b21e796ad149"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of the Nicene Definition/De Decretis/Chapter 3",
+     "bytes": 41274,
+     "sha256": "d9e8989e974aa536ea3e67075ebc1440227b3c4e5dcca5e883ea09269e2bae7c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of the Nicene Definition/De Decretis/Chapter 4",
+     "bytes": 16705,
+     "sha256": "0980eae1ed6a8ab9cea88c678f97c77d2523b467fd348f44e94b0336d180456b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of the Nicene Definition/De Decretis/Chapter 5",
+     "bytes": 40866,
+     "sha256": "e4db4cc4bb5fdd2689dd1410f35a3f186850ddaa8b6bbd9f15068a6002b269f0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of the Nicene Definition/De Decretis/Chapter 6",
+     "bytes": 27897,
+     "sha256": "bb0030b18a3dd4528fb938e81269d2ba69bae7be4564a7b051f7aeaabeb4e4b6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Defence of the Nicene Definition/De Decretis/Chapter 7",
+     "bytes": 26045,
+     "sha256": "a1456a876a2a5e9f002e7a081ee66a31497ae48429ea4d3a4ad83644f3ca7d9a"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 5
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 5
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 15
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 4
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 9
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 12
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 6
+    }
+   ]
+  }
+ ]
+}

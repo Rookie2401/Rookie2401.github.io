@@ -1,0 +1,36 @@
+{
+ "workId": "gregory-nyssa-not-three-gods",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "gregory-nyssa-not-three-gods-npnf2-5-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "On 'Not Three Gods', in A Select Library of Nicene and Post-Nicene Fathers of the Christian Church, Second Series, vol. V: Gregory of Nyssa, Dogmatic Treatises; Select Writings and Letters (American edition; ed. Philip Schaff and Henry Wace), trans. William Moore and Henry Austin Wilson (the title page names both; it does not say which of them translated each treatise) (New York: The Christian Literature Company, 1893). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers, Series II), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_V/Dogmatic_Treatises/On_'Not_Three_Gods.'",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 34634,
+   "sourceSha256": "402870c3c313822f2aeca9c08a7a7af89955b9ddbf414e13bc67564153cd9f17",
+   "leftOut": {
+    "note": 24
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Dogmatic Treatises/On 'Not Three Gods.'",
+     "bytes": 34634,
+     "sha256": "402870c3c313822f2aeca9c08a7a7af89955b9ddbf414e13bc67564153cd9f17"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front",
+     "title": "front",
+     "segments": 20
+    }
+   ]
+  }
+ ]
+}

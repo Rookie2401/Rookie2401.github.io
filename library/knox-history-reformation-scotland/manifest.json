@@ -1,0 +1,1658 @@
+{
+ "workId": "knox-history-reformation-scotland",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "knox-works-laing-gutenberg",
+   "role": "english",
+   "language": "english",
+   "credit": "The Works of John Knox, collected and edited by David Laing, volumes 1 and 2 (the History of the Reformation in Scotland), in Project Gutenberg eBook #21938 (vol. 1 of 6); vol. 2 is eBook #40886, ed. David Laing (Edinburgh: James Thin (for the Wodrow Society), 1895). Transcription: Project Gutenberg volunteers, Distributed Proofreaders (vol. 1: Jordan, Thomas Strong; vol. 2: Jordan, Julia Neufeld) (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/21938/pg21938.txt",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 2846249,
+   "sourceSha256": "2cf9abb881ad17e8b7f686bf9bf1e8501f18a5fdd2df09cfb226fc21adab2c17",
+   "leftOut": {
+    "transcriberNote": 4,
+    "illustration": 14,
+    "noteMark": 2245,
+    "note": 2206
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "https://www.gutenberg.org/cache/epub/21938/pg21938.txt",
+     "bytes": 1393323,
+     "sha256": "147be06319a4b2cd2fcfe13e5d3d208f9a967ab744fa4fd46c6ccc8a35cf8bc1"
+    },
+    {
+     "title": "https://www.gutenberg.org/cache/epub/40886/pg40886.txt",
+     "bytes": 1452926,
+     "sha256": "05db8ba48a19c2332edc3d58db549ea635b88fe4a29be59908c14dfaae3b02e8"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "v1.s1",
+     "title": "THE WORKS",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "v1.s5",
+     "title": "VOLUME FIRST.",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "v1.s6",
+     "title": "$WORKS",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "v1.s11",
+     "title": "THE WORKS",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "v1.s17",
+     "title": "MDCCCXCV.",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "v1.s18",
+     "title": "THEOD. BEZA.",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "v1.s20",
+     "title": "PAGE",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "v1.s21",
+     "title": "HISTORY OF THE REFORMATION IN SCOTLAND.",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "v1.s24",
+     "title": "APPENDIX.",
+     "segments": 18
+    },
+    {
+     "file": "0010.json",
+     "ref": "v1.s26",
+     "title": "PAGE",
+     "segments": 4
+    },
+    {
+     "file": "0011.json",
+     "ref": "v1.s27",
+     "title": "$ADVERTISEMENT$.",
+     "segments": 4
+    },
+    {
+     "file": "0012.json",
+     "ref": "v1.s31",
+     "title": "$CHRONOLOGICAL NOTES",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "v1.s32",
+     "title": "THE CHIEF EVENTS IN THE LIFE OF JOHN KNOX$.",
+     "segments": 112
+    },
+    {
+     "file": "0014.json",
+     "ref": "v1.s36",
+     "title": "$INTRODUCTORY NOTICE TO THE HISTORY$.",
+     "segments": 6
+    },
+    {
+     "file": "0015.json",
+     "ref": "v1.s37",
+     "title": "MANUSCRIPT COPIES OF THE HISTORY.",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "v1.s38",
+     "title": "I.--MANUSCRIPT OF 1566.--IN THE EDITOR'S POSSESSION.",
+     "segments": 5
+    },
+    {
+     "file": "0017.json",
+     "ref": "v1.s39",
+     "title": "II.--VAUTR. EDIT.--PRINTED AT LONDON IN 1586 OR 1587.",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "v1.s40",
+     "title": "III. MS. G.--IN THE UNIVERSITY LIBRARY, GLASGOW.",
+     "segments": 4
+    },
+    {
+     "file": "0019.json",
+     "ref": "v1.s41",
+     "title": "IV. MS. A. (1.)--IN THE ADVOCATES LIBRARY.",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "v1.s42",
+     "title": "V. MS. A. (2.)--IN THE ADVOCATES LIBRARY.",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "v1.s43",
+     "title": "VI. MS. E.--IN THE UNIVERSITY LIBRARY, EDINBURGH.",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "v1.s44",
+     "title": "VII. MS. I.--IN THE POSSESSION OF DAVID IRVING, LL. D.",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "v1.s45",
+     "title": "VIII. MS. L. (2.)--IN THE EDITOR'S POSSESSION.",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "v1.s46",
+     "title": "IX. MS. N.--IN THE LIBRARY AT NEWTONDON.",
+     "segments": 4
+    },
+    {
+     "file": "0025.json",
+     "ref": "v1.s47",
+     "title": "X. MS. W.--IN THE POSSESSION OF RICHARD WHYTOCK, ESQ., EDINBURGH.",
+     "segments": 6
+    },
+    {
+     "file": "0026.json",
+     "ref": "v1.s48",
+     "title": "PRINTED EDITIONS OF THE HISTORY.",
+     "segments": 3
+    },
+    {
+     "file": "0027.json",
+     "ref": "v1.s49",
+     "title": "CHVRCH OF SCOTLAND. 17",
+     "segments": 6
+    },
+    {
+     "file": "0028.json",
+     "ref": "v1.s51",
+     "title": "TO THE GENTILL READAR, GRACE AND PEACE FROME GOD THE FATHER OF OUR LORD JESUS CHRIST, WITH THE PERPETUALL ENCREASE OF THE HOLY SPREIT.[10]",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "v1.s52",
+     "title": "HISTORIÆ INITIUM.[22]",
+     "segments": 43
+    },
+    {
+     "file": "0030.json",
+     "ref": "v1.s53",
+     "title": "JOHN FRITH UNTO THE CHRISTIAN READER.",
+     "segments": 3
+    },
+    {
+     "file": "0031.json",
+     "ref": "v1.s54",
+     "title": "THE TEN COMMANDIMENTIS.",
+     "segments": 40
+    },
+    {
+     "file": "0032.json",
+     "ref": "v1.s55",
+     "title": "THE NATURE [AND OFFICE] OF THE LAW, AND OF THE GOSPELL.",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "v1.s56",
+     "title": "A DISPUTATIOUN BETUIX THE LAW AND THE GOSPELL.",
+     "segments": 13
+    },
+    {
+     "file": "0034.json",
+     "ref": "v1.s57",
+     "title": "A MAN IS JUSTIFEID BE FAITH.",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "v1.s58",
+     "title": "OF THE FAITH OF CHRIST",
+     "segments": 5
+    },
+    {
+     "file": "0036.json",
+     "ref": "v1.s59",
+     "title": "A COMPARISON BETUIX FAITH AND INDREDULITIE.",
+     "segments": 6
+    },
+    {
+     "file": "0037.json",
+     "ref": "v1.s60",
+     "title": "OFF HOPE.",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "v1.s61",
+     "title": "OFF CHARITIE.",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "v1.s62",
+     "title": "A COMPARISON BETUIX FAITH, HOPE, AND CHARITIE.",
+     "segments": 8
+    },
+    {
+     "file": "0040.json",
+     "ref": "v1.s63",
+     "title": "WERKIS MAIK US NETHER GOOD NOR EVILL.",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "v1.s64",
+     "title": "NONE OF OURE WERKIS NETHER SAVE US, NOR CONDEMPNE US.",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "v1.s65",
+     "title": "HE THAT THINKITH TO BE SAVID BE HIS WERKIS, CALLETH HIM SELVE CHRIST:--",
+     "segments": 26
+    },
+    {
+     "file": "0043.json",
+     "ref": "v1.s66",
+     "title": "ANE EPISTLE DIRECT FRA THE HOLYE ARMITE OF ALLARIT,[174] TO HIS BRETHEREN THE GRAY FREIRES.",
+     "segments": 64
+    },
+    {
+     "file": "0044.json",
+     "ref": "v1.s67",
+     "title": "MAISTER GEORGE HIS ORATIOUN.",
+     "segments": 6
+    },
+    {
+     "file": "0045.json",
+     "ref": "v1.s68",
+     "title": "THE FIRST ARTICLE.",
+     "segments": 1
+    },
+    {
+     "file": "0046.json",
+     "ref": "v1.s69",
+     "title": "THE ANSUER.",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "v1.s70",
+     "title": "THE SECUND ARTICLE.",
+     "segments": 1
+    },
+    {
+     "file": "0048.json",
+     "ref": "v1.s71",
+     "title": "THE ANSUER.",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "v1.s72",
+     "title": "THE THRID ARTICLE.",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "v1.s73",
+     "title": "THE ANSWER.",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "v1.s74",
+     "title": "THE FOURTE ARTICLE.",
+     "segments": 1
+    },
+    {
+     "file": "0052.json",
+     "ref": "v1.s75",
+     "title": "THE ANSWER.",
+     "segments": 2
+    },
+    {
+     "file": "0053.json",
+     "ref": "v1.s76",
+     "title": "THE FYFT ARTICLE.",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "v1.s77",
+     "title": "THE ANSWER.",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "v1.s78",
+     "title": "THE SAXT ARTICLE.",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "v1.s79",
+     "title": "THE ANSWER.",
+     "segments": 3
+    },
+    {
+     "file": "0057.json",
+     "ref": "v1.s80",
+     "title": "THE SEVINT ARTICLE.",
+     "segments": 1
+    },
+    {
+     "file": "0058.json",
+     "ref": "v1.s81",
+     "title": "THE ANSWER.",
+     "segments": 1
+    },
+    {
+     "file": "0059.json",
+     "ref": "v1.s82",
+     "title": "THE EYGHT ARTICLE.",
+     "segments": 1
+    },
+    {
+     "file": "0060.json",
+     "ref": "v1.s83",
+     "title": "THE ANSWERE.",
+     "segments": 1
+    },
+    {
+     "file": "0061.json",
+     "ref": "v1.s84",
+     "title": "THE NYNT ARTICLE.",
+     "segments": 1
+    },
+    {
+     "file": "0062.json",
+     "ref": "v1.s85",
+     "title": "THE ANSWERE.",
+     "segments": 2
+    },
+    {
+     "file": "0063.json",
+     "ref": "v1.s86",
+     "title": "THE TENT ARTICLE.",
+     "segments": 1
+    },
+    {
+     "file": "0064.json",
+     "ref": "v1.s87",
+     "title": "THE ANSWER.",
+     "segments": 1
+    },
+    {
+     "file": "0065.json",
+     "ref": "v1.s88",
+     "title": "THE ELLEVINT ARTICLE.",
+     "segments": 1
+    },
+    {
+     "file": "0066.json",
+     "ref": "v1.s89",
+     "title": "THE ANSWERE.",
+     "segments": 2
+    },
+    {
+     "file": "0067.json",
+     "ref": "v1.s90",
+     "title": "THE TWELTH ARTICLE.",
+     "segments": 1
+    },
+    {
+     "file": "0068.json",
+     "ref": "v1.s91",
+     "title": "THE ANSWER.",
+     "segments": 6
+    },
+    {
+     "file": "0069.json",
+     "ref": "v1.s92",
+     "title": "THE XIII ARTICLE.",
+     "segments": 1
+    },
+    {
+     "file": "0070.json",
+     "ref": "v1.s93",
+     "title": "THE ANSWERE.",
+     "segments": 2
+    },
+    {
+     "file": "0071.json",
+     "ref": "v1.s94",
+     "title": "THE XIIII ARTICLE.",
+     "segments": 1
+    },
+    {
+     "file": "0072.json",
+     "ref": "v1.s95",
+     "title": "THE ANSWER.",
+     "segments": 2
+    },
+    {
+     "file": "0073.json",
+     "ref": "v1.s96",
+     "title": "THE XV ARTICLE.",
+     "segments": 1
+    },
+    {
+     "file": "0074.json",
+     "ref": "v1.s97",
+     "title": "THE ANSWER.",
+     "segments": 3
+    },
+    {
+     "file": "0075.json",
+     "ref": "v1.s98",
+     "title": "THE XVI ARTICLE.",
+     "segments": 1
+    },
+    {
+     "file": "0076.json",
+     "ref": "v1.s99",
+     "title": "THE ANSWER.",
+     "segments": 1
+    },
+    {
+     "file": "0077.json",
+     "ref": "v1.s100",
+     "title": "THE XVII ARTICLE.",
+     "segments": 1
+    },
+    {
+     "file": "0078.json",
+     "ref": "v1.s101",
+     "title": "THE ANSWER.",
+     "segments": 1
+    },
+    {
+     "file": "0079.json",
+     "ref": "v1.s102",
+     "title": "THE XVIII ARTICLE.",
+     "segments": 1
+    },
+    {
+     "file": "0080.json",
+     "ref": "v1.s103",
+     "title": "THE ANSWER.",
+     "segments": 2
+    },
+    {
+     "file": "0081.json",
+     "ref": "v1.s104",
+     "title": "THE PRAYER OF MAISTER GEORGE.",
+     "segments": 15
+    },
+    {
+     "file": "0082.json",
+     "ref": "v1.s105",
+     "title": "THE HEADIS OF THE COLOURED APPOINTMENT WAR:--",
+     "segments": 27
+    },
+    {
+     "file": "0083.json",
+     "ref": "v1.s106",
+     "title": "JOHNE KNOX.",
+     "segments": 1
+    },
+    {
+     "file": "0084.json",
+     "ref": "v1.s107",
+     "title": "THE SUPPRIOUR.",
+     "segments": 1
+    },
+    {
+     "file": "0085.json",
+     "ref": "v1.s108",
+     "title": "JOHNE KNOX.",
+     "segments": 1
+    },
+    {
+     "file": "0086.json",
+     "ref": "v1.s109",
+     "title": "THE SUPPRIOUR.",
+     "segments": 2
+    },
+    {
+     "file": "0087.json",
+     "ref": "v1.s110",
+     "title": "JOHNE KNOX.",
+     "segments": 1
+    },
+    {
+     "file": "0088.json",
+     "ref": "v1.s111",
+     "title": "THE SUPPRIOUR.",
+     "segments": 1
+    },
+    {
+     "file": "0089.json",
+     "ref": "v1.s112",
+     "title": "ARBUCKILL GRAY-FREIR.[489]",
+     "segments": 1
+    },
+    {
+     "file": "0090.json",
+     "ref": "v1.s113",
+     "title": "JOHNE KNOX.",
+     "segments": 1
+    },
+    {
+     "file": "0091.json",
+     "ref": "v1.s114",
+     "title": "ARBUCKILL.",
+     "segments": 1
+    },
+    {
+     "file": "0092.json",
+     "ref": "v1.s115",
+     "title": "JOHNE KNOX.",
+     "segments": 1
+    },
+    {
+     "file": "0093.json",
+     "ref": "v1.s116",
+     "title": "ARBUCKILL.",
+     "segments": 1
+    },
+    {
+     "file": "0094.json",
+     "ref": "v1.s117",
+     "title": "JOHNE KNOX.",
+     "segments": 1
+    },
+    {
+     "file": "0095.json",
+     "ref": "v1.s118",
+     "title": "ARBUCKILL.",
+     "segments": 1
+    },
+    {
+     "file": "0096.json",
+     "ref": "v1.s119",
+     "title": "JOHNE KNOX.",
+     "segments": 118
+    },
+    {
+     "file": "0097.json",
+     "ref": "v1.s120",
+     "title": "THE BISCHOPPIS LETTER TO THE OLD ERLE OF ERGYLE.",
+     "segments": 52
+    },
+    {
+     "file": "0098.json",
+     "ref": "v1.s121",
+     "title": "THE END OF THE FIRST BOOK.",
+     "segments": 3
+    },
+    {
+     "file": "0099.json",
+     "ref": "v1.s122",
+     "title": "PREFATIO.",
+     "segments": 5
+    },
+    {
+     "file": "0100.json",
+     "ref": "v1.s123",
+     "title": "THE FIRST ORATIOUN, AND PETITIOUN, OF THE PROTESTANTES OF SCOTLAND TO THE QUEIN REGENT.",
+     "segments": 1
+    },
+    {
+     "file": "0101.json",
+     "ref": "v1.s124",
+     "title": "THE FIRST PETITIOUN.",
+     "segments": 12
+    },
+    {
+     "file": "0102.json",
+     "ref": "v1.s125",
+     "title": "THE FORME OF THE LETTIR GEVIN IN PARLIAMENT.",
+     "segments": 9
+    },
+    {
+     "file": "0103.json",
+     "ref": "v1.s126",
+     "title": "FORME OF THE PROTESTATIOUN MAID IN PARLIAMENT.",
+     "segments": 15
+    },
+    {
+     "file": "0104.json",
+     "ref": "v1.s127",
+     "title": "\"TO THE QUENIS GRACE REGENT, ALL HUMILL OBEDIENCE AND DEWITIE PREMISSED.",
+     "segments": 5
+    },
+    {
+     "file": "0105.json",
+     "ref": "v1.s128",
+     "title": "\"TO THE NOBILITIE OF SCOTLAND, THE CONGREGATIONIS OF CHRYST JESUS WITHIN THE SAME, DESYR THE SPREIT OF RYGHTEOUS JUDGEMENT.\"",
+     "segments": 34
+    },
+    {
+     "file": "0106.json",
+     "ref": "v1.s129",
+     "title": "THE ASSURANCE.",
+     "segments": 46
+    },
+    {
+     "file": "0107.json",
+     "ref": "v1.s130",
+     "title": "\"AT THE LYNKIS OF LEITH, THE 24. OF JULIJ 1559, IT IS APPOINTED IN MANER FOLLOWING:--",
+     "segments": 13
+    },
+    {
+     "file": "0108.json",
+     "ref": "v1.s131",
+     "title": "FORME OF THE PROCLAMATIOUN.",
+     "segments": 20
+    },
+    {
+     "file": "0109.json",
+     "ref": "v1.s132",
+     "title": "\"SCHIR,",
+     "segments": 15
+    },
+    {
+     "file": "0110.json",
+     "ref": "v1.s133",
+     "title": "\"TREST FREYND,",
+     "segments": 30
+    },
+    {
+     "file": "0111.json",
+     "ref": "v1.s134",
+     "title": "\"MY LORD AND COUSING,",
+     "segments": 6
+    },
+    {
+     "file": "0112.json",
+     "ref": "v1.s135",
+     "title": "\"THE MEMORIALL OF MAISTER JOHNNE SPENSE OF CONDY,[954] THE THRETTY DAY OF SEPTEMBER.",
+     "segments": 5
+    },
+    {
+     "file": "0113.json",
+     "ref": "v1.s136",
+     "title": "\"PLEISE YOURE GRACE,",
+     "segments": 12
+    },
+    {
+     "file": "0114.json",
+     "ref": "v1.s137",
+     "title": "\"[MADAME,][985]",
+     "segments": 6
+    },
+    {
+     "file": "0115.json",
+     "ref": "v1.s138",
+     "title": "\"[MADAME,][990]",
+     "segments": 4
+    },
+    {
+     "file": "0116.json",
+     "ref": "v1.s139",
+     "title": "THE PURGATIOUN OF THE DUIK.",
+     "segments": 25
+    },
+    {
+     "file": "0117.json",
+     "ref": "v1.s140",
+     "title": "BY US, THE NOBILITY AND COMMOUNS OF THE PROTESTANTS OF THE CHURCHE OF SCOTLAND.][1003]",
+     "segments": 1
+    },
+    {
+     "file": "0118.json",
+     "ref": "v1.s141",
+     "title": "\"PLEIS YOUR GRACE,",
+     "segments": 33
+    },
+    {
+     "file": "0119.json",
+     "ref": "v1.s142",
+     "title": "ENDIS THE SECOUND BOOKE OF THE HISTORYE OF THE PROGRESSE OF RELIGIOUN WITHIN SCOTLAND.[1062]",
+     "segments": 1
+    },
+    {
+     "file": "0120.json",
+     "ref": "v1.s144",
+     "title": "APPENDIX.",
+     "segments": 2
+    },
+    {
+     "file": "0121.json",
+     "ref": "v1.s145",
+     "title": "(THE PAGES AND LINES AT THE LEFT-HAND SIDE REFER TO THE PRESENT EDITION.)",
+     "segments": 144
+    },
+    {
+     "file": "0122.json",
+     "ref": "v1.s146",
+     "title": "BOOK SECOND.",
+     "segments": 130
+    },
+    {
+     "file": "0123.json",
+     "ref": "v1.s147",
+     "title": "THE END OF THE SECOND BOOK.",
+     "segments": 1
+    },
+    {
+     "file": "0124.json",
+     "ref": "v1.s148",
+     "title": "THE LOLLARDS IN SCOTLAND DURING THE FIFTEENTH CENTURY.",
+     "segments": 6
+    },
+    {
+     "file": "0125.json",
+     "ref": "v1.s149",
+     "title": "\"LIB. XV. CAP. XX. DE COMBUSTIONE JACOBI RESBY HÆRETICI APUD PERTH.",
+     "segments": 5
+    },
+    {
+     "file": "0126.json",
+     "ref": "v1.s150",
+     "title": "\"OF HERETICKIS AND LOLLARDIS.",
+     "segments": 3
+    },
+    {
+     "file": "0127.json",
+     "ref": "v1.s151",
+     "title": "\"¶ PAULE CRAWS A BOHEMIAN.",
+     "segments": 2
+    },
+    {
+     "file": "0128.json",
+     "ref": "v1.s152",
+     "title": "\"DE COMBUSTIONE PAULI CRAWAR ARCH-HÆRETICI, ET DE LOLARDIS.",
+     "segments": 10
+    },
+    {
+     "file": "0129.json",
+     "ref": "v1.s153",
+     "title": "PATRICK HAMILTON, ABBOT OF FERNE.",
+     "segments": 17
+    },
+    {
+     "file": "0130.json",
+     "ref": "v1.s154",
+     "title": "\"ACTES AND MONUMENTS",
+     "segments": 10
+    },
+    {
+     "file": "0131.json",
+     "ref": "v1.s155",
+     "title": "THE STORY OF M. PATRICKE HAMELTON. 1527.",
+     "segments": 8
+    },
+    {
+     "file": "0132.json",
+     "ref": "v1.s156",
+     "title": "¶ THE ARTICLES AND OPINIONS OBIECTED AGAYNST M. PATRIKE HAMELTON, BY IAMES BETON, ARCHBYSHOP OF S. ANDREWES.[1065]",
+     "segments": 25
+    },
+    {
+     "file": "0133.json",
+     "ref": "v1.s157",
+     "title": "HERE FOLOWETH THE SENTENCE PRONOUNCED AGAYNST HYM.",
+     "segments": 9
+    },
+    {
+     "file": "0134.json",
+     "ref": "v1.s158",
+     "title": "BY THE MAISTERS AND PROFESSOURS OF THEOLOGIE IN THE VNIUERSITIE OF LOUANE, YOURS TO COMMAUNDE.",
+     "segments": 10
+    },
+    {
+     "file": "0135.json",
+     "ref": "v1.s159",
+     "title": "ON THE ROYAL PILGRIMAGES TO THE SHRINE OF ST. DUTHACK, AT TAIN, IN ROSS-SHIRE.",
+     "segments": 3
+    },
+    {
+     "file": "0136.json",
+     "ref": "v1.s160",
+     "title": "FOXE'S ACCOUNT OF HENRY FORREST, AND OTHER MARTYRS IN SCOTLAND, DURING THE REIGN OF KING JAMES THE FIFTH.",
+     "segments": 1
+    },
+    {
+     "file": "0137.json",
+     "ref": "v1.s161",
+     "title": "\"¶ FIVE BURNT IN SKOTLAND.",
+     "segments": 3
+    },
+    {
+     "file": "0138.json",
+     "ref": "v1.s162",
+     "title": "\"HENRY FOREST, MARTYR.",
+     "segments": 8
+    },
+    {
+     "file": "0139.json",
+     "ref": "v1.s163",
+     "title": "\"JAMES HAMELTON. KATHERINE HAMELTON HIS SISTER. A WIFE OF LYETH, PERSECUTED. DAUID STRATON, NORMAN GURLEY, MARTYRS.",
+     "segments": 26
+    },
+    {
+     "file": "0140.json",
+     "ref": "v1.s164",
+     "title": "HERE FOLOWETH THE MANER OF PERSECUTION VSED BY THE CARDINALL OF SCOTLAND, AGAINST CERTAINE PERSONS IN PERTH.",
+     "segments": 23
+    },
+    {
+     "file": "0141.json",
+     "ref": "v1.s165",
+     "title": "NOTICES OF THE PROTESTANT EXILES FROM SCOTLAND DURING THE REIGN OF KING JAMES THE FIFTH.",
+     "segments": 16
+    },
+    {
+     "file": "0142.json",
+     "ref": "v1.s166",
+     "title": "ALEXANDER SEYTON.",
+     "segments": 11
+    },
+    {
+     "file": "0143.json",
+     "ref": "v1.s167",
+     "title": "SIR JOHN BORTHWICK.",
+     "segments": 5
+    },
+    {
+     "file": "0144.json",
+     "ref": "v1.s168",
+     "title": "GEORGE WISHART THE MARTYR.",
+     "segments": 15
+    },
+    {
+     "file": "0145.json",
+     "ref": "v1.s169",
+     "title": "JOHN ROUGH.",
+     "segments": 1
+    },
+    {
+     "file": "0146.json",
+     "ref": "v1.s170",
+     "title": "\"THE DEATH AND MARTYRDOME OF JOHN ROWGH, MINISTER, AND MARGARET MEARYNG, BURNED AT LONDON THE XXII. OF DECEMBER.",
+     "segments": 4
+    },
+    {
+     "file": "0147.json",
+     "ref": "v1.s171",
+     "title": "¶ A LETTER SENT FROM THE QUEENES COUNCELL VNTO BONER BISHOP OF LONDON, TOUCHING THE EXAMINATION OF IOHN ROUGH MINISTER.",
+     "segments": 7
+    },
+    {
+     "file": "0148.json",
+     "ref": "v1.s172",
+     "title": "NORMAN LESLEY.",
+     "segments": 7
+    },
+    {
+     "file": "0149.json",
+     "ref": "v1.s173",
+     "title": "ADAM WALLACE.",
+     "segments": 3
+    },
+    {
+     "file": "0150.json",
+     "ref": "v1.s174",
+     "title": "\"THE STORY AND MARTYRDOME OF ADAM WALLACE IN SCOTLAND.",
+     "segments": 25
+    },
+    {
+     "file": "0151.json",
+     "ref": "v1.s175",
+     "title": "WALTER MYLN.",
+     "segments": 2
+    },
+    {
+     "file": "0152.json",
+     "ref": "v1.s176",
+     "title": "\"THE MARTYRDOME OF THE BLESSED SERUAUNT OF GOD, WALTER MILLE.",
+     "segments": 3
+    },
+    {
+     "file": "0153.json",
+     "ref": "v1.s177",
+     "title": "THESE WERE THE ARTICLES WHEREOF HE WAS ACCUSED, WITH HIS AUNSWERS VNTO THE SAME.",
+     "segments": 21
+    },
+    {
+     "file": "0154.json",
+     "ref": "v1.s178",
+     "title": "EPITAPHIUM.",
+     "segments": 5
+    },
+    {
+     "file": "0155.json",
+     "ref": "v1.s179",
+     "title": "ON THE TITLE OF SIR, APPLIED TO PRIESTS.",
+     "segments": 8
+    },
+    {
+     "file": "0156.json",
+     "ref": "v1.s180",
+     "title": "ON THE TUMULT IN EDINBURGH, AT THE PROCESSION ON ST. GILES'S DAY, 1558.",
+     "segments": 10
+    },
+    {
+     "file": "0157.json",
+     "ref": "v1.s181",
+     "title": "PROVINCIAL COUNCILS IN SCOTLAND, IN 1549-1559.",
+     "segments": 2
+    },
+    {
+     "file": "0158.json",
+     "ref": "v1.s182",
+     "title": "LETTER OF MARY QUEEN OF SCOTS TO LORD JAMES PRIOR OF THE MONASTERY OF ST. ANDREWS. JULY 1559.",
+     "segments": 1
+    },
+    {
+     "file": "0159.json",
+     "ref": "v1.s183",
+     "title": "\"MARY, QUEEN OF SCOTLAND AND FRANCE, TO JAMES PRIOR OF THE MONASTERIE OF S. ANDREWES.",
+     "segments": 3
+    },
+    {
+     "file": "0160.json",
+     "ref": "v1.s184",
+     "title": "DAVID FORREST, GENERAL OF THE MINT.",
+     "segments": 3
+    },
+    {
+     "file": "0161.json",
+     "ref": "v1.s185",
+     "title": "FOOTNOTES",
+     "segments": 76
+    },
+    {
+     "file": "0162.json",
+     "ref": "v1.s186",
+     "title": "DECEMBER [1557.]",
+     "segments": 39
+    },
+    {
+     "file": "0163.json",
+     "ref": "v1.s187",
+     "title": "\"THE BLYND, CRUKED, BEDRELLES, WEDOWIS, ORPHELINGIS, AND ALL UTHER PURE, SA VISEIT BE THE HAND OF GOD, AS MAY NOT WORKE,",
+     "segments": 3
+    },
+    {
+     "file": "0164.json",
+     "ref": "v1.s189",
+     "title": "\"JAMES DUCKE. L.L. ENNEN J.\"",
+     "segments": 1
+    },
+    {
+     "file": "0165.json",
+     "ref": "v1.s190",
+     "title": "\"JAMES DUKE. L. LIEUTENANT ETC.\"",
+     "segments": 14
+    },
+    {
+     "file": "0166.json",
+     "ref": "v2.s1",
+     "title": "v2.s1",
+     "segments": 4
+    },
+    {
+     "file": "0167.json",
+     "ref": "v2.s3",
+     "title": "VOLUME SECOND.",
+     "segments": 2
+    },
+    {
+     "file": "0168.json",
+     "ref": "v2.s6",
+     "title": "FOR THE PUBLICATION OF THE WORKS OF THE FATHERS AND EARLY WRITERS OF THE REFORMED CHURCH OF SCOTLAND.",
+     "segments": 1
+    },
+    {
+     "file": "0169.json",
+     "ref": "v2.s7",
+     "title": "THEOD. BEZA.",
+     "segments": 1
+    },
+    {
+     "file": "0170.json",
+     "ref": "v2.s9",
+     "title": "PAGE",
+     "segments": 1
+    },
+    {
+     "file": "0171.json",
+     "ref": "v2.s18",
+     "title": "APPENDIX.",
+     "segments": 1
+    },
+    {
+     "file": "0172.json",
+     "ref": "v2.s19",
+     "title": "NOTICES OF THE EDITOR, DAVID BUCHANAN,                584",
+     "segments": 5
+    },
+    {
+     "file": "0173.json",
+     "ref": "v2.s23",
+     "title": "ADVERTISEMENT.",
+     "segments": 31
+    },
+    {
+     "file": "0174.json",
+     "ref": "v2.s24",
+     "title": "THE FIRST LETTER TO [SIR] WILLYAUME CYCILL, FRA THE LORDIS OF THE CONGREGATIOUN.",
+     "segments": 3
+    },
+    {
+     "file": "0175.json",
+     "ref": "v2.s25",
+     "title": "JHONE KNOX[71] SECOUND LETTER TO MR. CYCILL, FOR DELIVERANCE OF ANE UTHER TO THE QUEIN OF ENGLAND.",
+     "segments": 15
+    },
+    {
+     "file": "0176.json",
+     "ref": "v2.s27",
+     "title": "\"MAISTER KNOX,",
+     "segments": 4
+    },
+    {
+     "file": "0177.json",
+     "ref": "v2.s28",
+     "title": "ANSWER TO MR. CYCILLIS LETTER.[92]",
+     "segments": 4
+    },
+    {
+     "file": "0178.json",
+     "ref": "v2.s29",
+     "title": "\"TO THE LORD DUKE HIS GRACE, AND THE LORDIS AT GLASKOW.",
+     "segments": 7
+    },
+    {
+     "file": "0179.json",
+     "ref": "v2.s30",
+     "title": "THE CONTRACT AT BERWICK.",
+     "segments": 19
+    },
+    {
+     "file": "0180.json",
+     "ref": "v2.s31",
+     "title": "THE INSTRUCTIONIS GEVIN, SUBSCRYVIT TO THE SAID COMMISSIONARIS [THAT WENT TO BERWICK, AR THIR AS][126] FOLLOW:--",
+     "segments": 77
+    },
+    {
+     "file": "0181.json",
+     "ref": "v2.s32",
+     "title": "THANKIS GEVING FOR OUR DELYVERANCE, WITH PRAYERIS.",
+     "segments": 14
+    },
+    {
+     "file": "0182.json",
+     "ref": "v2.s33",
+     "title": "MATHEI 24.",
+     "segments": 7
+    },
+    {
+     "file": "0183.json",
+     "ref": "v2.s34",
+     "title": "THE PREFACE.",
+     "segments": 2
+    },
+    {
+     "file": "0184.json",
+     "ref": "v2.s35",
+     "title": "OFF GOD.--CAP. I.[216]",
+     "segments": 6
+    },
+    {
+     "file": "0185.json",
+     "ref": "v2.s36",
+     "title": "OFF THE CREATIOUN OF MAN.--CAP. II.",
+     "segments": 3
+    },
+    {
+     "file": "0186.json",
+     "ref": "v2.s37",
+     "title": "OFF ORIGINALL SYN.--CAP. III.",
+     "segments": 2
+    },
+    {
+     "file": "0187.json",
+     "ref": "v2.s38",
+     "title": "OFF THE REVELATIOUN OF THE PROMEIS.--CAP. IV.",
+     "segments": 8
+    },
+    {
+     "file": "0188.json",
+     "ref": "v2.s39",
+     "title": "OFF THE INCARNATIOUN OF CHRYST JESUS.--CAP. VI.",
+     "segments": 4
+    },
+    {
+     "file": "0189.json",
+     "ref": "v2.s40",
+     "title": "QUHY IT BEHOVIT THE MEDIATOUR TO BE VERRAY GOD AND VERRAY MAN.--CAP. VII.",
+     "segments": 1
+    },
+    {
+     "file": "0190.json",
+     "ref": "v2.s41",
+     "title": "ELECTIOUN.--CAP. VIII.",
+     "segments": 7
+    },
+    {
+     "file": "0191.json",
+     "ref": "v2.s42",
+     "title": "CHRYSTIS DEATH, PASSIOUN, BURYALL, &C.--CAP. IX.",
+     "segments": 6
+    },
+    {
+     "file": "0192.json",
+     "ref": "v2.s43",
+     "title": "RESURRECTIOUN.--CAP. X.",
+     "segments": 6
+    },
+    {
+     "file": "0193.json",
+     "ref": "v2.s44",
+     "title": "ASCENSIOUN.--CAP. XI.",
+     "segments": 11
+    },
+    {
+     "file": "0194.json",
+     "ref": "v2.s45",
+     "title": "FAITH IN THE HOLY GHOST.--CAP. XII.",
+     "segments": 5
+    },
+    {
+     "file": "0195.json",
+     "ref": "v2.s46",
+     "title": "THE CAUSE OF GOOD WORKIS.--CAP. XIII.[232]",
+     "segments": 6
+    },
+    {
+     "file": "0196.json",
+     "ref": "v2.s47",
+     "title": "WHAT WORKIS AR REPUTED GOOD BEFOIR GOD.--CAP. XIV.[235]",
+     "segments": 10
+    },
+    {
+     "file": "0197.json",
+     "ref": "v2.s48",
+     "title": "THE PERFECTIOUN OF THE LAW AND IMPERFECTIOUN OF MAN.--CAP. XV.",
+     "segments": 9
+    },
+    {
+     "file": "0198.json",
+     "ref": "v2.s49",
+     "title": "OF THE KIRK.[240]--CAP. XVI.",
+     "segments": 8
+    },
+    {
+     "file": "0199.json",
+     "ref": "v2.s50",
+     "title": "THE IMMORTALITIE OF THE SAULLIS.--CAP. XVII.",
+     "segments": 5
+    },
+    {
+     "file": "0200.json",
+     "ref": "v2.s51",
+     "title": "OF THE NOTIS BY WHICHE THE TRUE KIRK IS DISCEARNED FROM THE FALS, AND WHO SHALBE JUDGE OF THE DOCTRINE.--CAP. XVIII.",
+     "segments": 14
+    },
+    {
+     "file": "0201.json",
+     "ref": "v2.s52",
+     "title": "THE AUTHORITIE OF THE SCRIPTURIS.--CAP. XIX.",
+     "segments": 3
+    },
+    {
+     "file": "0202.json",
+     "ref": "v2.s53",
+     "title": "OF GENERALL COUNSALLIS, OF THAIR POWER, AUTHORITIE, AND CAUSES OF THAIR CONVENTIOUN.--CAP. XX.",
+     "segments": 7
+    },
+    {
+     "file": "0203.json",
+     "ref": "v2.s54",
+     "title": "OFF THE SACRAMENTIS.--CAP. XXI.",
+     "segments": 4
+    },
+    {
+     "file": "0204.json",
+     "ref": "v2.s55",
+     "title": "OFF THE RYCHT ADMINISTRATIOUN OF THE SACRAMENTIS.--CAP. XXII.",
+     "segments": 5
+    },
+    {
+     "file": "0205.json",
+     "ref": "v2.s56",
+     "title": "TO WHOME SACRAMENTIS APPERTEANE.--CAP. XXIII.",
+     "segments": 1
+    },
+    {
+     "file": "0206.json",
+     "ref": "v2.s57",
+     "title": "OF THE CIVILE MAGISTRAT.--CAP. XXIV.",
+     "segments": 1
+    },
+    {
+     "file": "0207.json",
+     "ref": "v2.s58",
+     "title": "THE GIFTIS FRELIE GEVIN TO THE KIRK.--CAP. XXV.",
+     "segments": 6
+    },
+    {
+     "file": "0208.json",
+     "ref": "v2.s59",
+     "title": "THE ACT AGAINST THE MESSE.[269]",
+     "segments": 3
+    },
+    {
+     "file": "0209.json",
+     "ref": "v2.s60",
+     "title": "THE ACT FOR ABOLISHING THE JURISDICTIOUN OF THE PAPE.[271]",
+     "segments": 16
+    },
+    {
+     "file": "0210.json",
+     "ref": "v2.s61",
+     "title": "AD HUJUS TEMPORIS MONARCHAS PROTREPTICON CARMEN.[293]",
+     "segments": 5
+    },
+    {
+     "file": "0211.json",
+     "ref": "v2.s62",
+     "title": "THE MEANYNG WHAIROF IS, THAT CHARLES--",
+     "segments": 42
+    },
+    {
+     "file": "0212.json",
+     "ref": "v2.s63",
+     "title": "THE PRAYER.",
+     "segments": 3
+    },
+    {
+     "file": "0213.json",
+     "ref": "v2.s64",
+     "title": "THE LAST EXHORTATIOUN TO THE ELECTED.",
+     "segments": 7
+    },
+    {
+     "file": "0214.json",
+     "ref": "v2.s65",
+     "title": "THE PRAYER IN THE ELECTIOUN OF THE ELDERIS.",
+     "segments": 65
+    },
+    {
+     "file": "0215.json",
+     "ref": "v2.s66",
+     "title": "THE QUENE OF INGLANDIS LETTER TO THE ESTAITTIS OF SCOTLAND.",
+     "segments": 7
+    },
+    {
+     "file": "0216.json",
+     "ref": "v2.s67",
+     "title": "PLEIS YOUR MAJESTIE,",
+     "segments": 8
+    },
+    {
+     "file": "0217.json",
+     "ref": "v2.s69",
+     "title": "TO THE BUKE OF DISCIPLINE.[368]",
+     "segments": 3
+    },
+    {
+     "file": "0218.json",
+     "ref": "v2.s70",
+     "title": "ACTS OF THE GENERALL ASSEMBLIES,",
+     "segments": 1
+    },
+    {
+     "file": "0219.json",
+     "ref": "v2.s72",
+     "title": "EXOD. 25. 9.",
+     "segments": 3
+    },
+    {
+     "file": "0220.json",
+     "ref": "v2.s73",
+     "title": "THE FIRST HEAD, OF DOCTRINE.[372]",
+     "segments": 4
+    },
+    {
+     "file": "0221.json",
+     "ref": "v2.s74",
+     "title": "THE SECOUND HEAD, OF SACRAMENTIS.[378]",
+     "segments": 6
+    },
+    {
+     "file": "0222.json",
+     "ref": "v2.s75",
+     "title": "THE THRID HEAD, TUICHING THE ABOLISSING OF IDOLATRIE.[383]",
+     "segments": 3
+    },
+    {
+     "file": "0223.json",
+     "ref": "v2.s76",
+     "title": "THE FOURT HEAD, CONCERNYNG MINISTERIS AND THAIR LAUCHFULL ELECTIOUN.[385]",
+     "segments": 4
+    },
+    {
+     "file": "0224.json",
+     "ref": "v2.s77",
+     "title": "II. QUHAT MAY UNABLE ONY PERSOUN, THAT HE MAY NOTT BE ADMITTED TO THE MINISTERIE OF THE KIRK.",
+     "segments": 4
+    },
+    {
+     "file": "0225.json",
+     "ref": "v2.s78",
+     "title": "III. ADMISSIOUN [OF MINISTERS.]",
+     "segments": 7
+    },
+    {
+     "file": "0226.json",
+     "ref": "v2.s79",
+     "title": "IV. FOR READARIS.",
+     "segments": 19
+    },
+    {
+     "file": "0227.json",
+     "ref": "v2.s80",
+     "title": "I. OFF THE SUPERINTENDENTIS.[425]",
+     "segments": 2
+    },
+    {
+     "file": "0228.json",
+     "ref": "v2.s81",
+     "title": "II. THE NAMES OF THE PLACIS OF RESIDENCE, AND SEVERALL DIOCESES OF THE SUPERINTENDENTIS.",
+     "segments": 13
+    },
+    {
+     "file": "0229.json",
+     "ref": "v2.s82",
+     "title": "III. OFF THE ELECTIOUN OF SUPERINTENDENTIS.",
+     "segments": 11
+    },
+    {
+     "file": "0230.json",
+     "ref": "v2.s83",
+     "title": "FOR THE SCHOLLIS.[446]",
+     "segments": 1
+    },
+    {
+     "file": "0231.json",
+     "ref": "v2.s84",
+     "title": "I. THE NECESSITIE OF SCHOLLIS.[450]",
+     "segments": 6
+    },
+    {
+     "file": "0232.json",
+     "ref": "v2.s85",
+     "title": "II. THE TYMES APPOINTED TO EVERIE COURSE.",
+     "segments": 1
+    },
+    {
+     "file": "0233.json",
+     "ref": "v2.s86",
+     "title": "III. THE ERECTIOUN OF UNIVERSITEIS.",
+     "segments": 2
+    },
+    {
+     "file": "0234.json",
+     "ref": "v2.s87",
+     "title": "IV. OFF REIDARIS, AND OF THE GREIS, OFF TYME, AND STUDYE.[468]",
+     "segments": 22
+    },
+    {
+     "file": "0235.json",
+     "ref": "v2.s88",
+     "title": "V. OFF STIPENDIS AND EXPENSSES NECESSARIE.",
+     "segments": 15
+    },
+    {
+     "file": "0236.json",
+     "ref": "v2.s89",
+     "title": "VI. OFF THE PRIVILEGE OF THE UNIVERSITIE.",
+     "segments": 3
+    },
+    {
+     "file": "0237.json",
+     "ref": "v2.s90",
+     "title": "THE SEXT HEID, OF THE RENTIS AND PATRIMONY OF THE KIRK.[490]",
+     "segments": 17
+    },
+    {
+     "file": "0238.json",
+     "ref": "v2.s91",
+     "title": "THE SEVINT HEID, OF ECCLESIASTICALL DISCIPLINE.[506]",
+     "segments": 11
+    },
+    {
+     "file": "0239.json",
+     "ref": "v2.s92",
+     "title": "II. THE ORDOURE FOR PUBLICT OFFENDARIS.",
+     "segments": 6
+    },
+    {
+     "file": "0240.json",
+     "ref": "v2.s93",
+     "title": "III. PERSONIS SUBJECT TO DISCIPLINE.",
+     "segments": 18
+    },
+    {
+     "file": "0241.json",
+     "ref": "v2.s94",
+     "title": "THE NNYT HEADE, CONCERNYNG THE POLECIE OF THE CHURCHE.[528]",
+     "segments": 9
+    },
+    {
+     "file": "0242.json",
+     "ref": "v2.s95",
+     "title": "FOR PREACHEING,[541] AND INTERPRETING OFF SCRIPTURIS, &C.",
+     "segments": 7
+    },
+    {
+     "file": "0243.json",
+     "ref": "v2.s96",
+     "title": "OF MARIAGE.[549]",
+     "segments": 12
+    },
+    {
+     "file": "0244.json",
+     "ref": "v2.s97",
+     "title": "OFF BURIALL.[559]",
+     "segments": 7
+    },
+    {
+     "file": "0245.json",
+     "ref": "v2.s98",
+     "title": "FOR REPARATIOUN OF CHURCHES.[566]",
+     "segments": 8
+    },
+    {
+     "file": "0246.json",
+     "ref": "v2.s99",
+     "title": "THE CONCLUSIOUN.",
+     "segments": 5
+    },
+    {
+     "file": "0247.json",
+     "ref": "v2.s100",
+     "title": "BY YOUR HONOURIS MOST HUMBLE SERVITOURIS, ETC.",
+     "segments": 1
+    },
+    {
+     "file": "0248.json",
+     "ref": "v2.s101",
+     "title": "ACT OF SECREIT COUNSALL, XXVII JANUARII, ANNO &C., LX^O.[581]",
+     "segments": 5
+    },
+    {
+     "file": "0249.json",
+     "ref": "v2.s102",
+     "title": "THE FOURT BOOK OF THE PROGRESSE AND CONTINUANCE OF TREU RELIGIOUN WITHIN SCOTLAND.",
+     "segments": 27
+    },
+    {
+     "file": "0250.json",
+     "ref": "v2.s103",
+     "title": "APUD EDINBURGH, XXV^{TO} AUGUSTI ANNO &C. LXI^O.",
+     "segments": 89
+    },
+    {
+     "file": "0251.json",
+     "ref": "v2.s104",
+     "title": "APUD EDINBURGH, XXIJ DECEMBRIS, ANNO LXJ^O. [SEDERUNT.",
+     "segments": 4
+    },
+    {
+     "file": "0252.json",
+     "ref": "v2.s105",
+     "title": "APUD LYNLYTHGW, 24 JANUARIJ, ANNO &C. LXJ^O.[716]",
+     "segments": 480
+    },
+    {
+     "file": "0253.json",
+     "ref": "v2.s106",
+     "title": "CONCLUSIO.",
+     "segments": 14
+    },
+    {
+     "file": "0254.json",
+     "ref": "v2.s108",
+     "title": "INTRODUCTORY NOTICE TO BOOK FIFTH.",
+     "segments": 12
+    },
+    {
+     "file": "0255.json",
+     "ref": "v2.s109",
+     "title": "\"ARTICLES AND PETITIONS.",
+     "segments": 2
+    },
+    {
+     "file": "0256.json",
+     "ref": "v2.s110",
+     "title": "\"AN ANSWER TO PAUL METHVEN'S SUPPLICATION.",
+     "segments": 214
+    },
+    {
+     "file": "0257.json",
+     "ref": "v2.s112",
+     "title": "APPENDIX.",
+     "segments": 2
+    },
+    {
+     "file": "0258.json",
+     "ref": "v2.s114",
+     "title": "(THE PAGES AND LINES AT THE LEFT-HAND SIDE REFER TO THE PRESENT EDITION.)",
+     "segments": 110
+    },
+    {
+     "file": "0259.json",
+     "ref": "v2.s115",
+     "title": "BOOK FOURTH.",
+     "segments": 177
+    },
+    {
+     "file": "0260.json",
+     "ref": "v2.s116",
+     "title": "ON SPOTTISWOOD'S EDITION OF THE FIRST BOOK OF DISCIPLINE.",
+     "segments": 35
+    },
+    {
+     "file": "0261.json",
+     "ref": "v2.s117",
+     "title": "FUNERALS OF MARY OF GUISE, QUEEN REGENT OF SCOTLAND.",
+     "segments": 15
+    },
+    {
+     "file": "0262.json",
+     "ref": "v2.s118",
+     "title": "NOTICES OF JOHN BLACK, A DOMINICAN FRIAR.",
+     "segments": 17
+    },
+    {
+     "file": "0263.json",
+     "ref": "v2.s119",
+     "title": "NOTICES OF DAVID RICCIO.",
+     "segments": 14
+    },
+    {
+     "file": "0264.json",
+     "ref": "v2.s120",
+     "title": "THE ABBOTS OF CULROSS AND LINDORES IN 1560.",
+     "segments": 1
+    },
+    {
+     "file": "0265.json",
+     "ref": "v2.s121",
+     "title": "I. WILLIAM COMMENDATOR OF CULROSS, 1539-1564.",
+     "segments": 1
+    },
+    {
+     "file": "0266.json",
+     "ref": "v2.s122",
+     "title": "II. JOHN ABBOT OF LINDORES, 1540-1566.",
+     "segments": 3
+    },
+    {
+     "file": "0267.json",
+     "ref": "v2.s123",
+     "title": "III. JOHN BISHOP OF ROSS AND ABBOT OF LINDORES, 1560.",
+     "segments": 4
+    },
+    {
+     "file": "0268.json",
+     "ref": "v2.s124",
+     "title": "GLOSSARY.",
+     "segments": 1139
+    },
+    {
+     "file": "0269.json",
+     "ref": "v2.s125",
+     "title": "INDEX OF PERSONS.",
+     "segments": 856
+    },
+    {
+     "file": "0270.json",
+     "ref": "v2.s126",
+     "title": "INDEX OF PLACES.",
+     "segments": 306
+    }
+   ]
+  }
+ ]
+}

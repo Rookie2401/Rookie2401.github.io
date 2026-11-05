@@ -1,0 +1,52 @@
+{
+ "workId": "masoretic-nam",
+ "editions": [
+  {
+   "editionId": "wlc-oshb-nam",
+   "language": "he",
+   "variety": "he-bib",
+   "textSource": "self",
+   "analysis": {
+    "id": "oshb@2019.01.13",
+    "kind": "verified-dataset",
+    "status": "verified"
+   },
+   "credit": "Open Scriptures Hebrew Bible (OSHB), morphology and lemmas by the OSHB project; text: Westminster Leningrad Codex (WLC)",
+   "licence": "OSHB lemma and morphology: CC BY 4.0; WLC text: public domain; headwords and glosses: Open Scriptures Lexical Index (CC BY 4.0), BDB (public domain), Strong's (public domain, JSON CC BY-SA), curated glosses of the Biblia build",
+   "source": "biblia-v0/data/oshb/Nah.xml",
+   "sourceUrl": "https://github.com/openscriptures/morphhb",
+   "version": "oshb 2018.1.5 (WLC version 4.20.); newest file 2019.01.13",
+   "coverage": {
+    "tokens": 558,
+    "withLemma": 558,
+    "withMorphology": 504,
+    "verified": 558,
+    "ambiguous": 0,
+    "unanalysed": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "NAM.1",
+     "title": "Nahum 1",
+     "segments": 14,
+     "tokens": 154
+    },
+    {
+     "file": "0002.json",
+     "ref": "NAM.2",
+     "title": "Nahum 2",
+     "segments": 14,
+     "tokens": 173
+    },
+    {
+     "file": "0003.json",
+     "ref": "NAM.3",
+     "title": "Nahum 3",
+     "segments": 19,
+     "tokens": 231
+    }
+   ]
+  }
+ ]
+}

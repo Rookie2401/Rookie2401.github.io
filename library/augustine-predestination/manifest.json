@@ -1,0 +1,498 @@
+{
+ "workId": "augustine-predestination",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "predestination-wallis-npnf5-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "A Treatise on the Predestination of the Saints, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. V: Saint Augustin: Anti-Pelagian Writings (ed. Philip Schaff; New York, Christian Literature Co., 1887); copy on English Wikisource, trans. Robert Ernest Wallis (revised by B. B. Warfield) (New York: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_V/On_the_Predestination_of_the_Saints/Book_I",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 150998,
+   "sourceSha256": "b536cd5af2bc2bf3fa6bdc33cccb0c0034537c177fe09f13356e802fa13059e2",
+   "leftOut": {
+    "note": 146
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 1",
+     "bytes": 2088,
+     "sha256": "aa4cd0be986ce3b3e5c046678e550f8cc4d8f1b0f954da786f19ba2098bdd3ba"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 10",
+     "bytes": 4754,
+     "sha256": "bc9e8f797dbe86cff3303c3ad050fad849be131ae64f97b9cbe3859277265f47"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 11",
+     "bytes": 3038,
+     "sha256": "21fca949e578bc51f6858f26b33064f6af82d28bf70cc349cc6c366d132170a1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 12",
+     "bytes": 3353,
+     "sha256": "a3b3564ab7c246e4bc2fcb00a3f8163d30e2b8ff5f78b18db41b81b231b37fce"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 13",
+     "bytes": 4100,
+     "sha256": "197856f5496f37991a62f286a5c879a7674f1b13fef76f086c6f98c0a7eca5cd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 14",
+     "bytes": 3779,
+     "sha256": "94726376589a69cf5b6ba797ca65c6cade181071533f84be203bdb830e81b13c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 15",
+     "bytes": 4063,
+     "sha256": "a00b2218e10504f465441c7bd2fd6ec47b8bb92595f5041a7c3028dfe0cf62c8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 16",
+     "bytes": 2100,
+     "sha256": "52b5ace855c46cc6b2e6ffb2e6423e2ecb76704409624880f923b0b255df6516"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 17",
+     "bytes": 4875,
+     "sha256": "119dae286ad8fa54f4ca5ed6629577e167e2cea18f1cf723a5e539f0798ce6e1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 18",
+     "bytes": 2493,
+     "sha256": "f0e51259343776d2e17da61388602b3da006f29a703816976958159ef16e39eb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 19",
+     "bytes": 3767,
+     "sha256": "43522c0c1f723709365a57ecbeb8472c50c79fefa1d091d52030a15f6b92c7e9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 2",
+     "bytes": 3608,
+     "sha256": "4ac67c45b26807799ad1bc9b74e37c98b75b55fbd9518d46ac09583b03babe1e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 20",
+     "bytes": 2405,
+     "sha256": "998502f8967ae5f624898fd4b2c22d3566ee4900175cba56febf7d4a1df85d03"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 21",
+     "bytes": 1592,
+     "sha256": "48314664cb96ca35fdbbdb7577bdd5d7dd08e3e26f59bf9d4845cd85f0e777f3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 22",
+     "bytes": 3928,
+     "sha256": "9bf7c9e61a17f197ee173d753806d6d6895292d4f538e24a69e5ec2013a2db82"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 23",
+     "bytes": 1895,
+     "sha256": "2bbaec6d5f006e786e16e11ed3b9d11e0177f035a1fee21c656db4ac563c9ab2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 24",
+     "bytes": 4961,
+     "sha256": "e001fe79c935b14faf1aeb893fe79c8c2664284eefe4ef938aedd662627581cb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 25",
+     "bytes": 3457,
+     "sha256": "ab4b93e65fdf61910625914ee4e8a0704f15f6bfdb3e28d2799c89e4c3bba5ae"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 26",
+     "bytes": 4349,
+     "sha256": "c2221e30d03695cd496d83fed18e530bd0aa3890d570f3f30aacdafef49584d5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 27",
+     "bytes": 3031,
+     "sha256": "df6fe33ceef991aef4716f6845ec79aa3c4d4a38f4979bcd0d65ffcf8758c592"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 28",
+     "bytes": 3142,
+     "sha256": "5ea13a8b009691b1feaedf4c9d8e5245d8a76d79e0de0f3ba20ed077941f7353"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 29",
+     "bytes": 2981,
+     "sha256": "6bbf513a305c238bc50346aadaa3bd44fa2086436b82fe8396a0c67ad5f9bf59"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 3",
+     "bytes": 2067,
+     "sha256": "0469d2ab65ae50e8250bd7343d0aadf70655428d5c6ddab1e59a1078ba21b2d6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 30",
+     "bytes": 3020,
+     "sha256": "58506c85d36f721f950a051e1a75fc3eafe82ab8f2ebef9b5946fe444f680764"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 31",
+     "bytes": 4476,
+     "sha256": "755cecb56e7858403eb1fa74546deee462289725a194619fd092140e41a65589"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 32",
+     "bytes": 2225,
+     "sha256": "1560da21c1d8896c415bf622176ad61fb92e25ab767f7c0005d3748132e00288"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 33",
+     "bytes": 7024,
+     "sha256": "b6db009e9cdf199ddb1a626f24cc7b2eac696679ddef00d7ede953611e74c074"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 34",
+     "bytes": 4168,
+     "sha256": "fe6f6d099c4ee32ffbd788bf701441f917b6954a476a2af055685234ddb87420"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 35",
+     "bytes": 2591,
+     "sha256": "ad93a4fa0c86f5043bffaf55c4d233254b87a79445ba81a944faf1abb44bcdd3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 36",
+     "bytes": 3716,
+     "sha256": "e06ea0b38b15d6a03734b47872accb1f0c4a482aba2ad927ecda267fb59686ff"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 37",
+     "bytes": 2716,
+     "sha256": "84647792582a9afe5a91966057b2c70ffc7d327460e1a3f590cf7b232da2595d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 38",
+     "bytes": 3463,
+     "sha256": "3a3cf561b05c58561c0ad90058776af0de88a2d5ebe289e3d4ab3a3743bc32df"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 39",
+     "bytes": 3268,
+     "sha256": "adee8ca4042ed4fe3417443afbf902c3e94aec3dc947cf6284d2e22e4240cc2c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 4",
+     "bytes": 3326,
+     "sha256": "fe9f542135905444865952f90c3dccede1e6d586ac170cc3c74d6f2579a8ec26"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 40",
+     "bytes": 2514,
+     "sha256": "c3132cddcdda7f8929566f846f6f9f1f61fd53d46ce9c022b46799df127fd0fd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 41",
+     "bytes": 3170,
+     "sha256": "cb6297b9f35a559428af6cc06632519887e435f75a6f3a1f67f7545bdd7f0d5a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 42",
+     "bytes": 3982,
+     "sha256": "cdf00723e404a29d4871d80bc90970c86c53d2e8054f7885144f1a2b8a11f582"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 43",
+     "bytes": 2578,
+     "sha256": "7a8fd584818a67f2621006618a8afd683dd98c4de5269a308cda208a4e88382b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 5",
+     "bytes": 2893,
+     "sha256": "7ad7f96c537a19bcd0f6212b6966f38329f5f8dbcc185bce664fe657d3917bda"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 6",
+     "bytes": 3134,
+     "sha256": "cb8b46c08dbdcd89e73cdc12f38ae30061674814be748e842805cceadcf6bb94"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 7",
+     "bytes": 7541,
+     "sha256": "34e958128b09e2b7a8930792b62cefc0b053b99233cb0d31c200b3cc992ad08a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 8",
+     "bytes": 4956,
+     "sha256": "d208c5f2d228f56a9cd0dbdc3d24c94a94ba8a52545b23d3870c6db34805841a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Predestination of the Saints/Book I/Chapter 9",
+     "bytes": 4411,
+     "sha256": "06e4a72fb1865f21f5b8b65152ae6137c4b62812fc7525f6c5315c1251214dbe"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 2
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "workId": "jerome-dialogue-against-pelagians",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "jerome-dialogue-against-pelagians-npnf2-fremantle-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Against the Pelagians (Dialogue), in A Select Library of Nicene and Post-Nicene Fathers, series II, vol. 6 (Jerome: Letters and Select Works), Treatises, trans. W. H. Fremantle, with G. Lewis and W. G. Martley (New York: The Christian Literature Company, 1893). Wikisource contributors, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_VI/Treatises/Against_the_Pelagians",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 190944,
+   "sourceSha256": "66035966b24087b4edc55e0b1a26832fbff3181b83f0161964a811b46621f8a5",
+   "leftOut": {
+    "note": 244
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VI/Treatises/Against the Pelagians/Book I",
+     "bytes": 86980,
+     "sha256": "6333a95a68d19bef73792f74ff3d865eaa6d41cc1c1009656c52c591e7395a6d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VI/Treatises/Against the Pelagians/Book II",
+     "bytes": 27631,
+     "sha256": "5887b106a10097c6533203d892a68d576a32fa5481cd6012b00a9372bc5fe9e4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VI/Treatises/Against the Pelagians/Book III",
+     "bytes": 61271,
+     "sha256": "6c685f12ffd44e5d5656935fa9cc6ab303770a682911a115b54c800e2a58907a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume VI/Treatises/Against the Pelagians/Prologue",
+     "bytes": 15062,
+     "sha256": "6a9e96b83976bf4c5329a013e77a71f21762f162c716e35142d070e3895deb89"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 175
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 217
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 65
+    },
+    {
+     "file": "0004.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 8
+    }
+   ]
+  }
+ ]
+}

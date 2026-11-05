@@ -1,0 +1,1022 @@
+{
+ "workId": "athanasius-incarnation",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "athanasius-incarnation-robertson-grc-first1k",
+   "role": "original",
+   "language": "greek",
+   "credit": "De Incarnatione Verbi, in St. Athanasius On The Incarnation, ed. Archibald Robertson, 2nd edition (London: David Nutt, 1893), ed. Archibald Robertson (London: David Nutt, 1893). First1KGreek / Open Greek and Latin: Greek text of Archibald Robertson, St. Athanasius On The Incarnation (London: David Nutt, 1893), under CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2035/tlg002/tlg2035.tlg002.1st1K-grc1.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 291317,
+   "sourceSha256": "458efe0f1655cc5d9a52222bea50d9efcb037fa2888af4f611ef53bec27f4914",
+   "leftOut": {
+    "pb": 86
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 19782,
+    "barePerThousand": 9,
+    "digitWords": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 4
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 6
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 5
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 6
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 5
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 10
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 5
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 4
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 4
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 7
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 7
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 6
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 9
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 8
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 7
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 5
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 7
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 6
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 4
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 6
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 7
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 5
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 4
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 4
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 6
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 6
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 4
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 5
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 6
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 7
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 4
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 6
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 5
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 3
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 8
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 4
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 7
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 6
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 4
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 8
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 7
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 7
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 7
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 8
+    },
+    {
+     "file": "0045.json",
+     "ref": "45",
+     "title": "45",
+     "segments": 7
+    },
+    {
+     "file": "0046.json",
+     "ref": "46",
+     "title": "46",
+     "segments": 5
+    },
+    {
+     "file": "0047.json",
+     "ref": "47",
+     "title": "47",
+     "segments": 5
+    },
+    {
+     "file": "0048.json",
+     "ref": "48",
+     "title": "48",
+     "segments": 9
+    },
+    {
+     "file": "0049.json",
+     "ref": "49",
+     "title": "49",
+     "segments": 6
+    },
+    {
+     "file": "0050.json",
+     "ref": "50",
+     "title": "50",
+     "segments": 6
+    },
+    {
+     "file": "0051.json",
+     "ref": "51",
+     "title": "51",
+     "segments": 6
+    },
+    {
+     "file": "0052.json",
+     "ref": "52",
+     "title": "52",
+     "segments": 5
+    },
+    {
+     "file": "0053.json",
+     "ref": "53",
+     "title": "53",
+     "segments": 4
+    },
+    {
+     "file": "0054.json",
+     "ref": "54",
+     "title": "54",
+     "segments": 5
+    },
+    {
+     "file": "0055.json",
+     "ref": "55",
+     "title": "55",
+     "segments": 6
+    },
+    {
+     "file": "0056.json",
+     "ref": "56",
+     "title": "56",
+     "segments": 5
+    },
+    {
+     "file": "0057.json",
+     "ref": "57",
+     "title": "57",
+     "segments": 3
+    }
+   ]
+  },
+  {
+   "editionId": "athanasius-incarnation-npnf2-4-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "On the Incarnation of the Word, in A Select Library of Nicene and Post-Nicene Fathers of the Christian Church, Second Series, vol. IV: Athanasius, Select Works and Letters (American edition; ed. Philip Schaff and Henry Wace; vol. edited by Archibald Robertson), trans. Archibald Robertson (editor of the volume; the opened pages do not name the translator of this treatise individually, the Preface speaks of 'the new translations') (New York: The Christian Literature Company, 1892). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers, Series II), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IV/Incarnation_of_the_Word/On_the_Incarnation_of_the_Word",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 218769,
+   "sourceSha256": "318ab38da4cd278fa92c3c998d00bc43d047b28425c9ee47cc4e89c4c04165e0",
+   "leftOut": {
+    "note": 160
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 1",
+     "bytes": 4180,
+     "sha256": "2cdb1d58022315750bfdb63d475cb554b895e17e1ee710a48d3c3c3c4390f905"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 2",
+     "bytes": 5090,
+     "sha256": "ca9ce1be2289c0eed501521d2f9258c31fb4da0e055bfaf64bd456cedd3b2337"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 3",
+     "bytes": 4171,
+     "sha256": "f68327fd11f58f0207648d6331fae31f1da6d46d4f62008b567216b34e795062"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 4",
+     "bytes": 3846,
+     "sha256": "307698d7a7c2039d5af7bf367bcfffbde9014ecc444663fd5663a9b87aec119d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 5",
+     "bytes": 3376,
+     "sha256": "dc8f295fede669fd14d194cda8fd3acd1ec9fda2e57f4cb5006178b8cd56b515"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 6",
+     "bytes": 3786,
+     "sha256": "f7b7ff5daeea3764778b734fb5e906ed9b5d7bc8cc96c0258c94ce31131fd7a2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 7",
+     "bytes": 3488,
+     "sha256": "e39008acf03fd424dd71930095bb64db9f4da7549683731fd479238d5f615294"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 8",
+     "bytes": 4062,
+     "sha256": "7e4689e9295e222a26ca39acbb85d0f0afc4bc6756b3c567d059427a59f2152f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 9",
+     "bytes": 3538,
+     "sha256": "966542510178cf9a2c7d1fd25e2efd752cb67e4cbbf4b7b771c1cccc9a97e8b9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 10",
+     "bytes": 4587,
+     "sha256": "54ed36cbc8ca270aa1da3f5969c774c42af45299fa6a32ef59faad3dcee33e08"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 11",
+     "bytes": 4734,
+     "sha256": "821f78376d50829768557f48c33d422dce68b857974aebeae0611f1360215fac"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 12",
+     "bytes": 3119,
+     "sha256": "2209bf4b72643fa9982270dbd1a19784e9f027fe6408652077deccc51497f1ef"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 13",
+     "bytes": 3915,
+     "sha256": "b233d6252b902e9dbe3c20f00500b3274fc143ee87750d59f759952e78227ff3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 14",
+     "bytes": 4145,
+     "sha256": "5b2b3f3d9ab113b9f9564f2ec0ab8583a1b610425a2c7d507700d9aa57d4d15e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 15",
+     "bytes": 3708,
+     "sha256": "5125c8ee9ea1b18d38c9ef6fb8961b38b577e7752c1d0c650170f285fd465470"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 16",
+     "bytes": 2961,
+     "sha256": "8c31c6a162b07f8cb9a258e95bf3c2f0021996ea3619971010569be568f0fae1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 17",
+     "bytes": 4076,
+     "sha256": "984d967ff609dae43102c4dc074ed71cddba37d028924285ebb811d40d542c54"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 18",
+     "bytes": 4221,
+     "sha256": "3442f7cc1c486457a9fed01c0d50ac2f7822b63dfc95346d9c5e26d9a85fd76f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 19",
+     "bytes": 2552,
+     "sha256": "d12f0b627b029d9b75eccb94a4ec05729e6aafa3b9a2805436df038297ff1d6b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 20",
+     "bytes": 4769,
+     "sha256": "630177fd1f2420cb1901d70932c5e255f5ffe1c1b217948c18a3e08751d83af8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 21",
+     "bytes": 4614,
+     "sha256": "2cb7309bfa8bce5e25c8ba56fdd90cd60e619b0b8d2d1eac3f69a08d304cd876"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 22",
+     "bytes": 3551,
+     "sha256": "53d80e8f11435b72e2d93e36168bdf36eaece74e3d2b0ce88ad438e040e50199"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 23",
+     "bytes": 3044,
+     "sha256": "67d45748a6cffdcb75dc24362f0d3ffdbb1a17ea7779e9c617d1d040a3ddcc97"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 24",
+     "bytes": 3479,
+     "sha256": "43b17a7781507e5c36c716b8790a4522a03b731be0b001f2033857d5d797aa82"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 25",
+     "bytes": 4484,
+     "sha256": "7112a3e77aec9b2de42e3936d452cf580413169a4abe6bf9ab3ccc1f71af5560"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 26",
+     "bytes": 4140,
+     "sha256": "ac62e34febffb92b1c97a4759f0cd4abcf7a84ce8d094a0dff14b810b3722625"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 27",
+     "bytes": 3260,
+     "sha256": "58fb232019e86f86c5f55c3078dc17af6ba83c47296f15439312d96a1641e253"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 28",
+     "bytes": 3325,
+     "sha256": "2b4e5841ee0fa0622564b8c6ebdd694d02dd403c3251036c660118fa2d3e6261"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 29",
+     "bytes": 3584,
+     "sha256": "774c15fb6807ff0c2197e8d029f24c9d5ff7406520d43b61d0fc88b36200135b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 30",
+     "bytes": 4006,
+     "sha256": "c2fa9c348270d5d608ba3c72aff4ee2b29039ddaf9f65ba928ea360d11632a08"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 31",
+     "bytes": 3595,
+     "sha256": "c4bd156ebad4c92c7ae325e12331c66d5acc7dc94267d5b286397df974263154"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 32",
+     "bytes": 3613,
+     "sha256": "299db082233848eaaafa9f69a20d7155349280da0ecd138dd294c1b560b4bcb2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 33",
+     "bytes": 3399,
+     "sha256": "e90001f71855ef85fe85db544b34a3cf5d76baf963ef182014e9fd51336d067a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 34",
+     "bytes": 3917,
+     "sha256": "5a6d5ba0506bb393c03a94aac0855835317f4c6b6ab968e612ebba7b0b9721e7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 35",
+     "bytes": 4313,
+     "sha256": "2e9744fc147c6111d0350152d9996fa8e57b6758ea7c687587ce4612180ae54d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 36",
+     "bytes": 3086,
+     "sha256": "9ffea4e3e8ccba454c535686c2db0ef4fb7589712c744829263c8735627aebc8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 37",
+     "bytes": 4280,
+     "sha256": "e94dbcb168486631bad16d00aa219a62e23f2bb9c13477ba42afd4990c09b7fa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 38",
+     "bytes": 4169,
+     "sha256": "237180c9ca3a1b8cc1d2b7da2920810b837154b9cf85ef386a907eb030c277be"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 39",
+     "bytes": 3061,
+     "sha256": "8ad4d97eca2989227e089a2e6beb71abda5002ac0310800c5ac07addae831bf9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 40",
+     "bytes": 5420,
+     "sha256": "d1cc4de70832ecf518d6d7d153e13e3fda079472b7193b332bb018e1d39f468c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 41",
+     "bytes": 4225,
+     "sha256": "dac9bbdc0ea9c84c331e7aee0fb0ab235c4c99243c10002793b8d88a62aaf991"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 42",
+     "bytes": 4224,
+     "sha256": "e8d1d2868b95e3641e849cc244181415b51dfd23cebc6e7940827350c4347dbf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 43",
+     "bytes": 4931,
+     "sha256": "7ce741f0a48f0fd42cccaae9e02f35dfe88bdfdc10d101e9ae3e6cb0faedce71"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 44",
+     "bytes": 5487,
+     "sha256": "f6011a73152fd952cbc9a6f7133bfc0cbbc94b4ecadf1014d838c259c936a308"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 45",
+     "bytes": 3839,
+     "sha256": "3815c2e3b2ff478e7a688b9e383ab09abbd8ce24a453069f91f0d6d9f0f812a2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 46",
+     "bytes": 3677,
+     "sha256": "3d6c9c05dcdf4ca7324a6bc6fbbcde72bea40ba7e20e5b0ee38e4bc788fcf3b3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 47",
+     "bytes": 4275,
+     "sha256": "60db00600c072badfabe36e9664bde39e729c595b00cb52e68a9a0d13cd5f69a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 48",
+     "bytes": 4254,
+     "sha256": "de960ef9369f7604fa40436393d4ba74aad7985d9b800b55e5659af2ca4aaf9f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 49",
+     "bytes": 2878,
+     "sha256": "74b48e89a93c25e9d72554e7ded44b25da4309041740f30e4c03bc70e48020ca"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 50",
+     "bytes": 3469,
+     "sha256": "9bc99409affc74052d684a7508b2c361c7895b80cd7164d97d9c1ad3180f4f83"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 51",
+     "bytes": 3181,
+     "sha256": "edd7c15ed40b1a2ec5f39b6bf5b3bf8971fac6f2578ef866f9bc6b07996cd1dd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 52",
+     "bytes": 3201,
+     "sha256": "3cabfbed7961cbfeeab4a159768e44faa103b1b7def351d43526d2a0580e3019"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 53",
+     "bytes": 2987,
+     "sha256": "b19d058af5c7f3e5d306305178e72af48631070f816f1da46d88ddf5c2815961"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 54",
+     "bytes": 4323,
+     "sha256": "600e2f232517e52a11986f4bed2644f674c7b699d0427af8e0ecbc96b35a4d62"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 55",
+     "bytes": 3527,
+     "sha256": "25b291a65cfc6314374c53fee2fc22a949740f428568f1129e8e7e8ba69393dd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 56",
+     "bytes": 2928,
+     "sha256": "3036f781cffec8c563e2b4c04874b9c2d7c9cc46ada661a14fba8e0f2d762b19"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IV/Incarnation of the Word/On the Incarnation of the Word/Chapter 57",
+     "bytes": 2699,
+     "sha256": "645fb3b9af2c62e84c65a26404be7e5f4e09a2b0226442f65fe762dd986b7d11"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 3
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 3
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 3
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "45",
+     "title": "45",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "46",
+     "title": "46",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "47",
+     "title": "47",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "48",
+     "title": "48",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "49",
+     "title": "49",
+     "segments": 2
+    },
+    {
+     "file": "0050.json",
+     "ref": "50",
+     "title": "50",
+     "segments": 2
+    },
+    {
+     "file": "0051.json",
+     "ref": "51",
+     "title": "51",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "52",
+     "title": "52",
+     "segments": 2
+    },
+    {
+     "file": "0053.json",
+     "ref": "53",
+     "title": "53",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "54",
+     "title": "54",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "55",
+     "title": "55",
+     "segments": 2
+    },
+    {
+     "file": "0056.json",
+     "ref": "56",
+     "title": "56",
+     "segments": 2
+    },
+    {
+     "file": "0057.json",
+     "ref": "57",
+     "title": "57",
+     "segments": 2
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 57,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 0
+ }
+}

@@ -1,0 +1,401 @@
+{
+ "workId": "cyprian-exhortation-martyrdom",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "csel3-hartel-exhortation-martyrdom",
+   "role": "original",
+   "language": "latin",
+   "credit": "De Exhortatione Martyrii, in Corpus Scriptorum Ecclesiasticorum Latinorum, vol. 3.1 (S. Thasci Caecili Cypriani opera omnia, pars I), ed. Wilhelm von Hartel (Vienna: Gerold, 1868). University of Leipzig / Open Greek and Latin (csel-dev), CC BY-SA 4.0; text of the CSEL volume as cited (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0104a/stoa005/stoa0104a.stoa005.opp-lat1.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 111154,
+   "sourceSha256": "aa0dce33263e2149d31171aabb481f24f0d061d46ea451152fe3a930900083a2",
+   "leftOut": {
+    "lb": 735,
+    "note": 62,
+    "pb": 32
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 6413,
+    "garbledPerThousand": 0,
+    "joinedPerThousand": 0,
+    "numbersPerThousand": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "pr",
+     "title": "pr",
+     "segments": 5
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "anf5-wallis-exhortation-martyrdom",
+   "role": "english",
+   "language": "english",
+   "credit": "Exhortation to Martyrdom, in The Ante-Nicene Fathers, vol. V (American edition, ed. A. Cleveland Coxe), Cyprian, trans. Robert Ernest Wallis (Buffalo: Christian Literature Publishing Co., 1886). Wikisource contributors, \"Ante-Nicene Fathers\" (Robert Ernest Wallis), en.wikisource.org, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_V/Cyprian/The_Treatises_of_Cyprian/Exhortation_to_Martyrdom",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 64738,
+   "sourceSha256": "182fea78d19963f12d5c8b5e523203b2cb86e1cdc2de0c5ab7e2a655a0bd234f",
+   "leftOut": {
+    "note": 119
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Exhortation to Martyrdom/Preface",
+     "bytes": 6253,
+     "sha256": "e33856d7e7573f3424c908eb239188c7695d1de10a932a8dd16bbb4055487c36"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Exhortation to Martyrdom/Part 1",
+     "bytes": 3527,
+     "sha256": "db26b575721bf9d856215569dc05e3dfa4cfdc8d131e597b35288a87e0c56ba3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Exhortation to Martyrdom/Part 2",
+     "bytes": 2564,
+     "sha256": "187f9461ae90d0a2f0d2ff470d7518813cab36aa876e8db8964078cf9bf82218"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Exhortation to Martyrdom/Part 3",
+     "bytes": 1889,
+     "sha256": "31cb0853ab9bc9d703e4f4d8e9c9043d62a4a9a467e3fc3be61f96cae8e3ab59"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Exhortation to Martyrdom/Part 4",
+     "bytes": 1706,
+     "sha256": "ddfd8ed2529e09fb876c0ee63a603f88bcf19637beae991e40dadfde29887940"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Exhortation to Martyrdom/Part 5",
+     "bytes": 1867,
+     "sha256": "cba843bb474781a68832b12d251fee7774d8c0bb5470dcc2a909ed9281407f54"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Exhortation to Martyrdom/Part 6",
+     "bytes": 3849,
+     "sha256": "bcb39dc9f20a7050c34d14971dbcea56702b2ee377d1793c20c2409a5b7b4036"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Exhortation to Martyrdom/Part 7",
+     "bytes": 1782,
+     "sha256": "21d5cc37c74368866e3abfce6066fcf08a6a3e8173059924151f899ed234cd88"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Exhortation to Martyrdom/Part 8",
+     "bytes": 2409,
+     "sha256": "c7e6e47ff041597a62ca80349a5fbf8f0db0421ff8451b58db41a571f1c5085a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Exhortation to Martyrdom/Part 9",
+     "bytes": 4158,
+     "sha256": "fcff6643929b42bf602edd06dc75f25b8a26b32c18236f8c014a75e7a7902937"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Exhortation to Martyrdom/Part 10",
+     "bytes": 1751,
+     "sha256": "de9d0f7fb7241713a6433c5cb73d5d5af49d36cfc2a1bb62647b733f16ed699f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Exhortation to Martyrdom/Part 11",
+     "bytes": 4780,
+     "sha256": "806754be9ce2c00de82ef1dfe8f959c81db05626077f270cabb9f8017458ba9f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Exhortation to Martyrdom/Part 12",
+     "bytes": 19132,
+     "sha256": "f5e2af23ba882db627e745ee069366a155ee14c621be796ec316b178c5176e77"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Exhortation to Martyrdom/Part 13",
+     "bytes": 5262,
+     "sha256": "2ac7e92fa7616a4d3d138e3c475c66cbff497612a547f54a8972f6fe2627f402"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume V/Cyprian/The Treatises of Cyprian/Exhortation to Martyrdom/Part 14",
+     "bytes": 3809,
+     "sha256": "fbad9c0c65946dd0fd1aaebe1684e211a14358f05d4a0c189769c492580e8a96"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "p1.front",
+     "title": "p1.front",
+     "segments": 3
+    },
+    {
+     "file": "0002.json",
+     "ref": "p1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "p1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "p1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "p1.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.front",
+     "title": "1.front",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 3
+    },
+    {
+     "file": "0020.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 3
+    },
+    {
+     "file": "0030.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 2
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 13,
+  "onlyInOriginal": 1,
+  "onlyInEnglish": 2
+ }
+}

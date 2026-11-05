@@ -1,0 +1,420 @@
+{
+ "workId": "masoretic-pro",
+ "parallel": "segment",
+ "editions": [
+  {
+   "editionId": "wlc-oshb-pro",
+   "role": "original",
+   "language": "hebrew",
+   "credit": "Westminster Leningrad Codex (WLC 4.20), as published by the Open Scriptures Hebrew Bible project, ed. J. Alan Groves Center for Advanced Biblical Research (transcription of the Leningrad Codex, Firkovich B 19 A, AD 1008/9) (Open Scriptures Hebrew Bible, 2016). Transcription: J. Alan Groves Center; Open Scriptures Hebrew Bible (Daniel Owens, David Troidl) (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Prov.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 678669,
+   "sourceSha256": "964f99c00239b53b854c4686c99490c8d1ac7664784a30afdfc23781a3abb161",
+   "leftOut": {
+    "note": 142
+   },
+   "segmentRefs": "citation",
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "PRO.1",
+     "title": "Proverbs 1",
+     "segments": 33
+    },
+    {
+     "file": "0002.json",
+     "ref": "PRO.2",
+     "title": "Proverbs 2",
+     "segments": 22
+    },
+    {
+     "file": "0003.json",
+     "ref": "PRO.3",
+     "title": "Proverbs 3",
+     "segments": 35
+    },
+    {
+     "file": "0004.json",
+     "ref": "PRO.4",
+     "title": "Proverbs 4",
+     "segments": 27
+    },
+    {
+     "file": "0005.json",
+     "ref": "PRO.5",
+     "title": "Proverbs 5",
+     "segments": 23
+    },
+    {
+     "file": "0006.json",
+     "ref": "PRO.6",
+     "title": "Proverbs 6",
+     "segments": 35
+    },
+    {
+     "file": "0007.json",
+     "ref": "PRO.7",
+     "title": "Proverbs 7",
+     "segments": 27
+    },
+    {
+     "file": "0008.json",
+     "ref": "PRO.8",
+     "title": "Proverbs 8",
+     "segments": 36
+    },
+    {
+     "file": "0009.json",
+     "ref": "PRO.9",
+     "title": "Proverbs 9",
+     "segments": 18
+    },
+    {
+     "file": "0010.json",
+     "ref": "PRO.10",
+     "title": "Proverbs 10",
+     "segments": 32
+    },
+    {
+     "file": "0011.json",
+     "ref": "PRO.11",
+     "title": "Proverbs 11",
+     "segments": 31
+    },
+    {
+     "file": "0012.json",
+     "ref": "PRO.12",
+     "title": "Proverbs 12",
+     "segments": 28
+    },
+    {
+     "file": "0013.json",
+     "ref": "PRO.13",
+     "title": "Proverbs 13",
+     "segments": 25
+    },
+    {
+     "file": "0014.json",
+     "ref": "PRO.14",
+     "title": "Proverbs 14",
+     "segments": 35
+    },
+    {
+     "file": "0015.json",
+     "ref": "PRO.15",
+     "title": "Proverbs 15",
+     "segments": 33
+    },
+    {
+     "file": "0016.json",
+     "ref": "PRO.16",
+     "title": "Proverbs 16",
+     "segments": 33
+    },
+    {
+     "file": "0017.json",
+     "ref": "PRO.17",
+     "title": "Proverbs 17",
+     "segments": 28
+    },
+    {
+     "file": "0018.json",
+     "ref": "PRO.18",
+     "title": "Proverbs 18",
+     "segments": 24
+    },
+    {
+     "file": "0019.json",
+     "ref": "PRO.19",
+     "title": "Proverbs 19",
+     "segments": 29
+    },
+    {
+     "file": "0020.json",
+     "ref": "PRO.20",
+     "title": "Proverbs 20",
+     "segments": 30
+    },
+    {
+     "file": "0021.json",
+     "ref": "PRO.21",
+     "title": "Proverbs 21",
+     "segments": 31
+    },
+    {
+     "file": "0022.json",
+     "ref": "PRO.22",
+     "title": "Proverbs 22",
+     "segments": 29
+    },
+    {
+     "file": "0023.json",
+     "ref": "PRO.23",
+     "title": "Proverbs 23",
+     "segments": 35
+    },
+    {
+     "file": "0024.json",
+     "ref": "PRO.24",
+     "title": "Proverbs 24",
+     "segments": 34
+    },
+    {
+     "file": "0025.json",
+     "ref": "PRO.25",
+     "title": "Proverbs 25",
+     "segments": 28
+    },
+    {
+     "file": "0026.json",
+     "ref": "PRO.26",
+     "title": "Proverbs 26",
+     "segments": 28
+    },
+    {
+     "file": "0027.json",
+     "ref": "PRO.27",
+     "title": "Proverbs 27",
+     "segments": 27
+    },
+    {
+     "file": "0028.json",
+     "ref": "PRO.28",
+     "title": "Proverbs 28",
+     "segments": 28
+    },
+    {
+     "file": "0029.json",
+     "ref": "PRO.29",
+     "title": "Proverbs 29",
+     "segments": 27
+    },
+    {
+     "file": "0030.json",
+     "ref": "PRO.30",
+     "title": "Proverbs 30",
+     "segments": 33
+    },
+    {
+     "file": "0031.json",
+     "ref": "PRO.31",
+     "title": "Proverbs 31",
+     "segments": 31
+    }
+   ]
+  },
+  {
+   "editionId": "jps1917-pro",
+   "role": "english",
+   "language": "english",
+   "credit": "The Holy Scriptures according to the Masoretic Text: A New Translation, trans. Jewish Publication Society of America (Max L. Margolis, editor-in-chief) (Philadelphia: Jewish Publication Society of America, 1917). Transcription: eBible.org (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://ebible.org/Scriptures/engjps_usfx.zip",
+   "sourceMember": "engjps_usfx.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1132370,
+   "sourceSha256": "2490670d6d533140e1907b05ec8794d838b007131fb464117cec97c621f5788e",
+   "leftOut": {
+    "id": 39,
+    "toc": 117
+   },
+   "segmentRefs": "citation",
+   "numbering": "eBible.org renumbered this copy to English verse numbers and kept the printed (Hebrew) numbering as marks in the text; the import follows the 2056 marks, giving back the numbering the 1917 book was printed with, and removes them from the words.",
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "PRO.1",
+     "title": "Proverbs 1",
+     "segments": 33
+    },
+    {
+     "file": "0002.json",
+     "ref": "PRO.2",
+     "title": "Proverbs 2",
+     "segments": 22
+    },
+    {
+     "file": "0003.json",
+     "ref": "PRO.3",
+     "title": "Proverbs 3",
+     "segments": 35
+    },
+    {
+     "file": "0004.json",
+     "ref": "PRO.4",
+     "title": "Proverbs 4",
+     "segments": 27
+    },
+    {
+     "file": "0005.json",
+     "ref": "PRO.5",
+     "title": "Proverbs 5",
+     "segments": 23
+    },
+    {
+     "file": "0006.json",
+     "ref": "PRO.6",
+     "title": "Proverbs 6",
+     "segments": 35
+    },
+    {
+     "file": "0007.json",
+     "ref": "PRO.7",
+     "title": "Proverbs 7",
+     "segments": 27
+    },
+    {
+     "file": "0008.json",
+     "ref": "PRO.8",
+     "title": "Proverbs 8",
+     "segments": 36
+    },
+    {
+     "file": "0009.json",
+     "ref": "PRO.9",
+     "title": "Proverbs 9",
+     "segments": 18
+    },
+    {
+     "file": "0010.json",
+     "ref": "PRO.10",
+     "title": "Proverbs 10",
+     "segments": 32
+    },
+    {
+     "file": "0011.json",
+     "ref": "PRO.11",
+     "title": "Proverbs 11",
+     "segments": 31
+    },
+    {
+     "file": "0012.json",
+     "ref": "PRO.12",
+     "title": "Proverbs 12",
+     "segments": 28
+    },
+    {
+     "file": "0013.json",
+     "ref": "PRO.13",
+     "title": "Proverbs 13",
+     "segments": 25
+    },
+    {
+     "file": "0014.json",
+     "ref": "PRO.14",
+     "title": "Proverbs 14",
+     "segments": 35
+    },
+    {
+     "file": "0015.json",
+     "ref": "PRO.15",
+     "title": "Proverbs 15",
+     "segments": 33
+    },
+    {
+     "file": "0016.json",
+     "ref": "PRO.16",
+     "title": "Proverbs 16",
+     "segments": 33
+    },
+    {
+     "file": "0017.json",
+     "ref": "PRO.17",
+     "title": "Proverbs 17",
+     "segments": 28
+    },
+    {
+     "file": "0018.json",
+     "ref": "PRO.18",
+     "title": "Proverbs 18",
+     "segments": 24
+    },
+    {
+     "file": "0019.json",
+     "ref": "PRO.19",
+     "title": "Proverbs 19",
+     "segments": 29
+    },
+    {
+     "file": "0020.json",
+     "ref": "PRO.20",
+     "title": "Proverbs 20",
+     "segments": 30
+    },
+    {
+     "file": "0021.json",
+     "ref": "PRO.21",
+     "title": "Proverbs 21",
+     "segments": 31
+    },
+    {
+     "file": "0022.json",
+     "ref": "PRO.22",
+     "title": "Proverbs 22",
+     "segments": 29
+    },
+    {
+     "file": "0023.json",
+     "ref": "PRO.23",
+     "title": "Proverbs 23",
+     "segments": 35
+    },
+    {
+     "file": "0024.json",
+     "ref": "PRO.24",
+     "title": "Proverbs 24",
+     "segments": 34
+    },
+    {
+     "file": "0025.json",
+     "ref": "PRO.25",
+     "title": "Proverbs 25",
+     "segments": 28
+    },
+    {
+     "file": "0026.json",
+     "ref": "PRO.26",
+     "title": "Proverbs 26",
+     "segments": 28
+    },
+    {
+     "file": "0027.json",
+     "ref": "PRO.27",
+     "title": "Proverbs 27",
+     "segments": 27
+    },
+    {
+     "file": "0028.json",
+     "ref": "PRO.28",
+     "title": "Proverbs 28",
+     "segments": 28
+    },
+    {
+     "file": "0029.json",
+     "ref": "PRO.29",
+     "title": "Proverbs 29",
+     "segments": 27
+    },
+    {
+     "file": "0030.json",
+     "ref": "PRO.30",
+     "title": "Proverbs 30",
+     "segments": 33
+    },
+    {
+     "file": "0031.json",
+     "ref": "PRO.31",
+     "title": "Proverbs 31",
+     "segments": 31
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "divisionOnly": [],
+  "missingInOriginal": [],
+  "missingInEnglish": []
+ }
+}

@@ -1,0 +1,289 @@
+{
+ "workId": "council-nicaea-ii-acts",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "council-nicaea-ii-npnf14",
+   "role": "english",
+   "language": "english",
+   "credit": "The Seventh Ecumenical Council: the Decree, the Canons and the Letter to the Emperor and Empress, in Nicene and Post-Nicene Fathers, Series II, vol. 14: The Seven Ecumenical Councils of the Undivided Church, their canons and dogmatic decrees, ed. Henry R. Percival, trans. Various (translators of the individual texts are not named on the pages opened); edited with notes by Henry R. Percival (New York; Oxford; Edinburgh: The Christian Literature Company (New York); Parker & Co. (Oxford); T. & T. Clark (Edinburgh), 1900). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers: Series II), CC BY-SA (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_XIV/The_Seventh_Ecumenical_Council",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 107573,
+   "sourceSha256": "4c396d6573f664ad5c527cfac2985d0898cb38558775f39b50df812cfb6e3c75",
+   "leftOut": {
+    "note": 9
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Seventh Ecumenical Council/The Decree of the Synod",
+     "bytes": 11102,
+     "sha256": "c829a155a9f160162fd541b69d3dfdc7c05d5e8ccd392dc8fd7c5979648c7fc8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Seventh Ecumenical Council/Canons/Canon I",
+     "bytes": 6352,
+     "sha256": "318ee7f01b69b7b67a1dcc3fe75a31e88c79eadb7145e920efaec63c21cc2099"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Seventh Ecumenical Council/Canons/Canon II",
+     "bytes": 4888,
+     "sha256": "d224ca3f3650254b98a34cf3e535995efd3e567191d6c1cd86fd3b62f942e100"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Seventh Ecumenical Council/Canons/Canon III",
+     "bytes": 2946,
+     "sha256": "7be8ab8b4a43309f30ab454a2c9c1f402f582017a6665d21ee52ad78b0f4a632"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Seventh Ecumenical Council/Canons/Canon IV",
+     "bytes": 5421,
+     "sha256": "07eb9b5dc934fb57dc51f8ff9402f3f36175ab95ee468161926813cc368295fd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Seventh Ecumenical Council/Canons/Canon V",
+     "bytes": 4733,
+     "sha256": "505171a9f19407c51bc4d6d05e245cc1691cdf5a2a4b2565fcbafcf55d4b346f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Seventh Ecumenical Council/Canons/Canon VI",
+     "bytes": 3419,
+     "sha256": "639f19e9c3206e81e98a837412ff435c1782a2c3bc601b07e4955e489ee293f9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Seventh Ecumenical Council/Canons/Canon VII",
+     "bytes": 3757,
+     "sha256": "cde511396d65e3c5b38d026c85ece5c783edbde00934fee04f62349d2ae19ee8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Seventh Ecumenical Council/Canons/Canon VIII",
+     "bytes": 2419,
+     "sha256": "d0aadaf77ad9bfae86390809a2b851bf0583106b0dcabf911bd4cd15bef2b014"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Seventh Ecumenical Council/Canons/Canon IX",
+     "bytes": 2635,
+     "sha256": "11bc4c86a3b660c63f882dd827919472b94442ddd27e251e4be083f2d6dbd376"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Seventh Ecumenical Council/Canons/Canon X",
+     "bytes": 3043,
+     "sha256": "4c686d9ff29d9bf71e1772b20b39a6f7e85ef89a656113b9856d61175ec5a1b6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Seventh Ecumenical Council/Canons/Canon XI",
+     "bytes": 2873,
+     "sha256": "3c5b2d4798ca6dab5ff1faac490dea76cd75ceba1ba00abca58b3effef3efe7d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Seventh Ecumenical Council/Canons/Canon XII",
+     "bytes": 3576,
+     "sha256": "fc09d87f181244008d75b90ef42e73fabe83560e6725bb13c5da0866cb6a90a7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Seventh Ecumenical Council/Canons/Canon XIII",
+     "bytes": 3188,
+     "sha256": "19430ad8f7979005e9239a0a779c7ce321e66fc4e55f1d254bb117b38bf081e2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Seventh Ecumenical Council/Canons/Canon XIV",
+     "bytes": 3664,
+     "sha256": "16a9d5b5a706ccb56074de42f93bd69f394ffe0b5adc6a34d159ef0e6c972d2b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Seventh Ecumenical Council/Canons/Canon XV",
+     "bytes": 3151,
+     "sha256": "127a62f8db039a3fd1b2f14a2b65b035a319f1bb684868c528004e2c4c08d6ab"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Seventh Ecumenical Council/Canons/Canon XVI",
+     "bytes": 3440,
+     "sha256": "c2ca30bf1d28de98bd30455d6b9ac68c1d98eda289a9e2c6c4b5ac743a73b880"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Seventh Ecumenical Council/Canons/Canon XVII",
+     "bytes": 2094,
+     "sha256": "9c96c471d8130da0037b17891c5a2b4cc9959fd9deab2fe02738214fddaad87b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Seventh Ecumenical Council/Canons/Canon XVIII",
+     "bytes": 2928,
+     "sha256": "2b9b9fc24362d63e53ff76cc8ae5b259822fb158b14886f957a1db5e79d4c83d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Seventh Ecumenical Council/Canons/Canon XIX",
+     "bytes": 3895,
+     "sha256": "bc3b272e6b746307904f0ca2a552e0f7aed3a2fd6fa2854da4950b2a4b12dc03"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Seventh Ecumenical Council/Canons/Canon XX",
+     "bytes": 4186,
+     "sha256": "9c59199ad6e21618feb2b13043f7f390e1b5f8c9129024015ec66a9965c9f903"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Seventh Ecumenical Council/Canons/Canon XXI",
+     "bytes": 2356,
+     "sha256": "da626244d18f9ab83a5ef35b71b6f372397b1226f5920cb234488d08e81aa05a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Seventh Ecumenical Council/Canons/Canon XXII",
+     "bytes": 3973,
+     "sha256": "dd5bb5f0b8064649630a214d675383419fb7c7ef70751d2130df8cf66b6fb70d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Seventh Ecumenical Council/The Letter of the Synod to the Emperor and Empress",
+     "bytes": 17534,
+     "sha256": "f62b31f4fe2216510db4f02f72e438983a10433425fa5c7ee3f6cf33de673996"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 13
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 16
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 15
+    },
+    {
+     "file": "0004.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 11
+    },
+    {
+     "file": "0005.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 11
+    },
+    {
+     "file": "0006.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 8
+    },
+    {
+     "file": "0007.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 10
+    },
+    {
+     "file": "0008.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 13
+    },
+    {
+     "file": "0009.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 8
+    },
+    {
+     "file": "0010.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 9
+    },
+    {
+     "file": "0011.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 10
+    },
+    {
+     "file": "0012.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 13
+    },
+    {
+     "file": "0013.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 11
+    },
+    {
+     "file": "0014.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 10
+    },
+    {
+     "file": "0015.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 11
+    },
+    {
+     "file": "0016.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 10
+    },
+    {
+     "file": "0017.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 8
+    },
+    {
+     "file": "0018.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 8
+    },
+    {
+     "file": "0019.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 10
+    },
+    {
+     "file": "0020.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 8
+    },
+    {
+     "file": "0021.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 12
+    },
+    {
+     "file": "0022.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 9
+    },
+    {
+     "file": "0023.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 7
+    },
+    {
+     "file": "0024.json",
+     "ref": "p3",
+     "title": "p3",
+     "segments": 14
+    }
+   ]
+  }
+ ]
+}

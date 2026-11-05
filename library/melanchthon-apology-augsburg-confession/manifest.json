@@ -1,0 +1,277 @@
+{
+ "workId": "melanchthon-apology-augsburg-confession",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "melanchthon-apology-bente-dau-gutenberg",
+   "role": "english",
+   "language": "english",
+   "credit": "The Apology of the Augsburg Confession (tr. F. Bente and W. H. T. Dau), in Triglot Concordia (St. Louis: Concordia Publishing House, 1921) — printing inferred, see verification, trans. F. Bente; W. H. T. Dau (St. Louis: Concordia Publishing House, 1921). Transcription: Michael Pullen and David Klinge (Project Gutenberg); converted for Project Wittenberg by Allen Mulvey (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/6744/pg6744.txt",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 669657,
+   "sourceSha256": "6b974571ae4499ce385ddb140a47228f871a9c4512d62aafe7ea383d5aa57757",
+   "leftOut": {
+    "gutenbergLine": 1,
+    "noteMark": 2
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "https://www.gutenberg.org/cache/epub/6744/pg6744.txt",
+     "bytes": 669657,
+     "sha256": "6b974571ae4499ce385ddb140a47228f871a9c4512d62aafe7ea383d5aa57757"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "s1",
+     "title": "s1",
+     "segments": 9
+    },
+    {
+     "file": "0002.json",
+     "ref": "s3",
+     "title": "THE APOLOGY OF THE CONFESSION.",
+     "segments": 4
+    },
+    {
+     "file": "0003.json",
+     "ref": "a1",
+     "title": "Article I: Of God.",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "a2",
+     "title": "Article II (I): Of Original Sin.",
+     "segments": 16
+    },
+    {
+     "file": "0005.json",
+     "ref": "a3",
+     "title": "Article III: Of Christ.",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "a4",
+     "title": "Article IV (II): Of Justification.",
+     "segments": 16
+    },
+    {
+     "file": "0007.json",
+     "ref": "p3",
+     "title": "Part 3",
+     "segments": 6
+    },
+    {
+     "file": "0008.json",
+     "ref": "p4",
+     "title": "Part 4",
+     "segments": 6
+    },
+    {
+     "file": "0009.json",
+     "ref": "p5",
+     "title": "Part 5",
+     "segments": 19
+    },
+    {
+     "file": "0010.json",
+     "ref": "a3~2",
+     "title": "Article III: Of Love and the Fulfilling of the Law.",
+     "segments": 16
+    },
+    {
+     "file": "0011.json",
+     "ref": "p7",
+     "title": "Part 7",
+     "segments": 18
+    },
+    {
+     "file": "0012.json",
+     "ref": "p8",
+     "title": "Part 8",
+     "segments": 13
+    },
+    {
+     "file": "0013.json",
+     "ref": "p9",
+     "title": "Part 9",
+     "segments": 21
+    },
+    {
+     "file": "0014.json",
+     "ref": "p10",
+     "title": "Part 10",
+     "segments": 12
+    },
+    {
+     "file": "0015.json",
+     "ref": "p11",
+     "title": "Part 11",
+     "segments": 17
+    },
+    {
+     "file": "0016.json",
+     "ref": "a9",
+     "title": "Article IX: Of Baptism.",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "a10",
+     "title": "Article X: Of the Holy Supper.",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "a11",
+     "title": "Article XI: Of Confession.",
+     "segments": 4
+    },
+    {
+     "file": "0019.json",
+     "ref": "a12",
+     "title": "Article XII (V): Of Repentance.",
+     "segments": 38
+    },
+    {
+     "file": "0020.json",
+     "ref": "a6",
+     "title": "Article VI: Of Confession and Satisfaction.",
+     "segments": 13
+    },
+    {
+     "file": "0021.json",
+     "ref": "p17",
+     "title": "Part 17",
+     "segments": 14
+    },
+    {
+     "file": "0022.json",
+     "ref": "a13",
+     "title": "Article XIII (VII): Of the Number and Use of the Sacraments.",
+     "segments": 8
+    },
+    {
+     "file": "0023.json",
+     "ref": "a14",
+     "title": "Article XIV: Of Ecclesiastical Order.",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "a15",
+     "title": "Article XV (VIII): Of Human Traditions in the Church.",
+     "segments": 13
+    },
+    {
+     "file": "0025.json",
+     "ref": "a16",
+     "title": "Article XVI: Of Political Order.",
+     "segments": 4
+    },
+    {
+     "file": "0026.json",
+     "ref": "a17",
+     "title": "Article XVII: Of Christ's Return to Judgment.",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "a18",
+     "title": "Article XVIII: Of Free Will.",
+     "segments": 3
+    },
+    {
+     "file": "0028.json",
+     "ref": "a19",
+     "title": "Article XIX: Of the Cause of Sin.",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "a20",
+     "title": "Article XX: Of Good Works.",
+     "segments": 5
+    },
+    {
+     "file": "0030.json",
+     "ref": "p26",
+     "title": "Part 26",
+     "segments": 19
+    },
+    {
+     "file": "0031.json",
+     "ref": "a22",
+     "title": "Article XXII (X): Of Both Kinds in the Lord's Supper.",
+     "segments": 4
+    },
+    {
+     "file": "0032.json",
+     "ref": "a23",
+     "title": "Article XXIII (XI): Of the Marriage of Priests.",
+     "segments": 32
+    },
+    {
+     "file": "0033.json",
+     "ref": "a24",
+     "title": "Article XXIV (XII): Of the Mass.",
+     "segments": 9
+    },
+    {
+     "file": "0034.json",
+     "ref": "p30",
+     "title": "Part 30",
+     "segments": 31
+    },
+    {
+     "file": "0035.json",
+     "ref": "p31",
+     "title": "Part 31",
+     "segments": 3
+    },
+    {
+     "file": "0036.json",
+     "ref": "p32",
+     "title": "Part 32",
+     "segments": 6
+    },
+    {
+     "file": "0037.json",
+     "ref": "p33",
+     "title": "Part 33",
+     "segments": 6
+    },
+    {
+     "file": "0038.json",
+     "ref": "p34",
+     "title": "Part 34",
+     "segments": 9
+    },
+    {
+     "file": "0039.json",
+     "ref": "a27",
+     "title": "Article XXVII (XIII): Of Monastic Vows.",
+     "segments": 42
+    },
+    {
+     "file": "0040.json",
+     "ref": "a28",
+     "title": "Article XXVIII (XIV): Of Ecclesiastical Power.",
+     "segments": 12
+    },
+    {
+     "file": "0041.json",
+     "ref": "s64",
+     "title": "THE END.",
+     "segments": 5
+    }
+   ]
+  }
+ ]
+}

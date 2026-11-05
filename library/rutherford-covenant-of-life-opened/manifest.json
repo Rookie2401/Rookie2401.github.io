@@ -1,0 +1,288 @@
+{
+ "workId": "rutherford-covenant-of-life-opened",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "rutherford-covenant-of-life-1655-tcp",
+   "role": "english",
+   "language": "english",
+   "credit": "The covenant of life opened, or, A treatise of the covenant of grace, in EEBO-TCP A57966 (Edinburgh: Andro Anderson for Robert Brown, 1655). Transcription: Text Creation Partnership (EEBO-TCP Phase 1): keyboarded and encoded from page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A57966/master/A57966.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1341085,
+   "sourceSha256": "47eae1c4578755e14ab36f7329cba21cf143ec3c40c37c244901763d4d1d10e8",
+   "leftOut": {
+    "pb": 380,
+    "unread": 589,
+    "note": 752,
+    "milestone": 5
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 153565,
+    "unreadPerThousand": 3.8
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "front.1",
+     "segments": 3
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.1",
+     "title": "CHAP. I. What is to be spoken of the COVENANT of LIFE, shall be reduced to these Heads.",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.2",
+     "title": "CHAP. II. Propositions touching ADAMS Covenant-state.",
+     "segments": 6
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.3",
+     "title": "CHAP. III. What is the intent and sense of the threatning, Gen. 2.17. In the day thou eats, thou shalt die. And Gen. 3.20. Dust thou art, &c.",
+     "segments": 16
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.4",
+     "title": "CHAP. IV. The Elect non-converted are not under Law-wrath. 2. Faith is no cause of satisfaction. 3. Christ can not have satisfied for the sins of the Reprobate.",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.5",
+     "title": "CHAP. V. God intended a Law-dispensation but for a time. 2. Adam, how he was ordained for a Law-life. 3. How predestinated to Glory in Christ, how not. 4. That the Heathens have no more Universall Gra",
+     "segments": 4
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.6",
+     "title": "CHAP. VI. It was condescension in the Lord to enter in Covenant with man. 2. Temptations in fearing we are not chosen, discovered. 3. Beings and not beings are debtors to God. 4. Self denyall required",
+     "segments": 9
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.7",
+     "title": "CHAP. VII. Its not written in the heart of man by nature, that GOD should promise life eternall to man, upon condition of obedience. 2. And that the debt of Justice can not tye GOD. 3. GOD punisheth n",
+     "segments": 28
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.8",
+     "title": "CHAP. VIII. What place death hath in the Covenant. 2. What such as Cain and Judas are to do in their desperate state. 3. And why the LORD is no where called the GOD of Adam.",
+     "segments": 6
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.9",
+     "title": "CHAP. IX. What life is promised in the Covenant of Works. 2. Whether all we, especially the Reprobate, by the fall, lost all right to the creatures. 3. How the Lord is our God.",
+     "segments": 16
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.10",
+     "title": "CHAP. X.",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.11",
+     "title": "CHAP. XI. The three-fold Covenant considered. 2. The Law pressed upon Israel was not a Covenant of Works, but a darker dispensation of Grace. 3. The three-fold Covenant of Arminians refuted. 4. Divers",
+     "segments": 21
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.12",
+     "title": "CHAP. XII. 1. All are to try under what Covenant they are. 2. Threatnings under the New Testament are more spirituall 3. Desertions under both are compared. 4. Considerable differences of such as are ",
+     "segments": 10
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.13",
+     "title": "CHAP. XIII. There are two sorts of Covenanting, on externall, professed, visible, conditionall, another internall, reall, absolute and the differences betwixt them. 2. Infants externally in Covenant u",
+     "segments": 27
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.14",
+     "title": "CHAP. XIIII. Considerations of the Arguments from Gen. 17. Mark 10.15, 16. Luke 18. Math. 19. Rom. 11. for Infant Baptisme.",
+     "segments": 45
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.15",
+     "title": "CHAP. XV. The differences of externall and internall Covenanting. 2. No Universall Grace, Rom. 10.18. Psal. 19.3. nor in Scripture. 3. Nor power of beleeving to all given by Christ.",
+     "segments": 17
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.16",
+     "title": "CHAP. XVI. Cases from the former Doctrine. 1. The differences betwixt such as are externally, visibly, and conditionally, and such as are internally and personally in Covenant with God. 2. Gods esteem",
+     "segments": 3
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.17",
+     "title": "CHAP. XVI. 1. Of the hypocrisie, of formall Covenanters. 2. Self-deceit. 3. The new Spirit. 4. Revelations and Prophecies. 5. Markes of a Spirituall disposition.",
+     "segments": 28
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.18",
+     "title": "CHAP. XVIII. The new heart of Covenanters, the Nature, Characters, Properties thereof, hitherto of the new Spirit.",
+     "segments": 26
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.19",
+     "title": "CHAP. XIX. 1. The place of Evangelick works in the New Covenant. 2. Possession of glory and right to glory considerably different. 3. A twofold right to life. 4. We are not justified by Works. 5. The ",
+     "segments": 43
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.20",
+     "title": "CHAP. XX. Whether or not suffered Christ for any sin against the Gospel only, such as unbeleef finall, which is conceived to be the only sin against the Gospel. That Christ died not for all without ex",
+     "segments": 12
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.21",
+     "title": "CHAP. XXI.",
+     "segments": 4
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.22",
+     "title": "CHAP. XXII. The differences in the promise of the Covenants.",
+     "segments": 11
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.23",
+     "title": "CHAP. XXIII.",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.24",
+     "title": "CHAP. XXIII. Whether faith as lively and true, or faith as continuing to the end, be the condition of the Covenant of Grace?",
+     "segments": 5
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.25",
+     "title": "CHAP. XXIV. What faith is required in the Gospel.",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.26",
+     "title": "CHAP. XXV.",
+     "segments": 25
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.27",
+     "title": "CHAP. XXVI. Of the property of the Covenant of Grace, the perpetuity thereof.",
+     "segments": 9
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.28",
+     "title": "CHAP. XXVII. Of cases of Law-fear, and Gospel-faith: How a child of God fears Law-threatnings.",
+     "segments": 14
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.29",
+     "title": "CHAP. XXVIII. Christ died not to blot out the sense of sin, but rather to quicken a Godly sense thereof.",
+     "segments": 4
+    },
+    {
+     "file": "0031.json",
+     "ref": "2.1",
+     "title": "CHAP. I.",
+     "segments": 10
+    },
+    {
+     "file": "0032.json",
+     "ref": "2.2",
+     "title": "CHAP. II. Wherein stands our right to Christ and the satisfaction made for us by Christ? 2. Faith is not the cause of our right. 3. Christs incarnation and dying are not favours merited by Christ. 4. ",
+     "segments": 17
+    },
+    {
+     "file": "0033.json",
+     "ref": "2.3",
+     "title": "CHAP. III. How Christ suffered for us in our roome and place. 2. He died not for all and every one. 3. How many wayes Christ is said to die in our stead. 4. The Lords so dying for all makes not all sa",
+     "segments": 32
+    },
+    {
+     "file": "0034.json",
+     "ref": "2.4",
+     "title": "CHAP. IV. Now we are i • Christ dying, and crucified in him. 2. A twofold crucifying of us with Christ. 3. A discourse of mortification. 4. The actings of the mortified. 5. That we are to be mortified",
+     "segments": 57
+    },
+    {
+     "file": "0035.json",
+     "ref": "2.5",
+     "title": "CHAP. V. Of the Covenant of Redemption between God and the Mediator Christ. 2. Christ is not a bare witnesse to confirm the Covenant, but the Author of the Covenant. 3. The Socinian way of works canno",
+     "segments": 20
+    },
+    {
+     "file": "0036.json",
+     "ref": "2.6",
+     "title": "CHAP. VI. Q. 11. Whether there be any such thing as a Covenant of Suretyship or Redemption between JEHOVAH and the Son of GOD? That there is such a Covenant, is proven by 11. Arguments.",
+     "segments": 17
+    },
+    {
+     "file": "0037.json",
+     "ref": "2.7",
+     "title": "CHAP. VII. The Covenant of Redemption is explained in three eternall acts. 1. Designation, decree or ordination, and delectation in the work. 2. Mercy and peace, truth and righteousnes are agreed in t",
+     "segments": 8
+    },
+    {
+     "file": "0038.json",
+     "ref": "2.8",
+     "title": "CHAP. VIII. The differences between the Covenant of Suretyship or Redemption made with Christ, & the Covenant of Reconciliation and of Grace made with sinners. 2. The conjunction of the Covenants. 3. ",
+     "segments": 15
+    },
+    {
+     "file": "0039.json",
+     "ref": "2.9",
+     "title": "CHAP. IX. The 13. Argument, from the necessity of Gods call. 2. Of Typicall sprinkling of the blood of the Covenant, and of the Testament: The place, Heb. 13.20. the blood of the everlasting Covenant ",
+     "segments": 36
+    },
+    {
+     "file": "0040.json",
+     "ref": "2.10",
+     "title": "CHAP. X. Christ procures the Gospel to be Preached to Reprobats, but undertakes not for them. A necessary distinction of the Covenant as Preached according to the approving will of God, and as acted u",
+     "segments": 21
+    },
+    {
+     "file": "0041.json",
+     "ref": "2.11",
+     "title": "CHAP. XI. Of the promises made to Christ in the Covenant of Mediation, not to Christ-God, but to Christ God and Man the Mediator, and these of twelve sorts.",
+     "segments": 15
+    },
+    {
+     "file": "0042.json",
+     "ref": "2.12",
+     "title": "CHAP. XII. The condition and Properties of the Covenant of Redemption.",
+     "segments": 25
+    },
+    {
+     "file": "0043.json",
+     "ref": "2.end",
+     "title": "2.end",
+     "segments": 1
+    }
+   ]
+  }
+ ]
+}

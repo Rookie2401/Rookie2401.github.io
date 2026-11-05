@@ -1,0 +1,1535 @@
+{
+ "workId": "augustine-nature-grace",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "nature-gratia-urba-zycha-csel60",
+   "role": "original",
+   "language": "latin",
+   "credit": "De natura et gratia, in Sancti Aureli Augustini Opera, Sectio VIII, Pars I (CSEL 60), ed. Karl F. Urba; Joseph Zycha (Prague; Vienna; Leipzig: F. Tempsky; G. Freytag, 1913). Open Greek and Latin / University of Leipzig (csel-dev): Latin text of Augustine, De natura et gratia, ed. K. F. Urba and J. Zycha (CSEL 60, 1913), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa054/stoa0040.stoa054.opp-lat1.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 247585,
+   "sourceSha256": "77663813613aaf7a0dc143bbe2ad97c96598b8ea16ab9cd332a99e3e6a7525d7",
+   "leftOut": {
+    "milestone": 70,
+    "lb": 1795,
+    "note": 147,
+    "pb": 67
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 16635,
+    "garbledPerThousand": 0.2,
+    "joinedPerThousand": 0.1,
+    "numbersPerThousand": 0.4
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "45",
+     "title": "45",
+     "segments": 1
+    },
+    {
+     "file": "0046.json",
+     "ref": "46",
+     "title": "46",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "47",
+     "title": "47",
+     "segments": 1
+    },
+    {
+     "file": "0048.json",
+     "ref": "48",
+     "title": "48",
+     "segments": 1
+    },
+    {
+     "file": "0049.json",
+     "ref": "49",
+     "title": "49",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "50",
+     "title": "50",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "51",
+     "title": "51",
+     "segments": 1
+    },
+    {
+     "file": "0052.json",
+     "ref": "52",
+     "title": "52",
+     "segments": 1
+    },
+    {
+     "file": "0053.json",
+     "ref": "53",
+     "title": "53",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "54",
+     "title": "54",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "55",
+     "title": "55",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "56",
+     "title": "56",
+     "segments": 1
+    },
+    {
+     "file": "0057.json",
+     "ref": "57",
+     "title": "57",
+     "segments": 1
+    },
+    {
+     "file": "0058.json",
+     "ref": "58",
+     "title": "58",
+     "segments": 1
+    },
+    {
+     "file": "0059.json",
+     "ref": "59",
+     "title": "59",
+     "segments": 1
+    },
+    {
+     "file": "0060.json",
+     "ref": "60",
+     "title": "60",
+     "segments": 1
+    },
+    {
+     "file": "0061.json",
+     "ref": "61",
+     "title": "61",
+     "segments": 1
+    },
+    {
+     "file": "0062.json",
+     "ref": "62",
+     "title": "62",
+     "segments": 1
+    },
+    {
+     "file": "0063.json",
+     "ref": "63",
+     "title": "63",
+     "segments": 1
+    },
+    {
+     "file": "0064.json",
+     "ref": "64",
+     "title": "64",
+     "segments": 1
+    },
+    {
+     "file": "0065.json",
+     "ref": "65",
+     "title": "65",
+     "segments": 1
+    },
+    {
+     "file": "0066.json",
+     "ref": "66",
+     "title": "66",
+     "segments": 1
+    },
+    {
+     "file": "0067.json",
+     "ref": "67",
+     "title": "67",
+     "segments": 1
+    },
+    {
+     "file": "0068.json",
+     "ref": "68",
+     "title": "68",
+     "segments": 1
+    },
+    {
+     "file": "0069.json",
+     "ref": "69",
+     "title": "69",
+     "segments": 1
+    },
+    {
+     "file": "0070.json",
+     "ref": "70",
+     "title": "70",
+     "segments": 1
+    },
+    {
+     "file": "0071.json",
+     "ref": "71",
+     "title": "71",
+     "segments": 1
+    },
+    {
+     "file": "0072.json",
+     "ref": "72",
+     "title": "72",
+     "segments": 1
+    },
+    {
+     "file": "0073.json",
+     "ref": "73",
+     "title": "73",
+     "segments": 1
+    },
+    {
+     "file": "0074.json",
+     "ref": "74",
+     "title": "74",
+     "segments": 1
+    },
+    {
+     "file": "0075.json",
+     "ref": "75",
+     "title": "75",
+     "segments": 1
+    },
+    {
+     "file": "0076.json",
+     "ref": "76",
+     "title": "76",
+     "segments": 1
+    },
+    {
+     "file": "0077.json",
+     "ref": "77",
+     "title": "77",
+     "segments": 1
+    },
+    {
+     "file": "0078.json",
+     "ref": "78",
+     "title": "78",
+     "segments": 1
+    },
+    {
+     "file": "0079.json",
+     "ref": "79",
+     "title": "79",
+     "segments": 1
+    },
+    {
+     "file": "0080.json",
+     "ref": "80",
+     "title": "80",
+     "segments": 1
+    },
+    {
+     "file": "0081.json",
+     "ref": "81",
+     "title": "81",
+     "segments": 1
+    },
+    {
+     "file": "0082.json",
+     "ref": "82",
+     "title": "82",
+     "segments": 1
+    },
+    {
+     "file": "0083.json",
+     "ref": "83",
+     "title": "83",
+     "segments": 1
+    },
+    {
+     "file": "0084.json",
+     "ref": "84",
+     "title": "84",
+     "segments": 1
+    },
+    {
+     "file": "0085.json",
+     "ref": "retractationes",
+     "title": "AVGVSTINI RETRACTATIONVM LIB. II CAP. LXVIII (XLII) (PAG. 180, 1 ED. KNOELL). DE NATVRA ET GRATIA LIBER VNVS.",
+     "segments": 2
+    }
+   ]
+  },
+  {
+   "editionId": "nature-grace-holmes-npnf5-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "On Nature and Grace, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. V: Saint Augustin: Anti-Pelagian Writings (ed. Philip Schaff; New York, Christian Literature Co., 1887); copy on English Wikisource, trans. Peter Holmes (revised by B. B. Warfield) (New York: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_V/On_Nature_and_Grace",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 226692,
+   "sourceSha256": "721e02d8664ec2c25da3bf5822a3aa2d19b254200e09915ca44b32a9569c7a0d",
+   "leftOut": {
+    "note": 240
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Argument",
+     "bytes": 2491,
+     "sha256": "c52afadcd2436b99634221d1254b8fb752dcd12366a73eb03db8c02d0187d1ec"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 1",
+     "bytes": 3165,
+     "sha256": "f906d94cd03fdd75a263f20e838c4c2d1f50d352207aa3f679482b95116cdc60"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 10",
+     "bytes": 2298,
+     "sha256": "47692dfa80d90172a74d5c72eb6dcb701751ff4afde1e28c31331a3912c08084"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 11",
+     "bytes": 3068,
+     "sha256": "b641bf5b75a566ca9450b2f83427ebbc2bf9d85afed49ef0b6e89fa83082312b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 12",
+     "bytes": 2058,
+     "sha256": "ea5180b76e39bc1ebfe4e87ff7ee6702423f19c432d3cc1fbf772db3c3c41b9c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 13",
+     "bytes": 2085,
+     "sha256": "88542c5a0d7293e4421fca94099a4449fed45a8f6b251298f296c5aea8b539b1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 14",
+     "bytes": 1522,
+     "sha256": "18ee8e9434ae4e2c242f9a4faafb3647bb81926665dad5d55fab6ca33832da72"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 15",
+     "bytes": 2654,
+     "sha256": "cf2f153b46b12c4060d3732c1ecee6500a57141ba1ec311a24961ce32df027c7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 16",
+     "bytes": 3109,
+     "sha256": "9a5168ddd8914cae758a6ab79dd5c8f8b3d34aa44f0528959e3db18ee5b36c07"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 17",
+     "bytes": 2938,
+     "sha256": "ae80f7f6153a10d5ece536a840e6fee0c9d7cc2d9a65ca1a79e2d0d32c4c8ef2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 18",
+     "bytes": 2021,
+     "sha256": "366b565ae8015923bad0e51237a62456b215c08869b1b3be93a718b57df20101"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 19",
+     "bytes": 1741,
+     "sha256": "75846b8da66e702915e6c1791a2101cc03ec572a2b566f562a5b8fe7dcbab866"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 2",
+     "bytes": 3025,
+     "sha256": "0102e6742bf0f480365f1861f67ee03c36a5871b61b4891ee432f668dccf3a53"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 20",
+     "bytes": 1942,
+     "sha256": "40dbe2a8a544393d800bebc793c140c915b94c7076231fd5719778fe150dfab2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 21",
+     "bytes": 3709,
+     "sha256": "667a216482e7708ed978234645d4a2c5b26f41e36ae6a3c0c1c109b421ff7b51"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 22",
+     "bytes": 2751,
+     "sha256": "f094d0d64833b76aa2c2855d962bca071432fadb8d492548d90cf463f06eb3b7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 23",
+     "bytes": 2740,
+     "sha256": "442d184367761c220fb796c4323f6f8331ec986a8ef9210f968933c23f30070e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 24",
+     "bytes": 4490,
+     "sha256": "99ec57e15d4e4ca2dfefaae947dcff355796aae3230483fb000506b472436a4c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 25",
+     "bytes": 4233,
+     "sha256": "ec44a98ae347511009f1904708d661d64a22802d07298d2964898fb53dc57811"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 26",
+     "bytes": 1846,
+     "sha256": "fcc24e740d9192d6e1ec25749dc6234d680bb5b716eaf19f8d8eb7bdf12466af"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 27",
+     "bytes": 1851,
+     "sha256": "0f581fba1a4e0b722249d244c1cef1be8bf64873f405675af8eba541d2be32dc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 28",
+     "bytes": 2117,
+     "sha256": "a21896e3a18ac8d88832bde41dacd583391dbbb1c5f173565629f103f8e34bc3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 29",
+     "bytes": 3501,
+     "sha256": "178f24d8574a01116d619eb5e8f91fab66d0ac26251865ed602eae732e6be2d0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 3",
+     "bytes": 1732,
+     "sha256": "6e4dc63049c7774d8a87bec9a79cda01f8e07af1e147ef889f20c917d428a86e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 30",
+     "bytes": 1566,
+     "sha256": "fa0c69fe3139e75dad5176503d8cbc8c2c90ea63668a1f537349a6e980325ef6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 31",
+     "bytes": 2663,
+     "sha256": "2ebfb9578681ee14ea59425841720c5ec197449106f1700551ee2a64014fbe13"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 32",
+     "bytes": 2474,
+     "sha256": "3f312a9b630ae8756b2518c47766169e32c068c79c41f3a6bd8794953f1dd58b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 33",
+     "bytes": 2741,
+     "sha256": "e026a147361071e0c8ec5f6a6752be1e1aafebd0afba9f7871b9dcace6c9817b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 34",
+     "bytes": 1609,
+     "sha256": "6514be908292067dfb38f3928c2eab028c884e73255a3adea656bf228370e3ee"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 35",
+     "bytes": 3357,
+     "sha256": "c1c3fc9fd6e19bed90d219e0cd2aaeedf4586f57ab4069c7c2eab4acf4144d14"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 36",
+     "bytes": 4390,
+     "sha256": "cb6fe937242df5bb114c0f45bb67d6bfd2f58b446dfe58b46e4507fc03b457ad"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 37",
+     "bytes": 1464,
+     "sha256": "b1712db1c3549d0d99c33bb4d51047de19c050fff02e6d99ed9b84d74f265115"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 38",
+     "bytes": 2319,
+     "sha256": "53b2c57fa11290466272edeccf83f527578331ed0a13e92d2369676945a161b3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 39",
+     "bytes": 2159,
+     "sha256": "08739d7eac10db26570600072b8e745bffed0b9ede42729961f913befbdf8832"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 4",
+     "bytes": 1613,
+     "sha256": "95ca82636d8048cbb64476aea4a98fd9874b3b69629402619398a1b15b15af7e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 40",
+     "bytes": 1823,
+     "sha256": "fff8521689686068bbbb93ac78c1d26e61c4b56a6692b0d548a04f4c3e84610c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 41",
+     "bytes": 1946,
+     "sha256": "c2e26a6093b2e6edace707f7d203f7d9cb995cf2c33af95ac5618af83b3520a3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 42",
+     "bytes": 2800,
+     "sha256": "3897e30853906baab56f2066c6cccf1bfdfa1ecc529e22c6fc8587cfbd32a3fc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 43",
+     "bytes": 2123,
+     "sha256": "9d24fa67b6a40e1ce94d3907de1d06211c8aedeecec2dacbe6146c28541e5aef"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 44",
+     "bytes": 2102,
+     "sha256": "6b9e16b5de0f6baf51fc7f04f1e31c1ec58e968b75f64da5c474e7a2dde8e062"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 45",
+     "bytes": 4446,
+     "sha256": "1da7217eb976b62a8aeb08f7dfc84526dc0724c19047573c58e7b2de22411ab3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 46",
+     "bytes": 2311,
+     "sha256": "910c8568926a95c7260dea38dca10c33293f2c6f1cf236ff773b356a798047ae"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 47",
+     "bytes": 2491,
+     "sha256": "3c21c4358da388a75c26b5d3d387fecc74f392428a04bfe07c18cc21a254c069"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 48",
+     "bytes": 2829,
+     "sha256": "4fa806834c43df4988370e8bac862d440badc49971cc9b03e22aa02acff8d4cb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 49",
+     "bytes": 2761,
+     "sha256": "979c4f9a293b8a35af935bf84acc1919b37651ec03307004eb3b88eede5abf54"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 5",
+     "bytes": 1476,
+     "sha256": "9dbd7b4c34484c1e643442adeb618ae98bb7aca17339115cc6d888d35811d866"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 50",
+     "bytes": 1968,
+     "sha256": "d91105e65f0f008f73e1f10cb0b04bf93070e0ff39a278906ece133156561351"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 51",
+     "bytes": 1856,
+     "sha256": "2558360046d66ca150e6071a0efcee812b212c61e86bbc69a4eb51905c564f1a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 52",
+     "bytes": 2146,
+     "sha256": "73f3097120dda9c143d6ce3fef66e703d9e4f8eeb26877f68e3baaec713f4fbd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 53",
+     "bytes": 3298,
+     "sha256": "b507ba9832b0212e74d2b93acc7c682067ae71eff93016f32d9ad2aea47658b9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 54",
+     "bytes": 1304,
+     "sha256": "0f3288073c5d46eb3d0bae28821246048e3f8a65079e7d2ca051c0cb927f55cb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 55",
+     "bytes": 2887,
+     "sha256": "22217b598bb56879f08b54c553ca4f0e69ef775274f0678376e5327c6759560e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 56",
+     "bytes": 2149,
+     "sha256": "acf421dce9b0ac80c7e5218400818b59b85dc4aafe8cc8030e24c9f3086b01e3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 57",
+     "bytes": 3089,
+     "sha256": "1869c9c2989c91be70372b9fab4d9c7721403df70083d797e172af038bb5c096"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 58",
+     "bytes": 2474,
+     "sha256": "098c2df4071c541567d611e4a255cb619f575356050d1d96a316f04926c162ca"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 59",
+     "bytes": 2782,
+     "sha256": "06765bbac9a635c25a8b54edd461861b71cdc61176ec8e8eae56240897323db6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 6",
+     "bytes": 1578,
+     "sha256": "8ed440c15aa661eb09cbb13cb52e76780141d3ee8ae0b08d76f412a3854f0ac6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 60",
+     "bytes": 3225,
+     "sha256": "614344c9c09b18ee7b804bffe3d60fc0daced3df68c56ec2e520adf90850447b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 61",
+     "bytes": 2508,
+     "sha256": "419b37ce36c75205e0e94fed22426fde5aa01d122173a0624f3cace828eca94a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 62",
+     "bytes": 3122,
+     "sha256": "3f00371d3af1b3b27b95d07ca60baae6d3de51291aceece96a0303664a635fed"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 63",
+     "bytes": 3176,
+     "sha256": "800d6b4d7c7213fff59bec4c83c8bebd34c67ea3bb7995e2aed943b4e7b7c2fc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 64",
+     "bytes": 3849,
+     "sha256": "36748b29f6990b761d8bee158e02b99139fe07ba8fd8814cec63b0fbdf895db5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 65",
+     "bytes": 3364,
+     "sha256": "ea6dfab460697f76c694a677a97b32694883d3da9a032aa824305834421f0c4c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 66",
+     "bytes": 1977,
+     "sha256": "ed02a09be0755acf1662f29ba3c0a4111ca697cc72b231818cc60d1dc08e72af"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 67",
+     "bytes": 2669,
+     "sha256": "993f01fa8ca3d0e62993eec500afad3d5d19dd6d31dadfbf1e8b52fb9bdfac24"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 68",
+     "bytes": 2685,
+     "sha256": "85c2231621d2a47be3026c29bec9479a6a4ddd0060c901f47bec84974aa691c9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 69",
+     "bytes": 2272,
+     "sha256": "edbf4f87d8071d151f55b7806861b1afa29e28aa07363f2a472ed921e492b3bb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 7",
+     "bytes": 1615,
+     "sha256": "a3ce6a6a8636e40addb3e7190bc005d10e0463159af4b710eae717bb2c04db88"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 70",
+     "bytes": 2491,
+     "sha256": "c396917b8d5d3b9daa10fd01fdca475ab276a4660e12d9d537d9126ca545fb1c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 71",
+     "bytes": 3357,
+     "sha256": "76e9e084777e35c8b4d4327a3f409ef6be05f0bd8ab9aeb32482cf4a64903396"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 72",
+     "bytes": 3302,
+     "sha256": "bce868b6803acd9f508db7aa1ba828178c577e4325b6fa2776bb71386c913f24"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 73",
+     "bytes": 2293,
+     "sha256": "c5b595a8149980c60d7ba3bf2bb5fcd909bbccc66243520afec2e3ae0ce7e862"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 74",
+     "bytes": 1814,
+     "sha256": "63d5e88cf0bf8c20d84f58c7eac1f4ccd46d9210edaf3fadfbf31408394e7afe"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 75",
+     "bytes": 3867,
+     "sha256": "05e6a753c97578da67f8c4843dcdda3bcc25bb2e7a99e39eb496eef6ef78f74f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 76",
+     "bytes": 1419,
+     "sha256": "dab5ac0f488bcc0b331014a3b3732f587af517a3c3b363a9d04e40e42b569b56"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 77",
+     "bytes": 3459,
+     "sha256": "2fb06bf8dc487d71c44b98eb60703851736e62759942d24701bae7396800e34c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 78",
+     "bytes": 1877,
+     "sha256": "a18b8dc45c186110ca9213f7e48dc3938419dbae9ad46ca985cabe9a14099593"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 79",
+     "bytes": 1613,
+     "sha256": "ae5966e9832d48f4a6b677eea0deceb17f81fea2a035611963c9711ed405e148"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 8",
+     "bytes": 3550,
+     "sha256": "6dbccc3e2fe39cb26fe95b17a2ec8d26b6bec18f943e582994dcd66e7c8ca3fd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 80",
+     "bytes": 2827,
+     "sha256": "88269ff69e8b9db977c915d9c51ce739f988fa4b0a3160faab87bf042665c359"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 81",
+     "bytes": 5484,
+     "sha256": "228a5211ceda95b66a6e190d14416a5ab0fbb7b132e18f85948e12f0204530cb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 82",
+     "bytes": 2493,
+     "sha256": "8944489c0c74f7554dd02d9549092e9e3ee49185e61deff341f328c0ece9e948"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 83",
+     "bytes": 3803,
+     "sha256": "9f61b018eed23d3bf30d6be830f1b6a4ede9e333a3c33525ec0fc91268621de1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 84",
+     "bytes": 1917,
+     "sha256": "8bccc9451639e6d90e9f261c79416c5d036b47fa42ae51a68070b5ffa80ae116"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Chapter 9",
+     "bytes": 1563,
+     "sha256": "1968b6d0822e4a97aacedeef5ea435ea7ddf893e9f11d9d786dd5ccec9ad068f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Extract from Augustin's Retractations",
+     "bytes": 1855,
+     "sha256": "4f5df4f37717ed67a2289e9f2bbb5f0433ef22d5d9a0639eb1bb0428859ab7f5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Note on the Following Work",
+     "bytes": 4467,
+     "sha256": "852de69d8dcc7d07459eb3f7bddd7b426eb9823ab77515c69d67ade5179a98d5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Nature and Grace/Title Page",
+     "bytes": 698,
+     "sha256": "9b7f31fdf32350db95ad195f434ca117fcc0bf5b4dd01f963d6ba753ea9d7780"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 5
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "45",
+     "title": "45",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "46",
+     "title": "46",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "47",
+     "title": "47",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "48",
+     "title": "48",
+     "segments": 2
+    },
+    {
+     "file": "0050.json",
+     "ref": "49",
+     "title": "49",
+     "segments": 2
+    },
+    {
+     "file": "0051.json",
+     "ref": "50",
+     "title": "50",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "51",
+     "title": "51",
+     "segments": 2
+    },
+    {
+     "file": "0053.json",
+     "ref": "52",
+     "title": "52",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "53",
+     "title": "53",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "54",
+     "title": "54",
+     "segments": 2
+    },
+    {
+     "file": "0056.json",
+     "ref": "55",
+     "title": "55",
+     "segments": 2
+    },
+    {
+     "file": "0057.json",
+     "ref": "56",
+     "title": "56",
+     "segments": 2
+    },
+    {
+     "file": "0058.json",
+     "ref": "57",
+     "title": "57",
+     "segments": 2
+    },
+    {
+     "file": "0059.json",
+     "ref": "58",
+     "title": "58",
+     "segments": 2
+    },
+    {
+     "file": "0060.json",
+     "ref": "59",
+     "title": "59",
+     "segments": 2
+    },
+    {
+     "file": "0061.json",
+     "ref": "60",
+     "title": "60",
+     "segments": 2
+    },
+    {
+     "file": "0062.json",
+     "ref": "61",
+     "title": "61",
+     "segments": 2
+    },
+    {
+     "file": "0063.json",
+     "ref": "62",
+     "title": "62",
+     "segments": 2
+    },
+    {
+     "file": "0064.json",
+     "ref": "63",
+     "title": "63",
+     "segments": 2
+    },
+    {
+     "file": "0065.json",
+     "ref": "64",
+     "title": "64",
+     "segments": 2
+    },
+    {
+     "file": "0066.json",
+     "ref": "65",
+     "title": "65",
+     "segments": 2
+    },
+    {
+     "file": "0067.json",
+     "ref": "66",
+     "title": "66",
+     "segments": 2
+    },
+    {
+     "file": "0068.json",
+     "ref": "67",
+     "title": "67",
+     "segments": 2
+    },
+    {
+     "file": "0069.json",
+     "ref": "68",
+     "title": "68",
+     "segments": 2
+    },
+    {
+     "file": "0070.json",
+     "ref": "69",
+     "title": "69",
+     "segments": 2
+    },
+    {
+     "file": "0071.json",
+     "ref": "70",
+     "title": "70",
+     "segments": 2
+    },
+    {
+     "file": "0072.json",
+     "ref": "71",
+     "title": "71",
+     "segments": 2
+    },
+    {
+     "file": "0073.json",
+     "ref": "72",
+     "title": "72",
+     "segments": 2
+    },
+    {
+     "file": "0074.json",
+     "ref": "73",
+     "title": "73",
+     "segments": 2
+    },
+    {
+     "file": "0075.json",
+     "ref": "74",
+     "title": "74",
+     "segments": 5
+    },
+    {
+     "file": "0076.json",
+     "ref": "75",
+     "title": "75",
+     "segments": 2
+    },
+    {
+     "file": "0077.json",
+     "ref": "76",
+     "title": "76",
+     "segments": 2
+    },
+    {
+     "file": "0078.json",
+     "ref": "77",
+     "title": "77",
+     "segments": 2
+    },
+    {
+     "file": "0079.json",
+     "ref": "78",
+     "title": "78",
+     "segments": 2
+    },
+    {
+     "file": "0080.json",
+     "ref": "79",
+     "title": "79",
+     "segments": 2
+    },
+    {
+     "file": "0081.json",
+     "ref": "80",
+     "title": "80",
+     "segments": 2
+    },
+    {
+     "file": "0082.json",
+     "ref": "81",
+     "title": "81",
+     "segments": 2
+    },
+    {
+     "file": "0083.json",
+     "ref": "82",
+     "title": "82",
+     "segments": 2
+    },
+    {
+     "file": "0084.json",
+     "ref": "83",
+     "title": "83",
+     "segments": 2
+    },
+    {
+     "file": "0085.json",
+     "ref": "84",
+     "title": "84",
+     "segments": 2
+    },
+    {
+     "file": "0086.json",
+     "ref": "p2",
+     "title": "p2",
+     "segments": 5
+    },
+    {
+     "file": "0087.json",
+     "ref": "p3",
+     "title": "p3",
+     "segments": 4
+    },
+    {
+     "file": "0088.json",
+     "ref": "p4",
+     "title": "p4",
+     "segments": 1
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 84,
+  "onlyInOriginal": 1,
+  "onlyInEnglish": 4
+ }
+}

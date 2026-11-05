@@ -1,0 +1,90 @@
+{
+ "workId": "papias-fragments",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "papias-anf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Fragments of Papias, in The Ante-Nicene Fathers, vol. 1 (The Apostolic Fathers with Justin Martyr and Irenaeus) (American edition, ed. A. Cleveland Coxe), trans. Various, as printed in the 1885 volume (the Wikisource copy credits 'Philip Schaff et al.' and does not name individual translators on the page); series editors Alexander Roberts and James Donaldson (Buffalo: Christian Literature Publishing Co., 1885). Wikisource contributors, English Wikisource (Ante-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/Fragments_of_Papias",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 15481,
+   "sourceSha256": "ddc215a0eba8c9b64d80823b4571d2541deca181dde99b31db41bd00b6ac1ee8",
+   "leftOut": {
+    "note": 31
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume I/Fragments of Papias",
+     "bytes": 15481,
+     "sha256": "ddc215a0eba8c9b64d80823b4571d2541deca181dde99b31db41bd00b6ac1ee8"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "s2",
+     "title": "I. From the exposition of the oracles of the Lord.",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "s3",
+     "title": "II.",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "s4",
+     "title": "III.",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "s5",
+     "title": "IV.",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "s6",
+     "title": "V.",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "s7",
+     "title": "VI.",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "s8",
+     "title": "VII.",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "s9",
+     "title": "VIII.",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "s10",
+     "title": "IX.",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "s11",
+     "title": "X.",
+     "segments": 1
+    }
+   ]
+  }
+ ]
+}

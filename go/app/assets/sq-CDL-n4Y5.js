@@ -1,0 +1,1 @@
+import{i as e}from"./index-DRjGlota.js";export{e as adapter};

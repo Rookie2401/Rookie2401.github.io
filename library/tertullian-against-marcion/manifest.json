@@ -1,0 +1,1784 @@
+{
+ "workId": "tertullian-against-marcion",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "csel47-kroymann-marcionem",
+   "role": "original",
+   "language": "latin",
+   "credit": "Adversus Marcionem, in Corpus Scriptorum Ecclesiasticorum Latinorum, vol. 47 (Tertulliani opera, pars III), ed. Emil Kroymann (Prague; Vienna; Leipzig: F. Tempsky; G. Freytag, 1906). University of Leipzig / Open Greek and Latin (csel-dev), CC BY-SA 4.0; text of the CSEL volume as cited (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0275/stoa006/stoa0275.stoa006.opp-lat2.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1217603,
+   "sourceSha256": "d0869cd3c1cf2303f5a4d077555a0fd329a6a47f7406c2d3c482b6aa5048937e",
+   "leftOut": {
+    "lb": 9613,
+    "note": 762,
+    "pb": 360,
+    "milestone": 16
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 83081,
+    "garbledPerThousand": 0.1,
+    "joinedPerThousand": 0.1,
+    "numbersPerThousand": 0.1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 30
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 30
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 25
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "LIBER QVARTVS.",
+     "segments": 43
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 22
+    }
+   ]
+  },
+  {
+   "editionId": "anf3-holmes-marcion",
+   "role": "english",
+   "language": "english",
+   "credit": "The Five Books Against Marcion, in The Ante-Nicene Fathers, vol. III (American edition, ed. A. Cleveland Coxe), Tertullian, trans. Peter Holmes (Buffalo: Christian Literature Publishing Co., 1885). Wikisource contributors, \"Ante-Nicene Fathers\" (Peter Holmes), en.wikisource.org, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_III/Anti-Marcion/The_Five_Books_Against_Marcion",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1203979,
+   "sourceSha256": "f9b2497bdbdfd0419e05f8948d50d9b7b58d5dc160a58b27715cb8bdaac94c37",
+   "leftOut": {
+    "note": 3815
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Introductory Notes",
+     "bytes": 11554,
+     "sha256": "a15cc83c1d83e89781014bdb740daba10fb7ef1d297e3eabda6c8b45a868cff6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/I",
+     "bytes": 7292,
+     "sha256": "06a4393dd90f5d185d2ac529bdedfd28c59105b31060510cb6c572b829d7005a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/II",
+     "bytes": 3202,
+     "sha256": "67f3f4da31201b0b7465584fddfee1f97ac8a1de9308fc6375f97930c26c6043"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/III",
+     "bytes": 3907,
+     "sha256": "92e3feef4fdaf75fac44c5a3a998207d2528bde90f24d73263c0e18f00d9a975"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/IV",
+     "bytes": 4274,
+     "sha256": "b6be62b6ae97b580d53602e10c0144f9d177e62aa75c0ae6462340b2ff7b3dc3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/V",
+     "bytes": 3428,
+     "sha256": "0f89b4390d4ef3e9aa8be2edfd2c5f455a9ad85ce0c563b22086f5f5b13d51b2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/VI",
+     "bytes": 3327,
+     "sha256": "d871d0a5229feef73247665a02e76ed3193f1ebec3d2e7fe0c07ccd64de93baa"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/VII",
+     "bytes": 4580,
+     "sha256": "0782fd448a418701ab86d43eb1672f6283d6610cbf75c030fb802510474f2fdf"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/VIII",
+     "bytes": 3199,
+     "sha256": "79809951cf55ee7a1c209c4614f9d325d1cbc142341ed025de0c183905494282"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/IX",
+     "bytes": 6715,
+     "sha256": "8bea86fb2791fe744534c74eac6f1fa04073afea0f5a01fb6688e26de2adbb12"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/X",
+     "bytes": 2891,
+     "sha256": "876a7f63b90e5253d357fc4ecc3c930e2718c7bc962774c445956e845a55ed25"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/XI",
+     "bytes": 6261,
+     "sha256": "615c17b99e8621b9550a3cd9c3e60c069ae8dc7df4575438e0f0d9e7b1693463"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/XII",
+     "bytes": 3605,
+     "sha256": "3717485e1bf96749982b87710f26a33c4bf633d03f4c7fe0bb8dc3faae2de878"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/XIII",
+     "bytes": 5872,
+     "sha256": "2728862050fb073bf9df9a91801e4772564dd1538fddd8ae38247d8e0cd81d13"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/XIV",
+     "bytes": 3808,
+     "sha256": "1a8bc9b6f68b2a0a1397fc70007b34607d5979daf8a8a2cc317539b510525900"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/XV",
+     "bytes": 5756,
+     "sha256": "78aaa9560faea0455590049add130589b964a1a63f1e7cea1be55ddca2c39544"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/XVI",
+     "bytes": 3575,
+     "sha256": "38aa846cb32b16800788ff69be9443e41685a01839fefd518a40dcb7ad66e0b3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/XVII",
+     "bytes": 3626,
+     "sha256": "410f428911de94c06d5f5b91979527898ab0ad4f37922b1835cfe80a194e32c7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/XVIII",
+     "bytes": 3622,
+     "sha256": "92dfa5ef35644cef9c29504dd658fa37e2f54176fb82e6b3c1b36b95acda100e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/XIX",
+     "bytes": 4206,
+     "sha256": "f70a6f2ce394b0e19814315fbd2f1158ad39989b9c318ccbed82d816474e9263"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/XX",
+     "bytes": 4921,
+     "sha256": "20c57fa2a5c291de9fc45e13f818aade09302404f43a05a0dd3d9ac42a980bf5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/XXI",
+     "bytes": 4283,
+     "sha256": "1131466921e4742805e3e887a3357c5061e06a0489eb654e4b2763290aa2f339"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/XXII",
+     "bytes": 7008,
+     "sha256": "547aa6a7fa320a3fb71e6c0d7302c34e5a2ca663725799be89499b41f9dc57c7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/XXIII",
+     "bytes": 8023,
+     "sha256": "6b4ecd88a56009736a791107f3c8cabb43865ca0fc52a8203944d35682a5ddfe"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/XXIV",
+     "bytes": 7396,
+     "sha256": "aa1868252a8c22cb3fa58853f92b82c2c21a8010d70a12284b54358421f81423"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/XXV",
+     "bytes": 5434,
+     "sha256": "c67acf07e0484e10c7eab7deef7310b4d33611d68684d828a4274c6483f11df5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/XXVI",
+     "bytes": 4387,
+     "sha256": "7625bbd217486e9eda1bf64afc5fd35c6864a610f3aa173e90c87bf1425ca954"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/XXVII",
+     "bytes": 5807,
+     "sha256": "53a501e588184e41b612a4dda4e266a829d5d9628e22a5a31e8b388293987ba9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/XXVIII",
+     "bytes": 3488,
+     "sha256": "aa956c2f547a9b529cc9a4d13e0978f89b0cf01a9aa27723d202deca2bbf220a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book I/XXIX",
+     "bytes": 7974,
+     "sha256": "6a31f7e7779753ca16df8294d24cde05acbb850c4b4c42f3a48bb27a94774f7c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/I",
+     "bytes": 2805,
+     "sha256": "34bcd5c3dd64d373f921ea185fac7048eb52b6b304b395089f88f501c0dab1ee"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/II",
+     "bytes": 6688,
+     "sha256": "faecd16f085c2aa4805c5fb14ac44dc16354c7b375712154efb11e75463e2dfd"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/III",
+     "bytes": 4067,
+     "sha256": "9a34898c6ec462caaa6b371ca395e4d3359269f1de3d1f257b265408da228ba1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/IV",
+     "bytes": 8044,
+     "sha256": "7c1ad17e5aa82f88df106e15cd9e183443bdc3f6e6702dc222f9900b847fa272"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/V",
+     "bytes": 4753,
+     "sha256": "340e6770111f9be7d358532034c49583a7361e6e88045a49e0dd9d1bbcb70252"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/VI",
+     "bytes": 8048,
+     "sha256": "1ae326040e5855ce543c74785475910c20e36d7dbb7d296f3a843697c3eda8a7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/VII",
+     "bytes": 4210,
+     "sha256": "1a0f96b20f6ab42c4e0fb388c0441c36b970cd7fd7c632079f1b70d0fbb16ccb"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/VIII",
+     "bytes": 2592,
+     "sha256": "4534a14f05ba73ac06a9569e06799f0a195848267bd1fa56b0ebd959c68ca09f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/IX",
+     "bytes": 7416,
+     "sha256": "1e5436514b637574311df0079a2127d1a68acff3279810f6bc094750d91cb363"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/X",
+     "bytes": 6017,
+     "sha256": "ba44aded7f1aed8ee89ac9ccad1403c71603d833d313861fe0943aa86d894c56"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/XI",
+     "bytes": 3551,
+     "sha256": "60a00914872f51af91c6358c0f017a3e8875f8e27e384731134f9d30ddd3fc3f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/XII",
+     "bytes": 2589,
+     "sha256": "d8aff8a7afef1254b3cfc0463a615929a82a3dbfbf7600b6af1ce7fd9e2d0bcb"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/XIII",
+     "bytes": 4380,
+     "sha256": "5a8341bb6eb33976c0a86890d6961673b442c6b2b47f6943644fc9c2f38d28b2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/XIV",
+     "bytes": 3762,
+     "sha256": "7dd2b06e9b8a37248ac88c2122a31ff0e18f830ed7a8aaf854f246f77f362022"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/XV",
+     "bytes": 2808,
+     "sha256": "38ebe47d8e875c9735564e9db390bca3a51c2ffa56290daee968a7ba77d88475"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/XVI",
+     "bytes": 6217,
+     "sha256": "e9a257c65e89a296507ac31b2a799cef2709aad537cf3068b9a2da697b167885"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/XVII",
+     "bytes": 4040,
+     "sha256": "f03c3efec652ac3599501506837a84a2daa34decc25974a834e01478e2180a59"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/XVIII",
+     "bytes": 3945,
+     "sha256": "3adddfee421fcc34748c5a1ff74dcfb0a8945633adf6e879b8451f005c41f35a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/XIX",
+     "bytes": 5267,
+     "sha256": "659d2136d6235b013e6bad65ccefb52f06c5dbc1fd94952eadef68a3a29f83fd"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/XX",
+     "bytes": 6430,
+     "sha256": "06e9e5e397a4ad680d92acc13602b92f6fe040949fed25b058318ae8efc9c81d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/XXI",
+     "bytes": 2443,
+     "sha256": "8fe32cca041022e0670e5c14de8cd75ad2425595bb431eb970f092767ed9e7e5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/XXII",
+     "bytes": 4144,
+     "sha256": "dab53f617dd46024473a56262d8542b291a567f8f5abe1b9f83f2a03cdd18a7e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/XXIII",
+     "bytes": 2536,
+     "sha256": "7b17565ca3453dc72d5ca7be0e3de25583ccc8c87c37f068bc5a1c342a2ef972"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/XXIV",
+     "bytes": 7940,
+     "sha256": "13ad5219a695ebf87ee832da79b8e1ddf7b955c8595b5a7f66a4c5f323642c68"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/XXV",
+     "bytes": 5444,
+     "sha256": "baea35559f5ce5f6bd986d4294eeff24d47b12af6d06a63ab96515d09d0fc069"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/XXVI",
+     "bytes": 3175,
+     "sha256": "c5015407571a03a8e20b961f068906cad273ec01baa8f5fb534335ec3eb4fb61"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/XXVII",
+     "bytes": 8218,
+     "sha256": "fe49fd744866054691b3c95d8f74f3ace3031a72075afa46d88aa8a5c06ebf81"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/XXVIII",
+     "bytes": 4273,
+     "sha256": "1796c583de5d904b50380c1ebd9b028c6ddffeb084cda8818b576d81ce28857e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book II/XXIX",
+     "bytes": 4894,
+     "sha256": "559802fe40056cf26ac9dc8c46d1a6fe5e56feb801cf0c0f46a4b74ce527eabb"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book III/I",
+     "bytes": 4037,
+     "sha256": "beece3065919d2c52b04d96a178b0070eb9964095b4279d3056932d51e447ca7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book III/II",
+     "bytes": 3156,
+     "sha256": "111965f57bd925919d37935e0fe0d8d0d7811334183822b5ea89025538a3813f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book III/III",
+     "bytes": 4211,
+     "sha256": "2541628b89928265dc42bfdfbed0fbbdd11fa9a74a3aae0ae0d916c501af1d5f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book III/IV",
+     "bytes": 5540,
+     "sha256": "27973899ab9ecfa01f2fafccbdcaab883ff5b295462015b36157781220418ca7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book III/V",
+     "bytes": 4821,
+     "sha256": "3f8910612b89a4d598196399a18e2dbef2db9c857a284b2bb58eb54e0053b271"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book III/VI",
+     "bytes": 9639,
+     "sha256": "d4e54607b0d5b53da6ba14bc33b16a211a7852e58fe204c3cf730d3a5ba0e3ec"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book III/VII",
+     "bytes": 7550,
+     "sha256": "2cfcb3e2e60e88c07f48b2e1bf57358ba70f0b6372ecddf0ecd1b9f688ad35a8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book III/VIII",
+     "bytes": 5725,
+     "sha256": "9cb812205641f149cb4b223ff8d56a8edfafc8a6bd6fb62990cb486ec636df9e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book III/IX",
+     "bytes": 4707,
+     "sha256": "08f127adee751a39d868af09ca21f625bbcee1946a1b3216fa8072f327d9332a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book III/X",
+     "bytes": 2848,
+     "sha256": "abffd9aa90476a97f874afb5e189b7e0caf6a55da6baaa47aafd3402fbe2f1c9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book III/XI",
+     "bytes": 5715,
+     "sha256": "713630733be4767a41e90d7a1081656643dd5257bd4922b5295089a6d9ae440a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book III/XII",
+     "bytes": 2672,
+     "sha256": "8edbece20fbe1aa133eeb41584e7fef223e52a1ab66713643e011bb998b81108"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book III/XIII",
+     "bytes": 9359,
+     "sha256": "b261c28c78cb401f375dd9ae01c9f261eb4586fc53eecf05e67358b81e7db84c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book III/XIV",
+     "bytes": 4778,
+     "sha256": "3c4e3440a57d49a1fcc38e88ef00aaf9942362749ccb36395db2b6a43254fefd"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book III/XV",
+     "bytes": 5127,
+     "sha256": "28c5ad66c252376b7a176293cbbcb56c063fd25d7b36093026efbf6ab69c1f17"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book III/XVI",
+     "bytes": 5195,
+     "sha256": "e0b69161695a878b0ed4a824d55b77616146b96185ae472c07e3c0fb97ac765c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book III/XVII",
+     "bytes": 4187,
+     "sha256": "d0d45e1782a39e8359fc622ddbb012395aac797ca22d6d59c8ca0a8949feb8a6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book III/XVIII",
+     "bytes": 6087,
+     "sha256": "984e5d7957295509b6dac894e8aae5a2ad2c2ca43d907de1af98d6967b2abaed"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book III/XIX",
+     "bytes": 5395,
+     "sha256": "5407c70b6a0773c10a783c47599dbfffd77f5a00cd741595f4503fdbba2128e3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book III/XX",
+     "bytes": 7198,
+     "sha256": "3eb29f0545b9dbd3873560fa14c979f722478a48415dd2d53a1a9f4b8215ce6f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book III/XXI",
+     "bytes": 5028,
+     "sha256": "dcf136c54b11e0861075a32ea671fddf9b35b53d02aa26cda3170df73321ab4f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book III/XXII",
+     "bytes": 6694,
+     "sha256": "9944879828a17f8f637cda0f633056b75e90b65217d7572ab1b3703db47bce4e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book III/XXIII",
+     "bytes": 6305,
+     "sha256": "3d04194340af1b15bee1e1b7acdb42c4ba3fc517ff11abb76ad1ae17b0280dda"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book III/XXIV",
+     "bytes": 11392,
+     "sha256": "ba80ffa597060d9d5d18a9579aa5f174ae22073006e13204841579811bd93e19"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/I",
+     "bytes": 11111,
+     "sha256": "de1a3708fee1b57cffce531711568c11916eebf9059a1533c518014c4edd6115"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/II",
+     "bytes": 6046,
+     "sha256": "73310ee5a781bf1102fc573c557daffb9a9ccd4070141bc8172b62e2aff3b585"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/III",
+     "bytes": 4312,
+     "sha256": "fbcb8cbe68b7f85038bd045a81bb25282b1e8285e2b531a90ce9ef2619cdb52b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/IV",
+     "bytes": 5374,
+     "sha256": "3dd059937606ae161ef194fadf5f1a2933adafe16354ec6c9ffe73c80bb3d4f4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/V",
+     "bytes": 7388,
+     "sha256": "b3b589ec9d632a0fc287afe7d8c123685447054c9759a99c0b4ec2af2f6e0225"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/VI",
+     "bytes": 3673,
+     "sha256": "d85ef79f678b52ce40ae22100918dd1de3c4f0d59587606b35bc0644d52ae38d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/VII",
+     "bytes": 14091,
+     "sha256": "95bf6957294dd64cc279123cdadf17e1f8cbf91b73218f1eff7c89d43bb87bba"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/VIII",
+     "bytes": 7874,
+     "sha256": "82f47fdda327723980c2a3b865dd8e618e0c0c83ff36220af00185558c0ba1ed"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/IX",
+     "bytes": 14369,
+     "sha256": "e798205aeec5eaaab7ebdb48c11d19652e317ae0cae67935d013ce76523703c3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/X",
+     "bytes": 12965,
+     "sha256": "c04d4e225a9ec35f111be65503c22b647f6304176f32e214661c804385423494"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XI",
+     "bytes": 11138,
+     "sha256": "803f976c26d7f4816d97ece199d7904224c7f9618fdf040219797b1457e75fac"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XII",
+     "bytes": 13850,
+     "sha256": "a424678e4ac940ef77b209285247bd311ed7a008ff4c3a73d8ff399f1224dae8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XIII",
+     "bytes": 7099,
+     "sha256": "13e17c981a958c2a9cb5157a250d4a8553c25f99794b304f7a57630cc1c5b9f6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XIV",
+     "bytes": 12616,
+     "sha256": "2940e38ef4d3c543d3d9cddc31ef06d0b45f25d2121e2d6388981931ebb83a0f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XV",
+     "bytes": 13338,
+     "sha256": "47a9bdb6b351077c4b0035e2e20d53a1c371fc524adc79e2ec33e5b612973513"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XVI",
+     "bytes": 16309,
+     "sha256": "c8ec00dd6c14ee26208faec863aee45d0d69846858cd941a2a0c0b4bde1bc6bd"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XVII",
+     "bytes": 11472,
+     "sha256": "3519b2abb6b12cd7578cdbeb8689b7006c62e57eeb804ed4b99fd066bf49c7f4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XVIII",
+     "bytes": 12975,
+     "sha256": "9f072bf785a5ba06a12964d4789f9b232aade85f465168da897498ca6e2ef203"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XIX",
+     "bytes": 13367,
+     "sha256": "3a6b5ab24290fe15c7feac2e5041b1ab2e1c184d1b9f97beca9d6ab74699e7f5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XX",
+     "bytes": 11902,
+     "sha256": "2b26fe83529709891c378254f00591699c260945f0b938319aff56dc5b4f77e9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XXI",
+     "bytes": 13500,
+     "sha256": "66683bc1888c02f2437eafb783bce5b3b93bf4c5ba4e3fb75fbcdacb4129be88"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XXII",
+     "bytes": 16779,
+     "sha256": "edbd3bd3dcf4d8836cec00bbdc84020d54063d5184886764843189798af4044d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XXIII",
+     "bytes": 9550,
+     "sha256": "2e5033fdb5b4cf58f78611ccb566546fb0cb2084782a0f3fad073387cd8eef3e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XXIV",
+     "bytes": 10921,
+     "sha256": "4a1eb12b136cafc4eddc4fb9555a3cbe2730a5c783225180ecb13d650aaa3d4d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XXV",
+     "bytes": 15057,
+     "sha256": "bf09def7e4e1615cf01924720f0273ce2c8acaf42e1ffca5b812c1ebca897b16"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XXVI",
+     "bytes": 11831,
+     "sha256": "272086e8d76205a4b559b012733279ab746f54694401042a46060893cd322473"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XXVII",
+     "bytes": 9675,
+     "sha256": "936a7adb7db4fdaa391d88b0a9e56ed2208e28ffb1025899fb9dd73e945ec3da"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XXVIII",
+     "bytes": 9893,
+     "sha256": "ccfdecd646fcda18cd3f03e6dc231d93ea5674ca4059d20167d6909c019269e6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XXIX",
+     "bytes": 16345,
+     "sha256": "5ab61663e311dbe2f7955f0de34fea815a62b9be06fc2e69ca889921e971a789"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XXX",
+     "bytes": 5528,
+     "sha256": "c3042cbc55fb443b8c8da7bc3a192d3d4956aaa196020011fa9da695a39c2976"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XXXI",
+     "bytes": 9207,
+     "sha256": "8ec1c2aee5ad680747f5ad6e96c2336e09988e0c5d06d97c499c7f4a683441d4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XXXII",
+     "bytes": 1667,
+     "sha256": "fd63a80cf2cdd27f4daefde374d59d18198ac3dc6b8aea75807b249beea2a681"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XXXIII",
+     "bytes": 9811,
+     "sha256": "7860dd51fad71e0f38d6575f30a07e2db5d087a52b25a43c4ca381254aa2390d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XXXIV",
+     "bytes": 15513,
+     "sha256": "8cb99a3688764ae0751655195b0dd1b468b1080e8b481441336572f4f0c1a2d8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XXXV",
+     "bytes": 15584,
+     "sha256": "bb4429d1078455b5639ec5643fa4da4e806ad2e7ba79699375b2f80c4b9d13c0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XXXVI",
+     "bytes": 12442,
+     "sha256": "368f530712bd4d9fb869e745edf5ff9c5bba4845d194e011765920b0a13ffabc"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XXXVII",
+     "bytes": 5314,
+     "sha256": "aada0ae94585b1891766fca61705555c2adf1b3da922b1f57c610ed347ed3ab7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XXXVIII",
+     "bytes": 11602,
+     "sha256": "fe7dddb187ffd3e0bffe76aaf6360b8b25b649524fcacd236ebb77df5100ad09"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XXXIX",
+     "bytes": 18151,
+     "sha256": "b2bf24fb9ef760f17288967d6f1dd7304312e115d1c03e8d1027066385df69ba"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XL",
+     "bytes": 8891,
+     "sha256": "305099c7b2174405d81029883038077f9dc21d867dd8c0b7165551ff511781fd"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XLI",
+     "bytes": 6933,
+     "sha256": "daf2b915917d9032abe3b2bfa5d7328d5d05514555573fc388453fd3792b6e34"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XLII",
+     "bytes": 10329,
+     "sha256": "b94f3984501a1cd0392e8f94a4073e5325847d17b3f00b1c2f30177bb7d92688"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/XLIII",
+     "bytes": 8535,
+     "sha256": "4d107b56fa762ab3860514345b89162321404bf63e2a3372a973da3bfc50f009"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/Dr. Holmes' Note",
+     "bytes": 10943,
+     "sha256": "7fb8e46968a39b1e230be85fee77e337cedb95cd6103bf20c4969ac5b089b52f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/Elucidations",
+     "bytes": 14516,
+     "sha256": "1251bca86d31b9455a6476a9e8e7bc6cdfae9ad9588af377dc733b6a51b55b82"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book IV/Additional Note",
+     "bytes": 866,
+     "sha256": "5f99203035b27770e3151321acbfd42289e6eb8ebdb33f7380a447c278ce9f36"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book V/I",
+     "bytes": 12917,
+     "sha256": "7c59fc2dcbc3b79dc1f4928c67d6ccf3a3079a545aa072fedcf1d3c182a35fa9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book V/II",
+     "bytes": 9651,
+     "sha256": "499ead656e0b7c199167b477d0c493fb36083ff9eafa58279ade85fe68e66bb7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book V/III",
+     "bytes": 14528,
+     "sha256": "9a8cc97d95a6e636cd1cc7d5f34890433730f58449f92911b8d8aebc6d440d47"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book V/IV",
+     "bytes": 18565,
+     "sha256": "e19e3d03ac88c989f39211ab24bcc9071128c5ffa5fbabbf81e22f99bb8985bf"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book V/V",
+     "bytes": 11830,
+     "sha256": "57ec6866c73f74c93ce713e7a25a4d6f216f8f2f9754f067afedf449cf8f80fd"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book V/VI",
+     "bytes": 12792,
+     "sha256": "494997a90571b53af98faaf774905a52100631cd8283969ef3b2c52b841b6587"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book V/VII",
+     "bytes": 14130,
+     "sha256": "a81ce1ab0a16577d75e8634c6a215d9fa12b3cad4846157b08facb067d4cff8a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book V/VIII",
+     "bytes": 13013,
+     "sha256": "93bcac9d212ce71ed21cc7df9f44d48611fc925bafbde8283465460e13383256"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book V/IX",
+     "bytes": 15032,
+     "sha256": "a96aeb59f1ef81ab5162294c145acf3c90eec5670b4e29690d7926ca376820ab"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book V/X",
+     "bytes": 18798,
+     "sha256": "3d434736c04683e757f7c374dd12a3c866e4a242621d770c6a20364b6c5943fb"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book V/XI",
+     "bytes": 18135,
+     "sha256": "950b64393bde4230a630fea46385d53daf7c5095b3d0985155781a4b85eff968"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book V/XII",
+     "bytes": 9512,
+     "sha256": "8ae91cc00577b65eb5a77c2fc9b12f7e22b43550ff5069f05a820f3bc0fc3b78"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book V/XIII",
+     "bytes": 14671,
+     "sha256": "a6ebabb4d599014a4ea7cd5ac97a3103779d4d559531cb2009796c7237013b8e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book V/XIV",
+     "bytes": 16964,
+     "sha256": "478dfaf9c241d1609c8215ba5da5db6baee50bec997faacea7d6c12f5cd0e369"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book V/XV",
+     "bytes": 10751,
+     "sha256": "a0cf3e89cee57fbf4e268910abe8e66125ffbd3d9758400ff9d2105163723908"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book V/XVI",
+     "bytes": 9478,
+     "sha256": "c8edc817812be2eb0e7ce6bd987ee313996271b1051a73a5cb27c84a68749f12"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book V/XVII",
+     "bytes": 16418,
+     "sha256": "904ed93708a76867a5d00349b346d225ec597695d05459d436935f25d942ac63"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book V/XVIII",
+     "bytes": 15306,
+     "sha256": "3bf334b3514af554e4a8935764176588c48740da137f98d9178068d196535b46"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book V/XIX",
+     "bytes": 12853,
+     "sha256": "c09e441eab592c483ecc84c090c061b7fe3c8ebfd8bafd6099d16ce338fc14ed"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book V/XX",
+     "bytes": 8883,
+     "sha256": "a0db3123adb687cecebd99da349cd4b8325fd417dcbef275bfe09776c8bc8720"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book V/XXI",
+     "bytes": 1921,
+     "sha256": "17ae0e86800a2d1d277bdabb442fd3f400020c3e857c801f1220d4236b7a6ef8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume III/Anti-Marcion/The Five Books Against Marcion/Book V/Elucidations",
+     "bytes": 5696,
+     "sha256": "c3511a11ebb46f7b95fafd9fba719cf0ab67e2fb6353f701bc158c86da16400c"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 17
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.1",
+     "title": "1.1",
+     "segments": 7
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.2",
+     "title": "1.2",
+     "segments": 3
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.3",
+     "title": "1.3",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.4",
+     "title": "1.4",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.5",
+     "title": "1.5",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.6",
+     "title": "1.6",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.7",
+     "title": "1.7",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.8",
+     "title": "1.8",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.9",
+     "title": "1.9",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.10",
+     "title": "1.10",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.11",
+     "title": "1.11",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.12",
+     "title": "1.12",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.13",
+     "title": "1.13",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.14",
+     "title": "1.14",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.15",
+     "title": "1.15",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.16",
+     "title": "1.16",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.17",
+     "title": "1.17",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.18",
+     "title": "1.18",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.19",
+     "title": "1.19",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.20",
+     "title": "1.20",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.21",
+     "title": "1.21",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.22",
+     "title": "1.22",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.23",
+     "title": "1.23",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.24",
+     "title": "1.24",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.25",
+     "title": "1.25",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.26",
+     "title": "1.26",
+     "segments": 3
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.27",
+     "title": "1.27",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.28",
+     "title": "1.28",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.29",
+     "title": "1.29",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "2.1",
+     "title": "2.1",
+     "segments": 4
+    },
+    {
+     "file": "0032.json",
+     "ref": "2.2",
+     "title": "2.2",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "2.3",
+     "title": "2.3",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "2.4",
+     "title": "2.4",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "2.5",
+     "title": "2.5",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "2.6",
+     "title": "2.6",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "2.7",
+     "title": "2.7",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "2.8",
+     "title": "2.8",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "2.9",
+     "title": "2.9",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "2.10",
+     "title": "2.10",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "2.11",
+     "title": "2.11",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "2.12",
+     "title": "2.12",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "2.13",
+     "title": "2.13",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "2.14",
+     "title": "2.14",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "2.15",
+     "title": "2.15",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "2.16",
+     "title": "2.16",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "2.17",
+     "title": "2.17",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "2.18",
+     "title": "2.18",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "2.19",
+     "title": "2.19",
+     "segments": 2
+    },
+    {
+     "file": "0050.json",
+     "ref": "2.20",
+     "title": "2.20",
+     "segments": 2
+    },
+    {
+     "file": "0051.json",
+     "ref": "2.21",
+     "title": "2.21",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "2.22",
+     "title": "2.22",
+     "segments": 2
+    },
+    {
+     "file": "0053.json",
+     "ref": "2.23",
+     "title": "2.23",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "2.24",
+     "title": "2.24",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "2.25",
+     "title": "2.25",
+     "segments": 2
+    },
+    {
+     "file": "0056.json",
+     "ref": "2.26",
+     "title": "2.26",
+     "segments": 2
+    },
+    {
+     "file": "0057.json",
+     "ref": "2.27",
+     "title": "2.27",
+     "segments": 2
+    },
+    {
+     "file": "0058.json",
+     "ref": "2.28",
+     "title": "2.28",
+     "segments": 2
+    },
+    {
+     "file": "0059.json",
+     "ref": "2.29",
+     "title": "2.29",
+     "segments": 2
+    },
+    {
+     "file": "0060.json",
+     "ref": "3.1",
+     "title": "3.1",
+     "segments": 4
+    },
+    {
+     "file": "0061.json",
+     "ref": "3.2",
+     "title": "3.2",
+     "segments": 2
+    },
+    {
+     "file": "0062.json",
+     "ref": "3.3",
+     "title": "3.3",
+     "segments": 2
+    },
+    {
+     "file": "0063.json",
+     "ref": "3.4",
+     "title": "3.4",
+     "segments": 2
+    },
+    {
+     "file": "0064.json",
+     "ref": "3.5",
+     "title": "3.5",
+     "segments": 2
+    },
+    {
+     "file": "0065.json",
+     "ref": "3.6",
+     "title": "3.6",
+     "segments": 2
+    },
+    {
+     "file": "0066.json",
+     "ref": "3.7",
+     "title": "3.7",
+     "segments": 2
+    },
+    {
+     "file": "0067.json",
+     "ref": "3.8",
+     "title": "3.8",
+     "segments": 2
+    },
+    {
+     "file": "0068.json",
+     "ref": "3.9",
+     "title": "3.9",
+     "segments": 2
+    },
+    {
+     "file": "0069.json",
+     "ref": "3.10",
+     "title": "3.10",
+     "segments": 2
+    },
+    {
+     "file": "0070.json",
+     "ref": "3.11",
+     "title": "3.11",
+     "segments": 2
+    },
+    {
+     "file": "0071.json",
+     "ref": "3.12",
+     "title": "3.12",
+     "segments": 2
+    },
+    {
+     "file": "0072.json",
+     "ref": "3.13",
+     "title": "3.13",
+     "segments": 3
+    },
+    {
+     "file": "0073.json",
+     "ref": "3.14",
+     "title": "3.14",
+     "segments": 2
+    },
+    {
+     "file": "0074.json",
+     "ref": "3.15",
+     "title": "3.15",
+     "segments": 2
+    },
+    {
+     "file": "0075.json",
+     "ref": "3.16",
+     "title": "3.16",
+     "segments": 2
+    },
+    {
+     "file": "0076.json",
+     "ref": "3.17",
+     "title": "3.17",
+     "segments": 2
+    },
+    {
+     "file": "0077.json",
+     "ref": "3.18",
+     "title": "3.18",
+     "segments": 2
+    },
+    {
+     "file": "0078.json",
+     "ref": "3.19",
+     "title": "3.19",
+     "segments": 2
+    },
+    {
+     "file": "0079.json",
+     "ref": "3.20",
+     "title": "3.20",
+     "segments": 2
+    },
+    {
+     "file": "0080.json",
+     "ref": "3.21",
+     "title": "3.21",
+     "segments": 2
+    },
+    {
+     "file": "0081.json",
+     "ref": "3.22",
+     "title": "3.22",
+     "segments": 2
+    },
+    {
+     "file": "0082.json",
+     "ref": "3.23",
+     "title": "3.23",
+     "segments": 2
+    },
+    {
+     "file": "0083.json",
+     "ref": "3.24",
+     "title": "3.24",
+     "segments": 2
+    },
+    {
+     "file": "0084.json",
+     "ref": "4.1",
+     "title": "4.1",
+     "segments": 4
+    },
+    {
+     "file": "0085.json",
+     "ref": "4.2",
+     "title": "4.2",
+     "segments": 2
+    },
+    {
+     "file": "0086.json",
+     "ref": "4.3",
+     "title": "4.3",
+     "segments": 2
+    },
+    {
+     "file": "0087.json",
+     "ref": "4.4",
+     "title": "4.4",
+     "segments": 2
+    },
+    {
+     "file": "0088.json",
+     "ref": "4.5",
+     "title": "4.5",
+     "segments": 2
+    },
+    {
+     "file": "0089.json",
+     "ref": "4.6",
+     "title": "4.6",
+     "segments": 2
+    },
+    {
+     "file": "0090.json",
+     "ref": "4.7",
+     "title": "4.7",
+     "segments": 3
+    },
+    {
+     "file": "0091.json",
+     "ref": "4.8",
+     "title": "4.8",
+     "segments": 4
+    },
+    {
+     "file": "0092.json",
+     "ref": "4.9",
+     "title": "4.9",
+     "segments": 2
+    },
+    {
+     "file": "0093.json",
+     "ref": "4.10",
+     "title": "4.10",
+     "segments": 2
+    },
+    {
+     "file": "0094.json",
+     "ref": "4.11",
+     "title": "4.11",
+     "segments": 2
+    },
+    {
+     "file": "0095.json",
+     "ref": "4.12",
+     "title": "4.12",
+     "segments": 2
+    },
+    {
+     "file": "0096.json",
+     "ref": "4.13",
+     "title": "4.13",
+     "segments": 2
+    },
+    {
+     "file": "0097.json",
+     "ref": "4.14",
+     "title": "4.14",
+     "segments": 3
+    },
+    {
+     "file": "0098.json",
+     "ref": "4.15",
+     "title": "4.15",
+     "segments": 2
+    },
+    {
+     "file": "0099.json",
+     "ref": "4.16",
+     "title": "4.16",
+     "segments": 2
+    },
+    {
+     "file": "0100.json",
+     "ref": "4.17",
+     "title": "4.17",
+     "segments": 2
+    },
+    {
+     "file": "0101.json",
+     "ref": "4.18",
+     "title": "4.18",
+     "segments": 2
+    },
+    {
+     "file": "0102.json",
+     "ref": "4.19",
+     "title": "4.19",
+     "segments": 2
+    },
+    {
+     "file": "0103.json",
+     "ref": "4.20",
+     "title": "4.20",
+     "segments": 2
+    },
+    {
+     "file": "0104.json",
+     "ref": "4.21",
+     "title": "4.21",
+     "segments": 2
+    },
+    {
+     "file": "0105.json",
+     "ref": "4.22",
+     "title": "4.22",
+     "segments": 2
+    },
+    {
+     "file": "0106.json",
+     "ref": "4.23",
+     "title": "4.23",
+     "segments": 2
+    },
+    {
+     "file": "0107.json",
+     "ref": "4.24",
+     "title": "4.24",
+     "segments": 3
+    },
+    {
+     "file": "0108.json",
+     "ref": "4.25",
+     "title": "4.25",
+     "segments": 2
+    },
+    {
+     "file": "0109.json",
+     "ref": "4.26",
+     "title": "4.26",
+     "segments": 2
+    },
+    {
+     "file": "0110.json",
+     "ref": "4.27",
+     "title": "4.27",
+     "segments": 2
+    },
+    {
+     "file": "0111.json",
+     "ref": "4.28",
+     "title": "4.28",
+     "segments": 2
+    },
+    {
+     "file": "0112.json",
+     "ref": "4.29",
+     "title": "4.29",
+     "segments": 2
+    },
+    {
+     "file": "0113.json",
+     "ref": "4.30",
+     "title": "4.30",
+     "segments": 2
+    },
+    {
+     "file": "0114.json",
+     "ref": "4.31",
+     "title": "4.31",
+     "segments": 2
+    },
+    {
+     "file": "0115.json",
+     "ref": "4.32",
+     "title": "4.32",
+     "segments": 2
+    },
+    {
+     "file": "0116.json",
+     "ref": "4.33",
+     "title": "4.33",
+     "segments": 2
+    },
+    {
+     "file": "0117.json",
+     "ref": "4.34",
+     "title": "4.34",
+     "segments": 2
+    },
+    {
+     "file": "0118.json",
+     "ref": "4.35",
+     "title": "4.35",
+     "segments": 2
+    },
+    {
+     "file": "0119.json",
+     "ref": "4.36",
+     "title": "4.36",
+     "segments": 2
+    },
+    {
+     "file": "0120.json",
+     "ref": "4.37",
+     "title": "4.37",
+     "segments": 2
+    },
+    {
+     "file": "0121.json",
+     "ref": "4.38",
+     "title": "4.38",
+     "segments": 2
+    },
+    {
+     "file": "0122.json",
+     "ref": "4.39",
+     "title": "4.39",
+     "segments": 3
+    },
+    {
+     "file": "0123.json",
+     "ref": "4.40",
+     "title": "4.40",
+     "segments": 2
+    },
+    {
+     "file": "0124.json",
+     "ref": "4.41",
+     "title": "4.41",
+     "segments": 2
+    },
+    {
+     "file": "0125.json",
+     "ref": "4.42",
+     "title": "4.42",
+     "segments": 2
+    },
+    {
+     "file": "0126.json",
+     "ref": "4.43",
+     "title": "4.43",
+     "segments": 3
+    },
+    {
+     "file": "0127.json",
+     "ref": "4.p1.front",
+     "title": "4.p1.front",
+     "segments": 3
+    },
+    {
+     "file": "0128.json",
+     "ref": "4.p1.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0129.json",
+     "ref": "4.p1.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0130.json",
+     "ref": "4.p1.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0131.json",
+     "ref": "4.p1.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0132.json",
+     "ref": "4.p1.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0133.json",
+     "ref": "4.p1.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0134.json",
+     "ref": "4.p2",
+     "title": "4.p2",
+     "segments": 28
+    },
+    {
+     "file": "0135.json",
+     "ref": "4.p3",
+     "title": "4.p3",
+     "segments": 3
+    },
+    {
+     "file": "0136.json",
+     "ref": "5.1",
+     "title": "5.1",
+     "segments": 4
+    },
+    {
+     "file": "0137.json",
+     "ref": "5.2",
+     "title": "5.2",
+     "segments": 2
+    },
+    {
+     "file": "0138.json",
+     "ref": "5.3",
+     "title": "5.3",
+     "segments": 3
+    },
+    {
+     "file": "0139.json",
+     "ref": "5.4",
+     "title": "5.4",
+     "segments": 4
+    },
+    {
+     "file": "0140.json",
+     "ref": "5.5",
+     "title": "5.5",
+     "segments": 2
+    },
+    {
+     "file": "0141.json",
+     "ref": "5.6",
+     "title": "5.6",
+     "segments": 3
+    },
+    {
+     "file": "0142.json",
+     "ref": "5.7",
+     "title": "5.7",
+     "segments": 3
+    },
+    {
+     "file": "0143.json",
+     "ref": "5.8",
+     "title": "5.8",
+     "segments": 2
+    },
+    {
+     "file": "0144.json",
+     "ref": "5.9",
+     "title": "5.9",
+     "segments": 2
+    },
+    {
+     "file": "0145.json",
+     "ref": "5.10",
+     "title": "5.10",
+     "segments": 2
+    },
+    {
+     "file": "0146.json",
+     "ref": "5.11",
+     "title": "5.11",
+     "segments": 2
+    },
+    {
+     "file": "0147.json",
+     "ref": "5.12",
+     "title": "5.12",
+     "segments": 2
+    },
+    {
+     "file": "0148.json",
+     "ref": "5.13",
+     "title": "5.13",
+     "segments": 2
+    },
+    {
+     "file": "0149.json",
+     "ref": "5.14",
+     "title": "5.14",
+     "segments": 2
+    },
+    {
+     "file": "0150.json",
+     "ref": "5.15",
+     "title": "5.15",
+     "segments": 2
+    },
+    {
+     "file": "0151.json",
+     "ref": "5.16",
+     "title": "5.16",
+     "segments": 2
+    },
+    {
+     "file": "0152.json",
+     "ref": "5.17",
+     "title": "5.17",
+     "segments": 2
+    },
+    {
+     "file": "0153.json",
+     "ref": "5.18",
+     "title": "5.18",
+     "segments": 2
+    },
+    {
+     "file": "0154.json",
+     "ref": "5.19",
+     "title": "5.19",
+     "segments": 2
+    },
+    {
+     "file": "0155.json",
+     "ref": "5.20",
+     "title": "5.20",
+     "segments": 2
+    },
+    {
+     "file": "0156.json",
+     "ref": "5.21",
+     "title": "5.21",
+     "segments": 2
+    },
+    {
+     "file": "0157.json",
+     "ref": "5.p1",
+     "title": "5.p1",
+     "segments": 10
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 2,
+  "shared": 146,
+  "onlyInOriginal": 4,
+  "onlyInEnglish": 4
+ }
+}

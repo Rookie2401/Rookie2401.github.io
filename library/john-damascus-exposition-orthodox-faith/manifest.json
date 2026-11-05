@@ -1,0 +1,1136 @@
+{
+ "workId": "john-damascus-exposition-orthodox-faith",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "john-damascus-exposition-npnf9-salmond",
+   "role": "english",
+   "language": "english",
+   "credit": "An Exact Exposition of the Orthodox Faith (Books I–IV), in Nicene and Post-Nicene Fathers, Series II, vol. 9: Hilary of Poitiers, John of Damascus (Exposition of the Orthodox Faith, translated by S. D. F. Salmond), trans. S. D. F. Salmond (assisted by his son James L. Salmond) (New York; Oxford; Edinburgh: The Christian Literature Company (New York); Parker & Co. (Oxford); T. & T. Clark (Edinburgh), 1899). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers: Series II), CC BY-SA (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_IX/John_of_Damascus/An_Exact_Exposition_of_the_Orthodox_Faith",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 684309,
+   "sourceSha256": "84d89d916c3e6bc3494441531e62df06a712c9ee3078864da9af6ac664e2853d",
+   "leftOut": {
+    "note": 1353
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/Prologue",
+     "bytes": 10738,
+     "sha256": "7e1ee052d9a25efd6861068f63997ed3232016744b4842da0318f4048a56dacf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book I/Chapter 1",
+     "bytes": 3744,
+     "sha256": "360b07ad0ed727dfc7994909c307b7a01acd626af769462e198265d56a2c5d09"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book I/Chapter 2",
+     "bytes": 4835,
+     "sha256": "f5e3e7356d4b2a77ddc4bdd48936a2c18a2b7b0437f24262c895a9f9c9c239c3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book I/Chapter 3",
+     "bytes": 6746,
+     "sha256": "78de43fa2f930619eae84d85739690ab09f2fdf9f4a19df73fc7737ff0f91444"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book I/Chapter 4",
+     "bytes": 8435,
+     "sha256": "454ca8a19bada4ff2d6df5400ce7d3301c97aa8168eaa5865d8a5cfd30a2d991"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book I/Chapter 5",
+     "bytes": 4005,
+     "sha256": "317d9684ca9cf4eccc8333694b98e19b0e4f12f338ff3211f824baca76cdf318"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book I/Chapter 6",
+     "bytes": 3702,
+     "sha256": "41f86c45af1039124f2a51dc9b9d795ddf065acb6b33b30b476611fd22415cd8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book I/Chapter 7",
+     "bytes": 8694,
+     "sha256": "ff1bc6f025d466860663bbf5299bb634776f779318069c97f20e53aa1498399a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book I/Chapter 8",
+     "bytes": 41454,
+     "sha256": "314bb548794bbd941fd12dbc545666619af65941728d7d382b9e5460f9af6544"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book I/Chapter 9",
+     "bytes": 5995,
+     "sha256": "8173bd03107b886a476af44df755742ba2702711391b77affa9594d73e6e1629"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book I/Chapter 10",
+     "bytes": 3216,
+     "sha256": "58a6264c7301a3cdba4b6d63a442182d1b1488c3c49b7559fdadbd08adf37c8d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book I/Chapter 11",
+     "bytes": 4607,
+     "sha256": "d7cc9f61e49f75b5ef9dda7cc955bb81bcfa1f2c07fd389c4e015aabf8563065"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book I/Chapter 12",
+     "bytes": 11446,
+     "sha256": "9963b6b2257542d2b79b1ad6bb01f520061bab7acb6b16166a13c20112bd49e7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book I/Chapter 13",
+     "bytes": 11339,
+     "sha256": "36eddc890ec60924656673ae74bd760229a8ebb4b690cef4056696a28efb7e17"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book I/Chapter 14",
+     "bytes": 4176,
+     "sha256": "6255f74ae851eeac0453f09452c7c9cc90e0a5a3d8bb323c3b2aae541fd3dc0d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 1",
+     "bytes": 4747,
+     "sha256": "580fc61d36cb330bdc2578d5e778d9377ba49853efc2c6c1931a96a388d890de"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 2",
+     "bytes": 1701,
+     "sha256": "2cdaa57584c11cfa5d985518a442e952b9ae195369c250ba0e377dad205afec5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 3",
+     "bytes": 9353,
+     "sha256": "87882af68ae96efa4c6c0a14582a6e7ebc1b03d161f40c0c74499fe82a94c128"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 4",
+     "bytes": 4512,
+     "sha256": "ad43fe8925e445aeaf46c97346cb664fe2f19a7a5cd1a69ceb706e0f0f2ad4dd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 5",
+     "bytes": 1571,
+     "sha256": "43b8896733951bb62cedbf85086392bda00270987c583a501647b7bdd9640897"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 6",
+     "bytes": 9786,
+     "sha256": "66cf76d5d7306fd07bb6ff87d1959f633b22e9cdf403f1727c51fba73c38feda"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 7",
+     "bytes": 18559,
+     "sha256": "caa7277fc065d478cfa79f1ed20c06c5fa4ab9213a3b55017a330b9340de6a17"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 8",
+     "bytes": 4179,
+     "sha256": "3bc53f9eb2a6dadf1e8d1400e5acea8e4cfedc8b9c3dd5a3003751c452a44d9c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 9",
+     "bytes": 8600,
+     "sha256": "7361de99f8d5b5ea9aa295fe9577b0ae49407e9133252e07e2badfc66fb1fdc6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 10",
+     "bytes": 6680,
+     "sha256": "c56c6d23525192a886bcef8571d679d6771d6c5c5ed7c78f72bcdae47faa9d9b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 11",
+     "bytes": 9663,
+     "sha256": "1deb1646c0eed8ba31ed2978ead6a5a6ff56cfbe51810598671ba9b6c5726b3a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 12",
+     "bytes": 15764,
+     "sha256": "cc852d6893f3140c8c2d4be898f24073c2a2e7e15319f53f42bb9ea953c13e1a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 13",
+     "bytes": 3591,
+     "sha256": "0e8fe320f080064b0e16349608868a9d23c1532c961ec5f3085ce11573ecb4f0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 14",
+     "bytes": 1418,
+     "sha256": "b9817c2b098f684167002be2dc0fc192bf86c9b4271d22d60320594fbedb7c91"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 15",
+     "bytes": 1991,
+     "sha256": "76d10f58395b2f909e92d016b90c288c681fdd8f55934cd8bd18c8fde2c99589"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 16",
+     "bytes": 2920,
+     "sha256": "2093a59a51940f8f30a1c94d82a233d4e275cf3044ee40d5c40ba50e73719c6c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 17",
+     "bytes": 2077,
+     "sha256": "54d6f7a70c705932445c062cf226d5d7d623b5e7aea56addeeaf13a4c4784ad5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 18",
+     "bytes": 5880,
+     "sha256": "31aee608f549667ecfa874ac64d5c9a1976a022fd6fc8b138bd1454f8a8fdc35"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 19",
+     "bytes": 1757,
+     "sha256": "3c6b3878251ada8fead7703af5cae2349ffb320cca42689e0230955f130ebb92"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 20",
+     "bytes": 3386,
+     "sha256": "6b7f2510002b04707425e693b097957f6508811f2742480d628679c6e034b6b8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 21",
+     "bytes": 1859,
+     "sha256": "a0fb93a8f567f02650f74f890c45fa0377a37c87fa29079ae027514be12268ee"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 22",
+     "bytes": 15367,
+     "sha256": "4cac26a9475df39b32b30c7549d80091532123dbd6f7c0fc1f60f4c3f14d6145"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 23",
+     "bytes": 4273,
+     "sha256": "aca0e0d4cd40e08843acc491037506775277cb93056f290717962cc76357bd04"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 24",
+     "bytes": 5236,
+     "sha256": "2f6195c8afb80446086a513e7a994cc647d3adf95e494e7dca541ac9eba594b3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 25",
+     "bytes": 4549,
+     "sha256": "159fb4085b1794fd29e30d9eea651c9ba679c54762e25652bcae7a06a96c2e8c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 26",
+     "bytes": 2717,
+     "sha256": "44753d99ee77ea23858fa1ffeae9408411522f84ae5eb6cb572d663c709c33ad"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 27",
+     "bytes": 3569,
+     "sha256": "3e23f5b6ee658fa0c6aea4e9564ea696df01e04f32914f684e46e9d973a539e7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 28",
+     "bytes": 2201,
+     "sha256": "f3f141b3c2db56895f700dc59a8e132bb58e7998c3d5d3664295c04147979d46"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 29",
+     "bytes": 9279,
+     "sha256": "9f66dc32fea7e7824d52320c8b7d5d0fedacb85d45cb93c9d2ac45955e7bf550"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book II/Chapter 30",
+     "bytes": 8671,
+     "sha256": "1445c752a1970eb50ebe5db640989ec1bef2d73fd21abed22e9e09e9984e5f2e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 1",
+     "bytes": 6431,
+     "sha256": "89f9d08dcfec83b3acdb3442cc388b3d33613d6d2c67bf63473567352111bb1f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 2",
+     "bytes": 5576,
+     "sha256": "6b56759e7a7062fed1f3739186fea9d1464cdf82a2b26f60c660389db9787db5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 3",
+     "bytes": 11526,
+     "sha256": "6cf065de13c96cf07fa416a2bbd9ed1cbd0b03b89c3a32bc144ff3c410b81b83"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 4",
+     "bytes": 5027,
+     "sha256": "2fe4a837a679c035390f25112fa813d2a5544f15fdac07f2e7f72aa5e2a1d745"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 5",
+     "bytes": 5642,
+     "sha256": "d6b2a817d6645811ce185525adf1abfc650f207875d2db12fffb4553d3237006"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 6",
+     "bytes": 8215,
+     "sha256": "b73b8f16af494c4f49b7e8137a034b946bac5bf38bcb65acdf6a3f4ca187e500"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 7",
+     "bytes": 8657,
+     "sha256": "2f2b9adb9e850ac63c1e9bb9e414dacd72b3b735c91e2d7be150686aa87eb3c9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 8",
+     "bytes": 6912,
+     "sha256": "f0e791b5d97c79bfedc710515f6e2e0a09d6bf43f96fa2b9399bd43fb12b3fd1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 9",
+     "bytes": 2885,
+     "sha256": "feb4ea721b42c0d01bd0442da3b164874bc3c04d7ac881d725f90432cdeeece1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 10",
+     "bytes": 6613,
+     "sha256": "fb5867e6d537de6c66703f67099f990f0e7a4c7be9bab284b33351a04c7820b9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 11",
+     "bytes": 8344,
+     "sha256": "8846004de63a0c3a2745b578725870fd690f93257b551167a53003ef21bf5d9a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 12",
+     "bytes": 8379,
+     "sha256": "23ac27f97926f5f08b844cc6b08573a86376ee43c6f6c687f50ecd927b338cca"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 13",
+     "bytes": 1967,
+     "sha256": "551d1f20629701bc3bc8dcffa78043aa8badd86789c91cebf8cab652b825e8d2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 14",
+     "bytes": 21969,
+     "sha256": "71a909fd25c7eca4f3a3b37be3dfd0a751bc7c78fb58aefecd3178c1a70e0811"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 15",
+     "bytes": 23470,
+     "sha256": "a59e7b31d773379600ab3a0c6ee13da81520ca3c144b897390b7fee1ecd39e4a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 16",
+     "bytes": 5892,
+     "sha256": "3e6158aa2aed66dbb02e898cc0b3d011e50c9666046338f0b415727a86decaea"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 17",
+     "bytes": 4551,
+     "sha256": "441870a5913205b5b1a6e3f2e45c2564cc1eed2e12f66c151ab213ab033739d6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 18",
+     "bytes": 8080,
+     "sha256": "717bb792dc69c14d1413a891c9e58154deb65d690dcfa741975908f1bc29ad49"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 19",
+     "bytes": 5239,
+     "sha256": "3d80cc9ebda70a3d4423c85b4e92bfa53646a6b2b70b837081b7c0fc7f03ced7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 20",
+     "bytes": 3293,
+     "sha256": "9683e823a2b66dcec12c8ff664145a5a41a8095d2a040d11402d96e3298b2ad2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 21",
+     "bytes": 4406,
+     "sha256": "64e5a9a148f27a50d6d7293489b37d1798afd168cd3f2f154dd6afe43f2f1bad"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 22",
+     "bytes": 2922,
+     "sha256": "f968f9fc831cf09adf1ce1bb9b717f73462ae25d6be81722f3304849ca3af55f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 23",
+     "bytes": 4183,
+     "sha256": "026f2b8149b47f5ccae3d0acb6e339906c30d4a7a01d71d2485ce4c29f90b22b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 24",
+     "bytes": 4456,
+     "sha256": "38c98aac7abeec6afe18c7c85576f781d4946ba543ed4bac4acbf2319e56fa1d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 25",
+     "bytes": 2170,
+     "sha256": "6e2ce519cc035d16eca318dcc8b4391ce5e4edd0b9c4de2b43b9ccd6edae9dc8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 26",
+     "bytes": 3127,
+     "sha256": "12a2e4a27aa01bc720817bc739c32f254f0ad21956d79e2f6c78b949fdc189fd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 27",
+     "bytes": 3419,
+     "sha256": "f81b956969bdeb08bc757513d4db61215bae2cd349817d6e91c0b2b67c482db5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 28",
+     "bytes": 3484,
+     "sha256": "199837a5ed23b397157264e3ef228eacc5a4058727c872d58bea64742ff2cc61"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book III/Chapter 29",
+     "bytes": 2192,
+     "sha256": "d98deb1105f80b57e2b837b3716b64399b6e58e29aea854c551d36926d8a25f7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 1",
+     "bytes": 2648,
+     "sha256": "befc7dbbd0b9fb3d6dcc2019a290950b09b5fdfcbbf35bc691e6d1072272c117"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 2",
+     "bytes": 1840,
+     "sha256": "773bdf8cecf4daeed49090aff8635ad160f7401300dfe91980696b4c41ab9046"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 3",
+     "bytes": 2936,
+     "sha256": "b150aa111384edf4bd708cb5ee823704fac93106e96f2afab05160daa8176848"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 4",
+     "bytes": 6825,
+     "sha256": "54e1f681095793df6e833e0af52edfe515efd7ce424f59064e5774642460457f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 5",
+     "bytes": 1882,
+     "sha256": "05a73b8612ce3dd34e45262a578505687578d606e0212e416025f0ff8b73613f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 6",
+     "bytes": 4269,
+     "sha256": "12ea0df7d4864f0edd03c0520325cfd6f20b5a77798b52de42a3eaf58b8a586f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 7",
+     "bytes": 4351,
+     "sha256": "0a68320a586cd64c35ce832bf0de7f5175672060422479a3e0cb8b990382698a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 8",
+     "bytes": 3059,
+     "sha256": "94e84d54bab88c5a26119699d89709dcf91889120a40915d541180d15616586c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 9",
+     "bytes": 12609,
+     "sha256": "f1ff934c47f95d57cf4322399c8d55e888abbef558c5a780970e8d959d7e414b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 10",
+     "bytes": 2148,
+     "sha256": "c904c99c3482ae0c92f43febb3efe69515b162824ebdea19a9c9c7dc09f504cd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 11",
+     "bytes": 9924,
+     "sha256": "7ec464aed7d7470d4faca5c7a1c9af7905fc9966dbfd66070e4b81e56fbf171e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 12",
+     "bytes": 4952,
+     "sha256": "0bdf4641e6062372cb006b291fa246f8ce9dd2fd6ea6b187482420b746927770"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 13",
+     "bytes": 18599,
+     "sha256": "d6a63abab8875ba9b42258d79d95676443a2e799f37e017c42a0b5b91f0589e1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 14",
+     "bytes": 12158,
+     "sha256": "fbf9325bc6b10854ac0cb83f8f0301aa3543f2a45900b46618462ee4eeea3c66"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 15",
+     "bytes": 8650,
+     "sha256": "7af5676c5566ffcefc42bb92410e06d90d2e951ee85a2f627dd3603761232f56"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 16",
+     "bytes": 6541,
+     "sha256": "89bc5dce0d3c57dc1fac8dd323f38fa1d3aa07ff63a50a3e51199b824cfa3224"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 17",
+     "bytes": 7670,
+     "sha256": "f16d683719054920f39d655de927f98e736b0204b897c8b08a9a03c2e5cd0519"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 18",
+     "bytes": 16912,
+     "sha256": "9a69a6b4d001087145e35418b6635a6ef074efbc4c2dade4484a55b2781e5e1f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 19",
+     "bytes": 5942,
+     "sha256": "6d4985cdb0fe95fe32c8c4e693c398a3dd4e5f1be94bd236c9c1cdfa5269160a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 20",
+     "bytes": 5037,
+     "sha256": "e415faecbfe1c46a2da941afd4c259a9c0dd24b241234815fecd9d9882c72237"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 21",
+     "bytes": 2605,
+     "sha256": "aa4040ac83284cbca230e84cc50b61024fd9b44a99cdfb5d02a2129311560c6d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 22",
+     "bytes": 4297,
+     "sha256": "b6e8f9c0590f0dd6e11fcc54a8a770fa433a10ba35bce3d74b9e5a5b44099939"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 23",
+     "bytes": 8744,
+     "sha256": "94c4463cd62db718586bca0f53ff2d80e70030f77f86d7fc7c1bff4ab14ced7f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 24",
+     "bytes": 7933,
+     "sha256": "1ceab55c03cbc34702f1b852a85f9d752bb49a8f9643a621512363c61dc080c1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 25",
+     "bytes": 4832,
+     "sha256": "68986bf8d885a33bbc43e2ffcf1b6c277cf4f5c3030dde0387e968794851ec9e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 26",
+     "bytes": 5969,
+     "sha256": "22e83e3b1a5fcadc25c464867e6dd87a920f5856de3a9c7dca4296e53dd4ff42"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume IX/John of Damascus/An Exact Exposition of the Orthodox Faith/Book IV/Chapter 27",
+     "bytes": 12962,
+     "sha256": "7756356b755d0f04c45566d90b56071a39336a63e18609030ec743606b976129"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 9
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.1",
+     "title": "1.1",
+     "segments": 5
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.2",
+     "title": "1.2",
+     "segments": 4
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.3",
+     "title": "1.3",
+     "segments": 5
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.4",
+     "title": "1.4",
+     "segments": 6
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.5",
+     "title": "1.5",
+     "segments": 6
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.6",
+     "title": "1.6",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.7",
+     "title": "1.7",
+     "segments": 4
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.8",
+     "title": "1.8",
+     "segments": 19
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.9",
+     "title": "1.9",
+     "segments": 5
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.10",
+     "title": "1.10",
+     "segments": 4
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.11",
+     "title": "1.11",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.12",
+     "title": "1.12",
+     "segments": 6
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.13",
+     "title": "1.13",
+     "segments": 21
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.14",
+     "title": "1.14",
+     "segments": 5
+    },
+    {
+     "file": "0016.json",
+     "ref": "2.1",
+     "title": "2.1",
+     "segments": 7
+    },
+    {
+     "file": "0017.json",
+     "ref": "2.2",
+     "title": "2.2",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "2.3",
+     "title": "2.3",
+     "segments": 21
+    },
+    {
+     "file": "0019.json",
+     "ref": "2.4",
+     "title": "2.4",
+     "segments": 6
+    },
+    {
+     "file": "0020.json",
+     "ref": "2.5",
+     "title": "2.5",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "2.6",
+     "title": "2.6",
+     "segments": 12
+    },
+    {
+     "file": "0022.json",
+     "ref": "2.7",
+     "title": "2.7",
+     "segments": 43
+    },
+    {
+     "file": "0023.json",
+     "ref": "2.8",
+     "title": "2.8",
+     "segments": 7
+    },
+    {
+     "file": "0024.json",
+     "ref": "2.9",
+     "title": "2.9",
+     "segments": 8
+    },
+    {
+     "file": "0025.json",
+     "ref": "2.10",
+     "title": "2.10",
+     "segments": 9
+    },
+    {
+     "file": "0026.json",
+     "ref": "2.11",
+     "title": "2.11",
+     "segments": 6
+    },
+    {
+     "file": "0027.json",
+     "ref": "2.12",
+     "title": "2.12",
+     "segments": 21
+    },
+    {
+     "file": "0028.json",
+     "ref": "2.13",
+     "title": "2.13",
+     "segments": 4
+    },
+    {
+     "file": "0029.json",
+     "ref": "2.14",
+     "title": "2.14",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "2.15",
+     "title": "2.15",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "2.16",
+     "title": "2.16",
+     "segments": 4
+    },
+    {
+     "file": "0032.json",
+     "ref": "2.17",
+     "title": "2.17",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "2.18",
+     "title": "2.18",
+     "segments": 9
+    },
+    {
+     "file": "0034.json",
+     "ref": "2.19",
+     "title": "2.19",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "2.20",
+     "title": "2.20",
+     "segments": 4
+    },
+    {
+     "file": "0036.json",
+     "ref": "2.21",
+     "title": "2.21",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "2.22",
+     "title": "2.22",
+     "segments": 17
+    },
+    {
+     "file": "0038.json",
+     "ref": "2.23",
+     "title": "2.23",
+     "segments": 8
+    },
+    {
+     "file": "0039.json",
+     "ref": "2.24",
+     "title": "2.24",
+     "segments": 6
+    },
+    {
+     "file": "0040.json",
+     "ref": "2.25",
+     "title": "2.25",
+     "segments": 4
+    },
+    {
+     "file": "0041.json",
+     "ref": "2.26",
+     "title": "2.26",
+     "segments": 3
+    },
+    {
+     "file": "0042.json",
+     "ref": "2.27",
+     "title": "2.27",
+     "segments": 3
+    },
+    {
+     "file": "0043.json",
+     "ref": "2.28",
+     "title": "2.28",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "2.29",
+     "title": "2.29",
+     "segments": 13
+    },
+    {
+     "file": "0045.json",
+     "ref": "2.30",
+     "title": "2.30",
+     "segments": 9
+    },
+    {
+     "file": "0046.json",
+     "ref": "3.1",
+     "title": "3.1",
+     "segments": 3
+    },
+    {
+     "file": "0047.json",
+     "ref": "3.2",
+     "title": "3.2",
+     "segments": 3
+    },
+    {
+     "file": "0048.json",
+     "ref": "3.3",
+     "title": "3.3",
+     "segments": 8
+    },
+    {
+     "file": "0049.json",
+     "ref": "3.4",
+     "title": "3.4",
+     "segments": 4
+    },
+    {
+     "file": "0050.json",
+     "ref": "3.5",
+     "title": "3.5",
+     "segments": 2
+    },
+    {
+     "file": "0051.json",
+     "ref": "3.6",
+     "title": "3.6",
+     "segments": 7
+    },
+    {
+     "file": "0052.json",
+     "ref": "3.7",
+     "title": "3.7",
+     "segments": 7
+    },
+    {
+     "file": "0053.json",
+     "ref": "3.8",
+     "title": "3.8",
+     "segments": 7
+    },
+    {
+     "file": "0054.json",
+     "ref": "3.9",
+     "title": "3.9",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "3.10",
+     "title": "3.10",
+     "segments": 4
+    },
+    {
+     "file": "0056.json",
+     "ref": "3.11",
+     "title": "3.11",
+     "segments": 5
+    },
+    {
+     "file": "0057.json",
+     "ref": "3.12",
+     "title": "3.12",
+     "segments": 7
+    },
+    {
+     "file": "0058.json",
+     "ref": "3.13",
+     "title": "3.13",
+     "segments": 2
+    },
+    {
+     "file": "0059.json",
+     "ref": "3.14",
+     "title": "3.14",
+     "segments": 26
+    },
+    {
+     "file": "0060.json",
+     "ref": "3.15",
+     "title": "3.15",
+     "segments": 25
+    },
+    {
+     "file": "0061.json",
+     "ref": "3.16",
+     "title": "3.16",
+     "segments": 7
+    },
+    {
+     "file": "0062.json",
+     "ref": "3.17",
+     "title": "3.17",
+     "segments": 4
+    },
+    {
+     "file": "0063.json",
+     "ref": "3.18",
+     "title": "3.18",
+     "segments": 8
+    },
+    {
+     "file": "0064.json",
+     "ref": "3.19",
+     "title": "3.19",
+     "segments": 5
+    },
+    {
+     "file": "0065.json",
+     "ref": "3.20",
+     "title": "3.20",
+     "segments": 5
+    },
+    {
+     "file": "0066.json",
+     "ref": "3.21",
+     "title": "3.21",
+     "segments": 4
+    },
+    {
+     "file": "0067.json",
+     "ref": "3.22",
+     "title": "3.22",
+     "segments": 2
+    },
+    {
+     "file": "0068.json",
+     "ref": "3.23",
+     "title": "3.23",
+     "segments": 4
+    },
+    {
+     "file": "0069.json",
+     "ref": "3.24",
+     "title": "3.24",
+     "segments": 4
+    },
+    {
+     "file": "0070.json",
+     "ref": "3.25",
+     "title": "3.25",
+     "segments": 2
+    },
+    {
+     "file": "0071.json",
+     "ref": "3.26",
+     "title": "3.26",
+     "segments": 3
+    },
+    {
+     "file": "0072.json",
+     "ref": "3.27",
+     "title": "3.27",
+     "segments": 3
+    },
+    {
+     "file": "0073.json",
+     "ref": "3.28",
+     "title": "3.28",
+     "segments": 3
+    },
+    {
+     "file": "0074.json",
+     "ref": "3.29",
+     "title": "3.29",
+     "segments": 2
+    },
+    {
+     "file": "0075.json",
+     "ref": "4.1",
+     "title": "4.1",
+     "segments": 3
+    },
+    {
+     "file": "0076.json",
+     "ref": "4.2",
+     "title": "4.2",
+     "segments": 2
+    },
+    {
+     "file": "0077.json",
+     "ref": "4.3",
+     "title": "4.3",
+     "segments": 2
+    },
+    {
+     "file": "0078.json",
+     "ref": "4.4",
+     "title": "4.4",
+     "segments": 5
+    },
+    {
+     "file": "0079.json",
+     "ref": "4.5",
+     "title": "4.5",
+     "segments": 2
+    },
+    {
+     "file": "0080.json",
+     "ref": "4.6",
+     "title": "4.6",
+     "segments": 3
+    },
+    {
+     "file": "0081.json",
+     "ref": "4.7",
+     "title": "4.7",
+     "segments": 3
+    },
+    {
+     "file": "0082.json",
+     "ref": "4.8",
+     "title": "4.8",
+     "segments": 2
+    },
+    {
+     "file": "0083.json",
+     "ref": "4.9",
+     "title": "4.9",
+     "segments": 11
+    },
+    {
+     "file": "0084.json",
+     "ref": "4.10",
+     "title": "4.10",
+     "segments": 4
+    },
+    {
+     "file": "0085.json",
+     "ref": "4.11",
+     "title": "4.11",
+     "segments": 7
+    },
+    {
+     "file": "0086.json",
+     "ref": "4.12",
+     "title": "4.12",
+     "segments": 4
+    },
+    {
+     "file": "0087.json",
+     "ref": "4.13",
+     "title": "4.13",
+     "segments": 18
+    },
+    {
+     "file": "0088.json",
+     "ref": "4.14",
+     "title": "4.14",
+     "segments": 12
+    },
+    {
+     "file": "0089.json",
+     "ref": "4.15",
+     "title": "4.15",
+     "segments": 6
+    },
+    {
+     "file": "0090.json",
+     "ref": "4.16",
+     "title": "4.16",
+     "segments": 6
+    },
+    {
+     "file": "0091.json",
+     "ref": "4.17",
+     "title": "4.17",
+     "segments": 5
+    },
+    {
+     "file": "0092.json",
+     "ref": "4.18",
+     "title": "4.18",
+     "segments": 20
+    },
+    {
+     "file": "0093.json",
+     "ref": "4.19",
+     "title": "4.19",
+     "segments": 5
+    },
+    {
+     "file": "0094.json",
+     "ref": "4.20",
+     "title": "4.20",
+     "segments": 8
+    },
+    {
+     "file": "0095.json",
+     "ref": "4.21",
+     "title": "4.21",
+     "segments": 2
+    },
+    {
+     "file": "0096.json",
+     "ref": "4.22",
+     "title": "4.22",
+     "segments": 4
+    },
+    {
+     "file": "0097.json",
+     "ref": "4.23",
+     "title": "4.23",
+     "segments": 7
+    },
+    {
+     "file": "0098.json",
+     "ref": "4.24",
+     "title": "4.24",
+     "segments": 7
+    },
+    {
+     "file": "0099.json",
+     "ref": "4.25",
+     "title": "4.25",
+     "segments": 3
+    },
+    {
+     "file": "0100.json",
+     "ref": "4.26",
+     "title": "4.26",
+     "segments": 5
+    },
+    {
+     "file": "0101.json",
+     "ref": "4.27",
+     "title": "4.27",
+     "segments": 13
+    }
+   ]
+  }
+ ]
+}

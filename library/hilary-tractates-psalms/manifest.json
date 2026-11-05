@@ -1,0 +1,523 @@
+{
+ "workId": "hilary-tractates-psalms",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "hilary-psalms-zingerle-csel22-lat-csel-dev",
+   "role": "original",
+   "language": "latin",
+   "credit": "S. Hilarii Episcopi Pictaviensis Tractatus super psalmos, in Corpus Scriptorum Ecclesiasticorum Latinorum vol. 22, ed. Anton Zingerle (Vienna: F. Tempsky; Prague: Tempsky; Leipzig: G. Freytag, 1891), ed. Anton Zingerle (Vienna; Prague; Leipzig: F. Tempsky; G. Freytag, 1891). Open Greek and Latin / University of Leipzig (csel-dev): Zingerle, CSEL 22 (1891), Tractatus super psalmos, under CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0149b/stoa001/stoa0149b.stoa001.opp-lat1.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 3355475,
+   "sourceSha256": "b713593af625d17c223740b88d861b507aa9435bcc296508ad637d5510ac5e84",
+   "leftOut": {
+    "lb": 21949,
+    "note": 1678,
+    "pb": 883
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 189545,
+    "garbledPerThousand": 0.1,
+    "joinedPerThousand": 0.1,
+    "numbersPerThousand": 0.5
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "pr",
+     "title": "INSTRUCTIO PSALMORUM.",
+     "segments": 24
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 24
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 51
+    },
+    {
+     "file": "0004.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 5
+    },
+    {
+     "file": "0005.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 7
+    },
+    {
+     "file": "0006.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 18
+    },
+    {
+     "file": "0007.json",
+     "ref": "51",
+     "title": "51",
+     "segments": 25
+    },
+    {
+     "file": "0008.json",
+     "ref": "52",
+     "title": "52",
+     "segments": 22
+    },
+    {
+     "file": "0009.json",
+     "ref": "53",
+     "title": "53",
+     "segments": 15
+    },
+    {
+     "file": "0010.json",
+     "ref": "54",
+     "title": "54",
+     "segments": 20
+    },
+    {
+     "file": "0011.json",
+     "ref": "55",
+     "title": "55",
+     "segments": 13
+    },
+    {
+     "file": "0012.json",
+     "ref": "56",
+     "title": "56",
+     "segments": 11
+    },
+    {
+     "file": "0013.json",
+     "ref": "57",
+     "title": "57",
+     "segments": 8
+    },
+    {
+     "file": "0014.json",
+     "ref": "58",
+     "title": "58",
+     "segments": 14
+    },
+    {
+     "file": "0015.json",
+     "ref": "59",
+     "title": "59",
+     "segments": 15
+    },
+    {
+     "file": "0016.json",
+     "ref": "60",
+     "title": "60",
+     "segments": 8
+    },
+    {
+     "file": "0017.json",
+     "ref": "61",
+     "title": "61",
+     "segments": 10
+    },
+    {
+     "file": "0018.json",
+     "ref": "62",
+     "title": "62",
+     "segments": 13
+    },
+    {
+     "file": "0019.json",
+     "ref": "63",
+     "title": "63",
+     "segments": 13
+    },
+    {
+     "file": "0020.json",
+     "ref": "64",
+     "title": "64",
+     "segments": 20
+    },
+    {
+     "file": "0021.json",
+     "ref": "65",
+     "title": "65",
+     "segments": 30
+    },
+    {
+     "file": "0022.json",
+     "ref": "66",
+     "title": "66",
+     "segments": 10
+    },
+    {
+     "file": "0023.json",
+     "ref": "67",
+     "title": "67",
+     "segments": 38
+    },
+    {
+     "file": "0024.json",
+     "ref": "68",
+     "title": "68",
+     "segments": 34
+    },
+    {
+     "file": "0025.json",
+     "ref": "69",
+     "title": "69",
+     "segments": 6
+    },
+    {
+     "file": "0026.json",
+     "ref": "91",
+     "title": "DE TITULO PSALMI XCI.",
+     "segments": 10
+    },
+    {
+     "file": "0027.json",
+     "ref": "118",
+     "title": "118",
+     "segments": 5
+    },
+    {
+     "file": "0028.json",
+     "ref": "aleph",
+     "title": "aleph",
+     "segments": 16
+    },
+    {
+     "file": "0029.json",
+     "ref": "beth",
+     "title": "beth",
+     "segments": 12
+    },
+    {
+     "file": "0030.json",
+     "ref": "gimel",
+     "title": "gimel",
+     "segments": 22
+    },
+    {
+     "file": "0031.json",
+     "ref": "daleth",
+     "title": "daleth",
+     "segments": 13
+    },
+    {
+     "file": "0032.json",
+     "ref": "he",
+     "title": "HE.",
+     "segments": 18
+    },
+    {
+     "file": "0033.json",
+     "ref": "vau",
+     "title": "VAU.",
+     "segments": 13
+    },
+    {
+     "file": "0034.json",
+     "ref": "zain",
+     "title": "zain",
+     "segments": 8
+    },
+    {
+     "file": "0035.json",
+     "ref": "heth",
+     "title": "heth",
+     "segments": 20
+    },
+    {
+     "file": "0036.json",
+     "ref": "teth",
+     "title": "teth",
+     "segments": 10
+    },
+    {
+     "file": "0037.json",
+     "ref": "iod",
+     "title": "iod",
+     "segments": 19
+    },
+    {
+     "file": "0038.json",
+     "ref": "caph",
+     "title": "caph",
+     "segments": 11
+    },
+    {
+     "file": "0039.json",
+     "ref": "lamed",
+     "title": "lamed",
+     "segments": 16
+    },
+    {
+     "file": "0040.json",
+     "ref": "mem",
+     "title": "mem",
+     "segments": 14
+    },
+    {
+     "file": "0041.json",
+     "ref": "nun",
+     "title": "nun",
+     "segments": 21
+    },
+    {
+     "file": "0042.json",
+     "ref": "samech",
+     "title": "samech",
+     "segments": 14
+    },
+    {
+     "file": "0043.json",
+     "ref": "ain",
+     "title": "ain",
+     "segments": 18
+    },
+    {
+     "file": "0044.json",
+     "ref": "phe",
+     "title": "phe",
+     "segments": 14
+    },
+    {
+     "file": "0045.json",
+     "ref": "zade",
+     "title": "ZADE.",
+     "segments": 10
+    },
+    {
+     "file": "0046.json",
+     "ref": "koph",
+     "title": "KOPH.",
+     "segments": 13
+    },
+    {
+     "file": "0047.json",
+     "ref": "resch",
+     "title": "RESCH.",
+     "segments": 11
+    },
+    {
+     "file": "0048.json",
+     "ref": "sin",
+     "title": "SIN.",
+     "segments": 9
+    },
+    {
+     "file": "0049.json",
+     "ref": "tau",
+     "title": "TAU.",
+     "segments": 8
+    },
+    {
+     "file": "0050.json",
+     "ref": "119",
+     "title": "PSALMUS CXIX.",
+     "segments": 25
+    },
+    {
+     "file": "0051.json",
+     "ref": "120",
+     "title": "PSALMUS CXX.",
+     "segments": 17
+    },
+    {
+     "file": "0052.json",
+     "ref": "121",
+     "title": "PSALMUS CXXI.",
+     "segments": 16
+    },
+    {
+     "file": "0053.json",
+     "ref": "122",
+     "title": "PSALMUS CXXII.",
+     "segments": 14
+    },
+    {
+     "file": "0054.json",
+     "ref": "123",
+     "title": "PSALMUS CXXIII.",
+     "segments": 10
+    },
+    {
+     "file": "0055.json",
+     "ref": "124",
+     "title": "PSALMUS CXXIV.",
+     "segments": 12
+    },
+    {
+     "file": "0056.json",
+     "ref": "125",
+     "title": "PSALMUS CXXV.",
+     "segments": 12
+    },
+    {
+     "file": "0057.json",
+     "ref": "126",
+     "title": "PSALMUS CXXVI.",
+     "segments": 22
+    },
+    {
+     "file": "0058.json",
+     "ref": "127",
+     "title": "PSALMUS CXXVII.",
+     "segments": 12
+    },
+    {
+     "file": "0059.json",
+     "ref": "128",
+     "title": "PSALNUS CXXVIII.",
+     "segments": 15
+    },
+    {
+     "file": "0060.json",
+     "ref": "129",
+     "title": "PSALMUS CXXIX.",
+     "segments": 12
+    },
+    {
+     "file": "0061.json",
+     "ref": "130",
+     "title": "PSALMOS CXXX.",
+     "segments": 7
+    },
+    {
+     "file": "0062.json",
+     "ref": "131",
+     "title": "PSALMUS CXXXI.",
+     "segments": 29
+    },
+    {
+     "file": "0063.json",
+     "ref": "132",
+     "title": "PSALMUS CXXXII.",
+     "segments": 8
+    },
+    {
+     "file": "0064.json",
+     "ref": "133",
+     "title": "PSALMUS CXXXIII.",
+     "segments": 7
+    },
+    {
+     "file": "0065.json",
+     "ref": "134",
+     "title": "PSALMUS CXXXIV",
+     "segments": 28
+    },
+    {
+     "file": "0066.json",
+     "ref": "135",
+     "title": "135",
+     "segments": 16
+    },
+    {
+     "file": "0067.json",
+     "ref": "136",
+     "title": "136",
+     "segments": 15
+    },
+    {
+     "file": "0068.json",
+     "ref": "137",
+     "title": "137",
+     "segments": 18
+    },
+    {
+     "file": "0069.json",
+     "ref": "138",
+     "title": "138",
+     "segments": 48
+    },
+    {
+     "file": "0070.json",
+     "ref": "139",
+     "title": "139",
+     "segments": 18
+    },
+    {
+     "file": "0071.json",
+     "ref": "140",
+     "title": "140",
+     "segments": 18
+    },
+    {
+     "file": "0072.json",
+     "ref": "141",
+     "title": "141",
+     "segments": 9
+    },
+    {
+     "file": "0073.json",
+     "ref": "142",
+     "title": "142",
+     "segments": 15
+    },
+    {
+     "file": "0074.json",
+     "ref": "143",
+     "title": "143",
+     "segments": 23
+    },
+    {
+     "file": "0075.json",
+     "ref": "144",
+     "title": "144",
+     "segments": 24
+    },
+    {
+     "file": "0076.json",
+     "ref": "145",
+     "title": "145",
+     "segments": 8
+    },
+    {
+     "file": "0077.json",
+     "ref": "146",
+     "title": "146",
+     "segments": 14
+    },
+    {
+     "file": "0078.json",
+     "ref": "147",
+     "title": "147",
+     "segments": 8
+    },
+    {
+     "file": "0079.json",
+     "ref": "148",
+     "title": "148",
+     "segments": 9
+    },
+    {
+     "file": "0080.json",
+     "ref": "159",
+     "title": "159",
+     "segments": 5
+    },
+    {
+     "file": "0081.json",
+     "ref": "150",
+     "title": "150",
+     "segments": 3
+    },
+    {
+     "file": "0082.json",
+     "ref": "appendix",
+     "title": "APPENDIX.",
+     "segments": 5
+    }
+   ]
+  }
+ ]
+}

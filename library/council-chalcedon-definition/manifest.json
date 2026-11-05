@@ -1,0 +1,36 @@
+{
+ "workId": "council-chalcedon-definition",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "chalcedon-definition-npnf14",
+   "role": "english",
+   "language": "english",
+   "credit": "The Definition of Faith of the Council of Chalcedon, in Nicene and Post-Nicene Fathers, Series II, vol. 14: The Seven Ecumenical Councils of the Undivided Church, their canons and dogmatic decrees, ed. Henry R. Percival, trans. Various (translators of the individual texts are not named on the pages opened); edited with notes by Henry R. Percival (New York; Oxford; Edinburgh: The Christian Literature Company (New York); Parker & Co. (Oxford); T. & T. Clark (Edinburgh), 1900). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers: Series II), CC BY-SA (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_XIV/The_Fourth_Ecumenical_Council/The_Definition_of_Faith",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 18045,
+   "sourceSha256": "4edf1782d20c7e484bde7769a165f0c0cad79d8e1f521b4adf8666df70323529",
+   "leftOut": {
+    "note": 1
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume XIV/The Fourth Ecumenical Council/The Definition of Faith",
+     "bytes": 18045,
+     "sha256": "4edf1782d20c7e484bde7769a165f0c0cad79d8e1f521b4adf8666df70323529"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front",
+     "title": "front",
+     "segments": 21
+    }
+   ]
+  }
+ ]
+}

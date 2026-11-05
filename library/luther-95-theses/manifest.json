@@ -1,0 +1,43 @@
+{
+ "workId": "luther-95-theses",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "luther-95-theses-holman-1915-gutenberg",
+   "role": "english",
+   "language": "english",
+   "credit": "Disputation of Doctor Martin Luther on the Power and Efficacy of Indulgences, in Works of Martin Luther (Philadelphia Edition), vol. 1, pp. 29–38 (Philadelphia: A. J. Holman Company, 1915), trans. C. M. Jacobs (Philadelphia: A. J. Holman Company, 1915). Transcription: Project Wittenberg / Project Gutenberg volunteers (producer not credited in the file) (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/274/pg274.txt",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 50091,
+   "sourceSha256": "edb5dbcb5363073aa8392f40ebc9696ed566dc7e4143bce23440cff1f411b1c2",
+   "leftOut": {
+    "noteMark": 70,
+    "gutenbergLine": 1
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "https://www.gutenberg.org/cache/epub/274/pg274.txt",
+     "bytes": 50091,
+     "sha256": "edb5dbcb5363073aa8392f40ebc9696ed566dc7e4143bce23440cff1f411b1c2"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "s1",
+     "title": "s1",
+     "segments": 5
+    },
+    {
+     "file": "0002.json",
+     "ref": "s2",
+     "title": "OCTOBER 31, 1517",
+     "segments": 191
+    }
+   ]
+  }
+ ]
+}

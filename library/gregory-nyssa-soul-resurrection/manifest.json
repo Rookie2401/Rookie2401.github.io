@@ -1,0 +1,36 @@
+{
+ "workId": "gregory-nyssa-soul-resurrection",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "gregory-nyssa-soul-resurrection-npnf2-5-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "On the Soul and the Resurrection, in A Select Library of Nicene and Post-Nicene Fathers of the Christian Church, Second Series, vol. V: Gregory of Nyssa, Dogmatic Treatises; Select Writings and Letters (American edition; ed. Philip Schaff and Henry Wace), trans. William Moore and Henry Austin Wilson (the title page names both; it does not say which of them translated each treatise) (New York: The Christian Literature Company, 1893). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers, Series II), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_V/Philosophical_Works/_On_the_Soul_and_the_Resurrection",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 272355,
+   "sourceSha256": "df3f8e98106b253e2242e2598f8dc362850a6bfe575562d7cf93ad21e6f55caa",
+   "leftOut": {
+    "note": 187
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series II/Volume V/Philosophical Works/ On the Soul and the Resurrection/On the Soul and the Resurrection",
+     "bytes": 272355,
+     "sha256": "df3f8e98106b253e2242e2598f8dc362850a6bfe575562d7cf93ad21e6f55caa"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front",
+     "title": "front",
+     "segments": 89
+    }
+   ]
+  }
+ ]
+}

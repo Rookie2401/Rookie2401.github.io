@@ -1,0 +1,157 @@
+{
+ "workId": "chrysostom-homilies-colossians",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "chrysostom-colossians-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Homilies on the Epistle to the Colossians, in A Select Library of the Nicene and Post-Nicene Fathers, series I, vol. XIII (Homilies on Galatians, Ephesians, Philippians, Colossians, Thessalonians, Timothy, Titus, and Philemon), trans. The Oxford translation (Library of the Fathers), revised for the American edition; the original Oxford translators are not named on the pages opened; revised with additional notes by John A. Broadus (Buffalo; New York: Christian Literature Co., 1889). Wikisource contributors, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_XIII/On_Philippians,_Colossians,_and_Thessalonians/On_Colossians",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 374045,
+   "sourceSha256": "641c28af7738440704b1d0d2cad149224585bbdb49505f3ed4dff337d8d5e7f9",
+   "leftOut": {
+    "note": 238
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Philippians, Colossians, and Thessalonians/On Colossians/Colossians 1:1,2",
+     "bytes": 36820,
+     "sha256": "31a9c0820b89c00a489f0c2e20660aefca4233e7e5f3b8f886bd9f53d2f79f15"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Philippians, Colossians, and Thessalonians/On Colossians/Colossians 1:15-18",
+     "bytes": 31528,
+     "sha256": "cb45f5fb4c86acfb2862a619340c062c49f579aaf252657c947a7c9f4b1027f0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Philippians, Colossians, and Thessalonians/On Colossians/Colossians 1:21,22",
+     "bytes": 25346,
+     "sha256": "3e6320cd3b1e436b3bb2165ea105893269a592a03ac25031aca874f33b8eccde"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Philippians, Colossians, and Thessalonians/On Colossians/Colossians 1:26-28",
+     "bytes": 26340,
+     "sha256": "5a0a40439dc1efddcd273644b41cadae1a51598581a31da1066386a5a9bf05ab"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Philippians, Colossians, and Thessalonians/On Colossians/Colossians 1:9,10",
+     "bytes": 35897,
+     "sha256": "cf61d83d9510855410fbfe004a198fd3999280e6202495937942bad3b5208d42"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Philippians, Colossians, and Thessalonians/On Colossians/Colossians 2:16-19",
+     "bytes": 32311,
+     "sha256": "6d011e832ceb9baf08ce73c2eec29cdbafa1a46f5c401794d81deaeb29173e11"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Philippians, Colossians, and Thessalonians/On Colossians/Colossians 2:6,7",
+     "bytes": 25048,
+     "sha256": "9dd9ac072c2cf3450a203c40b689b7df4567edda9944b68e9ef23838e4fabbc4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Philippians, Colossians, and Thessalonians/On Colossians/Colossians 3:16,17",
+     "bytes": 20888,
+     "sha256": "260dc7bc439564156a4df5b5038437eeda94966a6350ed1f1fa8232d8daaed3c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Philippians, Colossians, and Thessalonians/On Colossians/Colossians 3:18-25",
+     "bytes": 31771,
+     "sha256": "4078274f617755772b542a8326b8c9876f7e9908e1a7bcf65435b19155438667"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Philippians, Colossians, and Thessalonians/On Colossians/Colossians 3:5-7",
+     "bytes": 37875,
+     "sha256": "79ecae3401ae971ea93a9c843f8d256448724fe7d51ecfce41340e1573d294cd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Philippians, Colossians, and Thessalonians/On Colossians/Colossians 4:12,13",
+     "bytes": 42018,
+     "sha256": "6459ffa735d91d1867868932a526debf35893ed4ad81149cea954ded518ffb71"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XIII/On Philippians, Colossians, and Thessalonians/On Colossians/Colossians 4:5,6",
+     "bytes": 28203,
+     "sha256": "bb8f95af094910500579989e7cd226d3fff8519dd25757ea744384b0e1e29e93"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 62
+    },
+    {
+     "file": "0002.json",
+     "ref": "p2",
+     "title": "p2",
+     "segments": 21
+    },
+    {
+     "file": "0003.json",
+     "ref": "p3",
+     "title": "p3",
+     "segments": 19
+    },
+    {
+     "file": "0004.json",
+     "ref": "p4",
+     "title": "p4",
+     "segments": 27
+    },
+    {
+     "file": "0005.json",
+     "ref": "p5",
+     "title": "p5",
+     "segments": 24
+    },
+    {
+     "file": "0006.json",
+     "ref": "p6",
+     "title": "p6",
+     "segments": 32
+    },
+    {
+     "file": "0007.json",
+     "ref": "p7",
+     "title": "p7",
+     "segments": 21
+    },
+    {
+     "file": "0008.json",
+     "ref": "p8",
+     "title": "p8",
+     "segments": 17
+    },
+    {
+     "file": "0009.json",
+     "ref": "p9",
+     "title": "p9",
+     "segments": 43
+    },
+    {
+     "file": "0010.json",
+     "ref": "p10",
+     "title": "p10",
+     "segments": 46
+    },
+    {
+     "file": "0011.json",
+     "ref": "p11",
+     "title": "p11",
+     "segments": 33
+    },
+    {
+     "file": "0012.json",
+     "ref": "p12",
+     "title": "p12",
+     "segments": 34
+    }
+   ]
+  }
+ ]
+}

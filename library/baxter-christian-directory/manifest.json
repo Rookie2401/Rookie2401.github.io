@@ -1,0 +1,2819 @@
+{
+ "workId": "baxter-christian-directory",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "baxter-christian-directory-1673-tcp-a26892",
+   "role": "english",
+   "language": "english",
+   "credit": "A Christian directory, or, A summ of practical theologie and cases of conscience, in EEBO-TCP text A26892 (STC Wing B1219; STC) (London: Printed by Robert White for Nevill Simmons ..., 1673). Transcription: Text Creation Partnership (EEBO-TCP Phase I), keyboarded from images of the original (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A26892/master/A26892.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 9504938,
+   "sourceSha256": "1b90e060921164cb2486d938c653640537cb710e8b1889c48a0e10f5e515035e",
+   "leftOut": {
+    "pb": 1224,
+    "unread": 3701,
+    "note": 5247
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 1146098,
+    "unreadPerThousand": 3.2
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "Advertisements.",
+     "segments": 41
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.1",
+     "title": "A Christian Directory. TOM. I. Christian Ethicks.",
+     "segments": 7
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.2.1.0",
+     "title": "PART I.",
+     "segments": 24
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.2.1.1",
+     "title": "Direction 1. IF thou be truly willing to be sanctified and a child of God, Remain not in a state of Ignorance,Direct. 1. but do thy best to come into the light, and understand the Word of God, in the ",
+     "segments": 4
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.2.1.2",
+     "title": "Direction 2. ESpecially labour first to understand the true nature of a state of sin, and a stateDirect. 2. of Grace.",
+     "segments": 9
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.2.1.3",
+     "title": "Direction 3. TO know what a life of Holiness is, believe the Word of God, and those that haveDirect. 3. tryed it, and believe not the slanders of the Devil and of ungodly men, that never tryed or knew",
+     "segments": 3
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.2.1.4",
+     "title": "Direction 4. THat thy understanding may be enlightned, and thy heart renewed, be much and seriousDirect. 4. in Reading the Word of God, and those Books that are fitted tomen in an unconverted state, a",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.2.1.5",
+     "title": "Direction 5. F thou wouldst not be destitute of saving Grace, let thy Reason be exercised about theDirect. 5. matters of thy salvation, in some proportion of frequent, sober, serious Thoughts, as thou",
+     "segments": 3
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.2.1.6",
+     "title": "Direction 6. SUffer not the Devil by company, pleasure or worldly business to divert or hinder theeDirect. 6. from these serious Considerations.",
+     "segments": 3
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.2.1.7",
+     "title": "Direction 7. IF thou wouldst be converted and saved, be not a malicious or pievish enemy to thoseDirect. 7. that would convert and save thee: Be not angry with them that tell thee of thy sin or duty, ",
+     "segments": 5
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.2.1.8",
+     "title": "Direction 8. IF thou art willing indeed to be converted, do thy best to discover that yet thou art unconverted,Direct. 8. and in a lost and miserable state.",
+     "segments": 15
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.2.1.9",
+     "title": "Direction 9. WHen you have found your selves in a state of sin and death, Understand and ConsiderDirect. 9. what a state that is.",
+     "segments": 13
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.2.1.10",
+     "title": "Direction 10. WHen you have found out how sad a condition you are in, consider what there is inDirect. 10. sin to make you amends or repair your loss, that should be any hinderance to your Conversion.",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.2.1.11",
+     "title": "Direction 11. ANd when you are casting up your account, as you put all that sin and the worldDirect. 11. will do for you in the one end of the scales, so put into the other the Comforts both of this l",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.2.1.12",
+     "title": "Direction 12. WHen you have thus considered of the condition you are in, consider also whetherDirect. 12. it be a condition to be rested in one day.",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.2.1.13",
+     "title": "Direction 13. WHen thou art Resolved, past thy waverings and delayes, give up thy self entirely andDirect. 13. unreservedly to God the Father, Son and Holy Ghost, as thy Happiness, thy Saviour and thy",
+     "segments": 3
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.2.1.14",
+     "title": "Direction 14. IN present performance of thy Covenant with God, away with thy former sinful life; andDirect. 14. see that thou sin wilfully no more; but as far as thou art able, avoid the temptations w",
+     "segments": 7
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.2.1.15",
+     "title": "Direction 15. IF thou have sincerely given up thy self to God, and consented to his Covenant, shew itDirect. 15. by turning the face of thy endeavours and conversation quite another way, and by seekin",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.2.1.16",
+     "title": "Direction 16. ENgage thy self in the chearful constant use, of the means and helps appointed by God,Direct. 16. for thy confirmation and salvation.",
+     "segments": 9
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.2.1.17",
+     "title": "Direction 17. THat in all this you may be sincere, and not deceived by an hypocritical change, be sureDirect. 17. that God • e all your Confidence, and all your hopes be placed in Heaven, and that the",
+     "segments": 4
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.2.1.18",
+     "title": "Direction 18. IF you would prove true Converts, come over to God as your Father and felicity, withDirect. 18. desire and delight, and close with Christ, as your only Saviour with thankfulness and joy,",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.2.1.19",
+     "title": "Direction 19. REmember still that Conversion, is the turning from your carnal selves to God, and Direct. 1 •. therefore that it engageth you in a perpetual opposition to your own corrupt Conceits and ",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.2.1.20",
+     "title": "Direction 20. LAstly, Be sure that you renounce all conceit of self-sufficiency or merit in any thingDirect. 20. you do, and wholly rely on the Lord Iesus Christ, as your Head, and Life, and Saviour, ",
+     "segments": 8
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.2.2",
+     "title": "PART. II. The Temptations whereby the Devil hindereth mens Conversion: with the proper Remedies against them.",
+     "segments": 89
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.3.0",
+     "title": "CHAP. II. I have si • ce written a Book on this subject, to which I refer the Reader for ful • er Direction. Directions to young Christians or Beginners in Religion, for their establishment and safe p",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.3.1",
+     "title": "Direct. 1. TAke heed lest it be the Novelty or reputation of Truth and Godliness, that takes withDirect. 1. you, more than the solid Evidence of their Excellency and Necessity: lest when the Novelty a",
+     "segments": 7
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.3.2",
+     "title": "Direct. 2. TAke heed of being Religious only in Opinion, without Zeal and holy practice; or only inDirect. 2. Zealous affection without a sound well grounded judgement: But see that Iudgement, Zeal an",
+     "segments": 3
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.3.3",
+     "title": "Direct. 3. LAbour to understand the true Method of Divinity, and see Truths in their several degreesLeg. Acost. l. 4. c. 21. & 22 de fructu catechizandi. Et Li. 5. and order; that you take not the las",
+     "segments": 5
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.3.4",
+     "title": "Direct. 4. BEgin not too early with Controversies in Religion: and when you come to them, let themDirect. 4. have but their due proportion of your time and zeal: But live daily upon these certain, gre",
+     "segments": 10
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.3.5",
+     "title": "Direct. 5. BE very thankful for the great mercy of your Conversion: but yet overvalue not yourDirect. 5. first degrees of knowledge or holiness: but remember that you are yet but in your infancy, and ",
+     "segments": 21
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.3.6",
+     "title": "Direct. 6. BE not discouraged at the difficulties and oppositions which will rise up before you, when you begin resolvedly to walk with God.",
+     "segments": 13
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.3.7",
+     "title": "Direct. 7. IF it be in your power, live under a judicious, faithful, serious, searching, powerful Minister; Direct. 7. Sulpitius S 〈…〉 rus in •• t. Ma tini▪ no eth that none but Bishops were against h",
+     "segments": 8
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.3.8",
+     "title": "Direct. 8. KEep right apprehensions of the excellency of Charity and Unity among believers, and Direct. 8. Against Uncha •••• ableness and Schism. See more in T • n. 2. C •. 23. receive nothing hastil",
+     "segments": 11
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.3.9",
+     "title": "Direct. 9. TAke heed lest any persecution or wrong from others, provoke you to any unwarrantable passions and practices, and deprive you of the Charity, meekness and innocency of a Christian; or make ",
+     "segments": 4
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.3.10",
+     "title": "Direct. 10. WHen you are repenting of, or avoiding any extream, do it not without sufficientDirect. 10. fear and caution of the contrary extream.",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.3.11",
+     "title": "Direct. 11. I Et not your first Opinions about the controverted difficulties in Religion, (where Scripture Direct. 11. For Modesty in your first Opinions. is not very plain) be too peremptory, confide",
+     "segments": 10
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.3.12",
+     "title": "Direct. 12. IF Controversies • ccasion any Divisions where you live, be sure to look first to the interest 〈1 paragraph〉 of Common Truth and Good, and to the exercise of Charity: And become not passio",
+     "segments": 6
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.3.13",
+     "title": "Direct. 13. KNow that true Godliness is the Best Life upon Earth, and the only may to perfectDirect. 13. Happiness: Still apprehend it therefore, and Use it as the best: and with great diligence •• si",
+     "segments": 17
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.3.14",
+     "title": "Direct. 14. BE very diligent in mortifying the desires and pleasures of the flesh; and keep a continualDirect. 14. watch upon your senses appetite and lusts; and cast not your selves upon temptations,",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.3.15",
+     "title": "Direct. 15. BE exceeding wary not only what Teachers you commit the guidance of your souls unto, Direct. 15. Nam si falsi & solo nomine tumidi, non modo non consulendi, sed vitandi sunt, quibus nihil ",
+     "segments": 8
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.3.16",
+     "title": "Direct. 16. MAke careful choice of the Books which you read. Let the Holy Scriptures ever haveDirect. 10. the preheminence, and next them, the solid, lively, heavenly Treatises which best expound and ",
+     "segments": 6
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.3.17",
+     "title": "Direct. 17. TAke heed that you receive not a Doctrine of Libertinism as from the Gospel, nor conceiveDirect. 17. of Christ as an encourager of sin; nor pretend free grace for your carnal security or s",
+     "segments": 6
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.3.18",
+     "title": "Direct. 18. WAtch diligently hath against the more discernable decayes of grace, and againstDirect. 18. the degenerating of it into some carnal affections: or something counterfeit, and of another kin",
+     "segments": 5
+    },
+    {
+     "file": "0044.json",
+     "ref": "1.3.19",
+     "title": "Direct. 19. PRomise not your selves long life, or prosperity and great matters in the world, lest it entangleDirect. 19. your hearts with transitory things, and engage you in ambitious or covetous des",
+     "segments": 5
+    },
+    {
+     "file": "0045.json",
+     "ref": "1.3.20",
+     "title": "Direct. 20. SEe that your Religion be purely Divine, and animated all by God, as the Beginning, the Direct. 20. D 〈…〉 & ma 〈…〉 d •• •••• bat • ia ••: 〈…〉 nem 〈◊〉 • e • 〈◊〉 • e • i▪ 〈◊〉 sufficere qu • ",
+     "segments": 4
+    },
+    {
+     "file": "0046.json",
+     "ref": "1.4.0",
+     "title": "CHAP. III. The General Grand Directions for Walking with God, in a Life of Faith and Holiness: Containing the Essentials of Godliness and Christianity.",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "1.4.1",
+     "title": "DIRECT. I. Labour to understand well the Nature, Grounds, Reason and Order of Faith andGr. Dir. 1. Godliness: and to Believe upon such grounds, so well understood, as will not sufferFor a wellgrounded",
+     "segments": 22
+    },
+    {
+     "file": "0048.json",
+     "ref": "1.4.2",
+     "title": "DIRECT. II. Diligently labour in that part of the life of faith, which consisteth in the constant 〈1 paragraph〉 use of Christ, as the Means of the souls access to God, acceptance with him, and comfort",
+     "segments": 25
+    },
+    {
+     "file": "0049.json",
+     "ref": "1.4.3",
+     "title": "DIRECT. III. Gr. Dir. 3. Understand well what it is to believe in the Holy Ghost: and see that he dwellTo believe in the Holy Ghost, and live upon his Grace. and operate in thee, as the Life of thy so",
+     "segments": 22
+    },
+    {
+     "file": "0050.json",
+     "ref": "1.4.4",
+     "title": "DIRECT. IV. Gr. Dir. 4. Let it be your chiefest study to attain to a true, orderly, and practical knowledge of God,For the true and orderly impression of Gods Attributes on the heart. in his several A",
+     "segments": 12
+    },
+    {
+     "file": "0051.json",
+     "ref": "1.4.5",
+     "title": "DIRECT. V. Remember that God is your Lord or Owner: and see that you make an absolute Gr. Dir. 5. Of Self-resignation to God as our Owner. Resignation of your selves, and all that you have to him as h",
+     "segments": 9
+    },
+    {
+     "file": "0052.json",
+     "ref": "1.4.6",
+     "title": "DIRECT. VI. Gr. Dir. 6. Remember that God is your Soveraign King, to Rule and Iudge you: And that it is your Rectitude and happiness to obey and please him: Labour therefore to bringOf subjection to G",
+     "segments": 29
+    },
+    {
+     "file": "0053.json",
+     "ref": "1.4.7.0",
+     "title": "DIRECT. VII. Continue as the Covenanted Scholars of Christ, the Prophet and Teacher of hisGr. Dir. 7. Church, to learn of him by his Spirit, word and Ministers, the farther knowledge 〈1 paragraph〉 of ",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "1.4.7.1",
+     "title": "S • ct. 2. Directions for Learning of Christ as our Teacher.Direct. 1.",
+     "segments": 37
+    },
+    {
+     "file": "0055.json",
+     "ref": "1.4.8",
+     "title": "DIRECT. VIII. Gr. Dir. 6. To obev Christ as our Physicion in his healing work, and his Spirit in its cleansing mortifying work. Remember that you are Related to Christ as the Physicion of your souls, ",
+     "segments": 139
+    },
+    {
+     "file": "0056.json",
+     "ref": "1.4.9.0",
+     "title": "DIRECT. IX. Spend all your dayes in a skilful, vigilant, resolute and valiant War against the Flesh, Gr. Dir. 9. Our Warfare under Christ against the Tempter. the World and the Devil, as those that ha",
+     "segments": 63
+    },
+    {
+     "file": "0057.json",
+     "ref": "1.4.9.1",
+     "title": "The Methods of Christ against the Tempter.",
+     "segments": 15
+    },
+    {
+     "file": "0058.json",
+     "ref": "1.4.9.2",
+     "title": "Tit. 2. Temptations to particular sins; with Directions for preservation and Remedy.",
+     "segments": 122
+    },
+    {
+     "file": "0059.json",
+     "ref": "1.4.9.3",
+     "title": "Tit. 3. Temptations to draw us off from duty.",
+     "segments": 27
+    },
+    {
+     "file": "0060.json",
+     "ref": "1.4.9.4",
+     "title": "Tit. 4. Temptations to frustrate holy duties, and make them uneffectual.",
+     "segments": 43
+    },
+    {
+     "file": "0061.json",
+     "ref": "1.4.10.0",
+     "title": "DIRECT. X. Your lives must be laid out in doing God service, and doing all the good you can, in Gr. Dir. 10 •••• s • rving Christ ou • Master in good works. works of piety, justice and charity, with p",
+     "segments": 15
+    },
+    {
+     "file": "0062.json",
+     "ref": "1.4.10.1",
+     "title": "Directions for faithful serving Christ, and doing Good.",
+     "segments": 74
+    },
+    {
+     "file": "0063.json",
+     "ref": "1.4.11.0",
+     "title": "DIRECT. XI. Let it be most deeply engraven on thy heart, that God is infinitely good, and amiable:Gr. Dir. 11. thy grand Benefactor and Father in Christ; the End of all that thou art andFor loving G •",
+     "segments": 1
+    },
+    {
+     "file": "0064.json",
+     "ref": "1.4.11.1",
+     "title": "Directions for Loving God as our Father and Felicity.",
+     "segments": 46
+    },
+    {
+     "file": "0065.json",
+     "ref": "1.4.12.0",
+     "title": "DIRECT. XII. Trust God with that soul and body which thou hast delivered up and dedicated toGr. Dir. 12. him; and quiet thy mind in his Love and faithfulness, whatever shall appear toTo Trust in God. ",
+     "segments": 8
+    },
+    {
+     "file": "0066.json",
+     "ref": "1.4.12.1",
+     "title": "§. 7. Directions for a quieting and comforting Trust in God.",
+     "segments": 15
+    },
+    {
+     "file": "0067.json",
+     "ref": "1.4.13",
+     "title": "DIRECT. XIII. Diligently labour that God and Holiness may be thy chief DELIGHT: and this • r. Dir. 13. 〈…〉 in G • d. holy DELIGHT may be the ordinary temperament of thy Religion.",
+     "segments": 23
+    },
+    {
+     "file": "0068.json",
+     "ref": "1.4.14",
+     "title": "DIRECT. XIV. Let Thankfulness to God thy Creator, Redeemer and Regenerater, be the very Gr. Dir. 14. For a life of Thankfulness. temperament of thy soul, and faithfully expressed by thy Tongue and Lif",
+     "segments": 22
+    },
+    {
+     "file": "0069.json",
+     "ref": "1.4.15.0",
+     "title": "DIRECT. XV. Let thy very heart be set to GLORIFIE GOD, thy Creator, RedeemerGr. Dir. 15. and Sanctifier, both with the Estimation of thy Mind, the Praises of thy Mouth,To Glorifie God. and the Holines",
+     "segments": 2
+    },
+    {
+     "file": "0070.json",
+     "ref": "1.4.15.1",
+     "title": "Directions for Glorifying God with the Heart.",
+     "segments": 10
+    },
+    {
+     "file": "0071.json",
+     "ref": "1.4.15.2",
+     "title": "Directions for Glorifying God with our tongues, in his Praises.",
+     "segments": 21
+    },
+    {
+     "file": "0072.json",
+     "ref": "1.4.15.3",
+     "title": "Directions for the glorifying God in our Lives.",
+     "segments": 12
+    },
+    {
+     "file": "0073.json",
+     "ref": "1.4.16",
+     "title": "DIRECT. XVI. Let your life on Earth be a conversation in Heaven; by the constant work ofGr. Dir. 16. Faith and Love: even such a faith as maketh things future as now present, and the unseen world as i",
+     "segments": 1
+    },
+    {
+     "file": "0074.json",
+     "ref": "1.4.17",
+     "title": "DIRECT. XVII. As the soul must be carried up to God, and devoted to him, according to all theGr. Dir. 17. foregoing Directions, so must it be delivered from carnal selfishness, or fleshpleasing,I pass",
+     "segments": 2
+    },
+    {
+     "file": "0075.json",
+     "ref": "1.4.18",
+     "title": "APPENDIX.",
+     "segments": 168
+    },
+    {
+     "file": "0076.json",
+     "ref": "1.5.0",
+     "title": "CHAP. IV. Subordinate Directions against those Grand heart-sins, which are directly contrary to the Life of Godliness and Christianity.",
+     "segments": 1
+    },
+    {
+     "file": "0077.json",
+     "ref": "1.5.1",
+     "title": "PART I. Directions against UNBELIEF.",
+     "segments": 54
+    },
+    {
+     "file": "0078.json",
+     "ref": "1.5.2",
+     "title": "PART II. Directions against Hardness of Heart.",
+     "segments": 31
+    },
+    {
+     "file": "0079.json",
+     "ref": "1.5.3",
+     "title": "PART III. Directions against Hypocrisie.",
+     "segments": 32
+    },
+    {
+     "file": "0080.json",
+     "ref": "1.5.4",
+     "title": "PART IV. Directions against inordinate Man-pleasing: or that Over-valuing the Favour and Censure of Man, which is the fruit of Pride, and a great Cause of Hypocrisie: Or Directions against IDOLIZING M",
+     "segments": 68
+    },
+    {
+     "file": "0081.json",
+     "ref": "1.5.5.0",
+     "title": "PART V. Directions against Pride, and for Humility.",
+     "segments": 28
+    },
+    {
+     "file": "0082.json",
+     "ref": "1.5.5.1",
+     "title": "Signs of the worst part of PRIDE against GOD.",
+     "segments": 21
+    },
+    {
+     "file": "0083.json",
+     "ref": "1.5.5.2",
+     "title": "Signs of the next Degrees of Pride as against God.",
+     "segments": 12
+    },
+    {
+     "file": "0084.json",
+     "ref": "1.5.5.3",
+     "title": "The Signs of Pride in and about Religious duties.",
+     "segments": 10
+    },
+    {
+     "file": "0085.json",
+     "ref": "1.5.5.4",
+     "title": "Signs of Pride in common converse.",
+     "segments": 78
+    },
+    {
+     "file": "0086.json",
+     "ref": "1.5.6",
+     "title": "PART VI. See an excellen • • ract. a • 〈◊〉 〈…〉 3. 〈…〉 Pat. (though 〈…〉) Directions against Covetousness, or Love of Riches, and against worldly Cares.",
+     "segments": 42
+    },
+    {
+     "file": "0087.json",
+     "ref": "1.5.7",
+     "title": "PART VII. Directions against the Master sin; SENSUALITY, FLESH-PLEASING or Voluptuousness.",
+     "segments": 52
+    },
+    {
+     "file": "0088.json",
+     "ref": "1.6.1",
+     "title": "Directions for REDEEMING or well improving TIME.",
+     "segments": 7
+    },
+    {
+     "file": "0089.json",
+     "ref": "1.6.2",
+     "title": "The Directions contemplative for Redeeming Time.",
+     "segments": 20
+    },
+    {
+     "file": "0090.json",
+     "ref": "1.6.3",
+     "title": "Tit. 2. Directions Contemplative for Redeeming Opportunity.",
+     "segments": 11
+    },
+    {
+     "file": "0091.json",
+     "ref": "1.6.4",
+     "title": "Tit. 3. Directions Practical for Redeeming Time.",
+     "segments": 12
+    },
+    {
+     "file": "0092.json",
+     "ref": "1.6.5",
+     "title": "Tit. 4. The Thieves or Time-wasters to be watchfully avoided.",
+     "segments": 12
+    },
+    {
+     "file": "0093.json",
+     "ref": "1.6.6",
+     "title": "Tit. 5. On whom this duty of Redeeming Time, is principally incumbent.",
+     "segments": 10
+    },
+    {
+     "file": "0094.json",
+     "ref": "1.7.0",
+     "title": "CHAP. VI. Directions for the Government of the Thoughts.",
+     "segments": 1
+    },
+    {
+     "file": "0095.json",
+     "ref": "1.7.1",
+     "title": "Tit. 1. Directions against evil and idle Thoughts.",
+     "segments": 17
+    },
+    {
+     "file": "0096.json",
+     "ref": "1.7.2",
+     "title": "Tit. 2. Directions to furnish the Mind with good Thoughts.",
+     "segments": 22
+    },
+    {
+     "file": "0097.json",
+     "ref": "1.7.3.0",
+     "title": "Tit. 3. Directions how to make good Thoughts effectual: or, General Directions for Meditation.",
+     "segments": 15
+    },
+    {
+     "file": "0098.json",
+     "ref": "1.7.3.1",
+     "title": "Directions about the work it self.",
+     "segments": 18
+    },
+    {
+     "file": "0099.json",
+     "ref": "1.7.4",
+     "title": "Tit. 4. The Difference between a Contemplative life, and an obedient active life, with Directions concerning them.",
+     "segments": 22
+    },
+    {
+     "file": "0100.json",
+     "ref": "1.7.5",
+     "title": "Tit. 5. Directions to the Melancholy about their Thoughts.",
+     "segments": 27
+    },
+    {
+     "file": "0101.json",
+     "ref": "1.7.6",
+     "title": "Tit. 6. Directions for young Students, for the most profitable ordering of their studying Thoughts.",
+     "segments": 67
+    },
+    {
+     "file": "0102.json",
+     "ref": "1.8.0",
+     "title": "CHAP. VII. Directions for the Government of the Passions.",
+     "segments": 3
+    },
+    {
+     "file": "0103.json",
+     "ref": "1.8.1",
+     "title": "Tit. 1. Directions against all sinful Passions in general.",
+     "segments": 21
+    },
+    {
+     "file": "0104.json",
+     "ref": "1.8.2.0",
+     "title": "Tit. 2. Directions against sinful Love of Creatures.",
+     "segments": 2
+    },
+    {
+     "file": "0105.json",
+     "ref": "1.8.2.1",
+     "title": "Helps for discovering of sinful Love.",
+     "segments": 10
+    },
+    {
+     "file": "0106.json",
+     "ref": "1.8.2.2",
+     "title": "Helps to mortifie sinful Love.",
+     "segments": 10
+    },
+    {
+     "file": "0107.json",
+     "ref": "1.8.3",
+     "title": "Tit. 3. Directions against sinful Desires and Discontent.",
+     "segments": 22
+    },
+    {
+     "file": "0108.json",
+     "ref": "1.8.4",
+     "title": "Tit. 4. Directions against sinful Mirth and Pleasure.",
+     "segments": 19
+    },
+    {
+     "file": "0109.json",
+     "ref": "1.8.5",
+     "title": "Tit. 5. Directions against sinful Hopes.",
+     "segments": 8
+    },
+    {
+     "file": "0110.json",
+     "ref": "1.8.6",
+     "title": "Tit. 6. Directions against sinful Hatred, Aversation or Backwardness towardsOf Hatred to men I shall speak anon. God.",
+     "segments": 19
+    },
+    {
+     "file": "0111.json",
+     "ref": "1.8.7.0",
+     "title": "Tit. 7. Directions against sinful Wrath or Anger.",
+     "segments": 2
+    },
+    {
+     "file": "0112.json",
+     "ref": "1.8.7.1",
+     "title": "Directions Meditative against sinful Anger.",
+     "segments": 25
+    },
+    {
+     "file": "0113.json",
+     "ref": "1.8.7.2",
+     "title": "Directions Practicall against sinful Anger.",
+     "segments": 16
+    },
+    {
+     "file": "0114.json",
+     "ref": "1.8.8.0",
+     "title": "Tit. 8. Directions against sinful Fear.",
+     "segments": 2
+    },
+    {
+     "file": "0115.json",
+     "ref": "1.8.8.1",
+     "title": "Directions against sinful fear of God.",
+     "segments": 12
+    },
+    {
+     "file": "0116.json",
+     "ref": "1.8.8.2",
+     "title": "Directions against sinful fear of the Devil.",
+     "segments": 10
+    },
+    {
+     "file": "0117.json",
+     "ref": "1.8.8.3",
+     "title": "Directions against the sinful fear of men, and sufferings by them.",
+     "segments": 24
+    },
+    {
+     "file": "0118.json",
+     "ref": "1.8.9",
+     "title": "Tit. 9. Directions against sinful Grief and Trouble.",
+     "segments": 23
+    },
+    {
+     "file": "0119.json",
+     "ref": "1.8.10",
+     "title": "Tit. 10. Directions against sinful Despair (and Doubting.)",
+     "segments": 42
+    },
+    {
+     "file": "0120.json",
+     "ref": "1.9.1",
+     "title": "PART I. General Directions for the Government of the Senses (by a Life of Faith).",
+     "segments": 25
+    },
+    {
+     "file": "0121.json",
+     "ref": "1.9.2",
+     "title": "PART. II. Particular Directions for the Government of the Eyes.",
+     "segments": 10
+    },
+    {
+     "file": "0122.json",
+     "ref": "1.9.3",
+     "title": "PART. III. Directions for the Government of the Ear.",
+     "segments": 14
+    },
+    {
+     "file": "0123.json",
+     "ref": "1.9.4.1",
+     "title": "Tit. 1. Directions against Gluttony.",
+     "segments": 14
+    },
+    {
+     "file": "0124.json",
+     "ref": "1.9.4.2",
+     "title": "III. The Greatness of the sin of Gluttony.",
+     "segments": 22
+    },
+    {
+     "file": "0125.json",
+     "ref": "1.9.4.3",
+     "title": "IV. The Directions or Helps against it.",
+     "segments": 33
+    },
+    {
+     "file": "0126.json",
+     "ref": "1.9.4.4",
+     "title": "Tit. 2. Directions against Drunkenness and all excess of Drink.",
+     "segments": 96
+    },
+    {
+     "file": "0127.json",
+     "ref": "1.9.4.5",
+     "title": "Practical Directions against Tipling and Drunkenness.",
+     "segments": 16
+    },
+    {
+     "file": "0128.json",
+     "ref": "1.9.5.1",
+     "title": "Tit. 1. Directions against Fornication and all Uncleanness.",
+     "segments": 21
+    },
+    {
+     "file": "0129.json",
+     "ref": "1.9.5.2",
+     "title": "II. The Directions against fornication.",
+     "segments": 10
+    },
+    {
+     "file": "0130.json",
+     "ref": "1.9.5.3",
+     "title": "Tit. 2. Directions against inward filthy Lusts.",
+     "segments": 18
+    },
+    {
+     "file": "0131.json",
+     "ref": "1.9.6",
+     "title": "PART. VI. Directions against sinful Excess of Sleep.",
+     "segments": 25
+    },
+    {
+     "file": "0132.json",
+     "ref": "1.9.7",
+     "title": "PART VII. Directions against sinful Dreams.",
+     "segments": 9
+    },
+    {
+     "file": "0133.json",
+     "ref": "1.10.1",
+     "title": "Tit. 1. The General Directions.",
+     "segments": 53
+    },
+    {
+     "file": "0134.json",
+     "ref": "1.10.2",
+     "title": "Tit. 2. Special Directions against prophane swearing, and using Gods name unreverently and in vain.",
+     "segments": 54
+    },
+    {
+     "file": "0135.json",
+     "ref": "1.10.3",
+     "title": "Tit. 3. Special Directions against Lying and Dissembling.",
+     "segments": 90
+    },
+    {
+     "file": "0136.json",
+     "ref": "1.10.4",
+     "title": "Tit. 4. Special Directions against Idle talk, and Babling.",
+     "segments": 59
+    },
+    {
+     "file": "0137.json",
+     "ref": "1.10.5",
+     "title": "Tit. 5. Special Directions against filthy, ribbald, scurrilous Talk.",
+     "segments": 14
+    },
+    {
+     "file": "0138.json",
+     "ref": "1.10.6",
+     "title": "Tit. 6. Directions against Prophane deriding, scorning, or opposing Godliness.",
+     "segments": 61
+    },
+    {
+     "file": "0139.json",
+     "ref": "1.11.1.1",
+     "title": "Tit. 1. Directions for the Right choice of our Calling and ordinary Labour.",
+     "segments": 39
+    },
+    {
+     "file": "0140.json",
+     "ref": "1.11.1.2",
+     "title": "Tit. 2. Directions against Idleness and Sloth.",
+     "segments": 40
+    },
+    {
+     "file": "0141.json",
+     "ref": "1.11.1.3",
+     "title": "Tit. 3. Directions against Sloth and Laziness in things spiritual: and for zeal and Diligence.",
+     "segments": 42
+    },
+    {
+     "file": "0142.json",
+     "ref": "1.11.2",
+     "title": "PART II. Directions about Sports and Recreations, and against excess and sin therein.",
+     "segments": 63
+    },
+    {
+     "file": "0143.json",
+     "ref": "1.11.3",
+     "title": "PART III. Directions about Apparel, and against the Sin therein committed.",
+     "segments": 30
+    },
+    {
+     "file": "0144.json",
+     "ref": "1.end",
+     "title": "1.end",
+     "segments": 1
+    },
+    {
+     "file": "0145.json",
+     "ref": "2.1",
+     "title": "To all that fear God in the Burrough and Parish of Kederminster in Worcestershire.",
+     "segments": 4
+    },
+    {
+     "file": "0146.json",
+     "ref": "2.2.0",
+     "title": "A Christian Directory. TOM. II. Christian Oeconomicks.",
+     "segments": 73
+    },
+    {
+     "file": "0147.json",
+     "ref": "2.2.1",
+     "title": "Tit. 2. Cases of Marriage.",
+     "segments": 36
+    },
+    {
+     "file": "0148.json",
+     "ref": "2.3.1",
+     "title": "PART I. Directions for the right choice of Servants.",
+     "segments": 5
+    },
+    {
+     "file": "0149.json",
+     "ref": "2.3.2",
+     "title": "PART II. Directions for the right choice of Masters.",
+     "segments": 9
+    },
+    {
+     "file": "0150.json",
+     "ref": "2.4.0",
+     "title": "CHAP. III. A DISPUTATION, OR, Arguments to prove the necessity of Family-worship and Holiness or Directions against the Cavils of the Prophane, and some Sectaries, who deny it to be a thing required b",
+     "segments": 109
+    },
+    {
+     "file": "0151.json",
+     "ref": "2.4.1",
+     "title": "Objections answered.",
+     "segments": 8
+    },
+    {
+     "file": "0152.json",
+     "ref": "2.4.2",
+     "title": "Of the frequency and seasons of Family-Worship.",
+     "segments": 13
+    },
+    {
+     "file": "0153.json",
+     "ref": "2.5",
+     "title": "CHAP. IV. General Directions for the Holy Government of Families.",
+     "segments": 20
+    },
+    {
+     "file": "0154.json",
+     "ref": "2.6",
+     "title": "CHAP. V. Special Motives to perswade men to the Holy Governing of their Families.",
+     "segments": 12
+    },
+    {
+     "file": "0155.json",
+     "ref": "2.7",
+     "title": "CHAP. VI. More special Motives for a holy and careful Education of Children.",
+     "segments": 10
+    },
+    {
+     "file": "0156.json",
+     "ref": "2.8",
+     "title": "CHAP. VII. The mutual Duties of Husbands and Wives towards each other.",
+     "segments": 48
+    },
+    {
+     "file": "0157.json",
+     "ref": "2.9",
+     "title": "CHAP. VIII. The special Duties of Husbands to their Wives.",
+     "segments": 11
+    },
+    {
+     "file": "0158.json",
+     "ref": "2.10.0",
+     "title": "CHAP. IX. The special Duties of Wives to Husbands.",
+     "segments": 27
+    },
+    {
+     "file": "0159.json",
+     "ref": "2.10.1",
+     "title": "Cases about Divorce and Separation.",
+     "segments": 84
+    },
+    {
+     "file": "0160.json",
+     "ref": "2.11",
+     "title": "CHAP. X. The Duties of Parents for their Children.",
+     "segments": 28
+    },
+    {
+     "file": "0161.json",
+     "ref": "2.12",
+     "title": "CHAP. XI. The special Duties of Children towards their Parents.",
+     "segments": 16
+    },
+    {
+     "file": "0162.json",
+     "ref": "2.13",
+     "title": "CHAP. XII. The special Duties of Children and Youth towards God.",
+     "segments": 13
+    },
+    {
+     "file": "0163.json",
+     "ref": "2.14",
+     "title": "CHAP. XIII. The Duties of Servants to their Masters.",
+     "segments": 13
+    },
+    {
+     "file": "0164.json",
+     "ref": "2.15.0",
+     "title": "CHAP. XIV. The Duties of Masters towards their Servants.",
+     "segments": 11
+    },
+    {
+     "file": "0165.json",
+     "ref": "2.15.1",
+     "title": "Tit. 2. Directions to those Masters in foraign Plantations who have Negro's and other Slaves; being a solution of several Cases about them.",
+     "segments": 35
+    },
+    {
+     "file": "0166.json",
+     "ref": "2.16",
+     "title": "CHAP. XV. The Duties of Children and Fellow-servants to one another.",
+     "segments": 9
+    },
+    {
+     "file": "0167.json",
+     "ref": "2.17",
+     "title": "CHAP. XVI. Directions for holy Conference of Fellow-servants, or others.",
+     "segments": 16
+    },
+    {
+     "file": "0168.json",
+     "ref": "2.18",
+     "title": "CHAP. XVII. Directions for each particular member of the Family, how to spend every ordinary day of the week.",
+     "segments": 22
+    },
+    {
+     "file": "0169.json",
+     "ref": "2.19.1",
+     "title": "Tit. 1. Directions for the holy spending of the Lords Day in Families.",
+     "segments": 18
+    },
+    {
+     "file": "0170.json",
+     "ref": "2.19.2",
+     "title": "Tit. 2. More particular Directions for the order of holy duties.",
+     "segments": 18
+    },
+    {
+     "file": "0171.json",
+     "ref": "2.20.0",
+     "title": "CHAP. XIX. Directions for profitable Hearing the Word Preached.",
+     "segments": 1
+    },
+    {
+     "file": "0172.json",
+     "ref": "2.20.1",
+     "title": "Tit. 1. Directions for the Understanding the Word which you hear.",
+     "segments": 12
+    },
+    {
+     "file": "0173.json",
+     "ref": "2.20.2",
+     "title": "Tit. 2. Directions for Remembering what you Hear.",
+     "segments": 15
+    },
+    {
+     "file": "0174.json",
+     "ref": "2.20.3",
+     "title": "Tit. 3. Directions for holy Resolutions and Affections in hearing.",
+     "segments": 11
+    },
+    {
+     "file": "0175.json",
+     "ref": "2.20.4",
+     "title": "Tit. 4. Directions to bring what we Hear into Practice.",
+     "segments": 12
+    },
+    {
+     "file": "0176.json",
+     "ref": "2.21",
+     "title": "CHAP. XX. Directions for profitable Reading the holy Scriptures.",
+     "segments": 11
+    },
+    {
+     "file": "0177.json",
+     "ref": "2.22",
+     "title": "CHAP. XXI. Directions for Reading other Books.",
+     "segments": 15
+    },
+    {
+     "file": "0178.json",
+     "ref": "2.23",
+     "title": "CHAP. XXII. Directions for the right Teaching of Children and Servants, so as may be most likely to have success.",
+     "segments": 26
+    },
+    {
+     "file": "0179.json",
+     "ref": "2.24.1.0",
+     "title": "Tit. 1. Directions for Prayer, in General.",
+     "segments": 12
+    },
+    {
+     "file": "0180.json",
+     "ref": "2.24.1.1",
+     "title": "A Brief Explication of the Method of the LORDS PRAYER.",
+     "segments": 3
+    },
+    {
+     "file": "0181.json",
+     "ref": "2.24.2",
+     "title": "Tit. 2. Some Questions about Prayer answered.",
+     "segments": 67
+    },
+    {
+     "file": "0182.json",
+     "ref": "2.24.3",
+     "title": "Tit. 3. Special Directions for Family-Prayer.",
+     "segments": 10
+    },
+    {
+     "file": "0183.json",
+     "ref": "2.24.4",
+     "title": "Tit. 4. Special Directions for secret Prayer.",
+     "segments": 6
+    },
+    {
+     "file": "0184.json",
+     "ref": "2.25",
+     "title": "CHAP. XXIV. Brief Directions for Families about the Sacrament of the Body and Blood of Christ.",
+     "segments": 87
+    },
+    {
+     "file": "0185.json",
+     "ref": "2.26",
+     "title": "CHAP. XXV. Directions for fearful troubled Christians that are perplexed with doubts of their sincerity and justification.",
+     "segments": 19
+    },
+    {
+     "file": "0186.json",
+     "ref": "2.27.0",
+     "title": "CHAP. XXVI. Directions for Declining or Backsliding Christians: and about Perseverance.",
+     "segments": 52
+    },
+    {
+     "file": "0187.json",
+     "ref": "2.27.1",
+     "title": "Tit. 2. Directions for preventing Backsliding: or for Perseverance.",
+     "segments": 24
+    },
+    {
+     "file": "0188.json",
+     "ref": "2.28",
+     "title": "CHAP. XXVII. Directions for the Poor.",
+     "segments": 40
+    },
+    {
+     "file": "0189.json",
+     "ref": "2.29",
+     "title": "CHAP. XXIII. Directions for the Rich.",
+     "segments": 25
+    },
+    {
+     "file": "0190.json",
+     "ref": "2.30",
+     "title": "CHAP. XXIX. Directions for the Aged (and weak).",
+     "segments": 16
+    },
+    {
+     "file": "0191.json",
+     "ref": "2.31.0",
+     "title": "CHAP. XXX. Directions for the Sick.",
+     "segments": 1
+    },
+    {
+     "file": "0192.json",
+     "ref": "2.31.1.0",
+     "title": "Tit. 1. Directions for a safe Death; to secure our Salvation.",
+     "segments": 1
+    },
+    {
+     "file": "0193.json",
+     "ref": "2.31.1.1",
+     "title": "1. Directions for an uncoverted sinner in his sickness.",
+     "segments": 11
+    },
+    {
+     "file": "0194.json",
+     "ref": "2.31.1.2",
+     "title": "II. Directions to the Sanctified, for a safe departure.",
+     "segments": 13
+    },
+    {
+     "file": "0195.json",
+     "ref": "2.31.2",
+     "title": "Tit. 2. Directions how to Profit by our Sickness.",
+     "segments": 14
+    },
+    {
+     "file": "0196.json",
+     "ref": "2.31.3.0",
+     "title": "Tit. 3. Directions for a Comfortable or Peaceable Death.",
+     "segments": 19
+    },
+    {
+     "file": "0197.json",
+     "ref": "2.31.3.1",
+     "title": "Directions for resisting the Temptations of Satan, in the time of sickness.",
+     "segments": 14
+    },
+    {
+     "file": "0198.json",
+     "ref": "2.31.4",
+     "title": "Tit. 4. Directions for doing Good to others in our Sickness.",
+     "segments": 9
+    },
+    {
+     "file": "0199.json",
+     "ref": "2.32.0",
+     "title": "CHAP. XXXI. Directions to the Friends of the Sick that are about them.",
+     "segments": 28
+    },
+    {
+     "file": "0200.json",
+     "ref": "2.32.1",
+     "title": "A Form of Exhortation to the Ungodly in their Sickness (or those that we fear are such.)",
+     "segments": 19
+    },
+    {
+     "file": "0201.json",
+     "ref": "2.32.2",
+     "title": "A Form of Exhortation to the Godly in their Sickness.",
+     "segments": 11
+    },
+    {
+     "file": "0202.json",
+     "ref": "2.end",
+     "title": "2.end",
+     "segments": 1
+    },
+    {
+     "file": "0203.json",
+     "ref": "3.1",
+     "title": "3.1",
+     "segments": 6
+    },
+    {
+     "file": "0204.json",
+     "ref": "3.2",
+     "title": "A Christian Directory. TOM. III. Christian Ecclesiasticks.",
+     "segments": 30
+    },
+    {
+     "file": "0205.json",
+     "ref": "3.3",
+     "title": "CHAP. II. Directions about the Manner of Worship, to avoid all corruptions, and false unacceptable Worshipping of God.",
+     "segments": 36
+    },
+    {
+     "file": "0206.json",
+     "ref": "3.4",
+     "title": "CHAP. III. Directions about the Christian Covenant with God, and Baptism.",
+     "segments": 24
+    },
+    {
+     "file": "0207.json",
+     "ref": "3.5",
+     "title": "CHAP. IV. Directions about the Profession of our Religion to others.",
+     "segments": 16
+    },
+    {
+     "file": "0208.json",
+     "ref": "3.6.1",
+     "title": "Tit. 1. Directions for the right making such Vows and Covenants.",
+     "segments": 38
+    },
+    {
+     "file": "0209.json",
+     "ref": "3.6.2",
+     "title": "Tit. 2. Directions against Perjury and Perfidiousness: and for keeping Vows and Oaths.",
+     "segments": 102
+    },
+    {
+     "file": "0210.json",
+     "ref": "3.7",
+     "title": "CHAP. VI. Directions to the People concerning their Internal and Private Duty to their Pastors, and the improvement of their Ministerial Office and Guifts.",
+     "segments": 45
+    },
+    {
+     "file": "0211.json",
+     "ref": "3.8",
+     "title": "CHAP. VII. Directions for the discovery of the Truth among Contenders, and the escape of Heresie and Deceit.",
+     "segments": 39
+    },
+    {
+     "file": "0212.json",
+     "ref": "3.9",
+     "title": "CHAP. VIII. Directions for the Union and Communion of Saints, and the avoiding unpeaceableness and Schism.",
+     "segments": 139
+    },
+    {
+     "file": "0213.json",
+     "ref": "3.10",
+     "title": "CHAP. IX. How to behave our selves in the publick Assemblies, and the worship there performed, and after them.",
+     "segments": 23
+    },
+    {
+     "file": "0214.json",
+     "ref": "3.11",
+     "title": "CHAP. X. Directions about our Communion with Holy Souls Departed, and now with Christ.",
+     "segments": 27
+    },
+    {
+     "file": "0215.json",
+     "ref": "3.12",
+     "title": "CHAP. XI. Directions about our Communion with the Holy Angels.",
+     "segments": 27
+    },
+    {
+     "file": "0216.json",
+     "ref": "3.13",
+     "title": "3.13",
+     "segments": 4
+    },
+    {
+     "file": "0217.json",
+     "ref": "3.14",
+     "title": "CASES OF CONSCIENCE ABOUT Matters Ecclesiastical.",
+     "segments": 36
+    },
+    {
+     "file": "0218.json",
+     "ref": "3.15",
+     "title": "Quest. 2. Whether we must esteem the Church of Rome a true Church? And in what sense some Divines affirm it, and some deny it.",
+     "segments": 9
+    },
+    {
+     "file": "0219.json",
+     "ref": "3.16",
+     "title": "Quest. 3. Whether we must take the Romish Clergy for true Ministers of Christ? And whether their Baptism, and Ordination be nullities?",
+     "segments": 27
+    },
+    {
+     "file": "0220.json",
+     "ref": "3.17",
+     "title": "Quest. 4. Whether it be necessary to believe that the Pope is the Antichrist?",
+     "segments": 5
+    },
+    {
+     "file": "0221.json",
+     "ref": "3.18",
+     "title": "Quest. 5. Whether we must hold that a Papist may be saved?",
+     "segments": 11
+    },
+    {
+     "file": "0222.json",
+     "ref": "3.19",
+     "title": "Quest. 6. Whether those that are in the Church of Rome, are bound to separate from it? And whether it be lawful to go to their Mass or other Worship?",
+     "segments": 12
+    },
+    {
+     "file": "0223.json",
+     "ref": "3.20",
+     "title": "Quest. 7. Whether the true Calling of the Minister by Ordination or Election, &c. be necessary to the Essence of the Church?",
+     "segments": 5
+    },
+    {
+     "file": "0224.json",
+     "ref": "3.21",
+     "title": "Quest. 8. Whether sincere faith and Godliness be necessary to the Being of the Ministry? And whether it be lawful to hear a wicked man, or take the Sacrament from him, or take him for a Minister.",
+     "segments": 14
+    },
+    {
+     "file": "0225.json",
+     "ref": "3.22",
+     "title": "Quest. 9. Whether the people are bound to Receive or Consent to an ungodly, intolerable, heretical Pastor, yea or one far less fit and worthy than a competitor, if the Magistrate command it, or the Bi",
+     "segments": 15
+    },
+    {
+     "file": "0226.json",
+     "ref": "3.23",
+     "title": "Quest. 10. What if the Magistrate command the people to receive one Pastor, and the Bishops or Ordainers another, which of them must be obeyed?",
+     "segments": 7
+    },
+    {
+     "file": "0227.json",
+     "ref": "3.24",
+     "title": "Quest. 11. Whether an uninterrupted Succession either of right Ordination or of Conveyance by Iurisdiction, be necessary to the Being of the Ministry, or of a true Church?",
+     "segments": 16
+    },
+    {
+     "file": "0228.json",
+     "ref": "3.25",
+     "title": "Quest. 12. Whether there be, or ever was such a thing in the world, as one Catholick Church, Constituted by any Head besides or under Christ?",
+     "segments": 3
+    },
+    {
+     "file": "0229.json",
+     "ref": "3.26",
+     "title": "Quest. 13. Whether there be such a thing as a Visible Catholick Church? And what it is?",
+     "segments": 10
+    },
+    {
+     "file": "0230.json",
+     "ref": "3.27",
+     "title": "Quest. 14. What is it that maketh a Visible Member of the Universal Church? And who are to be accounted such?",
+     "segments": 5
+    },
+    {
+     "file": "0231.json",
+     "ref": "3.28",
+     "title": "Quest. 15. Whether besides the Profession of Christianity, either Testimony or Evidence of Conversion, or Practical Godliness be necessary to prove a man a Member of the Universal Visible Church?",
+     "segments": 10
+    },
+    {
+     "file": "0232.json",
+     "ref": "3.29",
+     "title": "Quest. 16. What is necessary to a mans reception into Membership in a particular Church, over and above this foresaid title? Whether any other Tryals, or Covenant, or what?",
+     "segments": 12
+    },
+    {
+     "file": "0233.json",
+     "ref": "3.30",
+     "title": "Quest. 17. Wherein doth the Ministerial Office essentially consist?",
+     "segments": 12
+    },
+    {
+     "file": "0234.json",
+     "ref": "3.31",
+     "title": "Quest. 18. Whether the Peoples Choice or Consent is necessary to the Office of a Minister in his first work, as he is to Convert Infidels, and Baptize them? And whether this be a work of Office? And w",
+     "segments": 11
+    },
+    {
+     "file": "0235.json",
+     "ref": "3.32",
+     "title": "Quest. 19. Wherein consisteth the Power and Nature of Ordination? And to whom doth it belong? And is it an Act of Iurisdiction? And is Imposition of hands necessary in it?",
+     "segments": 17
+    },
+    {
+     "file": "0236.json",
+     "ref": "3.33",
+     "title": "Quest. 20. Is Ordination necessary to make a man a Pastor of a particular Church as such? And is he to be made a General Minister and a particular-Church-Elder or Pastor at once, and by one Ordination",
+     "segments": 5
+    },
+    {
+     "file": "0237.json",
+     "ref": "3.34",
+     "title": "Quest. 21. May a man be oft or twice Ordained?",
+     "segments": 33
+    },
+    {
+     "file": "0238.json",
+     "ref": "3.35",
+     "title": "Quest. 22. How many Ordainers are necessary to the validity of Ordination by Gods institution? Whether one or more?",
+     "segments": 6
+    },
+    {
+     "file": "0239.json",
+     "ref": "3.36",
+     "title": "Quest. 23. What if one Bishop ordain a Minister, and three or many or all the rest protest against it, and declare him no Minister, or degrade him? Is he to be received as a true Minister or not?",
+     "segments": 10
+    },
+    {
+     "file": "0240.json",
+     "ref": "3.37",
+     "title": "Quest. 24. Hath one Bishop power by Divine right to Ordain, Degrade, or Govern, or Excommunicate, or Absolve in anothers Diocess or Church, either by his consent, or against it? And doth a Minister th",
+     "segments": 11
+    },
+    {
+     "file": "0241.json",
+     "ref": "3.38",
+     "title": "Quest. 25. Whether Canons be Laws? And Pastors have a Legislative Power?",
+     "segments": 22
+    },
+    {
+     "file": "0242.json",
+     "ref": "3.39",
+     "title": "Quest. 26. Whether Church-Canons, or Pastors Directive Determinations of matters pertinent to their Office, do bind the Conscience? And what accidents will disoblige the people; you may gather before ",
+     "segments": 10
+    },
+    {
+     "file": "0243.json",
+     "ref": "3.40",
+     "title": "Quest. 28. Who is the Iudge of Controversies in the Church? 1. About the Exposition of the Scripture, and Doctrinal points in themselves: 2. About either Heresies, or wicked Practices, as they are cha",
+     "segments": 16
+    },
+    {
+     "file": "0244.json",
+     "ref": "3.41",
+     "title": "Quest. 29. Whether a Parents power over his Children, or a Pastor or many Pastors or Bishops over the same Children, as parts of their flock, be greater, or more obliging in matters of Religion and pu",
+     "segments": 4
+    },
+    {
+     "file": "0245.json",
+     "ref": "3.42",
+     "title": "Quest. 30. May an Office Teacher or Pastor be at once, in a stated Relation of a Pastor and a Disciple to some other Pastor?",
+     "segments": 9
+    },
+    {
+     "file": "0246.json",
+     "ref": "3.43",
+     "title": "Quest. 31. Who hath the power of making Church Canons?",
+     "segments": 5
+    },
+    {
+     "file": "0247.json",
+     "ref": "3.44",
+     "title": "Quest. 32. Doth Baptism as such enter the Baptized into the Universal Church, or into a particular Church, or both? And is Baptism the Particular-Church Covenant as such?",
+     "segments": 10
+    },
+    {
+     "file": "0248.json",
+     "ref": "3.45",
+     "title": "Quest. 33. Whether Infants should be Baptized?",
+     "segments": 2
+    },
+    {
+     "file": "0249.json",
+     "ref": "3.46",
+     "title": "Quest. 34. Whether an unbaptized person who yet maketh a publick profession of Christianity, be a member of the Visible Church? And so of the Infants of Believers unbaptized.",
+     "segments": 3
+    },
+    {
+     "file": "0250.json",
+     "ref": "3.47",
+     "title": "Quest. 35. Is it certain by the Word of God that all Infants Baptized, and dying before actual sin are undoubtedly saved? Or what Infants may we say so of?",
+     "segments": 80
+    },
+    {
+     "file": "0251.json",
+     "ref": "3.48",
+     "title": "Quest. 36. What is meant by this speech, that Believers and their seed are in the Covenant of God; which giveth them right to Baptism?",
+     "segments": 5
+    },
+    {
+     "file": "0252.json",
+     "ref": "3.49",
+     "title": "Quest. 37. Are Believers Children certainly in Covenant before their Baptism, and thereby in a state of Salvation? Or not till they are baptized?",
+     "segments": 8
+    },
+    {
+     "file": "0253.json",
+     "ref": "3.50",
+     "title": "Quest. 38. Is Infants title to Baptism and the Covenant-benefits given them by God in his Promise, upon any proper Moral Condition, or only upon the Condition of their Natural Relation, that they be t",
+     "segments": 7
+    },
+    {
+     "file": "0254.json",
+     "ref": "3.51",
+     "title": "Quest. 39. What is the true meaning of Sponsors, Patrimi or God-fathers as we call them? And is it lawful to make use of them?",
+     "segments": 18
+    },
+    {
+     "file": "0255.json",
+     "ref": "3.52",
+     "title": "Quest. 40. On whose account or right is it that the Infant hath title to Baptism and its benefits? Is it on the Parents, Ancestors, Sponsors, the Churches, the Ministers, the Magistrates, or his own?",
+     "segments": 10
+    },
+    {
+     "file": "0256.json",
+     "ref": "3.53",
+     "title": "Quest. 41. Are they really baptized who are baptized according to the English Liturgie and Canons, where the Parent seemeth excluded, and those to Consent for the Infant who have no power to do it?",
+     "segments": 2
+    },
+    {
+     "file": "0257.json",
+     "ref": "3.54",
+     "title": "Quest. 42. But the great Question is, How the Holy Ghost is given to Infants in Baptism? And whether all the Children of true Christians have inward sanctifying Grace? Or whether they can be said to b",
+     "segments": 47
+    },
+    {
+     "file": "0258.json",
+     "ref": "3.55",
+     "title": "Quest. 43. Is the right of the Baptized (Infants or adult) to the sanctifying operations of the Holy Ghost, now Absolute, or suspended on further Conditions? And are the Parents further duty for their",
+     "segments": 25
+    },
+    {
+     "file": "0259.json",
+     "ref": "3.56",
+     "title": "Quest. 44. Doth Baptism alwayes oblige us at the present, and give Grace at the present? And is the Grace which is not given till long after, given by Baptism? or an effect of Baptism?",
+     "segments": 16
+    },
+    {
+     "file": "0260.json",
+     "ref": "3.57",
+     "title": "Quest. 45. What is a proper Violation of our Baptismal Covenant?",
+     "segments": 4
+    },
+    {
+     "file": "0261.json",
+     "ref": "3.58",
+     "title": "Quest. 46. May not Baptism in some Cases be repeated? And when?",
+     "segments": 10
+    },
+    {
+     "file": "0262.json",
+     "ref": "3.59",
+     "title": "Quest. 47. Is Baptism by Lay-men or Women Lawful in Cases of necessity? Or are they nullities, and the person to be re-baptized?",
+     "segments": 5
+    },
+    {
+     "file": "0263.json",
+     "ref": "3.60",
+     "title": "Quest. 48. May Anabaptists, that have no other error, be permitted in Churchcommunion?",
+     "segments": 4
+    },
+    {
+     "file": "0264.json",
+     "ref": "3.61",
+     "title": "Quest. 49. May one offer his Child to be baptized, with the Sign of the Cross, or the use of Chrysme, the White Garment, Milk and Hony, or Exorcisme, as among the Lutherans, who taketh these to be unl",
+     "segments": 9
+    },
+    {
+     "file": "0265.json",
+     "ref": "3.62",
+     "title": "Quest. 50. Whence came the antient universal custome of Anointing at Baptism, and putting on a White Garment, and tasting Milk and Honey? And whether they are lawful to us?",
+     "segments": 11
+    },
+    {
+     "file": "0266.json",
+     "ref": "3.63",
+     "title": "Quest. 51. Whether it be necessary that they that are baptized in Infancy, do solemnly at age renew and own their Baptismal Covenant, before they have right to the state and priviledges of adult membe",
+     "segments": 12
+    },
+    {
+     "file": "0267.json",
+     "ref": "3.64",
+     "title": "Quest. 52. Whether the Universal Church consist only of particular Churches and their members?",
+     "segments": 5
+    },
+    {
+     "file": "0268.json",
+     "ref": "3.65",
+     "title": "Quest. 53. Must the Pastor first Call the Church, and aggregate them to himself, or the Church first Congregate themselves, and then choose the Pastor?",
+     "segments": 3
+    },
+    {
+     "file": "0269.json",
+     "ref": "3.66",
+     "title": "Quest. 54. Wherein doth a particular Church of Christs institution differ from a Consociation of many Churches?",
+     "segments": 3
+    },
+    {
+     "file": "0270.json",
+     "ref": "3.67",
+     "title": "Quest. 55. Whether a particular Church may consist of more Assemblies than one? Or must needs meet all in one place?",
+     "segments": 6
+    },
+    {
+     "file": "0271.json",
+     "ref": "3.68",
+     "title": "Quest. 56. Is any Form of Church Government of Divine Institution",
+     "segments": 36
+    },
+    {
+     "file": "0272.json",
+     "ref": "3.69",
+     "title": "Quest. 57. Whether any Forms of Churches, and Church Government, or any new Church Officers, may lawfully be invented and made by man?",
+     "segments": 65
+    },
+    {
+     "file": "0273.json",
+     "ref": "3.70",
+     "title": "Quest. Wherein consisteth the true nature of Pastoral Church Government?",
+     "segments": 13
+    },
+    {
+     "file": "0274.json",
+     "ref": "3.71",
+     "title": "Quest. 58. Whether any part of the proper Pastoral or Episcopal power may be given or deputed to a Lay man, or to one of any other office, or the proper work may be performed by such?",
+     "segments": 7
+    },
+    {
+     "file": "0275.json",
+     "ref": "3.72",
+     "title": "Quest. 59. May a Lay man preach or expound the Scriptures? Or what of this is proper to the Pastors office?",
+     "segments": 11
+    },
+    {
+     "file": "0276.json",
+     "ref": "3.73",
+     "title": "Quest. 60. What is the true sense of the distinction of Pastoral power, in foro interiore & exteriore, rightly used?",
+     "segments": 2
+    },
+    {
+     "file": "0277.json",
+     "ref": "3.74",
+     "title": "Quest. 61. In what sense is it true that some say, that the Magistrate only hath the External Government of the Church, and the Pastors the Internal?",
+     "segments": 6
+    },
+    {
+     "file": "0278.json",
+     "ref": "3.75",
+     "title": "Quest. 62. Is the tryal, judgement, or consent of the Laity necessary to the admittance of a member into the Universal or particular Church?",
+     "segments": 10
+    },
+    {
+     "file": "0279.json",
+     "ref": "3.76",
+     "title": "Quest. 63. What power have the people in Church Censures and Excommunication?",
+     "segments": 4
+    },
+    {
+     "file": "0280.json",
+     "ref": "3.77",
+     "title": "Quest. 64. What is the peoples remedy in case of the Pastors male-administration?",
+     "segments": 7
+    },
+    {
+     "file": "0281.json",
+     "ref": "3.78",
+     "title": "Quest. 65. May one be a Pastor or a member of a particular Church who liveth so far from it, as to be uncapable of personal Communion with them?",
+     "segments": 5
+    },
+    {
+     "file": "0282.json",
+     "ref": "3.79",
+     "title": "Quest. 66. If a man be injuriously suspended or Excommunicated by the Pastor or people, which way shall he have remedy?",
+     "segments": 1
+    },
+    {
+     "file": "0283.json",
+     "ref": "3.80",
+     "title": "Quest. 67. Doth presence alwayes make us guilty of the errours or faults of the Pastor in Gods worship, or of the Church? Or in what cases are we guilty?",
+     "segments": 4
+    },
+    {
+     "file": "0284.json",
+     "ref": "3.81",
+     "title": "Quest. 68. Is it lawful to Communicate in the Sacrament with wicked men?",
+     "segments": 5
+    },
+    {
+     "file": "0285.json",
+     "ref": "3.82",
+     "title": "Quest. 69. Have all the members of the Church right to the Lords Table? And is Suspension lawful?",
+     "segments": 9
+    },
+    {
+     "file": "0286.json",
+     "ref": "3.83",
+     "title": "Quest. 70. Is there any such thing in the Church, as a rank or Classis, or Species of Church members at age, who are not to be admitted to the Lords Table, but only to hearing the Word and Prayer, bet",
+     "segments": 28
+    },
+    {
+     "file": "0287.json",
+     "ref": "3.84",
+     "title": "Quest. 71. Whether a Form of Prayer be lawful?",
+     "segments": 8
+    },
+    {
+     "file": "0288.json",
+     "ref": "3.85",
+     "title": "Quest. 72. Are Forms of Prayer or Preaching in the Church lawful?",
+     "segments": 6
+    },
+    {
+     "file": "0289.json",
+     "ref": "3.86",
+     "title": "Quest. 73. Are publick Forms of mans Devising or Composing lawful?",
+     "segments": 3
+    },
+    {
+     "file": "0290.json",
+     "ref": "3.87",
+     "title": "Quest. 74. Is it lawful to Impose Forms on the Congregation or the people in publick Worship?",
+     "segments": 1
+    },
+    {
+     "file": "0291.json",
+     "ref": "3.88",
+     "title": "Quest. 75. Is it lawful to use Forms Composed by man, and imposed not only on the people, but on the Pastors of the Churches?",
+     "segments": 4
+    },
+    {
+     "file": "0292.json",
+     "ref": "3.89",
+     "title": "Quest. 76. Doth not the Calling of a Minister so consist in the exercise of his own Ministerial Gifts, that he may not officiate without them, nor make use of other mens Gifts instead of them?",
+     "segments": 11
+    },
+    {
+     "file": "0293.json",
+     "ref": "3.90",
+     "title": "Quest. Is it lawful to Read a Prayer in the Church?",
+     "segments": 8
+    },
+    {
+     "file": "0294.json",
+     "ref": "3.91",
+     "title": "Quest. 77. Is it lawful to Pray in the Church without a prescribed or premeditated form of Words?",
+     "segments": 5
+    },
+    {
+     "file": "0295.json",
+     "ref": "3.92",
+     "title": "Quest. 78. Whether are set Forms of Words, or free praying without them the better way? And what are the Commodities and Incommodities of each way?",
+     "segments": 36
+    },
+    {
+     "file": "0296.json",
+     "ref": "3.93",
+     "title": "Quest. 79. Is it lawful to forbear the preaching of some Truths, upon mans prohibition, that I may have liberty to preach the rest: yea, and to promise before hand to forbear them? Or to do it for the",
+     "segments": 12
+    },
+    {
+     "file": "0297.json",
+     "ref": "3.94",
+     "title": "Quest. 80. May or must a Minister silenced, or forbid to Preach the Gospel, go on still to preach it, against the Law?",
+     "segments": 19
+    },
+    {
+     "file": "0298.json",
+     "ref": "3.95",
+     "title": "Quest. 81. May we lawfully keep the Lords day as a fast?",
+     "segments": 1
+    },
+    {
+     "file": "0299.json",
+     "ref": "3.96",
+     "title": "Quest. 82. How should the Lords day be spent, in the main?",
+     "segments": 3
+    },
+    {
+     "file": "0300.json",
+     "ref": "3.97",
+     "title": "Quest. 83. May the people bear a Vocal part in Worship, or do any more than say, Amen?",
+     "segments": 16
+    },
+    {
+     "file": "0301.json",
+     "ref": "3.98",
+     "title": "Quest. 84. Is it not a sin for our Clerks to make themselves the mouth of the people, who are no ordained Ministers of Christ?",
+     "segments": 1
+    },
+    {
+     "file": "0302.json",
+     "ref": "3.99",
+     "title": "Quest. 85. Are repetitions of the same words in Church-prayers, lawful?",
+     "segments": 3
+    },
+    {
+     "file": "0303.json",
+     "ref": "3.100",
+     "title": "Quest. 86. Is it lawful to bow at the naming of Iesus?",
+     "segments": 5
+    },
+    {
+     "file": "0304.json",
+     "ref": "3.101",
+     "title": "Quest. 87. Is it lawful to stand up at the Gospel as we are appointed?",
+     "segments": 2
+    },
+    {
+     "file": "0305.json",
+     "ref": "3.102",
+     "title": "Quest. 88. Is it lawful to kneel when the Decalogue is read?",
+     "segments": 2
+    },
+    {
+     "file": "0306.json",
+     "ref": "3.103",
+     "title": "Quest. 89. What Gestures are fittest in all the publick Worship?",
+     "segments": 5
+    },
+    {
+     "file": "0307.json",
+     "ref": "3.104",
+     "title": "Quest. 90. What if the Pastor and Church cannot agree about singing Psalms, or what Version or Translation to use, or time or place of meeting, &c?",
+     "segments": 1
+    },
+    {
+     "file": "0308.json",
+     "ref": "3.105",
+     "title": "Quest. 91. What if the Pastor excommunicate a man, and the people will not forbear his Communion, as thinking him unjustly Excommunicated?",
+     "segments": 2
+    },
+    {
+     "file": "0309.json",
+     "ref": "3.106",
+     "title": "Quest. 92. May a whole Church, or the greater part be Excommunicated?",
+     "segments": 2
+    },
+    {
+     "file": "0310.json",
+     "ref": "3.107",
+     "title": "Quest. 93. What if a Church have two Pastors and one Excommunicate a man, and the other absolve him, what shall the Church and the dissenter do?",
+     "segments": 1
+    },
+    {
+     "file": "0311.json",
+     "ref": "3.108",
+     "title": "Quest. 94. For what sins may a man be denied Communion or Excommunicated? Whether for impenitence in every little sin? Or for great sin without impenitence?",
+     "segments": 5
+    },
+    {
+     "file": "0312.json",
+     "ref": "3.109",
+     "title": "Quest. 95. Must the Pastors examine the people before the Sacrament?",
+     "segments": 2
+    },
+    {
+     "file": "0313.json",
+     "ref": "3.110",
+     "title": "Quest. 96. Is the Sacrament of the Lords Supper a Converting Ordinance?",
+     "segments": 8
+    },
+    {
+     "file": "0314.json",
+     "ref": "3.111",
+     "title": "Quest. 97. Must no man come to the Sacrament, that is uncertain or doubtful of the sincerity of his faith and repentance?",
+     "segments": 5
+    },
+    {
+     "file": "0315.json",
+     "ref": "3.112",
+     "title": "Quest. 98. Is it Lawful or a Duty to joyn Oblations to the Sacrament, and how?",
+     "segments": 4
+    },
+    {
+     "file": "0316.json",
+     "ref": "3.113",
+     "title": "Quest. 99. How many Sacraments are there appointed by Christ?",
+     "segments": 18
+    },
+    {
+     "file": "0317.json",
+     "ref": "3.114",
+     "title": "Quest. 100. How far is it lawful, needful or unlawful for a man to afflict himself by external Penances for sin?",
+     "segments": 10
+    },
+    {
+     "file": "0318.json",
+     "ref": "3.115",
+     "title": "Quest. 101. Is it lawful to observe stated times of fasting imposed by others, without extraordinary occasion? And particularly, Lent?",
+     "segments": 16
+    },
+    {
+     "file": "0319.json",
+     "ref": "3.116",
+     "title": "Quest. 102. May we continue in a Church, where some one Ordinance of Christ is wanting, as Discipline, Prayer, Preaching or Sacraments, though we have all the rest?",
+     "segments": 13
+    },
+    {
+     "file": "0320.json",
+     "ref": "3.117",
+     "title": "Quest. 103. Must the Pastors remove from one Church to another when ever the Magistrate commandeth us, though the Bishops contradict it, and the Church consent not to dismiss us; And so of other Cases",
+     "segments": 11
+    },
+    {
+     "file": "0321.json",
+     "ref": "3.118",
+     "title": "Quest. 104. Is a Pastor obliged to his Flock for Life? Or is it lawful so to oblige himself? And may be remove without their Consent? And so also of a Church-member, the same questions are put.",
+     "segments": 6
+    },
+    {
+     "file": "0322.json",
+     "ref": "3.119",
+     "title": "Quest. 105. When many men pretend at once to be the true Pastors of a particular Church against each others title, through differences between the Magistrates, the Ordainers and the Flocks, what shoul",
+     "segments": 6
+    },
+    {
+     "file": "0323.json",
+     "ref": "3.120",
+     "title": "Quest. 106. To whom doth it belong to Reform a Corrupted Church? to the Magistrates, Pastors, or People?",
+     "segments": 4
+    },
+    {
+     "file": "0324.json",
+     "ref": "3.121",
+     "title": "Quest. 107. Who is to Call Synods, Princes, Pastors or People?",
+     "segments": 11
+    },
+    {
+     "file": "0325.json",
+     "ref": "3.122",
+     "title": "Quest. 108. To whom doth it belong to appoint dayes and assemblies for publick Humiliation and Thanksgiving?",
+     "segments": 5
+    },
+    {
+     "file": "0326.json",
+     "ref": "3.123",
+     "title": "Quest. 109. May we omit Church-assemblies on the Lords day, if the Magistrate forbid them?",
+     "segments": 8
+    },
+    {
+     "file": "0327.json",
+     "ref": "3.124",
+     "title": "Quest. 110. Must we obey the Magistrate if he only forbid us Worshiping God, in such a place, or Countrey, or in such numbers, or the like?",
+     "segments": 6
+    },
+    {
+     "file": "0328.json",
+     "ref": "3.125",
+     "title": "Quest. 111. Must Subjects, or servants forbear weekly Lectures, Reading or such helps, above the Lords dayes worship, if Princes or Masters do command it?",
+     "segments": 8
+    },
+    {
+     "file": "0329.json",
+     "ref": "3.126",
+     "title": "Quest. 112. Whether Religious Worship may be given to a Creature? and what?",
+     "segments": 25
+    },
+    {
+     "file": "0330.json",
+     "ref": "3.127",
+     "title": "Quest. 113. What Images, and what use of Images is lawful or unlawful?",
+     "segments": 49
+    },
+    {
+     "file": "0331.json",
+     "ref": "3.128",
+     "title": "Quest. 114. Whether Stage-playes where the Virtuous and Vitious are personated, be lawful?",
+     "segments": 23
+    },
+    {
+     "file": "0332.json",
+     "ref": "3.129",
+     "title": "Quest. 115. Is it ever unlawful to use the known Symbols and Badges of Idolatry?",
+     "segments": 5
+    },
+    {
+     "file": "0333.json",
+     "ref": "3.130",
+     "title": "Quest. 116. Is it unlawful to use the Badge or Symbol of any Error or Sect in the Worship of God?",
+     "segments": 3
+    },
+    {
+     "file": "0334.json",
+     "ref": "3.131",
+     "title": "Quest. 117. Are all Indifferent things made unlawful to us, which shall be abused to Idolatrous Worship?",
+     "segments": 12
+    },
+    {
+     "file": "0335.json",
+     "ref": "3.132",
+     "title": "Quest. 118. May we use the names of Week dayes which Idolatry honoured their Idols with; as Sunday, Munday, Saturday, and the rest. And so the Moneths?",
+     "segments": 4
+    },
+    {
+     "file": "0336.json",
+     "ref": "3.133",
+     "title": "Quest. 119. Is it lawful to pray secretly when we come first into the Church, especially when the Church is otherwise employed?",
+     "segments": 7
+    },
+    {
+     "file": "0337.json",
+     "ref": "3.134",
+     "title": "Quest. 120. May a Preacher kneel down in the Pulpit, and use his private Prayers, when he is in the assembly?",
+     "segments": 1
+    },
+    {
+     "file": "0338.json",
+     "ref": "3.135",
+     "title": "Quest. 121. May a Minister Pray publickly in his own name singly, for himself or others? Or only in the Churches name, as their mouth to God?",
+     "segments": 9
+    },
+    {
+     "file": "0339.json",
+     "ref": "3.136",
+     "title": "Quest. 122. May the name Priests, Sacrifice, and Altars be lawfully now used instead of Christs Ministers, Worship and the Holy Table?",
+     "segments": 10
+    },
+    {
+     "file": "0340.json",
+     "ref": "3.137",
+     "title": "Quest. 123. May the Communion-Tables be turned Altar-wise? and Railed in? And is it lawful to come up to the Rails to Communicate?",
+     "segments": 6
+    },
+    {
+     "file": "0341.json",
+     "ref": "3.138",
+     "title": "Quest. 124. Is it lawful to use Davids Psalms in our Assemblies?",
+     "segments": 9
+    },
+    {
+     "file": "0342.json",
+     "ref": "3.139",
+     "title": "Quest. 125. May Psalms be used as Prayers, and Prayses, and Thanksgivings, or only as Instructive? Even the Reading as well as the Singing of them?",
+     "segments": 4
+    },
+    {
+     "file": "0343.json",
+     "ref": "3.140",
+     "title": "Quest. 126. Are our Church-Tunes Lawful, being of mans invention?",
+     "segments": 7
+    },
+    {
+     "file": "0344.json",
+     "ref": "3.141",
+     "title": "Quest. 127. Is Church-Musick by Organs or such Instruments lawful?",
+     "segments": 11
+    },
+    {
+     "file": "0345.json",
+     "ref": "3.142",
+     "title": "Quest. 128. Is the Lords day a Sabbath, and so to be called and kept, and that of Divine institution? And is the seventh day Sabbath abrogated, &c.",
+     "segments": 1
+    },
+    {
+     "file": "0346.json",
+     "ref": "3.143",
+     "title": "Quest. 129. Is it Lawful to appoint humane Holy dayes, and observe them?",
+     "segments": 7
+    },
+    {
+     "file": "0347.json",
+     "ref": "3.144",
+     "title": "Quest. 130. How far is the holy Scriptures a Law and perfect Rule to us?",
+     "segments": 26
+    },
+    {
+     "file": "0348.json",
+     "ref": "3.145",
+     "title": "Quest. 131. What Additions or humane Inventions in or about Religion, not commanded in Scripture, are lawful or unlawful?",
+     "segments": 17
+    },
+    {
+     "file": "0349.json",
+     "ref": "3.146",
+     "title": "Quest. 132. Is it unlawful to obey in all those cases, where it is unlawful to impose and command? Or in what cases? And how far Pastors must be believed and obeyed?",
+     "segments": 17
+    },
+    {
+     "file": "0350.json",
+     "ref": "3.147",
+     "title": "Quest. 133. What are the additions or inventions of men, which are not forbidden by the Word of God, (whether by Rulers or by private men, invented)?",
+     "segments": 13
+    },
+    {
+     "file": "0351.json",
+     "ref": "3.148",
+     "title": "Quest. 134. What are the mischiefs of unlawful Additions in Religion?",
+     "segments": 7
+    },
+    {
+     "file": "0352.json",
+     "ref": "3.149",
+     "title": "Quest. 135. What are the mischiefs of mens error on the other extream, who pretend that Scripture is a Rule where it is not, and deny the foresaid lawful things, on pretence that Scripture is a perfec",
+     "segments": 21
+    },
+    {
+     "file": "0353.json",
+     "ref": "3.150",
+     "title": "Quest. 136. How shall we know what parts of Scripture Precept or Example, were intended for universal constant obligations, and what were but for the time and persons that they were then directed to?",
+     "segments": 15
+    },
+    {
+     "file": "0354.json",
+     "ref": "3.151",
+     "title": "Quest. 137. How much of the Scripture is necessary to Salvation, to be believed, and understood?",
+     "segments": 10
+    },
+    {
+     "file": "0355.json",
+     "ref": "3.152",
+     "title": "Quest. 138. How may we know the Fundamentals, Essentials, or what parts are necessary to Salvation? And is the Papists way allowable that (some of them) deny that distinction, and make the difference ",
+     "segments": 15
+    },
+    {
+     "file": "0356.json",
+     "ref": "3.153",
+     "title": "Quest. 139. What is the Use and Authority of the Creed? And is it of the Apostles framing or not? And is it the Word of God, or not?",
+     "segments": 17
+    },
+    {
+     "file": "0357.json",
+     "ref": "3.154",
+     "title": "Quest. 140. What is the use of Catechisms?",
+     "segments": 1
+    },
+    {
+     "file": "0358.json",
+     "ref": "3.155",
+     "title": "Quest. 141. Could any of us have known by the Scriptures alone, the Essentials of Religion from the Rest, if Tradition had not given them to us in the Creed, as from Apostolical Collection?",
+     "segments": 1
+    },
+    {
+     "file": "0359.json",
+     "ref": "3.156",
+     "title": "Quest. 142. What is the best Method of a true Catechism or Summ of Theology?",
+     "segments": 1
+    },
+    {
+     "file": "0360.json",
+     "ref": "3.157",
+     "title": "Quest. 143. What is the use of various Church Confessions or Articles of Faith?",
+     "segments": 2
+    },
+    {
+     "file": "0361.json",
+     "ref": "3.158",
+     "title": "Quest. 144. May not the Subscribing of the whole Scriptures serve turn for all the foresaid ends, without Creeds, Catechisms, or Confessions?",
+     "segments": 5
+    },
+    {
+     "file": "0362.json",
+     "ref": "3.159",
+     "title": "Quest. 145. May not a man be saved that believeth all the Essentials of Religion, as Coming to him by Verbal Tradition, and not as contained in the holy Scriptures, which perhaps he never knew?",
+     "segments": 9
+    },
+    {
+     "file": "0363.json",
+     "ref": "3.160",
+     "title": "Quest. 146. Is the Scripture fit for all Christians to read, being so obscure?",
+     "segments": 17
+    },
+    {
+     "file": "0364.json",
+     "ref": "3.161",
+     "title": "Quest. 147. How far is Tradition and mens Words and Ministry to be used or trusted in, in the exercise of faith?",
+     "segments": 2
+    },
+    {
+     "file": "0365.json",
+     "ref": "3.162",
+     "title": "Quest. 148. How know we the true Canon of Scripture from Apocrypha?",
+     "segments": 3
+    },
+    {
+     "file": "0366.json",
+     "ref": "3.163",
+     "title": "Quest. 149. Is the publick Reading of the Scripture the proper work of a Minister? or may a Lay-man ordinarily do it? or another Officer?",
+     "segments": 5
+    },
+    {
+     "file": "0367.json",
+     "ref": "3.164",
+     "title": "Quest. 150. Is it lawful to read the Apocrypha, or any good Books besides the Scriptures to the Church? as Homilies, &c.",
+     "segments": 11
+    },
+    {
+     "file": "0368.json",
+     "ref": "3.165",
+     "title": "Quest. 151. May Church Assemblies be held where there is no Minister? Or what publick Worship may be so performed by Lay-men? (As among Infidels, or Papists, where Persecution hath killed, imprisoned,",
+     "segments": 4
+    },
+    {
+     "file": "0369.json",
+     "ref": "3.166",
+     "title": "Quest. 152. Is it lawful to subscribe or profess full Assent and Consent to any Religious Books besides the Scripture, seeing all are fallible?",
+     "segments": 3
+    },
+    {
+     "file": "0370.json",
+     "ref": "3.167",
+     "title": "Quest. 153. May we lawfully swear Obedience in all things Lawful and honest, either to Usurpers, or to our lawful Pastors?",
+     "segments": 17
+    },
+    {
+     "file": "0371.json",
+     "ref": "3.168",
+     "title": "Quest. 154. Must all our preaching be upon a Text of Scripture?",
+     "segments": 2
+    },
+    {
+     "file": "0372.json",
+     "ref": "3.169",
+     "title": "Quest. 155. Is not the Law of Moses abrogated, and the whole Old Testament out of date, and therefore not to be Read publickly and preached on?",
+     "segments": 10
+    },
+    {
+     "file": "0373.json",
+     "ref": "3.170",
+     "title": "Quest. 156. Must we believe that Moses Law did ever bind other Nations; or that any other parts of the Scripture bound them, or belonged to them? or that the Iews were all Gods Visible Church on Earth",
+     "segments": 7
+    },
+    {
+     "file": "0374.json",
+     "ref": "3.171",
+     "title": "Quest. 157. Must we think accordingly of the Christian Churches now, that they are only advanced above the rest of the World as the Iews were, but not the only people that are saved?",
+     "segments": 21
+    },
+    {
+     "file": "0375.json",
+     "ref": "3.172",
+     "title": "Quest. 158. Should not Christians take up with Scripture wisdom only, without studying Philosophy and other Heathens humane Learning?",
+     "segments": 2
+    },
+    {
+     "file": "0376.json",
+     "ref": "3.173",
+     "title": "Quest. 159. If we think that Scripture and the Law of Nature do in any point contradict each others, which may be the standard by which the other must be tryed?",
+     "segments": 1
+    },
+    {
+     "file": "0377.json",
+     "ref": "3.174",
+     "title": "Quest. 160. May we not look that God should yet give us more Revelations of his will, than there are already made in Scripture?",
+     "segments": 10
+    },
+    {
+     "file": "0378.json",
+     "ref": "3.175",
+     "title": "Quest. 161. Is not a third Rule of the Holy Ghost, or perfecter Kingdom of Love to be expected, as different from the Reign of the Creator and Redeemer?",
+     "segments": 2
+    },
+    {
+     "file": "0379.json",
+     "ref": "3.176",
+     "title": "Quest. 162. May we not look for Miracles hereafter?",
+     "segments": 7
+    },
+    {
+     "file": "0380.json",
+     "ref": "3.177",
+     "title": "Quest. 163. Is the Scripture to be tryed by the Spirit, or the Spirit by the Scripture, and which of them is to be preferred.",
+     "segments": 6
+    },
+    {
+     "file": "0381.json",
+     "ref": "3.178",
+     "title": "Quest. 164. How is a pretended Prophet, or Revelation to be tryed?",
+     "segments": 5
+    },
+    {
+     "file": "0382.json",
+     "ref": "3.179",
+     "title": "Quest. 165. May one be saved who believeth that the Scripture hath any mistake or error, and believeth it not all?",
+     "segments": 6
+    },
+    {
+     "file": "0383.json",
+     "ref": "3.180",
+     "title": "Quest. 166. Who be they that give too little to the Scriptures, and who too much; and what is the danger of each extream?",
+     "segments": 23
+    },
+    {
+     "file": "0384.json",
+     "ref": "3.181",
+     "title": "Quest. 167. How far do good men now Preach and Pray by the Spirit?",
+     "segments": 15
+    },
+    {
+     "file": "0385.json",
+     "ref": "3.182",
+     "title": "Quest. 168. Are not our own Reasons, Studies, Memory, Strivings, Books, Forms, Methods and Ministry needless, yea, a hurtful quenching or preventing of the Spirit, and setting up our own, instead of t",
+     "segments": 2
+    },
+    {
+     "file": "0386.json",
+     "ref": "3.183",
+     "title": "Quest. 169. How doth the Holy Ghost set Bishops over the Churches?",
+     "segments": 3
+    },
+    {
+     "file": "0387.json",
+     "ref": "3.184",
+     "title": "Quest. 170. Are Temples, Fonts, Utensils, Church-lands, much more the Ministers, holy: And what reverence is due to them as holy?",
+     "segments": 11
+    },
+    {
+     "file": "0388.json",
+     "ref": "3.185",
+     "title": "Quest. 171. What is Sacriledge, and what not?",
+     "segments": 8
+    },
+    {
+     "file": "0389.json",
+     "ref": "3.186",
+     "title": "Quest. 172. Are all Religious and private meetings, forbidden by Rulers, unlawful Conventicles? Or are any such necessary?",
+     "segments": 16
+    },
+    {
+     "file": "0390.json",
+     "ref": "3.187",
+     "title": "Quest. 173. What particular Directions for Order of Studies, and Books should be observed by young Students?",
+     "segments": 31
+    },
+    {
+     "file": "0391.json",
+     "ref": "3.188",
+     "title": "Quest. 174. What Books Especially of Theologie should one choose, who for want of money or time, can read but few?",
+     "segments": 130
+    },
+    {
+     "file": "0392.json",
+     "ref": "3.end",
+     "title": "3.end",
+     "segments": 1
+    },
+    {
+     "file": "0393.json",
+     "ref": "4.1",
+     "title": "4.1",
+     "segments": 7
+    },
+    {
+     "file": "0394.json",
+     "ref": "4.2",
+     "title": "A Christian Directory. TOM. IV. Christian Politicks.",
+     "segments": 30
+    },
+    {
+     "file": "0395.json",
+     "ref": "4.3",
+     "title": "CHAP. II. Memorandum's to Civil Rulers for the interest of Christ, the Church, and mens Salvation.",
+     "segments": 22
+    },
+    {
+     "file": "0396.json",
+     "ref": "4.4.0",
+     "title": "CHAP. III. Directions for Subjects concerning their duty to their Rulers.",
+     "segments": 162
+    },
+    {
+     "file": "0397.json",
+     "ref": "4.4.1",
+     "title": "Tit. 2. A fuller resolution of the Cases, 1. Whether the Laws of men do bind the Conscience: 2. Especially smaller and Penal Laws?",
+     "segments": 40
+    },
+    {
+     "file": "0398.json",
+     "ref": "4.5",
+     "title": "CHAP. IV. Directions to Lawyers about their Duty to God.",
+     "segments": 18
+    },
+    {
+     "file": "0399.json",
+     "ref": "4.6",
+     "title": "CHAP. V. The Duty of Physicions.",
+     "segments": 7
+    },
+    {
+     "file": "0400.json",
+     "ref": "4.7",
+     "title": "CHAP. VI. Directions to School-masters, about their duty for Childrens souls.",
+     "segments": 11
+    },
+    {
+     "file": "0401.json",
+     "ref": "4.8",
+     "title": "CHAP. VII. Directions for Souldiers, about their duty in point of Conscience.",
+     "segments": 14
+    },
+    {
+     "file": "0402.json",
+     "ref": "4.9.0",
+     "title": "CHAP. VIII. Advice against Murder.",
+     "segments": 23
+    },
+    {
+     "file": "0403.json",
+     "ref": "4.9.1",
+     "title": "Tit. 2. Advice against Self-murder.",
+     "segments": 13
+    },
+    {
+     "file": "0404.json",
+     "ref": "4.10",
+     "title": "CHAP. IX. Directions for the forgiving of Enemies and those that injure us, Against Wrath, See Tom. 1. Ch. against Anger. and Malice, and Revenge, and Persecution.",
+     "segments": 27
+    },
+    {
+     "file": "0405.json",
+     "ref": "4.11",
+     "title": "CHAP. X. Cases resolved about forgiving injuries and debts, and about self-defence, and seeking right, by Law or otherwise.",
+     "segments": 88
+    },
+    {
+     "file": "0406.json",
+     "ref": "4.12",
+     "title": "CHAP. XI. Special Directions to escape the guilt of persecuting. Determining also the case about Liberty in matters of Religion.",
+     "segments": 74
+    },
+    {
+     "file": "0407.json",
+     "ref": "4.13",
+     "title": "CHAP. XII. Directions against Scandal as given.",
+     "segments": 46
+    },
+    {
+     "file": "0408.json",
+     "ref": "4.14.0",
+     "title": "CHAP. XIII. Directions against Scandal-taken; or an aptness to receive hurt, by the words or deeds of others.",
+     "segments": 23
+    },
+    {
+     "file": "0409.json",
+     "ref": "4.14.1",
+     "title": "Practical Directions against Offence and burt by others.",
+     "segments": 8
+    },
+    {
+     "file": "0410.json",
+     "ref": "4.15",
+     "title": "CHAP. XIV. Directions against soul-murder, and partaking of other mens sins.",
+     "segments": 36
+    },
+    {
+     "file": "0411.json",
+     "ref": "4.16",
+     "title": "CHAP. XV. General Directions for the furthering of the salvation of others.",
+     "segments": 17
+    },
+    {
+     "file": "0412.json",
+     "ref": "4.17.1",
+     "title": "Tit. 1. Motives to Christian Conference and Exhortation.",
+     "segments": 22
+    },
+    {
+     "file": "0413.json",
+     "ref": "4.17.2",
+     "title": "Tit. 2. Directions for Christian Conference and Edifying speech.",
+     "segments": 12
+    },
+    {
+     "file": "0414.json",
+     "ref": "4.17.3",
+     "title": "Tit. 3. Special Directions for Reproof and Exhortation for the Good of Others.",
+     "segments": 31
+    },
+    {
+     "file": "0415.json",
+     "ref": "4.18",
+     "title": "CHAP. XVII. Directions for keeping Peace with all men.",
+     "segments": 18
+    },
+    {
+     "file": "0416.json",
+     "ref": "4.19.0",
+     "title": "CHAP. XVIII. Directions against all Theft and Fraud, or injurious getting and keeping that which is anothers, or desiring it.",
+     "segments": 12
+    },
+    {
+     "file": "0417.json",
+     "ref": "4.19.1",
+     "title": "Tit. 2. Certain Cases of Conscience about Theft and Injury.",
+     "segments": 40
+    },
+    {
+     "file": "0418.json",
+     "ref": "4.20.1",
+     "title": "Tit. 1. General Directions against injurious Bargaining and Contracts.",
+     "segments": 11
+    },
+    {
+     "file": "0419.json",
+     "ref": "4.20.2",
+     "title": "Tit. 2. Cases of Conscience about Iustice in Contracts.",
+     "segments": 86
+    },
+    {
+     "file": "0420.json",
+     "ref": "4.20.3",
+     "title": "Tit. 3. Special Cases about Iustice in Buying and Selling.",
+     "segments": 45
+    },
+    {
+     "file": "0421.json",
+     "ref": "4.20.4",
+     "title": "Tit. 4. Cases of Conscience about Lending and Borrowing.",
+     "segments": 71
+    },
+    {
+     "file": "0422.json",
+     "ref": "4.20.5",
+     "title": "Tit. 5. Cases of Conscience about Lusory Contracts.",
+     "segments": 12
+    },
+    {
+     "file": "0423.json",
+     "ref": "4.20.6",
+     "title": "Tit. 6. Cases of Conscience about Losing and Finding.",
+     "segments": 12
+    },
+    {
+     "file": "0424.json",
+     "ref": "4.20.7",
+     "title": "Tit. 7. Directions to Merchants, Factors, Chaplains, Travellers that live among Infidels.",
+     "segments": 53
+    },
+    {
+     "file": "0425.json",
+     "ref": "4.21.0",
+     "title": "CHAP. XX. Motives and Directions against Oppression.",
+     "segments": 20
+    },
+    {
+     "file": "0426.json",
+     "ref": "4.21.1",
+     "title": "Tit. 2. Cases of Conscience about Oppression, especially of Tenants.",
+     "segments": 27
+    },
+    {
+     "file": "0427.json",
+     "ref": "4.22",
+     "title": "CHAP. XXI. Cases about, and Directions against Prodigality and sinful Wastefulness.",
+     "segments": 67
+    },
+    {
+     "file": "0428.json",
+     "ref": "4.23.1",
+     "title": "Tit. 1. Cases of Conscience about Law-Suits, and Proceedings.",
+     "segments": 27
+    },
+    {
+     "file": "0429.json",
+     "ref": "4.23.2",
+     "title": "Tit. 2. Directions against Contentious Suits, False Witnessing, and Oppressive Iudgements.",
+     "segments": 16
+    },
+    {
+     "file": "0430.json",
+     "ref": "4.24.1",
+     "title": "Tit. 1. Cases of Conscience about Backbiting and Evil Speaking.",
+     "segments": 24
+    },
+    {
+     "file": "0431.json",
+     "ref": "4.24.2",
+     "title": "Tit. 2. Directions against Backbiting, Slandering and Evil Speaking.",
+     "segments": 9
+    },
+    {
+     "file": "0432.json",
+     "ref": "4.24.3",
+     "title": "Tit. 3. The Evil of Backbiting and Evil Speaking.",
+     "segments": 12
+    },
+    {
+     "file": "0433.json",
+     "ref": "4.25.1",
+     "title": "Tit. 1. Cases of Conscience about Iudging of others.",
+     "segments": 25
+    },
+    {
+     "file": "0434.json",
+     "ref": "4.25.2",
+     "title": "Tit. 2. Directions for the Cure of sinful Censoriousness.",
+     "segments": 14
+    },
+    {
+     "file": "0435.json",
+     "ref": "4.25.3",
+     "title": "Tit. 3. The evil of the Sin of Censoriousness.",
+     "segments": 11
+    },
+    {
+     "file": "0436.json",
+     "ref": "4.25.4",
+     "title": "Tit. 4. Directions for those that are rashly censured.",
+     "segments": 9
+    },
+    {
+     "file": "0437.json",
+     "ref": "4.26.1",
+     "title": "Tit. 1. Cases of Conscience about Trusts and Secrets.",
+     "segments": 50
+    },
+    {
+     "file": "0438.json",
+     "ref": "4.26.2",
+     "title": "Tit. 2. Directions about Trusts and Secrets.",
+     "segments": 8
+    },
+    {
+     "file": "0439.json",
+     "ref": "4.27",
+     "title": "CHAP. XXVI. Directions against Selfishness as it is contrary to the Love of our Neighbours.",
+     "segments": 11
+    },
+    {
+     "file": "0440.json",
+     "ref": "4.28.1",
+     "title": "Tit. 1. Cases of Conscience about Loving our Neighbour.",
+     "segments": 24
+    },
+    {
+     "file": "0441.json",
+     "ref": "4.28.2",
+     "title": "Tit. 2. Directions for Loving our Neighbours as our selves.",
+     "segments": 9
+    },
+    {
+     "file": "0442.json",
+     "ref": "4.28.3",
+     "title": "Tit. 3. The Reasons or Motives of Love to our Neighbour.",
+     "segments": 10
+    },
+    {
+     "file": "0443.json",
+     "ref": "4.29.1",
+     "title": "Tit. 1. Cases of Conscience about Love to the Godly.",
+     "segments": 31
+    },
+    {
+     "file": "0444.json",
+     "ref": "4.29.2",
+     "title": "Tit. 2. Directions for Loving the Children of God.",
+     "segments": 8
+    },
+    {
+     "file": "0445.json",
+     "ref": "4.29.3",
+     "title": "Tit. 3. Motives or Meditative helps to love the Godly.",
+     "segments": 10
+    },
+    {
+     "file": "0446.json",
+     "ref": "4.29.4",
+     "title": "Tit. 4. The Hinderances and Enemies of Christian love.",
+     "segments": 12
+    },
+    {
+     "file": "0447.json",
+     "ref": "4.29.5",
+     "title": "Tit. 5. The Counterfeits of Christian Love.",
+     "segments": 12
+    },
+    {
+     "file": "0448.json",
+     "ref": "4.29.6",
+     "title": "Tit. 6. Cases and Directions for intimate special Friends.",
+     "segments": 65
+    },
+    {
+     "file": "0449.json",
+     "ref": "4.29.7",
+     "title": "Directions for the right Use of special Bosome Friendship.",
+     "segments": 15
+    },
+    {
+     "file": "0450.json",
+     "ref": "4.30.0",
+     "title": "CHAP. XXIX. Cases and Directions for Loving and doing good to enemies.",
+     "segments": 1
+    },
+    {
+     "file": "0451.json",
+     "ref": "4.30.1",
+     "title": "Tit. 1. Cases about loving and doing good to enemies.",
+     "segments": 20
+    },
+    {
+     "file": "0452.json",
+     "ref": "4.30.2",
+     "title": "Tit. 2. Motives to Love and do good to Enemies.",
+     "segments": 10
+    },
+    {
+     "file": "0453.json",
+     "ref": "4.30.3",
+     "title": "Tit. 3. Directions for Loving and doing good to Enemies.",
+     "segments": 14
+    },
+    {
+     "file": "0454.json",
+     "ref": "4.31.1",
+     "title": "Tit. 1. Cases of Conscience about Works of Charity.",
+     "segments": 74
+    },
+    {
+     "file": "0455.json",
+     "ref": "4.31.2",
+     "title": "Tit. 2. Directions for works of Charity.",
+     "segments": 11
+    },
+    {
+     "file": "0456.json",
+     "ref": "4.32.1",
+     "title": "Tit. 1. Cases about confessing sins and injuries to others.",
+     "segments": 9
+    },
+    {
+     "file": "0457.json",
+     "ref": "4.32.2",
+     "title": "Tit. 2. Directions about confessing sin to others.",
+     "segments": 6
+    },
+    {
+     "file": "0458.json",
+     "ref": "4.33.1",
+     "title": "Tit. 1. Cases of Conscience about Satisfaction and Restitution.",
+     "segments": 29
+    },
+    {
+     "file": "0459.json",
+     "ref": "4.33.2",
+     "title": "Tit. 2. Directions about Restitution and Satisfaction.",
+     "segments": 7
+    },
+    {
+     "file": "0460.json",
+     "ref": "4.34.1",
+     "title": "Tit. 1. Cases of Conscience about obtaining pardon of sin from God.",
+     "segments": 28
+    },
+    {
+     "file": "0461.json",
+     "ref": "4.34.2",
+     "title": "Tit. 2. Directions for obtaining Pardon from God.",
+     "segments": 10
+    },
+    {
+     "file": "0462.json",
+     "ref": "4.35.1",
+     "title": "Tit. 1. Cases of Conscience about Self-judging.",
+     "segments": 7
+    },
+    {
+     "file": "0463.json",
+     "ref": "4.35.2",
+     "title": "Tit. 2. Directions for Self-judging as to our Actions.",
+     "segments": 14
+    },
+    {
+     "file": "0464.json",
+     "ref": "4.35.3",
+     "title": "Tit. 3. Directions for Self-judging as to our Estates, to know whether we are in a regenerate and justified state, or not.",
+     "segments": 28
+    },
+    {
+     "file": "0465.json",
+     "ref": "4.end",
+     "title": "4.end",
+     "segments": 1
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+ <title id="title">An imagined late antique study</title><desc id="desc">A codex, writing stylus and lamp in a quiet Roman North African study; no person is depicted.</desc>
+ <defs><linearGradient id="wall" x2="0" y2="1"><stop stop-color="#32271f"/><stop offset="1" stop-color="#100f0e"/></linearGradient><radialGradient id="glow"><stop stop-color="#d59b4e" stop-opacity=".8"/><stop offset="1" stop-color="#d59b4e" stop-opacity="0"/></radialGradient><linearGradient id="page" x2="1" y2="1"><stop stop-color="#f2e3c3"/><stop offset="1" stop-color="#bda77e"/></linearGradient></defs>
+ <rect width="1200" height="760" fill="url(#wall)"/><ellipse cx="850" cy="300" rx="460" ry="410" fill="url(#glow)"/>
+ <path d="M735 0h465v430H735z" fill="#171614"/><path d="M775 0h385v370H775z" fill="#a98354"/><path d="M795 0h345v350H795z" fill="#2e4038"/><path d="M795 260h345v90H795z" fill="#87704b"/><path d="M955 0v350M795 175h345" stroke="#b99561" stroke-width="13"/>
+ <path d="M0 530Q450 490 1200 540v220H0z" fill="#4c3020"/><path d="M0 600q570-55 1200 10v25q-580-52-1200 0z" fill="#8e6339"/>
+ <path d="M255 494q175-73 337 0v125q-169-78-337 0z" fill="url(#page)" stroke="#6e5636" stroke-width="8"/><path d="M592 494q160-72 336-1v126q-170-74-336 0z" fill="url(#page)" stroke="#6e5636" stroke-width="8"/><path d="M592 495v124" stroke="#7b6344" stroke-width="7"/>
+ <g stroke="#8e7958" stroke-width="5" opacity=".7"><path d="M291 526q112-33 235 1M291 548q112-33 235 1M291 570q112-33 235 1M626 527q120-33 263 0M626 550q120-33 263 0M626 573q120-33 263 0"/></g>
+ <path d="M924 490q-6-44 21-66 29 21 22 66z" fill="#ad7e42"/><path d="M944 426q-19-34 1-57 24 22 10 57" fill="#f4c875"/><ellipse cx="945" cy="503" rx="54" ry="14" fill="#c39a5c"/><path d="M1020 575l150-78" stroke="#b38c58" stroke-width="13" stroke-linecap="round"/><path d="M1019 575l28-26" stroke="#e1c898" stroke-width="5"/>
+ <rect width="1200" height="760" fill="#120e0b" opacity=".14"/>
+</svg>

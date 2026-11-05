@@ -1,0 +1,509 @@
+{
+ "workId": "chrysostom-homilies-1-corinthians",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "chrysostom-1-corinthians-npnf1-chambers-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Homilies on the First Epistle to the Corinthians, in A Select Library of the Nicene and Post-Nicene Fathers, series I, vol. XII (Homilies on the Epistles of Paul to the Corinthians), trans. The Oxford translation (Library of the Fathers), revised for the American edition; the original Oxford translators are not named on the pages opened; revised with additional notes by Talbot W. Chambers (Buffalo; New York: Christian Literature Co., 1889). Wikisource contributors, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_XII/Homilies_on_First_Corinthians",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1456112,
+   "sourceSha256": "539135de64340ee22f752110191dd259bc5225ee5146af00e31cfab3a81c5ee4",
+   "leftOut": {
+    "note": 348
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Argument",
+     "bytes": 9038,
+     "sha256": "39ffb1e10f85c1345fcf846b1de63f1af7c908fff1a37d6f422d8b0dfcbf2260"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily I",
+     "bytes": 16677,
+     "sha256": "232c54d8b3e9202ef12e0674106befded0585c5504bde232cfb6e525fcf99b5f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily II",
+     "bytes": 24649,
+     "sha256": "41ae7ce44a3eaceb2f3199af2afeb555f5141d39176cadb49cfd9a8daf884d21"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily III",
+     "bytes": 30614,
+     "sha256": "9757493e2760d5df3058ef3eed658e3711a7b2b317d5f330ac18868bee5cdb14"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily IX",
+     "bytes": 26219,
+     "sha256": "5539baecfa9d4e0c3bb317cede87651be64c45a62c751cd8c49e8c22725c4deb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily V",
+     "bytes": 35085,
+     "sha256": "663002d9cfd7c5f355ff6553874c666878c3bb89adad2696dc23f3dde857ce73"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily VI",
+     "bytes": 25771,
+     "sha256": "021b9c031747320ee61255364ae6850e236eb32bf2f2572f45d3ac9ce17d5869"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily VII",
+     "bytes": 56710,
+     "sha256": "07ab68d6b2404a2c1123afa61542ffc5a3e08c957bc396a2b276bc8f7074c69d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily VIII",
+     "bytes": 30366,
+     "sha256": "a25c7a6444806ec54c3d64d9f161d67fbb7b17ea0b67720ae8ef7022d3413681"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily X",
+     "bytes": 24412,
+     "sha256": "4b4cd1e1c5ab8ed31d640b40dbe311981f8d596b3aee09412e2f09271c04ebe0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XI",
+     "bytes": 32181,
+     "sha256": "a28062a118cff6c65aca2fc8ff9f94ac96f000db9b43a988cb6efb7dfda989f8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XII",
+     "bytes": 48729,
+     "sha256": "17981acacfd6bd4a90f61f9d073239948a8fa8195c7e423ffb91b025abf0b80d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XIII",
+     "bytes": 29496,
+     "sha256": "c1c6d8168f4364482835c1cef400c509d5d4776940de3905d692c3bc7378898e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XIV",
+     "bytes": 28700,
+     "sha256": "464dbb5c9e1ce504c189bbad248bbd4d4804b5f84818499e494401e995c37b91"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XIX",
+     "bytes": 33894,
+     "sha256": "f9228188ab95afcd71d616c0a40a159b92007c2c9b381c240c14f5ef42e069af"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XL",
+     "bytes": 30389,
+     "sha256": "400b4a2e3aea4a0635fb4058ab08570fd36120d7283171a6faf99cf4242e94d7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XLI",
+     "bytes": 33281,
+     "sha256": "fe0b9971123db882ad6a2c033fa42ac65aef904d15476bf317b2160f76594e1c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XLII",
+     "bytes": 19421,
+     "sha256": "f83fb55032559f3c3473567bf9a8e93a4189ce8ffac289543d67046bc4465bd2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XLIII",
+     "bytes": 25747,
+     "sha256": "a28a7eda3167359c930dec71e932071173964a335a2a62e3753a66c38003862a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XLIV",
+     "bytes": 39579,
+     "sha256": "a18084fa0b65d6f05b87dbbb51ac0caa184a26895a89ed819c88aeda581ddba6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XV",
+     "bytes": 36014,
+     "sha256": "55042c6cb2f102cb2a501b27b24947e171fdb5810881fc3773776fb5db31c253"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XVI",
+     "bytes": 37221,
+     "sha256": "6835e2f83bc1086c0d9c0c1a8c0b18c0ebbf7aa00c55bf2cd6d79ccb225e49ee"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XVII",
+     "bytes": 22759,
+     "sha256": "86eb30d47534ccca203f34800efd95456edb572bdfa7893fe71cfcbdec125ef9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XVIII",
+     "bytes": 25550,
+     "sha256": "4e32283191951d94d41e0e6ef93251c8a896c7854c9cb0ee54e7785d3fd1c71f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XX",
+     "bytes": 37348,
+     "sha256": "91016cd0001911a6121100fa517ad26e2d93ad725324cb1a64f011f1a80d4b77"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XXI",
+     "bytes": 43269,
+     "sha256": "e2c43022d6057928ffdb1bd1861db1f0b1ee806dc079bae40ac083f432be25e0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XXII",
+     "bytes": 29673,
+     "sha256": "1afa2486780165d2ccae758fb6e2dc136ba044ce46b8cfd0f6b0d1ba4d9bd2b7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XXIII",
+     "bytes": 37255,
+     "sha256": "e5c558c2ed5e00ea61758376148974ad473814fd7707bf359face7d8798518ef"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XXIV",
+     "bytes": 31869,
+     "sha256": "b2084945c594f6ca1685fdc7184ce35db0ce92d3bd3123220920efb5c9a6b280"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XXIX",
+     "bytes": 38401,
+     "sha256": "a969ae31ec3c9212035d365660c8a16d374b9e0732d6b8a63b5758691167377f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XXV",
+     "bytes": 25706,
+     "sha256": "ac29b7ccbda2430f96715cbe5be5f84f7932afadd62cecc016d62435969fa401"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XXVI",
+     "bytes": 47333,
+     "sha256": "a43b80af3106549cf9ec96d88e198e6e0c2926d6101c8f1119b584dc69d5d6d3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XXVII",
+     "bytes": 33310,
+     "sha256": "a28bbecbed54a1ab045d67a58619ceb3f1183c8e388ee5ee38fa8754686d34c2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XXVIII",
+     "bytes": 27015,
+     "sha256": "3fd171af2657dd47ab2a256a1e0a2eadd62bccb80a90dc2ef568dcaaacb24f63"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XXX",
+     "bytes": 32676,
+     "sha256": "b1675d007c63d44402bca9bfcbf9293214ff1276443398be6e3893a3170468f1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XXXI",
+     "bytes": 26159,
+     "sha256": "4788db39244f41e49be83a7a781bd9da1e014d309a23b0bdc17a6132c08aaa36"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XXXII",
+     "bytes": 47034,
+     "sha256": "71a6f7bea9005c7041f473bbdd627a91eba62bc8ec8f80e9b82be27a501ec8fb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XXXIII",
+     "bytes": 40400,
+     "sha256": "72d1f39b982385f9f6dcc33433230e9baeefa1d9c92a04a16fdf69e0af81c359"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XXXIV",
+     "bytes": 39360,
+     "sha256": "26664299e63f2a334d16f8873513d088e7458898ed572bd94d4e1a33357d2bd4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XXXIX",
+     "bytes": 57758,
+     "sha256": "a75b806d033749033970f96ddabe3e6cee0a3fa47375901ecba8e8f31ecca310"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XXXV",
+     "bytes": 38627,
+     "sha256": "8a1f0bf189d6f132b2af3f22e1954cfca47ef7cd2504e6c5009c042fe2bed771"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XXXVI",
+     "bytes": 37117,
+     "sha256": "0f75f1a6531c6bef542f862fac7d1446df0bf0be0fdc974e50fcc2674a58f7d9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XXXVII",
+     "bytes": 21131,
+     "sha256": "bca822ef0ccb996345146be06dba86b757de8ef8c3ad1c1e3c0c947824a66411"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume XII/Homilies on First Corinthians/Homily XXXVIII",
+     "bytes": 42169,
+     "sha256": "9a2a753c70b31064a7f0397711b487d716088e55083b36608b775fcd3b989514"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "p1",
+     "title": "p1",
+     "segments": 16
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 21
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 26
+    },
+    {
+     "file": "0004.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 34
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 34
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 27
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 61
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 46
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 31
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 31
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 35
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 65
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 39
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 44
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 51
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 56
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 30
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 33
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 57
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 48
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 66
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 48
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 59
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 48
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 36
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 71
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 53
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 35
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 63
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 42
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 35
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 52
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 49
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 45
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 60
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 57
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 33
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 58
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 90
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 38
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 53
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 41
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 36
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 56
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "workId": "gnt-eph",
+ "editions": [
+  {
+   "editionId": "sblgnt-eph",
+   "language": "grc",
+   "variety": "grc-koi",
+   "textSource": "self",
+   "analysis": {
+    "id": "morphgnt-sblgnt@6.12",
+    "kind": "verified-dataset",
+    "status": "verified"
+   },
+   "credit": "Greek text: SBL Greek New Testament (SBLGNT), Society of Biblical Literature and Logos Bible Software, CC BY 4.0. Morphology and lemmas: MorphGNT SBLGNT edition, James K. Tauber, CC BY-SA 3.0. Glosses: Dodson Greek Lexicon (public domain). Strong's numbers: Strong's Greek Dictionary, Open Scriptures JSON edition.",
+   "licence": "text CC BY 4.0; analysis CC BY-SA 3.0",
+   "source": {
+    "name": "MorphGNT SBLGNT",
+    "version": "6.12",
+    "sourceUrl": "https://github.com/morphgnt/sblgnt",
+    "localPath": "biblia-v0/data/gnt/70-Eph-morphgnt.txt",
+    "lexicons": [
+     "dodson.csv",
+     "strongs-greek-dictionary.js"
+    ]
+   },
+   "coverage": {
+    "tokens": 2416,
+    "withLemma": 2416,
+    "withMorphology": 1803,
+    "verified": 2416,
+    "ambiguous": 0,
+    "unanalysed": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "EPH.1",
+     "title": "Ephesians 1",
+     "segments": 23,
+     "tokens": 401
+    },
+    {
+     "file": "0002.json",
+     "ref": "EPH.2",
+     "title": "Ephesians 2",
+     "segments": 22,
+     "tokens": 362
+    },
+    {
+     "file": "0003.json",
+     "ref": "EPH.3",
+     "title": "Ephesians 3",
+     "segments": 21,
+     "tokens": 324
+    },
+    {
+     "file": "0004.json",
+     "ref": "EPH.4",
+     "title": "Ephesians 4",
+     "segments": 32,
+     "tokens": 481
+    },
+    {
+     "file": "0005.json",
+     "ref": "EPH.5",
+     "title": "Ephesians 5",
+     "segments": 33,
+     "tokens": 455
+    },
+    {
+     "file": "0006.json",
+     "ref": "EPH.6",
+     "title": "Ephesians 6",
+     "segments": 24,
+     "tokens": 393
+    }
+   ]
+  }
+ ]
+}

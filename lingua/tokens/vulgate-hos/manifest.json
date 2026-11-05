@@ -1,0 +1,128 @@
+{
+ "workId": "vulgate-hos",
+ "editions": [
+  {
+   "editionId": "clementine-hos",
+   "language": "la",
+   "variety": "la-ecc",
+   "textSource": "store",
+   "analysis": {
+    "id": "golearn-la@1",
+    "kind": "analyser",
+    "status": "automatic"
+   },
+   "credit": "GoLearn Latin analyser (adapter-la; Whitaker's Words, Lewis & Short, Perseus treebank form priors, hand-written Vulgate priors); no Latinist has checked its data",
+   "licence": "Whitaker's Words: free for any use; Lewis & Short via Perseus: CC BY-SA 4.0; Perseus Latin Treebank priors: CC BY-SA 3.0; analyser code: the user's own",
+   "source": "local: go-v0-ecclesia/src/adapters/la.ts",
+   "version": "1",
+   "coverage": {
+    "tokens": 3511,
+    "withLemma": 3511,
+    "withMorphology": 2513,
+    "verified": 0,
+    "ambiguous": 1488,
+    "unanalysed": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "HOS.1",
+     "title": "Hosea 1",
+     "segments": 11,
+     "tokens": 234
+    },
+    {
+     "file": "0002.json",
+     "ref": "HOS.2",
+     "title": "Hosea 2",
+     "segments": 24,
+     "tokens": 485
+    },
+    {
+     "file": "0003.json",
+     "ref": "HOS.3",
+     "title": "Hosea 3",
+     "segments": 5,
+     "tokens": 110
+    },
+    {
+     "file": "0004.json",
+     "ref": "HOS.4",
+     "title": "Hosea 4",
+     "segments": 19,
+     "tokens": 326
+    },
+    {
+     "file": "0005.json",
+     "ref": "HOS.5",
+     "title": "Hosea 5",
+     "segments": 15,
+     "tokens": 250
+    },
+    {
+     "file": "0006.json",
+     "ref": "HOS.6",
+     "title": "Hosea 6",
+     "segments": 11,
+     "tokens": 161
+    },
+    {
+     "file": "0007.json",
+     "ref": "HOS.7",
+     "title": "Hosea 7",
+     "segments": 16,
+     "tokens": 293
+    },
+    {
+     "file": "0008.json",
+     "ref": "HOS.8",
+     "title": "Hosea 8",
+     "segments": 14,
+     "tokens": 222
+    },
+    {
+     "file": "0009.json",
+     "ref": "HOS.9",
+     "title": "Hosea 9",
+     "segments": 17,
+     "tokens": 308
+    },
+    {
+     "file": "0010.json",
+     "ref": "HOS.10",
+     "title": "Hosea 10",
+     "segments": 15,
+     "tokens": 266
+    },
+    {
+     "file": "0011.json",
+     "ref": "HOS.11",
+     "title": "Hosea 11",
+     "segments": 12,
+     "tokens": 213
+    },
+    {
+     "file": "0012.json",
+     "ref": "HOS.12",
+     "title": "Hosea 12",
+     "segments": 14,
+     "tokens": 223
+    },
+    {
+     "file": "0013.json",
+     "ref": "HOS.13",
+     "title": "Hosea 13",
+     "segments": 15,
+     "tokens": 248
+    },
+    {
+     "file": "0014.json",
+     "ref": "HOS.14",
+     "title": "Hosea 14",
+     "segments": 10,
+     "tokens": 172
+    }
+   ]
+  }
+ ]
+}

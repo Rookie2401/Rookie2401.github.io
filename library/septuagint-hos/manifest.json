@@ -1,0 +1,225 @@
+{
+ "workId": "septuagint-hos",
+ "parallel": "segment",
+ "editions": [
+  {
+   "editionId": "brenton-greek-hos",
+   "role": "original",
+   "language": "greek",
+   "credit": "The Septuagint Version of the Old Testament, with an English Translation … and the Apocrypha (the Greek according to the Vatican text), ed. Lancelot Charles Lee Brenton (London: Samuel Bagster and Sons, 1851). Transcription: eBible.org (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://ebible.org/Scriptures/grcbrent_usfx.zip",
+   "sourceMember": "grcbrent_usfx.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1816960,
+   "sourceSha256": "ff88d6bdd6f21f279b24fe7ebcefd7747991cc24f232df95a676c5609fc25356",
+   "leftOut": {
+    "id": 52,
+    "toc": 108,
+    "s": 1
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 3922,
+    "barePerThousand": 32,
+    "digitWords": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "HOS.1",
+     "title": "Hosea 1",
+     "segments": 9
+    },
+    {
+     "file": "0002.json",
+     "ref": "HOS.2",
+     "title": "Hosea 2",
+     "segments": 25
+    },
+    {
+     "file": "0003.json",
+     "ref": "HOS.3",
+     "title": "Hosea 3",
+     "segments": 5
+    },
+    {
+     "file": "0004.json",
+     "ref": "HOS.4",
+     "title": "Hosea 4",
+     "segments": 19
+    },
+    {
+     "file": "0005.json",
+     "ref": "HOS.5",
+     "title": "Hosea 5",
+     "segments": 15
+    },
+    {
+     "file": "0006.json",
+     "ref": "HOS.6",
+     "title": "Hosea 6",
+     "segments": 11
+    },
+    {
+     "file": "0007.json",
+     "ref": "HOS.7",
+     "title": "Hosea 7",
+     "segments": 16
+    },
+    {
+     "file": "0008.json",
+     "ref": "HOS.8",
+     "title": "Hosea 8",
+     "segments": 14
+    },
+    {
+     "file": "0009.json",
+     "ref": "HOS.9",
+     "title": "Hosea 9",
+     "segments": 17
+    },
+    {
+     "file": "0010.json",
+     "ref": "HOS.10",
+     "title": "Hosea 10",
+     "segments": 15
+    },
+    {
+     "file": "0011.json",
+     "ref": "HOS.11",
+     "title": "Hosea 11",
+     "segments": 11
+    },
+    {
+     "file": "0012.json",
+     "ref": "HOS.12",
+     "title": "Hosea 12",
+     "segments": 15
+    },
+    {
+     "file": "0013.json",
+     "ref": "HOS.13",
+     "title": "Hosea 13",
+     "segments": 15
+    },
+    {
+     "file": "0014.json",
+     "ref": "HOS.14",
+     "title": "Hosea 14",
+     "segments": 10
+    }
+   ]
+  },
+  {
+   "editionId": "brenton-english-hos",
+   "role": "english",
+   "language": "english",
+   "credit": "The Septuagint Version of the Old Testament, with an English Translation … and the Apocrypha, trans. Lancelot Charles Lee Brenton (London: Samuel Bagster and Sons, 1851). Transcription: eBible.org (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://ebible.org/Scriptures/eng-Brenton_usfx.zip",
+   "sourceMember": "eng-Brenton_usfx.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1548145,
+   "sourceSha256": "363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554",
+   "leftOut": {
+    "id": 60,
+    "toc": 179,
+    "f": 2600,
+    "x": 150
+   },
+   "segmentRefs": "citation",
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "HOS.1",
+     "title": "Hosea 1",
+     "segments": 9
+    },
+    {
+     "file": "0002.json",
+     "ref": "HOS.2",
+     "title": "Hosea 2",
+     "segments": 25
+    },
+    {
+     "file": "0003.json",
+     "ref": "HOS.3",
+     "title": "Hosea 3",
+     "segments": 5
+    },
+    {
+     "file": "0004.json",
+     "ref": "HOS.4",
+     "title": "Hosea 4",
+     "segments": 19
+    },
+    {
+     "file": "0005.json",
+     "ref": "HOS.5",
+     "title": "Hosea 5",
+     "segments": 15
+    },
+    {
+     "file": "0006.json",
+     "ref": "HOS.6",
+     "title": "Hosea 6",
+     "segments": 11
+    },
+    {
+     "file": "0007.json",
+     "ref": "HOS.7",
+     "title": "Hosea 7",
+     "segments": 16
+    },
+    {
+     "file": "0008.json",
+     "ref": "HOS.8",
+     "title": "Hosea 8",
+     "segments": 14
+    },
+    {
+     "file": "0009.json",
+     "ref": "HOS.9",
+     "title": "Hosea 9",
+     "segments": 17
+    },
+    {
+     "file": "0010.json",
+     "ref": "HOS.10",
+     "title": "Hosea 10",
+     "segments": 15
+    },
+    {
+     "file": "0011.json",
+     "ref": "HOS.11",
+     "title": "Hosea 11",
+     "segments": 11
+    },
+    {
+     "file": "0012.json",
+     "ref": "HOS.12",
+     "title": "Hosea 12",
+     "segments": 15
+    },
+    {
+     "file": "0013.json",
+     "ref": "HOS.13",
+     "title": "Hosea 13",
+     "segments": 15
+    },
+    {
+     "file": "0014.json",
+     "ref": "HOS.14",
+     "title": "Hosea 14",
+     "segments": 10
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "divisionOnly": [],
+  "missingInOriginal": [],
+  "missingInEnglish": []
+ }
+}

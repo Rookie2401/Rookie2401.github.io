@@ -1,0 +1,2760 @@
+{
+ "workId": "cranmer-bcp",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "cranmer-bcp-1549-tcp",
+   "role": "english",
+   "language": "english",
+   "credit": "The Book of the Common Prayer and administration of the sacraments, after the use of the Church of England (1549), in EEBO-TCP A72693 (STC 16270A) (London: Edward Whitchurch (and Nicholas Hill), 1549). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A72693/master/A72693.xml",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 1034180,
+   "sourceSha256": "d940a5e0cef139f20333fa96624414eb354bc1c2bc55e1c64bf9410698d53565",
+   "leftOut": {
+    "pb": 325,
+    "figure": 1,
+    "note": 375,
+    "unread": 11
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 106255,
+    "unreadPerThousand": 0.1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.2",
+     "title": "THE PREFACE.",
+     "segments": 6
+    },
+    {
+     "file": "0002.json",
+     "ref": "front.3.1",
+     "title": "❧ THE ORDRE ❧ how the Pſalter is appoynted to bee redde.",
+     "segments": 7
+    },
+    {
+     "file": "0003.json",
+     "ref": "front.3.2",
+     "title": "front.3.2",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "front.3.3",
+     "title": "THE ORDRE howe the reſt of holy Scripture (beſide the Pſalter) is appoynted to bee redde.",
+     "segments": 7
+    },
+    {
+     "file": "0005.json",
+     "ref": "front.4.1",
+     "title": "front.4.1",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "front.4.2",
+     "title": "front.4.2",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "front.4.3",
+     "title": "front.4.3",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "front.4.4",
+     "title": "front.4.4",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "front.4.5",
+     "title": "front.4.5",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "front.4.6",
+     "title": "front.4.6",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "front.4.7",
+     "title": "front.4.7",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "front.4.8",
+     "title": "front.4.8",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "front.4.9",
+     "title": "front.4.9",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "front.4.10",
+     "title": "front.4.10",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "front.4.11",
+     "title": "front.4.11",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "front.4.12",
+     "title": "front.4.12",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "1",
+     "title": "❧ AN ORDRE ❧ for Mattins dayly through the yere.",
+     "segments": 47
+    },
+    {
+     "file": "0018.json",
+     "ref": "2",
+     "title": "❧ AN ORDRE ❧ For Euenſong throughout the yere.",
+     "segments": 69
+    },
+    {
+     "file": "0019.json",
+     "ref": "3.1.1",
+     "title": "3.1.1",
+     "segments": 10
+    },
+    {
+     "file": "0020.json",
+     "ref": "3.1.2",
+     "title": "The Collect.",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "3.1.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "3.1.4",
+     "title": "The Goſpell.",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "3.2.0",
+     "title": "The ſeconde Sonday.",
+     "segments": 8
+    },
+    {
+     "file": "0024.json",
+     "ref": "3.2.1",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "3.2.2",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "3.2.3",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "3.3.0",
+     "title": "¶ The thirde ſonday.",
+     "segments": 11
+    },
+    {
+     "file": "0028.json",
+     "ref": "3.3.1",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "3.3.2",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "3.3.3",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "3.4.0",
+     "title": "¶ The fourth Sondaye.",
+     "segments": 15
+    },
+    {
+     "file": "0032.json",
+     "ref": "3.4.1",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "3.4.2",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "3.4.3",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "3.5.1.1",
+     "title": "3.5.1.1",
+     "segments": 3
+    },
+    {
+     "file": "0036.json",
+     "ref": "3.5.2.1",
+     "title": "3.5.2.1",
+     "segments": 12
+    },
+    {
+     "file": "0037.json",
+     "ref": "3.5.2.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "3.5.2.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "3.5.2.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "3.5.3.1",
+     "title": "3.5.3.1",
+     "segments": 11
+    },
+    {
+     "file": "0041.json",
+     "ref": "3.5.3.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "3.5.3.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "3.5.3.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "3.5.4.0",
+     "title": "¶ Propre Pſalmes and leſſons at Euenſong.",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "3.5.4.1",
+     "title": "3.5.4.1",
+     "segments": 1
+    },
+    {
+     "file": "0046.json",
+     "ref": "3.5.4.2",
+     "title": "3.5.4.2",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "3.6.1.1",
+     "title": "3.6.1.1",
+     "segments": 1
+    },
+    {
+     "file": "0048.json",
+     "ref": "3.6.2.1",
+     "title": "3.6.2.1",
+     "segments": 14
+    },
+    {
+     "file": "0049.json",
+     "ref": "3.6.2.2",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "3.6.2.3",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "3.6.3.1",
+     "title": "3.6.3.1",
+     "segments": 1
+    },
+    {
+     "file": "0052.json",
+     "ref": "3.7.1.1",
+     "title": "3.7.1.1",
+     "segments": 1
+    },
+    {
+     "file": "0053.json",
+     "ref": "3.7.2.0",
+     "title": "At the Communion.",
+     "segments": 10
+    },
+    {
+     "file": "0054.json",
+     "ref": "3.7.2.1",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "3.7.2.2",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "3.7.2.3",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0057.json",
+     "ref": "3.7.3.1",
+     "title": "3.7.3.1",
+     "segments": 1
+    },
+    {
+     "file": "0058.json",
+     "ref": "3.8.1.1",
+     "title": "3.8.1.1",
+     "segments": 1
+    },
+    {
+     "file": "0059.json",
+     "ref": "3.8.1.2",
+     "title": "3.8.1.2",
+     "segments": 16
+    },
+    {
+     "file": "0060.json",
+     "ref": "3.8.1.3",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0061.json",
+     "ref": "3.8.1.4",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0062.json",
+     "ref": "3.8.1.5",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0063.json",
+     "ref": "3.9.1",
+     "title": "3.9.1",
+     "segments": 10
+    },
+    {
+     "file": "0064.json",
+     "ref": "3.9.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0065.json",
+     "ref": "3.9.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0066.json",
+     "ref": "3.9.4",
+     "title": "The Goſpell.",
+     "segments": 3
+    },
+    {
+     "file": "0067.json",
+     "ref": "3.10.1.1",
+     "title": "3.10.1.1",
+     "segments": 1
+    },
+    {
+     "file": "0068.json",
+     "ref": "3.10.1.2",
+     "title": "3.10.1.2",
+     "segments": 1
+    },
+    {
+     "file": "0069.json",
+     "ref": "3.10.2.1",
+     "title": "At the Communion.",
+     "segments": 11
+    },
+    {
+     "file": "0070.json",
+     "ref": "3.10.2.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0071.json",
+     "ref": "3.10.2.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0072.json",
+     "ref": "3.10.2.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0073.json",
+     "ref": "3.10.3.1",
+     "title": "3.10.3.1",
+     "segments": 1
+    },
+    {
+     "file": "0074.json",
+     "ref": "3.10.3.2",
+     "title": "3.10.3.2",
+     "segments": 1
+    },
+    {
+     "file": "0075.json",
+     "ref": "3.11.1.1",
+     "title": "3.11.1.1",
+     "segments": 1
+    },
+    {
+     "file": "0076.json",
+     "ref": "3.11.1.2",
+     "title": "3.11.1.2",
+     "segments": 1
+    },
+    {
+     "file": "0077.json",
+     "ref": "3.11.2.1",
+     "title": "At the Communion",
+     "segments": 14
+    },
+    {
+     "file": "0078.json",
+     "ref": "3.11.2.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0079.json",
+     "ref": "3.11.2.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0080.json",
+     "ref": "3.11.2.4",
+     "title": "The Goſpell.",
+     "segments": 2
+    },
+    {
+     "file": "0081.json",
+     "ref": "3.11.3.1",
+     "title": "3.11.3.1",
+     "segments": 1
+    },
+    {
+     "file": "0082.json",
+     "ref": "3.11.3.2",
+     "title": "3.11.3.2",
+     "segments": 1
+    },
+    {
+     "file": "0083.json",
+     "ref": "3.12.1",
+     "title": "3.12.1",
+     "segments": 7
+    },
+    {
+     "file": "0084.json",
+     "ref": "3.12.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0085.json",
+     "ref": "3.12.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0086.json",
+     "ref": "3.12.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0087.json",
+     "ref": "3.13.1",
+     "title": "3.13.1",
+     "segments": 10
+    },
+    {
+     "file": "0088.json",
+     "ref": "3.13.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0089.json",
+     "ref": "3.13.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0090.json",
+     "ref": "3.13.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0091.json",
+     "ref": "3.14.1",
+     "title": "3.14.1",
+     "segments": 8
+    },
+    {
+     "file": "0092.json",
+     "ref": "3.14.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0093.json",
+     "ref": "3.14.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0094.json",
+     "ref": "3.14.4",
+     "title": "The Goſpell.",
+     "segments": 2
+    },
+    {
+     "file": "0095.json",
+     "ref": "3.15.1",
+     "title": "3.15.1",
+     "segments": 14
+    },
+    {
+     "file": "0096.json",
+     "ref": "3.15.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0097.json",
+     "ref": "3.15.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0098.json",
+     "ref": "3.15.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0099.json",
+     "ref": "3.16.1",
+     "title": "3.16.1",
+     "segments": 11
+    },
+    {
+     "file": "0100.json",
+     "ref": "3.16.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0101.json",
+     "ref": "3.16.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0102.json",
+     "ref": "3.16.4",
+     "title": "The Goſpell.",
+     "segments": 2
+    },
+    {
+     "file": "0103.json",
+     "ref": "3.17.1",
+     "title": "3.17.1",
+     "segments": 8
+    },
+    {
+     "file": "0104.json",
+     "ref": "3.17.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0105.json",
+     "ref": "3.17.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0106.json",
+     "ref": "3.17.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0107.json",
+     "ref": "3.18.1",
+     "title": "3.18.1",
+     "segments": 12
+    },
+    {
+     "file": "0108.json",
+     "ref": "3.18.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0109.json",
+     "ref": "3.18.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0110.json",
+     "ref": "3.18.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0111.json",
+     "ref": "3.19.1",
+     "title": "3.19.1",
+     "segments": 14
+    },
+    {
+     "file": "0112.json",
+     "ref": "3.19.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0113.json",
+     "ref": "3.19.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0114.json",
+     "ref": "3.19.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0115.json",
+     "ref": "3.20.1",
+     "title": "3.20.1",
+     "segments": 12
+    },
+    {
+     "file": "0116.json",
+     "ref": "3.20.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0117.json",
+     "ref": "3.20.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0118.json",
+     "ref": "3.20.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0119.json",
+     "ref": "3.21.1",
+     "title": "3.21.1",
+     "segments": 14
+    },
+    {
+     "file": "0120.json",
+     "ref": "3.21.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0121.json",
+     "ref": "3.21.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0122.json",
+     "ref": "3.21.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0123.json",
+     "ref": "3.22.1",
+     "title": "3.22.1",
+     "segments": 10
+    },
+    {
+     "file": "0124.json",
+     "ref": "3.22.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0125.json",
+     "ref": "3.22.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0126.json",
+     "ref": "3.22.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0127.json",
+     "ref": "3.23.1",
+     "title": "3.23.1",
+     "segments": 8
+    },
+    {
+     "file": "0128.json",
+     "ref": "3.23.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0129.json",
+     "ref": "3.23.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0130.json",
+     "ref": "3.23.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0131.json",
+     "ref": "3.24.1",
+     "title": "3.24.1",
+     "segments": 12
+    },
+    {
+     "file": "0132.json",
+     "ref": "3.24.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0133.json",
+     "ref": "3.24.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0134.json",
+     "ref": "3.24.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0135.json",
+     "ref": "3.25.1",
+     "title": "3.25.1",
+     "segments": 9
+    },
+    {
+     "file": "0136.json",
+     "ref": "3.25.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0137.json",
+     "ref": "3.25.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0138.json",
+     "ref": "3.25.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0139.json",
+     "ref": "3.26.1",
+     "title": "3.26.1",
+     "segments": 10
+    },
+    {
+     "file": "0140.json",
+     "ref": "3.26.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0141.json",
+     "ref": "3.26.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0142.json",
+     "ref": "3.26.4",
+     "title": "The Goſpell.",
+     "segments": 2
+    },
+    {
+     "file": "0143.json",
+     "ref": "3.27.1",
+     "title": "The Epiſtle.",
+     "segments": 2
+    },
+    {
+     "file": "0144.json",
+     "ref": "3.27.2",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0145.json",
+     "ref": "3.28.1",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0146.json",
+     "ref": "3.28.2",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0147.json",
+     "ref": "3.29.1.1",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0148.json",
+     "ref": "3.29.1.2",
+     "title": "The Goſpell.",
+     "segments": 2
+    },
+    {
+     "file": "0149.json",
+     "ref": "3.29.2.1",
+     "title": "3.29.2.1",
+     "segments": 1
+    },
+    {
+     "file": "0150.json",
+     "ref": "3.30.1.1",
+     "title": "3.30.1.1",
+     "segments": 1
+    },
+    {
+     "file": "0151.json",
+     "ref": "3.30.1.2",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0152.json",
+     "ref": "3.30.1.3",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0153.json",
+     "ref": "3.30.2.1",
+     "title": "3.30.2.1",
+     "segments": 1
+    },
+    {
+     "file": "0154.json",
+     "ref": "3.31.1.1",
+     "title": "3.31.1.1",
+     "segments": 1
+    },
+    {
+     "file": "0155.json",
+     "ref": "3.31.1.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0156.json",
+     "ref": "3.31.2.1",
+     "title": "3.31.2.1",
+     "segments": 35
+    },
+    {
+     "file": "0157.json",
+     "ref": "3.31.2.2",
+     "title": "The Collect.",
+     "segments": 2
+    },
+    {
+     "file": "0158.json",
+     "ref": "3.31.2.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0159.json",
+     "ref": "3.31.2.4",
+     "title": "The Goſpell.",
+     "segments": 3
+    },
+    {
+     "file": "0160.json",
+     "ref": "3.31.3.1",
+     "title": "3.31.3.1",
+     "segments": 1
+    },
+    {
+     "file": "0161.json",
+     "ref": "3.32.1.1",
+     "title": "3.32.1.1",
+     "segments": 1
+    },
+    {
+     "file": "0162.json",
+     "ref": "3.32.2.0",
+     "title": "At the Communion.",
+     "segments": 20
+    },
+    {
+     "file": "0163.json",
+     "ref": "3.32.2.1",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0164.json",
+     "ref": "3.32.2.2",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0165.json",
+     "ref": "3.33.1.0",
+     "title": "3.33.1.0",
+     "segments": 1
+    },
+    {
+     "file": "0166.json",
+     "ref": "3.33.1.1",
+     "title": "3.33.1.1",
+     "segments": 5
+    },
+    {
+     "file": "0167.json",
+     "ref": "3.33.2.1",
+     "title": "3.33.2.1",
+     "segments": 1
+    },
+    {
+     "file": "0168.json",
+     "ref": "3.33.2.2",
+     "title": "3.33.2.2",
+     "segments": 1
+    },
+    {
+     "file": "0169.json",
+     "ref": "3.33.2.3",
+     "title": "3.33.2.3",
+     "segments": 1
+    },
+    {
+     "file": "0170.json",
+     "ref": "3.33.3.0",
+     "title": "At the firſte Communion.",
+     "segments": 14
+    },
+    {
+     "file": "0171.json",
+     "ref": "3.33.3.1",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0172.json",
+     "ref": "3.33.3.2",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0173.json",
+     "ref": "3.33.3.3",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0174.json",
+     "ref": "3.33.4.0",
+     "title": "At the ſeconde Communion.",
+     "segments": 10
+    },
+    {
+     "file": "0175.json",
+     "ref": "3.33.4.1",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0176.json",
+     "ref": "3.33.4.2",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0177.json",
+     "ref": "3.33.4.3",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0178.json",
+     "ref": "3.33.5.0",
+     "title": "At Euenſong.",
+     "segments": 1
+    },
+    {
+     "file": "0179.json",
+     "ref": "3.33.5.1",
+     "title": "3.33.5.1",
+     "segments": 1
+    },
+    {
+     "file": "0180.json",
+     "ref": "3.34.0",
+     "title": "3.34.0",
+     "segments": 1
+    },
+    {
+     "file": "0181.json",
+     "ref": "3.34.1.1",
+     "title": "3.34.1.1",
+     "segments": 1
+    },
+    {
+     "file": "0182.json",
+     "ref": "3.34.2.1",
+     "title": "3.34.2.1",
+     "segments": 14
+    },
+    {
+     "file": "0183.json",
+     "ref": "3.34.2.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0184.json",
+     "ref": "3.34.2.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0185.json",
+     "ref": "3.34.2.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0186.json",
+     "ref": "3.34.3.1",
+     "title": "3.34.3.1",
+     "segments": 1
+    },
+    {
+     "file": "0187.json",
+     "ref": "3.35.1.1",
+     "title": "3.35.1.1",
+     "segments": 1
+    },
+    {
+     "file": "0188.json",
+     "ref": "3.35.2.1",
+     "title": "3.35.2.1",
+     "segments": 10
+    },
+    {
+     "file": "0189.json",
+     "ref": "3.35.2.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0190.json",
+     "ref": "3.35.2.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0191.json",
+     "ref": "3.35.2.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0192.json",
+     "ref": "3.35.3.1",
+     "title": "3.35.3.1",
+     "segments": 1
+    },
+    {
+     "file": "0193.json",
+     "ref": "3.36.1",
+     "title": "3.36.1",
+     "segments": 11
+    },
+    {
+     "file": "0194.json",
+     "ref": "3.36.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0195.json",
+     "ref": "3.36.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0196.json",
+     "ref": "3.36.4",
+     "title": "The Goſpell.",
+     "segments": 2
+    },
+    {
+     "file": "0197.json",
+     "ref": "3.37.1",
+     "title": "¶ The ſecond Sondaye after Eaſter.",
+     "segments": 8
+    },
+    {
+     "file": "0198.json",
+     "ref": "3.37.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0199.json",
+     "ref": "3.37.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0200.json",
+     "ref": "3.37.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0201.json",
+     "ref": "3.38.1",
+     "title": "3.38.1",
+     "segments": 14
+    },
+    {
+     "file": "0202.json",
+     "ref": "3.38.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0203.json",
+     "ref": "3.38.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0204.json",
+     "ref": "3.38.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0205.json",
+     "ref": "3.39.1",
+     "title": "3.39.1",
+     "segments": 10
+    },
+    {
+     "file": "0206.json",
+     "ref": "3.39.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0207.json",
+     "ref": "3.39.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0208.json",
+     "ref": "3.39.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0209.json",
+     "ref": "3.40.1",
+     "title": "3.40.1",
+     "segments": 15
+    },
+    {
+     "file": "0210.json",
+     "ref": "3.40.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0211.json",
+     "ref": "3.40.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0212.json",
+     "ref": "3.40.4",
+     "title": "The Goſpell.",
+     "segments": 2
+    },
+    {
+     "file": "0213.json",
+     "ref": "3.41.1.1",
+     "title": "3.41.1.1",
+     "segments": 1
+    },
+    {
+     "file": "0214.json",
+     "ref": "3.41.2.1",
+     "title": "3.41.2.1",
+     "segments": 11
+    },
+    {
+     "file": "0215.json",
+     "ref": "3.41.2.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0216.json",
+     "ref": "3.41.2.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0217.json",
+     "ref": "3.41.2.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0218.json",
+     "ref": "3.41.3.1",
+     "title": "3.41.3.1",
+     "segments": 1
+    },
+    {
+     "file": "0219.json",
+     "ref": "3.42.1",
+     "title": "3.42.1",
+     "segments": 8
+    },
+    {
+     "file": "0220.json",
+     "ref": "3.42.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0221.json",
+     "ref": "3.42.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0222.json",
+     "ref": "3.42.4",
+     "title": "The Goſpell.",
+     "segments": 2
+    },
+    {
+     "file": "0223.json",
+     "ref": "3.43.1.1",
+     "title": "3.43.1.1",
+     "segments": 1
+    },
+    {
+     "file": "0224.json",
+     "ref": "3.43.2.1",
+     "title": "3.43.2.1",
+     "segments": 23
+    },
+    {
+     "file": "0225.json",
+     "ref": "3.43.2.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0226.json",
+     "ref": "3.43.2.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0227.json",
+     "ref": "3.43.2.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0228.json",
+     "ref": "3.43.3.1",
+     "title": "3.43.3.1",
+     "segments": 1
+    },
+    {
+     "file": "0229.json",
+     "ref": "3.44.1",
+     "title": "3.44.1",
+     "segments": 6
+    },
+    {
+     "file": "0230.json",
+     "ref": "3.44.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0231.json",
+     "ref": "3.44.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0232.json",
+     "ref": "3.44.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0233.json",
+     "ref": "3.45.1",
+     "title": "¶At the communion.",
+     "segments": 13
+    },
+    {
+     "file": "0234.json",
+     "ref": "3.45.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0235.json",
+     "ref": "3.45.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0236.json",
+     "ref": "3.45.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0237.json",
+     "ref": "3.46.1.1",
+     "title": "3.46.1.1",
+     "segments": 1
+    },
+    {
+     "file": "0238.json",
+     "ref": "3.46.1.2",
+     "title": "3.46.1.2",
+     "segments": 1
+    },
+    {
+     "file": "0239.json",
+     "ref": "3.46.2.1",
+     "title": "3.46.2.1",
+     "segments": 9
+    },
+    {
+     "file": "0240.json",
+     "ref": "3.46.2.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0241.json",
+     "ref": "3.46.2.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0242.json",
+     "ref": "3.46.2.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0243.json",
+     "ref": "3.47.1",
+     "title": "3.47.1",
+     "segments": 9
+    },
+    {
+     "file": "0244.json",
+     "ref": "3.47.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0245.json",
+     "ref": "3.47.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0246.json",
+     "ref": "3.47.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0247.json",
+     "ref": "3.48.1",
+     "title": "3.48.1",
+     "segments": 10
+    },
+    {
+     "file": "0248.json",
+     "ref": "3.48.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0249.json",
+     "ref": "3.48.3",
+     "title": "The epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0250.json",
+     "ref": "3.48.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0251.json",
+     "ref": "3.49.1",
+     "title": "3.49.1",
+     "segments": 10
+    },
+    {
+     "file": "0252.json",
+     "ref": "3.49.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0253.json",
+     "ref": "3.49.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0254.json",
+     "ref": "3.49.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0255.json",
+     "ref": "3.50.0",
+     "title": "3.50.0",
+     "segments": 1
+    },
+    {
+     "file": "0256.json",
+     "ref": "3.50.1.1",
+     "title": "3.50.1.1",
+     "segments": 10
+    },
+    {
+     "file": "0257.json",
+     "ref": "3.50.1.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0258.json",
+     "ref": "3.50.1.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0259.json",
+     "ref": "3.50.1.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0260.json",
+     "ref": "3.51.1",
+     "title": "3.51.1",
+     "segments": 10
+    },
+    {
+     "file": "0261.json",
+     "ref": "3.51.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0262.json",
+     "ref": "3.51.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0263.json",
+     "ref": "3.51.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0264.json",
+     "ref": "3.52.1",
+     "title": "3.52.1",
+     "segments": 10
+    },
+    {
+     "file": "0265.json",
+     "ref": "3.52.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0266.json",
+     "ref": "3.52.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0267.json",
+     "ref": "3.52.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0268.json",
+     "ref": "3.53.1",
+     "title": "3.53.1",
+     "segments": 10
+    },
+    {
+     "file": "0269.json",
+     "ref": "3.53.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0270.json",
+     "ref": "3.53.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0271.json",
+     "ref": "3.53.4",
+     "title": "The Goſpel.",
+     "segments": 1
+    },
+    {
+     "file": "0272.json",
+     "ref": "3.54.1",
+     "title": "3.54.1",
+     "segments": 10
+    },
+    {
+     "file": "0273.json",
+     "ref": "3.54.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0274.json",
+     "ref": "3.54.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0275.json",
+     "ref": "3.54.4",
+     "title": "The Goſpel.",
+     "segments": 1
+    },
+    {
+     "file": "0276.json",
+     "ref": "3.55.1",
+     "title": "3.55.1",
+     "segments": 10
+    },
+    {
+     "file": "0277.json",
+     "ref": "3.55.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0278.json",
+     "ref": "3.55.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0279.json",
+     "ref": "3.55.4",
+     "title": "The Goſpell.",
+     "segments": 2
+    },
+    {
+     "file": "0280.json",
+     "ref": "3.56.1",
+     "title": "3.56.1",
+     "segments": 10
+    },
+    {
+     "file": "0281.json",
+     "ref": "3.56.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0282.json",
+     "ref": "3.56.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0283.json",
+     "ref": "3.56.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0284.json",
+     "ref": "3.57.1",
+     "title": "3.57.1",
+     "segments": 10
+    },
+    {
+     "file": "0285.json",
+     "ref": "3.57.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0286.json",
+     "ref": "3.57.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0287.json",
+     "ref": "3.57.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0288.json",
+     "ref": "3.58.1",
+     "title": "3.58.1",
+     "segments": 10
+    },
+    {
+     "file": "0289.json",
+     "ref": "3.58.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0290.json",
+     "ref": "3.58.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0291.json",
+     "ref": "3.58.4",
+     "title": "The Goſpel.",
+     "segments": 1
+    },
+    {
+     "file": "0292.json",
+     "ref": "3.59.1",
+     "title": "3.59.1",
+     "segments": 10
+    },
+    {
+     "file": "0293.json",
+     "ref": "3.59.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0294.json",
+     "ref": "3.59.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0295.json",
+     "ref": "3.59.4",
+     "title": "The Goſpell.",
+     "segments": 2
+    },
+    {
+     "file": "0296.json",
+     "ref": "3.60.1",
+     "title": "3.60.1",
+     "segments": 10
+    },
+    {
+     "file": "0297.json",
+     "ref": "3.60.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0298.json",
+     "ref": "3.60.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0299.json",
+     "ref": "3.60.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0300.json",
+     "ref": "3.61.1",
+     "title": "3.61.1",
+     "segments": 10
+    },
+    {
+     "file": "0301.json",
+     "ref": "3.61.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0302.json",
+     "ref": "3.61.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0303.json",
+     "ref": "3.61.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0304.json",
+     "ref": "3.62.1",
+     "title": "3.62.1",
+     "segments": 10
+    },
+    {
+     "file": "0305.json",
+     "ref": "3.62.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0306.json",
+     "ref": "3.62.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0307.json",
+     "ref": "3.62.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0308.json",
+     "ref": "3.63.1",
+     "title": "3.63.1",
+     "segments": 10
+    },
+    {
+     "file": "0309.json",
+     "ref": "3.63.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0310.json",
+     "ref": "3.63.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0311.json",
+     "ref": "3.63.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0312.json",
+     "ref": "3.64.1",
+     "title": "3.64.1",
+     "segments": 10
+    },
+    {
+     "file": "0313.json",
+     "ref": "3.64.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0314.json",
+     "ref": "3.64.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0315.json",
+     "ref": "3.64.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0316.json",
+     "ref": "3.65.1",
+     "title": "3.65.1",
+     "segments": 10
+    },
+    {
+     "file": "0317.json",
+     "ref": "3.65.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0318.json",
+     "ref": "3.65.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0319.json",
+     "ref": "3.65.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0320.json",
+     "ref": "3.66.1",
+     "title": "3.66.1",
+     "segments": 10
+    },
+    {
+     "file": "0321.json",
+     "ref": "3.66.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0322.json",
+     "ref": "3.66.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0323.json",
+     "ref": "3.66.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0324.json",
+     "ref": "3.67.1",
+     "title": "3.67.1",
+     "segments": 9
+    },
+    {
+     "file": "0325.json",
+     "ref": "3.67.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0326.json",
+     "ref": "3.67.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0327.json",
+     "ref": "3.67.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0328.json",
+     "ref": "3.68.1",
+     "title": "3.68.1",
+     "segments": 9
+    },
+    {
+     "file": "0329.json",
+     "ref": "3.68.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0330.json",
+     "ref": "3.68.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0331.json",
+     "ref": "3.68.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0332.json",
+     "ref": "3.69.1",
+     "title": "3.69.1",
+     "segments": 9
+    },
+    {
+     "file": "0333.json",
+     "ref": "3.69.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0334.json",
+     "ref": "3.69.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0335.json",
+     "ref": "3.69.4",
+     "title": "The Goſpell.Math. xxii.",
+     "segments": 1
+    },
+    {
+     "file": "0336.json",
+     "ref": "3.70.1",
+     "title": "3.70.1",
+     "segments": 7
+    },
+    {
+     "file": "0337.json",
+     "ref": "3.70.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0338.json",
+     "ref": "3.70.3",
+     "title": "The Epiſtle",
+     "segments": 1
+    },
+    {
+     "file": "0339.json",
+     "ref": "3.70.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0340.json",
+     "ref": "3.71.1",
+     "title": "3.71.1",
+     "segments": 8
+    },
+    {
+     "file": "0341.json",
+     "ref": "3.71.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0342.json",
+     "ref": "3.71.3",
+     "title": "The Epiſtle",
+     "segments": 1
+    },
+    {
+     "file": "0343.json",
+     "ref": "3.71.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0344.json",
+     "ref": "4.1.1",
+     "title": "4.1.1",
+     "segments": 10
+    },
+    {
+     "file": "0345.json",
+     "ref": "4.1.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0346.json",
+     "ref": "4.1.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0347.json",
+     "ref": "4.1.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0348.json",
+     "ref": "4.2.1",
+     "title": "4.2.1",
+     "segments": 9
+    },
+    {
+     "file": "0349.json",
+     "ref": "4.2.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0350.json",
+     "ref": "4.2.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0351.json",
+     "ref": "4.2.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0352.json",
+     "ref": "4.3.1.1",
+     "title": "4.3.1.1",
+     "segments": 1
+    },
+    {
+     "file": "0353.json",
+     "ref": "4.3.1.2",
+     "title": "4.3.1.2",
+     "segments": 10
+    },
+    {
+     "file": "0354.json",
+     "ref": "4.3.1.3",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0355.json",
+     "ref": "4.3.1.4",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0356.json",
+     "ref": "4.3.1.5",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0357.json",
+     "ref": "4.3.2.1",
+     "title": "4.3.2.1",
+     "segments": 1
+    },
+    {
+     "file": "0358.json",
+     "ref": "4.4.1",
+     "title": "4.4.1",
+     "segments": 5
+    },
+    {
+     "file": "0359.json",
+     "ref": "4.4.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0360.json",
+     "ref": "4.4.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0361.json",
+     "ref": "4.4.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0362.json",
+     "ref": "4.5.1",
+     "title": "4.5.1",
+     "segments": 15
+    },
+    {
+     "file": "0363.json",
+     "ref": "4.5.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0364.json",
+     "ref": "4.5.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0365.json",
+     "ref": "4.5.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0366.json",
+     "ref": "4.6.1",
+     "title": "4.6.1",
+     "segments": 6
+    },
+    {
+     "file": "0367.json",
+     "ref": "4.6.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0368.json",
+     "ref": "4.6.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0369.json",
+     "ref": "4.6.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0370.json",
+     "ref": "4.7.1",
+     "title": "4.7.1",
+     "segments": 13
+    },
+    {
+     "file": "0371.json",
+     "ref": "4.7.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0372.json",
+     "ref": "4.7.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0373.json",
+     "ref": "4.7.4",
+     "title": "The Goſpel.",
+     "segments": 1
+    },
+    {
+     "file": "0374.json",
+     "ref": "4.8.1.1",
+     "title": "4.8.1.1",
+     "segments": 1
+    },
+    {
+     "file": "0375.json",
+     "ref": "4.8.2.1",
+     "title": "4.8.2.1",
+     "segments": 6
+    },
+    {
+     "file": "0376.json",
+     "ref": "4.8.2.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0377.json",
+     "ref": "4.8.2.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0378.json",
+     "ref": "4.8.2.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0379.json",
+     "ref": "4.9.1.1",
+     "title": "4.9.1.1",
+     "segments": 1
+    },
+    {
+     "file": "0380.json",
+     "ref": "4.9.2.1",
+     "title": "4.9.2.1",
+     "segments": 11
+    },
+    {
+     "file": "0381.json",
+     "ref": "4.9.2.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0382.json",
+     "ref": "4.9.2.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0383.json",
+     "ref": "4.9.2.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0384.json",
+     "ref": "4.9.3.1",
+     "title": "4.9.3.1",
+     "segments": 1
+    },
+    {
+     "file": "0385.json",
+     "ref": "4.10.1.1",
+     "title": "4.10.1.1",
+     "segments": 1
+    },
+    {
+     "file": "0386.json",
+     "ref": "4.10.1.2",
+     "title": "4.10.1.2",
+     "segments": 1
+    },
+    {
+     "file": "0387.json",
+     "ref": "4.10.2.1",
+     "title": "4.10.2.1",
+     "segments": 14
+    },
+    {
+     "file": "0388.json",
+     "ref": "4.10.2.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0389.json",
+     "ref": "4.10.2.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0390.json",
+     "ref": "4.10.2.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0391.json",
+     "ref": "4.10.3.1",
+     "title": "4.10.3.1",
+     "segments": 1
+    },
+    {
+     "file": "0392.json",
+     "ref": "4.10.3.2",
+     "title": "4.10.3.2",
+     "segments": 1
+    },
+    {
+     "file": "0393.json",
+     "ref": "4.11.1.1",
+     "title": "4.11.1.1",
+     "segments": 1
+    },
+    {
+     "file": "0394.json",
+     "ref": "4.11.2.1",
+     "title": "4.11.2.1",
+     "segments": 17
+    },
+    {
+     "file": "0395.json",
+     "ref": "4.11.2.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0396.json",
+     "ref": "4.11.2.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0397.json",
+     "ref": "4.11.2.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0398.json",
+     "ref": "4.11.3.1",
+     "title": "4.11.3.1",
+     "segments": 1
+    },
+    {
+     "file": "0399.json",
+     "ref": "4.12.1",
+     "title": "4.12.1",
+     "segments": 12
+    },
+    {
+     "file": "0400.json",
+     "ref": "4.12.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0401.json",
+     "ref": "4.12.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0402.json",
+     "ref": "4.12.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0403.json",
+     "ref": "4.13.1",
+     "title": "4.13.1",
+     "segments": 14
+    },
+    {
+     "file": "0404.json",
+     "ref": "4.13.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0405.json",
+     "ref": "4.13.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0406.json",
+     "ref": "4.13.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0407.json",
+     "ref": "4.14.1",
+     "title": "4.14.1",
+     "segments": 20
+    },
+    {
+     "file": "0408.json",
+     "ref": "4.14.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0409.json",
+     "ref": "4.14.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0410.json",
+     "ref": "4.14.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0411.json",
+     "ref": "4.15.1",
+     "title": "4.15.1",
+     "segments": 4
+    },
+    {
+     "file": "0412.json",
+     "ref": "4.15.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0413.json",
+     "ref": "4.15.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0414.json",
+     "ref": "4.15.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0415.json",
+     "ref": "4.16.1",
+     "title": "4.16.1",
+     "segments": 10
+    },
+    {
+     "file": "0416.json",
+     "ref": "4.16.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0417.json",
+     "ref": "4.16.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0418.json",
+     "ref": "4.16.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0419.json",
+     "ref": "4.17.1",
+     "title": "4.17.1",
+     "segments": 11
+    },
+    {
+     "file": "0420.json",
+     "ref": "4.17.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0421.json",
+     "ref": "4.17.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0422.json",
+     "ref": "4.17.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0423.json",
+     "ref": "4.18.1",
+     "title": "4.18.1",
+     "segments": 8
+    },
+    {
+     "file": "0424.json",
+     "ref": "4.18.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0425.json",
+     "ref": "4.18.3",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0426.json",
+     "ref": "4.18.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0427.json",
+     "ref": "4.19.1.1",
+     "title": "4.19.1.1",
+     "segments": 1
+    },
+    {
+     "file": "0428.json",
+     "ref": "4.19.1.2",
+     "title": "4.19.1.2",
+     "segments": 1
+    },
+    {
+     "file": "0429.json",
+     "ref": "4.19.2.1",
+     "title": "4.19.2.1",
+     "segments": 11
+    },
+    {
+     "file": "0430.json",
+     "ref": "4.19.2.2",
+     "title": "The Collect.",
+     "segments": 1
+    },
+    {
+     "file": "0431.json",
+     "ref": "4.19.2.3",
+     "title": "The Epiſtle.",
+     "segments": 14
+    },
+    {
+     "file": "0432.json",
+     "ref": "4.19.2.4",
+     "title": "The Goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0433.json",
+     "ref": "4.19.3.1",
+     "title": "4.19.3.1",
+     "segments": 1
+    },
+    {
+     "file": "0434.json",
+     "ref": "4.19.3.2",
+     "title": "4.19.3.2",
+     "segments": 1
+    },
+    {
+     "file": "0435.json",
+     "ref": "5",
+     "title": "❧THE SVPPER❧ of the Lorde, and the holy Communion, commonly called the Maſſe.",
+     "segments": 131
+    },
+    {
+     "file": "0436.json",
+     "ref": "6",
+     "title": "❧The Letany and Suffrages.",
+     "segments": 104
+    },
+    {
+     "file": "0437.json",
+     "ref": "7.1",
+     "title": "❧ OF THE ADMI❧ niſtracion of publyke Baptiſme to be vſed in the Churche.",
+     "segments": 1
+    },
+    {
+     "file": "0438.json",
+     "ref": "7.2",
+     "title": "❧PVBLIKE BAPTISME❧",
+     "segments": 37
+    },
+    {
+     "file": "0439.json",
+     "ref": "7.3",
+     "title": "Of them that be Baptiſed in priuate houſes in tyme of neceſſitie.",
+     "segments": 35
+    },
+    {
+     "file": "0440.json",
+     "ref": "8.1",
+     "title": "8.1",
+     "segments": 5
+    },
+    {
+     "file": "0441.json",
+     "ref": "8.2",
+     "title": "❧A CATHECHISME❧ that is to ſay, an inſtruccion to bee learned of euery childe, before he be brought to be confirmed of the Buſhop.",
+     "segments": 39
+    },
+    {
+     "file": "0442.json",
+     "ref": "8.3",
+     "title": "¶Confirmacion.",
+     "segments": 17
+    },
+    {
+     "file": "0443.json",
+     "ref": "9",
+     "title": "❧ THE FORME OF ❧ Solemnizacion of Matrimonie.",
+     "segments": 63
+    },
+    {
+     "file": "0444.json",
+     "ref": "10",
+     "title": "❧ THE ORDER FOR❧ the viſitacion of the ſicke, and the Communion of the ſame.",
+     "segments": 74
+    },
+    {
+     "file": "0445.json",
+     "ref": "11.1",
+     "title": "11.1",
+     "segments": 3
+    },
+    {
+     "file": "0446.json",
+     "ref": "11.2",
+     "title": "THE CELEBRAcion of the holy Communion for the ſicke.",
+     "segments": 21
+    },
+    {
+     "file": "0447.json",
+     "ref": "12",
+     "title": "❧THE ORDRE FOR❧ the Buriall of the dead.",
+     "segments": 78
+    },
+    {
+     "file": "0448.json",
+     "ref": "13.0",
+     "title": "❧ THE CELEBRACION ❧ of the holy Communion when there is a Burial of the dead.",
+     "segments": 13
+    },
+    {
+     "file": "0449.json",
+     "ref": "13.1",
+     "title": "Collette.",
+     "segments": 1
+    },
+    {
+     "file": "0450.json",
+     "ref": "13.2",
+     "title": "The Epiſtle.",
+     "segments": 1
+    },
+    {
+     "file": "0451.json",
+     "ref": "13.3",
+     "title": "¶The goſpell.",
+     "segments": 1
+    },
+    {
+     "file": "0452.json",
+     "ref": "14",
+     "title": "❧ THE ORDRE OF THE ❧ Purification of weomen.",
+     "segments": 25
+    },
+    {
+     "file": "0453.json",
+     "ref": "15",
+     "title": "The firſt daie of Lente commonly called Aſhewedniſdaye.",
+     "segments": 59
+    },
+    {
+     "file": "0454.json",
+     "ref": "16",
+     "title": "❧ OF CEREMONIES ❧ Why ſome be aboliſhed and ſome retayned.",
+     "segments": 3
+    },
+    {
+     "file": "0455.json",
+     "ref": "17",
+     "title": "❧ CERTAYNE NOTES ❧ for the more playne explicacion and decent miniſtracion of thinges, conteined in thys booke.",
+     "segments": 6
+    }
+   ]
+  }
+ ]
+}

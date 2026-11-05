@@ -1,0 +1,152 @@
+{
+ "workId": "knox-first-blast",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "knox-first-blast-arber-gutenberg",
+   "role": "english",
+   "language": "english",
+   "credit": "The First Blast of the Trumpet against the Monstrous Regiment of Women, ed. Edward Arber (English Reprints no. 2, 1878), in Project Gutenberg eBook #9660, ed. Edward Arber (London: Edward Arber (English Reprints), 1878). Transcription: Steve Schulze, Debra Storr and PG Distributed Proofreaders (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://www.gutenberg.org/cache/epub/9660/pg9660.txt",
+   "retrievedAt": "2026-11-05",
+   "sourceBytes": 187035,
+   "sourceSha256": "c93b3e0e711fb5e639a16db589558d57691dd191bfd40c764b50be8604d1c06d",
+   "leftOut": {
+    "transcriberNote": 2,
+    "noteMark": 373,
+    "note": 5
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "https://www.gutenberg.org/cache/epub/9660/pg9660.txt",
+     "bytes": 187035,
+     "sha256": "c93b3e0e711fb5e639a16db589558d57691dd191bfd40c764b50be8604d1c06d"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "s1",
+     "title": "s1",
+     "segments": 4
+    },
+    {
+     "file": "0002.json",
+     "ref": "s2",
+     "title": "CONTENTS.",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "s3",
+     "title": "THE PREFACE.",
+     "segments": 3
+    },
+    {
+     "file": "0004.json",
+     "ref": "s4",
+     "title": "ANSWERS TO THE OBJECTIONS",
+     "segments": 6
+    },
+    {
+     "file": "0005.json",
+     "ref": "s5",
+     "title": "THE DECLAMATION.",
+     "segments": 8
+    },
+    {
+     "file": "0006.json",
+     "ref": "s6",
+     "title": "ANSWERS TO OBJECTIONS.",
+     "segments": 5
+    },
+    {
+     "file": "0007.json",
+     "ref": "s7",
+     "title": "THE ADMONITION.",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "s8",
+     "title": "APPENDIX.",
+     "segments": 5
+    },
+    {
+     "file": "0009.json",
+     "ref": "s9",
+     "title": "BIBLIOGRAPHY.",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "s10",
+     "title": "ISSUES IN THE AUTHOR’S LIFETIME.",
+     "segments": 4
+    },
+    {
+     "file": "0011.json",
+     "ref": "s11",
+     "title": "ISSUES SINCE HIS DEATH.",
+     "segments": 20
+    },
+    {
+     "file": "0012.json",
+     "ref": "s12",
+     "title": "INTRODUCTION.",
+     "segments": 14
+    },
+    {
+     "file": "0013.json",
+     "ref": "s13",
+     "title": "III.",
+     "segments": 16
+    },
+    {
+     "file": "0014.json",
+     "ref": "s14",
+     "title": "EXTRACTS FROM MR. DAVID LAING’S PREFACE.",
+     "segments": 19
+    },
+    {
+     "file": "0015.json",
+     "ref": "s15",
+     "title": "THE FIRST BLAST OF THE TRUMPET AGAINST THE MONSTRVOVS REGIMENT OF WOMEN.",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "s17",
+     "title": "THE KINGDOME APPERTEINETH TO OVR GOD.",
+     "segments": 31
+    },
+    {
+     "file": "0017.json",
+     "ref": "s18",
+     "title": "THE FIRST BLAST TO AWAKE WOMEN DEGENERATE.",
+     "segments": 187
+    },
+    {
+     "file": "0018.json",
+     "ref": "s19",
+     "title": "IOHN KNOXE TO THE READER.",
+     "segments": 5
+    },
+    {
+     "file": "0019.json",
+     "ref": "s20",
+     "title": "MATTH. VI.",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "s21",
+     "title": "APPENDIX.",
+     "segments": 36
+    }
+   ]
+  }
+ ]
+}
