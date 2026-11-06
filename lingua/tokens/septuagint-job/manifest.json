@@ -1,0 +1,331 @@
+{
+ "workId": "septuagint-job",
+ "editions": [
+  {
+   "editionId": "brenton-greek-job",
+   "language": "grc",
+   "variety": "grc-koi",
+   "textSource": "store",
+   "analysis": {
+    "id": "brenton-lxxmorph-transfer@1+golearn-el@1",
+    "kind": "analyser",
+    "status": "automatic"
+   },
+   "credit": "Text: Brenton's Greek Septuagint (1851), as the library holds it. Word analysis carried over, where the wording agrees, from the Septuagint analysis of the lxx-morph project (Seth Kushniryk, OpenScriptorium; Perseus Morpheus with reviewed disambiguation), which was made on Rahlfs' text of 1935; no wording of Rahlfs' text is reproduced. Other words are analysed by form from the same analysis, from MorphGNT (James K. Tauber) or by the GoLearn Greek analyser (Wiktionary tables via kaikki.org). Glosses: Dodson, STEPBible TFLSJ (Tyndale House, Cambridge), Abbott-Smith, Strong's. Automatic; never checked against Brenton's text by a person",
+   "licence": "lxx-morph analysis: CC BY 4.0 · MorphGNT: CC BY-SA 3.0 · Wiktionary tables: CC BY-SA 4.0 · TFLSJ: CC BY 4.0 · Abbott-Smith (TEI): CC BY-SA 4.0 · Dodson, Brenton's text: public domain",
+   "source": "vetus-v0/public/data/gr and public/data/lex (built from OpenScriptorium/lxx-morph); biblia-v0/data/gnt; go-v0-ecclesia src/adapters/greek",
+   "routes": {
+    "context": 12968,
+    "form": 457,
+    "analyser": 24,
+    "name": 21,
+    "none": 67,
+    "contextPct": 95.8
+   },
+   "coverage": {
+    "tokens": 13537,
+    "withLemma": 13470,
+    "withMorphology": 9379,
+    "verified": 0,
+    "ambiguous": 1858,
+    "unanalysed": 67
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "JOB.1",
+     "title": "Job 1",
+     "segments": 22,
+     "tokens": 579
+    },
+    {
+     "file": "0002.json",
+     "ref": "JOB.2",
+     "title": "Job 2",
+     "segments": 18,
+     "tokens": 389
+    },
+    {
+     "file": "0003.json",
+     "ref": "JOB.3",
+     "title": "Job 3",
+     "segments": 26,
+     "tokens": 306
+    },
+    {
+     "file": "0004.json",
+     "ref": "JOB.4",
+     "title": "Job 4",
+     "segments": 21,
+     "tokens": 271
+    },
+    {
+     "file": "0005.json",
+     "ref": "JOB.5",
+     "title": "Job 5",
+     "segments": 27,
+     "tokens": 331
+    },
+    {
+     "file": "0006.json",
+     "ref": "JOB.6",
+     "title": "Job 6",
+     "segments": 30,
+     "tokens": 370
+    },
+    {
+     "file": "0007.json",
+     "ref": "JOB.7",
+     "title": "Job 7",
+     "segments": 21,
+     "tokens": 317
+    },
+    {
+     "file": "0008.json",
+     "ref": "JOB.8",
+     "title": "Job 8",
+     "segments": 22,
+     "tokens": 248
+    },
+    {
+     "file": "0009.json",
+     "ref": "JOB.9",
+     "title": "Job 9",
+     "segments": 35,
+     "tokens": 385
+    },
+    {
+     "file": "0010.json",
+     "ref": "JOB.10",
+     "title": "Job 10",
+     "segments": 22,
+     "tokens": 283
+    },
+    {
+     "file": "0011.json",
+     "ref": "JOB.11",
+     "title": "Job 11",
+     "segments": 20,
+     "tokens": 258
+    },
+    {
+     "file": "0012.json",
+     "ref": "JOB.12",
+     "title": "Job 12",
+     "segments": 25,
+     "tokens": 248
+    },
+    {
+     "file": "0013.json",
+     "ref": "JOB.13",
+     "title": "Job 13",
+     "segments": 28,
+     "tokens": 315
+    },
+    {
+     "file": "0014.json",
+     "ref": "JOB.14",
+     "title": "Job 14",
+     "segments": 22,
+     "tokens": 297
+    },
+    {
+     "file": "0015.json",
+     "ref": "JOB.15",
+     "title": "Job 15",
+     "segments": 35,
+     "tokens": 409
+    },
+    {
+     "file": "0016.json",
+     "ref": "JOB.16",
+     "title": "Job 16",
+     "segments": 22,
+     "tokens": 271
+    },
+    {
+     "file": "0017.json",
+     "ref": "JOB.17",
+     "title": "Job 17",
+     "segments": 16,
+     "tokens": 175
+    },
+    {
+     "file": "0018.json",
+     "ref": "JOB.18",
+     "title": "Job 18",
+     "segments": 21,
+     "tokens": 227
+    },
+    {
+     "file": "0019.json",
+     "ref": "JOB.19",
+     "title": "Job 19",
+     "segments": 30,
+     "tokens": 364
+    },
+    {
+     "file": "0020.json",
+     "ref": "JOB.20",
+     "title": "Job 20",
+     "segments": 29,
+     "tokens": 346
+    },
+    {
+     "file": "0021.json",
+     "ref": "JOB.21",
+     "title": "Job 21",
+     "segments": 34,
+     "tokens": 385
+    },
+    {
+     "file": "0022.json",
+     "ref": "JOB.22",
+     "title": "Job 22",
+     "segments": 30,
+     "tokens": 319
+    },
+    {
+     "file": "0023.json",
+     "ref": "JOB.23",
+     "title": "Job 23",
+     "segments": 17,
+     "tokens": 204
+    },
+    {
+     "file": "0024.json",
+     "ref": "JOB.24",
+     "title": "Job 24",
+     "segments": 25,
+     "tokens": 304
+    },
+    {
+     "file": "0025.json",
+     "ref": "JOB.25",
+     "title": "Job 25",
+     "segments": 6,
+     "tokens": 69
+    },
+    {
+     "file": "0026.json",
+     "ref": "JOB.26",
+     "title": "Job 26",
+     "segments": 14,
+     "tokens": 149
+    },
+    {
+     "file": "0027.json",
+     "ref": "JOB.27",
+     "title": "Job 27",
+     "segments": 23,
+     "tokens": 289
+    },
+    {
+     "file": "0028.json",
+     "ref": "JOB.28",
+     "title": "Job 28",
+     "segments": 28,
+     "tokens": 304
+    },
+    {
+     "file": "0029.json",
+     "ref": "JOB.29",
+     "title": "Job 29",
+     "segments": 25,
+     "tokens": 278
+    },
+    {
+     "file": "0030.json",
+     "ref": "JOB.30",
+     "title": "Job 30",
+     "segments": 31,
+     "tokens": 365
+    },
+    {
+     "file": "0031.json",
+     "ref": "JOB.31",
+     "title": "Job 31",
+     "segments": 40,
+     "tokens": 542
+    },
+    {
+     "file": "0032.json",
+     "ref": "JOB.32",
+     "title": "Job 32",
+     "segments": 22,
+     "tokens": 278
+    },
+    {
+     "file": "0033.json",
+     "ref": "JOB.33",
+     "title": "Job 33",
+     "segments": 33,
+     "tokens": 432
+    },
+    {
+     "file": "0034.json",
+     "ref": "JOB.34",
+     "title": "Job 34",
+     "segments": 37,
+     "tokens": 421
+    },
+    {
+     "file": "0035.json",
+     "ref": "JOB.35",
+     "title": "Job 35",
+     "segments": 15,
+     "tokens": 176
+    },
+    {
+     "file": "0036.json",
+     "ref": "JOB.36",
+     "title": "Job 36",
+     "segments": 35,
+     "tokens": 388
+    },
+    {
+     "file": "0037.json",
+     "ref": "JOB.37",
+     "title": "Job 37",
+     "segments": 24,
+     "tokens": 292
+    },
+    {
+     "file": "0038.json",
+     "ref": "JOB.38",
+     "title": "Job 38",
+     "segments": 41,
+     "tokens": 463
+    },
+    {
+     "file": "0039.json",
+     "ref": "JOB.39",
+     "title": "Job 39",
+     "segments": 30,
+     "tokens": 325
+    },
+    {
+     "file": "0040.json",
+     "ref": "JOB.40",
+     "title": "Job 40",
+     "segments": 32,
+     "tokens": 356
+    },
+    {
+     "file": "0041.json",
+     "ref": "JOB.41",
+     "title": "Job 41",
+     "segments": 26,
+     "tokens": 277
+    },
+    {
+     "file": "0042.json",
+     "ref": "JOB.42",
+     "title": "Job 42",
+     "segments": 22,
+     "tokens": 532
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "workId": "septuagint-1ma",
+ "editions": [
+  {
+   "editionId": "brenton-greek-1ma",
+   "language": "grc",
+   "variety": "grc-koi",
+   "textSource": "store",
+   "analysis": {
+    "id": "brenton-lxxmorph-transfer@1+golearn-el@1",
+    "kind": "analyser",
+    "status": "automatic"
+   },
+   "credit": "Text: Brenton's Greek Septuagint (1851), as the library holds it. Word analysis carried over, where the wording agrees, from the Septuagint analysis of the lxx-morph project (Seth Kushniryk, OpenScriptorium; Perseus Morpheus with reviewed disambiguation), which was made on Rahlfs' text of 1935; no wording of Rahlfs' text is reproduced. Other words are analysed by form from the same analysis, from MorphGNT (James K. Tauber) or by the GoLearn Greek analyser (Wiktionary tables via kaikki.org). Glosses: Dodson, STEPBible TFLSJ (Tyndale House, Cambridge), Abbott-Smith, Strong's. Automatic; never checked against Brenton's text by a person",
+   "licence": "lxx-morph analysis: CC BY 4.0 · MorphGNT: CC BY-SA 3.0 · Wiktionary tables: CC BY-SA 4.0 · TFLSJ: CC BY 4.0 · Abbott-Smith (TEI): CC BY-SA 4.0 · Dodson, Brenton's text: public domain",
+   "source": "vetus-v0/public/data/gr and public/data/lex (built from OpenScriptorium/lxx-morph); biblia-v0/data/gnt; go-v0-ecclesia src/adapters/greek",
+   "routes": {
+    "context": 17341,
+    "form": 852,
+    "analyser": 43,
+    "name": 41,
+    "none": 101,
+    "contextPct": 94.36
+   },
+   "coverage": {
+    "tokens": 18378,
+    "withLemma": 18277,
+    "withMorphology": 12544,
+    "verified": 0,
+    "ambiguous": 2825,
+    "unanalysed": 101
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1MA.1",
+     "title": "1 Maccabees 1",
+     "segments": 64,
+     "tokens": 1072
+    },
+    {
+     "file": "0002.json",
+     "ref": "1MA.2",
+     "title": "1 Maccabees 2",
+     "segments": 70,
+     "tokens": 1145
+    },
+    {
+     "file": "0003.json",
+     "ref": "1MA.3",
+     "title": "1 Maccabees 3",
+     "segments": 60,
+     "tokens": 1171
+    },
+    {
+     "file": "0004.json",
+     "ref": "1MA.4",
+     "title": "1 Maccabees 4",
+     "segments": 61,
+     "tokens": 1097
+    },
+    {
+     "file": "0005.json",
+     "ref": "1MA.5",
+     "title": "1 Maccabees 5",
+     "segments": 68,
+     "tokens": 1459
+    },
+    {
+     "file": "0006.json",
+     "ref": "1MA.6",
+     "title": "1 Maccabees 6",
+     "segments": 63,
+     "tokens": 1317
+    },
+    {
+     "file": "0007.json",
+     "ref": "1MA.7",
+     "title": "1 Maccabees 7",
+     "segments": 50,
+     "tokens": 985
+    },
+    {
+     "file": "0008.json",
+     "ref": "1MA.8",
+     "title": "1 Maccabees 8",
+     "segments": 32,
+     "tokens": 712
+    },
+    {
+     "file": "0009.json",
+     "ref": "1MA.9",
+     "title": "1 Maccabees 9",
+     "segments": 73,
+     "tokens": 1469
+    },
+    {
+     "file": "0010.json",
+     "ref": "1MA.10",
+     "title": "1 Maccabees 10",
+     "segments": 89,
+     "tokens": 1799
+    },
+    {
+     "file": "0011.json",
+     "ref": "1MA.11",
+     "title": "1 Maccabees 11",
+     "segments": 74,
+     "tokens": 1526
+    },
+    {
+     "file": "0012.json",
+     "ref": "1MA.12",
+     "title": "1 Maccabees 12",
+     "segments": 53,
+     "tokens": 1019
+    },
+    {
+     "file": "0013.json",
+     "ref": "1MA.13",
+     "title": "1 Maccabees 13",
+     "segments": 53,
+     "tokens": 1075
+    },
+    {
+     "file": "0014.json",
+     "ref": "1MA.14",
+     "title": "1 Maccabees 14",
+     "segments": 49,
+     "tokens": 1110
+    },
+    {
+     "file": "0015.json",
+     "ref": "1MA.15",
+     "title": "1 Maccabees 15",
+     "segments": 41,
+     "tokens": 863
+    },
+    {
+     "file": "0016.json",
+     "ref": "1MA.16",
+     "title": "1 Maccabees 16",
+     "segments": 24,
+     "tokens": 559
+    }
+   ]
+  }
+ ]
+}

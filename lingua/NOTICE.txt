@@ -49,6 +49,22 @@ Form index: MorphGNT (as above). CC BY-SA 3.0.
 Glosses: Dodson Greek Lexicon. Public domain.
 Changes made: the tables were turned into a form index and applied to the texts by the GoLearn Greek analyser.
 
+THE SEPTUAGINT
+--------------
+The analysis is automatic and has not been checked against this text by a person; it may be wrong.
+Text: Brenton's Greek Septuagint (London, 1851). Public domain.
+Headwords and parsing: carried over, where the wording agrees, from the Septuagint analysis of the lxx-morph project
+  (Seth Kushniryk, OpenScriptorium; Perseus Morpheus with reviewed disambiguation). CC BY 4.0.
+  https://github.com/OpenScriptorium/lxx-morph  That analysis was made on Rahlfs' edition of 1935; no wording of
+  Rahlfs' edition is reproduced here.
+Other words: by written form from the same analysis and from MorphGNT (as above, CC BY-SA 3.0), or by the GoLearn
+  Greek analyser (Wiktionary tables, as above, CC BY-SA 4.0).
+Glosses: Dodson Greek Lexicon (public domain); Translators' Formatted LSJ, STEPBible, Tyndale House Cambridge
+  (CC BY 4.0), https://github.com/STEPBible/STEPBible-Data ; Abbott-Smith, A Manual Greek Lexicon of the New
+  Testament (1922, public domain; TEI transcription CC BY-SA 4.0); Strong's (as above).
+Changes made: the analysis was aligned to a different edition of the text, chapter by chapter; parsing codes were
+  expanded into named features; glosses were shortened.
+
 LATIN
 -----
 The analysis is automatic and has not been checked by a Latinist; it may be wrong.

@@ -1,0 +1,107 @@
+{
+ "workId": "septuagint-esg",
+ "editions": [
+  {
+   "editionId": "brenton-greek-esg",
+   "language": "grc",
+   "variety": "grc-koi",
+   "textSource": "store",
+   "analysis": {
+    "id": "brenton-lxxmorph-transfer@1+golearn-el@1",
+    "kind": "analyser",
+    "status": "automatic"
+   },
+   "credit": "Text: Brenton's Greek Septuagint (1851), as the library holds it. Word analysis carried over, where the wording agrees, from the Septuagint analysis of the lxx-morph project (Seth Kushniryk, OpenScriptorium; Perseus Morpheus with reviewed disambiguation), which was made on Rahlfs' text of 1935; no wording of Rahlfs' text is reproduced. Other words are analysed by form from the same analysis, from MorphGNT (James K. Tauber) or by the GoLearn Greek analyser (Wiktionary tables via kaikki.org). Glosses: Dodson, STEPBible TFLSJ (Tyndale House, Cambridge), Abbott-Smith, Strong's. Automatic; never checked against Brenton's text by a person",
+   "licence": "lxx-morph analysis: CC BY 4.0 · MorphGNT: CC BY-SA 3.0 · Wiktionary tables: CC BY-SA 4.0 · TFLSJ: CC BY 4.0 · Abbott-Smith (TEI): CC BY-SA 4.0 · Dodson, Brenton's text: public domain",
+   "source": "vetus-v0/public/data/gr and public/data/lex (built from OpenScriptorium/lxx-morph); biblia-v0/data/gnt; go-v0-ecclesia src/adapters/greek",
+   "routes": {
+    "context": 5681,
+    "form": 82,
+    "analyser": 3,
+    "name": 9,
+    "none": 32,
+    "contextPct": 97.83
+   },
+   "coverage": {
+    "tokens": 5807,
+    "withLemma": 5775,
+    "withMorphology": 4177,
+    "verified": 0,
+    "ambiguous": 787,
+    "unanalysed": 32
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "ESG.1",
+     "title": "Esther (Greek) 1",
+     "segments": 39,
+     "tokens": 820
+    },
+    {
+     "file": "0002.json",
+     "ref": "ESG.2",
+     "title": "Esther (Greek) 2",
+     "segments": 23,
+     "tokens": 556
+    },
+    {
+     "file": "0003.json",
+     "ref": "ESG.3",
+     "title": "Esther (Greek) 3",
+     "segments": 22,
+     "tokens": 584
+    },
+    {
+     "file": "0004.json",
+     "ref": "ESG.4",
+     "title": "Esther (Greek) 4",
+     "segments": 40,
+     "tokens": 998
+    },
+    {
+     "file": "0005.json",
+     "ref": "ESG.5",
+     "title": "Esther (Greek) 5",
+     "segments": 22,
+     "tokens": 511
+    },
+    {
+     "file": "0006.json",
+     "ref": "ESG.6",
+     "title": "Esther (Greek) 6",
+     "segments": 14,
+     "tokens": 362
+    },
+    {
+     "file": "0007.json",
+     "ref": "ESG.7",
+     "title": "Esther (Greek) 7",
+     "segments": 10,
+     "tokens": 236
+    },
+    {
+     "file": "0008.json",
+     "ref": "ESG.8",
+     "title": "Esther (Greek) 8",
+     "segments": 38,
+     "tokens": 869
+    },
+    {
+     "file": "0009.json",
+     "ref": "ESG.9",
+     "title": "Esther (Greek) 9",
+     "segments": 30,
+     "tokens": 573
+    },
+    {
+     "file": "0010.json",
+     "ref": "ESG.10",
+     "title": "Esther (Greek) 10",
+     "segments": 14,
+     "tokens": 298
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "workId": "septuagint-sus",
+ "editions": [
+  {
+   "editionId": "brenton-greek-sus",
+   "language": "grc",
+   "variety": "grc-koi",
+   "textSource": "store",
+   "analysis": {
+    "id": "brenton-lxxmorph-transfer@1+golearn-el@1",
+    "kind": "analyser",
+    "status": "automatic"
+   },
+   "credit": "Text: Brenton's Greek Septuagint (1851), as the library holds it. Word analysis carried over, where the wording agrees, from the Septuagint analysis of the lxx-morph project (Seth Kushniryk, OpenScriptorium; Perseus Morpheus with reviewed disambiguation), which was made on Rahlfs' text of 1935; no wording of Rahlfs' text is reproduced. Other words are analysed by form from the same analysis, from MorphGNT (James K. Tauber) or by the GoLearn Greek analyser (Wiktionary tables via kaikki.org). Glosses: Dodson, STEPBible TFLSJ (Tyndale House, Cambridge), Abbott-Smith, Strong's. Automatic; never checked against Brenton's text by a person",
+   "licence": "lxx-morph analysis: CC BY 4.0 · MorphGNT: CC BY-SA 3.0 · Wiktionary tables: CC BY-SA 4.0 · TFLSJ: CC BY 4.0 · Abbott-Smith (TEI): CC BY-SA 4.0 · Dodson, Brenton's text: public domain",
+   "source": "vetus-v0/public/data/gr and public/data/lex (built from OpenScriptorium/lxx-morph); biblia-v0/data/gnt; go-v0-ecclesia src/adapters/greek",
+   "routes": {
+    "context": 1083,
+    "form": 20,
+    "analyser": 10,
+    "name": 10,
+    "none": 3,
+    "contextPct": 96.18
+   },
+   "coverage": {
+    "tokens": 1126,
+    "withLemma": 1123,
+    "withMorphology": 787,
+    "verified": 0,
+    "ambiguous": 160,
+    "unanalysed": 3
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "SUS.1",
+     "title": "Susanna 1",
+     "segments": 64,
+     "tokens": 1126
+    }
+   ]
+  }
+ ]
+}
