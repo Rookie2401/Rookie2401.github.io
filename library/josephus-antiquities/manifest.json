@@ -171,12 +171,171 @@
      "kind": "headings",
      "count": 256,
      "source": "https://www.gutenberg.org/ebooks/2848"
+    },
+    {
+     "kind": "join",
+     "at": "4.277",
+     "into": "4.276",
+     "words": 12,
+     "source": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0526/tlg001/tlg0526.tlg001.perseus-grc2.xml"
     }
    ],
    "refCorrections": [
     {
      "from": "17.13",
      "to": "17.339"
+    },
+    {
+     "from": "4.279",
+     "to": "4.277"
+    },
+    {
+     "from": "4.280",
+     "to": "4.279"
+    },
+    {
+     "from": "4.281",
+     "to": "4.280"
+    },
+    {
+     "from": "4.283",
+     "to": "4.281"
+    },
+    {
+     "from": "4.285",
+     "to": "4.283"
+    },
+    {
+     "from": "4.289",
+     "to": "4.285"
+    },
+    {
+     "from": "4.290",
+     "to": "4.289"
+    },
+    {
+     "from": "4.292",
+     "to": "4.290"
+    },
+    {
+     "from": "4.294",
+     "to": "4.292"
+    },
+    {
+     "from": "8.251",
+     "to": "8.256"
+    },
+    {
+     "from": "8.246",
+     "to": "8.251"
+    },
+    {
+     "from": "8.236",
+     "to": "8.246"
+    },
+    {
+     "from": "8.230",
+     "to": "8.236"
+    },
+    {
+     "from": "8.225",
+     "to": "8.230"
+    },
+    {
+     "from": "8.219",
+     "to": "8.225"
+    },
+    {
+     "from": "8.215",
+     "to": "8.219"
+    },
+    {
+     "from": "8.212",
+     "to": "8.215"
+    },
+    {
+     "from": "8.209",
+     "to": "8.212"
+    },
+    {
+     "from": "8.205",
+     "to": "8.209"
+    },
+    {
+     "from": "8.199",
+     "to": "8.205"
+    },
+    {
+     "from": "8.190",
+     "to": "8.199"
+    },
+    {
+     "from": "8.187",
+     "to": "8.190"
+    },
+    {
+     "from": "8.182",
+     "to": "8.187"
+    },
+    {
+     "from": "8.179",
+     "to": "8.182"
+    },
+    {
+     "from": "8.176",
+     "to": "8.179"
+    },
+    {
+     "from": "8.174",
+     "to": "8.176"
+    },
+    {
+     "from": "8.165",
+     "to": "8.174"
+    },
+    {
+     "from": "8.163",
+     "to": "8.165"
+    },
+    {
+     "from": "8.160",
+     "to": "8.163"
+    },
+    {
+     "from": "8.155",
+     "to": "8.160"
+    },
+    {
+     "from": "8.150",
+     "to": "8.155"
+    },
+    {
+     "from": "8.144",
+     "to": "8.150"
+    },
+    {
+     "from": "14.236",
+     "to": "14.238"
+    },
+    {
+     "from": "14.235",
+     "to": "14.236"
+    },
+    {
+     "from": "14.234",
+     "to": "14.235"
+    },
+    {
+     "from": "14.233",
+     "to": "14.234"
+    },
+    {
+     "from": "14.231",
+     "to": "14.233"
+    },
+    {
+     "from": "14.230",
+     "to": "14.231"
     }
    ],
    "segmentRefs": "citation",
@@ -203,7 +362,7 @@
      "file": "0004.json",
      "ref": "4",
      "title": "Book IV CONTAINING THE INTERVAL OF THIRTY-EIGHT YEARS. FROM THE REJECTION OF THAT GENERATION TO THE DEATH OF MOSES.",
-     "segments": 88
+     "segments": 87
     },
     {
      "file": "0005.json",
@@ -305,7 +464,7 @@
   }
  ],
  "alignment": {
-  "runs": 1444,
+  "runs": 1443,
   "onlyInEnglish": 0
  }
 }

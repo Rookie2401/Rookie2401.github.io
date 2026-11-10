@@ -9,7 +9,7 @@
    "credit": "Historia Ecclesiastica, in Eusebii Caesariensis Opera, vol. 4, ed. Wilhelm Dindorf (Leipzig: Teubner, 1871). Perseus Digital Library (Tufts) / Open Greek and Latin First1KGreek, CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2018/tlg002/tlg2018.tlg002.1st1K-grc2.xml",
-   "retrievedAt": "2026-11-05",
+   "retrievedAt": "2026-11-10",
    "sourceBytes": 1519618,
    "sourceSha256": "3f7f534493037f790af5838a33e6483095c82675007027e9a1feadc3a34aede1",
    "leftOut": {
@@ -1569,13 +1569,21 @@
    "credit": "The Church History of Eusebius, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, Second Series, vol. I (Eusebius Pamphilus: Church History, Life of Constantine, Oration in Praise of Constantine), trans. Arthur Cushman McGiffert (Buffalo / New York: Christian Literature Publishing Co., 1890). Wikisource contributors, \"Nicene and Post-Nicene Fathers: Series II, Volume I\" (Arthur Cushman McGiffert), en.wikisource.org, CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_I/Church_History_of_Eusebius",
-   "retrievedAt": "2026-11-05",
+   "retrievedAt": "2026-11-10",
    "sourceBytes": 3085323,
    "sourceSha256": "cc27da32fb3b21d1603726236fdf8596807e5d39afd8415a0f1b7f4279cf61b1",
    "leftOut": {
     "note": 2985,
     "unclosedTemplate": 1
    },
+   "restorations": [
+    {
+     "kind": "replace",
+     "at": "9.4.1.1",
+     "words": 1,
+     "source": "https://archive.org/details/selectlibraryof01scha"
+    }
+   ],
    "segmentRefs": "paragraph",
    "sourcePages": [
     {
@@ -3093,25 +3101,25 @@
     {
      "file": "0001.json",
      "ref": "p1",
-     "title": "p1",
+     "title": "Title Page",
      "segments": 5
     },
     {
      "file": "0002.json",
      "ref": "p2",
-     "title": "p2",
+     "title": "Preface",
      "segments": 8
     },
     {
      "file": "0003.json",
      "ref": "p3",
-     "title": "p3",
+     "title": "Testimonies of the Ancients in Favor of Eusebius",
      "segments": 113
     },
     {
      "file": "0004.json",
      "ref": "p4",
-     "title": "p4",
+     "title": "Testimonies of the Ancients Against Eusebius",
      "segments": 55
     },
     {
@@ -4173,7 +4181,7 @@
     {
      "file": "0181.json",
      "ref": "2.p1",
-     "title": "2.p1",
+     "title": "Introduction",
      "segments": 4
     },
     {
@@ -4335,7 +4343,7 @@
     {
      "file": "0208.json",
      "ref": "2.4",
-     "title": "2.4",
+     "title": "Chapter 4",
      "segments": 3
     },
     {
@@ -4443,13 +4451,13 @@
     {
      "file": "0226.json",
      "ref": "2.7",
-     "title": "2.7",
+     "title": "Chapter 7",
      "segments": 2
     },
     {
      "file": "0227.json",
      "ref": "2.8",
-     "title": "2.8",
+     "title": "Chapter 8",
      "segments": 3
     },
     {
@@ -4695,13 +4703,13 @@
     {
      "file": "0268.json",
      "ref": "2.15",
-     "title": "2.15",
+     "title": "Chapter 15",
      "segments": 3
     },
     {
      "file": "0269.json",
      "ref": "2.16",
-     "title": "2.16",
+     "title": "Chapter 16",
      "segments": 3
     },
     {
@@ -4917,7 +4925,7 @@
     {
      "file": "0305.json",
      "ref": "2.19",
-     "title": "2.19",
+     "title": "Chapter 19",
      "segments": 3
     },
     {
@@ -5199,7 +5207,7 @@
     {
      "file": "0352.json",
      "ref": "2.24",
-     "title": "2.24",
+     "title": "Chapter 24",
      "segments": 2
     },
     {
@@ -5259,19 +5267,19 @@
     {
      "file": "0362.json",
      "ref": "2.26",
-     "title": "2.26",
+     "title": "Chapter 26",
      "segments": 3
     },
     {
      "file": "0363.json",
      "ref": "3.1",
-     "title": "3.1",
+     "title": "Chapter 1",
      "segments": 4
     },
     {
      "file": "0364.json",
      "ref": "3.2",
-     "title": "3.2",
+     "title": "Chapter 2",
      "segments": 2
     },
     {
@@ -5895,43 +5903,43 @@
     {
      "file": "0468.json",
      "ref": "3.11",
-     "title": "3.11",
+     "title": "Chapter 11",
      "segments": 3
     },
     {
      "file": "0469.json",
      "ref": "3.12",
-     "title": "3.12",
+     "title": "Chapter 12",
      "segments": 2
     },
     {
      "file": "0470.json",
      "ref": "3.13",
-     "title": "3.13",
+     "title": "Chapter 13",
      "segments": 2
     },
     {
      "file": "0471.json",
      "ref": "3.14",
-     "title": "3.14",
+     "title": "Chapter 14",
      "segments": 2
     },
     {
      "file": "0472.json",
      "ref": "3.15",
-     "title": "3.15",
+     "title": "Chapter 15",
      "segments": 2
     },
     {
      "file": "0473.json",
      "ref": "3.16",
-     "title": "3.16",
+     "title": "Chapter 16",
      "segments": 2
     },
     {
      "file": "0474.json",
      "ref": "3.17",
-     "title": "3.17",
+     "title": "Chapter 17",
      "segments": 2
     },
     {
@@ -5973,7 +5981,7 @@
     {
      "file": "0481.json",
      "ref": "3.19",
-     "title": "3.19",
+     "title": "Chapter 19",
      "segments": 2
     },
     {
@@ -6069,7 +6077,7 @@
     {
      "file": "0497.json",
      "ref": "3.22",
-     "title": "3.22",
+     "title": "Chapter 22",
      "segments": 2
     },
     {
@@ -6501,7 +6509,7 @@
     {
      "file": "0569.json",
      "ref": "3.30",
-     "title": "3.30",
+     "title": "Chapter 30",
      "segments": 3
     },
     {
@@ -6633,13 +6641,13 @@
     {
      "file": "0591.json",
      "ref": "3.34",
-     "title": "3.34",
+     "title": "Chapter 34",
      "segments": 2
     },
     {
      "file": "0592.json",
      "ref": "3.35",
-     "title": "3.35",
+     "title": "Chapter 35",
      "segments": 2
     },
     {
@@ -6909,7 +6917,7 @@
     {
      "file": "0637.json",
      "ref": "4.1",
-     "title": "4.1",
+     "title": "Chapter 1",
      "segments": 4
     },
     {
@@ -6975,7 +6983,7 @@
     {
      "file": "0648.json",
      "ref": "4.4",
-     "title": "4.4",
+     "title": "Chapter 4",
      "segments": 2
     },
     {
@@ -7221,7 +7229,7 @@
     {
      "file": "0689.json",
      "ref": "4.10",
-     "title": "4.10",
+     "title": "Chapter 10",
      "segments": 2
     },
     {
@@ -7299,7 +7307,7 @@
     {
      "file": "0702.json",
      "ref": "4.12",
-     "title": "4.12",
+     "title": "Chapter 12",
      "segments": 2
     },
     {
@@ -7935,19 +7943,19 @@
     {
      "file": "0808.json",
      "ref": "4.19",
-     "title": "4.19",
+     "title": "Chapter 19",
      "segments": 2
     },
     {
      "file": "0809.json",
      "ref": "4.20",
-     "title": "4.20",
+     "title": "Chapter 20",
      "segments": 2
     },
     {
      "file": "0810.json",
      "ref": "4.21",
-     "title": "4.21",
+     "title": "Chapter 21",
      "segments": 2
     },
     {
@@ -8109,7 +8117,7 @@
     {
      "file": "0837.json",
      "ref": "4.25",
-     "title": "4.25",
+     "title": "Chapter 25",
      "segments": 2
     },
     {
@@ -8205,13 +8213,13 @@
     {
      "file": "0853.json",
      "ref": "4.27",
-     "title": "4.27",
+     "title": "Chapter 27",
      "segments": 2
     },
     {
      "file": "0854.json",
      "ref": "4.28",
-     "title": "4.28",
+     "title": "Chapter 28",
      "segments": 2
     },
     {
@@ -9039,7 +9047,7 @@
     {
      "file": "0992.json",
      "ref": "5.9",
-     "title": "5.9",
+     "title": "Chapter 9",
      "segments": 2
     },
     {
@@ -9111,7 +9119,7 @@
     {
      "file": "1004.json",
      "ref": "5.12",
-     "title": "5.12",
+     "title": "Chapter 12",
      "segments": 3
     },
     {
@@ -9177,13 +9185,13 @@
     {
      "file": "1015.json",
      "ref": "5.14",
-     "title": "5.14",
+     "title": "Chapter 14",
      "segments": 2
     },
     {
      "file": "1016.json",
      "ref": "5.15",
-     "title": "5.15",
+     "title": "Chapter 15",
      "segments": 2
     },
     {
@@ -9561,7 +9569,7 @@
     {
      "file": "1079.json",
      "ref": "5.22",
-     "title": "5.22",
+     "title": "Chapter 22",
      "segments": 2
     },
     {
@@ -9705,19 +9713,19 @@
     {
      "file": "1103.json",
      "ref": "5.25",
-     "title": "5.25",
+     "title": "Chapter 25",
      "segments": 3
     },
     {
      "file": "1104.json",
      "ref": "5.26",
-     "title": "5.26",
+     "title": "Chapter 26",
      "segments": 3
     },
     {
      "file": "1105.json",
      "ref": "5.27",
-     "title": "5.27",
+     "title": "Chapter 27",
      "segments": 2
     },
     {
@@ -9843,7 +9851,7 @@
     {
      "file": "1126.json",
      "ref": "6.1",
-     "title": "6.1",
+     "title": "Chapter 1",
      "segments": 3
     },
     {
@@ -10095,13 +10103,13 @@
     {
      "file": "1168.json",
      "ref": "6.6",
-     "title": "6.6",
+     "title": "Chapter 6",
      "segments": 2
     },
     {
      "file": "1169.json",
      "ref": "6.7",
-     "title": "6.7",
+     "title": "Chapter 7",
      "segments": 2
     },
     {
@@ -10209,7 +10217,7 @@
     {
      "file": "1187.json",
      "ref": "6.10",
-     "title": "6.10",
+     "title": "Chapter 10",
      "segments": 2
     },
     {
@@ -10431,7 +10439,7 @@
     {
      "file": "1224.json",
      "ref": "6.15",
-     "title": "6.15",
+     "title": "Chapter 15",
      "segments": 2
     },
     {
@@ -10467,7 +10475,7 @@
     {
      "file": "1230.json",
      "ref": "6.17",
-     "title": "6.17",
+     "title": "Chapter 17",
      "segments": 2
     },
     {
@@ -10677,7 +10685,7 @@
     {
      "file": "1265.json",
      "ref": "6.22",
-     "title": "6.22",
+     "title": "Chapter 22",
      "segments": 3
     },
     {
@@ -10827,19 +10835,19 @@
     {
      "file": "1290.json",
      "ref": "6.26",
-     "title": "6.26",
+     "title": "Chapter 26",
      "segments": 2
     },
     {
      "file": "1291.json",
      "ref": "6.27",
-     "title": "6.27",
+     "title": "Chapter 27",
      "segments": 2
     },
     {
      "file": "1292.json",
      "ref": "6.28",
-     "title": "6.28",
+     "title": "Chapter 28",
      "segments": 2
     },
     {
@@ -10881,7 +10889,7 @@
     {
      "file": "1299.json",
      "ref": "6.30",
-     "title": "6.30",
+     "title": "Chapter 30",
      "segments": 2
     },
     {
@@ -10965,13 +10973,13 @@
     {
      "file": "1313.json",
      "ref": "6.34",
-     "title": "6.34",
+     "title": "Chapter 34",
      "segments": 2
     },
     {
      "file": "1314.json",
      "ref": "6.35",
-     "title": "6.35",
+     "title": "Chapter 35",
      "segments": 2
     },
     {
@@ -11007,13 +11015,13 @@
     {
      "file": "1320.json",
      "ref": "6.37",
-     "title": "6.37",
+     "title": "Chapter 37",
      "segments": 2
     },
     {
      "file": "1321.json",
      "ref": "6.38",
-     "title": "6.38",
+     "title": "Chapter 38",
      "segments": 3
     },
     {
@@ -11475,7 +11483,7 @@
     {
      "file": "1398.json",
      "ref": "6.45",
-     "title": "6.45",
+     "title": "Chapter 45",
      "segments": 3
     },
     {
@@ -11517,31 +11525,31 @@
     {
      "file": "1405.json",
      "ref": "7.p1",
-     "title": "7.p1",
+     "title": "Introduction",
      "segments": 3
     },
     {
      "file": "1406.json",
      "ref": "7.1",
-     "title": "7.1",
+     "title": "Chapter 1",
      "segments": 3
     },
     {
      "file": "1407.json",
      "ref": "7.2",
-     "title": "7.2",
+     "title": "Chapter 2",
      "segments": 2
     },
     {
      "file": "1408.json",
      "ref": "7.3",
-     "title": "7.3",
+     "title": "Chapter 3",
      "segments": 2
     },
     {
      "file": "1409.json",
      "ref": "7.4",
-     "title": "7.4",
+     "title": "Chapter 4",
      "segments": 2
     },
     {
@@ -11589,7 +11597,7 @@
     {
      "file": "1417.json",
      "ref": "7.6",
-     "title": "7.6",
+     "title": "Chapter 6",
      "segments": 3
     },
     {
@@ -11637,7 +11645,7 @@
     {
      "file": "1425.json",
      "ref": "7.8",
-     "title": "7.8",
+     "title": "Chapter 8",
      "segments": 2
     },
     {
@@ -11907,7 +11915,7 @@
     {
      "file": "1470.json",
      "ref": "7.12",
-     "title": "7.12",
+     "title": "Chapter 12",
      "segments": 2
     },
     {
@@ -11937,7 +11945,7 @@
     {
      "file": "1475.json",
      "ref": "7.14",
-     "title": "7.14",
+     "title": "Chapter 14",
      "segments": 2
     },
     {
@@ -11979,13 +11987,13 @@
     {
      "file": "1482.json",
      "ref": "7.16",
-     "title": "7.16",
+     "title": "Chapter 16",
      "segments": 2
     },
     {
      "file": "1483.json",
      "ref": "7.17",
-     "title": "7.17",
+     "title": "Chapter 17",
      "segments": 2
     },
     {
@@ -12021,13 +12029,13 @@
     {
      "file": "1489.json",
      "ref": "7.19",
-     "title": "7.19",
+     "title": "Chapter 19",
      "segments": 2
     },
     {
      "file": "1490.json",
      "ref": "7.20",
-     "title": "7.20",
+     "title": "Chapter 20",
      "segments": 2
     },
     {
@@ -12459,7 +12467,7 @@
     {
      "file": "1562.json",
      "ref": "7.27",
-     "title": "7.27",
+     "title": "Chapter 27",
      "segments": 3
     },
     {
@@ -12495,7 +12503,7 @@
     {
      "file": "1568.json",
      "ref": "7.29",
-     "title": "7.29",
+     "title": "Chapter 29",
      "segments": 3
     },
     {
@@ -12645,7 +12653,7 @@
     {
      "file": "1593.json",
      "ref": "7.31",
-     "title": "7.31",
+     "title": "Chapter 31",
      "segments": 3
     },
     {
@@ -12849,7 +12857,7 @@
     {
      "file": "1627.json",
      "ref": "8.p1",
-     "title": "8.p1",
+     "title": "Introduction",
      "segments": 3
     },
     {
@@ -13017,7 +13025,7 @@
     {
      "file": "1655.json",
      "ref": "8.5",
-     "title": "8.5",
+     "title": "Chapter 5",
      "segments": 3
     },
     {
@@ -13131,7 +13139,7 @@
     {
      "file": "1674.json",
      "ref": "8.8",
-     "title": "8.8",
+     "title": "Chapter 8",
      "segments": 3
     },
     {
@@ -13269,7 +13277,7 @@
     {
      "file": "1697.json",
      "ref": "8.11",
-     "title": "8.11",
+     "title": "Chapter 11",
      "segments": 3
     },
     {
@@ -13557,7 +13565,7 @@
     {
      "file": "1745.json",
      "ref": "8.15",
-     "title": "8.15",
+     "title": "Chapter 15",
      "segments": 3
     },
     {
@@ -13599,13 +13607,13 @@
     {
      "file": "1752.json",
      "ref": "8.17",
-     "title": "8.17",
+     "title": "Chapter 17",
      "segments": 19
     },
     {
      "file": "1753.json",
      "ref": "p5.p1",
-     "title": "p5.p1",
+     "title": "Introduction",
      "segments": 4
     },
     {
@@ -14115,7 +14123,7 @@
     {
      "file": "1838.json",
      "ref": "p5.10",
-     "title": "p5.10",
+     "title": "Chapter X",
      "segments": 3
     },
     {
@@ -14313,7 +14321,7 @@
     {
      "file": "1871.json",
      "ref": "p5.12",
-     "title": "p5.12",
+     "title": "Chapter XII",
      "segments": 2
     },
     {
@@ -14481,13 +14489,13 @@
     {
      "file": "1899.json",
      "ref": "9.2",
-     "title": "9.2",
+     "title": "Chapter 2",
      "segments": 3
     },
     {
      "file": "1900.json",
      "ref": "9.3",
-     "title": "9.3",
+     "title": "Chapter 3",
      "segments": 2
     },
     {
@@ -14517,7 +14525,7 @@
     {
      "file": "1905.json",
      "ref": "9.5",
-     "title": "9.5",
+     "title": "Chapter 5",
      "segments": 3
     },
     {
@@ -15117,7 +15125,7 @@
     {
      "file": "2005.json",
      "ref": "10.2",
-     "title": "10.2",
+     "title": "Chapter 2",
      "segments": 3
     },
     {
@@ -15771,7 +15779,7 @@
     {
      "file": "2114.json",
      "ref": "10.7",
-     "title": "10.7",
+     "title": "Chapter 7",
      "segments": 4
     },
     {
@@ -15957,175 +15965,175 @@
     {
      "file": "2145.json",
      "ref": "p6.p1",
-     "title": "p6.p1",
+     "title": "Note 1",
      "segments": 2
     },
     {
      "file": "2146.json",
      "ref": "p6.p2",
-     "title": "p6.p2",
+     "title": "Note 2",
      "segments": 2
     },
     {
      "file": "2147.json",
      "ref": "p6.p3",
-     "title": "p6.p3",
+     "title": "Note 3",
      "segments": 2
     },
     {
      "file": "2148.json",
      "ref": "p6.p4",
-     "title": "p6.p4",
+     "title": "Note 4",
      "segments": 3
     },
     {
      "file": "2149.json",
      "ref": "p6.p5",
-     "title": "p6.p5",
+     "title": "Note 5",
      "segments": 2
     },
     {
      "file": "2150.json",
      "ref": "p6.p6",
-     "title": "p6.p6",
+     "title": "Note 6",
      "segments": 2
     },
     {
      "file": "2151.json",
      "ref": "p6.p7",
-     "title": "p6.p7",
+     "title": "Note 7",
      "segments": 2
     },
     {
      "file": "2152.json",
      "ref": "p6.p8",
-     "title": "p6.p8",
+     "title": "Note 8",
      "segments": 2
     },
     {
      "file": "2153.json",
      "ref": "p6.p9",
-     "title": "p6.p9",
+     "title": "Note 9",
      "segments": 2
     },
     {
      "file": "2154.json",
      "ref": "p6.p10",
-     "title": "p6.p10",
+     "title": "Note 10",
      "segments": 2
     },
     {
      "file": "2155.json",
      "ref": "p6.p11",
-     "title": "p6.p11",
+     "title": "Note 11",
      "segments": 2
     },
     {
      "file": "2156.json",
      "ref": "p6.p12",
-     "title": "p6.p12",
+     "title": "Note 12",
      "segments": 2
     },
     {
      "file": "2157.json",
      "ref": "p6.p13",
-     "title": "p6.p13",
+     "title": "Note 13",
      "segments": 4
     },
     {
      "file": "2158.json",
      "ref": "p6.p14",
-     "title": "p6.p14",
+     "title": "Note 14",
      "segments": 2
     },
     {
      "file": "2159.json",
      "ref": "p6.p15",
-     "title": "p6.p15",
+     "title": "Note 15",
      "segments": 11
     },
     {
      "file": "2160.json",
      "ref": "p6.p16",
-     "title": "p6.p16",
+     "title": "Note 16",
      "segments": 2
     },
     {
      "file": "2161.json",
      "ref": "p6.p17",
-     "title": "p6.p17",
+     "title": "Note 17",
      "segments": 2
     },
     {
      "file": "2162.json",
      "ref": "p6.p18",
-     "title": "p6.p18",
+     "title": "Note 18",
      "segments": 3
     },
     {
      "file": "2163.json",
      "ref": "p6.p19",
-     "title": "p6.p19",
+     "title": "Note 19",
      "segments": 2
     },
     {
      "file": "2164.json",
      "ref": "p6.p20",
-     "title": "p6.p20",
+     "title": "Note 20",
      "segments": 2
     },
     {
      "file": "2165.json",
      "ref": "p6.p21",
-     "title": "p6.p21",
+     "title": "Note 21",
      "segments": 4
     },
     {
      "file": "2166.json",
      "ref": "p6.p22",
-     "title": "p6.p22",
+     "title": "Note 22",
      "segments": 2
     },
     {
      "file": "2167.json",
      "ref": "p6.p23",
-     "title": "p6.p23",
+     "title": "Roman Emperors",
      "segments": 54
     },
     {
      "file": "2168.json",
      "ref": "p6.p24",
-     "title": "p6.p24",
+     "title": "The Bishops of Rome, Alexandria, Antioch, and Jerusalem, mentioned by Eusebius",
      "segments": 34
     },
     {
      "file": "2169.json",
      "ref": "p6.p25",
-     "title": "p6.p25",
+     "title": "Bishops of Alexandria",
      "segments": 17
     },
     {
      "file": "2170.json",
      "ref": "p6.p26",
-     "title": "p6.p26",
+     "title": "Bishops of Antioch",
      "segments": 21
     },
     {
      "file": "2171.json",
      "ref": "p6.p27",
-     "title": "p6.p27",
+     "title": "Bishops of Jerusalem",
      "segments": 40
     },
     {
      "file": "2172.json",
      "ref": "p6.p28",
-     "title": "p6.p28",
+     "title": "The Roman Method of counting the Days of the Month",
      "segments": 42
     },
     {
      "file": "2173.json",
      "ref": "p6.p29",
-     "title": "p6.p29",
+     "title": "Macedonian Months",
      "segments": 30
     }
    ]

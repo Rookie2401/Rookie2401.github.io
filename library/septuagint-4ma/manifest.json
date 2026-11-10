@@ -19,31 +19,22 @@
     "s": 1
    },
    "segmentRefs": "citation",
-   "restorations": [
+   "refCorrections": [
     {
-     "kind": "insert",
-     "ref": "4MA.10.4",
-     "after": "4MA.10.3",
-     "words": 19,
-     "source": "https://archive.org/details/septuagintversio1900bren"
+     "from": "4MA.11.NaNb",
+     "to": "4MA.11.8"
     },
     {
-     "kind": "insert",
-     "ref": "4MA.11.7",
-     "after": "4MA.11.6",
-     "words": 10,
-     "source": "https://archive.org/details/septuagintversio1900bren"
+     "from": "4MA.11.NaN",
+     "to": "4MA.11.7"
     },
     {
-     "kind": "insert",
-     "ref": "4MA.11.8",
-     "after": "4MA.11.7",
-     "words": 11,
-     "source": "https://archive.org/details/septuagintversio1900bren"
+     "from": "4MA.10.NaN",
+     "to": "4MA.10.4"
     }
    ],
    "signals": {
-    "words": 7911,
+    "words": 7871,
     "barePerThousand": 24,
     "digitWords": 0
    },
@@ -106,13 +97,13 @@
      "file": "0010.json",
      "ref": "4MA.10",
      "title": "4 Maccabees 10",
-     "segments": 22
+     "segments": 21
     },
     {
      "file": "0011.json",
      "ref": "4MA.11",
      "title": "4 Maccabees 11",
-     "segments": 29
+     "segments": 27
     },
     {
      "file": "0012.json",
@@ -176,27 +167,18 @@
     "x": 150
    },
    "segmentRefs": "citation",
-   "restorations": [
+   "refCorrections": [
     {
-     "kind": "insert",
-     "ref": "4MA.10.4",
-     "after": "4MA.10.3",
-     "words": 27,
-     "source": "https://archive.org/details/septuagintversio1900bren"
+     "from": "4MA.11.NaNb",
+     "to": "4MA.11.8"
     },
     {
-     "kind": "insert",
-     "ref": "4MA.11.7",
-     "after": "4MA.11.6",
-     "words": 18,
-     "source": "https://archive.org/details/septuagintversio1900bren"
+     "from": "4MA.11.NaN",
+     "to": "4MA.11.7"
     },
     {
-     "kind": "insert",
-     "ref": "4MA.11.8",
-     "after": "4MA.11.7",
-     "words": 16,
-     "source": "https://archive.org/details/septuagintversio1900bren"
+     "from": "4MA.10.NaN",
+     "to": "4MA.10.4"
     }
    ],
    "divisions": [
@@ -258,13 +240,13 @@
      "file": "0010.json",
      "ref": "4MA.10",
      "title": "4 Maccabees 10",
-     "segments": 22
+     "segments": 21
     },
     {
      "file": "0011.json",
      "ref": "4MA.11",
      "title": "4 Maccabees 11",
-     "segments": 29
+     "segments": 27
     },
     {
      "file": "0012.json",
