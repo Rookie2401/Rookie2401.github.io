@@ -1,0 +1,2246 @@
+{
+ "workId": "augustine-against-petilian",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "augustine-against-petilian-csel-lat-ogl",
+   "role": "original",
+   "language": "latin",
+   "credit": "Contra litteras Petiliani, in Sancti Aureli Augustini Opera (Corpus scriptorum ecclesiasticorum Latinorum 52), ed. Michael Petschenig (Prague, Vienna and Leipzig: F. Tempsky; G. Freytag, 1909). Open Greek and Latin, csel-dev, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa027/stoa0040.stoa027.opp-lat1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 698135,
+   "sourceSha256": "9d51a69196afe563c74a3d7c46c57f494dd6e0c923dd1e5902715f2ff754b25e",
+   "leftOut": {
+    "lb": 6515,
+    "milestone": 195,
+    "note": 491,
+    "pb": 224
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 56993,
+    "garbledPerThousand": 0.2,
+    "joinedPerThousand": 0.2,
+    "numbersPerThousand": 0.2
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 31
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 248
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "LIBER TERTIUS.",
+     "segments": 72
+    },
+    {
+     "file": "0004.json",
+     "ref": "retractationes",
+     "title": "AUGUSTINI RETRACTATIONVM LIB. II CAP. LI (XIV) (PAG. 161, 1 ED. KNOELL).",
+     "segments": 2
+    }
+   ]
+  },
+  {
+   "editionId": "augustine-against-petilian-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Answer to the Letters of Petilian, the Donatist, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. IV: Saint Augustin (ed. Philip Schaff; New York, Christian Literature Co.), trans. as printed in NPNF I vol. IV (the Wikisource copy credits Philip Schaff et al.) (New York: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_IV/Donatist_Controversy/Answer_to_the_Letters_of_Petilian,_the_Donatist",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 795321,
+   "sourceSha256": "fa4395dacb43de38be3a61255730fa369bffdb17eed78e6f5767de4d074d4133",
+   "leftOut": {
+    "note": 543
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 1",
+     "bytes": 4841,
+     "sha256": "4e0dd1fcee36062f8391557f5b2a80d9ce2c8e652292182d98a082d627f3a59d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 2",
+     "bytes": 2576,
+     "sha256": "767a36aa06015455cb003cb188fc735b8a51e2f8a6c70015b82793ba4ebdc804"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 3",
+     "bytes": 2622,
+     "sha256": "585958ed23ccd4bbf3e34e230fb0755090f24fd6569372e96bcac577e87c124b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 4",
+     "bytes": 2770,
+     "sha256": "55a11b5a4392f22e520964990fdc4a2033046f4adbf7749ace86747619873ce3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 5",
+     "bytes": 3359,
+     "sha256": "be29a21fb2da90a57246294be1e51853297e1caf41f7af68cdc3acc29d2a9b22"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 6",
+     "bytes": 2127,
+     "sha256": "9aeadc0b804d10134524eea404b8d9c5a22e6d111e93148deb3f0064ecba9693"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 7",
+     "bytes": 3179,
+     "sha256": "4af1bf0dc2d4c39f2522b9b7fa5a67569170dee461201c74e91a9266f053f690"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 8",
+     "bytes": 2420,
+     "sha256": "d2f29acfb3c9e8a237a2e1033bd44c4067dfb9cc276ac5398161c1bf4613908b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 9",
+     "bytes": 4059,
+     "sha256": "1fef2914a3bbf5db56c2f86f34fda49fc241f6987301269065b3f1f8dba15f9e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 10",
+     "bytes": 3571,
+     "sha256": "1ed5aa19fa5a5ef31fa9f9c9121ae2f3fb3d6362c467a5740304b1c24ce1b09b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 11",
+     "bytes": 2614,
+     "sha256": "805e4e90d2f2016e35f0f916bab62c1723e78080503f235f525fb58ae6725605"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 12",
+     "bytes": 2786,
+     "sha256": "6715015ed2a4e5c9912c0f8c37a0058becb6fb05e2b68199af08df108ac5b691"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 13",
+     "bytes": 3308,
+     "sha256": "76091ed52dcd0f649fd951ba349b085e0fcdcb2ceab59b5265cbf26237cdc59f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 14",
+     "bytes": 1552,
+     "sha256": "8daf37b92f208c4e48c51ac97597a9daefa9fadc288f9636db92f506b06c22c0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 15",
+     "bytes": 1935,
+     "sha256": "1458704d02578e5964edc6f9d14940ce490d91c1b03675471941b1abaf27b828"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 16",
+     "bytes": 2391,
+     "sha256": "cab222fa822ca2c4a967afc7dead1a5d49ff117dd39266ab5d457aaaaeba0d72"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 17",
+     "bytes": 3006,
+     "sha256": "8c59f9f6f082e8a82a6bf16ebe8a178e7744a7e313de9719c0ee0011538e723f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 18",
+     "bytes": 4560,
+     "sha256": "2c9fb2d92972d1b3efd3f7179809fc34390f8ce0def2d771821b0f57519bd758"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 19",
+     "bytes": 3800,
+     "sha256": "1cef63de7e7a66e3145836e25d44b584d638a58911f4a126b8759602f56d5c59"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 20",
+     "bytes": 2478,
+     "sha256": "6fd13c8cfc422293aa47f76abf2b2abba6f9475d5359f7d12776bc16e0ae884d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 21",
+     "bytes": 2645,
+     "sha256": "bcf7b69057844aa7a81b23380864c0367c74d82bb1f198d2de96671dc33439bc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 22",
+     "bytes": 2608,
+     "sha256": "4b379f8e51e0223da8798a0389957eb7d42b205f79fe6c493277bc0b70c59b98"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 23",
+     "bytes": 3278,
+     "sha256": "574d78be4e129d3d76fc23d79038206672c9520fdb0029f098f9d21d4726b697"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 24",
+     "bytes": 3353,
+     "sha256": "9ebaeaf09f059ca10cc960bf0793185b141a1a01eecf347de15f49ab062eac6c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 25",
+     "bytes": 2854,
+     "sha256": "91b972cb4a49c6fd5302187f9a5d621afe5fef1394af28647bad6326b5675588"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 26",
+     "bytes": 2135,
+     "sha256": "95776abf44a4c6d0a4bbc7afecd936129b38de6f45a2f5a3f14d6f6b2078babd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 27",
+     "bytes": 2601,
+     "sha256": "697342c1ddaeac14beb21f21cf580ab08cc5d8be63af79d8bc831ea32cae7de2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 28",
+     "bytes": 2053,
+     "sha256": "4fd6150477abc427c690e1823ec841d87a1fe3188e7a271af9ada5dff0855d33"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book I/Chapter 29",
+     "bytes": 2151,
+     "sha256": "5b803ab5b98a565b6f12e03bf89cc8f1a2e14c448be8824ba18e70fd2103504f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 1",
+     "bytes": 3470,
+     "sha256": "a554290242200a51c329bbf92ee835421e5e89c2b3496563e94463c107e63b39"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 2",
+     "bytes": 1887,
+     "sha256": "b3fab8eaf8183191d192d3b967218c38058192ddf4907d382b90c4ffc65916e8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 3",
+     "bytes": 1518,
+     "sha256": "267006a8aeee22d809b8999b6273998b59b4e9abb4806def1d03a5540e825ca4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 4",
+     "bytes": 1491,
+     "sha256": "add2fb537581016b9f47fe627573d9ef27a0d4b3757359a6c57f4eb2d207ee43"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 5",
+     "bytes": 3081,
+     "sha256": "9b40c41c863ef4f78079b54a9f576ddf72e0e799bb19ea78aded7f5e68d1302a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 6",
+     "bytes": 3606,
+     "sha256": "388d66c5c8ba0c8f0daf5bd00334da99d6921576e5d4772aaa6eade6af1b7e03"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 7",
+     "bytes": 6056,
+     "sha256": "e184372fafc344bc9a29c7ed7231f81cb4aa6c8f0d85c4083d642c011815f655"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 8",
+     "bytes": 12147,
+     "sha256": "42fda6aa85e358912ea054eb1df7eb8ebbf5c9e52b59d9740e7058c687a13fd6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 9",
+     "bytes": 1482,
+     "sha256": "9ea6015b7fa6c8adc17f43f37535c8a5890f60c868ba5676b2e6ed86762b54d9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 10",
+     "bytes": 2940,
+     "sha256": "62255ee6fb979954c173df3d93e9045ff86706cb2d7ac9585a4b4e3049775b49"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 11",
+     "bytes": 3807,
+     "sha256": "d703296477b9babcbf1eb070ad804f9b8be81d33c29eeafe59c1c4b400fc93dd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 12",
+     "bytes": 1431,
+     "sha256": "89bcdaab43b45843ccc8c6074ac4edf2623452cba9ada72e4d6068105f64f529"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 13",
+     "bytes": 2849,
+     "sha256": "4085693257b7f99913ca15a04d735fd756419fd1a91400fc194cf97cb015affc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 14",
+     "bytes": 9995,
+     "sha256": "e63550d67dda357b77725a99c760e98dcff50b33261146122878f8638d6b088c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 15",
+     "bytes": 4179,
+     "sha256": "92b221019796b098ebf3d2c6281c519fca56edb094aef74311cc5a533604d845"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 16",
+     "bytes": 2898,
+     "sha256": "af03692e7a18cbb34eab5eb26eb6a18cbb9b60bfd5c42fdc1e0b7a28560246b2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 17",
+     "bytes": 1722,
+     "sha256": "4b00f4f1441d09c5b680076841f52965ee5c497165fb5123c68d58c0cefff5d8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 18",
+     "bytes": 5968,
+     "sha256": "a3e390680f28e1f54a0b4ea88bef102b67639e9061ae5d7bb28529909ec3617a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 19",
+     "bytes": 5290,
+     "sha256": "8f1e8d0bf79a2f29af5f86c8fef77019958bacb70372faceeef79c89ce775818"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 20",
+     "bytes": 6692,
+     "sha256": "af1e41bd0109dad804140dc221822037bf7203b64c494b5f644a21e1e8cb4f2a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 21",
+     "bytes": 3869,
+     "sha256": "36dd94c7279c0064153919e103d75ec18bc6d7967ccc3fd59e0878db97948a37"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 22",
+     "bytes": 5054,
+     "sha256": "dbab9f2ad04d5073d43434ed515fad0e2d609dd10ba22ba992831707fd3261fc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 23",
+     "bytes": 15199,
+     "sha256": "05ad9ba7171f4b24a1d5889e6dbfc479cb903db1fb41e29dbb942fa4b7fc15fe"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 24",
+     "bytes": 1668,
+     "sha256": "0d00baad7e651d9f7870e7a5f2380d31a5a1eb80da3e2d503199846d704777d3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 25",
+     "bytes": 1895,
+     "sha256": "d37e03c7a508221b4031a44c19964f84b8daae93cee514720c128b673aca1640"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 26",
+     "bytes": 4434,
+     "sha256": "b5da12f1794abae835b0633115c3f6ea51fcdd8e9ce2c49939819d333e169982"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 27",
+     "bytes": 1931,
+     "sha256": "49cb2f074f1f3305e06bf318be64cb1b8ff0ac1df27ce21aa94271d723c7c4d6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 28",
+     "bytes": 2803,
+     "sha256": "3e575ca79f3c766ef6b6edec4b48e843da26ec9a8e90e1134e6bf7e82e1b1eca"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 29",
+     "bytes": 2143,
+     "sha256": "bfb728d62c145735510c57857a9ed0ea444eb8bd937728851d92caf8c5d76796"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 30",
+     "bytes": 5276,
+     "sha256": "97d1fa63d4ae47a198548bebb1f208200548cf1715c3c85f14237a598b916f67"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 31",
+     "bytes": 2477,
+     "sha256": "4e5242cc7b3e55c6119e610d6ebd16b78f90f54147ae4e9f5cbb69c256892a96"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 32",
+     "bytes": 12965,
+     "sha256": "57bef999ee7652faf62128afe65ab7e3fe211705be518d45d2e947d3485aaa13"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 33",
+     "bytes": 6581,
+     "sha256": "bb4f152c65f830e728d641395f2c9da34f066ecae052253bf263d2ad227c7e4d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 34",
+     "bytes": 1917,
+     "sha256": "1f85bfc322c2e85b2f3dbb7b3079728299454764a03a7493587d4d64836a375b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 35",
+     "bytes": 4405,
+     "sha256": "1b6a9e52a0b96a08a6720d9130ee57427f8e593eb180dd881eb50ba805008da8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 36",
+     "bytes": 3202,
+     "sha256": "faccef464f975e9cb400c9986362db2454f8ada6f0420d3cd0a952d48c06dab1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 37",
+     "bytes": 14603,
+     "sha256": "328dff3675773228371b93b69b5dde1efa802ad943aad655203138369f4d6441"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 38",
+     "bytes": 2936,
+     "sha256": "fc13ece6643d5093ed36fab6ca438d8092ae228ae8fbda222fa7ba2b9507a86f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 39",
+     "bytes": 8842,
+     "sha256": "d26e9825aea8b40026e0a6a8f9f7eeb4fbb9f7396411f096b09117e3e63d56f2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 40",
+     "bytes": 2305,
+     "sha256": "6f1eb7866ceec2fffe628dcebe310b3595f4da8b5b789c48f1bf908bc583a6d0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 41",
+     "bytes": 1756,
+     "sha256": "4cb8239fd5d2c1bc32f64660e87cfaadfbaf8469c69b1f13bfd191053c359c30"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 42",
+     "bytes": 2069,
+     "sha256": "dde37d6add259ef02b562967b9106a917b5292e6af563b606d7f27e4e989b333"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 43",
+     "bytes": 4266,
+     "sha256": "9731e4fd35c532233d38a7dbdde6109e82d51ac8f325a1dfd8f1928badfc553a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 44",
+     "bytes": 2261,
+     "sha256": "dbf79e71a10aaceac1e1b7ef0021621d5b00cf7d368ec7e6fc1cc505df02d089"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 45",
+     "bytes": 2509,
+     "sha256": "e09f9530492e2bc19055aa2271bfc39a344ca520443eaa43f1328aa5a928c713"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 46",
+     "bytes": 3712,
+     "sha256": "4a0d3e9eb24041c8e8ec597c111dc5f2b503818435b729b47c76497b743b0da7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 47",
+     "bytes": 7262,
+     "sha256": "7664fa5dd79cc43b1925b16e6c9e6ac469ed3b1e5b10ca4d6a655d1d0dc0dae8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 48",
+     "bytes": 2687,
+     "sha256": "8f3c8182d91dd6679e49786b053963cbf0448cbee7d5de2d351f74f33538e4f9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 49",
+     "bytes": 4944,
+     "sha256": "bd6de058531256fc656cc95b6ed4bac2acc2d93394f6d56e23159ddb2327a32e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 50",
+     "bytes": 1560,
+     "sha256": "6d398609596a583ab807048214cbe995b08c06e6f18800947faf163059686b73"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 51",
+     "bytes": 3663,
+     "sha256": "4f598ecb612d9ee18ef4ed9ad3bdd57f200c841595f5c096cd4874b44b0318b6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 52",
+     "bytes": 3304,
+     "sha256": "34614e572af8b8e59c615f87a864e9e6b7190208103566e9dc4416f28a1a9a0c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 53",
+     "bytes": 2981,
+     "sha256": "d50afe6141d5cc25d76df01893883eefbfe1d0d003fb5a24a9496bc4f73e7b14"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 54",
+     "bytes": 2121,
+     "sha256": "516b5c9d04c8aaa34937d13e53f9c2b47ef1c98259b0e48ef07139446bf9e530"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 55",
+     "bytes": 4115,
+     "sha256": "6d3a952687bc4293d49ef2778d83cd4cf8a789d09d772b0b83eba2bf033c0616"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 56",
+     "bytes": 1899,
+     "sha256": "5822c207d2ab58b92c66f5b1afc34fda55b30a2674501255f9748edf854f652f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 57",
+     "bytes": 1867,
+     "sha256": "fad0176e032a8de7a5ba09ed40f860df5a84bb476e6203eaeec1dc698fc6224b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 58",
+     "bytes": 5720,
+     "sha256": "523f3df1f9bcf8b57482aec104073af9ae82193c67fa5d4505ea18646c56237b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 59",
+     "bytes": 3059,
+     "sha256": "7ea14e4d23891c6b3b14429077d258980e55bda6ef1c75dc6cfad6d112705a01"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 60",
+     "bytes": 1341,
+     "sha256": "4ee1aca473f9911f9e92c438487ee8b2dc6fc7b2f799d0c89cbdbc00785a7ef9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 61",
+     "bytes": 3455,
+     "sha256": "53760983bffaad6b04aa4c56310af14237bcf855e96d59d411fe9c9ec2c54a5d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 62",
+     "bytes": 3936,
+     "sha256": "170e891764c878eae590f1288bbb72519fa7255627d6478b849336a720383f29"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 63",
+     "bytes": 1472,
+     "sha256": "c9c445e358fe7f826ccab33a2a14e1610fbe6338083e03e8a89f82bbc5139c17"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 64",
+     "bytes": 2268,
+     "sha256": "5c74b9a4b7fa063b9ccad6828598c20fb20fe4a5e14ebecc8816e917cd15d034"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 65",
+     "bytes": 2873,
+     "sha256": "60ae161ba0883d087d8d8efc68bae41d00ad5b294791ff1d5d99cd03338db765"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 66",
+     "bytes": 1597,
+     "sha256": "eb673da182582a6aaea92d3dcb3f4b2ad4cd3c4c5bc7951302e2789e2aee3047"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 67",
+     "bytes": 2681,
+     "sha256": "c93edabda5506c1244599c4dc465615c2bc8db6f2f4e5a27efe8dd701cc102af"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 68",
+     "bytes": 1722,
+     "sha256": "4b282eaf280c19047376c8aae9a4bc8f43739d31bacaea2fd7a6435c6f46c8d9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 69",
+     "bytes": 4333,
+     "sha256": "2f408c28de5c6f87dd7d46587114e3c4c7c4356e347781f450fb5adf94ef2e44"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 70",
+     "bytes": 2138,
+     "sha256": "3015664f774a5473037dfe23c841cf63561eae2d2b8874afd899dc7ec85c983d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 71",
+     "bytes": 2291,
+     "sha256": "320730c5e98caa1f1f67efb56374aaea81c8ba55ed072ac7ee4d76c9f4e9c3a3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 72",
+     "bytes": 1989,
+     "sha256": "f945320eff0de56efcca931372ba3ee5e75dceb301f73a772c5b9a6775d52262"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 73",
+     "bytes": 3955,
+     "sha256": "3a5a3de05f21df704b516697e877fa8788b60f862cbb095b93175f9b7e6ba76d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 74",
+     "bytes": 5020,
+     "sha256": "fbf080c37233591980a5cbf2af38d7cd54eca66a6f9f8b2e2b8eef6cd58fa6ec"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 75",
+     "bytes": 2029,
+     "sha256": "2cebcd286ff5a6049716be7a8e7e3977ce24668938a00dc5451dac75aaf0f782"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 76",
+     "bytes": 1799,
+     "sha256": "dcbdf8f756fe8b2d8d1b432512709c36b28785eb93e87735ee1fdebefdbf443f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 77",
+     "bytes": 2957,
+     "sha256": "cbe73295579875e5f54a0f4574cda9905b000eaf18d113f34f1327973b453eda"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 78",
+     "bytes": 3601,
+     "sha256": "488b1681b2adda5a5b62082aa2a67ff5eefe1abdcd93908a0cec7ee90aee237d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 79",
+     "bytes": 5068,
+     "sha256": "a1071e05b7a1c89614de4a05b0f69d87e64fe1e09675159171fa1ec80970c7b8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 80",
+     "bytes": 1850,
+     "sha256": "90c684ab3ae41a8b961873fd958c49642c6b1a4da4f529020930aaa5a6079bb5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 81",
+     "bytes": 4474,
+     "sha256": "7e2a011390ca878ee0d5388d0103d78f5da252a77b54e2ce09e2ee542d5dfaa6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 82",
+     "bytes": 4623,
+     "sha256": "a2e7f732323ec04ba7c069c58d4eeffd8c44ea092aea4e716430cbe9a2f2f50e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 83",
+     "bytes": 1645,
+     "sha256": "4be9147d984343ac70ddfd5e9667aff564290f7a9d06d7b5c8429e72107f26a2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 84",
+     "bytes": 8789,
+     "sha256": "26ee7fe2b97d6333e516a21b83a33228ab349b763e8660141d1c22bcf65528f8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 85",
+     "bytes": 6572,
+     "sha256": "ab814509bac883a1b592d388d7627001e0be707a4155cf2c68397772eeab7b8d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 86",
+     "bytes": 2029,
+     "sha256": "f34baa558da1b6d02977d2f998d32aca50061f2e9e4305695b9be31d644fb1d4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 87",
+     "bytes": 4059,
+     "sha256": "c80d4235825166eaabb02b43813e703b1b9b32bd66fc928bb4fb6a57bea2e08d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 88",
+     "bytes": 3580,
+     "sha256": "7c5ee00a996d7c6d17a5d6c0a247b78632aec95c5feddb862b061e1a74852e6e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 89",
+     "bytes": 5561,
+     "sha256": "634c6300cca078acc79cb2a10c352ebdeca432b6e60430ab892f147614bdc314"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 90",
+     "bytes": 2332,
+     "sha256": "06038d903ecf0206f3d0cf31916531adb4fc805aff6edeca8064bd88fcb9d250"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 91",
+     "bytes": 1810,
+     "sha256": "96d296303ef2a4cad98e5ee69f5d73633f55b07035a41b3bcadc6aea300f865f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 92",
+     "bytes": 2539,
+     "sha256": "3e43ebd8ee33d92c69fe4bc7286f9552423dd0d7eeeb0eab533ce9d62f8c7338"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 93",
+     "bytes": 43846,
+     "sha256": "5dbed61d0dfb603be1e1f08130798a9918fd2ee7d6e36ed94214b4c77d362ee2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 94",
+     "bytes": 1657,
+     "sha256": "263aada7bd6270ae749ad34713729bd42fa8ff44607ce170846f4df6f0d15334"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 95",
+     "bytes": 2433,
+     "sha256": "ed87207f359ee62751860f0473968885e559ef174fb16631af3df1ed0e2d765a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 96",
+     "bytes": 1853,
+     "sha256": "6ec029cd6cc0a33c539f693b1ed0044185c85761f4efc69fffe3a378ff964e01"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 97",
+     "bytes": 5681,
+     "sha256": "e97e83cedd26c6ec816dca9172a7493ae5686df97c6609f493fee6543d588b52"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 98",
+     "bytes": 6172,
+     "sha256": "df07454d44f8f417b99fd03c51c50116a4e9a396be06eaadf18c3c6b9e5cdb28"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 99",
+     "bytes": 5073,
+     "sha256": "9581fffc3c2b2edf72fed7c2f160deb7969a365935f94807522d39e38cfbd91e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 100",
+     "bytes": 4883,
+     "sha256": "06ebf29115a2872df4d91ece66ac7cad3b6d33b7ee29af644e966078a858b74a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 101",
+     "bytes": 2583,
+     "sha256": "af6a6e4b456beb9b34bfff1a6d965c5eb0f7e5fb38a18b49a45b8b0be8a38ba0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 102",
+     "bytes": 6427,
+     "sha256": "21951cf4c629f0e93407f46d09614646a760b8a7f6aa0ace7ddc5c6044eb8d1b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 103",
+     "bytes": 5624,
+     "sha256": "1c8b1f7322a9f2dcf71f4ba00af4b159cd1ef84a2bd42588bb9800cfb621c9dd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 104",
+     "bytes": 5309,
+     "sha256": "a83314db30adf619ce85001b9579a264b91a4b0516212367fe6042fb550dbeea"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 105",
+     "bytes": 9407,
+     "sha256": "2da4445ae244e3be3bb608d88e5ad63416c50a0a6b580fa9d0e731337d4b217d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 106",
+     "bytes": 7041,
+     "sha256": "82690e786c6b57d760ebb6591f8ef011c4484f47cdcfc452b16b0e75e808211b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 107",
+     "bytes": 2679,
+     "sha256": "987fbbc58e72621a10786815576807026b77ddd68a9a0245926a50b1b8445570"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 108",
+     "bytes": 2011,
+     "sha256": "1116300066969a377e611f5af4928706b0a73cd2c83a16c59343452e39bb77e4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book II/Chapter 109",
+     "bytes": 6825,
+     "sha256": "8374fae4297478d21d71e5f8f1d86b13130abdb71611cb2a5ee040fb147e6c1f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 1",
+     "bytes": 5897,
+     "sha256": "80bb8618db5cb666441871f34a3cc19bdf9bbb918cc34df8c73fb8fb211d4254"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 2",
+     "bytes": 5641,
+     "sha256": "05b4ce05ed2b9d5c9e6fa1fe49107f24a6307b96cf94433fc04ccd5feab76ef0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 3",
+     "bytes": 5251,
+     "sha256": "e9b8254a7e1ba73f6022dd4a43e22a1e20a8ddcef7d0097de7290df09353e32f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 4",
+     "bytes": 4299,
+     "sha256": "fc0059aa13397eb4afefb70ace09feb85ee36fbe78a85ddae785b465fe664fc1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 5",
+     "bytes": 3187,
+     "sha256": "b6931a55f3cd650292517def9dac493af20235d4ade60860251d07a60110dfdf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 6",
+     "bytes": 3690,
+     "sha256": "e1962545c1effa5dff1d89ce5bfc25b81300aaba92f220e696d01f7b5d29ea07"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 7",
+     "bytes": 4140,
+     "sha256": "8d3a3937b046dd74113ec8a496b13c05c77eaeeded2a5d1f592af6d4e47c5bf3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 8",
+     "bytes": 3639,
+     "sha256": "0ff1db66719ec588aaebd35310806442c4ed1d1f3868d0a4529e6677a1bf47de"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 9",
+     "bytes": 1711,
+     "sha256": "54d189f09f3221c2e5591397cf15a0212190fa0840193cadf1d5fd07cdf8257f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 10",
+     "bytes": 4139,
+     "sha256": "4e992da4003674cf90169a0f1da094013e03a272b8a32eb4521d27fe0e7cd3af"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 11",
+     "bytes": 4009,
+     "sha256": "244ad02e24940fef2c3ab33c69fe5a774bd387ba3d0672fe8bbb49d889b899c4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 12",
+     "bytes": 3059,
+     "sha256": "c47ba13da9e8ed8081a07c18bbe5a7ceee801e6c29357512642b3d23275a97c2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 13",
+     "bytes": 2187,
+     "sha256": "d9c216bf937368d11b79c18f62393a529053d2a3698627727d58a853177cbe23"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 14",
+     "bytes": 2883,
+     "sha256": "71598a977a3cfd73eead1953542c5ba28c74e7b0407bf6ccc1552076f12b5dec"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 15",
+     "bytes": 3268,
+     "sha256": "309466e0cac51c6f7268abe53355dc2773587b47245ac01f399e97bb287e3882"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 16",
+     "bytes": 4149,
+     "sha256": "68e609511c154cff23d625c74d2a298360543387adee8cdbe363a3855adcc515"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 17",
+     "bytes": 2491,
+     "sha256": "fa2f429c9d22f2a417ffb5d32997d69ca7dc048fb0c7c75925a06b6ecf4ca692"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 18",
+     "bytes": 2163,
+     "sha256": "d2e11de87d72cc502988ffee62812ce18a3cd727da0c3aa4db8b0c18816b941d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 19",
+     "bytes": 3267,
+     "sha256": "56f37a4d77f35bf8e21280e729b11321f73776d5e0dfcb25c837f4c679979548"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 20",
+     "bytes": 3871,
+     "sha256": "2038d33ff3016d77b9cd731b446a5142edb40388c5abe95a5084fef9a6172745"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 21",
+     "bytes": 6785,
+     "sha256": "7b5f1251872be3f6ff89068c7f44846bbe1b5e92e9cd0b3ce8b253243cb0ea9e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 22",
+     "bytes": 3916,
+     "sha256": "d29c2516c601754f3ec85849eba2946296fb25749a361a0c5d94a966a6093845"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 23",
+     "bytes": 2929,
+     "sha256": "90fec14049ceeba3c442ddf5d3bda61aa93d111bc088bfa9cd2c8e01d17a747d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 24",
+     "bytes": 3158,
+     "sha256": "0589603c133e390b962cb1646229a7fca10bbee2c60e32b63d7ae9e7f7b13ad0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 25",
+     "bytes": 3834,
+     "sha256": "411fc9cb473bdfa0a1926308c81a43ba8eb4b47227c9a3c70856eaaf063269a1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 26",
+     "bytes": 3810,
+     "sha256": "5504c9baf61a76430c606289431aee0b6980f3591c010d185c30336d621fc474"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 27",
+     "bytes": 4885,
+     "sha256": "adc389a615eb0a76de7811246ea52195e6864ce551c666046b38c2aea01c44ba"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 28",
+     "bytes": 3424,
+     "sha256": "6141f71bd2ac229b3ef4e7ad91a1070ffa080576a9fd459a4991a54cb9db22dd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 29",
+     "bytes": 3694,
+     "sha256": "c58ee4c6e408987c8d68bd686280f9c29c75232e3ccec4f166b50cbc6b2c2a82"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 30",
+     "bytes": 3978,
+     "sha256": "4761d041a0e5f83f7dddb6e60becddc265e8cc8c0fa5c274e68d567a53bf9021"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 31",
+     "bytes": 4281,
+     "sha256": "40dfa314c40e38748ffb3f64c63e5876a68901d8c48de9a0758bece4c43b1136"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 32",
+     "bytes": 3301,
+     "sha256": "925828df17e26f5948b54d350ab2ad2de579c9ee2826467ef1c8f1db90ffde5b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 33",
+     "bytes": 4237,
+     "sha256": "4c8926ad993e5f5119012ab38304ffdb200d2818027c3c7a4900e8fb47e3ca2d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 34",
+     "bytes": 3541,
+     "sha256": "ce5037e987adb2f530480a30eec7823e7a8f94ce43526324108c925e925edf58"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 35",
+     "bytes": 3590,
+     "sha256": "4005375b7e40c20b0fe489c5668fcdda8e0e1c536c328d1fac2aaa8ef698b066"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 36",
+     "bytes": 4588,
+     "sha256": "3a1bb588f79c94165b99b35cad2a6193687ebc25cc55c606277015c75c7f24ff"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 37",
+     "bytes": 3320,
+     "sha256": "da6110698754efb82a6ebe1da363b1fee64a4185dfd3c22924ceb9e21e3dc6c6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 38",
+     "bytes": 2913,
+     "sha256": "1fe2e4a86c1033b22f187c88e86da47d36b9dd8e80bffe402b08ae9dd1e5b8a2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 39",
+     "bytes": 3233,
+     "sha256": "2247fdae0da16b2f5db4344ccf1261983ed2378736c0ca23725dfa08dbdf9c09"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 40",
+     "bytes": 5881,
+     "sha256": "e76ba4e2671d6d1fd69ebfee4f4270b578e077023e64f56eceb4ad38a2ad1b58"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 41",
+     "bytes": 4338,
+     "sha256": "5cef8369719413aeea7ebebf8d8595e129cd4eca7624af0734f317dab208a13e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 42",
+     "bytes": 4306,
+     "sha256": "6c0408f33ecba2918976bc4e6a8f09f74672fb3050a0cd8a0e23ee43051a62a9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 43",
+     "bytes": 3142,
+     "sha256": "e0359c8a41abf6df35e539cc706679d21b75c50dabb700901aac9767da95ffe3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 44",
+     "bytes": 2863,
+     "sha256": "3ebe7874b247d76ea642d9d1c54105d11e7d75414a707ab8170b2b9df4893be8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 45",
+     "bytes": 4197,
+     "sha256": "8bb2994628a3a2c1a76016aae83bf372338aa7c95ef94ab622fe0588dd3912bc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 46",
+     "bytes": 7027,
+     "sha256": "0fb006a2f27658a39ff1edf275e0e53be09810640248e96f34abc2473cbc7902"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 47",
+     "bytes": 3250,
+     "sha256": "cb1901300d2dece02a2bc1445d97ca26381b76ca51876e9199b945a3a48a16b5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 48",
+     "bytes": 3229,
+     "sha256": "76722d7935df66ad08557f7e4cecd3a7e4410797a0ad15637d5f853175a3d536"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 49",
+     "bytes": 4388,
+     "sha256": "42642b5cef8fa11cfe7c1c971ce09db3da4c646d294b0639bea5251b27b1aad3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 50",
+     "bytes": 7237,
+     "sha256": "aa23692df2eb81515b65212c80c9836de4246d754341d3c87c794a6210862e98"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 51",
+     "bytes": 4750,
+     "sha256": "c43b65d43fb6a0b76cd84ba56cc25a4670fec575281fb45c6abeeb56070cdf75"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 52",
+     "bytes": 6940,
+     "sha256": "610fbd3f52ee51c028deff2bb917bd0d46e2faba1731828d1fcc17162570a5ae"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 53",
+     "bytes": 3447,
+     "sha256": "238b7a79ddef896a8fce3389d65bf525b6865157340cdf5773d654ed1ddf711d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 54",
+     "bytes": 3524,
+     "sha256": "04f22596bbd896c2ad2489b0587e04445e61c6dbe28e458fa664fb4bb750091e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 55",
+     "bytes": 4602,
+     "sha256": "077b62e162ccc8a2c03a54d95246fbbc9b36767144ac1c4e6a8e67a72decd6c3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 56",
+     "bytes": 3600,
+     "sha256": "3985955b097a89dc5cd5ffd08ef8f389cd0f7473294bfbca33889f79ca158d8b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 57",
+     "bytes": 4310,
+     "sha256": "64857be7d75a0d77992f3d4544003310366e639469496f27af64372fb4afaf11"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 58",
+     "bytes": 5337,
+     "sha256": "c6f8a6afe396f48828bb305e94c8902d276be0646dcd81fd0640ebc5fd23f209"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Donatist Controversy/Answer to the Letters of Petilian, the Donatist/Book III/Chapter 59",
+     "bytes": 4302,
+     "sha256": "0abf04888a9152b14a517dc4f2612d9f0c5c85a5da8f00ecdd2dba16fb97faec"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.1",
+     "title": "Chapter 1",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.2",
+     "title": "Chapter 2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.4",
+     "title": "Chapter 4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.5",
+     "title": "Chapter 5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.6",
+     "title": "Chapter 6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.7",
+     "title": "Chapter 7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.8",
+     "title": "Chapter 8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.9",
+     "title": "Chapter 9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.10",
+     "title": "Chapter 10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.11",
+     "title": "Chapter 11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.12",
+     "title": "Chapter 12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.13",
+     "title": "Chapter 13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.14",
+     "title": "Chapter 14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.15",
+     "title": "Chapter 15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.16",
+     "title": "Chapter 16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.18",
+     "title": "Chapter 18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.19",
+     "title": "Chapter 19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.20",
+     "title": "Chapter 20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.21",
+     "title": "Chapter 21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.22",
+     "title": "Chapter 22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.23",
+     "title": "Chapter 23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.24",
+     "title": "Chapter 24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.25",
+     "title": "Chapter 25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.26",
+     "title": "Chapter 26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.27",
+     "title": "Chapter 27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.28",
+     "title": "Chapter 28",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.29",
+     "title": "Chapter 29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "2.1",
+     "title": "Chapter 1",
+     "segments": 3
+    },
+    {
+     "file": "0031.json",
+     "ref": "2.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "2.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "2.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "2.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "2.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "2.7",
+     "title": "Chapter 7",
+     "segments": 3
+    },
+    {
+     "file": "0037.json",
+     "ref": "2.8",
+     "title": "Chapter 8",
+     "segments": 4
+    },
+    {
+     "file": "0038.json",
+     "ref": "2.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "2.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "2.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "2.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "2.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "2.14",
+     "title": "Chapter 14",
+     "segments": 3
+    },
+    {
+     "file": "0044.json",
+     "ref": "2.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "2.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "2.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "2.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "2.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "2.20",
+     "title": "Chapter 20",
+     "segments": 3
+    },
+    {
+     "file": "0050.json",
+     "ref": "2.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0051.json",
+     "ref": "2.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "2.23",
+     "title": "Chapter 23",
+     "segments": 5
+    },
+    {
+     "file": "0053.json",
+     "ref": "2.24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "2.25",
+     "title": "Chapter 25",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "2.26",
+     "title": "Chapter 26",
+     "segments": 2
+    },
+    {
+     "file": "0056.json",
+     "ref": "2.27",
+     "title": "Chapter 27",
+     "segments": 2
+    },
+    {
+     "file": "0057.json",
+     "ref": "2.28",
+     "title": "Chapter 28",
+     "segments": 2
+    },
+    {
+     "file": "0058.json",
+     "ref": "2.29",
+     "title": "Chapter 29",
+     "segments": 2
+    },
+    {
+     "file": "0059.json",
+     "ref": "2.30",
+     "title": "Chapter 30",
+     "segments": 2
+    },
+    {
+     "file": "0060.json",
+     "ref": "2.31",
+     "title": "Chapter 31",
+     "segments": 2
+    },
+    {
+     "file": "0061.json",
+     "ref": "2.32",
+     "title": "Chapter 32",
+     "segments": 5
+    },
+    {
+     "file": "0062.json",
+     "ref": "2.33",
+     "title": "Chapter 33",
+     "segments": 2
+    },
+    {
+     "file": "0063.json",
+     "ref": "2.34",
+     "title": "Chapter 34",
+     "segments": 2
+    },
+    {
+     "file": "0064.json",
+     "ref": "2.35",
+     "title": "Chapter 35",
+     "segments": 2
+    },
+    {
+     "file": "0065.json",
+     "ref": "2.36",
+     "title": "Chapter 36",
+     "segments": 2
+    },
+    {
+     "file": "0066.json",
+     "ref": "2.37",
+     "title": "Chapter 37",
+     "segments": 5
+    },
+    {
+     "file": "0067.json",
+     "ref": "2.38",
+     "title": "Chapter 38",
+     "segments": 2
+    },
+    {
+     "file": "0068.json",
+     "ref": "2.39",
+     "title": "Chapter 39",
+     "segments": 3
+    },
+    {
+     "file": "0069.json",
+     "ref": "2.40",
+     "title": "Chapter 40",
+     "segments": 2
+    },
+    {
+     "file": "0070.json",
+     "ref": "2.41",
+     "title": "Chapter 41",
+     "segments": 2
+    },
+    {
+     "file": "0071.json",
+     "ref": "2.42",
+     "title": "Chapter 42",
+     "segments": 2
+    },
+    {
+     "file": "0072.json",
+     "ref": "2.43",
+     "title": "Chapter 43",
+     "segments": 2
+    },
+    {
+     "file": "0073.json",
+     "ref": "2.44",
+     "title": "Chapter 44",
+     "segments": 2
+    },
+    {
+     "file": "0074.json",
+     "ref": "2.45",
+     "title": "Chapter 45",
+     "segments": 2
+    },
+    {
+     "file": "0075.json",
+     "ref": "2.46",
+     "title": "Chapter 46",
+     "segments": 2
+    },
+    {
+     "file": "0076.json",
+     "ref": "2.47",
+     "title": "Chapter 47",
+     "segments": 2
+    },
+    {
+     "file": "0077.json",
+     "ref": "2.48",
+     "title": "Chapter 48",
+     "segments": 2
+    },
+    {
+     "file": "0078.json",
+     "ref": "2.49",
+     "title": "Chapter 49",
+     "segments": 2
+    },
+    {
+     "file": "0079.json",
+     "ref": "2.50",
+     "title": "Chapter 50",
+     "segments": 2
+    },
+    {
+     "file": "0080.json",
+     "ref": "2.51",
+     "title": "Chapter 51",
+     "segments": 2
+    },
+    {
+     "file": "0081.json",
+     "ref": "2.52",
+     "title": "Chapter 52",
+     "segments": 2
+    },
+    {
+     "file": "0082.json",
+     "ref": "2.53",
+     "title": "Chapter 53",
+     "segments": 2
+    },
+    {
+     "file": "0083.json",
+     "ref": "2.54",
+     "title": "Chapter 54",
+     "segments": 2
+    },
+    {
+     "file": "0084.json",
+     "ref": "2.55",
+     "title": "Chapter 55",
+     "segments": 2
+    },
+    {
+     "file": "0085.json",
+     "ref": "2.56",
+     "title": "Chapter 56",
+     "segments": 2
+    },
+    {
+     "file": "0086.json",
+     "ref": "2.57",
+     "title": "Chapter 57",
+     "segments": 2
+    },
+    {
+     "file": "0087.json",
+     "ref": "2.58",
+     "title": "Chapter 58",
+     "segments": 2
+    },
+    {
+     "file": "0088.json",
+     "ref": "2.59",
+     "title": "Chapter 59",
+     "segments": 2
+    },
+    {
+     "file": "0089.json",
+     "ref": "2.60",
+     "title": "Chapter 60",
+     "segments": 2
+    },
+    {
+     "file": "0090.json",
+     "ref": "2.61",
+     "title": "Chapter 61",
+     "segments": 2
+    },
+    {
+     "file": "0091.json",
+     "ref": "2.62",
+     "title": "Chapter 62",
+     "segments": 2
+    },
+    {
+     "file": "0092.json",
+     "ref": "2.63",
+     "title": "Chapter 63",
+     "segments": 2
+    },
+    {
+     "file": "0093.json",
+     "ref": "2.64",
+     "title": "Chapter 64",
+     "segments": 2
+    },
+    {
+     "file": "0094.json",
+     "ref": "2.65",
+     "title": "Chapter 65",
+     "segments": 2
+    },
+    {
+     "file": "0095.json",
+     "ref": "2.66",
+     "title": "Chapter 66",
+     "segments": 2
+    },
+    {
+     "file": "0096.json",
+     "ref": "2.67",
+     "title": "Chapter 67",
+     "segments": 2
+    },
+    {
+     "file": "0097.json",
+     "ref": "2.68",
+     "title": "Chapter 68",
+     "segments": 2
+    },
+    {
+     "file": "0098.json",
+     "ref": "2.69",
+     "title": "Chapter 69",
+     "segments": 2
+    },
+    {
+     "file": "0099.json",
+     "ref": "2.70",
+     "title": "Chapter 70",
+     "segments": 2
+    },
+    {
+     "file": "0100.json",
+     "ref": "2.71",
+     "title": "Chapter 71",
+     "segments": 2
+    },
+    {
+     "file": "0101.json",
+     "ref": "2.72",
+     "title": "Chapter 72",
+     "segments": 2
+    },
+    {
+     "file": "0102.json",
+     "ref": "2.73",
+     "title": "Chapter 73",
+     "segments": 2
+    },
+    {
+     "file": "0103.json",
+     "ref": "2.74",
+     "title": "Chapter 74",
+     "segments": 2
+    },
+    {
+     "file": "0104.json",
+     "ref": "2.75",
+     "title": "Chapter 75",
+     "segments": 2
+    },
+    {
+     "file": "0105.json",
+     "ref": "2.76",
+     "title": "Chapter 76",
+     "segments": 2
+    },
+    {
+     "file": "0106.json",
+     "ref": "2.77",
+     "title": "Chapter 77",
+     "segments": 2
+    },
+    {
+     "file": "0107.json",
+     "ref": "2.78",
+     "title": "Chapter 78",
+     "segments": 2
+    },
+    {
+     "file": "0108.json",
+     "ref": "2.79",
+     "title": "Chapter 79",
+     "segments": 2
+    },
+    {
+     "file": "0109.json",
+     "ref": "2.80",
+     "title": "Chapter 80",
+     "segments": 2
+    },
+    {
+     "file": "0110.json",
+     "ref": "2.81",
+     "title": "Chapter 81",
+     "segments": 2
+    },
+    {
+     "file": "0111.json",
+     "ref": "2.82",
+     "title": "Chapter 82",
+     "segments": 2
+    },
+    {
+     "file": "0112.json",
+     "ref": "2.83",
+     "title": "Chapter 83",
+     "segments": 2
+    },
+    {
+     "file": "0113.json",
+     "ref": "2.84",
+     "title": "Chapter 84",
+     "segments": 2
+    },
+    {
+     "file": "0114.json",
+     "ref": "2.85",
+     "title": "Chapter 85",
+     "segments": 3
+    },
+    {
+     "file": "0115.json",
+     "ref": "2.86",
+     "title": "Chapter 86",
+     "segments": 2
+    },
+    {
+     "file": "0116.json",
+     "ref": "2.87",
+     "title": "Chapter 87",
+     "segments": 2
+    },
+    {
+     "file": "0117.json",
+     "ref": "2.88",
+     "title": "Chapter 88",
+     "segments": 2
+    },
+    {
+     "file": "0118.json",
+     "ref": "2.89",
+     "title": "Chapter 89",
+     "segments": 2
+    },
+    {
+     "file": "0119.json",
+     "ref": "2.90",
+     "title": "Chapter 90",
+     "segments": 2
+    },
+    {
+     "file": "0120.json",
+     "ref": "2.91",
+     "title": "Chapter 91",
+     "segments": 2
+    },
+    {
+     "file": "0121.json",
+     "ref": "2.92",
+     "title": "Chapter 92",
+     "segments": 2
+    },
+    {
+     "file": "0122.json",
+     "ref": "2.93",
+     "title": "Chapter 93",
+     "segments": 12
+    },
+    {
+     "file": "0123.json",
+     "ref": "2.94",
+     "title": "Chapter 94",
+     "segments": 2
+    },
+    {
+     "file": "0124.json",
+     "ref": "2.95",
+     "title": "Chapter 95",
+     "segments": 2
+    },
+    {
+     "file": "0125.json",
+     "ref": "2.96",
+     "title": "Chapter 96",
+     "segments": 2
+    },
+    {
+     "file": "0126.json",
+     "ref": "2.97",
+     "title": "Chapter 97",
+     "segments": 3
+    },
+    {
+     "file": "0127.json",
+     "ref": "2.98",
+     "title": "Chapter 98",
+     "segments": 2
+    },
+    {
+     "file": "0128.json",
+     "ref": "2.99",
+     "title": "Chapter 99",
+     "segments": 2
+    },
+    {
+     "file": "0129.json",
+     "ref": "2.100",
+     "title": "Chapter 100",
+     "segments": 2
+    },
+    {
+     "file": "0130.json",
+     "ref": "2.101",
+     "title": "Chapter 101",
+     "segments": 2
+    },
+    {
+     "file": "0131.json",
+     "ref": "2.102",
+     "title": "Chapter 102",
+     "segments": 3
+    },
+    {
+     "file": "0132.json",
+     "ref": "2.103",
+     "title": "Chapter 103",
+     "segments": 2
+    },
+    {
+     "file": "0133.json",
+     "ref": "2.104",
+     "title": "Chapter 104",
+     "segments": 2
+    },
+    {
+     "file": "0134.json",
+     "ref": "2.105",
+     "title": "Chapter 105",
+     "segments": 2
+    },
+    {
+     "file": "0135.json",
+     "ref": "2.106",
+     "title": "Chapter 106",
+     "segments": 2
+    },
+    {
+     "file": "0136.json",
+     "ref": "2.107",
+     "title": "Chapter 107",
+     "segments": 2
+    },
+    {
+     "file": "0137.json",
+     "ref": "2.108",
+     "title": "Chapter 108",
+     "segments": 2
+    },
+    {
+     "file": "0138.json",
+     "ref": "2.109",
+     "title": "Chapter 109",
+     "segments": 2
+    },
+    {
+     "file": "0139.json",
+     "ref": "3.1",
+     "title": "Chapter 1",
+     "segments": 2
+    },
+    {
+     "file": "0140.json",
+     "ref": "3.2",
+     "title": "Chapter 2",
+     "segments": 1
+    },
+    {
+     "file": "0141.json",
+     "ref": "3.3",
+     "title": "Chapter 3",
+     "segments": 1
+    },
+    {
+     "file": "0142.json",
+     "ref": "3.4",
+     "title": "Chapter 4",
+     "segments": 1
+    },
+    {
+     "file": "0143.json",
+     "ref": "3.5",
+     "title": "Chapter 5",
+     "segments": 1
+    },
+    {
+     "file": "0144.json",
+     "ref": "3.6",
+     "title": "Chapter 6",
+     "segments": 1
+    },
+    {
+     "file": "0145.json",
+     "ref": "3.7",
+     "title": "Chapter 7",
+     "segments": 1
+    },
+    {
+     "file": "0146.json",
+     "ref": "3.8",
+     "title": "Chapter 8",
+     "segments": 1
+    },
+    {
+     "file": "0147.json",
+     "ref": "3.9",
+     "title": "Chapter 9",
+     "segments": 1
+    },
+    {
+     "file": "0148.json",
+     "ref": "3.10",
+     "title": "Chapter 10",
+     "segments": 1
+    },
+    {
+     "file": "0149.json",
+     "ref": "3.11",
+     "title": "Chapter 11",
+     "segments": 1
+    },
+    {
+     "file": "0150.json",
+     "ref": "3.12",
+     "title": "Chapter 12",
+     "segments": 1
+    },
+    {
+     "file": "0151.json",
+     "ref": "3.13",
+     "title": "Chapter 13",
+     "segments": 1
+    },
+    {
+     "file": "0152.json",
+     "ref": "3.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0153.json",
+     "ref": "3.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0154.json",
+     "ref": "3.16",
+     "title": "Chapter 16",
+     "segments": 1
+    },
+    {
+     "file": "0155.json",
+     "ref": "3.17",
+     "title": "Chapter 17",
+     "segments": 1
+    },
+    {
+     "file": "0156.json",
+     "ref": "3.18",
+     "title": "Chapter 18",
+     "segments": 1
+    },
+    {
+     "file": "0157.json",
+     "ref": "3.19",
+     "title": "Chapter 19",
+     "segments": 1
+    },
+    {
+     "file": "0158.json",
+     "ref": "3.20",
+     "title": "Chapter 20",
+     "segments": 1
+    },
+    {
+     "file": "0159.json",
+     "ref": "3.21",
+     "title": "Chapter 21",
+     "segments": 4
+    },
+    {
+     "file": "0160.json",
+     "ref": "3.22",
+     "title": "Chapter 22",
+     "segments": 1
+    },
+    {
+     "file": "0161.json",
+     "ref": "3.23",
+     "title": "Chapter 23",
+     "segments": 1
+    },
+    {
+     "file": "0162.json",
+     "ref": "3.24",
+     "title": "Chapter 24",
+     "segments": 1
+    },
+    {
+     "file": "0163.json",
+     "ref": "3.25",
+     "title": "Chapter 25",
+     "segments": 2
+    },
+    {
+     "file": "0164.json",
+     "ref": "3.26",
+     "title": "Chapter 26",
+     "segments": 1
+    },
+    {
+     "file": "0165.json",
+     "ref": "3.27",
+     "title": "Chapter 27",
+     "segments": 1
+    },
+    {
+     "file": "0166.json",
+     "ref": "3.28",
+     "title": "Chapter 28",
+     "segments": 1
+    },
+    {
+     "file": "0167.json",
+     "ref": "3.29",
+     "title": "Chapter 29",
+     "segments": 1
+    },
+    {
+     "file": "0168.json",
+     "ref": "3.30",
+     "title": "Chapter 30",
+     "segments": 1
+    },
+    {
+     "file": "0169.json",
+     "ref": "3.31",
+     "title": "Chapter 31",
+     "segments": 1
+    },
+    {
+     "file": "0170.json",
+     "ref": "3.32",
+     "title": "Chapter 32",
+     "segments": 1
+    },
+    {
+     "file": "0171.json",
+     "ref": "3.33",
+     "title": "Chapter 33",
+     "segments": 1
+    },
+    {
+     "file": "0172.json",
+     "ref": "3.34",
+     "title": "Chapter 34",
+     "segments": 2
+    },
+    {
+     "file": "0173.json",
+     "ref": "3.35",
+     "title": "Chapter 35",
+     "segments": 2
+    },
+    {
+     "file": "0174.json",
+     "ref": "3.36",
+     "title": "Chapter 36",
+     "segments": 1
+    },
+    {
+     "file": "0175.json",
+     "ref": "3.37",
+     "title": "Chapter 37",
+     "segments": 1
+    },
+    {
+     "file": "0176.json",
+     "ref": "3.38",
+     "title": "Chapter 38",
+     "segments": 1
+    },
+    {
+     "file": "0177.json",
+     "ref": "3.39",
+     "title": "Chapter 39",
+     "segments": 1
+    },
+    {
+     "file": "0178.json",
+     "ref": "3.40",
+     "title": "Chapter 40",
+     "segments": 3
+    },
+    {
+     "file": "0179.json",
+     "ref": "3.41",
+     "title": "Chapter 41",
+     "segments": 2
+    },
+    {
+     "file": "0180.json",
+     "ref": "3.42",
+     "title": "Chapter 42",
+     "segments": 1
+    },
+    {
+     "file": "0181.json",
+     "ref": "3.43",
+     "title": "Chapter 43",
+     "segments": 1
+    },
+    {
+     "file": "0182.json",
+     "ref": "3.44",
+     "title": "Chapter 44",
+     "segments": 1
+    },
+    {
+     "file": "0183.json",
+     "ref": "3.45",
+     "title": "Chapter 45",
+     "segments": 1
+    },
+    {
+     "file": "0184.json",
+     "ref": "3.46",
+     "title": "Chapter 46",
+     "segments": 2
+    },
+    {
+     "file": "0185.json",
+     "ref": "3.47",
+     "title": "Chapter 47",
+     "segments": 1
+    },
+    {
+     "file": "0186.json",
+     "ref": "3.48",
+     "title": "Chapter 48",
+     "segments": 1
+    },
+    {
+     "file": "0187.json",
+     "ref": "3.49",
+     "title": "Chapter 49",
+     "segments": 1
+    },
+    {
+     "file": "0188.json",
+     "ref": "3.50",
+     "title": "Chapter 50",
+     "segments": 3
+    },
+    {
+     "file": "0189.json",
+     "ref": "3.51",
+     "title": "Chapter 51",
+     "segments": 1
+    },
+    {
+     "file": "0190.json",
+     "ref": "3.52",
+     "title": "Chapter 52",
+     "segments": 1
+    },
+    {
+     "file": "0191.json",
+     "ref": "3.53",
+     "title": "Chapter 53",
+     "segments": 1
+    },
+    {
+     "file": "0192.json",
+     "ref": "3.54",
+     "title": "Chapter 54",
+     "segments": 1
+    },
+    {
+     "file": "0193.json",
+     "ref": "3.55",
+     "title": "Chapter 55",
+     "segments": 1
+    },
+    {
+     "file": "0194.json",
+     "ref": "3.56",
+     "title": "Chapter 56",
+     "segments": 1
+    },
+    {
+     "file": "0195.json",
+     "ref": "3.57",
+     "title": "Chapter 57",
+     "segments": 1
+    },
+    {
+     "file": "0196.json",
+     "ref": "3.58",
+     "title": "Chapter 58",
+     "segments": 2
+    },
+    {
+     "file": "0197.json",
+     "ref": "3.59",
+     "title": "Chapter 59",
+     "segments": 1
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 0,
+  "shared": 0
+ }
+}

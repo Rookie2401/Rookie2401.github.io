@@ -1,0 +1,816 @@
+{
+ "workId": "augustine-perfection-righteousness",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "augustine-perfection-righteousness-csel-lat-ogl",
+   "role": "original",
+   "language": "latin",
+   "credit": "De perfectione iustitiae hominis, in Sancti Aureli Augustini Opera (Corpus scriptorum ecclesiasticorum Latinorum 42), ed. Karl F. Urba; Joseph Zycha (Prague, Vienna and Leipzig: F. Tempsky; G. Freytag, 1904). Open Greek and Latin, csel-dev, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa057a/stoa0040.stoa057a.opp-lat1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 163900,
+   "sourceSha256": "18ed938548b34ebc1a9a078b5c88ca62d0d25bdadc7704a3e9adb8192f869269",
+   "leftOut": {
+    "milestone": 21,
+    "lb": 1115,
+    "note": 95,
+    "pb": 46
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 9920,
+    "garbledPerThousand": 0,
+    "joinedPerThousand": 0.1,
+    "numbersPerThousand": 0.2
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "augustine-perfection-righteousness-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Concerning Man's Perfection in Righteousness, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. V: Saint Augustin (ed. Philip Schaff; New York, Christian Literature Co.), trans. as printed in NPNF I vol. V (the Wikisource copy credits Philip Schaff et al.) (New York: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_V/Concerning_Man's_Perfection_in_Righteousness",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 132436,
+   "sourceSha256": "dbc4639670ca8ab7192a913c08d69d344b39898bb4e1f30504ae2b917275b01e",
+   "leftOut": {
+    "note": 243
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 1",
+     "bytes": 3557,
+     "sha256": "a5b5ea3aaf080f881052108e7da66261635a5712d918c43fec9f8d5efa7efac7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 2",
+     "bytes": 1649,
+     "sha256": "ce406b9b9a702baca12add9cafbc1ac67a496a417d13b6a816cdf8729c482099"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 3",
+     "bytes": 1099,
+     "sha256": "d458f413c6f1f34ae2b0b7c0cb6d05643dc6589159cfe2ed8e25aa272dd7c3ff"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 4",
+     "bytes": 1614,
+     "sha256": "76db78035b0ac746b8f6920c59092c2434483c1ee3fd206b587e360bc265c149"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 5",
+     "bytes": 2963,
+     "sha256": "76a05a18a37d44ba18639f3d13d2fe4af2ec2fd17116b237013121b42a22a36b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 6",
+     "bytes": 1990,
+     "sha256": "5cf6c17447f0adc785827387f783e68a0f4c470620c3d88e8a01cba9727b14c3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 7",
+     "bytes": 1287,
+     "sha256": "e86018c9b8be0edbcdfdef670694af1e45c8ec9ee5db6149b16d89c26d264ab8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 8",
+     "bytes": 1372,
+     "sha256": "f8d3f73b84de6d4feef97007e291718fa74be3f485a03868bf342faabf6fe37e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 9",
+     "bytes": 2232,
+     "sha256": "930c098d1a715d37a797c95a29ab58f4f4554cd792028cf22a2d5a112de4632e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 10",
+     "bytes": 3064,
+     "sha256": "ae25e078d1be57c876aabea15f20f921d20cd5eae3cabb998db64b64cac8b2fc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 11",
+     "bytes": 1615,
+     "sha256": "0a364322b649e99baed2c514e80e35df9cdfe58ba8942dc06ab7e86757fc83fa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 12",
+     "bytes": 4099,
+     "sha256": "3b25c619422179ce857662af0554101f6bc8f6576c61b131d55e7261d4baaefe"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 13",
+     "bytes": 2763,
+     "sha256": "d25e9f27c4da8bc5ec4859be22697095e8c3f6e25e6b141139dcfbee07462e86"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 14",
+     "bytes": 1225,
+     "sha256": "43eaf6bf693ad4f66f7bbaaca9e3769c0bab4ae57c11aed232c3decd1101569c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 15",
+     "bytes": 1825,
+     "sha256": "23ccc248e78db558efd7b54a475f7f5a6e7f71ead063aa320b9ee05a46a4116b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 16",
+     "bytes": 2168,
+     "sha256": "a0942cb323887180eaecb86eafac0f156a40443106123b7cd9b26bab313eeed6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 17",
+     "bytes": 3345,
+     "sha256": "ed41d583e435027367482a945cab7b6a90e041d8bbdba35aa3c0f4c3f36e10a3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 18",
+     "bytes": 2446,
+     "sha256": "eb16fca09979f00f545b4e1215eb7742c55f7c2d8814c4945040586245cde5ca"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 19",
+     "bytes": 4437,
+     "sha256": "f5b1190f3f0a6f0e2b45c187ed68ddf5e4f99c9a92e2340f1f938ba3acc7f3f1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 20",
+     "bytes": 4280,
+     "sha256": "baf2aee60a6d3d190cf538e48454266a7b1cc7b825d75ec41972cfac29fbfc41"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 21",
+     "bytes": 5290,
+     "sha256": "51f73b56094634232b49fd0d8c8bb004baf9f2ff5a4759067a551f4de4cabee7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 22",
+     "bytes": 3856,
+     "sha256": "7316f1f4efb2b4321166f167f8b38819ba2bc74a2672ac777a1ac4aafe904a7b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 23",
+     "bytes": 3725,
+     "sha256": "42213a9bd2b01b59c1386083c0d5bb57599cbe9918ddea33900ca7db8d3ad021"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 24",
+     "bytes": 2056,
+     "sha256": "e92f446e6b1b268a308c45c1bc1f514a43879709815af1e079638f3ecb36f909"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 25",
+     "bytes": 2799,
+     "sha256": "7d6b990c77be008e999697f7d6ba4c2cb277b8c65fc833b89d79519074687ed4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 26",
+     "bytes": 1045,
+     "sha256": "df24a0a1c499e69af736351c8776453c8563bfe7a2817649533f9b2855008350"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 27",
+     "bytes": 1347,
+     "sha256": "02e293e03e52572895abedf224c1c9de32ef45c788c0df937ec5b33a90042978"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 28",
+     "bytes": 2616,
+     "sha256": "89a5f43e82a2b8d69affb6f6f155ec36dc800c757b9139c5c7ee304f44940111"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 29",
+     "bytes": 4953,
+     "sha256": "b4da28948ad07dc1dc355be258faf434847499bafd9ebf7c7f7fd7c72aef5b30"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 30",
+     "bytes": 2834,
+     "sha256": "16a8aae2994bb00b86e55ee5b40cc67fe7b1d8f21891405d2bc90e9a9d893eb1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 31",
+     "bytes": 3466,
+     "sha256": "cb9f849d19870a2ac3d5b5c42e6c33763957730a773fa9b3ed9a8925fea314bb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 32",
+     "bytes": 4712,
+     "sha256": "d589fdc30b62659926486f738638ed24b913cff45855d01ad26ee665318498f2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 33",
+     "bytes": 4213,
+     "sha256": "42839e68c5e76538ff540383fb89fa871956846699ba864c6f933a41bd54b006"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 34",
+     "bytes": 2237,
+     "sha256": "99a0c0d799796eed1c5ab865246432329e0a000fe56ba0d00eebc088c03bff56"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 35",
+     "bytes": 3080,
+     "sha256": "5f3d28af7158de3e50062318d979a33c24c0d40234f4a2f9840f6da4914cd411"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 36",
+     "bytes": 3185,
+     "sha256": "66ca02c3ea01b067560f07d8f16d0c7012feb00f9e0c9ad62f7bf380c9ace752"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 37",
+     "bytes": 3037,
+     "sha256": "e6b5c026486b8852c16415f04f388b87e30d6d41f837aff8a82b7b1beee30c9c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 38",
+     "bytes": 1735,
+     "sha256": "e0110857e724b3840cc5517567c5921bffa40fdf7d8d0ea81c2cc5b2ff73d24a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 39",
+     "bytes": 3829,
+     "sha256": "8f8c453d2e8cc09efe1d66692885118791ae4c346d4ecbf4c03199c5cefe4d5c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 40",
+     "bytes": 5082,
+     "sha256": "554dd0034f666342438bfd2617939b1c7575ec887886f1c073c2068633f85fc2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 41",
+     "bytes": 3557,
+     "sha256": "32b9c4ec053d9e7b714066deec0bf6cf260236d20f67a2219bbd0041b18873f8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 42",
+     "bytes": 3865,
+     "sha256": "50a925c0d085e827f8e4b40809bfa5081c2b9cb6792ba875c2eaa47328173a76"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 43",
+     "bytes": 2847,
+     "sha256": "b2a4c05c56b45a63a95c5b304fede2f6dc418d6bac07edcdee3772aa74c6f426"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 44",
+     "bytes": 3028,
+     "sha256": "f7565e7e442999ede586554dbb5fd10643f4e74bb757f7198c6ce865d6d9d659"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Concerning Man's Perfection in Righteousness/Chapter 45",
+     "bytes": 5012,
+     "sha256": "b976c9e3e0fe76dfe16b64b1876318a03e2d2239a1d3bfdd17e25649b34bbcda"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Chapter 1",
+     "segments": 3
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "Chapter 25",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "Chapter 26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "Chapter 27",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "Chapter 28",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "Chapter 29",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "Chapter 30",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "Chapter 31",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "Chapter 32",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "Chapter 33",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "Chapter 34",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "Chapter 35",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "Chapter 36",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "Chapter 37",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "Chapter 38",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "Chapter 39",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "Chapter 40",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "Chapter 41",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "Chapter 42",
+     "segments": 3
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "Chapter 43",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "Chapter 44",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "45",
+     "title": "Chapter 45",
+     "segments": 2
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 44,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 1
+ }
+}

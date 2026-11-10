@@ -1,0 +1,1187 @@
+{
+ "workId": "augustine-marriage-concupiscence",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "augustine-marriage-concupiscence-csel-lat-ogl",
+   "role": "original",
+   "language": "latin",
+   "credit": "De nuptiis et concupiscentia, in Sancti Aureli Augustini Opera (Corpus scriptorum ecclesiasticorum Latinorum 42), ed. Karl F. Urba; Joseph Zycha (Prague, Vienna and Leipzig: F. Tempsky; G. Freytag, 1904). Open Greek and Latin, csel-dev, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa056a/stoa0040.stoa056a.opp-lat1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 393229,
+   "sourceSha256": "9dea41e23faded0bfb3ffe3b0aa17499dbd8e9dedcf9fb10a295e64163ca5a5b",
+   "leftOut": {
+    "lb": 2647,
+    "note": 256,
+    "pb": 111,
+    "milestone": 70
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 23353,
+    "garbledPerThousand": 0.1,
+    "joinedPerThousand": 0,
+    "numbersPerThousand": 0.1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "pr",
+     "title": "pr",
+     "segments": 4
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 40
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 61
+    }
+   ]
+  },
+  {
+   "editionId": "augustine-marriage-concupiscence-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "On Marriage and Concupiscence, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. V: Saint Augustin (ed. Philip Schaff; New York, Christian Literature Co.), trans. as printed in NPNF I vol. V (the Wikisource copy credits Philip Schaff et al.) (New York: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_V/On_Marriage_and_Concupiscence",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 316978,
+   "sourceSha256": "f0854b120dad17a7ebca5f47526009bdfc092086b4460a80bf5994053c91b9da",
+   "leftOut": {
+    "note": 278,
+    "unclosedTemplate": 1
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 1",
+     "bytes": 3344,
+     "sha256": "fec8f054890492de10c853ae5781cb00578e9a611dd19d00ee1c1586d390046c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 2",
+     "bytes": 2865,
+     "sha256": "cfdadf2ac8e6e5b733704a755335b6fdf27badb0bbdbd4a22ed3f7d2cef4be88"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 3",
+     "bytes": 1911,
+     "sha256": "cbe55bde59d6ee05a390300d48b8b98ff929f27b767fe8bda5bbc151cdafb404"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 4",
+     "bytes": 2372,
+     "sha256": "7dcbdcab81bac4a00f2b8b3382343a38615e4c7bdfa7931c69e70849915fbfe0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 5",
+     "bytes": 4187,
+     "sha256": "926a0bef55ef1bfcb94616102f7fe3586fb3aa8f67bba4eabc841281c354e750"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 6",
+     "bytes": 4371,
+     "sha256": "1da91d79d09b9cc01d57fa59a5df2248c33124082bdc0012f2ce9d9bf324eeb9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 7",
+     "bytes": 3430,
+     "sha256": "48e5e356ee6afbbd01950c79d21558975ca2758761ff7209acaf0da63805d04c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 8",
+     "bytes": 2140,
+     "sha256": "f71c1372762df7106a885a8bf10cfaf59f99d1ee4932e379b7626461d2ce3a1c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 9",
+     "bytes": 3797,
+     "sha256": "218d6217c5f5c6f378f247ba4606fc78c4f7f2b4e0e81b9ee32cb15da8e03cd3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 10",
+     "bytes": 3261,
+     "sha256": "e114c6469592d609f85c9a3a96d210f7c5c6f035a90c9fa169c0af3208fcc64e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 11",
+     "bytes": 4057,
+     "sha256": "acf719ca2aa5f81d8d4dfc1c0cf305b94d69d0b84351e966ddc08b7e7536cc46"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 12",
+     "bytes": 4799,
+     "sha256": "0cb05c4b9c1f452e275867702ca6de4d85615c8a301e6aeb3e6e0b6836e2ebb8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 13",
+     "bytes": 3042,
+     "sha256": "48d20e039919e5fe4a31c60d2933fafa0a4e723a8b6ce5c1b2fb88b2e981cdcc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 14",
+     "bytes": 1664,
+     "sha256": "20419a55ecef279a8253fd2c211beb894e8762ec6a8cec1953cff3de476c52d4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 15",
+     "bytes": 3436,
+     "sha256": "22ac1c9e3a1dab60ed7a9f00984b06d6d02357af8147e0d6a8d7bb68a7579404"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 16",
+     "bytes": 4624,
+     "sha256": "e91f679969af581532e05c4d9d43456d1f925b8576fa75a943b97728c5830e61"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 17",
+     "bytes": 2674,
+     "sha256": "c17493931007f773d7a12cdb701df21706e3abf229d92f15f52340938cae0a06"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 18",
+     "bytes": 3030,
+     "sha256": "3d8352206b6521d3427a7129fef441c1a68863cec2885190eacd4ce625f29201"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 19",
+     "bytes": 2291,
+     "sha256": "cddea25d53f8fe3db710b12333d0a8ebf03054e0e53f301483736a2bf20f99e7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 20",
+     "bytes": 4249,
+     "sha256": "b8fa0d38b3bd3880997da63c60d6125cddf28780864521cc81d7f23e9e5a4ada"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 21",
+     "bytes": 3724,
+     "sha256": "23e4cf2b7a57b093f77ff2b87f1d4d5c0bdf70ee06ae68d736a2faddc6603e64"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 22",
+     "bytes": 3236,
+     "sha256": "84cc94307f39c2033690be1e9294b2f25665008a69feea29f466856c4599d148"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 23",
+     "bytes": 2950,
+     "sha256": "c216f7a5743a534136e3e80c9063e279cdc84bbf20d67175612f37852200f67a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 24",
+     "bytes": 2131,
+     "sha256": "c6a48f7f42ccdba7eb55c27b43fb5ee67a1e551c0a9cae83c96658f57a303950"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 25",
+     "bytes": 3024,
+     "sha256": "c72a332bb5a3cc4ae8755ace6952ddabd69d4419d1ad1ab782fa0fc77c9f4e0b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 26",
+     "bytes": 2706,
+     "sha256": "163ebfecb8fd45d70d2e593157e4fbe0ab6c3cc428308e371f71a0f6ebb604af"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 27",
+     "bytes": 2868,
+     "sha256": "869707183634bde229e244fc4698aaf41a6348295761e48e70e50fcddf4b5abc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 28",
+     "bytes": 3037,
+     "sha256": "4e41f688ab46a3464d346f512e102511c650ec039db9f5a3eeec68504be393bf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 29",
+     "bytes": 2518,
+     "sha256": "737c1055f370acd792c54e2ba388dd114f637669d2dc85c690c443d5d3d16528"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 30",
+     "bytes": 3347,
+     "sha256": "1b0b4fdd5c357c85a2c67de1930b2f621cc3bc39b6e07915e2fb4f3cd6e98cf8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 31",
+     "bytes": 2281,
+     "sha256": "41c1c9b03f47d11a38c00abffd287f4540546fa22402b9e536bc4a873d22e6cc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 32",
+     "bytes": 2492,
+     "sha256": "b2e35f1d4800743c18bd0ed2f007b113be9af7e3c4bddd6a396d4808c69341bd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 33",
+     "bytes": 2486,
+     "sha256": "d7952490386601acf5fb83dfbbdb2f6311b55b9265a03dc6982503cf9061da83"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 34",
+     "bytes": 2444,
+     "sha256": "fb1187bead354da2c1932b7eb59ab971cbece4ef6c49bf031edab4eb9ba60877"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 35",
+     "bytes": 4131,
+     "sha256": "eef24d236e15caadc66354098e6def991fdf58abcc556c0dbc16124bcf75473e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 36",
+     "bytes": 2100,
+     "sha256": "76538e6915b42ac32c945362ac8d60309a554f70ca7a1e8ccd9825c41a1d887a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 37",
+     "bytes": 3097,
+     "sha256": "bd6a5e86e7e63e4dede61d6e9396e75c582522835e55dafd64b7c6151c2b4ac5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 38",
+     "bytes": 3618,
+     "sha256": "28864f5e0930d3345c185e03997b995a53f4edf4de67cbe9e5db352993f935ff"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 39",
+     "bytes": 1886,
+     "sha256": "4034c247558ca10de4c0bad98d7a66a1bebcbd63b159250f6e416afbc4ae9ecd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book I/Chapter 40",
+     "bytes": 3748,
+     "sha256": "a40dfe54fa79addd1cb2fac3f5238c0e3e86468b9d9c140c967369f2471fd0d3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Preliminary Notes on the Second Book",
+     "bytes": 5252,
+     "sha256": "8e934c6d321c826dc0c66496aa1ec49d743f508d900fc54e7e1e7035af0065a2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 1",
+     "bytes": 2074,
+     "sha256": "d0e0d8b1e0b96e9818871f35ee5bda6788782f28aa1ae5e9ea9c0f138a94cb78"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 2",
+     "bytes": 2603,
+     "sha256": "bd7c452b99ddb0b4f6c426caa93bd63e1b742df27847a1e2cde1f2e17bf94cf5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 3",
+     "bytes": 2369,
+     "sha256": "bab97c16ab4270debdf9184ab81a8104097b13939734b6a74decc8e8f13e0416"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 4",
+     "bytes": 2658,
+     "sha256": "9d22eccc53c2d189b30b692e0b8c1594d3033e2a8583ef567f1049cae9e2595c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 5",
+     "bytes": 2253,
+     "sha256": "05f3abc4089307dd6b1414b886e964ff82a046dafe80dc4c43e88dbf4684c593"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 6",
+     "bytes": 3414,
+     "sha256": "a943ff961adb579dc77b9d9e26bedfdd9ae6a862ee2513d172244d0a3bec15e8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 7",
+     "bytes": 2855,
+     "sha256": "aabe5d6cfee91488b416563626e70606f54440bf1001488602fcf296850f3643"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 8",
+     "bytes": 3690,
+     "sha256": "9c5186a64f2ac8e15c9c5a4b6f7256dee050668db66442d954bab5290edda47d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 9",
+     "bytes": 4925,
+     "sha256": "7e39632a9ac720db6de5d5a53e1fdcce336f7b408a4edcef44bc3ce50a277cfb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 10",
+     "bytes": 1949,
+     "sha256": "658a5a709a73100b64093927f7ce51e5cf4835fc3594605b3c6478943084a9ab"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 11",
+     "bytes": 1605,
+     "sha256": "66137dca053577d3de2e6410b1550dc01550daac5dcc7c1cabfd8d1c3c2c369a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 12",
+     "bytes": 4132,
+     "sha256": "3e800680fb4da1a7728defc2f6e3d584ead4deb0fac031fe49784eb0f1aa4a34"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 13",
+     "bytes": 2243,
+     "sha256": "7747ef185a1ee9ae5f2ea7ef12874a02b71a20bdba78cff4d768b200ce16ca2a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 14",
+     "bytes": 3346,
+     "sha256": "38ceceba8b2754f6421a7e4578139c82032786bce161d8ea42c481689492cb70"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 15",
+     "bytes": 4740,
+     "sha256": "e7ba5c1a9c9273f48516ed1413f2ab1c1c6c4d34bb6854de68915496555a3326"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 16",
+     "bytes": 3046,
+     "sha256": "d42f5c95522d334c46fb8efee1fd1faf65ec741afce4a06efd70f857caec1000"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 17",
+     "bytes": 3340,
+     "sha256": "a28f1dd8f9b0b8be27f3f4d28546135db0c6371c34fae3dfec3c7f4fe93f1c3b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 18",
+     "bytes": 2198,
+     "sha256": "a075a8ec5e927a38a3f36580ce16ffd9ee72fd65100c38702bcea29958ed0b79"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 19",
+     "bytes": 2320,
+     "sha256": "f163c5439a580db2497061045a0b46dd64e833cfa118f067437f5f9aec263b38"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 20",
+     "bytes": 3627,
+     "sha256": "71bb627b976ad5b89b598687f0c638ce6520385f7263db2be0ab9c42a29a7604"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 21",
+     "bytes": 2653,
+     "sha256": "deef28dc2f7b82f92a26fbd97634664cdf942718c41761314075cb5540ec0093"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 22",
+     "bytes": 3345,
+     "sha256": "773f5b5327d105a9e1f4e07f5b08d8853d8a8661582a7763212ec5303510acd4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 23",
+     "bytes": 2306,
+     "sha256": "0b502f304592611a41269eaf4ade7a99a73c09bba0f003c9225657f6703b9351"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 24",
+     "bytes": 4220,
+     "sha256": "efb3c9a2929ed66d604a1ae6b6b1140b243adcb39a1eb67264239cd082e1d1d7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 25",
+     "bytes": 2331,
+     "sha256": "854b44b42edff6ba81e4afd6ef73f04f6b08d3e32fae24bf27add234789697bc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 26",
+     "bytes": 3352,
+     "sha256": "d503a3d0497767457dc28e9e2a51c6551dbb921d535b593757eed94642957f02"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 27",
+     "bytes": 4350,
+     "sha256": "63dd4662437b7c55b83285f6c844101108873c9d5d1f52df56dd1a062b397fc4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 28",
+     "bytes": 3674,
+     "sha256": "81bf95709ec9391880544c353c77d1c1b783ac660ff952fdcaac3b998a688acd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 29",
+     "bytes": 3314,
+     "sha256": "061a940fd15dbbdd95f1d91cb361bbf8f90ed2dc9d5e78d4ef83c60cefa6c520"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 30",
+     "bytes": 2739,
+     "sha256": "7457f66f381a37ce206fa502f71f54a9dc6a2a042aced452dda96a675a15dae4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 31",
+     "bytes": 3670,
+     "sha256": "993bf45b71b671d14b3eacac3fae71b23b0988711401e2764a91619f54c241b8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 32",
+     "bytes": 2289,
+     "sha256": "36ebc81cfa4b630998924adcac07ae21b57b7750077530c22eff715c54da7b3d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 33",
+     "bytes": 2607,
+     "sha256": "e708ba5eb7017f8de85ffc3853ec5b38f15282be42cb59f0677c27646ad9a350"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 34",
+     "bytes": 4027,
+     "sha256": "4044e2d25d3264ed397c40f362f4314aaa47be849d5310953fd537ab487a978a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 35",
+     "bytes": 2642,
+     "sha256": "a93ef1af20eef087ee0f31da702994979232407521998ad2eacd2003cde111e9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 36",
+     "bytes": 3812,
+     "sha256": "3fa87b43370f7083ca762612ed31534cd73eff004f165477e4f142db8264aa44"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 37",
+     "bytes": 1877,
+     "sha256": "6406b8aacaeffadc8a19876b7d4decf99018b77622e922f335805f70e7574d26"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 38",
+     "bytes": 3087,
+     "sha256": "2486b5a3969dccab9d54804beca8191a40ec92b6038de2bebc2bf2ba97c77444"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 39",
+     "bytes": 2052,
+     "sha256": "0b8139f194f37d0ecc3c6a7ec2c686f6eed0b12dadc86f6f0ceacfe8ad9be0e3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 40",
+     "bytes": 1821,
+     "sha256": "c8c6963440caf7e8bfe33e85256397403bf42c21a84cf457ecbf69ecfe22197b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 41",
+     "bytes": 2319,
+     "sha256": "a781f49ebf47adb8f72853866aeee04d3483287e9c62bebb5364515e37cf8295"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 42",
+     "bytes": 5264,
+     "sha256": "04bd7e93dccc01e2d72ea9a9575f26fcd3d407b0ecec2048aba0a175f27f5633"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 43",
+     "bytes": 2797,
+     "sha256": "2bf37d6a64afb26c47d5df9640158ff1c8c8772069207905abe2f098ce198063"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 44",
+     "bytes": 2623,
+     "sha256": "80233c36558075fb76bb1f2028ed13ea137f08471c6c51dee6537dae98b93d87"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 45",
+     "bytes": 2523,
+     "sha256": "d6c1af52721af742586a6bd58b10b89ffdacb6b825613326ae0f05c977864f5d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 46",
+     "bytes": 5861,
+     "sha256": "1def897871ba04ffb7a40a2b9f749175fa5d029b38d633d096924b0b39d17538"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 47",
+     "bytes": 2185,
+     "sha256": "a4f5d742328e330678f7dc01baea8999c178238954d6d5d6700ad75fba3cdd28"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 48",
+     "bytes": 3513,
+     "sha256": "3a94a876f5ac6c1a786976808525f5b0bdddcc89692ef4e3abf875595f79ac19"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 49",
+     "bytes": 2752,
+     "sha256": "c436ffba2deadd0d6574490fd6dcf196ee2b72aab6d7beb3c33e8060968c964b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 50",
+     "bytes": 4964,
+     "sha256": "f7f289d1021bb90c0283c1cb03cb3737b2451c6cecfd87adae79d4fec384eb54"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 51",
+     "bytes": 3303,
+     "sha256": "f81db629a83eb3333697b075742237d8708e7386f3652b6631d8f446fe4852f0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 52",
+     "bytes": 2479,
+     "sha256": "a48959d1d937ae6d5f1631ea98f848d485b536f71e6f0b1bfef7d6438aaa955e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 53",
+     "bytes": 4156,
+     "sha256": "2a8add763103589df19b76837f5e53e7da7d247962c592270be3b5784bd7eaa1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 54",
+     "bytes": 3424,
+     "sha256": "22e23d1173442b7cf41ece8b3788022148fb29478a0179969a3f9e2585916941"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 55",
+     "bytes": 3050,
+     "sha256": "301aa91d7cfe2232ab8ccca7ba097453d78ccfabe99fbd5566a68525e2711089"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 56",
+     "bytes": 4746,
+     "sha256": "0681ab822e89c5c1395046c9b8f2f3814abbf7c80c5a82a46d5b5b6ee909f85e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 57",
+     "bytes": 2797,
+     "sha256": "78e707c038f46ea4f350541a9b03815e28a6758033ce0a8c458e708827dcf0b0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 58",
+     "bytes": 2597,
+     "sha256": "958ec5e9b1045a6269141d083d4026ceffc11e259689a0322432c86db4c670c3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 59",
+     "bytes": 4899,
+     "sha256": "59f3626c187fb2c3e910ab6b34a4cb2c4eb0e64bc1de2604d9430d40d77cfd90"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On Marriage and Concupiscence/Book II/Chapter 60",
+     "bytes": 2551,
+     "sha256": "25d4cb0507d167c22ca2f2264f5bd6eb2176de9f56e30981f1641b49d190efc1"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.1",
+     "title": "Chapter 1",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.25",
+     "title": "Chapter 25",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.26",
+     "title": "Chapter 26",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.27",
+     "title": "Chapter 27",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.28",
+     "title": "Chapter 28",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.29",
+     "title": "Chapter 29",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.30",
+     "title": "Chapter 30",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.31",
+     "title": "Chapter 31",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.32",
+     "title": "Chapter 32",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.33",
+     "title": "Chapter 33",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.34",
+     "title": "Chapter 34",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.35",
+     "title": "Chapter 35",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.36",
+     "title": "Chapter 36",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.37",
+     "title": "Chapter 37",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.38",
+     "title": "Chapter 38",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.39",
+     "title": "Chapter 39",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.40",
+     "title": "Chapter 40",
+     "segments": 3
+    },
+    {
+     "file": "0041.json",
+     "ref": "2.p1",
+     "title": "Preliminary Notes on the Second Book",
+     "segments": 7
+    },
+    {
+     "file": "0042.json",
+     "ref": "2.1",
+     "title": "Chapter 1",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "2.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "2.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "2.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "2.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "2.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "2.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "2.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0050.json",
+     "ref": "2.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0051.json",
+     "ref": "2.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "2.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0053.json",
+     "ref": "2.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "2.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "2.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0056.json",
+     "ref": "2.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0057.json",
+     "ref": "2.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0058.json",
+     "ref": "2.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0059.json",
+     "ref": "2.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0060.json",
+     "ref": "2.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0061.json",
+     "ref": "2.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0062.json",
+     "ref": "2.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0063.json",
+     "ref": "2.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0064.json",
+     "ref": "2.23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0065.json",
+     "ref": "2.24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0066.json",
+     "ref": "2.25",
+     "title": "Chapter 25",
+     "segments": 2
+    },
+    {
+     "file": "0067.json",
+     "ref": "2.26",
+     "title": "Chapter 26",
+     "segments": 2
+    },
+    {
+     "file": "0068.json",
+     "ref": "2.27",
+     "title": "Chapter 27",
+     "segments": 2
+    },
+    {
+     "file": "0069.json",
+     "ref": "2.28",
+     "title": "Chapter 28",
+     "segments": 2
+    },
+    {
+     "file": "0070.json",
+     "ref": "2.29",
+     "title": "Chapter 29",
+     "segments": 2
+    },
+    {
+     "file": "0071.json",
+     "ref": "2.30",
+     "title": "Chapter 30",
+     "segments": 2
+    },
+    {
+     "file": "0072.json",
+     "ref": "2.31",
+     "title": "Chapter 31",
+     "segments": 2
+    },
+    {
+     "file": "0073.json",
+     "ref": "2.32",
+     "title": "Chapter 32",
+     "segments": 2
+    },
+    {
+     "file": "0074.json",
+     "ref": "2.33",
+     "title": "Chapter 33",
+     "segments": 2
+    },
+    {
+     "file": "0075.json",
+     "ref": "2.34",
+     "title": "Chapter 34",
+     "segments": 2
+    },
+    {
+     "file": "0076.json",
+     "ref": "2.35",
+     "title": "Chapter 35",
+     "segments": 2
+    },
+    {
+     "file": "0077.json",
+     "ref": "2.36",
+     "title": "Chapter 36",
+     "segments": 2
+    },
+    {
+     "file": "0078.json",
+     "ref": "2.37",
+     "title": "Chapter 37",
+     "segments": 2
+    },
+    {
+     "file": "0079.json",
+     "ref": "2.38",
+     "title": "Chapter 38",
+     "segments": 2
+    },
+    {
+     "file": "0080.json",
+     "ref": "2.39",
+     "title": "Chapter 39",
+     "segments": 2
+    },
+    {
+     "file": "0081.json",
+     "ref": "2.40",
+     "title": "Chapter 40",
+     "segments": 2
+    },
+    {
+     "file": "0082.json",
+     "ref": "2.41",
+     "title": "Chapter 41",
+     "segments": 2
+    },
+    {
+     "file": "0083.json",
+     "ref": "2.42",
+     "title": "Chapter 42",
+     "segments": 2
+    },
+    {
+     "file": "0084.json",
+     "ref": "2.43",
+     "title": "Chapter 43",
+     "segments": 2
+    },
+    {
+     "file": "0085.json",
+     "ref": "2.44",
+     "title": "Chapter 44",
+     "segments": 2
+    },
+    {
+     "file": "0086.json",
+     "ref": "2.45",
+     "title": "Chapter 45",
+     "segments": 2
+    },
+    {
+     "file": "0087.json",
+     "ref": "2.46",
+     "title": "Chapter 46",
+     "segments": 2
+    },
+    {
+     "file": "0088.json",
+     "ref": "2.47",
+     "title": "Chapter 47",
+     "segments": 2
+    },
+    {
+     "file": "0089.json",
+     "ref": "2.48",
+     "title": "Chapter 48",
+     "segments": 2
+    },
+    {
+     "file": "0090.json",
+     "ref": "2.49",
+     "title": "Chapter 49",
+     "segments": 2
+    },
+    {
+     "file": "0091.json",
+     "ref": "2.50",
+     "title": "Chapter 50",
+     "segments": 2
+    },
+    {
+     "file": "0092.json",
+     "ref": "2.51",
+     "title": "Chapter 51",
+     "segments": 2
+    },
+    {
+     "file": "0093.json",
+     "ref": "2.52",
+     "title": "Chapter 52",
+     "segments": 2
+    },
+    {
+     "file": "0094.json",
+     "ref": "2.53",
+     "title": "Chapter 53",
+     "segments": 2
+    },
+    {
+     "file": "0095.json",
+     "ref": "2.54",
+     "title": "Chapter 54",
+     "segments": 2
+    },
+    {
+     "file": "0096.json",
+     "ref": "2.55",
+     "title": "Chapter 55",
+     "segments": 2
+    },
+    {
+     "file": "0097.json",
+     "ref": "2.56",
+     "title": "Chapter 56",
+     "segments": 2
+    },
+    {
+     "file": "0098.json",
+     "ref": "2.57",
+     "title": "Chapter 57",
+     "segments": 2
+    },
+    {
+     "file": "0099.json",
+     "ref": "2.58",
+     "title": "Chapter 58",
+     "segments": 2
+    },
+    {
+     "file": "0100.json",
+     "ref": "2.59",
+     "title": "Chapter 59",
+     "segments": 2
+    },
+    {
+     "file": "0101.json",
+     "ref": "2.60",
+     "title": "Chapter 60",
+     "segments": 2
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 2,
+  "shared": 100,
+  "onlyInOriginal": 5,
+  "onlyInEnglish": 1
+ }
+}

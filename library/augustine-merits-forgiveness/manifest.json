@@ -1,0 +1,1761 @@
+{
+ "workId": "augustine-merits-forgiveness",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "augustine-merits-forgiveness-csel-lat-ogl",
+   "role": "original",
+   "language": "latin",
+   "credit": "De peccatorum meritis et remissione et de baptismo parvulorum, in Sancti Aureli Augustini Opera (Corpus scriptorum ecclesiasticorum Latinorum 60), ed. Karl F. Urba; Joseph Zycha (Prague, Vienna and Leipzig: F. Tempsky; G. Freytag, 1913). Open Greek and Latin, csel-dev, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa057/stoa0040.stoa057.opp-lat1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 574520,
+   "sourceSha256": "9c58ef9f1dcbc1c61f710b8e92ccad674359376c244c794520f0fd7e3b0f4802",
+   "leftOut": {
+    "milestone": 88,
+    "lb": 3692,
+    "note": 324,
+    "pb": 149
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 34820,
+    "garbledPerThousand": 0.1,
+    "joinedPerThousand": 0.1,
+    "numbersPerThousand": 0.2
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 71
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 60
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 24
+    },
+    {
+     "file": "0004.json",
+     "ref": "retractationes",
+     "title": "AVGVSTINI RETRACTATIONVM LIB. II CAP. LIX (XXXIII)",
+     "segments": 5
+    }
+   ]
+  },
+  {
+   "editionId": "augustine-merits-forgiveness-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "On the Merits and Forgiveness of Sins, and on the Baptism of Infants, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. V: Saint Augustin (ed. Philip Schaff; New York, Christian Literature Co.), trans. as printed in NPNF I vol. V (the Wikisource copy credits Philip Schaff et al.) (New York: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_V/On_the_Merits_and_Forgiveness_of_Sins,_and_on_the_Baptism_of_Infants",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 486498,
+   "sourceSha256": "d1ebca94457a921afb1a9a973bc470f04056118c614eac27652be656956d6f3b",
+   "leftOut": {
+    "note": 500
+   },
+   "restorations": [
+    {
+     "kind": "replace",
+     "at": "1.1.2",
+     "words": 1,
+     "source": "https://archive.org/details/selectlibraryofn05auguuoft"
+    }
+   ],
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 1",
+     "bytes": 3353,
+     "sha256": "74647d1459fb28247a3fde6acea350d8a3c54eb9aa2220f337720ee1f196f716"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 2",
+     "bytes": 3167,
+     "sha256": "afd398e6ea77ff6cbd356c306821c49454f5196889322f633cfea1af2efb3728"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 3",
+     "bytes": 3100,
+     "sha256": "6b60af4e1ec0b33be9b28ee21190bfe1f0c58f125c1258781fdcad0b386a5020"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 4",
+     "bytes": 2185,
+     "sha256": "30f370a5e78239f33ec54705d622d321b4229a30ca33ceaef86d127dd8d60550"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 5",
+     "bytes": 2642,
+     "sha256": "66a0024a94ed80cdf32cc748c4b6abefe175e8fba66598e51b49f3e13ea5518c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 6",
+     "bytes": 4506,
+     "sha256": "ece7df1ba14cc2a5206847fbf4aa68f1af5a6c2647b8ebbbe15ddcb378e4cb9e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 7",
+     "bytes": 3362,
+     "sha256": "cf3c427564e11bd7915a17133274993d85b18037f764274a7ba8ffa8c5acf1e4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 8",
+     "bytes": 2431,
+     "sha256": "11ea8ab02288f9ede52494c01b5f2a3041f06ee81756ed3a98d48f294ba11c3a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 9",
+     "bytes": 2831,
+     "sha256": "1cba14d1698d325c96ee0c1f4852d3498789142b63e94110386355c769f85283"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 10",
+     "bytes": 3432,
+     "sha256": "9aa26546e0820d68133ab01069616777f17aa819ae65eba0df61714f7925c70a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 11",
+     "bytes": 3599,
+     "sha256": "1a4d02558eef037e2767a6d00ff865d0cfd799a56848491be33a58efaa5e4755"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 12",
+     "bytes": 2186,
+     "sha256": "2de59b6763a85080d9220422c020bc8365e4b9a7ff2f6aafee699bd2877eeb5b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 13",
+     "bytes": 3801,
+     "sha256": "1e3363e81128b1b5ea6cda13788ce0c073cb965edb7682d6a45d5e3482d1595e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 14",
+     "bytes": 1718,
+     "sha256": "6f9059aff14d2edfd1de780d69b3b3b3cb1c50f1c440c34816b92bd4fa7f0153"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 15",
+     "bytes": 3720,
+     "sha256": "1228b92aa4e40a0b5484dbc775f3d2cdb7ae63e0f5b6f20c6bb2908deca14dda"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 16",
+     "bytes": 1696,
+     "sha256": "ab5b80d16b822d02479e661fa9037214b637434c7a5c4fc8bce740c77e4a2d22"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 17",
+     "bytes": 3702,
+     "sha256": "4f3f037bbc40ec370529ae15c31a7dcdc8ffbbc9df93e54c22c6d491e0adcc1b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 18",
+     "bytes": 2986,
+     "sha256": "6ee3bc9fc64b0523755f92eab413fee0fd5e31b8ff1816e37ee61bc302e6ffc4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 19",
+     "bytes": 4315,
+     "sha256": "5c87e09ede4c04ee030574c3fd355a0476862078a06e599e00f64a4f9d81ad64"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 20",
+     "bytes": 2454,
+     "sha256": "bd0f091d48de2e5d838271945f52eac15a4399c77a126d4217287e60718e2c80"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 21",
+     "bytes": 3826,
+     "sha256": "88a1452803e4ead8f27cf12099d9bac028f68d9426a9361d8406b9baa5cc9c4c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 22",
+     "bytes": 2639,
+     "sha256": "81dbdfb63f5917fa431827dcc6cffa7b3e0d396668a3875bcd85eca112e98885"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 23",
+     "bytes": 3806,
+     "sha256": "0da25d4f16106c2bf66934f9ed506b4276684a5aadb7be7cb063d4ecdd164fcc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 24",
+     "bytes": 3165,
+     "sha256": "07d37cf04e9ae0b3eb75d88c4b49db81540726981d8ca3a2590ddf02cc6cdd79"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 25",
+     "bytes": 2596,
+     "sha256": "4f66ce302577b8b6b7eadbea87e7ca04211e93cdffc125e99527ff77a79f6d67"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 26",
+     "bytes": 2691,
+     "sha256": "36cdad74c39d0b3f0f211847b67b639badb23e85cb37bf8921ca0921437eacff"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 27",
+     "bytes": 2831,
+     "sha256": "2fedcbecd1351a7cc6e64081a19eb1a1f546f73ed14ed4835b16c361d172fbe0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 28",
+     "bytes": 2415,
+     "sha256": "af2a31e4b0721be344d15b1dbc104292984d4d490793dd377b99ac5fc263cb54"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 29",
+     "bytes": 3156,
+     "sha256": "11216dfcf702f638724bcb5bd14c73da36204a24248698035be5677d050957c1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 30",
+     "bytes": 3341,
+     "sha256": "880e6f0255440679faebf0a73602be485f0a5a3bc796ac4e0e481202cdb89760"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 31",
+     "bytes": 4787,
+     "sha256": "5a227f8b3babb3a409fab54774f39fee242f01bf86aaa52b0be153b8042d5c7e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 32",
+     "bytes": 4527,
+     "sha256": "1180f5e173917128539f9f6c913422dde83fbbe419a457c7b2b94f7603d20b42"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 33",
+     "bytes": 3028,
+     "sha256": "d49cc9ad500cc6665eb92b820856ea8bd0e139e70680759e90e33f52529638c2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 34",
+     "bytes": 3885,
+     "sha256": "2fd32bd8d920f253de4f51d90af4da92f2ddc48b307b9b90bd090824f22bf7c8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 35",
+     "bytes": 1877,
+     "sha256": "dcb9f71a2b58fd8a35e199478acec22a0a4cc581b25ab007e78588484bc4b12b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 36",
+     "bytes": 2416,
+     "sha256": "2869d640409fa8d5ee2b8be9bcf9748a4a445c99e3993d8abc957b9fed983dc4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 37",
+     "bytes": 2113,
+     "sha256": "fb59cb7e4ced1ab785bd2809e7860dee28027d51d6cbd9e7d0133dfdda1cca61"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 38",
+     "bytes": 4421,
+     "sha256": "30cf87daf8cb8e7ebd70c982839320f6e8091dabaa16e755198054b1cd41b74c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 39",
+     "bytes": 3596,
+     "sha256": "278acb26e94e2a39a6c5dcf1f849035b2bf66f2792e4df85d521330566996c8c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 40",
+     "bytes": 3225,
+     "sha256": "f349b4e3a3313b3f60dd9d7389434ee2eff0ca3166e46e91168d1c922cffbdf2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 41",
+     "bytes": 2766,
+     "sha256": "dced34dc9a574246f7761c483bb38d978acdf1f72d580c9e7d2eec758c3ccc18"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 42",
+     "bytes": 2423,
+     "sha256": "793fb8441dfeeb9ad8581ce95cd9ca9c201fee3c3b620ece581856f6dad70535"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 43",
+     "bytes": 4999,
+     "sha256": "8e434e289ae73741db325d7533628454acd3ce4c47378c904cf62aa355bc05a4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 44",
+     "bytes": 3019,
+     "sha256": "26c6d0b8287049fafac0a72515956b522e8c82791a0e92a6f3b861b3012e5d9b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 45",
+     "bytes": 1887,
+     "sha256": "dbaa0ef3544c7d5c6fb1827097fe667134f682d23b793e3acc4e630d29da0e09"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 46",
+     "bytes": 3440,
+     "sha256": "3368e30324f61e6cf2a862ef9ec94c6ad78b9f643b7b51635641af1ded5bffa5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 47",
+     "bytes": 2274,
+     "sha256": "29ba662e1a150502074004847bd370ce2c655d6a1426cc0d159736e13013b62b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 48",
+     "bytes": 2217,
+     "sha256": "eb95f8fe13ca88eeec1ce475ee3090e5c3857b9745003ce5ca95b2a8ac98082d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 49",
+     "bytes": 1831,
+     "sha256": "2fda2d0953acf4850c43b59e46450fbeba777cde02692287d98f675e9ed172bf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 50",
+     "bytes": 5269,
+     "sha256": "75fb76bac7a198f042f0c8a29b5c6dc7c1389264aa65e0383fd0e476009d85f4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 51",
+     "bytes": 1341,
+     "sha256": "f031991652625c52338f290cb96967e710164ad795c6eb2c8f3acc5fc960dbca"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 52",
+     "bytes": 2456,
+     "sha256": "349c832c97fa1f4efac70a8339202bb5a7a6022a39b3a1d85f2b57edfa91ae20"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 53",
+     "bytes": 2297,
+     "sha256": "3a4e89488e7c7b1334d280a05919e25dd9fe743a6970659eb6f014ebe74eafd5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 54",
+     "bytes": 6290,
+     "sha256": "e01646b42c21b6ed3e9db908543e6fd74f79082396b46134bd80c09f81f7271a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 55",
+     "bytes": 5109,
+     "sha256": "27db30ac4ad23e8d29862e03588e9683e23786b3f92b1561b3a87581fd845ae7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 56",
+     "bytes": 2105,
+     "sha256": "78b4a8ffd954eda11ad8a826e09f3a30d757db44bbbd47c892ce379a8ab310fa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 57",
+     "bytes": 3993,
+     "sha256": "7cf1f1d85b2ad952772a2e4cfb7c21261ae4baff3411c53ef69ee607b94f64c7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 58",
+     "bytes": 3411,
+     "sha256": "4e672b89e38a9fedc56ed1c8e8247b14b8336d3fa37c6ff2223c3fe757c437d7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 59",
+     "bytes": 3712,
+     "sha256": "126f4d59a2c9f205bea7af396d43fb18f854d16f912defece11aa5b4e4757ec3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 60",
+     "bytes": 5357,
+     "sha256": "94880f0cf7ddab9bc751201a813cf5cedac9abc37ba4bb43fb964e6dd1704447"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 61",
+     "bytes": 3131,
+     "sha256": "6f713123bf15f1714060b36eccc8b549d6ba8a5cc5636f6129c97b164ed0019e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 62",
+     "bytes": 3725,
+     "sha256": "859d2fea40654ea4e8d0779d48ef8eb98e2aa47a052f12a1c026b8ab24871c04"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 63",
+     "bytes": 3005,
+     "sha256": "bb11c2d784c10cf301ea8600e20875f729abed8708b18b4ac697062b07cf392a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 64",
+     "bytes": 2803,
+     "sha256": "b20aeabb586a8d9d88e265a043446a79ae314f2f9fb2b649f59f31333159605f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 65",
+     "bytes": 1994,
+     "sha256": "6eab296336f8f2d2f8bbacee14356370ad52ff2d3651c38507dad1d391c49030"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 66",
+     "bytes": 4097,
+     "sha256": "489073d42f26ee99abf8da8ac9e52436fb814747234f4dedd2d603849d513308"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 67",
+     "bytes": 3945,
+     "sha256": "bf1cbe9a6fc582498e60dcfc96005f8661961f3b562d864e0413ed2d39dde3f7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 68",
+     "bytes": 3491,
+     "sha256": "9ed6c8dfa700537593130e3ebb1a8ea8f9a58d02ead54451ff09dc21f5fcd829"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 69",
+     "bytes": 2331,
+     "sha256": "1be9a76af9166e714701ef99d1f14bb034a05f39472763bc2774714daaba643f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book I/Chapter 70",
+     "bytes": 3770,
+     "sha256": "f83a6af33886e42b9714f41034aa960ad3ce07421f10de289613d508dfe0bf9b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 1",
+     "bytes": 2152,
+     "sha256": "fe882aeadec08589adbef4542e27ee27000c460ad9428af899a10931668a9920"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 2",
+     "bytes": 2274,
+     "sha256": "1df1b4a065a12cc7d18461ddfdd69455707eec2251394f33fdd38bfa12393155"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 3",
+     "bytes": 2610,
+     "sha256": "f4bcc067cd10782fe8fcad80b28a9729c06029fc6593775b932dc7fd87171d56"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 4",
+     "bytes": 4691,
+     "sha256": "b023b7f5cd378fc6d824a28e599cc12f30b8757f779905e2b7df87f5154cc77e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 5",
+     "bytes": 3398,
+     "sha256": "68dd88a1c28bcd3977bac96de7e1bede364bf86fb665225b234327d489994587"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 6",
+     "bytes": 3053,
+     "sha256": "a9a3efa5c925bcffe6bfdb25d177d5b1251fbb9399039f22d1d89003c01fdedb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 7",
+     "bytes": 4050,
+     "sha256": "4287328e6d33908d13122b130a2845e417ce1923537ee84e422ab75bd14c57f9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 8",
+     "bytes": 2838,
+     "sha256": "93348bbbdf6bfc0e31be006b538e80f74154d218c6d89994b9f300608c55266c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 9",
+     "bytes": 4890,
+     "sha256": "55fdff81538ce433aa6159ffd452ce91c3fb60768b9a2a8b442210171a8f3938"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 10",
+     "bytes": 3344,
+     "sha256": "1b40ce1666f89ee128116f6880c039533c7362b46b28d4d4c642c2eeaf7a9749"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 11",
+     "bytes": 3287,
+     "sha256": "8e3393195243b2806b8e1dee9c9a810a908060f3ef5768005e9a4bb386be58af"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 12",
+     "bytes": 2870,
+     "sha256": "1b1a95ec5178af360b16faa828eeb1bc5d8490be5881b7600b33568d6a7ec977"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 13",
+     "bytes": 2951,
+     "sha256": "b08c507722a284f63ece24d23a47d424a2be92af4f901302cd4c3f2da92c9cef"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 14",
+     "bytes": 4314,
+     "sha256": "fca43eef806d75de1819f394a576b0fe5dcf0edc99ba9a315a328ea586f25bce"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 15",
+     "bytes": 3120,
+     "sha256": "4b6b1b166a88339de861b2518a94ead2b83cd50702b840ad2aa1d5ef048c9adc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 16",
+     "bytes": 3781,
+     "sha256": "4e4456ac6a86dc297616c4a3b039afcb010d18be520ea51eee4803a76541c638"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 17",
+     "bytes": 3867,
+     "sha256": "d2c65fd61fd617ade92ccd2a1bdc8e171e0a2e3d5e2e0c95bc5920d368e99861"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 18",
+     "bytes": 1652,
+     "sha256": "35536ac04e437f556070b396f3a91b8519212b20ca92e1c85cdcad5651322712"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 19",
+     "bytes": 2440,
+     "sha256": "b9f664e334d841e9a6feb1f00be035cff6083404470278ac8dd1686e5ecee9cb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 20",
+     "bytes": 5522,
+     "sha256": "38183a4d32c33a8acf3e8ac49d6b0d19a1c3a4eb6219afba54367b9bd7431327"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 21",
+     "bytes": 1964,
+     "sha256": "8d787e2c02dfd2441632d625e96a86035b2e9d43f7e4854ff1395f85cd02356d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 22",
+     "bytes": 4535,
+     "sha256": "8ec1e6248169c696ba5e9f371308c3513a507704d021028f4efd8492ea4988ad"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 23",
+     "bytes": 2542,
+     "sha256": "45e2a592d2f0bbf6c48b62cd3a24cb7df34e67bbdc219ac825455358cdc32359"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 24",
+     "bytes": 4210,
+     "sha256": "a7b0bbff5e9d0365dca649a28f1f7f3f147c5a967eb113b69e9acae6fb72c073"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 25",
+     "bytes": 3218,
+     "sha256": "8a186486c34bfdd8959cb2ec7b6e88994a75da748d5e8dfe3c98c901ada27509"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 26",
+     "bytes": 3180,
+     "sha256": "fbe1c363866e6f254887b5017d31f0ea585af910127e6da7130a7f19b95a6123"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 27",
+     "bytes": 3285,
+     "sha256": "02a1294e038159813fd25c1e730f89883b83eb0db661c0b2f90dc68e98ab9d22"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 28",
+     "bytes": 1853,
+     "sha256": "637900d0da95aebd9295d8d6ad35baaea4572b7430e5c6bcb2f356ac1fe6a4ad"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 29",
+     "bytes": 1903,
+     "sha256": "aac406ba487f701f9869fb3e899244360b94677717c176777d91b942a622fedd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 30",
+     "bytes": 2958,
+     "sha256": "8870711d761f650fa5608aa0e9778597d3a7b6542c1b02306aa0007141b9d272"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 31",
+     "bytes": 2390,
+     "sha256": "4312193a11792b3059c4ab13b0990a6750e7d2729e33485d42af05ec2387ddd7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 32",
+     "bytes": 2065,
+     "sha256": "0bc7bd9496190f2b6f9f9d4fa5d25531c1696492f309d048e98b825c97323255"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 33",
+     "bytes": 4264,
+     "sha256": "e405270a5f1955f3f9505bc003aa9954f72a205d9b02791eb59392f348b39fa0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 34",
+     "bytes": 3771,
+     "sha256": "0a7220f63c056ef26877d614a1b50d54c2c81d6d8de9114b71e7de0fdc72c479"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 35",
+     "bytes": 4339,
+     "sha256": "0956cddcabf71d7be3fd79b85cc79b55e11caa3f3d1c2fa0207f41157537ef2e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 36",
+     "bytes": 4103,
+     "sha256": "660e829e282ca69feb313672a38287fd821e173c7286ae98d3fd1160e959708a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 37",
+     "bytes": 2890,
+     "sha256": "ee5169610b4031f7888f9c3be5511b7d0274207941e99b5c76a4b2eef317fb65"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 38",
+     "bytes": 4551,
+     "sha256": "5828d54c7a01b461e7c0d3f435b5d6d7c645958d4e3c713885c550eb4845caa4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 39",
+     "bytes": 2069,
+     "sha256": "5f41ccca9d417412f3978c20bb8b82377c98397040b40effb78fcc1970317021"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 40",
+     "bytes": 2127,
+     "sha256": "de56be54118976b8c25fc4a252e124de4f91c78d5729a2e3850a20036e7373f2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 41",
+     "bytes": 3643,
+     "sha256": "a6a3d54e02e399eeb58fc1fbcd5fa456fa4823c57f279d4131b81475b1fe6267"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 42",
+     "bytes": 4210,
+     "sha256": "2f994d09708d1850fb730728d9fe45fb217daca8923897c6327e5937402da605"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 43",
+     "bytes": 2775,
+     "sha256": "84c8fdb08ed1608001aa54071d69b99402cdcd786dc238ae4dd563c106b95277"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 44",
+     "bytes": 2577,
+     "sha256": "f0fcb7497588cc0e050012061c6473ce999c95858da41ec9c5b7a5f64cbc4d15"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 45",
+     "bytes": 4155,
+     "sha256": "c0d564a7c3da635bc6c0b57fb04fe1c9a9551582762514619338db56453f3464"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 46",
+     "bytes": 2282,
+     "sha256": "eb7b303516d5a59ac2828ce473c82d146ac37c8b80edb24518a9c7f482c17fc8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 47",
+     "bytes": 2795,
+     "sha256": "27bb0bce98479ffbd77d08148be22cbc252aa8e6c28d5245bbdba46634462a9b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 48",
+     "bytes": 3740,
+     "sha256": "b1ce64fc248a2825afee1e5785743993773506394f8527327fe2d14e04586752"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 49",
+     "bytes": 2811,
+     "sha256": "ac51dfb1ef7c3b5ec42f2be97e2839c17adecdbfc7fce1937c483ecc26718c4f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 50",
+     "bytes": 4216,
+     "sha256": "4ae9958e8b1bcdedf074c165a22a4585488f9ebe444bc32d5f88460d7c6a2784"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 51",
+     "bytes": 2602,
+     "sha256": "b1ae309aa318a12803da3bab1df78be4f2209d62cb17471e0b8472751b3deab6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 52",
+     "bytes": 3316,
+     "sha256": "1f9dd1943a9cadbeac21dce945f2b1356a2360eb554756d7e90f1d2f28da129e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 53",
+     "bytes": 2668,
+     "sha256": "839c64ab332691ba43c69d1e345a875bc23c7134bbb313a8da228520b187c6fa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 54",
+     "bytes": 2913,
+     "sha256": "7ec0c56eca36cb740ac44336b76e01512958c904c68e598917278daabc53610e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 55",
+     "bytes": 2394,
+     "sha256": "057deb912def0eba289846e57ede89a54524686427f4754bed4ef9d4f53bafb5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 56",
+     "bytes": 2240,
+     "sha256": "3ec68beeacfe39b68bacde12892f6ad5540bd25de7974788a0af98a108dfd0d5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 57",
+     "bytes": 3340,
+     "sha256": "b491ad64819e778eedf39a7dbe67cc575a8bf4c0df0dbdeab48a1fcfa63252ab"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 58",
+     "bytes": 1986,
+     "sha256": "97a8dcb671f39554aea8ca0d9f210f1cb6417eb8f8b32c234931a7169571aeb9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book II/Chapter 59",
+     "bytes": 3966,
+     "sha256": "257e1847d01999aef47f328e887ca53642a3bf36b34a5a04750acd3108cad7ea"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book III/Chapter 1",
+     "bytes": 3383,
+     "sha256": "4b951fec7ea8b9211e77efc1f21f8adc62ab1dc1fe02c4177fcf83fa8703efb1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book III/Chapter 2",
+     "bytes": 3770,
+     "sha256": "b29ea5291cce9afe8f0b60c7ca800154028820aa7ae6b1f9670c7fb46dd95232"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book III/Chapter 3",
+     "bytes": 2396,
+     "sha256": "ae533a5eef2e7acc73036bdfb371155b1403e3da98b70f8377d2a155af919606"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book III/Chapter 4",
+     "bytes": 1833,
+     "sha256": "492183fc45be57012eca3f7f20e158427dd0e486518c58c8e603b2c71b339e83"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book III/Chapter 5",
+     "bytes": 2633,
+     "sha256": "f769bf450deb63f29da9b119ab95192fc75f933053a1bd17b8eca839d6bf6a29"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book III/Chapter 6",
+     "bytes": 3346,
+     "sha256": "1e5d46ee0c7c5087150666cec2de5e1cd1e16d07a298d5f62889456d839595ec"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book III/Chapter 7",
+     "bytes": 2410,
+     "sha256": "251cd1f9646f4716e53ac3d488d64e3b271d19c66125c926bbc5df5b719ffec7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book III/Chapter 8",
+     "bytes": 2937,
+     "sha256": "aa782e39ece306883ec6473ba6ff4b748a41a7ae0816211cccb31164fa79b264"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book III/Chapter 9",
+     "bytes": 2615,
+     "sha256": "af447e9b325db65acfda478e041d3e8843ce97c6d83d36907afc65539c968926"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book III/Chapter 10",
+     "bytes": 4673,
+     "sha256": "4ec7d0d1a0db948096c6961902d869651daa9bb790427b13e5629f56cc5934ba"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book III/Chapter 11",
+     "bytes": 3128,
+     "sha256": "8fd84fe33c504c23456deabb028f467636839af593965d60615f915f264398d9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book III/Chapter 12",
+     "bytes": 4445,
+     "sha256": "3e7400e0a070c6739a64b32a60ff52048e3d83f559b43eb58f52d39a28db97a0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book III/Chapter 13",
+     "bytes": 3950,
+     "sha256": "c1ec3a5d0b54212a9b6957425caa3a335520eb9f699ddcc46f5460e47276262d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book III/Chapter 14",
+     "bytes": 2641,
+     "sha256": "39e486732819b48da858f6e1f9e640710d1e3ab59f432d785077c58e3ff380ef"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book III/Chapter 15",
+     "bytes": 1555,
+     "sha256": "1451557ab3b9318177e4e9509f0e770ef6379ce9f815260d744e650c47dd2643"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book III/Chapter 16",
+     "bytes": 3133,
+     "sha256": "5d2126f740591dbb9d2cf4f5791f8cc3e05a61496801768985a482b84f31424b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book III/Chapter 17",
+     "bytes": 5064,
+     "sha256": "2d3a0eb9331db83703dbd2af7eb6d23245993507fbfc21bd32ea92e3360a4e95"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book III/Chapter 18",
+     "bytes": 3020,
+     "sha256": "fb737678f54860ca59709285c7957e7c3d073a6dfa962049571873950c2e730c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book III/Chapter 19",
+     "bytes": 2698,
+     "sha256": "38774ddf2d166292c3f968ccda6e09e747d932b801ead3bc93fc873277e7810d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book III/Chapter 20",
+     "bytes": 6057,
+     "sha256": "014a6a7f970e93839cc1e2b7b40d64866cf6506c94c8d8e52bf7c2c7e7cec1c5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book III/Chapter 21",
+     "bytes": 4231,
+     "sha256": "11c84d8339dbf9e7eb368345d937d8bc85cd292ea6fc4cdb46dd7e1608120086"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book III/Chapter 22",
+     "bytes": 1701,
+     "sha256": "2901870c3c729bc5af1ce52248b92f9a24dfee49f4e85ea263ffb487d06af88f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Merits and Forgiveness of Sins, and on the Baptism of Infants/Book III/Chapter 23",
+     "bytes": 2914,
+     "sha256": "5d9bfec23cd49b93323c941d840a49840fe2a81d09bac5ca2e4abfc79d44e3ee"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.1",
+     "title": "Chapter 1",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.25",
+     "title": "Chapter 25",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.26",
+     "title": "Chapter 26",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.27",
+     "title": "Chapter 27",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.28",
+     "title": "Chapter 28",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.29",
+     "title": "Chapter 29",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.30",
+     "title": "Chapter 30",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.31",
+     "title": "Chapter 31",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.32",
+     "title": "Chapter 32",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.33",
+     "title": "Chapter 33",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.34",
+     "title": "Chapter 34",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.35",
+     "title": "Chapter 35",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.36",
+     "title": "Chapter 36",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.37",
+     "title": "Chapter 37",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.38",
+     "title": "Chapter 38",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.39",
+     "title": "Chapter 39",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.40",
+     "title": "Chapter 40",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.41",
+     "title": "Chapter 41",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.42",
+     "title": "Chapter 42",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.43",
+     "title": "Chapter 43",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "1.44",
+     "title": "Chapter 44",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "1.45",
+     "title": "Chapter 45",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "1.46",
+     "title": "Chapter 46",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "1.47",
+     "title": "Chapter 47",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "1.48",
+     "title": "Chapter 48",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "1.49",
+     "title": "Chapter 49",
+     "segments": 2
+    },
+    {
+     "file": "0050.json",
+     "ref": "1.50",
+     "title": "Chapter 50",
+     "segments": 2
+    },
+    {
+     "file": "0051.json",
+     "ref": "1.51",
+     "title": "Chapter 51",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "1.52",
+     "title": "Chapter 52",
+     "segments": 2
+    },
+    {
+     "file": "0053.json",
+     "ref": "1.53",
+     "title": "Chapter 53",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "1.54",
+     "title": "Chapter 54",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "1.55",
+     "title": "Chapter 55",
+     "segments": 2
+    },
+    {
+     "file": "0056.json",
+     "ref": "1.56",
+     "title": "Chapter 56",
+     "segments": 2
+    },
+    {
+     "file": "0057.json",
+     "ref": "1.57",
+     "title": "Chapter 57",
+     "segments": 2
+    },
+    {
+     "file": "0058.json",
+     "ref": "1.58",
+     "title": "Chapter 58",
+     "segments": 2
+    },
+    {
+     "file": "0059.json",
+     "ref": "1.59",
+     "title": "Chapter 59",
+     "segments": 2
+    },
+    {
+     "file": "0060.json",
+     "ref": "1.60",
+     "title": "Chapter 60",
+     "segments": 2
+    },
+    {
+     "file": "0061.json",
+     "ref": "1.61",
+     "title": "Chapter 61",
+     "segments": 2
+    },
+    {
+     "file": "0062.json",
+     "ref": "1.62",
+     "title": "Chapter 62",
+     "segments": 2
+    },
+    {
+     "file": "0063.json",
+     "ref": "1.63",
+     "title": "Chapter 63",
+     "segments": 2
+    },
+    {
+     "file": "0064.json",
+     "ref": "1.64",
+     "title": "Chapter 64",
+     "segments": 2
+    },
+    {
+     "file": "0065.json",
+     "ref": "1.65",
+     "title": "Chapter 65",
+     "segments": 2
+    },
+    {
+     "file": "0066.json",
+     "ref": "1.66",
+     "title": "Chapter 66",
+     "segments": 2
+    },
+    {
+     "file": "0067.json",
+     "ref": "1.67",
+     "title": "Chapter 67",
+     "segments": 2
+    },
+    {
+     "file": "0068.json",
+     "ref": "1.68",
+     "title": "Chapter 68",
+     "segments": 2
+    },
+    {
+     "file": "0069.json",
+     "ref": "1.69",
+     "title": "Chapter 69",
+     "segments": 2
+    },
+    {
+     "file": "0070.json",
+     "ref": "1.70",
+     "title": "Chapter 70",
+     "segments": 2
+    },
+    {
+     "file": "0071.json",
+     "ref": "2.1",
+     "title": "Chapter 1",
+     "segments": 2
+    },
+    {
+     "file": "0072.json",
+     "ref": "2.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0073.json",
+     "ref": "2.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0074.json",
+     "ref": "2.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0075.json",
+     "ref": "2.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0076.json",
+     "ref": "2.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0077.json",
+     "ref": "2.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0078.json",
+     "ref": "2.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0079.json",
+     "ref": "2.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0080.json",
+     "ref": "2.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0081.json",
+     "ref": "2.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0082.json",
+     "ref": "2.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0083.json",
+     "ref": "2.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0084.json",
+     "ref": "2.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0085.json",
+     "ref": "2.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0086.json",
+     "ref": "2.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0087.json",
+     "ref": "2.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0088.json",
+     "ref": "2.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0089.json",
+     "ref": "2.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0090.json",
+     "ref": "2.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0091.json",
+     "ref": "2.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0092.json",
+     "ref": "2.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0093.json",
+     "ref": "2.23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0094.json",
+     "ref": "2.24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0095.json",
+     "ref": "2.25",
+     "title": "Chapter 25",
+     "segments": 2
+    },
+    {
+     "file": "0096.json",
+     "ref": "2.26",
+     "title": "Chapter 26",
+     "segments": 2
+    },
+    {
+     "file": "0097.json",
+     "ref": "2.27",
+     "title": "Chapter 27",
+     "segments": 2
+    },
+    {
+     "file": "0098.json",
+     "ref": "2.28",
+     "title": "Chapter 28",
+     "segments": 2
+    },
+    {
+     "file": "0099.json",
+     "ref": "2.29",
+     "title": "Chapter 29",
+     "segments": 2
+    },
+    {
+     "file": "0100.json",
+     "ref": "2.30",
+     "title": "Chapter 30",
+     "segments": 2
+    },
+    {
+     "file": "0101.json",
+     "ref": "2.31",
+     "title": "Chapter 31",
+     "segments": 2
+    },
+    {
+     "file": "0102.json",
+     "ref": "2.32",
+     "title": "Chapter 32",
+     "segments": 2
+    },
+    {
+     "file": "0103.json",
+     "ref": "2.33",
+     "title": "Chapter 33",
+     "segments": 2
+    },
+    {
+     "file": "0104.json",
+     "ref": "2.34",
+     "title": "Chapter 34",
+     "segments": 2
+    },
+    {
+     "file": "0105.json",
+     "ref": "2.35",
+     "title": "Chapter 35",
+     "segments": 2
+    },
+    {
+     "file": "0106.json",
+     "ref": "2.36",
+     "title": "Chapter 36",
+     "segments": 2
+    },
+    {
+     "file": "0107.json",
+     "ref": "2.37",
+     "title": "Chapter 37",
+     "segments": 2
+    },
+    {
+     "file": "0108.json",
+     "ref": "2.38",
+     "title": "Chapter 38",
+     "segments": 2
+    },
+    {
+     "file": "0109.json",
+     "ref": "2.39",
+     "title": "Chapter 39",
+     "segments": 2
+    },
+    {
+     "file": "0110.json",
+     "ref": "2.40",
+     "title": "Chapter 40",
+     "segments": 2
+    },
+    {
+     "file": "0111.json",
+     "ref": "2.41",
+     "title": "Chapter 41",
+     "segments": 2
+    },
+    {
+     "file": "0112.json",
+     "ref": "2.42",
+     "title": "Chapter 42",
+     "segments": 2
+    },
+    {
+     "file": "0113.json",
+     "ref": "2.43",
+     "title": "Chapter 43",
+     "segments": 2
+    },
+    {
+     "file": "0114.json",
+     "ref": "2.44",
+     "title": "Chapter 44",
+     "segments": 2
+    },
+    {
+     "file": "0115.json",
+     "ref": "2.45",
+     "title": "Chapter 45",
+     "segments": 2
+    },
+    {
+     "file": "0116.json",
+     "ref": "2.46",
+     "title": "Chapter 46",
+     "segments": 2
+    },
+    {
+     "file": "0117.json",
+     "ref": "2.47",
+     "title": "Chapter 47",
+     "segments": 2
+    },
+    {
+     "file": "0118.json",
+     "ref": "2.48",
+     "title": "Chapter 48",
+     "segments": 2
+    },
+    {
+     "file": "0119.json",
+     "ref": "2.49",
+     "title": "Chapter 49",
+     "segments": 2
+    },
+    {
+     "file": "0120.json",
+     "ref": "2.50",
+     "title": "Chapter 50",
+     "segments": 2
+    },
+    {
+     "file": "0121.json",
+     "ref": "2.51",
+     "title": "Chapter 51",
+     "segments": 2
+    },
+    {
+     "file": "0122.json",
+     "ref": "2.52",
+     "title": "Chapter 52",
+     "segments": 2
+    },
+    {
+     "file": "0123.json",
+     "ref": "2.53",
+     "title": "Chapter 53",
+     "segments": 2
+    },
+    {
+     "file": "0124.json",
+     "ref": "2.54",
+     "title": "Chapter 54",
+     "segments": 2
+    },
+    {
+     "file": "0125.json",
+     "ref": "2.55",
+     "title": "Chapter 55",
+     "segments": 2
+    },
+    {
+     "file": "0126.json",
+     "ref": "2.56",
+     "title": "Chapter 56",
+     "segments": 2
+    },
+    {
+     "file": "0127.json",
+     "ref": "2.57",
+     "title": "Chapter 57",
+     "segments": 2
+    },
+    {
+     "file": "0128.json",
+     "ref": "2.58",
+     "title": "Chapter 58",
+     "segments": 2
+    },
+    {
+     "file": "0129.json",
+     "ref": "2.59",
+     "title": "Chapter 59",
+     "segments": 2
+    },
+    {
+     "file": "0130.json",
+     "ref": "3.1",
+     "title": "Chapter 1",
+     "segments": 2
+    },
+    {
+     "file": "0131.json",
+     "ref": "3.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0132.json",
+     "ref": "3.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0133.json",
+     "ref": "3.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0134.json",
+     "ref": "3.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0135.json",
+     "ref": "3.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0136.json",
+     "ref": "3.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0137.json",
+     "ref": "3.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0138.json",
+     "ref": "3.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0139.json",
+     "ref": "3.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0140.json",
+     "ref": "3.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0141.json",
+     "ref": "3.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0142.json",
+     "ref": "3.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0143.json",
+     "ref": "3.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0144.json",
+     "ref": "3.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0145.json",
+     "ref": "3.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0146.json",
+     "ref": "3.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0147.json",
+     "ref": "3.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0148.json",
+     "ref": "3.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0149.json",
+     "ref": "3.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0150.json",
+     "ref": "3.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0151.json",
+     "ref": "3.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0152.json",
+     "ref": "3.23",
+     "title": "Chapter 23",
+     "segments": 2
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 2,
+  "shared": 152,
+  "onlyInOriginal": 8,
+  "onlyInEnglish": 0
+ }
+}

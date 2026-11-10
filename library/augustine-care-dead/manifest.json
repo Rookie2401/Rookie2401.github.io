@@ -1,0 +1,448 @@
+{
+ "workId": "augustine-care-dead",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "augustine-care-dead-csel-lat-ogl",
+   "role": "original",
+   "language": "latin",
+   "credit": "De cura pro mortuis gerenda, in Sancti Aureli Augustini Opera (Corpus scriptorum ecclesiasticorum Latinorum 41), ed. Joseph Zycha (Prague, Vienna and Leipzig: F. Tempsky; G. Freytag, 1900). Open Greek and Latin, csel-dev, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa037c/stoa0040.stoa037c.opp-lat1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 158733,
+   "sourceSha256": "5b947efd55d71f0846905d9508bf0c9e1baa600d3d91de5b6c1b30b104d506e3",
+   "leftOut": {
+    "milestone": 18,
+    "lb": 789,
+    "note": 70,
+    "pb": 39
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 6738,
+    "garbledPerThousand": 0.3,
+    "joinedPerThousand": 0,
+    "numbersPerThousand": 1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "augustine-care-dead-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "On Care to Be Had for the Dead, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. III: Saint Augustin (ed. Philip Schaff; New York, Christian Literature Co.), trans. as printed in NPNF I vol. III (the Wikisource copy credits Philip Schaff et al.) (New York: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_III/Moral_Treatises_of_St._Augustin/On_Care_to_Be_Had_for_the_Dead",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 81644,
+   "sourceSha256": "16cf676f75f714d464d700c23a7886d9e282f189bf7e23d635621d3942a72514",
+   "leftOut": {
+    "note": 70
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On Care to Be Had for the Dead/Section 1",
+     "bytes": 2426,
+     "sha256": "0275df028ddcb82b679fc65b7232c23ed55cbeb3e78f5cc50521e6c32af50772"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On Care to Be Had for the Dead/Section 2",
+     "bytes": 2963,
+     "sha256": "beb06e75e14e9e19ce96e25c4599e3143d09ffdce4ff2f92f3cd3f5f061a93b1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On Care to Be Had for the Dead/Section 3",
+     "bytes": 3208,
+     "sha256": "358b2730bdd3c84a26d1aa96c208faad16460e2191d518cbb7bf96ce82cd2e69"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On Care to Be Had for the Dead/Section 4",
+     "bytes": 4566,
+     "sha256": "2fd9fec23be4af0a7f7edc61e6a35dcf8fd32162fc7db042f025ea9b7af8deb6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On Care to Be Had for the Dead/Section 5",
+     "bytes": 4331,
+     "sha256": "5f7b294096cfa0eb345bdac5ccc1767fcf6b019bb8366bc638795efd4a35c167"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On Care to Be Had for the Dead/Section 6",
+     "bytes": 3862,
+     "sha256": "002e662c0ff3b953fe6601efed1fcb285b6c4976c59df39e865af33699cd0c48"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On Care to Be Had for the Dead/Section 7",
+     "bytes": 3911,
+     "sha256": "4e01514d81ad3c848e2fbb35dff534314a07cb2f8f71b9aaa5c9d2cfd22fcf95"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On Care to Be Had for the Dead/Section 8",
+     "bytes": 2566,
+     "sha256": "18c5fc4ac48a9b11243553b61582bf90a69f603e51668a7f9aa55787c6980b22"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On Care to Be Had for the Dead/Section 9",
+     "bytes": 4771,
+     "sha256": "07860bef36fd4d61e1922898e4c0911ab9f5486fe01cd8c34d04ccbb00e14ef6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On Care to Be Had for the Dead/Section 10",
+     "bytes": 3440,
+     "sha256": "60a5437f2e6aa83eb7ed8ec84397d89eba3c904ad5db538cb38b87bf8816197d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On Care to Be Had for the Dead/Section 11",
+     "bytes": 2539,
+     "sha256": "b2898c4802cf2d0e17ede6b1aca723cc66ed1df66c6effef02a957cd87687b5c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On Care to Be Had for the Dead/Section 12",
+     "bytes": 4075,
+     "sha256": "5065990f85d5e6a0fb4a837644ac7d885a60804346e9bf97cb84cfa8f34a69d1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On Care to Be Had for the Dead/Section 13",
+     "bytes": 3496,
+     "sha256": "a0e07f31f03f6a670d568e2603eded7c3fcf0c8b12433a819fa77241943a5287"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On Care to Be Had for the Dead/Section 14",
+     "bytes": 1768,
+     "sha256": "8b85859e34f4cfdc207c89518502e9d4e2053920775cca78409582ad64b8d2e2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On Care to Be Had for the Dead/Section 15",
+     "bytes": 6014,
+     "sha256": "65794f18fdf586c2ee93593efa15fb303f0b38a5dfe7211cd855b5415980ce1f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On Care to Be Had for the Dead/Section 16",
+     "bytes": 4889,
+     "sha256": "865704527fccfe27eb8db7e4d491391badf04ec5d79afcb85443e96a6d904ba4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On Care to Be Had for the Dead/Section 17",
+     "bytes": 2669,
+     "sha256": "467fae08d185f08b2ef56232eae2648b79b193bcf982745849d1c8ddb7d44622"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On Care to Be Had for the Dead/Section 18",
+     "bytes": 3582,
+     "sha256": "57270811bcf914c5426aa8228a19fbc9d07ba2250ebc45ae22bdd518d6141a9d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On Care to Be Had for the Dead/Section 19",
+     "bytes": 2711,
+     "sha256": "dcb5a0c30cfa6c0cb887760820e0fb37ac29ce032486cd87c0a230b21749bc7e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On Care to Be Had for the Dead/Section 20",
+     "bytes": 4087,
+     "sha256": "e7b28640f68cc1957fdabc5490e66fd407cb3e4e486235edb8d90ef5d9ece41c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On Care to Be Had for the Dead/Section 21",
+     "bytes": 5447,
+     "sha256": "a18f17f47a046095e3dc13ebc09329383b0a53febabf6f74d9fe5255cc0fe529"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On Care to Be Had for the Dead/Section 22",
+     "bytes": 2637,
+     "sha256": "1623d8111c1d65e84dadd13b8b0f555c8b42a2a90f01cc50b20a255b53d7d4ef"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On Care to Be Had for the Dead/Section 23",
+     "bytes": 1686,
+     "sha256": "a79f8e2b20f0835c678334c248d7463889e16ee35f3f9db4986647a6fff6fb21"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Section 1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "Section 2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "Section 3",
+     "segments": 5
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "Section 4",
+     "segments": 4
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "Section 5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "Section 6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "Section 7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "Section 8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "Section 9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "Section 10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "Section 11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "Section 12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "Section 13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "Section 14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "Section 15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "Section 16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "Section 17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "Section 18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "Section 19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "Section 20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "Section 21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "Section 22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "Section 23",
+     "segments": 1
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 23,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 0
+ }
+}

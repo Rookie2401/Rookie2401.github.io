@@ -1,0 +1,754 @@
+{
+ "workId": "augustine-work-monks",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "augustine-work-monks-csel-lat-ogl",
+   "role": "original",
+   "language": "latin",
+   "credit": "De opere monachorum, in Sancti Aureli Augustini Opera (Corpus scriptorum ecclesiasticorum Latinorum 41), ed. Joseph Zycha (Prague, Vienna and Leipzig: F. Tempsky; G. Freytag, 1900). Open Greek and Latin, csel-dev, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa055/stoa0040.stoa055.opp-lat1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 234413,
+   "sourceSha256": "f9ba9aca977a0f29ef98a368b7e24b93ede019c217b432792d5199a8019a1bcc",
+   "leftOut": {
+    "milestone": 33,
+    "lb": 1510,
+    "note": 141,
+    "pb": 65
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 12537,
+    "garbledPerThousand": 0,
+    "joinedPerThousand": 0,
+    "numbersPerThousand": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "augustine-work-monks-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Of the Work of Monks, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. III: Saint Augustin (ed. Philip Schaff; New York, Christian Literature Co.), trans. as printed in NPNF I vol. III (the Wikisource copy credits Philip Schaff et al.) (New York: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_III/Moral_Treatises_of_St._Augustin/Of_the_Work_of_Monks",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 148320,
+   "sourceSha256": "a6f1999813389e297782785cc9f6b7480f3007f580e962986df414f3cf398ea0",
+   "leftOut": {
+    "note": 151
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 1",
+     "bytes": 1783,
+     "sha256": "df6a4473d56800c90154c100229cc6b7635f56fd8ea11f5d725c1faa59712329"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 2",
+     "bytes": 4921,
+     "sha256": "d4b422091e1c59c4f7cf6425620d64b5ebad1c81f93adb4edd56ad5b4ae6a947"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 3",
+     "bytes": 3001,
+     "sha256": "3e4d62b1118e0e1dcc6849c58de54dea8c5bb367f678c03a98b6096be5538fe0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 4",
+     "bytes": 4306,
+     "sha256": "f6358e94e54674d3b32952428d0ff8504b4e401f3cc61e7a276be0a484136b8a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 5",
+     "bytes": 3428,
+     "sha256": "49467a89d1adf7ea48431c2b4eceff996a624c08065b8aa0054cf0f4ee0f629a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 6",
+     "bytes": 3768,
+     "sha256": "b4d58c5b85007a68980f5e4c2979c42b94ed55b7fde9a30701b9cd097f3a8cf6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 7",
+     "bytes": 2404,
+     "sha256": "8d22b1b0f12214eaf065c92805fba53cf854724f9a857698ee5f311339f1c744"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 8",
+     "bytes": 4723,
+     "sha256": "4c4697682c27e5e44829541b1b586879a1e620fb27dbe6b939e20fd6e0a312aa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 9",
+     "bytes": 3471,
+     "sha256": "74d22449eff836caf07116ac663941a5e2d5dc9fff75f43bd6efd299b13d0773"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 10",
+     "bytes": 3664,
+     "sha256": "726fe8b2c0727c91360169102cb9adcfe8359894167ccfa0a3eb9333c9c4a7f4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 11",
+     "bytes": 3556,
+     "sha256": "cd680c84eff6671fdebc51071b50c306f12a80bbdae4c7fa7a7978290239e24f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 12",
+     "bytes": 5281,
+     "sha256": "022728890be4d3b7eed9411195127577ad7360cf5e0e72189f31cb8104519534"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 13",
+     "bytes": 5291,
+     "sha256": "05b004adde325beb38df8bb8cec320b0410d39861fc9963228628413fa3a82bd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 14",
+     "bytes": 3377,
+     "sha256": "84f4a6e60187e8e9d005dc3a7447d19147aa8a4fcbc20361a2e083c54e007e89"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 15",
+     "bytes": 2034,
+     "sha256": "7b048424aaf5052d8f8518856fde0d93e7bd63a6130866b39e154a6353e7d26f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 16",
+     "bytes": 4730,
+     "sha256": "d586d845ed7e6337f9def764cdd8b9371c8b7dad23b4eec181d6f3925e687110"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 17",
+     "bytes": 6503,
+     "sha256": "585ee32c47415f8ecb869e1ad93d0364d00e1dbfd241824b7312ff056ca7c9a2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 18",
+     "bytes": 3358,
+     "sha256": "56c36d54ccdc059a844afbd06b32ef1591f61db55443cbf6fba32ed01d3638fc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 19",
+     "bytes": 1818,
+     "sha256": "c6fc6831f21433af3531225737b4a429fe0eb99d066f78a0a80bfb57a5039aac"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 20",
+     "bytes": 3042,
+     "sha256": "428f6eaf1c40d0009e3ce8fe37d26f841ec63f3e8d6a4937294c8b2aa36f6b59"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 21",
+     "bytes": 5164,
+     "sha256": "ec27d6edd1f63ff9256d75fedae985d885529396c77a58c316dcfd994a331dd7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 22",
+     "bytes": 3531,
+     "sha256": "17658647683b7f2a7eacc3edf7471541265cfccba373c14568334b7278dbfa66"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 23",
+     "bytes": 1898,
+     "sha256": "dc60d1ad1e9c418ba2a78c3134423c9b53d7c97fc79e2cbd0cd9657ab1b5d695"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 24",
+     "bytes": 1857,
+     "sha256": "38fb1c8f720b9b027294838046f8bfc4361cd74516be7681d312727e8367cd0d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 25",
+     "bytes": 3905,
+     "sha256": "f70771ab46651b39c1d2d06bac31653f03188358d291359830bf3b4d0cc463d2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 26",
+     "bytes": 2692,
+     "sha256": "4b4eca416ed4a62be759a9e093e2647451258605ed98dbc05d162792b812f7d7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 27",
+     "bytes": 3639,
+     "sha256": "c3e4a0c47b42faf94fce8070ddc56ac8673500889ab2e2cde48ae12d76ba4eac"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 28",
+     "bytes": 2558,
+     "sha256": "dd7498b435adb8f0ddfe92e332ceeedfef095ed7f3c5f9c8accf0af3c6b4489d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 29",
+     "bytes": 2584,
+     "sha256": "dd2d9b46231e347f683080bc5a2e7bfcea23ad9c895fa4a75164e070aa6a9d8f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 30",
+     "bytes": 1959,
+     "sha256": "076dd7d1be4088199d4e14afe9109fb137519ce97685312859e83c49cff6d635"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 31",
+     "bytes": 2373,
+     "sha256": "14e7eedfcc0fafe8fcc8da68b219d7d238d9c7973c68c5cca049161dcbd5ace0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 32",
+     "bytes": 3980,
+     "sha256": "971ba5254b7c28f2172683896e691144e5aa5fcd8153715cb0d09ab84ec25140"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 33",
+     "bytes": 3219,
+     "sha256": "375330d3d7ffd43ef3c2721059c93b530c057b0f0a4f129859d3317b43471642"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 34",
+     "bytes": 4805,
+     "sha256": "760e7dd89b9c8bf05fff8f0717cab2157e9e0c052d9aaced09e699e30060b9ce"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 35",
+     "bytes": 4525,
+     "sha256": "5dd61346ab4d93c122b40234816b7df25c9f628e6be37494689c491b890d3e4d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 36",
+     "bytes": 3193,
+     "sha256": "7cef9070e8f558e00e2742e11abb1c2383c3df157b9731561fcaf39a89de5801"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 37",
+     "bytes": 5424,
+     "sha256": "d6a1bca0f4a537ab1442056f2f9b9a80c29dfc40ae1aabc5cc09facba5dfd841"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 38",
+     "bytes": 2359,
+     "sha256": "04317bbdc1e4a12900e453722497156f03a1b2f4fa81e2d8298ec77f9326f00c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 39",
+     "bytes": 5245,
+     "sha256": "dc8ee728efee9a6f3c0721cb2a17b16a5dd5336f9cb1fe89b0c8c8a394637adf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 40",
+     "bytes": 6192,
+     "sha256": "f0eb59544b25e084c60062a9a2b51b0ab9a01e3b3ae98aab38d906176c9d82b0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of the Work of Monks/Section 41",
+     "bytes": 2759,
+     "sha256": "2052fca9e0c83e1085445da8e047e573371ef1f5bae1dcc6566ffa65ba3bc3aa"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Section 1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "Section 2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "Section 3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "Section 4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "Section 5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "Section 6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "Section 7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "Section 8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "Section 9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "Section 10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "Section 11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "Section 12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "Section 13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "Section 14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "Section 15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "Section 16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "Section 17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "Section 18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "Section 19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "Section 20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "Section 21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "Section 22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "Section 23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "Section 24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "Section 25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "Section 26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "Section 27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "Section 28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "Section 29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "Section 30",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "Section 31",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "Section 32",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "Section 33",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "Section 34",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "Section 35",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "Section 36",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "Section 37",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "Section 38",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "Section 39",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "Section 40",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "Section 41",
+     "segments": 1
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 41,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 0
+ }
+}

@@ -1,0 +1,550 @@
+{
+ "workId": "augustine-good-widowhood",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "augustine-good-widowhood-csel-lat-ogl",
+   "role": "original",
+   "language": "latin",
+   "credit": "De bono viduitatis, in Sancti Aureli Augustini Opera (Corpus scriptorum ecclesiasticorum Latinorum 41), ed. Joseph Zycha (Prague, Vienna and Leipzig: F. Tempsky; G. Freytag, 1900). Open Greek and Latin, csel-dev, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa035a/stoa0040.stoa035a.opp-lat1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 142351,
+   "sourceSha256": "a662aee457454fad57726df845e75fd3296b8ccd0bee040bbbebefe093d3af0a",
+   "leftOut": {
+    "milestone": 23,
+    "lb": 876,
+    "note": 79,
+    "pb": 38
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 7551,
+    "garbledPerThousand": 1.5,
+    "joinedPerThousand": 0.1,
+    "numbersPerThousand": 4.2
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "augustine-good-widowhood-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "On the Good of Widowhood, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. III: Saint Augustin (ed. Philip Schaff; New York, Christian Literature Co.), trans. as printed in NPNF I vol. III (the Wikisource copy credits Philip Schaff et al.) (New York: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_III/Moral_Treatises_of_St._Augustin/On_the_Good_of_Widowhood",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 92582,
+   "sourceSha256": "a9280be044b6df432f78becd9861a73171778010c84593316f6268e7f84f39ac",
+   "leftOut": {
+    "note": 83
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 1",
+     "bytes": 2188,
+     "sha256": "11980baf2e2c3c57b507a69799d99738450165e8a27a79f5a18c8e996fee2023"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 2",
+     "bytes": 1671,
+     "sha256": "ced1e6cb161e1f7c3ce1af2d25874a35fe72fd5eba0b26ea28edb2ea58b4f906"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 3",
+     "bytes": 2880,
+     "sha256": "8addcdc78b4af0c7fdc95f4baa93f3e359e11a442aaf9f9d207cc89e95f45067"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 4",
+     "bytes": 2416,
+     "sha256": "b6100f4a902707ed78d80d5294747e3caf5555721b6c33d3baad2be8e2d447c5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 5",
+     "bytes": 2776,
+     "sha256": "708dcd845e3a0a3724f77efb7fffef8e40443d4beb8db9bee13f56283c4b557a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 6",
+     "bytes": 2401,
+     "sha256": "88786181a00a4382166382c8017d185112daadc51920840e22b54797f85c88a1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 7",
+     "bytes": 3489,
+     "sha256": "af5ee5a68412962aaab18dc046687c52445b535a571bbb086a24f8724e1cbe31"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 8",
+     "bytes": 2815,
+     "sha256": "4801c1f63c579616d2ef41d1ebab6244561f6bfe42a9b9b0920d6f4399cc48b9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 9",
+     "bytes": 2223,
+     "sha256": "7e743e939743e29679043bc9085fb65e2144b83f4c03ebe22621dafc81d85d95"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 10",
+     "bytes": 3646,
+     "sha256": "fc24b7b414a9937f8b1195b151a167d9634bab2af19a985799601407ba650ed6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 11",
+     "bytes": 4645,
+     "sha256": "91ac48b0b1c7ab7af5a3b8efb9235dae8a01671643c30e1ddd0822981a999a91"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 12",
+     "bytes": 2949,
+     "sha256": "660d9afd86b1b7f2ecefe0c9f6903a144c51fd2ab130dfa9b8c7c1f3343ed998"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 13",
+     "bytes": 3427,
+     "sha256": "849475e4fb6c558f3692524eacabae6ae24e1564c10b00308a151435859b8cc9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 14",
+     "bytes": 2292,
+     "sha256": "0bfe283f2d22cc14117e47f28f5f51068f79cc81d03e13a3d67d2315fc73f015"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 15",
+     "bytes": 3606,
+     "sha256": "cb1d11277c3e37c00613011049f4a24b83c786ae7b3f2dfa309576ed356c8721"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 16",
+     "bytes": 3042,
+     "sha256": "d6e008dae5e7331a9dfd9e5ec404f222c4c20e6ae4437f9c80e9a19030c61e3b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 17",
+     "bytes": 2298,
+     "sha256": "e787045350dc094a4e4896260012ca395ace92a353fc5e3c33a99b080bf71f63"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 18",
+     "bytes": 2782,
+     "sha256": "ef2a26b52e7334d3d65ace23815a7c9f0a9cf4613cbbc2c439828ebcb2e22745"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 19",
+     "bytes": 3646,
+     "sha256": "3dc5787563cfbd7eaae1cde3d33d62f137fe3515692baeeaccf862c6488a986a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 20",
+     "bytes": 3982,
+     "sha256": "1896da85a8befa7aa5c2ecd17b1572411420778fccaaa58d77af1860e7d7ac2f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 21",
+     "bytes": 5294,
+     "sha256": "177f8e2d7c0cc1ff3dcb5685cc2f59ff630012d17195b043ec3b7e2fb8207df7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 22",
+     "bytes": 3321,
+     "sha256": "81a1f7d9080cb3be20586e456ab4dac084028a7e33f296f7dc13b0e644a648a9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 23",
+     "bytes": 3634,
+     "sha256": "51a2be06259949c47e60fb787a4dc28929ec884f25a6d8ecce09f668794d518f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 24",
+     "bytes": 4222,
+     "sha256": "63c6cfe1a1f22dd30176176b3e8b94cf5bea8a013b3ab43f61a9988fa0b010f1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 25",
+     "bytes": 3098,
+     "sha256": "b4982d211020d2b8ada56d31a23847445d402be2effee9cd592743c16ae3d1ef"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 26",
+     "bytes": 3878,
+     "sha256": "83c55a5e5d6fb54bf30dbc44d799487f2e947535b979954a89cf596e69c30268"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 27",
+     "bytes": 4726,
+     "sha256": "ad3dcdcf285ed572838ae3881fab56f79a16425ddf4025bd4e8e760a7b7a7871"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 28",
+     "bytes": 3196,
+     "sha256": "429f9dc649ffecceba8c3a01a1c6af41a560d7a53ac4d075f642461a45316bb4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Widowhood/Section 29",
+     "bytes": 2039,
+     "sha256": "371ab5c9ff004b7ab027a29a15428cc4be344eb046263289efc441f2274b9324"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Section 1",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "Section 2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "Section 3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "Section 4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "Section 5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "Section 6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "Section 7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "Section 8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "Section 9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "Section 10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "Section 11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "Section 12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "Section 13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "Section 14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "Section 15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "Section 16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "Section 17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "Section 18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "Section 19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "Section 20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "Section 21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "Section 22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "Section 23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "Section 24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "Section 25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "Section 26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "Section 27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "Section 28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "Section 29",
+     "segments": 2
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 29,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 0
+ }
+}

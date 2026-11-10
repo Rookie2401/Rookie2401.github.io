@@ -1,0 +1,456 @@
+{
+ "workId": "augustine-against-fortunatus",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "augustine-against-fortunatus-csel-lat-ogl",
+   "role": "original",
+   "language": "latin",
+   "credit": "Acta contra Fortunatum Manichaeum, in Sancti Aureli Augustini Opera (Corpus scriptorum ecclesiasticorum Latinorum 25.1), ed. Joseph Zycha (Prague, Vienna and Leipzig: F. Tempsky; G. Freytag, 1891). Open Greek and Latin, csel-dev, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa024b/stoa0040.stoa024b.opp-lat1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 109578,
+   "sourceSha256": "3940f72e6876f9925bfcb4a51087d1bfc59ffbb27c68095ba462419266941c2a",
+   "leftOut": {
+    "lb": 692,
+    "note": 51,
+    "pb": 29
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 6540,
+    "garbledPerThousand": 0.2,
+    "joinedPerThousand": 0,
+    "numbersPerThousand": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "augustine-against-fortunatus-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Disputation against Fortunatus the Manichaean, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. IV: Saint Augustin (ed. Philip Schaff; New York, Christian Literature Co.), trans. as printed in NPNF I vol. IV (the Wikisource copy credits Philip Schaff et al.) (New York: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_IV/Manichaean_Controversy/Acts_or_Disputation_Against_Fortunatus_the_Manichaean",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 61364,
+   "sourceSha256": "b8991e79d432dcfae34fb291af839b6a54cf95d25e87bdfe745731658c801a87",
+   "leftOut": {
+    "note": 42
+   },
+   "restorations": [
+    {
+     "kind": "replace",
+     "at": "p1.3.2",
+     "words": 1,
+     "source": "https://archive.org/details/aselectlibrary04unknuoft"
+    },
+    {
+     "kind": "replace",
+     "at": "p1.7.2",
+     "words": 1,
+     "source": "https://archive.org/details/aselectlibrary04unknuoft"
+    },
+    {
+     "kind": "replace",
+     "at": "p1.17.2",
+     "words": 1,
+     "source": "https://archive.org/details/aselectlibrary04unknuoft"
+    },
+    {
+     "kind": "replace",
+     "at": "p1.19.2",
+     "words": 1,
+     "source": "https://archive.org/details/aselectlibrary04unknuoft"
+    },
+    {
+     "kind": "replace",
+     "at": "p2.7",
+     "words": 1,
+     "source": "https://archive.org/details/aselectlibrary04unknuoft"
+    },
+    {
+     "kind": "replace",
+     "at": "p2.9",
+     "words": 1,
+     "source": "https://archive.org/details/aselectlibrary04unknuoft"
+    },
+    {
+     "kind": "replace",
+     "at": "p2.29",
+     "words": 1,
+     "source": "https://archive.org/details/aselectlibrary04unknuoft"
+    }
+   ],
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Acts or Disputation Against Fortunatus the Manichaean/Disputation of the First Day",
+     "bytes": 32417,
+     "sha256": "9544039ab1a65e718531d32ed55bbbb343348dbe3bb3d905a6645573423924cb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Acts or Disputation Against Fortunatus the Manichaean/Disputation of the Second Day",
+     "bytes": 28947,
+     "sha256": "cfc7087916ed0b77fa0b06e415e5e888f1179c907b7e852748373c3aafe2a90d"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "p1.front",
+     "title": "p1.front",
+     "segments": 5
+    },
+    {
+     "file": "0002.json",
+     "ref": "p1.1",
+     "title": "1",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "p1.2",
+     "title": "2",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "p1.3",
+     "title": "3",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "p1.4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "p1.5",
+     "title": "5",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "p1.6",
+     "title": "6",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "p1.7",
+     "title": "7",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "p1.8",
+     "title": "8",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "p1.9",
+     "title": "9",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "p1.10",
+     "title": "10",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "p1.11",
+     "title": "11",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "p1.12",
+     "title": "12",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "p1.13",
+     "title": "13",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "p1.14",
+     "title": "14",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "p1.15",
+     "title": "15",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "p1.16",
+     "title": "16",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "p1.17",
+     "title": "17",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "p1.18",
+     "title": "18",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "p1.19",
+     "title": "19",
+     "segments": 3
+    },
+    {
+     "file": "0021.json",
+     "ref": "p2",
+     "title": "Disputation of the Second Day",
+     "segments": 40
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 0,
+  "shared": 0
+ }
+}

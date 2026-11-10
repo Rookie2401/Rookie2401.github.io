@@ -1,0 +1,1462 @@
+{
+ "workId": "augustine-two-letters-pelagians",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "augustine-two-letters-pelagians-csel-lat-ogl",
+   "role": "original",
+   "language": "latin",
+   "credit": "Contra duas epistulas Pelagianorum, in Sancti Aureli Augustini Opera (Corpus scriptorum ecclesiasticorum Latinorum 60), ed. Karl F. Urba; Joseph Zycha (Prague, Vienna and Leipzig: F. Tempsky; G. Freytag, 1913). Open Greek and Latin, csel-dev, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa021/stoa0040.stoa021.opp-lat1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 524741,
+   "sourceSha256": "086e34e17f63da9b9f34ff9125bc9cd9b05f16da75ab272a71a99d4761c6fad2",
+   "leftOut": {
+    "milestone": 56,
+    "lb": 3818,
+    "note": 335,
+    "pb": 148
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 33544,
+    "garbledPerThousand": 0.2,
+    "joinedPerThousand": 0.1,
+    "numbersPerThousand": 0.3
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 43
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 24
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 27
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 35
+    },
+    {
+     "file": "0005.json",
+     "ref": "retractationes",
+     "title": "AVGVSTINI RETRACTATIONVM LIB. II CAP. LXXXVII (LXI) (PAG. 200, 1 ED. KNOELL). COXTRA DVAS EPISTVLAS PELAGIANORVM LIBRI QVATTVOR",
+     "segments": 2
+    }
+   ]
+  },
+  {
+   "editionId": "augustine-two-letters-pelagians-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Against Two Letters of the Pelagians, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. V: Saint Augustin (ed. Philip Schaff; New York, Christian Literature Co.), trans. as printed in NPNF I vol. V (the Wikisource copy credits Philip Schaff et al.) (New York: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_V/Against_Two_Letters_of_the_Pelagians",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 407776,
+   "sourceSha256": "ba107b4515a44455041d64dc4ee3640812eebf0c3b4e17f29f57b26e1a44ccd7",
+   "leftOut": {
+    "note": 387
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 1",
+     "bytes": 2303,
+     "sha256": "52625bf53ac39b9a159aaf6d9e0520d9fa5d9f0360d54cdb7ce90dfb5473b594"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 2",
+     "bytes": 2050,
+     "sha256": "4204073d2ea9ae26ae34e465dc1347610dffe8256c450d7549e80b159f00d6ce"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 3",
+     "bytes": 2384,
+     "sha256": "340a01860e589777d1360551dab139a206691f827ed6d59bedfb3fb505d60220"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 4",
+     "bytes": 1679,
+     "sha256": "77bb4c868e4728e794ed430a0fe884b135225b64b6d9aada8b5493f88c1397f9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 5",
+     "bytes": 3273,
+     "sha256": "5ecb1ee281435a463eb10dc56cef6e378e4c6cc9d2841047ab394db603d49493"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 6",
+     "bytes": 4023,
+     "sha256": "da6d34a856a6f4adf443e6f848d9de4c0742772b1dbcc365905fb6a96e1305d8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 7",
+     "bytes": 2340,
+     "sha256": "615ac8f3e331440f28ffa779927c220acf3069f0231d3f4070c8f82c42e367ee"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 8",
+     "bytes": 1701,
+     "sha256": "ded2ba4a9f5e0e36b33afb795d7e13292fbfb01efc944b78213c29453c862748"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 9",
+     "bytes": 3253,
+     "sha256": "159d01081eb4bb645ec0abb7c61d1581c1b3f0fed942cd84aaf3dba18770f629"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 10",
+     "bytes": 1728,
+     "sha256": "905cd9f8b1d83b29268196fb757cf326f6c640ad3e8d99c202cc076d113589e1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 11",
+     "bytes": 2769,
+     "sha256": "d6a761f74fd93799e75f6ff52a8f592487a163cdfbcef0938edb064c0087c187"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 12",
+     "bytes": 2415,
+     "sha256": "97233f52c28ed794155c4cf360118deaae257dbacff4df650fa16da456bcd1df"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 13",
+     "bytes": 5087,
+     "sha256": "ee8dc134aff82809c1809a6b885835ac6031d70870412944621cfbbe00e0b9f4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 14",
+     "bytes": 2993,
+     "sha256": "49e309653c9d1467eaba7e97879efa7e79b15118d98c28d1421c62396647f628"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 15",
+     "bytes": 3410,
+     "sha256": "b1370da02106ea9af03d87bf4ac1c43e3f88fd9038ad8b1b95a64d2732311bfa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 16",
+     "bytes": 2438,
+     "sha256": "db85a9ba1fe247534704acead7d06484672a36f9fcd8e96fb773448fa50fa9e3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 17",
+     "bytes": 3301,
+     "sha256": "8c956a2520ff4ada1bb9eaa9576dbc3d15f935f640d63d1d3fdf056d5f69a038"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 18",
+     "bytes": 2293,
+     "sha256": "a8833c805e57c2e266622f31398c5e3557130a83779fa7a8670cb0fb0d4935d8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 19",
+     "bytes": 2165,
+     "sha256": "6d67d73765e8e89d6584d4cd4514ff8e4a2fdce7b4c0fb6300930974847a6001"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 20",
+     "bytes": 2319,
+     "sha256": "b22f395ec23a6186644e122f4f0b124f96fe8089c12d67353139bb931d9157b5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 21",
+     "bytes": 1800,
+     "sha256": "91ef000352240646788b01e79621b0f52a371788a5b1ebde773dc439303d9a79"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 22",
+     "bytes": 1842,
+     "sha256": "4947974cb6e0dd1bd30166e566dbbb4f55e33a4c2a3fe3c5abe08166a9259cc7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 23",
+     "bytes": 2641,
+     "sha256": "b9fb9cb1e25316a8ffc837f591d193855afa8d4b3d137de865595455b92d5217"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 24",
+     "bytes": 2589,
+     "sha256": "28a98b0e55efc8da13961e50015e0e61a3743a3666f97ee15d1bcf7d96444b2f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 25",
+     "bytes": 1377,
+     "sha256": "6f8596d150f1ad82ca0c27f1c5da6819fe6d443208b5786112dfdbf5b3755c0e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 26",
+     "bytes": 1579,
+     "sha256": "31467f5a2adfe19f8fb9084ef668e6bc54eecca62b0ed9aedbb446b088466c61"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 27",
+     "bytes": 3331,
+     "sha256": "dc2abf21a12a88a9eec43de76768fa0bc421455907549cfcacfe21b28328c8a0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 28",
+     "bytes": 2387,
+     "sha256": "2e3b29409f1a58b5ae4bebfeb0a9dce9c5ea52b8bc75584b8d6477eb9e970d78"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 29",
+     "bytes": 1721,
+     "sha256": "08c7018bf2dc7fd89c01875e56f6f7fb27794321b1abd0e8a4c39b175301323b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 30",
+     "bytes": 1287,
+     "sha256": "3f3e460507f3aead18e0f152328f14952a3fed735d08b02c284f7a34649d53d5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 31",
+     "bytes": 1519,
+     "sha256": "9d9e3629c1199be147ee440de726aefeb0ac590b423e8d8d3ad51645235d3691"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 32",
+     "bytes": 3740,
+     "sha256": "c19aa1a375cfb2b689033d08363b4e09eb0ef0e18c5cc7b422f0f47c0cebdb78"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 33",
+     "bytes": 1914,
+     "sha256": "49393b24e54c8e6b88047826c7087a970adb1aa551f824f0a5cc58c36b84ed13"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 34",
+     "bytes": 2390,
+     "sha256": "4b8216e8d5a12bbf481fc9a667e3f7c61c5c192c7f5a2d33642968fd4d21667c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 35",
+     "bytes": 3500,
+     "sha256": "ea51bb79bb216b9cd116e6de6f3d9eb43eba2bada50e30c1e46dab7c45e2d66d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 36",
+     "bytes": 2141,
+     "sha256": "4b032d301ee983f1527b7d2ea2fa95ead5bd7f32ff2238217018a2c220ae233b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 37",
+     "bytes": 4232,
+     "sha256": "f52f8e46f86bd2eda7109ece3f4fac39daaeaaa302bee62350271cb6b82434bf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 38",
+     "bytes": 3994,
+     "sha256": "fb03714dcea1c65a60d8f0f9f03bcd550a2090fb3e8ea3c3d61994f8849b27bc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 39",
+     "bytes": 2735,
+     "sha256": "9005428ad2e67a00955cbebc88eb8d120dffb7d797f649013add1f00d823c537"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 40",
+     "bytes": 2515,
+     "sha256": "f2f269b9e3190767b0247d00fb7f85e502cbbd55a441ab7a283cb642f25bc0c3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 41",
+     "bytes": 1319,
+     "sha256": "af92caa68dd4af399d2bf48f76fc9da3e6acab383deeba64d2dab8108ba9fae2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book I/Chapter 42",
+     "bytes": 2521,
+     "sha256": "198bbc621349545e680976bd207f720f0fe30ad546c9fe5390b8306e9bf9790b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book II/Chapter 1",
+     "bytes": 3653,
+     "sha256": "d3eec71d1a10af1f346aefd815162ea5889e1c7c7100f092f61c9bae2e88bd1c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book II/Chapter 2",
+     "bytes": 3257,
+     "sha256": "2147ecb13cf3e546d14150f1a1828d3a80931c2f2d24c97c251e781f0c4bcb5b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book II/Chapter 3",
+     "bytes": 2513,
+     "sha256": "2e12d47ceda99ac962d4297478e811dc9f2ff4dc3bb0f4bffe933d11b2a1a975"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book II/Chapter 4",
+     "bytes": 1680,
+     "sha256": "457d98f5f3d06d49e7cd5b08dedfe431b8c6efa6bdea1a4459f78d67a82c10ce"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book II/Chapter 5",
+     "bytes": 6193,
+     "sha256": "d752e76319e129c39e4b5b29ba234d5dd6621192451c5799e8b2f97761795245"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book II/Chapter 6",
+     "bytes": 3561,
+     "sha256": "a0010c09abfdc6cfa05afa557d959bbeadcf39da46fb1935ebff761e92c3aade"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book II/Chapter 7",
+     "bytes": 2685,
+     "sha256": "2f2e0a585bc7fe92e8b1512e22c414436afc79c0c054a34b7a647c6fe1dd3b39"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book II/Chapter 8",
+     "bytes": 2560,
+     "sha256": "803fa402eb03a85fb29bf8d428a3859a9f65fd235b63bbbca098c9ec40c18802"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book II/Chapter 9",
+     "bytes": 1945,
+     "sha256": "4fe74088692f8dfb500ad6a648ae87109e9fef0ab68316edf9f1eca50dd26a11"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book II/Chapter 10",
+     "bytes": 4161,
+     "sha256": "0b05cb665215949a8afa0aaf994664b802a2db60753fa3e3a15845ffa2b0a5c7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book II/Chapter 11",
+     "bytes": 5334,
+     "sha256": "9831b08870ddf607959a3c1e08f8a912ace723c3a7741ae62f2a7a9211d01463"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book II/Chapter 12",
+     "bytes": 2283,
+     "sha256": "d29a20f7fc0b57f536f062443500af6f7b3cd824559d92b2990883be5c1e50d5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book II/Chapter 13",
+     "bytes": 4298,
+     "sha256": "bb60645be589a90d9e06277e93ee6a10ffc8825aa2030fcf2da0caa2b3a6a7cd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book II/Chapter 14",
+     "bytes": 2728,
+     "sha256": "e06e1c81024f463b8888b694db81ee2c2ad23598b5433a97cd54d08f79a10c0e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book II/Chapter 15",
+     "bytes": 6171,
+     "sha256": "974169624908e0ed38f523b128bd2a1f6915a13ad5d15b124996192ec8afdd80"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book II/Chapter 16",
+     "bytes": 2697,
+     "sha256": "227d1f3a407adfa553674918a22a3ad49281feb06c975928fb85621fa8463435"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book II/Chapter 17",
+     "bytes": 2784,
+     "sha256": "1bd7acbfc43c62416f671940f54321330ebac5d8b75dd19071dc672c962db2a0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book II/Chapter 18",
+     "bytes": 4278,
+     "sha256": "a7f83e477587517a76ecdb7c8941095f1eb0856ea098160e00996c5d6f4fe1ad"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book II/Chapter 19",
+     "bytes": 2438,
+     "sha256": "2f071336c944656384447d2d196dbcaac444eeb11855696d9efdef1c69f5d3f9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book II/Chapter 20",
+     "bytes": 2729,
+     "sha256": "c059e5f83d8b3d4651390b305986f0a2b7a385c0127ddf01ccccfaed6166be83"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book II/Chapter 21",
+     "bytes": 2766,
+     "sha256": "99b253f02fd5ee694543f5926ff584e6a36589d8b8ce466a66873c952f03696b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book II/Chapter 22",
+     "bytes": 3632,
+     "sha256": "37aaa0df226f40ce390a5af1a5ba8e6ba2fbe28de38314802ebfd2477865d313"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book II/Chapter 23",
+     "bytes": 2104,
+     "sha256": "151a470c084436792b0366a9ccd7af79c93dbd1bd09e20f40673606289e8846f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 1",
+     "bytes": 1273,
+     "sha256": "947090bbcb06b82e992066fb6ba99bdaadb839be575b4a3521a17d87993019b7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 2",
+     "bytes": 3949,
+     "sha256": "ae1a8bd6254486248463bb15255691912be4163c4c82352c7aa536ded5fd3ed9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 3",
+     "bytes": 2244,
+     "sha256": "767c58f14ec12851049f60e870bffdc802d32a0ddde203639d887eeb716ad61e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 4",
+     "bytes": 4976,
+     "sha256": "370a694e2b55ddf9710f1232c402b51d32428e6747e6898b7b26445fef41a5b4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 5",
+     "bytes": 4778,
+     "sha256": "9c77b8c24294832eacd3fb3d3898441a6bd8c94adccd7ec0e81b297ab59b7d31"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 6",
+     "bytes": 2617,
+     "sha256": "248796dedc36a3b9f37f70fffa97e55f33e8fca02b6f757f72a3261922592721"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 7",
+     "bytes": 3704,
+     "sha256": "167971a67e5bbc49ba03003b544d68ed6093ebb78c3fd208ea8b812b4914f019"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 8",
+     "bytes": 2032,
+     "sha256": "833058b8f5d3bbf162b26b819e373f322b8104d118a39f51c843777fde4e682f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 9",
+     "bytes": 3297,
+     "sha256": "34ae8ee8349c59a2957df781a43a1d90751161a7bfa8261248d505fd86714fb7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 10",
+     "bytes": 3475,
+     "sha256": "aca03c0ef27b9b5b5f12b21ac6da0ddffb1a5cd481567b21ebac60dc203f43d3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 11",
+     "bytes": 3662,
+     "sha256": "468ba7e3f5f920df57c2401e7d68f84512ee9272d05ea3dda5158e7fa1315e33"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 12",
+     "bytes": 3882,
+     "sha256": "e5e19a4119b395df254de3a1c2d795a3444ceca3f413190a76ed0f41049765dc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 13",
+     "bytes": 5269,
+     "sha256": "2bf528c29ac7ed8e52923c73a1050e324226c4394e01297857bf07be3e0fa28d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 14",
+     "bytes": 4981,
+     "sha256": "d3f3e602356e820787f0433e8e5b7bd9c82e662838e3f53fd10d9fd1586d3dc1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 15",
+     "bytes": 3136,
+     "sha256": "1c6c4bf33fb765f78c3ac4cddd4f7daf8720776df45b93a6ca83fcbad0f9c80a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 16",
+     "bytes": 3510,
+     "sha256": "91dbc1067e54863678210932aed4bd7fa853a4b3e1d21fd617a4805320171344"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 17",
+     "bytes": 4167,
+     "sha256": "1cd09a466d103c4a38be842e075b38cc027c01a5fc601038d8d234cb0d84b259"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 18",
+     "bytes": 3587,
+     "sha256": "052042e0207393dac01cf9e8e374342798773528fa203b76056555fb42baad5f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 19",
+     "bytes": 3908,
+     "sha256": "e9ac0c7b54aab6fc7503e71e2c5dd34acba1206bd2da5cc0f4f0e729b1096dd6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 20",
+     "bytes": 4121,
+     "sha256": "e737fd83a3e137ba7aa46612c25988c87d88b3548a0393db7cf7e3239181a755"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 21",
+     "bytes": 3403,
+     "sha256": "42f5f8c65c1d953e289f0fce9acef88a146c52163a8ae9589083a74bc6fa2a66"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 22",
+     "bytes": 5846,
+     "sha256": "d2e69dee931b2c08be44ed585814b3e9a8d6cd7223cb91c5ce2f46f5504f312d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 23",
+     "bytes": 3200,
+     "sha256": "a05509c62d588db4401be8c1eb7449eb9bb68f76de566ccfa9019094d7135f70"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 24",
+     "bytes": 3796,
+     "sha256": "fa7e23729e09ead5ee423bfeddaa36a1e77a2f13b4763b655e2a550d96ae93ed"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 25",
+     "bytes": 4457,
+     "sha256": "81b24622536f4634485b4fd043e2b1594832f2b042198859d8ae19fb75069725"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book III/Chapter 26",
+     "bytes": 2394,
+     "sha256": "5166f1e7c3295a47e76d4fd5ce694a4fdd9a7f1fc6e5838d5b1b84f62483de6e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 1",
+     "bytes": 2110,
+     "sha256": "7820b05f6cec58ed8af7aa3ffe50394fd7a8f7afeacb31bada6efe039c27a0ae"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 2",
+     "bytes": 5354,
+     "sha256": "a3c88cb3940614c80f8f87ffa98b4d12b7bf9360847c83dd91bff9555f852345"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 3",
+     "bytes": 3535,
+     "sha256": "bb5f8185886c2b11f67e7e8196aa78b3fd9d7b57ef553244ae2391d62a96e928"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 4",
+     "bytes": 4155,
+     "sha256": "563ce44f0330122ff0f42983b0fb34c4f3a1ba97a7030509582ac92fbc38102f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 5",
+     "bytes": 1984,
+     "sha256": "7da87a8d6fd2ea2f0846f87713c4bfba5e6e3a4148379ee5e05e05797bf34bd0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 6",
+     "bytes": 3388,
+     "sha256": "4bbe8ffe7f3204fb9c09db2ea0a3b497c2b5f9df46d2e857b020be8e2814067f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 7",
+     "bytes": 3774,
+     "sha256": "f2e3aff0df7ccca02da83491835a1e30117f4147956bcc4c9690ffe17a4e9dbc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 8",
+     "bytes": 3494,
+     "sha256": "3624758345224062a33eb9ab11ebf385f348f5504446d59f732bf87b4ab6790e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 9",
+     "bytes": 2323,
+     "sha256": "c6f77fccccc97bb22de6cf58545a5b105ffc1681c7dc16a999bb0e42c178cd74"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 10",
+     "bytes": 4177,
+     "sha256": "5d19591ec5d48f1b854042074e86ecea553a9e23fd2f37e64ceb78124e37834b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 11",
+     "bytes": 3322,
+     "sha256": "d5d0673ccb13f0c987db07bf5e34089984b94e5cb5eca150c980cae8df4ae366"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 12",
+     "bytes": 2011,
+     "sha256": "1616e535dad4503f1f4b8ed814d49dc25f4ceefb90a91c1c151d45c9e1b72625"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 13",
+     "bytes": 2625,
+     "sha256": "6b5ecfee14bcc4bb7f01807983c0cf4202c79980403c05707660a2727162967b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 14",
+     "bytes": 4468,
+     "sha256": "032bf863ea25e27b10b1dac0a2b764b43b9d501e9547fc7b656ab80b5dae91ff"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 15",
+     "bytes": 4974,
+     "sha256": "87ecea7c718c1aca5d72026642c16cfdf24db55c82a5e979cd82a08fdb0ea28c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 16",
+     "bytes": 4117,
+     "sha256": "f0ba8fb2357d83fa86fe34d60b06394c50d51d61f37eabedc367672ff8cfd0db"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 17",
+     "bytes": 2930,
+     "sha256": "17b5137a6b763e3efd115fb9769b24fd3b07252d2de5700e8c320ae841b24e20"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 18",
+     "bytes": 2312,
+     "sha256": "42ee51c212b600e376e70998415821169d0c94a0c4629abb44a9ea7319aaff88"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 19",
+     "bytes": 1887,
+     "sha256": "4ef6df84a436499949c7b2b2633ccc1f4d606e1b9dc7099bb04f359a540a4508"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 20",
+     "bytes": 2233,
+     "sha256": "0f3fe202619442f79bc0e7fbcbbe2553f0f57576c36dd1fbfc0eb91003a30e97"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 21",
+     "bytes": 3958,
+     "sha256": "440e149aedee81774f58c6dc5c710f2e87ad225c01ff78c1de187ed580fb322c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 22",
+     "bytes": 3119,
+     "sha256": "1002ef66104ca2dfcb452ad8e14902e9d7432d6ab7d508e431593f3b514b7a29"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 23",
+     "bytes": 3974,
+     "sha256": "087b99dce288bacc677409fd035cf215a2b09d9934cbd9d46aea1017cf1ea8af"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 24",
+     "bytes": 4303,
+     "sha256": "d4a80f6347e4dc5eb6f76af006b7d461bb1d0c1b6c3b225b745a62db221881d3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 25",
+     "bytes": 6378,
+     "sha256": "338945ff8f0ee280b811f46286504a11e2270e069ce5afedfacc5e26c8ef45ed"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 26",
+     "bytes": 3706,
+     "sha256": "40d23056e205c1257cdd18c7ae739f66aea83370eccae53a28bda4206e348a97"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 27",
+     "bytes": 6894,
+     "sha256": "b4e9d0bd1a2e2f802e12fe3de0be43a0db9cb4ebde4d0f1d25e41ac7dcb3db02"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 28",
+     "bytes": 5495,
+     "sha256": "cf6211a9ca2b816e9344ec2f2f96e6396c73648b449720145586b9535a8cddeb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 29",
+     "bytes": 4458,
+     "sha256": "094b541548a723199464a70c4fd60da3153bc8ba65a3a87281bbb336f1afb8d5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 30",
+     "bytes": 4917,
+     "sha256": "62501684df400efe57252b8faa94add24681fcc5c6f20d67716cb6198fc660fe"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 31",
+     "bytes": 8535,
+     "sha256": "7baed0875e1de56e6325ccd19c072115f9227245bec486837fa8ae7d3d534d0b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 32",
+     "bytes": 2416,
+     "sha256": "95d46a42fb33375bcd9720bed1098086880faf6db0af863c4b1d274869988fd0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 33",
+     "bytes": 2362,
+     "sha256": "2d3f8c204ed05fb77dcf634a518494498ebb5cd98f42e04861e5f746d3e3e3fb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/Against Two Letters of the Pelagians/Book IV/Chapter 34",
+     "bytes": 2976,
+     "sha256": "8b1120ab2c5c6b48a001c41668edbf3a0e032a6210b0769fba35d900253fc6b0"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.1",
+     "title": "Chapter 1",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.25",
+     "title": "Chapter 25",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.26",
+     "title": "Chapter 26",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.27",
+     "title": "Chapter 27",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.28",
+     "title": "Chapter 28",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.29",
+     "title": "Chapter 29",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.30",
+     "title": "Chapter 30",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.31",
+     "title": "Chapter 31",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.32",
+     "title": "Chapter 32",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.33",
+     "title": "Chapter 33",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.34",
+     "title": "Chapter 34",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.35",
+     "title": "Chapter 35",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.36",
+     "title": "Chapter 36",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.37",
+     "title": "Chapter 37",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.38",
+     "title": "Chapter 38",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.39",
+     "title": "Chapter 39",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.40",
+     "title": "Chapter 40",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.41",
+     "title": "Chapter 41",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.42",
+     "title": "Chapter 42",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "2.1",
+     "title": "Chapter 1",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "2.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "2.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "2.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "2.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "2.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "2.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0050.json",
+     "ref": "2.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0051.json",
+     "ref": "2.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "2.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0053.json",
+     "ref": "2.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "2.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "2.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0056.json",
+     "ref": "2.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0057.json",
+     "ref": "2.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0058.json",
+     "ref": "2.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0059.json",
+     "ref": "2.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0060.json",
+     "ref": "2.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0061.json",
+     "ref": "2.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0062.json",
+     "ref": "2.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0063.json",
+     "ref": "2.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0064.json",
+     "ref": "2.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0065.json",
+     "ref": "2.23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0066.json",
+     "ref": "3.1",
+     "title": "Chapter 1",
+     "segments": 2
+    },
+    {
+     "file": "0067.json",
+     "ref": "3.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0068.json",
+     "ref": "3.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0069.json",
+     "ref": "3.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0070.json",
+     "ref": "3.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0071.json",
+     "ref": "3.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0072.json",
+     "ref": "3.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0073.json",
+     "ref": "3.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0074.json",
+     "ref": "3.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0075.json",
+     "ref": "3.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0076.json",
+     "ref": "3.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0077.json",
+     "ref": "3.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0078.json",
+     "ref": "3.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0079.json",
+     "ref": "3.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0080.json",
+     "ref": "3.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0081.json",
+     "ref": "3.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0082.json",
+     "ref": "3.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0083.json",
+     "ref": "3.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0084.json",
+     "ref": "3.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0085.json",
+     "ref": "3.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0086.json",
+     "ref": "3.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0087.json",
+     "ref": "3.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0088.json",
+     "ref": "3.23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0089.json",
+     "ref": "3.24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0090.json",
+     "ref": "3.25",
+     "title": "Chapter 25",
+     "segments": 2
+    },
+    {
+     "file": "0091.json",
+     "ref": "3.26",
+     "title": "Chapter 26",
+     "segments": 2
+    },
+    {
+     "file": "0092.json",
+     "ref": "4.1",
+     "title": "Chapter 1",
+     "segments": 2
+    },
+    {
+     "file": "0093.json",
+     "ref": "4.2",
+     "title": "Chapter 2",
+     "segments": 7
+    },
+    {
+     "file": "0094.json",
+     "ref": "4.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0095.json",
+     "ref": "4.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0096.json",
+     "ref": "4.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0097.json",
+     "ref": "4.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0098.json",
+     "ref": "4.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0099.json",
+     "ref": "4.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0100.json",
+     "ref": "4.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0101.json",
+     "ref": "4.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0102.json",
+     "ref": "4.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0103.json",
+     "ref": "4.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0104.json",
+     "ref": "4.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0105.json",
+     "ref": "4.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0106.json",
+     "ref": "4.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0107.json",
+     "ref": "4.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0108.json",
+     "ref": "4.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0109.json",
+     "ref": "4.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0110.json",
+     "ref": "4.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0111.json",
+     "ref": "4.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0112.json",
+     "ref": "4.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0113.json",
+     "ref": "4.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0114.json",
+     "ref": "4.23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0115.json",
+     "ref": "4.24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0116.json",
+     "ref": "4.25",
+     "title": "Chapter 25",
+     "segments": 2
+    },
+    {
+     "file": "0117.json",
+     "ref": "4.26",
+     "title": "Chapter 26",
+     "segments": 2
+    },
+    {
+     "file": "0118.json",
+     "ref": "4.27",
+     "title": "Chapter 27",
+     "segments": 2
+    },
+    {
+     "file": "0119.json",
+     "ref": "4.28",
+     "title": "Chapter 28",
+     "segments": 2
+    },
+    {
+     "file": "0120.json",
+     "ref": "4.29",
+     "title": "Chapter 29",
+     "segments": 2
+    },
+    {
+     "file": "0121.json",
+     "ref": "4.30",
+     "title": "Chapter 30",
+     "segments": 2
+    },
+    {
+     "file": "0122.json",
+     "ref": "4.31",
+     "title": "Chapter 31",
+     "segments": 2
+    },
+    {
+     "file": "0123.json",
+     "ref": "4.32",
+     "title": "Chapter 32",
+     "segments": 2
+    },
+    {
+     "file": "0124.json",
+     "ref": "4.33",
+     "title": "Chapter 33",
+     "segments": 2
+    },
+    {
+     "file": "0125.json",
+     "ref": "4.34",
+     "title": "Chapter 34",
+     "segments": 2
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 2,
+  "shared": 125,
+  "onlyInOriginal": 6,
+  "onlyInEnglish": 0
+ }
+}

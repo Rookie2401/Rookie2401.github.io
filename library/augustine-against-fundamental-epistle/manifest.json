@@ -1,0 +1,787 @@
+{
+ "workId": "augustine-against-fundamental-epistle",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "augustine-against-fundamental-epistle-csel-lat-ogl",
+   "role": "original",
+   "language": "latin",
+   "credit": "Contra epistulam Manichaei quam vocant fundamenti, in Sancti Aureli Augustini Opera (Corpus scriptorum ecclesiasticorum Latinorum 25.1), ed. Joseph Zycha (Prague, Vienna and Leipzig: F. Tempsky; G. Freytag, 1891). Open Greek and Latin, csel-dev, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa021a/stoa0040.stoa021a.opp-lat1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 199415,
+   "sourceSha256": "321b9790b29cd777cec836c6243c2379942ba1d389b49f265a0bb9526afb75bf",
+   "leftOut": {
+    "lb": 1486,
+    "note": 79,
+    "pb": 55
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 12960,
+    "garbledPerThousand": 0.2,
+    "joinedPerThousand": 0.1,
+    "numbersPerThousand": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "augustine-against-fundamental-epistle-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Against the Epistle of Manichaeus called Fundamental, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. IV: Saint Augustin (ed. Philip Schaff; New York, Christian Literature Co.), trans. as printed in NPNF I vol. IV (the Wikisource copy credits Philip Schaff et al.) (New York: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_IV/Manichaean_Controversy/Against_the_Epistle_of_Manichaeus",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 152411,
+   "sourceSha256": "3a4512972bdccc27dd527683e9f269e884dbc489fcf1eb4ec33d4e43a27ac409",
+   "leftOut": {
+    "note": 33
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 1",
+     "bytes": 4523,
+     "sha256": "437d307f664fdb916b8598462c7fe2db9e45d3a83597b70aefa144ee0e4afbe3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 2",
+     "bytes": 2012,
+     "sha256": "e69eacbcd1534735e38ab81fa7e1424debe2a79643a68734cbad22c1765f8215"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 3",
+     "bytes": 3058,
+     "sha256": "584f9f2cfa8eab7d54ec537a4a2af0a2e0fb9611ee1f54f8a3b73a4e203d2ed0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 4",
+     "bytes": 2868,
+     "sha256": "e887138f9b75dd7a2fcd2f1c78d1708acfa9177f783b6cc7c5d6b546195f3da5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 5",
+     "bytes": 5563,
+     "sha256": "3c3c868adba7ab98cc22c11f0576b64d1967ceb2441ab8a9fb55a87ef10e9bce"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 6",
+     "bytes": 3284,
+     "sha256": "38443221aa7d3cbe96407b9c89f2c8eef3c7299aa82e25f810f643072e850e61"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 7",
+     "bytes": 3230,
+     "sha256": "6e005e3b7d5cc08ef406e1177bb9b8b37a6ae10375a1c23975f2eea76aa4eb8a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 8",
+     "bytes": 3892,
+     "sha256": "78f3cbff3cd696a0c7e1dad37720320c32bdf3705efbbf8ac4b825d28542264a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 9",
+     "bytes": 4972,
+     "sha256": "c8fbde390f12c4d90e48bcb7a66b777e70862b7ccfacfd65d219f3f360095332"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 10",
+     "bytes": 3359,
+     "sha256": "3a32a9afc424572c0bd966be64cb26df97f0064d5436521ea858c4e391458d86"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 11",
+     "bytes": 3324,
+     "sha256": "9b323228a84a99de09c052abdc1fd8d638c9b73e2913d7e793890a9ccf7e5d65"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 12",
+     "bytes": 3591,
+     "sha256": "0e7895bccd386c9ae178e9063ffcb41c129504d6b1f498b7f31d623485dc3233"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 13",
+     "bytes": 2610,
+     "sha256": "c447535795ee797943a4868a2ae057550d2629f03f4e5ca7691028defe3a8915"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 14",
+     "bytes": 4731,
+     "sha256": "f4ee0bd81c6625da4003520d67b42d8813821eb12685aad6eb715444c494dffb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 15",
+     "bytes": 2999,
+     "sha256": "d1500c650eafc0d9897a6baa7a04bb42a65cd976d3b3addcdf80d7cb79b37eb5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 16",
+     "bytes": 4638,
+     "sha256": "3de4d4bed64f7f2192dd153ca70986acbcdc38bf057f35a25283a0c28ac7838d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 17",
+     "bytes": 2294,
+     "sha256": "7a89673d3c630a6b0c362c9f4a71e150f59ec93f72e3977bdb1576a820ae96d0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 18",
+     "bytes": 2416,
+     "sha256": "fce1eaa5bf0ebf87e11f308efad11f1397232e8b5dbdf39aa091b0f32ec1b0bd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 19",
+     "bytes": 2383,
+     "sha256": "bfcfe3373649f5a2d23da4e0dd476b94528b1093f012b5384bb00c3c11f5e735"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 20",
+     "bytes": 3069,
+     "sha256": "610b197412ecf58aae389600e1b7a80556e4349f4512e92497cac5500441bf19"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 21",
+     "bytes": 2926,
+     "sha256": "a5a0a9d05e963a0dd8dc923841979d1fd75dec22625312e8b8816345e1734c02"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 22",
+     "bytes": 2148,
+     "sha256": "da1ab5898e81365f7b71a411d2dc61563b60caf1573e3984fe9744bd5eaa0c44"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 23",
+     "bytes": 4966,
+     "sha256": "6bac02b41fe805bd94f38940bd15d9f684c2cb29aa097ba9845118791b27cc5d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 24",
+     "bytes": 3858,
+     "sha256": "d9dc73e101b296068ce37b877d5b9fe1946e92ffba18e7ccaef33818703e55a7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 25",
+     "bytes": 4338,
+     "sha256": "217cd84dd98cb3616c53e75a59cac4bb5b5b2ece21594efb0553b0a33110bef5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 26",
+     "bytes": 4139,
+     "sha256": "e506ee3330647f1543dd460060155f3a596d4591db48cdda2c408a170ec3b99b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 27",
+     "bytes": 4746,
+     "sha256": "d6fac5b68d8d7b2b7fbfa54f5f20418df7296e8775a05c5bf3b026d7295525ee"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 28",
+     "bytes": 2762,
+     "sha256": "f3074861e251ece07b1de3d58593e2e533cd47ce8858c2fe011c89c252d1195c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 29",
+     "bytes": 2358,
+     "sha256": "39438ed189d31bde0b89cfb424fb4757a831c3ebb7140815fbc984d81f4fd021"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 30",
+     "bytes": 5706,
+     "sha256": "0d76caa244a52f2d5619da93bd809f45569f91a7508cf2b14c09feb312de417d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 31",
+     "bytes": 3634,
+     "sha256": "cc1e0b5228e6b3fe3091dc64f5aae10f1b3c68a9889cde4a5aca1d29928dadf4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 32",
+     "bytes": 5476,
+     "sha256": "3af6f2ee08fcf8e7183624f1dbf435dfeeae846e4ae54924fbd55a9134d0d438"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 33",
+     "bytes": 4130,
+     "sha256": "c88ba92929b43be2a20bb79a046df44e6b3294c733076a840d32e8afcbb1fe0f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 34",
+     "bytes": 4654,
+     "sha256": "69fd7d44371f4295c78a5fe2f089fea47180545799510db55da255321f2ae3ce"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 35",
+     "bytes": 4162,
+     "sha256": "f228cce121c9a95060edfa7669492f5fadce362a62b37f83fa4ee50da391c3a9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 36",
+     "bytes": 2791,
+     "sha256": "bb1dc3d32b2f8ae5f3a1049f200835790992493c1596925838bbaf772c95a981"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 37",
+     "bytes": 5084,
+     "sha256": "d4a50b829175d93ff21b6af8f4df19f222e6776cd5ed54f00651c6c98cf33b9e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 38",
+     "bytes": 2901,
+     "sha256": "e85ef97ba13a710e8acc1009b9dfcc8085200217ef102448ed4cccd0c0ca508c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 39",
+     "bytes": 2568,
+     "sha256": "a68e43ccfdb4b9f4ae494ba0fd9ffde1eaefbd2c413ecb400576067ec1cbb4a6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 40",
+     "bytes": 3782,
+     "sha256": "5aa322e51dcfec19d563edb4f947ab7620639253527be7fefcb87579e624ff56"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 41",
+     "bytes": 2046,
+     "sha256": "6d77f405e37a3d351c46f50a632dbd7050b376515c4aa6ffa26398b807215bf1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 42",
+     "bytes": 2567,
+     "sha256": "9b3449bb3310d7862362e99ff9b34dc6eb2ed849f77128a721cc245c7db8a42b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Against the Epistle of Manichaeus/Chapter 43",
+     "bytes": 1853,
+     "sha256": "a59dfa3aef29be4d6c6793f759af11363d8da608d63845a736c9993b355eb717"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Chapter 1",
+     "segments": 4
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "Chapter 3",
+     "segments": 3
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "Chapter 11",
+     "segments": 3
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "Chapter 12",
+     "segments": 3
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "Chapter 13",
+     "segments": 3
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "Chapter 14",
+     "segments": 3
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "Chapter 15",
+     "segments": 3
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "Chapter 21",
+     "segments": 3
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "Chapter 22",
+     "segments": 3
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "Chapter 25",
+     "segments": 3
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "Chapter 26",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "Chapter 27",
+     "segments": 3
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "Chapter 28",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "Chapter 29",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "Chapter 30",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "Chapter 31",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "Chapter 32",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "Chapter 33",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "Chapter 34",
+     "segments": 3
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "Chapter 35",
+     "segments": 3
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "Chapter 36",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "Chapter 37",
+     "segments": 3
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "Chapter 38",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "Chapter 39",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "Chapter 40",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "Chapter 41",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "Chapter 42",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "Chapter 43",
+     "segments": 3
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 43,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 0
+ }
+}

@@ -1,0 +1,1026 @@
+{
+ "workId": "augustine-holy-virginity",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "augustine-holy-virginity-csel-lat-ogl",
+   "role": "original",
+   "language": "latin",
+   "credit": "De sancta virginitate, in Sancti Aureli Augustini Opera (Corpus scriptorum ecclesiasticorum Latinorum 41), ed. Joseph Zycha (Prague, Vienna and Leipzig: F. Tempsky; G. Freytag, 1900). Open Greek and Latin, csel-dev, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa060/stoa0040.stoa060.opp-lat1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 263098,
+   "sourceSha256": "e6a7035f35ca8bc9151773db302c21304c256cc419930fd4f7f207c560004e80",
+   "leftOut": {
+    "milestone": 56,
+    "lb": 1438,
+    "note": 138,
+    "pb": 68
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 12280,
+    "garbledPerThousand": 0.7,
+    "joinedPerThousand": 0.1,
+    "numbersPerThousand": 2.1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "45",
+     "title": "45",
+     "segments": 1
+    },
+    {
+     "file": "0046.json",
+     "ref": "46",
+     "title": "46",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "47",
+     "title": "47",
+     "segments": 1
+    },
+    {
+     "file": "0048.json",
+     "ref": "48",
+     "title": "48",
+     "segments": 1
+    },
+    {
+     "file": "0049.json",
+     "ref": "49",
+     "title": "49",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "50",
+     "title": "50",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "51",
+     "title": "51",
+     "segments": 1
+    },
+    {
+     "file": "0052.json",
+     "ref": "52",
+     "title": "52",
+     "segments": 1
+    },
+    {
+     "file": "0053.json",
+     "ref": "53",
+     "title": "53",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "54",
+     "title": "54",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "55",
+     "title": "55",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "56",
+     "title": "56",
+     "segments": 1
+    },
+    {
+     "file": "0057.json",
+     "ref": "57",
+     "title": "57",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "augustine-holy-virginity-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Of Holy Virginity, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. III: Saint Augustin (ed. Philip Schaff; New York, Christian Literature Co.), trans. as printed in NPNF I vol. III (the Wikisource copy credits Philip Schaff et al.) (New York: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_III/Moral_Treatises_of_St._Augustin/Of_Holy_Virginity",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 158245,
+   "sourceSha256": "63531c858b79600cc9a48848c9c09c994501ffbef5b0eef9c08db92da6d4d9e0",
+   "leftOut": {
+    "note": 195
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 1",
+     "bytes": 2376,
+     "sha256": "d54b8c9e7c2ffafa0bf510c2c3970c153cda698a47d17f88be658e152cd31165"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 2",
+     "bytes": 1969,
+     "sha256": "24d4b29b15a87f38214555fde104d39f6287c7e3aebe378fdbac89a4bcf09bfe"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 3",
+     "bytes": 2268,
+     "sha256": "e2f95d77834dd0585d76ad61aef0aaeeb7e1e96d5115f66b8432199760cdad14"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 4",
+     "bytes": 2828,
+     "sha256": "5780059ff38fc40044f8ae36b491c1eebb30cf9d270005ae51c7f3af839b5fc3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 5",
+     "bytes": 2218,
+     "sha256": "e4798d717f8783091789059f0b1875872da5abc7fcb26989c93fbace927e1b45"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 6",
+     "bytes": 2660,
+     "sha256": "51857eace51d094ea3231976ecdfb629fe5f0f1e9be6479579b15488dbde6f2a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 7",
+     "bytes": 2775,
+     "sha256": "199125e17a70ec624907ef774c1b8a46afc3e59e02e63be39aaf867067f80085"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 8",
+     "bytes": 1906,
+     "sha256": "d2c9d29150dc016c8518867919e061644a151c25e2094841815d3cba7a1cca57"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 9",
+     "bytes": 2652,
+     "sha256": "88163a834453df72eddc6bfd3960137d3a69698baad82c41cf3c6806a8769704"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 10",
+     "bytes": 1366,
+     "sha256": "975260ba7304686da8612aa3fa4bfe38077a7fffbb0010f34cfbf51782d7ede0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 11",
+     "bytes": 2494,
+     "sha256": "e9d9bd8fe629803822874d69432f0848c49358326451a8dc132ac55a363d5c60"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 12",
+     "bytes": 1880,
+     "sha256": "8167c1a09b11061994c1909f5289cb4467d637b8c70170ac0b337ef502178d50"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 13",
+     "bytes": 2159,
+     "sha256": "b18d315c4d3dcf8361ac7236ff29f74377d0b9b5a15d7863416a7e7f4d53a3ed"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 14",
+     "bytes": 3319,
+     "sha256": "a3d9eae22665f00e9e93930b27ed19b270857a14edda5d303874ff520214a548"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 15",
+     "bytes": 2860,
+     "sha256": "8cf04ec87dcc9382846d46dfac8f559760518e7ea9a8f5282d830e61c14bedec"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 16",
+     "bytes": 2541,
+     "sha256": "183b87ae99b5dcc1ac1ddeb6c393fa727664af3faf78feeb17fd10efe90eb269"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 17",
+     "bytes": 2344,
+     "sha256": "9fc97d7ebdfc42cfc8f3608842d75fcdad587c9209a5c615e5a75ea076bc2fc1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 18",
+     "bytes": 3488,
+     "sha256": "352a1e4062d92e6fc8fb26d078a9bb4bc06a838d689a4db5bf93e4677ea754b8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 19",
+     "bytes": 2456,
+     "sha256": "d934d5bf5b56894d7914a89afd51eb8a6a5610a347fa3704b79aec4e937a2442"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 20",
+     "bytes": 3058,
+     "sha256": "631a9154dc8a5ba41ede3affba19fbd2222eab0fbd5545e6a0da6b424a87b37a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 21",
+     "bytes": 4128,
+     "sha256": "e62ac01e2c35a48747adb08ce2de71a549b7dcedba9092c24d211aba855335c2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 22",
+     "bytes": 3209,
+     "sha256": "72407124aa61d8dcc3c6d9ed20fbe4f016d9e639738c009177c1f892d2d2ed94"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 23",
+     "bytes": 1920,
+     "sha256": "59d10f5bfbaa148dc70add34a0b9743b09244c1ac33b40c1a13c9ecd52a9eeca"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 24",
+     "bytes": 4149,
+     "sha256": "08d52efed8b192ca5a3e03b158e3de0c3bb16b9949d6d741b95b4091d0628df6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 25",
+     "bytes": 2916,
+     "sha256": "f44774358f1ef13064c00ff0bf19dbf15d54b8350f087c1c6519e77a0598608f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 26",
+     "bytes": 2769,
+     "sha256": "fd2064cbab3fa7844b7b15985883373679dfe0297e97bad0a44a435a9c29a4fd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 27",
+     "bytes": 3725,
+     "sha256": "5e63e9bc1564bb612de53515d8c36706248dfeb086077d3bd1245b14ac4ab9e8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 28",
+     "bytes": 2585,
+     "sha256": "7be9d55e307172d057d8feb9b1db19e4a4f26cd69167321a2e5291e26a33e713"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 29",
+     "bytes": 2830,
+     "sha256": "670189b183bce672dc7183465176a4ac6f3079b76f4668dc34898e93d30a22bd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 30",
+     "bytes": 2093,
+     "sha256": "6a940a8ad6bda5294d6262c02d9fd30bd7482d17f6b7b5d47f36f44b54cc03b4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 31",
+     "bytes": 3238,
+     "sha256": "bacf3475522f77daea61d05a59ed07d075693345a5a405bf00a73b9fceb83c36"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 32",
+     "bytes": 5845,
+     "sha256": "8fe46ed19f183826a5587688cabdc18c9218c41b76b1c936bc70dfc5def54f5d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 33",
+     "bytes": 1607,
+     "sha256": "9ef14228398a3b89b777591084db5557b9931e14062570210929971dd62bed17"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 34",
+     "bytes": 3910,
+     "sha256": "804a829ffbee05e789130e3b7132765e2a5768c06daa965307ddfcb30771c92a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 35",
+     "bytes": 3368,
+     "sha256": "94ecbef0967c318590ece24dfa752f8a3f250e31c66231e6289a0ed1fc28a588"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 36",
+     "bytes": 2326,
+     "sha256": "7fbbdeababee5f48658c7cdd2734d7e14e0875c6ad380463da83ce79fb968bb0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 37",
+     "bytes": 2532,
+     "sha256": "12a1d0facc306e80d6e90a78f9ad606c4c32380e328d8ae3e5578cc4a6d7365b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 38",
+     "bytes": 3150,
+     "sha256": "da2af5a15434c3cf13493298a99a5d1592859048463d32197056c694fd404d96"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 39",
+     "bytes": 5162,
+     "sha256": "ef1d9d52e1d50c547bea28d9bcde2ebba58f0d4d68e518a78e5b2ccb98c5959d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 40",
+     "bytes": 2166,
+     "sha256": "22b108a67bff8a97e86e0a85efcdcbee0aa101f4b8961a2813dbdfe144aad2f6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 41",
+     "bytes": 4026,
+     "sha256": "9370eb578820421cbf396c725564f15e87b55fd04f007bca1aec24fce20837a4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 42",
+     "bytes": 3608,
+     "sha256": "f6bc431fc96059bc368bbb1bdc8bd310467e997010675118afae72211937f323"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 43",
+     "bytes": 2653,
+     "sha256": "5dceceaebb62e72d6b3a3e242d5feff89b177d441769683fb48f970388ee8a7e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 44",
+     "bytes": 1778,
+     "sha256": "cc9beaf6b335c8cb378af3cad13af06599d25b053c1107181ee1054724d70f0f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 45",
+     "bytes": 2935,
+     "sha256": "8c0ada36072db5767f7ba1019ba931b66a5f5597bd9ac101230aceec8be705cd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 46",
+     "bytes": 4387,
+     "sha256": "8687081190a01ed0b80359a820adb5b6e00fbd33ddf7b30bd65adff8c8c0514e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 47",
+     "bytes": 3494,
+     "sha256": "1b3c0f889467e7da05f4503f015c0adcb24813f111b311a8fcddbc337bbf35e9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 48",
+     "bytes": 2520,
+     "sha256": "90594380f8e74c6142ae38021c1ed81953276d40d87fb991168260a190714640"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 49",
+     "bytes": 2155,
+     "sha256": "5eb91e4cee3d577e5321bf6e932f97bd5f22b184d227b456f8b5a13b333334a2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 50",
+     "bytes": 1967,
+     "sha256": "a9ad5726fa053c541e1c769af89078e86820c305a028ef360847fcce9e767fab"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 51",
+     "bytes": 1804,
+     "sha256": "e2dddd16c3e93d6edffe9b4904af59fe168ecd521a51a7c020188669e9febaa3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 52",
+     "bytes": 2971,
+     "sha256": "8275280b55b2973e24287b793de270259b3a528da2b1e58498719915f4d0329f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 53",
+     "bytes": 2799,
+     "sha256": "1e73fe5616d914606fd64777138d17b1db6fefb2b581b9bf1f2fe1a01630296c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 54",
+     "bytes": 2213,
+     "sha256": "5508047b989b633842c3f6fa7a8045862351a2f3b561291abadf9b8a65b3a8a3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 55",
+     "bytes": 1655,
+     "sha256": "94bbcda6116ec623b3070ccccc20338bde9dc7269a839cf294e77996b59cb2a8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 56",
+     "bytes": 2127,
+     "sha256": "cb19534bd159c22e7ca636a1a31e36203e0a6b866b1d89ca9b0ace48fb32e977"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Of Holy Virginity/Section 57",
+     "bytes": 1908,
+     "sha256": "208f24c4d100afebb6835e3c19c6607df5c0b150550dcff887f846e5d4917813"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Section 1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "Section 2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "Section 3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "Section 4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "Section 5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "Section 6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "Section 7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "Section 8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "Section 9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "Section 10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "Section 11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "Section 12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "Section 13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "Section 14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "Section 15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "Section 16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "Section 17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "Section 18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "Section 19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "Section 20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "Section 21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "Section 22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "Section 23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "Section 24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "Section 25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "Section 26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "Section 27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "Section 28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "Section 29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "Section 30",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "Section 31",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "Section 32",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "Section 33",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "Section 34",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "Section 35",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "Section 36",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "Section 37",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "Section 38",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "Section 39",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "Section 40",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "Section 41",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "Section 42",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "Section 43",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "Section 44",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "45",
+     "title": "Section 45",
+     "segments": 1
+    },
+    {
+     "file": "0046.json",
+     "ref": "46",
+     "title": "Section 46",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "47",
+     "title": "Section 47",
+     "segments": 1
+    },
+    {
+     "file": "0048.json",
+     "ref": "48",
+     "title": "Section 48",
+     "segments": 1
+    },
+    {
+     "file": "0049.json",
+     "ref": "49",
+     "title": "Section 49",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "50",
+     "title": "Section 50",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "51",
+     "title": "Section 51",
+     "segments": 1
+    },
+    {
+     "file": "0052.json",
+     "ref": "52",
+     "title": "Section 52",
+     "segments": 1
+    },
+    {
+     "file": "0053.json",
+     "ref": "53",
+     "title": "Section 53",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "54",
+     "title": "Section 54",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "55",
+     "title": "Section 55",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "56",
+     "title": "Section 56",
+     "segments": 1
+    },
+    {
+     "file": "0057.json",
+     "ref": "57",
+     "title": "Section 57",
+     "segments": 1
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 57,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 0
+ }
+}

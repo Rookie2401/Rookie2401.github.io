@@ -1,0 +1,658 @@
+{
+ "workId": "augustine-good-marriage",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "augustine-good-marriage-csel-lat-ogl",
+   "role": "original",
+   "language": "latin",
+   "credit": "De bono coniugali, in Sancti Aureli Augustini Opera (Corpus scriptorum ecclesiasticorum Latinorum 41), ed. Joseph Zycha (Prague, Vienna and Leipzig: F. Tempsky; G. Freytag, 1900). Open Greek and Latin, csel-dev, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa035/stoa0040.stoa035.opp-lat1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 167122,
+   "sourceSha256": "336f1c13e0273edf91e354c7ae1018837ee27580a6c66171262e41fa1b1e706b",
+   "leftOut": {
+    "milestone": 26,
+    "lb": 1023,
+    "note": 90,
+    "pb": 45
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 8875,
+    "garbledPerThousand": 0.7,
+    "joinedPerThousand": 0,
+    "numbersPerThousand": 1.4
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "retractationes",
+     "title": "retractationes",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "augustine-good-marriage-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "On the Good of Marriage, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. III: Saint Augustin (ed. Philip Schaff; New York, Christian Literature Co.), trans. as printed in NPNF I vol. III (the Wikisource copy credits Philip Schaff et al.) (New York: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_III/Moral_Treatises_of_St._Augustin/On_the_Good_of_Marriage",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 107043,
+   "sourceSha256": "e5f76125447f5b9e8327ba265534dee32ad7a34b59384bc84e690b50cca41f5a",
+   "leftOut": {
+    "note": 91
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 1",
+     "bytes": 1989,
+     "sha256": "7cc91e15fc3abdf280bd5517ef8e231709668225c669135dff436b866357af92"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 2",
+     "bytes": 4347,
+     "sha256": "865b22652aad345d6b5a3c3248d91d27e7ad004d1208cbff75cb54c708e052c7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 3",
+     "bytes": 3350,
+     "sha256": "c7af7981da0f0a197a8ffa61ec88024157558c8a87a71ef020bae7144fe60a04"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 4",
+     "bytes": 3698,
+     "sha256": "fbf0c948c51d860bbfa0916ee036afb99b76c2252196b5a06518669eab9a99b8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 5",
+     "bytes": 3994,
+     "sha256": "0f86f5622abd0f7e0f5d225ce28428c4a0e81324223c6434727cc4b3b7d1bd28"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 6",
+     "bytes": 3525,
+     "sha256": "03a84178becef21c24592564c0b9f8835ff2cf9d12068b3945966b9c669793eb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 7",
+     "bytes": 3893,
+     "sha256": "81c4c6e8f870993e52d540a3afca85caab5b5b8bef76b69efd5f8e99c0edeeac"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 8",
+     "bytes": 4562,
+     "sha256": "ea2687dcf537d64b242f1221e68504bc604ff28f9642ca722630aa88c1ff6d4e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 9",
+     "bytes": 3230,
+     "sha256": "1c03291925797a93feeab8fef3fc017c669adb96e143c51809bedc3a29c92b3a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 10",
+     "bytes": 2534,
+     "sha256": "282c45481d6a6336930bf31f7e111e748671f808f3ab11bfeb53a89ecfc4817c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 11",
+     "bytes": 3358,
+     "sha256": "133d225d10f0d35405cfaec9dc5cc657b06fd6d0f9586b3b9697c4fac2c75be6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 12",
+     "bytes": 2550,
+     "sha256": "c35f664c29d944e1a741402a30f315131fb0f218b972dd2dab5b11e24a620be1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 13",
+     "bytes": 2462,
+     "sha256": "2ed9c066e50a83f1d5a2fae8956f7712cc04c47c0807c76c93fd2713e85ce2fe"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 14",
+     "bytes": 3309,
+     "sha256": "b856ada2c4ea5e7913701891f36ab0efb307f52b3a35fc4317c6d1cb047b41e2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 15",
+     "bytes": 3760,
+     "sha256": "853cccca5306e7946ead6758b86777b89712ff3dbbcc53cc3b49328e7a8d3572"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 16",
+     "bytes": 2300,
+     "sha256": "2de392e81543c56c53aaecf85663235e92a12b98be7cbc406b17dd3c31673397"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 17",
+     "bytes": 3066,
+     "sha256": "96627511e92188f3fd5de738b20740b378a777a5147feff1ef2cf29b05a9baee"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 18",
+     "bytes": 3473,
+     "sha256": "55473e31be8ecd988c1232b74370cce6ba6295a1d0373c62f2e16f200b99f04a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 19",
+     "bytes": 2633,
+     "sha256": "53e003b50e50ec3228a6a1974057cc5f9e436829c917c3bcc6616535bb29cf4c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 20",
+     "bytes": 2099,
+     "sha256": "fc4686113a65a05ee3878f94596525ad51e7eab9f0200c94f1a22fbd762ef250"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 21",
+     "bytes": 4396,
+     "sha256": "6933c1ef0d97fc2d009dfcffbe2601d1a504eb67bec6f60f623e6e723c3fd6b5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 22",
+     "bytes": 3581,
+     "sha256": "2aa602527e2768de37c880c067e32293e8c5c04648110c110b3d7a6f1e968071"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 23",
+     "bytes": 2684,
+     "sha256": "477b656bd5cea93bb29e8facd02597625fa798b0139a0312fa1fb0f99fe4c774"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 24",
+     "bytes": 1607,
+     "sha256": "875a72e0317f1c3644d6d0d20862ec299f2990aec3509b4c4dcf8797c6361332"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 25",
+     "bytes": 3420,
+     "sha256": "3675a1e81882b2b66e5f72ae4b5dedd62938f2ec1aa433d7b203dd79359a683f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 26",
+     "bytes": 3334,
+     "sha256": "b1c8b481424314c13d1e099c797853028f4b1bf7d9ea1d096925c70315b552da"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 27",
+     "bytes": 4356,
+     "sha256": "65904fb695333ef7b3d154a7add9a7d75c106c5226c1a26fbca766f3496b58b2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 28",
+     "bytes": 1556,
+     "sha256": "73ef841fb85771f3f0c406b0be77e5bd09d8513cb1a3a6b7e9c48b7a9ebfdfe0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 29",
+     "bytes": 2079,
+     "sha256": "4c7fd0b787e2fd8944065c679509df6e91b483b6e03a907274a65f8eb39f7bbd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 30",
+     "bytes": 2493,
+     "sha256": "73dfc46202628c4ea0afffb3ddaae8de4d1e0d877f5184729fba93266e1e763b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 31",
+     "bytes": 2874,
+     "sha256": "7cc8f0c15e10d22c68eb95839e4b4cf87f5257525079c8957a62ceda13580ff8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 32",
+     "bytes": 3916,
+     "sha256": "bac5387912e2016295c6bfe1b168f26b62d15db3062aa1035aa66acc63435be5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 33",
+     "bytes": 1689,
+     "sha256": "7e29681436a886cf5c62805b79b813c7fa374a1f125fbfa8188154ee87733c5d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 34",
+     "bytes": 2385,
+     "sha256": "200c87d78224e4908bd5540aed09c9e688d43bb6b6945a98f892d4f9d1e3833d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/On the Good of Marriage/Section 35",
+     "bytes": 2541,
+     "sha256": "3b90a8850bb6eb2196573544479b08f50c46fc93745d01f3bd9aa9a527cbbcf3"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Section 1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "Section 2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "Section 3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "Section 4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "Section 5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "Section 6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "Section 7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "Section 8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "Section 9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "Section 10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "Section 11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "Section 12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "Section 13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "Section 14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "Section 15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "Section 16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "Section 17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "Section 18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "Section 19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "Section 20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "Section 21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "Section 22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "Section 23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "Section 24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "Section 25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "Section 26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "Section 27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "Section 28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "Section 29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "Section 30",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "Section 31",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "Section 32",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "Section 33",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "Section 34",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "Section 35",
+     "segments": 1
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 35,
+  "onlyInOriginal": 1,
+  "onlyInEnglish": 0
+ }
+}

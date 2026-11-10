@@ -1,0 +1,873 @@
+{
+ "workId": "augustine-original-sin",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "augustine-original-sin-csel-lat-ogl",
+   "role": "original",
+   "language": "latin",
+   "credit": "De peccato originali (De gratia Christi et de peccato originali, book II), in Sancti Aureli Augustini Opera (Corpus scriptorum ecclesiasticorum Latinorum 42), ed. Karl F. Urba; Joseph Zycha (Prague, Vienna and Leipzig: F. Tempsky; G. Freytag, 1904). Open Greek and Latin, csel-dev, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa056c/stoa0040.stoa056c.opp-lat1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 132956,
+   "sourceSha256": "6b7f964b0123fc5fd10e2f3aff6d55d915b22186aa121cf7cad16346cb96b3f7",
+   "leftOut": {
+    "milestone": 41,
+    "lb": 1069,
+    "note": 78,
+    "pb": 40
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 9412,
+    "garbledPerThousand": 0,
+    "joinedPerThousand": 0.2,
+    "numbersPerThousand": 0.2
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "45",
+     "title": "45",
+     "segments": 1
+    },
+    {
+     "file": "0046.json",
+     "ref": "46",
+     "title": "46",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "47",
+     "title": "47",
+     "segments": 1
+    },
+    {
+     "file": "0048.json",
+     "ref": "48",
+     "title": "48",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "augustine-original-sin-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "On Original Sin (book II of On the Grace of Christ, and on Original Sin), in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. V: Saint Augustin (ed. Philip Schaff; New York, Christian Literature Co.), trans. as printed in NPNF I vol. V (the Wikisource copy credits Philip Schaff et al.) (New York: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_V/On_the_Grace_of_Christ,_and_on_Original_Sin/On_Original_Sin",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 143613,
+   "sourceSha256": "8e3dc269d0dc26679c455ec5b404bc5db77c3269d89e1f40e4e9196e1e588545",
+   "leftOut": {
+    "note": 121
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 1",
+     "bytes": 2339,
+     "sha256": "ee1886b4aea45def69b65cf39d0c475ae950500633afb88f613def4e21699d86"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 2",
+     "bytes": 1990,
+     "sha256": "13c2fc1679975ec86850416021cf4ae08d02260e412348ec34aa029ef136394e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 3",
+     "bytes": 5943,
+     "sha256": "5348129beb4e3ab46896c25e6cdd1a5dfee8e2bc8b291c5505717ee7cfcba5e3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 4",
+     "bytes": 1497,
+     "sha256": "a3cbde7745867f0656187b5d68846d67aaf5a58e8b79625a7cef9a2b32040395"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 5",
+     "bytes": 2288,
+     "sha256": "97a3c9c945b4de1f7b314c77dae5ac06a20160e62fdc7f9bccb021aa6c4cac5b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 6",
+     "bytes": 2084,
+     "sha256": "e81c5e19df0126763523a257d6aff980019353b31f9c79b5f13a355545d1cf73"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 7",
+     "bytes": 1746,
+     "sha256": "e97edec9b4d5b7fe79007455dcdee557772594e0539c92dba0f393e143e4fd6a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 8",
+     "bytes": 2552,
+     "sha256": "364b747baef8eabc10ab9f00d78fc522860791421daf0a3f91482a283756c6ea"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 9",
+     "bytes": 2895,
+     "sha256": "c6adc9ae43f675c962496e9bec9af677a60a64d8d8dfca09d2c1b2f27042fbec"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 10",
+     "bytes": 3280,
+     "sha256": "1f8d4e150274801b26854e93582efac9bdf06fffd0d3aee78ea56b5fcdc46369"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 11",
+     "bytes": 2332,
+     "sha256": "2b71466b27bb432e16e7e3637b473fb17c05e37371cd6fc435f0887a400e7612"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 12",
+     "bytes": 3475,
+     "sha256": "56cf4752d0d6e0155cfd0d0b29d4a334d899d92f3600ccd2748d1b46aa0d026e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 13",
+     "bytes": 2520,
+     "sha256": "23f02f700b24bece9f4c51d6f741eeafa5dc5b8ff72cd0a79b428b4c360b82c8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 14",
+     "bytes": 3972,
+     "sha256": "8d6c5bcfb298bb111bdce5a0e4b1149663f96688cf3ae497439b858e293cc16c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 15",
+     "bytes": 3287,
+     "sha256": "c97fe70c37eeab6172e6bd7db31b5e1645bc5a72dcfe501c9680ce69f8adcf94"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 16",
+     "bytes": 2459,
+     "sha256": "dd265e24566786f1599f754d188d54f77a41cbf9235eff47f8f3067da6fb9446"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 17",
+     "bytes": 3596,
+     "sha256": "60b8264bb82a4a800b4c53234a02143f1f12ab1889af39710da4a907decfee92"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 18",
+     "bytes": 2162,
+     "sha256": "77329181862860e88c74047e0dbfa5303264ac0096557cbd5ec3a9a4da3de9ad"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 19",
+     "bytes": 2789,
+     "sha256": "b51730cb506e6521e25d39fe18eaf3b3e2fc5fb0af0fa8ddfc893f53fbbf2e8d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 20",
+     "bytes": 2011,
+     "sha256": "8b4a11d40d9cde07b37c9af140556d9536497cca89cdd8a7b665e800ef93a03a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 21",
+     "bytes": 2374,
+     "sha256": "88fc2cd9122ab3c78ad022367c031e10c8c1c6aba589f1129eb0a51349a5dd8c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 22",
+     "bytes": 2459,
+     "sha256": "011fb7eb260c43320f4d9fd0310252124bb1d539a8e20c60b23ad158bb8bf0ed"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 23",
+     "bytes": 2171,
+     "sha256": "9d150907576306ef2986efee0cc1eb77f69d2171bc03cf79851be50a7da951b1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 24",
+     "bytes": 3658,
+     "sha256": "428f4848875d93fa2dff0a87dfa9dd23050a31cee8585223a80824b651ffee61"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 25",
+     "bytes": 2342,
+     "sha256": "2e8152e2c44efc8c603434d06027d830f5d7db5d820bcdccf77e148e3eec71ac"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 26",
+     "bytes": 4218,
+     "sha256": "23d1589c7f26d350009d2d222e81e3da9c42ee447e0ba007c6138e11ed5db34d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 27",
+     "bytes": 3689,
+     "sha256": "2e450e4c39273b5367f724cbc38f38e1423faa5cd464419368e00a75ba82a988"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 28",
+     "bytes": 3305,
+     "sha256": "7eec53553d79bd38842c0f540bcaa3e656e615273e810a6e3f27a5e508e5fbd1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 29",
+     "bytes": 5759,
+     "sha256": "2967585c8d1e7ada9b4f44032778ea30e2fc34cd6e09227a983598a73e34e3af"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 30",
+     "bytes": 1924,
+     "sha256": "f925327baed81e86bd3cc2ae58971a8bf9d7f8589eacace694b7c9caf1bd67ff"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 31",
+     "bytes": 3544,
+     "sha256": "2eab3d8196e92db4ec21f8d6330eb6629d2f5ba4f917ff751fbcf4bc47968095"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 32",
+     "bytes": 4326,
+     "sha256": "5ffd33b04c7f6bb9c932e731e55bd1885530e67f90bf3bb84aed03055f59faa7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 33",
+     "bytes": 2287,
+     "sha256": "f918b4636ec851180d1ed37fe966d5991ef65dffc6d5ffefe015aa35a402bf12"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 34",
+     "bytes": 2207,
+     "sha256": "4d5eac852dc9836441189f0c06536d13d0b02c22cd070662e0484d2126b4fba6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 35",
+     "bytes": 2814,
+     "sha256": "c995ac6b3b31ffad60f5cb13e8fa35890ec425f30303178475960a8681faf562"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 36",
+     "bytes": 2382,
+     "sha256": "26c510e0577e33db949b53b7b00ee72493473a65a97081c668a38065e32d4957"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 37",
+     "bytes": 3222,
+     "sha256": "e9fe7b1cba99655d2ee1078b95ff6988589da2eb476b55d53b4262e55d4cc2b0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 38",
+     "bytes": 2595,
+     "sha256": "46c401d955ed45015f0d570a7b0c3614d80b044b442845de67ab120b333d5af6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 39",
+     "bytes": 4077,
+     "sha256": "e601f59d62e9b2dc8995d7088b7a514316dd9614bfa407451e99f2e3ea71c11b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 40",
+     "bytes": 2861,
+     "sha256": "c0fff99143cee55b609744dad29e95e93455ff7b78fa8845ddbce44154726005"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 41",
+     "bytes": 2831,
+     "sha256": "6fd22134337902ec967cf1a5d0f1d3165beaf5b6bcd5a0962f3f728e7359541c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 42",
+     "bytes": 2969,
+     "sha256": "f821e9d6e92cd74d2ea520ac3a1d71586c27f9179c99b350922dc7ea81b4c8e2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 43",
+     "bytes": 2831,
+     "sha256": "ad5e5b23c15408a0316266478ebf0be9131baa59091317bd5fcaf88ea59965a9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 44",
+     "bytes": 3559,
+     "sha256": "d7b9588814107441ccbf0a7869d0ef2ba570a69d2709f500dcd75a72803128d5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 45",
+     "bytes": 3950,
+     "sha256": "b2407cff57ae62ab9d7b0bbdfbc988cf6861bae79c086689267ac89d659326fb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 46",
+     "bytes": 3951,
+     "sha256": "9e775d608205c852b820cef9d9776e80acba043cc5ba9e92d5bcc117652260d5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 47",
+     "bytes": 3833,
+     "sha256": "c807744d631d8554f6a5ae4f8217be4ec49a3131be797025c5725bb5889e548a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Grace of Christ, and on Original Sin/On Original Sin/Chapter 48",
+     "bytes": 2258,
+     "sha256": "2f3971bf595de7b9c65198afcd45afa76847a7c54f2e7b168f54e8e492be1b9e"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Chapter 1",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "Chapter 25",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "Chapter 26",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "Chapter 27",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "Chapter 28",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "Chapter 29",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "Chapter 30",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "Chapter 31",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "Chapter 32",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "Chapter 33",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "Chapter 34",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "Chapter 35",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "Chapter 36",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "Chapter 37",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "Chapter 38",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "Chapter 39",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "Chapter 40",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "Chapter 41",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "Chapter 42",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "Chapter 43",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "Chapter 44",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "45",
+     "title": "Chapter 45",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "46",
+     "title": "Chapter 46",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "47",
+     "title": "Chapter 47",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "48",
+     "title": "Chapter 48",
+     "segments": 2
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 48,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 0
+ }
+}

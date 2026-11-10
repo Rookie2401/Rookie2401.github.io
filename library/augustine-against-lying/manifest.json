@@ -1,0 +1,754 @@
+{
+ "workId": "augustine-against-lying",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "augustine-against-lying-csel-lat-ogl",
+   "role": "original",
+   "language": "latin",
+   "credit": "Contra mendacium, in Sancti Aureli Augustini Opera (Corpus scriptorum ecclesiasticorum Latinorum 41), ed. Joseph Zycha (Prague, Vienna and Leipzig: F. Tempsky; G. Freytag, 1900). Open Greek and Latin, csel-dev, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa029/stoa0040.stoa029.opp-lat1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 222720,
+   "sourceSha256": "53d89565aef8c36f24e76635cb595b16f0780ed00aa7645b02a8baf32c15072c",
+   "leftOut": {
+    "milestone": 21,
+    "lb": 1371,
+    "note": 105,
+    "pb": 60
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 11829,
+    "garbledPerThousand": 0.2,
+    "joinedPerThousand": 0.1,
+    "numbersPerThousand": 2.2
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "augustine-against-lying-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Against Lying, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. III: Saint Augustin (ed. Philip Schaff; New York, Christian Literature Co.), trans. as printed in NPNF I vol. III (the Wikisource copy credits Philip Schaff et al.) (New York: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_III/Moral_Treatises_of_St._Augustin/Against_Lying",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 137161,
+   "sourceSha256": "927468daa139728eea05966fe9f4f7aa1208eb6ead1e01bbe624b01249186c6a",
+   "leftOut": {
+    "note": 92
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 1",
+     "bytes": 3904,
+     "sha256": "e6754649a64e4e4ac991f2e0c724602ea3333069f0c4129d474ec33e1dccab4d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 2",
+     "bytes": 2509,
+     "sha256": "7542767be4154c57d1e4b5922f0deb2355fb777b0bcabf5ea3fdde1a5cc3bf7d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 3",
+     "bytes": 3968,
+     "sha256": "c171bd3a7e79626d8809bdae7be4b2a1d6eeaa7bd8782ac29feeecc56f690aa6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 4",
+     "bytes": 5079,
+     "sha256": "5679f05a81132fe0485f35597c7f5042c743ea0d2b0356f16022a7c1292b9bb4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 5",
+     "bytes": 3103,
+     "sha256": "3a47992cb7864d012d785a4ab7bbfe837d1c4ea6339551099a311615e6e8f4fe"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 6",
+     "bytes": 2276,
+     "sha256": "863af41a6f0c656f1d80735c2d53a75047b88e60681dbdaba43b4928499b16cd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 7",
+     "bytes": 1950,
+     "sha256": "1a86c5d4d14c78deec6d732ae8d39e90923f27462475d05e951beaaab87fc8bc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 8",
+     "bytes": 3591,
+     "sha256": "125e2b0b85324d401a32c6f099e06f5bae7ea967337da0f505fc5212dd32258e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 9",
+     "bytes": 3110,
+     "sha256": "3ce1a1802eb3f102b901697da9fe334310233e640540d11b64466b35717a6720"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 10",
+     "bytes": 1367,
+     "sha256": "7dcc6e3c70806704fe1a3c5cb2cf367ee2bf52700c95cb5e7ecbb88828008cac"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 11",
+     "bytes": 2721,
+     "sha256": "cc69e6cbd2a3f308dedd251dbee3285ba381a55a5286f8d5cea1df00003b1109"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 12",
+     "bytes": 2656,
+     "sha256": "cae2796cc343e3770d64828726b00f6b9fa31e86897c5b93a90dbcd1770a1a0b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 13",
+     "bytes": 2158,
+     "sha256": "0fb7ebe2871e389641c28ef0ad5d781249665bae79b4f1e8a2fc4182eb5ed032"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 14",
+     "bytes": 2118,
+     "sha256": "cb984d77888b94b86ec277bfaf6c8615b268d326e321fe37221038514435044b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 15",
+     "bytes": 1773,
+     "sha256": "529cbb99d65fb17f4897820e724349b572a40fb2710dd6c6515c3f2c5d9ee15e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 16",
+     "bytes": 1457,
+     "sha256": "7abf719954f8490cfcedf10ca28185acb7598ccac27ac777b15e825553f90b0b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 17",
+     "bytes": 3914,
+     "sha256": "78c36bdb6f3df89c2444ccab46da92d4dd18825fa33b291aa09552fd98e29c11"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 18",
+     "bytes": 5614,
+     "sha256": "c3dd637c44b1f8072f90d4edfdae908ae672c4ee56051e3443e9e7f19f689f1b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 19",
+     "bytes": 2428,
+     "sha256": "8d0d46fff445eb7bce8d416a717770c1c5289aacca23ab2ae955b3122110b5aa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 20",
+     "bytes": 3935,
+     "sha256": "0fc7ad3027b108044fdd6e116d33c944949d1ba3edb3b3b89e82faf32eb84b8d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 21",
+     "bytes": 3171,
+     "sha256": "38db0f9ef2e709916799e6418406baf2ee77543b459e62281c5fcde4c7de6546"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 22",
+     "bytes": 4938,
+     "sha256": "a5bac59489bb2a6f8289ffedeb7664b3122eec72aa69259605eef579f883690d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 23",
+     "bytes": 3349,
+     "sha256": "0f9f78481159669bb1a13f174a1e40c06488785b14104f11f9edd2e5d0024b77"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 24",
+     "bytes": 6699,
+     "sha256": "73dda31d36262a44c1169c87e2f0bc7a3cf46ea161cefb22a13948531c858d67"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 25",
+     "bytes": 4310,
+     "sha256": "54d57965bdcf8da9949db6a7978390ec6ddd8fb0d93ee017844f01e02781bed5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 26",
+     "bytes": 5862,
+     "sha256": "621aacb45d37a20c3eb3f4efff79f8109c47d95fe7dcf98ffec6acb0dc5902cb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 27",
+     "bytes": 2220,
+     "sha256": "c7bcc3048455207603ea6911f0a8d32036576bccc636a0c3112d47127a261ce5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 28",
+     "bytes": 3956,
+     "sha256": "a9cc885bebeffc4c861986d1f1eacd3ea6e14aca1ca1559c682b45d883da4553"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 29",
+     "bytes": 2826,
+     "sha256": "2d5ec2b45a4105cac0ad719a75c35770578acb5f8d2026ee55195fb90929af33"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 30",
+     "bytes": 2174,
+     "sha256": "2f524e35e647f0dc71e2c79224bb84d92fe917156fd00bb7ee1375c37af824d3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 31",
+     "bytes": 2627,
+     "sha256": "e2c96572a58c277123bf8c994cee063bf9747dee4f43c9a4806b9f17072c6b89"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 32",
+     "bytes": 2906,
+     "sha256": "f5a93553606a9b59a46eedc774037434c54e87ef7674ca55ecb7f5ca5fff1bce"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 33",
+     "bytes": 4003,
+     "sha256": "925e68aa22eb7747e5a583ba46063a3bc7854baef46625c86715ec03d300053e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 34",
+     "bytes": 5216,
+     "sha256": "26bbe51bc2260b0ee5f64183f2c5f339e24c75b995585edfeb9fda733b77a9dd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 35",
+     "bytes": 1786,
+     "sha256": "5fe23f9baec6793a0c7e84fff981f5cae47c9a949792f16404c0dd03153e987c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 36",
+     "bytes": 3704,
+     "sha256": "ab3876e98cbc73f01fb07bd9535144467f679c382f0c1a38c1be9f940cbcd742"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 37",
+     "bytes": 3575,
+     "sha256": "729ca12527d4fcb111d6288ddfc35a4a5544404a2f91139f5b8c3a174bdf4ba4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 38",
+     "bytes": 2995,
+     "sha256": "1258e05fc848d3a918db6ab6bea0cd0e6be41f9c1de173a5d43ff21f2aa227ad"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 39",
+     "bytes": 2708,
+     "sha256": "9a943dc5b7b4bdae21bdd0f7a049ac676ea7e9fddb1ad387bad6a3a0eff3f5fc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 40",
+     "bytes": 4869,
+     "sha256": "fa41a251026597ec4bd9688e6014867886b7639fd7fdede79fe6eda951f4825c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Moral Treatises of St. Augustin/Against Lying/Section 41",
+     "bytes": 3636,
+     "sha256": "d814778269099cb1410c6072d4f1be30356b1c50959732864c4161dbd7d5b91b"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Section 1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "Section 2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "Section 3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "Section 4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "Section 5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "Section 6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "Section 7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "Section 8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "Section 9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "Section 10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "Section 11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "Section 12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "Section 13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "Section 14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "Section 15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "Section 16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "Section 17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "Section 18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "Section 19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "Section 20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "Section 21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "Section 22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "Section 23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "Section 24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "Section 25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "Section 26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "Section 27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "Section 28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "Section 29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "Section 30",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "Section 31",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "Section 32",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "Section 33",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "Section 34",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "Section 35",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "Section 36",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "Section 37",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "Section 38",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "Section 39",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "Section 40",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "Section 41",
+     "segments": 1
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 41,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 0
+ }
+}

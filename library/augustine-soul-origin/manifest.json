@@ -1,0 +1,1407 @@
+{
+ "workId": "augustine-soul-origin",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "augustine-soul-origin-csel-lat-ogl",
+   "role": "original",
+   "language": "latin",
+   "credit": "De natura et origine animae, in Sancti Aureli Augustini Opera (Corpus scriptorum ecclesiasticorum Latinorum 60), ed. Karl F. Urba; Joseph Zycha (Prague, Vienna and Leipzig: F. Tempsky; G. Freytag, 1913). Open Greek and Latin, csel-dev, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa033/stoa0040.stoa033.opp-lat1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 440279,
+   "sourceSha256": "0a45559dd62ae82b013de16334414bf977f3030776633c6a5ff1672b68af62f8",
+   "leftOut": {
+    "milestone": 76,
+    "lb": 3157,
+    "note": 257,
+    "pb": 117
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 30354,
+    "garbledPerThousand": 0.1,
+    "joinedPerThousand": 0,
+    "numbersPerThousand": 0.1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 36
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 24
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 24
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 40
+    },
+    {
+     "file": "0005.json",
+     "ref": "retractationes",
+     "title": "AVGVSTINI RETRACTATIONVM LIB. II CAP. LXXXII (LVI) (PAG. 195,5 ED. KNOELL.) DE ANIMA ET EIVS ORIGINE LIBRI IIII.",
+     "segments": 2
+    }
+   ]
+  },
+  {
+   "editionId": "augustine-soul-origin-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "On the Soul and its Origin, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. V: Saint Augustin (ed. Philip Schaff; New York, Christian Literature Co.), trans. as printed in NPNF I vol. V (the Wikisource copy credits Philip Schaff et al.) (New York: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_V/On_the_Soul_and_its_Origin",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 395593,
+   "sourceSha256": "c557bbd6e2389bfb6d491cf893eed242fd272c3dae47c06fb85474db91f4e190",
+   "leftOut": {
+    "note": 182
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 1",
+     "bytes": 1959,
+     "sha256": "dd537d07f8bfc3c68b2c3b49ef50d309b10da8c039618196b7dd1bed027a0172"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 2",
+     "bytes": 3594,
+     "sha256": "72f40e0a08de130a1c14d408c52ab09ed93f574a6d1dd6fd2f685ba7c1b6ec9d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 3",
+     "bytes": 2265,
+     "sha256": "7320ffcccd37548193a758ea59ff8855d698604ab797482f95606ebcca5b7a55"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 4",
+     "bytes": 3705,
+     "sha256": "6f1d6218399d15af1c58154756df1e5bf2f2c88fe24fabb2d14008e42017f17e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 5",
+     "bytes": 1496,
+     "sha256": "a2e6fdee30637e7f648b8460b612dc37d35ed35c9f4aa5e4bb23ff0f17738cfa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 6",
+     "bytes": 2974,
+     "sha256": "0590bdc281eb7f1ae27862f99d237ec545712ff0f97f9a10a5579adcda0ae270"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 7",
+     "bytes": 2438,
+     "sha256": "778fc6771ce8c1c87f712d603f8492c4aeff8963a9469d67942d903775a2d1df"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 8",
+     "bytes": 2075,
+     "sha256": "c11cc390b08ff9f3116f5c628720de7baaf3dafbafb1b5f2e5cbc9b884256aaf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 9",
+     "bytes": 4140,
+     "sha256": "021c48f73dd54d4fc631bbe8432279caa5ff2e7b956b33481221386cdb8e6eef"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 10",
+     "bytes": 2711,
+     "sha256": "662cc0b645e274f3322da69ef0d16913ae374722997e1c752ec29023dabda3da"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 11",
+     "bytes": 4207,
+     "sha256": "1cfc62365b3623169d45a4ab507291eeda1206e5375b31d80a1423bcee85e67b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 12",
+     "bytes": 1897,
+     "sha256": "54ceb72fd09a297f946dca893607abc2bb6ff90b4f9bdb94a63c903904e18315"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 13",
+     "bytes": 3995,
+     "sha256": "08ec6ebdce338664b0ee5c6616a02aa10f41d804097ab823d6e991176d38d0f9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 14",
+     "bytes": 1923,
+     "sha256": "e4621bee4060b2e45b0a2dea08833668f8dfd7b0c409b2456e20d76d81c2afc3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 15",
+     "bytes": 4379,
+     "sha256": "f4813610ee8810eb9c9a58a45707e67fd21661f0b100736614f5b8694177f48e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 16",
+     "bytes": 3425,
+     "sha256": "c26f883eb28fa484284747234b5624b2eab16830aabf69f32508112590689db2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 17",
+     "bytes": 2860,
+     "sha256": "32f88570ddb4d39e9da3225e57b69de53bfbf5a6b41aa8ef0faba5f305597c8a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 18",
+     "bytes": 4650,
+     "sha256": "bd0f65b3ce985df72689086bb6a8796cefa743333a182d06b2a5136b1f194023"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 19",
+     "bytes": 5821,
+     "sha256": "598e189547072bfc8287715ad771b9b13bee91080e745d595cb6ac8908667c1e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 20",
+     "bytes": 2693,
+     "sha256": "465aef0efc3ad7d6a19cb38d6ec875e566f71d94fd467befeba11e86792e2865"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 21",
+     "bytes": 2009,
+     "sha256": "eaec404d0d45980114d05e438d0c01113735c93986aad9330998858328c7cd64"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 22",
+     "bytes": 1642,
+     "sha256": "b01d449e3a13c850710ee7f56e0c0bc93ff6dfb6e54eae793fe3903df80234d1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 23",
+     "bytes": 2551,
+     "sha256": "719b2802af706c4e0b4b03fcccc2f41810deded8c9f63cc5fe8407b794f98c30"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 24",
+     "bytes": 2421,
+     "sha256": "6d9eb0b1544b549626c21d2a41621e15e527012125bf4f5c7cac5dd1dd53cd50"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 25",
+     "bytes": 4233,
+     "sha256": "e3972f6066fdd5ff659f5145ef0f1481e8d1e3bb367daa31096af5c64421c76f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 26",
+     "bytes": 4578,
+     "sha256": "dc05b8902e39d4d6eb6d2036ecc2feacd8292505efe63944d160e4fa87b3c08f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 27",
+     "bytes": 5337,
+     "sha256": "a7b0ebd25e3d0f5575ea6d95e2018c21eb74265daef4e2d17f4d371f3cc05b66"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 28",
+     "bytes": 5011,
+     "sha256": "c690981bffdb5e4b7289b91a1f99dc0d79f12c299376f97a59ebf30459dbe7b1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 29",
+     "bytes": 3645,
+     "sha256": "9138d841e8c83b158fcd12fd36753e3b55493f17fac86507c1a1985eebc782f0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 30",
+     "bytes": 3284,
+     "sha256": "6ef00f7a76f3c640258b39ec331ad1d2d6edf94e4653786f0e6f2a19bf6b23e8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 31",
+     "bytes": 3252,
+     "sha256": "452f6de8de20445a7e099ac1ec698ba2fe3a17e89fe3b609599db3e17c91edc6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 32",
+     "bytes": 2002,
+     "sha256": "a38c426a39cb999e41a8c343ef283410305d96b08ce57ef5f9e01bc28f80eae0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 33",
+     "bytes": 2592,
+     "sha256": "45073d028d143fd9dfa406afb3bda635c9586d1fd4182beddb712b9dad1ecf67"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 34",
+     "bytes": 3213,
+     "sha256": "c9a838ea46be58f81d7ae3dc73a7d2ac6bd36b366b389a93f0ac5bc1d97c4f3a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book I/Chapter 35",
+     "bytes": 2690,
+     "sha256": "10981b13e41b1781733c435411717b3c952fb7b02361035db1c897c8617d5ef8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book II/Chapter 1",
+     "bytes": 2737,
+     "sha256": "ba1ee20d422d6773ae452b48aee2903c96d9e3adf8b31f8aa957240ea01d9656"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book II/Chapter 2",
+     "bytes": 3270,
+     "sha256": "10cf623ae476805bb1ef3a121d5c3d557e72d059b19f5ad0e1b61079c1ac8c6c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book II/Chapter 3",
+     "bytes": 1969,
+     "sha256": "c5a425a1ae905d1bc3e135739a2ce4c3347de793d87ba3ae5e5c0f003eca1a6a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book II/Chapter 4",
+     "bytes": 1772,
+     "sha256": "f07d4cf4d69d6ba01986c2e27d4061b7ab75330f42e944c9f7898de090b1252c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book II/Chapter 5",
+     "bytes": 4254,
+     "sha256": "dcf7e910d6f1f4b7e6e94960c0803b0f82c0fa9bb86c2cdd39fbdb2c803ce7ec"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book II/Chapter 6",
+     "bytes": 3842,
+     "sha256": "eb89b53f296f16714c20141da9ff401bebf140ce0729dfa30352f332c8a49064"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book II/Chapter 7",
+     "bytes": 2707,
+     "sha256": "6f553d082234cb5997587a5ca237e400159358922e69395d3dfc9cb1e0ad4578"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book II/Chapter 8",
+     "bytes": 4033,
+     "sha256": "1cf690b370e0b503dabc1f098b77fcf28438988e2a5f3e8c3611ee0882fb125b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book II/Chapter 9",
+     "bytes": 4370,
+     "sha256": "1779944ecd5495dad42c2fb0825c956d25a20594b461fdebaf2f1aca2446410b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book II/Chapter 10",
+     "bytes": 3762,
+     "sha256": "2d0154223340b7e8c3644e84ef336ee6c9f3746fc8eda05a81fbdecbcded91a1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book II/Chapter 11",
+     "bytes": 4084,
+     "sha256": "b9124435aeb248fcb578b91254b7c083a957f7a70c924daa1fb20c28195eaf99"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book II/Chapter 12",
+     "bytes": 2871,
+     "sha256": "ffb9e4b0306ff9b63e37e3a4b6f3d2947511ea0c2914060e5e3f716eee2e663f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book II/Chapter 13",
+     "bytes": 4284,
+     "sha256": "07a11296b26754ef77f4520478d7e428134dd4c94c025fb668a80f232cf46862"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book II/Chapter 14",
+     "bytes": 4032,
+     "sha256": "9daf0ba512794308f9f33d9213fb6fcbea49f14e37a4ccee282f6643a2872d98"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book II/Chapter 15",
+     "bytes": 3589,
+     "sha256": "481501d8dfe8678beeab07098e2ac7ba7f813c5118a1f8fbd1612e3610b4175d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book II/Chapter 16",
+     "bytes": 3925,
+     "sha256": "7ad5312e76407a17bc5270f2fda4ca62de54a29b768b96fa727e65ab4bd1e2d1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book II/Chapter 17",
+     "bytes": 3962,
+     "sha256": "915756e3edb67a07cc919a75a7782ed668f4f4773a235f1658fd61f0da0bb024"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book II/Chapter 18",
+     "bytes": 4150,
+     "sha256": "7af98b27df371b1f5dcad8fedc3e2b1d158a269381f304d61db52fef7d9aa22e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book II/Chapter 19",
+     "bytes": 2258,
+     "sha256": "a41a14ff46e4d3c1550735c8be61167e4a673eb045fa462b5acee6655f4efd3b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book II/Chapter 20",
+     "bytes": 4879,
+     "sha256": "2a6ee048db20a12b921b18ee3c873357afe8b769e5692d7a66118a53fa61afd6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book II/Chapter 21",
+     "bytes": 3618,
+     "sha256": "2be634866d51f0120c050a356d6561aa0d10b9fd73fe3fea7c0ec5a476602da3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book II/Chapter 22",
+     "bytes": 2907,
+     "sha256": "25bf269da7ea9e909a329cce82ae0f429cf5498f7019d144520bb02ed5dd68c7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book II/Chapter 23",
+     "bytes": 4345,
+     "sha256": "12c71bd6258c89a0796d1bdaeed8fe9841c0c36d43b7be95040e4c0566bac6f8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book III/Chapter 1",
+     "bytes": 2153,
+     "sha256": "5b53004ca90a2a108f1f2ebb8834403f0d2b5641c47b5d0745a26f47bfe61af8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book III/Chapter 2",
+     "bytes": 6213,
+     "sha256": "a159f089a6aca1762b89794c326c62cf95dcfdb22783649014cb9ad02ab15783"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book III/Chapter 3",
+     "bytes": 3270,
+     "sha256": "5c9d46bc0904e70e0c28ef5bfc2ccfc4afacc31318c65bec568686840c7f8928"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book III/Chapter 4",
+     "bytes": 3478,
+     "sha256": "71db057768fd882e6fd78fab86641d2149ade0740797120e72ea07768ea57d5f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book III/Chapter 5",
+     "bytes": 3525,
+     "sha256": "188292b66b259732944dcc0d989fe6542ca0f9f215a90db0505b7799178c3696"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book III/Chapter 6",
+     "bytes": 2247,
+     "sha256": "d1e6a5161031398814bc8489e9f355605b5488d7bc5d42c10b8e98fc249c965d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book III/Chapter 7",
+     "bytes": 4111,
+     "sha256": "9a10cd0445d7aea31b3429ca6d547925e9daa52aa7eace9ca2b4666a6e024333"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book III/Chapter 8",
+     "bytes": 2454,
+     "sha256": "4fb9fafc8b9c643519576e2b93022429ea62e11b06fd4596276602a4d46c1062"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book III/Chapter 9",
+     "bytes": 2071,
+     "sha256": "b0a79a5340d70794bd1a0cd5256027a1febb0b7a2aec16e12a4ec2701b768356"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book III/Chapter 10",
+     "bytes": 2129,
+     "sha256": "91eb3059f1ecf325b282fa8090da09e07d7f40475742606021118ce52f492b75"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book III/Chapter 11",
+     "bytes": 2133,
+     "sha256": "fcc7356c2b0968b02fa73efdfea9fd3e784f433791a775e8fa370ac6bef71573"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book III/Chapter 12",
+     "bytes": 4083,
+     "sha256": "80d69189cdc25cb8dd8d3a97032e11bb0ab65dedfd103528edf61c718818452e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book III/Chapter 13",
+     "bytes": 2454,
+     "sha256": "4b4053749dbfcce8ee26593bf8a291f9c7f7950ae0e50f77415a8e134d5034a6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book III/Chapter 14",
+     "bytes": 2952,
+     "sha256": "0f56ed50424322fefe6138c48bc13eeb1325d7d7f2b0567a4087740d04bfafb7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book III/Chapter 15",
+     "bytes": 1800,
+     "sha256": "36b99586d5c20a2320ebe1e29829854a526d33c6848294bb8caebf9ddc83593a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book III/Chapter 16",
+     "bytes": 2146,
+     "sha256": "7841212041966129911894aebe0aff5decb067d2ed149f385ceeff4e2a484148"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book III/Chapter 17",
+     "bytes": 4404,
+     "sha256": "3dcfce19157c1a0d759e3b26579c6c5604223f5f218756d5d30025c37f0d7e35"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book III/Chapter 18",
+     "bytes": 2118,
+     "sha256": "038ef8d113d914fdaac189c1a51137da107c67fb67f47ede5e4613c24add5269"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book III/Chapter 19",
+     "bytes": 4377,
+     "sha256": "c95624d4827b0c63ac7e277e796a9e8c670697a54068a940c49a1c2cdf9d06b1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book III/Chapter 20",
+     "bytes": 3484,
+     "sha256": "4afff51db87939090a2cfcb5e9cd6d0e8ffa235e7a8a391e83c7f5ff65d051c6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book III/Chapter 21",
+     "bytes": 2348,
+     "sha256": "17ed64f45d5945993bbf286704597b062b193d1b3086bde129cbc466549effb8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book III/Chapter 22",
+     "bytes": 2816,
+     "sha256": "11c681477b8810e5b88a2e0b923b3af4f16f4949d4d462f3d9187ac9db9006c5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book III/Chapter 23",
+     "bytes": 3350,
+     "sha256": "d57e77e9871628b22ae2d485a44b65137597d457db7623f3cf854e64ec725423"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 1",
+     "bytes": 3624,
+     "sha256": "866d197065e24059c332ce6938e25443155ed5095b890d6d059fe2dad89119de"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 2",
+     "bytes": 4006,
+     "sha256": "5028f7c755c85a3821c270f6f0b43f27240eb8672ac33df333c47c529321e03a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 3",
+     "bytes": 5714,
+     "sha256": "8c0e4a944018c8e0a9ac02b496b448e98cb65b536ab18c377cab4a81c40a0eee"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 4",
+     "bytes": 3091,
+     "sha256": "d0f50c728519d259a589f8c058422e64697321ca6f6ba8a11e01b4889f714067"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 5",
+     "bytes": 3118,
+     "sha256": "93cb5a3bf9dcdc7edf9cb7f26b674062e4df960bab1dbcc02e9623b12a653d89"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 6",
+     "bytes": 6478,
+     "sha256": "529753c0b42548fbbcb13d417e95d29f4bd9a626e5aec0f22d0014c2bef1af78"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 7",
+     "bytes": 3561,
+     "sha256": "d60c7d1f9a0133f98a90ccefffd916f551c64a2c4970a43e375783770b62a147"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 8",
+     "bytes": 2320,
+     "sha256": "fe944dcf28a814556fa11d9cb6271ecaa1c4dadaf9b6b428a918886825935ac7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 9",
+     "bytes": 2298,
+     "sha256": "4951ed418999b86821ebcb24d15ebb632fcb06242ae4689b79647f6af8a16a9c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 10",
+     "bytes": 2661,
+     "sha256": "1e380c9d327e985a0294ca50378ceff775282ba976143b4fbdafece1faf7cb29"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 11",
+     "bytes": 2374,
+     "sha256": "eef23af48720bf5c2300a80cd024ef3998a46d2fe7c2ce03554d41fe33c56aae"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 12",
+     "bytes": 3444,
+     "sha256": "89e73aa67c282995c98fd9f7d8b16c3ff054e787ea7710940edbde88dd4919a0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 13",
+     "bytes": 3707,
+     "sha256": "79520c26f981f5989437e728c2b132f3209938b6d368e32b67ad43fb05958580"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 14",
+     "bytes": 3467,
+     "sha256": "9468aee0cf6700b09ebaf500cc43f08b3648434f068c28b25a099445c0b46d68"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 15",
+     "bytes": 3727,
+     "sha256": "937eb67b504fd3270441eb63aa3028461792961b48602bf9d38f2964e7ac3e1a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 16",
+     "bytes": 3637,
+     "sha256": "ac0d219b53a4506de50a9d32df9af91e6797fea984af57a93ce07fe252bc028c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 17",
+     "bytes": 2386,
+     "sha256": "3917bbd449a4e79b0051145b2a8e2f7245dbe09383389c013d75c65d72165e84"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 18",
+     "bytes": 4407,
+     "sha256": "080fc5315a9a2e6bcd90b126f2cf18e6b6a2742bd0c83e8ad01b2d4a7fbb12c7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 19",
+     "bytes": 2998,
+     "sha256": "f38bc52c77087f84be1a132bed739e6a7581c952bcc291310ce015a0a9884781"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 20",
+     "bytes": 5320,
+     "sha256": "808c5371d9ce739f76d4fccd24a1c981c40de923314105283ccdaf6f914ec925"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 21",
+     "bytes": 2593,
+     "sha256": "1fce1d6a4022ad62fa69feb217006d79b069f9c7a9dd383301fa5dfeb3b15bf0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 22",
+     "bytes": 2121,
+     "sha256": "956cbd7ad9aff4b83097c06421deee93485e103289dbfcda1374db99c176a9ac"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 23",
+     "bytes": 2946,
+     "sha256": "8fa1d5386d39374ed4782131e73ab89ddf8949c4445149d3fceb77e23d423ef4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 24",
+     "bytes": 2113,
+     "sha256": "16e0a10413d55d2b7f7d642c434f3e47a486819354ac24f8cb145c8f932f0d04"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 25",
+     "bytes": 3926,
+     "sha256": "414d551ba0144c158a449be58ddabc000700138f4c0dfeb4e8423a77e11a2746"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 26",
+     "bytes": 2877,
+     "sha256": "233c0a66e937530d2f5907a033ea88c648e2183208501894d439813fea0be2d6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 27",
+     "bytes": 4524,
+     "sha256": "d8f3f7dbea7226350f359485bebe7c92c6e5e5bf6bd68cb8cf4094279ff423cf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 28",
+     "bytes": 2997,
+     "sha256": "bc56f6bbbb30c6700f2a821e9cd71dcada3f18169392c33bf151d853d36df080"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 29",
+     "bytes": 2767,
+     "sha256": "59a0f1aaa7048dd17bcdff88a4cc91d09d590a3879d6ad55792f9630feaa9281"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 30",
+     "bytes": 2449,
+     "sha256": "7b2b57c12577f86ffd6be396c56fb7ead0b0b684336b1441f3e7b6cfd17904c0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 31",
+     "bytes": 1734,
+     "sha256": "2a5e2b82514f326ca43999b5440bb994df6667acf49a7d910a8d6dd7eca6a010"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 32",
+     "bytes": 2069,
+     "sha256": "54ebacacc07509d9098deaeaca9e53d82b56126897b33e6aa99571cc2485aca7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 33",
+     "bytes": 3455,
+     "sha256": "a3d6ebce1956e60f3307edad64ddc73c29656813189864f026a24a26a213651b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 34",
+     "bytes": 2747,
+     "sha256": "f41445426ab7303c93fcf7f58114b48b099aeb21c4e836dbc01d2a579a8b83e5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 35",
+     "bytes": 2448,
+     "sha256": "544dce3ff4ae7dd6e698521823c0d23b8700a1545639c2f1d66316cb789b200c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 36",
+     "bytes": 4761,
+     "sha256": "ae16a4e6ffaf21524cf50e7629746d028cd87c969ba2c0422f1a740edd1e28ee"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 37",
+     "bytes": 6115,
+     "sha256": "ee68babc0867d2d834f372e9a63b59eb8cb2f3ef83c57dd421b161da1aba52ff"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 38",
+     "bytes": 4564,
+     "sha256": "bb11bb98af367c3bb51555449199ba513f859e0080be8cadf3a0674bb55fe9c4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Soul and its Origin/Book IV/Chapter 39",
+     "bytes": 2646,
+     "sha256": "5454b7bdc33c424fcaf06bee8baabaef80cb4897d0dd86957b443a103e3636f6"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.1",
+     "title": "Chapter 1",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.25",
+     "title": "Chapter 25",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.26",
+     "title": "Chapter 26",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.27",
+     "title": "Chapter 27",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.28",
+     "title": "Chapter 28",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.29",
+     "title": "Chapter 29",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.30",
+     "title": "Chapter 30",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.31",
+     "title": "Chapter 31",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.32",
+     "title": "Chapter 32",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.33",
+     "title": "Chapter 33",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.34",
+     "title": "Chapter 34",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.35",
+     "title": "Chapter 35",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "2.1",
+     "title": "Chapter 1",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "2.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "2.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "2.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "2.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "2.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "2.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "2.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "2.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "2.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "2.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "2.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "2.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "2.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0050.json",
+     "ref": "2.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0051.json",
+     "ref": "2.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "2.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0053.json",
+     "ref": "2.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "2.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "2.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0056.json",
+     "ref": "2.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0057.json",
+     "ref": "2.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0058.json",
+     "ref": "2.23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0059.json",
+     "ref": "3.1",
+     "title": "Chapter 1",
+     "segments": 2
+    },
+    {
+     "file": "0060.json",
+     "ref": "3.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0061.json",
+     "ref": "3.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0062.json",
+     "ref": "3.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0063.json",
+     "ref": "3.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0064.json",
+     "ref": "3.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0065.json",
+     "ref": "3.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0066.json",
+     "ref": "3.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0067.json",
+     "ref": "3.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0068.json",
+     "ref": "3.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0069.json",
+     "ref": "3.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0070.json",
+     "ref": "3.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0071.json",
+     "ref": "3.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0072.json",
+     "ref": "3.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0073.json",
+     "ref": "3.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0074.json",
+     "ref": "3.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0075.json",
+     "ref": "3.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0076.json",
+     "ref": "3.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0077.json",
+     "ref": "3.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0078.json",
+     "ref": "3.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0079.json",
+     "ref": "3.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0080.json",
+     "ref": "3.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0081.json",
+     "ref": "3.23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0082.json",
+     "ref": "4.1",
+     "title": "Chapter 1",
+     "segments": 2
+    },
+    {
+     "file": "0083.json",
+     "ref": "4.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0084.json",
+     "ref": "4.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0085.json",
+     "ref": "4.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0086.json",
+     "ref": "4.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0087.json",
+     "ref": "4.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0088.json",
+     "ref": "4.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0089.json",
+     "ref": "4.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0090.json",
+     "ref": "4.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0091.json",
+     "ref": "4.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0092.json",
+     "ref": "4.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0093.json",
+     "ref": "4.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0094.json",
+     "ref": "4.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0095.json",
+     "ref": "4.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0096.json",
+     "ref": "4.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0097.json",
+     "ref": "4.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0098.json",
+     "ref": "4.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0099.json",
+     "ref": "4.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0100.json",
+     "ref": "4.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0101.json",
+     "ref": "4.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0102.json",
+     "ref": "4.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0103.json",
+     "ref": "4.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0104.json",
+     "ref": "4.23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0105.json",
+     "ref": "4.24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0106.json",
+     "ref": "4.25",
+     "title": "Chapter 25",
+     "segments": 2
+    },
+    {
+     "file": "0107.json",
+     "ref": "4.26",
+     "title": "Chapter 26",
+     "segments": 2
+    },
+    {
+     "file": "0108.json",
+     "ref": "4.27",
+     "title": "Chapter 27",
+     "segments": 2
+    },
+    {
+     "file": "0109.json",
+     "ref": "4.28",
+     "title": "Chapter 28",
+     "segments": 2
+    },
+    {
+     "file": "0110.json",
+     "ref": "4.29",
+     "title": "Chapter 29",
+     "segments": 2
+    },
+    {
+     "file": "0111.json",
+     "ref": "4.30",
+     "title": "Chapter 30",
+     "segments": 2
+    },
+    {
+     "file": "0112.json",
+     "ref": "4.31",
+     "title": "Chapter 31",
+     "segments": 2
+    },
+    {
+     "file": "0113.json",
+     "ref": "4.32",
+     "title": "Chapter 32",
+     "segments": 2
+    },
+    {
+     "file": "0114.json",
+     "ref": "4.33",
+     "title": "Chapter 33",
+     "segments": 2
+    },
+    {
+     "file": "0115.json",
+     "ref": "4.34",
+     "title": "Chapter 34",
+     "segments": 2
+    },
+    {
+     "file": "0116.json",
+     "ref": "4.35",
+     "title": "Chapter 35",
+     "segments": 2
+    },
+    {
+     "file": "0117.json",
+     "ref": "4.36",
+     "title": "Chapter 36",
+     "segments": 2
+    },
+    {
+     "file": "0118.json",
+     "ref": "4.37",
+     "title": "Chapter 37",
+     "segments": 2
+    },
+    {
+     "file": "0119.json",
+     "ref": "4.38",
+     "title": "Chapter 38",
+     "segments": 2
+    },
+    {
+     "file": "0120.json",
+     "ref": "4.39",
+     "title": "Chapter 39",
+     "segments": 2
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 2,
+  "shared": 120,
+  "onlyInOriginal": 6,
+  "onlyInEnglish": 0
+ }
+}

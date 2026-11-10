@@ -1,0 +1,363 @@
+{
+ "workId": "augustine-two-souls",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "augustine-two-souls-csel-lat-ogl",
+   "role": "original",
+   "language": "latin",
+   "credit": "De duabus animabus, in Sancti Aureli Augustini Opera (Corpus scriptorum ecclesiasticorum Latinorum 25.1), ed. Joseph Zycha (Prague, Vienna and Leipzig: F. Tempsky; G. Freytag, 1891). Open Greek and Latin, csel-dev, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa040/stoa0040.stoa040.opp-lat1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 108876,
+   "sourceSha256": "4cfeb03232deeb6f7e2dc2335c934de1df1e67c711547d995c76b0545c5c5600",
+   "leftOut": {
+    "lb": 744,
+    "note": 41,
+    "pb": 30
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 6584,
+    "garbledPerThousand": 0,
+    "joinedPerThousand": 0,
+    "numbersPerThousand": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "augustine-two-souls-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "On Two Souls, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. IV: Saint Augustin (ed. Philip Schaff; New York, Christian Literature Co.), trans. as printed in NPNF I vol. IV (the Wikisource copy credits Philip Schaff et al.) (New York: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_IV/Manichaean_Controversy/On_Two_Souls",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 82679,
+   "sourceSha256": "1318d1ec4e1341ed71bcd4e6a9c63623925e3fa019c8ec16914168dfee60bf28",
+   "leftOut": {
+    "note": 31
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/On Two Souls/Chapter 1",
+     "bytes": 4423,
+     "sha256": "4c482d14ec399eee5cc235f0c31526eac2d8011b1a210b0aac89bc154b38bd94"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/On Two Souls/Chapter 2",
+     "bytes": 4576,
+     "sha256": "dd62aa98decfd8b7ccb4de5fac0992340b63ce434413d41862c79dfcca103fb4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/On Two Souls/Chapter 3",
+     "bytes": 4392,
+     "sha256": "e95ecbe6e99ce197214b2a62eb2e42da8e8aa1be4a11ca5f85a5a424ad285821"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/On Two Souls/Chapter 4",
+     "bytes": 1716,
+     "sha256": "8f1c0362a7d95c643c4ac093c46095fedcdb8795e75f6642b3548f00579aa5fe"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/On Two Souls/Chapter 5",
+     "bytes": 3299,
+     "sha256": "641cc87b39112b3e15e7ca42cadd4030f6644ba60d5423a9f92877d300647303"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/On Two Souls/Chapter 6",
+     "bytes": 11014,
+     "sha256": "4342059217b84c619bcc71ebdc74d0e60e87275cc94ff5f81495f52ef3308663"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/On Two Souls/Chapter 7",
+     "bytes": 5056,
+     "sha256": "90f954eea3086394e12dafd1a5d544abdbcda33d39463f95cf5c5a976fa24be9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/On Two Souls/Chapter 8",
+     "bytes": 4960,
+     "sha256": "74561e5827cf3b143a3c8de21f17aabe860eed485479659afee2d1725b871faf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/On Two Souls/Chapter 9",
+     "bytes": 3404,
+     "sha256": "01b6baa50ddbbb22bc6aefc713a5181812dd2a18edb8e8632289edc7d8752a8e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/On Two Souls/Chapter 10",
+     "bytes": 12720,
+     "sha256": "4241811b916448c877f91f234bee02e6a4e97450c3cce06f44249c3ab9207e1e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/On Two Souls/Chapter 11",
+     "bytes": 2505,
+     "sha256": "490629dc063aa0c2c6745c3940d4e4c3644b5c765b038d93862ac7233d89c99b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/On Two Souls/Chapter 12",
+     "bytes": 10296,
+     "sha256": "f5cd072c846bdbf188856ef069732e444276d30ee96aee16b2866b5b820dd3ff"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/On Two Souls/Chapter 13",
+     "bytes": 7642,
+     "sha256": "4bd44391c879c80e01459d43bfc9e52d0028d53a96641705b99a47430b211027"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/On Two Souls/Chapter 14",
+     "bytes": 4358,
+     "sha256": "f006f2b4cbb9876eac767c73510f53a0c597f23eb39d6a3bc44bf5fa64b71ae6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/On Two Souls/Chapter 15",
+     "bytes": 2318,
+     "sha256": "37ea8ba532e7c485dd2130cbba33c8b946285ce78d9eb83734becb95efa99223"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Chapter 1",
+     "segments": 5
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "Chapter 3",
+     "segments": 3
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "Chapter 5",
+     "segments": 3
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "Chapter 6",
+     "segments": 5
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "Chapter 8",
+     "segments": 3
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "Chapter 9",
+     "segments": 3
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "Chapter 10",
+     "segments": 4
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "Chapter 12",
+     "segments": 4
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "Chapter 13",
+     "segments": 4
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "Chapter 14",
+     "segments": 3
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "Chapter 15",
+     "segments": 2
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 0,
+  "shared": 0
+ }
+}

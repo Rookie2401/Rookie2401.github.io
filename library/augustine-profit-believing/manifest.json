@@ -1,0 +1,669 @@
+{
+ "workId": "augustine-profit-believing",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "augustine-profit-believing-csel-lat-ogl",
+   "role": "original",
+   "language": "latin",
+   "credit": "De utilitate credendi, in Sancti Aureli Augustini Opera (Corpus scriptorum ecclesiasticorum Latinorum 25.1), ed. Joseph Zycha (Prague, Vienna and Leipzig: F. Tempsky; G. Freytag, 1891). Open Greek and Latin, csel-dev, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa064/stoa0040.stoa064.opp-lat1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 158956,
+   "sourceSha256": "f13cf9947916deb1263492d81af1c38f7d9adba94d3d6d4dc9c8508e109ca293",
+   "leftOut": {
+    "milestone": 18,
+    "lb": 1235,
+    "note": 62,
+    "pb": 46
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 10784,
+    "garbledPerThousand": 0,
+    "joinedPerThousand": 0,
+    "numbersPerThousand": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "augustine-profit-believing-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "On the Profit of Believing, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. III: Saint Augustin (ed. Philip Schaff; New York, Christian Literature Co.), trans. as printed in NPNF I vol. III (the Wikisource copy credits Philip Schaff et al.) (New York: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_III/Doctrinal_Treatises_of_St._Augustin/On_the_Profit_of_Believing",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 132244,
+   "sourceSha256": "77b089bfee19cf99c187ac8eecf8f4c1d65d0fce3facc68cd93504882d183580",
+   "leftOut": {
+    "note": 69
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 1",
+     "bytes": 2816,
+     "sha256": "92edc5b4ddd3af799f307d53bf4ccdb56c9b0ac76eccdfb37b3ffad0280ea580"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 2",
+     "bytes": 4105,
+     "sha256": "7a9ab70915a94c7b101f1553e5072ce7d25d9d72b8058435cf179444a3fbd988"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 3",
+     "bytes": 2827,
+     "sha256": "f2750e64668a24b7b5d49601f3b7098d757b4e68f2527ea68bdb350c0cea4165"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 4",
+     "bytes": 3558,
+     "sha256": "5b0dcd6119997c44f8b4235f38d852322ab7c6d64d89f0b8511190763608fdac"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 5",
+     "bytes": 2158,
+     "sha256": "30926a838bbca931ece92514eed8d8f9eff531600ee2f513100bb18ca6d78527"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 6",
+     "bytes": 2070,
+     "sha256": "31d33cc04593a845bb1f5018a2587dc6bd6074263d43a7f27981a5381cedb78f"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 7",
+     "bytes": 4435,
+     "sha256": "ca8e3898afaf56754fc31852843e9f06fe3c0d0044fc803955baa0e43d67065e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 8",
+     "bytes": 3945,
+     "sha256": "e1316a087622e464ca6114b6dab7ecb066af96d18019bc0573d94c6661ab5e41"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 9",
+     "bytes": 4781,
+     "sha256": "83b88fd776ef741d90888d53499f633f66ef2545c7181cacdd4162fafdfedb4c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 10",
+     "bytes": 4820,
+     "sha256": "0d6f88b16598c91086228aad0edd513c7e49593f4b42031f264853fc38112592"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 11",
+     "bytes": 2770,
+     "sha256": "8028766e0db681f46f2dada523e4a6dac693f1355060b6b8abc764704d94e069"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 12",
+     "bytes": 2530,
+     "sha256": "90955a1517e5c5f5f57f568e0abb6724ab9f67a6ce53d8bb0f173af86efa48f0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 13",
+     "bytes": 5767,
+     "sha256": "4fdd8456c2722bf931ddd7fc826f403a9927139b24d06b348d5d88a64f61f4cd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 14",
+     "bytes": 2312,
+     "sha256": "cf5c2080751a02a78bab410ac3c68c29b840a25926d8f4c45755cf259205c186"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 15",
+     "bytes": 1591,
+     "sha256": "2b78dc2cf1cef5fde34211b59e59cfb0ba36c41a5cb636c4be8d380d718f9346"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 16",
+     "bytes": 3547,
+     "sha256": "43002502ab9abe2209904c29a8da13fcf923151132498e888bfb00772dfb23b0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 17",
+     "bytes": 3624,
+     "sha256": "326fc45352a4cea87130e4129866090bc1c0f92c9cf545dbb7fea25331640498"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 18",
+     "bytes": 1925,
+     "sha256": "b53d4494ab506bae819ac782f5fedd3a104e741bdca419909b1213eaebcc1f7c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 19",
+     "bytes": 2616,
+     "sha256": "a3bff54badb2127b8c5a0ea5a898603af93c9878a1a33ca442042927dd0063e9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 20",
+     "bytes": 4023,
+     "sha256": "f02b4ca6b17a81bd269a080cee4254a47e2570b37b0d4591049d54564b19214e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 21",
+     "bytes": 2096,
+     "sha256": "3e83ca242c1e6d7029305f2a16a3dec434e608256c75b556e83bcb4e37c28257"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 22",
+     "bytes": 4535,
+     "sha256": "425a45fb7a7f670c858f7d5a940b073a7728bcb2c6065ade771caf5111ac535c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 23",
+     "bytes": 2852,
+     "sha256": "01f05486e923075fcbf3c6a398d8cdf2ae531a474ebd3de73ab84632c7547624"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 24",
+     "bytes": 5144,
+     "sha256": "35a501dc1429794606a594c4f5680ebcffdfafed26c36adcae4a35627fd6eaa5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 25",
+     "bytes": 9899,
+     "sha256": "0fdeea74b3ba939cede8bb547b23bfd4420fe91adef7e4a95f1aa45862852dac"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 26",
+     "bytes": 2210,
+     "sha256": "a3d058fa4974fc45c8220e034ed2e6a359d423da8eaf9bcb7d2ff55cc91bfcb7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 27",
+     "bytes": 4703,
+     "sha256": "4e49574447298791ad4e63e57647acda18264537d82de79ad7929f59df4215b8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 28",
+     "bytes": 2513,
+     "sha256": "91bf51b6addb24494d7b3db21099e89cfdf00687a013218a98624abf3059f027"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 29",
+     "bytes": 2961,
+     "sha256": "269c81914b61f05e598a9777322ad82dd4932565ba01c602731c09c0484c2485"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 30",
+     "bytes": 1673,
+     "sha256": "e3e4a2f43909ed485e8d62aa7c308552ac40db48bceceb911138efc6483ea910"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 31",
+     "bytes": 5751,
+     "sha256": "2b72693bb3da944d744ff5c6481bf6b0fe97b9a4a5205cbb25c381c15475b0c0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 32",
+     "bytes": 2925,
+     "sha256": "8e036d9ed122aa855902f3d6fc3e607ffc834452971bc9bc62ac68e5d7cf4887"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 33",
+     "bytes": 3296,
+     "sha256": "f3b7daa05d7dd2a0d888642dfd8712c04d80fe4db30ed30596c7cbe26cfb2558"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 34",
+     "bytes": 5682,
+     "sha256": "054ebdea672050d6a04be5492c77f17f963e49d8015764853a0b1aa3ac9c50a4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 35",
+     "bytes": 4271,
+     "sha256": "64f2833d4e04a6836b95d33f6acfdf5223748f4492a6ca87c13d065b523fb985"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/On the Profit of Believing/Section 36",
+     "bytes": 5513,
+     "sha256": "0c66725d666a356f522b108a53b754064e09c88998464496b0a0730b307f3deb"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Section 1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "Section 2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "Section 3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "Section 4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "Section 5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "Section 6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "Section 7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "Section 8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "Section 9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "Section 10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "Section 11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "Section 12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "Section 13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "Section 14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "Section 15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "Section 16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "Section 17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "Section 18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "Section 19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "Section 20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "Section 21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "Section 22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "Section 23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "Section 24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "Section 25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "Section 26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "Section 27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "Section 28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "Section 29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "Section 30",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "Section 31",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "Section 32",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "Section 33",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "Section 34",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "Section 35",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "Section 36",
+     "segments": 1
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 36,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 0
+ }
+}

@@ -1,0 +1,1179 @@
+{
+ "workId": "augustine-proceedings-pelagius",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "augustine-proceedings-pelagius-csel-lat-ogl",
+   "role": "original",
+   "language": "latin",
+   "credit": "De gestis Pelagii, in Sancti Aureli Augustini Opera (Corpus scriptorum ecclesiasticorum Latinorum 42), ed. Karl F. Urba; Joseph Zycha (Prague, Vienna and Leipzig: F. Tempsky; G. Freytag, 1904). Open Greek and Latin, csel-dev, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa044/stoa0040.stoa044.opp-lat1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 254114,
+   "sourceSha256": "ba83e28a87e1d661e08842a51cea1619a9416f3b899db40bcdb195b319d744b0",
+   "leftOut": {
+    "lb": 1768,
+    "note": 141,
+    "pb": 71,
+    "milestone": 35
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 15488,
+    "garbledPerThousand": 0,
+    "joinedPerThousand": 0.1,
+    "numbersPerThousand": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "45",
+     "title": "45",
+     "segments": 1
+    },
+    {
+     "file": "0046.json",
+     "ref": "46",
+     "title": "46",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "47",
+     "title": "47",
+     "segments": 1
+    },
+    {
+     "file": "0048.json",
+     "ref": "48",
+     "title": "48",
+     "segments": 1
+    },
+    {
+     "file": "0049.json",
+     "ref": "49",
+     "title": "49",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "50",
+     "title": "50",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "51",
+     "title": "51",
+     "segments": 1
+    },
+    {
+     "file": "0052.json",
+     "ref": "52",
+     "title": "52",
+     "segments": 1
+    },
+    {
+     "file": "0053.json",
+     "ref": "53",
+     "title": "53",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "54",
+     "title": "54",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "55",
+     "title": "55",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "56",
+     "title": "56",
+     "segments": 1
+    },
+    {
+     "file": "0057.json",
+     "ref": "57",
+     "title": "57",
+     "segments": 1
+    },
+    {
+     "file": "0058.json",
+     "ref": "58",
+     "title": "58",
+     "segments": 1
+    },
+    {
+     "file": "0059.json",
+     "ref": "59",
+     "title": "59",
+     "segments": 1
+    },
+    {
+     "file": "0060.json",
+     "ref": "60",
+     "title": "60",
+     "segments": 1
+    },
+    {
+     "file": "0061.json",
+     "ref": "61",
+     "title": "61",
+     "segments": 1
+    },
+    {
+     "file": "0062.json",
+     "ref": "62",
+     "title": "62",
+     "segments": 1
+    },
+    {
+     "file": "0063.json",
+     "ref": "63",
+     "title": "63",
+     "segments": 1
+    },
+    {
+     "file": "0064.json",
+     "ref": "64",
+     "title": "64",
+     "segments": 1
+    },
+    {
+     "file": "0065.json",
+     "ref": "65",
+     "title": "65",
+     "segments": 1
+    },
+    {
+     "file": "0066.json",
+     "ref": "66",
+     "title": "66",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "augustine-proceedings-pelagius-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "On the Proceedings of Pelagius, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. V: Saint Augustin (ed. Philip Schaff; New York, Christian Literature Co.), trans. as printed in NPNF I vol. V (the Wikisource copy credits Philip Schaff et al.) (New York: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_V/On_the_Proceedings_of_Pelagius",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 206261,
+   "sourceSha256": "6d33353b2dd741dd33023f09db26166b0b166d3483ba8ae27ffaf42dd8876098",
+   "leftOut": {
+    "note": 175
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 1",
+     "bytes": 1993,
+     "sha256": "4b2f202c571aaaf74a52e11f048f829d461bfd03b18f78cb94943d6286ea108a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 2",
+     "bytes": 2835,
+     "sha256": "7f60867a82ea04b2aa6b8e6648275b9696529796bf263588b70ba38f32cd77ba"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 3",
+     "bytes": 4061,
+     "sha256": "3e127edfc2c34f84283cf35d457524ea30e35a1ddc7a28a4a399ecf18fe0fefa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 4",
+     "bytes": 3514,
+     "sha256": "7c6c10a15845c2fd23710f6793030043818bcbd122ac40034360f63a06b5b683"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 5",
+     "bytes": 3010,
+     "sha256": "36101f91bd2473e2817300a9630f1f98921856306c41353d78bac8267693357d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 6",
+     "bytes": 2056,
+     "sha256": "5687e3cf8ca39220e830bdf0cf27403b2df601a43e703bae55cd52da9ef55ae4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 7",
+     "bytes": 3878,
+     "sha256": "e355d14db073704e0a514c2b1ed8f387490b6fa7a3d89d7317efc8f58c7b3fbf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 8",
+     "bytes": 2044,
+     "sha256": "b82138c0fea592e0be105a7665f4ed6bae87d0ae0e1f8bb2d074d0cb62912dba"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 9",
+     "bytes": 2670,
+     "sha256": "b634f55ee6b906764b08f9a829390a63b24015ef44e94c90a6318eb2b8c5399b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 10",
+     "bytes": 2676,
+     "sha256": "b00a62a9e787c56f08d67e050f12464b278992bdd1639e221157f171d739bdfb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 11",
+     "bytes": 4407,
+     "sha256": "a068faae58540952167f23624e99a8b338d1294b7c366d8cab86c9bc65daf1cc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 12",
+     "bytes": 2476,
+     "sha256": "c47b8249b3d45c334bf27577dc3591b9a483a417df39b5c422c3411a90113322"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 13",
+     "bytes": 1460,
+     "sha256": "b8e4f1ccf984204a1e75bc89377961156b3487df7b5ea1e1d8f89dfa7511f321"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 14",
+     "bytes": 6033,
+     "sha256": "ebfe5c06149382ab063d37bd08276fafc61f3c41e9ec973fe9daee8a86612706"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 15",
+     "bytes": 2552,
+     "sha256": "159ccc14c26bfd362fb2f70ba8c4cfbc437dc8778167140cc2d07d2a552bdd40"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 16",
+     "bytes": 3315,
+     "sha256": "fb9bcc8bbfbd965f18ec24ca91c9a403cc8ff5302f8b9bc9e45c109bbb0d957a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 17",
+     "bytes": 1646,
+     "sha256": "1469a06acade1d9485459c1fe1c01c6401bdbc966d2c1f6f1015e7b72e542440"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 18",
+     "bytes": 5183,
+     "sha256": "e05e31613908a100cf334573abfc7fcc48e9298406a91ed77a0f92720ea799d5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 19",
+     "bytes": 2443,
+     "sha256": "2a174f711698d95bc2abeab34bd60f18cbdfa72bddc9325766e9c674fbccc075"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 20",
+     "bytes": 4309,
+     "sha256": "42b5472e16332c9a7f0521afef3a636672a327b521e1ea30e7eaf8f3905ce746"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 21",
+     "bytes": 2302,
+     "sha256": "055da794a6f44cb262b4f3508a51f6b73cb8922556014c02e3d2ca4c3f4717ea"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 22",
+     "bytes": 4498,
+     "sha256": "da91f29eab3610f94d808c9dfb22d7ede7017e476a1499e6b26f5506e4aea3eb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 23",
+     "bytes": 3047,
+     "sha256": "8a3eb90b35ea08244a21e878b1d7a52f6907a10ff8204e89a07d4b3e4b0886b0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 24",
+     "bytes": 2882,
+     "sha256": "0a32448dfd454d9b1f346eb451b2191eee33aefc5cc99d2a811b08cf7817be1b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 25",
+     "bytes": 2781,
+     "sha256": "83c796c682107659ffc7f76c5ee3a1dbce48cea062868ca013dd449f4bf78596"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 26",
+     "bytes": 3081,
+     "sha256": "39561cedc8ee4fcccb84a6f43a6a83efeb52d37772c16e6542c07a0c9c5e08ac"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 27",
+     "bytes": 2387,
+     "sha256": "788de83b5f03e76ec1bf294402c5322494c6eb2ba5230c3c476bc0d71635bbeb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 28",
+     "bytes": 3185,
+     "sha256": "5261ec6c23a08fb69dbb98299a47a88fda77f1097efae4363ccdb8430ec1fa30"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 29",
+     "bytes": 3901,
+     "sha256": "0896eccdb58b1fd6f079353285cf5b31de0b270e8f78505a9ca2d8e3ab021ae9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 30",
+     "bytes": 3142,
+     "sha256": "d88a4db2265ceb6716d5854441834eb77b9613fcd3742bad490df35d3faa9511"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 31",
+     "bytes": 4026,
+     "sha256": "25a41bdba807b571453faf9e2f7e61a476bbd6f2eb22dec147ff579ba55a990c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 32",
+     "bytes": 5903,
+     "sha256": "21c99f9b072a230f1e799bc35a0e08e3d348506142a148414f26b6f52440fac1"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 33",
+     "bytes": 2821,
+     "sha256": "24c72e00d7130ab5fdddeab4622d33bfbe2d5e54cf9a9944e00f93698631933e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 34",
+     "bytes": 3186,
+     "sha256": "f53023ea8315ece052e63a708ad0e684eb3d44fd99e1cc37a211ec5dd7f99747"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 35",
+     "bytes": 3413,
+     "sha256": "f295fed03e3675e8be3e712b7d4139f65479a83c922eccbe8d71805897d51a2e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 36",
+     "bytes": 4977,
+     "sha256": "513ed099f85a0b2e4fdf77852e3624827ce859d38bf85d80b83926b1cc80d722"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 37",
+     "bytes": 2495,
+     "sha256": "b8fd3032eee71b804392bcf6f07f9e79f36a900a1bf417b6fc1e76187eba5dd8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 38",
+     "bytes": 1329,
+     "sha256": "b0cde988a981060f6ff8d14216f43af402a3bbe60cba68e515f6a2e4ceda90d5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 39",
+     "bytes": 3642,
+     "sha256": "15a8f158f8d952be936f013929297f51db2cf0d927bd23ce6aa0507cbf768f0c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 40",
+     "bytes": 3258,
+     "sha256": "da33e221f19ad8706805787ca34518918631400069846bc13dc338db9c6f7bcc"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 41",
+     "bytes": 2712,
+     "sha256": "589d6fd69f5d1b3e97c1ccb0e5f5b1f98c230283d585b74aa53d5db5c431a2d9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 42",
+     "bytes": 2729,
+     "sha256": "6264383d4e12018ca92263c512ea9ff7afe2c8c28de1ed5d3798c735d56e397d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 43",
+     "bytes": 1660,
+     "sha256": "3ccf43038a9ab5ef050c0df4fe2a4a7d30d947d042a9f24ee9d874cbec88cd40"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 44",
+     "bytes": 1060,
+     "sha256": "a85e214b48958931be5a3a6859b793deac6a13b5a0a9437324bdf0eef0181f38"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 45",
+     "bytes": 2559,
+     "sha256": "7d7b79b11e0c0d6a46185899cbdde81317cfaa6c186e2063ecbd2b519bb2914c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 46",
+     "bytes": 2527,
+     "sha256": "224fd210f54ec1aa5c3e59e180fd334a05c8b7fcd4069218be574e6e64d4fe8a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 47",
+     "bytes": 3746,
+     "sha256": "33364c0f0ffe233a4435031ff37c6ce40c692edaaed350ef6ba876d6f42a7aa5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 48",
+     "bytes": 2977,
+     "sha256": "496a50e7fbc34cec9a91c326aba0ea6cb176e55959c026b5eda23fb67cda8207"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 49",
+     "bytes": 2148,
+     "sha256": "b8ba17b72707488cf5031829a26ae0bd8b413bcdfaec008a5cedf6849d312a77"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 50",
+     "bytes": 2027,
+     "sha256": "cee7f35ec26496e299ec5b8a6a4ace5f224ecff7f104620530252dc0bd7ec5c5"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 51",
+     "bytes": 3283,
+     "sha256": "77929f35418dbca8eea064f0b74a4cdb6d79c09eda13af561cb90aec1b1fb408"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 52",
+     "bytes": 1808,
+     "sha256": "bdea56c40886441f9133fcf8902da320f15184c1df6504ae038a9bd2272f69bd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 53",
+     "bytes": 2702,
+     "sha256": "7a013823d2e6e3c94d96bb4cef4a4878d62bedfea69fc562e633f2d1844219b6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 54",
+     "bytes": 4418,
+     "sha256": "e5f953084044aaf044bd0a0884c69757b3424cc5e9c860ce76cc544c92260376"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 55",
+     "bytes": 5667,
+     "sha256": "2eefefbcad8beb85fbd7795ce41f61f77d6f6f58b15adce7d780fbe13d830240"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 56",
+     "bytes": 1462,
+     "sha256": "3e18bc49389128657467f8fc14f369724231836307ced564bf484636a1213922"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 57",
+     "bytes": 3951,
+     "sha256": "6d479824b71453912817454ef067ee2de5de38ebe86095338f64f154de170763"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 58",
+     "bytes": 5005,
+     "sha256": "dc5381baf78c70202191899a1d3ab6f98dfeb7dc4fecde0161d2bd87e0ba62cf"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 59",
+     "bytes": 2330,
+     "sha256": "6f19d811a75b44fe60447b70a21a2b1137e02cbb3ca39262888369629921f853"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 60",
+     "bytes": 1991,
+     "sha256": "af8fcae9b1ef63ec4ee744299ce480982bac43ba874140746ca63b55f597a926"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 61",
+     "bytes": 2298,
+     "sha256": "07efac31e248d03d4d7029d5929c5ce8c5afb10c9b3c41f219be3176a621b356"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 62",
+     "bytes": 5237,
+     "sha256": "904518d7b73ceb5ab261d437e5798804a122abb053826a835df4e4d15a4c904d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 63",
+     "bytes": 2504,
+     "sha256": "9913098d9ddf843af76003d039c1b8e3df44384baa08f886ef2b2a8549305202"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 64",
+     "bytes": 2408,
+     "sha256": "4c26bc4e89f23533e2b149e2286446b442906117ef98457ee6f5f0651a542c03"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 65",
+     "bytes": 4755,
+     "sha256": "7a2b2d1b13eb67aa40ff90cdb287d91818b6f8d3d56c96345862875fbcf2ee7d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume V/On the Proceedings of Pelagius/Chapter 66",
+     "bytes": 3480,
+     "sha256": "1910e899055723c52814c2d1cdd6349cbb5478924ed4368f69120ec5f967719a"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Chapter 1",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "Chapter 21",
+     "segments": 4
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "Chapter 25",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "Chapter 26",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "Chapter 27",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "Chapter 28",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "Chapter 29",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "Chapter 30",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "Chapter 31",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "Chapter 32",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "Chapter 33",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "Chapter 34",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "Chapter 35",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "Chapter 36",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "Chapter 37",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "Chapter 38",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "Chapter 39",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "Chapter 40",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "Chapter 41",
+     "segments": 3
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "Chapter 42",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "Chapter 43",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "Chapter 44",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "45",
+     "title": "Chapter 45",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "46",
+     "title": "Chapter 46",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "47",
+     "title": "Chapter 47",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "48",
+     "title": "Chapter 48",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "49",
+     "title": "Chapter 49",
+     "segments": 2
+    },
+    {
+     "file": "0050.json",
+     "ref": "50",
+     "title": "Chapter 50",
+     "segments": 2
+    },
+    {
+     "file": "0051.json",
+     "ref": "51",
+     "title": "Chapter 51",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "52",
+     "title": "Chapter 52",
+     "segments": 2
+    },
+    {
+     "file": "0053.json",
+     "ref": "53",
+     "title": "Chapter 53",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "54",
+     "title": "Chapter 54",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "55",
+     "title": "Chapter 55",
+     "segments": 2
+    },
+    {
+     "file": "0056.json",
+     "ref": "56",
+     "title": "Chapter 56",
+     "segments": 2
+    },
+    {
+     "file": "0057.json",
+     "ref": "57",
+     "title": "Chapter 57",
+     "segments": 2
+    },
+    {
+     "file": "0058.json",
+     "ref": "58",
+     "title": "Chapter 58",
+     "segments": 2
+    },
+    {
+     "file": "0059.json",
+     "ref": "59",
+     "title": "Chapter 59",
+     "segments": 2
+    },
+    {
+     "file": "0060.json",
+     "ref": "60",
+     "title": "Chapter 60",
+     "segments": 2
+    },
+    {
+     "file": "0061.json",
+     "ref": "61",
+     "title": "Chapter 61",
+     "segments": 2
+    },
+    {
+     "file": "0062.json",
+     "ref": "62",
+     "title": "Chapter 62",
+     "segments": 2
+    },
+    {
+     "file": "0063.json",
+     "ref": "63",
+     "title": "Chapter 63",
+     "segments": 2
+    },
+    {
+     "file": "0064.json",
+     "ref": "64",
+     "title": "Chapter 64",
+     "segments": 2
+    },
+    {
+     "file": "0065.json",
+     "ref": "65",
+     "title": "Chapter 65",
+     "segments": 2
+    },
+    {
+     "file": "0066.json",
+     "ref": "66",
+     "title": "Chapter 66",
+     "segments": 2
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 66,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 0
+ }
+}

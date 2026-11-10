@@ -1,0 +1,321 @@
+{
+ "workId": "augustine-faith-creed",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "augustine-faith-creed-csel-lat-ogl",
+   "role": "original",
+   "language": "latin",
+   "credit": "De fide et symbolo, in Sancti Aureli Augustini Opera (Corpus scriptorum ecclesiasticorum Latinorum 41), ed. Joseph Zycha (Prague, Vienna and Leipzig: F. Tempsky; G. Freytag, 1900). Open Greek and Latin, csel-dev, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa006/stoa0040.stoa006.opp-lat1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 117176,
+   "sourceSha256": "29fd6c0fbf180bc9e3b3ec1926f347a636f8cd719811918f37cd13ec895249c1",
+   "leftOut": {
+    "milestone": 10,
+    "lb": 659,
+    "note": 65,
+    "pb": 31
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 5785,
+    "garbledPerThousand": 0.2,
+    "joinedPerThousand": 0,
+    "numbersPerThousand": 0.5
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "retractationes",
+     "title": "retractationes",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "augustine-faith-creed-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "A Treatise on Faith and the Creed, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. III: Saint Augustin (ed. Philip Schaff; New York, Christian Literature Co.), trans. as printed in NPNF I vol. III (the Wikisource copy credits Philip Schaff et al.) (New York: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_III/Doctrinal_Treatises_of_St._Augustin/A_Treatise_on_Faith_and_the_Creed",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 75398,
+   "sourceSha256": "839679aa853387cb08dc3228c61ed6285f3275434ca568f7c3678e6aae923514",
+   "leftOut": {
+    "note": 133
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/A Treatise on Faith and the Creed/Chapter 1",
+     "bytes": 3888,
+     "sha256": "214bc5c2b44d2e80e902c607631db1b6dc68f8814f5851e7efe70d09375c8442"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/A Treatise on Faith and the Creed/Chapter 2",
+     "bytes": 6239,
+     "sha256": "a0abb40acbeb62bb5ad93e99a0f406c117127c365c44da9b64615577adcf3c6e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/A Treatise on Faith and the Creed/Chapter 3",
+     "bytes": 5509,
+     "sha256": "5adecbeafbc979e92fa6b8a9a54d2890db9a179b196d095a5c4ecca29a9b8ce8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/A Treatise on Faith and the Creed/Chapter 4",
+     "bytes": 14876,
+     "sha256": "69d6cd01cf3d8e0a88fc708662bc639e5571d6e7e74b16d06ebd4e2602923b3d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/A Treatise on Faith and the Creed/Chapter 5",
+     "bytes": 2571,
+     "sha256": "3d5ccf2d8ad4def2ef66700da1da6d8422dfc3fa6c441b081af0b1120a9b28ec"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/A Treatise on Faith and the Creed/Chapter 6",
+     "bytes": 3366,
+     "sha256": "378332c359943b43444860ade4cb34d28371d8cb5b74d5b147baea573cd6fee4"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/A Treatise on Faith and the Creed/Chapter 7",
+     "bytes": 2962,
+     "sha256": "3a5a66f09ce8e67514dad3052d0311a675d80c64d17924b2e2dd39c2878e6bd6"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/A Treatise on Faith and the Creed/Chapter 8",
+     "bytes": 2203,
+     "sha256": "95bd301b0115df86e2bf67473b181a1702f884372d42b5558a72470cbcf868ec"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/A Treatise on Faith and the Creed/Chapter 9",
+     "bytes": 22250,
+     "sha256": "f1d026ce9ee38f3022b4edcfcd507d8b7e725ef2c4f07aa3baef0f60fff9fbbb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume III/Doctrinal Treatises of St. Augustin/A Treatise on Faith and the Creed/Chapter 10",
+     "bytes": 11534,
+     "sha256": "b3dddbb6f25968b9856fef4f3e763c9129f0208befcef63b4d4af6650fd2ec3b"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Chapter 1",
+     "segments": 4
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "Chapter 2",
+     "segments": 3
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "Chapter 3",
+     "segments": 3
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "Chapter 4",
+     "segments": 7
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "Chapter 5",
+     "segments": 3
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "Chapter 9",
+     "segments": 7
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "Chapter 10",
+     "segments": 6
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 0,
+  "shared": 0
+ }
+}

@@ -1,0 +1,872 @@
+{
+ "workId": "augustine-nature-of-good",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "augustine-nature-of-good-csel-lat-ogl",
+   "role": "original",
+   "language": "latin",
+   "credit": "De natura boni, in Sancti Aureli Augustini Opera (Corpus scriptorum ecclesiasticorum Latinorum 25.2), ed. Joseph Zycha (Prague, Vienna and Leipzig: F. Tempsky; G. Freytag, 1892). Open Greek and Latin, csel-dev, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/csel-dev/master/data/stoa0040/stoa053/stoa0040.stoa053.opp-lat1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 118950,
+   "sourceSha256": "4caaeb3b127c8fea7e94993f75c3b3a9c37de81c118acd139947ff863b67b05e",
+   "leftOut": {
+    "lb": 894,
+    "note": 53,
+    "pb": 36
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 7948,
+    "garbledPerThousand": 0,
+    "joinedPerThousand": 0.1,
+    "numbersPerThousand": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "29",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "30",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "31",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "32",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "33",
+     "segments": 1
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "34",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "35",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "36",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "37",
+     "segments": 1
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "38",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "39",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "40",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "41",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "42",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "43",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "44",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "45",
+     "title": "45",
+     "segments": 1
+    },
+    {
+     "file": "0046.json",
+     "ref": "46",
+     "title": "46",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "0",
+     "title": "0",
+     "segments": 1
+    },
+    {
+     "file": "0048.json",
+     "ref": "48",
+     "title": "48",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "augustine-nature-of-good-npnf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Concerning the Nature of Good, in A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, First Series, vol. IV: Saint Augustin (ed. Philip Schaff; New York, Christian Literature Co.), trans. as printed in NPNF I vol. IV (the Wikisource copy credits Philip Schaff et al.) (New York: Christian Literature Co., 1887). Wikisource contributors, English Wikisource (Nicene and Post-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_IV/Manichaean_Controversy/Concerning_the_Nature_of_Good",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 110511,
+   "sourceSha256": "33ebd8807854a3afdfd61c928c60477fbb5c419b4477728c00e14b5c292b2f96",
+   "leftOut": {
+    "note": 56
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 1",
+     "bytes": 2680,
+     "sha256": "868d740323cd3875b82f9ed29c1b6738e97bd3fe5d9752497fdf84dbc046b8c7"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 2",
+     "bytes": 1463,
+     "sha256": "a919cf6eff5a1e452ae73677db01e0f701e9b785fe6f9e5ad63e96e7c9388684"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 3",
+     "bytes": 2195,
+     "sha256": "0a97602815ea250fdf7059e23da1afe98aa9b8a0e1053ee5c39094f91bf953f9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 4",
+     "bytes": 1289,
+     "sha256": "cf4bb513472cfbfbefda428378ddab9c46d98af60874b6144845b023f11fe812"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 5",
+     "bytes": 1923,
+     "sha256": "d496f5027056ab13d5628397e7734f935ab93217f3f64c3581c04df01c063b08"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 6",
+     "bytes": 1291,
+     "sha256": "4cea6132994f2e5860d70d45f58bd41cc74a46c2c8f7e1c3ff7b5f1a8fc4e93e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 7",
+     "bytes": 1729,
+     "sha256": "40a4d882cb6835aecdf8fcd5bac89604759f6ef7e7602856aec03ae5a681e3c9"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 8",
+     "bytes": 1852,
+     "sha256": "508fd0d08aea3e13e6a3e702c6f4735022a5c4b27a01ab59a238781787adac70"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 9",
+     "bytes": 1596,
+     "sha256": "dcc42620684595ae1f0e8b248b1d91f027b1e580290243eea45ee1f0245d4490"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 10",
+     "bytes": 1458,
+     "sha256": "dec2e6b98ae9ec39f2bbc04ebb2353356a014921235f2c1e0d062eaa2e01dafb"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 11",
+     "bytes": 1284,
+     "sha256": "634b8aa2cd1123872e59fc8a9234cef0a112b8158feaffbaf721de4727bfebec"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 12",
+     "bytes": 1533,
+     "sha256": "206905f8263ea976eb72e9b72417c0008105bbe0d2c60ced642d46566c5c72a0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 13",
+     "bytes": 2014,
+     "sha256": "14d5189b1635c16613a3eb3b9dfccc24d3aaf232f28ddbf224e90e99e512ff44"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 14",
+     "bytes": 1437,
+     "sha256": "6dbdd82aec44eadbaaf5a7bc1763b3d41ceddc7bcbc810bd8f0dfdf080d07e63"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 15",
+     "bytes": 2167,
+     "sha256": "42c9cf5361c61df53dbce99695e191da35ecfd8747c8639769de83d0ab4a02aa"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 16",
+     "bytes": 1561,
+     "sha256": "f3af180f11d40c4aec16908351dab1fb592e9dfb1e5a6bcc0e5c69b6a35cbaed"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 17",
+     "bytes": 1294,
+     "sha256": "9bb47b03c4ea0fbd8efa297859e6a2df4ef1dc7841c626891f226641ff284596"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 18",
+     "bytes": 2723,
+     "sha256": "80ddbf5bd4187ad20873115270a29532a20442aeae88fa70918ae70723bbc637"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 19",
+     "bytes": 1722,
+     "sha256": "b6da6f3346034d3afdfdbe6dcbf67c4926994bf1f39d42c2b4647897fe820f1b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 20",
+     "bytes": 2598,
+     "sha256": "d6229ee7dfa777060b87ea5db32782eaade5f062cff4afe827c84c6bdd974015"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 21",
+     "bytes": 1455,
+     "sha256": "aeacbd29ced685cee714b0cea24053b17a2bf9850277f71131dc729f770466b8"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 22",
+     "bytes": 1918,
+     "sha256": "0471bb4be9a062426323ce124b91716ef195598aee30ecf3aa7e9e220c1ce92b"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 23",
+     "bytes": 2358,
+     "sha256": "f6b613189249d1ab68ba45787f46799c2719f41ffdcdf4894d6742e7863d9d82"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 24",
+     "bytes": 2671,
+     "sha256": "1669bb91ca091a8b9bf161d5924c3c14c021f30d6b9cc00f6bcd8073659af311"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 25",
+     "bytes": 3217,
+     "sha256": "17ffba3fc6bb393c5f6602ff19917c248324821fc40363039b131c8208e144a2"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 26",
+     "bytes": 1947,
+     "sha256": "381c1b25debb72eb6d1b1236a877b7cd46d27a2161a5ec1e8cc2f81097f177bd"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 27",
+     "bytes": 1672,
+     "sha256": "b745c027b94438b60ab1757eb27929f19f16326f00be1197b5c3db6ac1f1ea32"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 28",
+     "bytes": 1856,
+     "sha256": "b476a91995dfafb7499945ebd97cbdd5d6f0ede9bd9a7e6852351a8f412dc898"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 29",
+     "bytes": 1276,
+     "sha256": "64d5e7f96cd3637bcb7e03c15e64723c66968e9797010bb7c5fa608e4994893d"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 30",
+     "bytes": 1865,
+     "sha256": "51b6471cb02e9c834617d0d43c3bb55af319dd9e0b035bf0931a632c098a1c87"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 31",
+     "bytes": 2462,
+     "sha256": "95ee8d5720213f8dc18edcb4e00ca1034be5ac231507ffa13ca5d58cb6ca2b67"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 32",
+     "bytes": 2718,
+     "sha256": "a1744436a685aace6fb33f8b0d9c507dba1cdcc184edae16952f08f3edd8ac20"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 33",
+     "bytes": 2263,
+     "sha256": "37cbdc04b1bb61e755b3da6be4dccc48097aa436d823944cef253f51b99dae67"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 34",
+     "bytes": 1835,
+     "sha256": "a7e9e248578e05498e8763e692188d832107f917728971295e505fedb5c16480"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 35",
+     "bytes": 1590,
+     "sha256": "561cd93f0f71413ababa6ab3c79c40a5ec28c6131e0024d81f04b9bba6f3df49"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 36",
+     "bytes": 2013,
+     "sha256": "3acb88b1c30aa615908ba126fa7b973146b81aa5795cd91a1ab7729aa6980c5e"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 37",
+     "bytes": 1418,
+     "sha256": "9ce5f888d0074a7d2ce4c4cb0e85935ce43ceb3ef7c33123530b12c53b65d147"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 38",
+     "bytes": 1202,
+     "sha256": "72ca02203fc37faeacd80611b5f45cb4315c6e1eb327242bdfe3bae3fc305887"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 39",
+     "bytes": 1940,
+     "sha256": "d9b4b298968e75bca79748100d5e696c3618c67ab71f17af117dadfacfc300f0"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 40",
+     "bytes": 1415,
+     "sha256": "f4b6057b387e648b865441bd9559502a298b4d37bf7a1eb524b127f1a5d95dd3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 41",
+     "bytes": 5326,
+     "sha256": "10c52f8372c09bb67244ac1b1661e53de7b954e207fe214c56ea512731758a16"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 42",
+     "bytes": 6766,
+     "sha256": "91c7fc9318f3357ed91f3fff452e700d7b6319d052010a66e18dc38d303ce123"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 43",
+     "bytes": 4123,
+     "sha256": "d12a298d25a8497a8b6ac843df6dc1b969830547836599bd0621d351bc3cbac3"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 44",
+     "bytes": 6152,
+     "sha256": "adffcca6a97404992fcc4ae949f65a22d1e7106368440e709f2fb5e9b8919c6a"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 45",
+     "bytes": 2192,
+     "sha256": "dee36aca288cf523d369d4e0c02d22178c5321c77e92d21d40cc33f2b0eca28c"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 46",
+     "bytes": 4064,
+     "sha256": "f2d070e8b6e956ab34202913ed101b983067dd8d1e4a24a890c4d83d8ad46977"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 47",
+     "bytes": 3947,
+     "sha256": "a7b22a360edd4d80057d33d66e8453a792e4228a67d72f2eac7e36947904c943"
+    },
+    {
+     "title": "Nicene and Post-Nicene Fathers: Series I/Volume IV/Manichaean Controversy/Concerning the Nature of Good/Chapter 48",
+     "bytes": 3041,
+     "sha256": "0548f0600e587015d7bd41cbbfe0f194e5ca419cb6d2d38c90c0a8be5653aab7"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Chapter 1",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0024.json",
+     "ref": "24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "25",
+     "title": "Chapter 25",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "26",
+     "title": "Chapter 26",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "27",
+     "title": "Chapter 27",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "28",
+     "title": "Chapter 28",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "29",
+     "title": "Chapter 29",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "30",
+     "title": "Chapter 30",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "31",
+     "title": "Chapter 31",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "32",
+     "title": "Chapter 32",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "33",
+     "title": "Chapter 33",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "34",
+     "title": "Chapter 34",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "35",
+     "title": "Chapter 35",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "36",
+     "title": "Chapter 36",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "37",
+     "title": "Chapter 37",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "38",
+     "title": "Chapter 38",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "39",
+     "title": "Chapter 39",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "40",
+     "title": "Chapter 40",
+     "segments": 2
+    },
+    {
+     "file": "0041.json",
+     "ref": "41",
+     "title": "Chapter 41",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "42",
+     "title": "Chapter 42",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "43",
+     "title": "Chapter 43",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "44",
+     "title": "Chapter 44",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "45",
+     "title": "Chapter 45",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "46",
+     "title": "Chapter 46",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "47",
+     "title": "Chapter 47",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "48",
+     "title": "Chapter 48",
+     "segments": 2
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 47,
+  "onlyInOriginal": 1,
+  "onlyInEnglish": 1
+ }
+}
