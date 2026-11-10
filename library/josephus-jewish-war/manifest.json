@@ -1,0 +1,135 @@
+{
+ "workId": "josephus-jewish-war",
+ "parallel": "range",
+ "editions": [
+  {
+   "editionId": "josephus-jewish-war-niese-grc-perseus",
+   "role": "original",
+   "language": "greek",
+   "credit": "Ἰουδαϊκοῦ πολέμου πρὸς Ῥωμαίους, in Flavii Iosephi opera, ed. Benedikt Niese (Berlin: Weidmann, 1885–1895), ed. Benedikt Niese (Berlin: Weidmann, 1895). Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit): Greek text of Benedikt Niese, Flavii Iosephi opera (Berlin, Weidmann), under CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0526/tlg004/tlg0526.tlg004.perseus-grc2.xml",
+   "retrievedAt": "2026-11-09",
+   "sourceBytes": 2161436,
+   "sourceSha256": "011c690837e035376c8e12ce0d63e06c92f97bb688d44c8c4d96b193a65b6523",
+   "leftOut": {
+    "milestone": 818,
+    "pb": 487
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 125211,
+    "barePerThousand": 36,
+    "digitWords": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Φλαυίου Ἰωσήπου ἱστορία Ἰουδαϊκοῦ πολέμου πρὸς Ῥωμαίους βιβλίον α.",
+     "segments": 673
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "Φλαυίου Ἰωσήπου ἱστορία Ἰουδαϊκοῦ πολέμου πρὸς Ῥωμαίους λόγος β.",
+     "segments": 654
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "Φλαυίου Ἰωσήπου ἱστορία Ἰουδαϊκοῦ πολέμου πρὸς Ῥωμαίους βιβλίον γ.",
+     "segments": 542
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "Φλαυίου Ἰωσήπου ἱστορία Ἰουδαϊκοῦ πολέμου πρὸς Ῥωμαίους βιβλίον δ.",
+     "segments": 663
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "Φλαυίου Ἰωσήπου ἱστορία Ἰουδαϊκοῦ πολέμου πρὸς Ῥωμαίους βιβλίον ε.",
+     "segments": 572
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "Φλαυίου Ἰωσήπου ἱστορία Ἰουδαϊκοῦ πολέμου πρὸς Ῥωμαίους βιβλίον [στιγμα].",
+     "segments": 442
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "Φλαυίου Ἰωσήπου ἱστορία Ἰουδαϊκοῦ πολέμου πρὸς Ῥωμαίους βιβλίον ζ.",
+     "segments": 455
+    }
+   ]
+  },
+  {
+   "editionId": "josephus-jewish-war-whiston-eng-perseus",
+   "role": "english",
+   "language": "english",
+   "credit": "The Wars of the Jews, in The Works of Flavius Josephus, trans. William Whiston (Auburn and Rochester, NY: Alden and Beardsley, 1856), trans. William Whiston (Auburn and Rochester, NY: Alden and Beardsley, 1856). Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit): English translation by William Whiston, The Works of Flavius Josephus (Auburn and Rochester, NY, 1856), under CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0526/tlg004/tlg0526.tlg004.perseus-eng2.xml",
+   "retrievedAt": "2026-11-09",
+   "sourceBytes": 1433927,
+   "sourceSha256": "33166cb16da18102354e5b180b5e8a2fc46a229733bcf1f15950a732bfe916f0",
+   "leftOut": {
+    "milestone": 818,
+    "note": 194
+   },
+   "segmentRefs": "citation",
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Book I CONTAINING THE INTERVAL OF ONE HUNDRED AND SIXTY-SEVEN YEARS. FROM THE TAKING OF JERUSALEM BY ANTIOCHUS EPIPHANES, TO THE DEATH OF HEROD THE GREAT.",
+     "segments": 234
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "Book II CONTAINING THE INTERVAL OF SIXTY-NINE YEARS. FROM THE DEATH OF HEROD TILL VESPASIAN WAS SENT TO SUBDUE THE JEWS BY NERO.",
+     "segments": 143
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "Book III CONTAINING THE INTERVAL OF ABOUT ONE YEAR. FROM VESPASIAN'S COMING TO SUBDUE THE JEWS TO THE TAKING OF GAMALA.",
+     "segments": 88
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "Book IV CONTAINING THE INTERVAL OF ABOUT ONE YEAR. FROM THE SIEGE OF GAMALA TO THE COMING OF TITUS TO BESIEGE JERUSALEM.",
+     "segments": 78
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "Book V CONTAINING THE INTERVAL OF NEAR SIX MONTHS. FROM THE COMING OF TITUS TO BESIEGE JERUSALEM, TO THE GREAT EXTREMITY TO WHICH THE JEWS WERE REDUCED.",
+     "segments": 65
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "Book VI CONTAINING THE INTERVAL OF ABOUT ONE MONTH. FROM THE GREAT EXTREMITY TO WHICH THE JEWS WERE REDUCED TO THE TAKING OF JERUSALEM BY TITUS.",
+     "segments": 52
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "Book VII CONTAINING THE INTERVAL OF ABOUT THREE YEARS. FROM THE TAKING OF JERUSALEM BY TITUS TO THE SEDITION AT CYRENE",
+     "segments": 47
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "runs": 707,
+  "onlyInEnglish": 0
+ }
+}

@@ -1,0 +1,298 @@
+{
+ "workId": "josephus-antiquities",
+ "parallel": "range",
+ "editions": [
+  {
+   "editionId": "josephus-antiquities-niese-grc-perseus",
+   "role": "original",
+   "language": "greek",
+   "credit": "Ἰουδαϊκὴ ἀρχαιολογία, in Flavii Iosephi opera, ed. Benedikt Niese (Berlin: Weidmann, 1885–1895), ed. Benedikt Niese (Berlin: Weidmann, 1885). Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit): Greek text of Benedikt Niese, Flavii Iosephi opera (Berlin, Weidmann), under CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0526/tlg001/tlg0526.tlg001.perseus-grc2.xml",
+   "retrievedAt": "2026-11-09",
+   "sourceBytes": 5344228,
+   "sourceSha256": "982de49721b1ef7df4e6967895cab75359da6aada0ffc673b044f533c5cdc406",
+   "leftOut": {
+    "pb": 1473,
+    "milestone": 1702,
+    "bracketed": 222
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 311761,
+    "barePerThousand": 31,
+    "digitWords": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Τάδε ἔνεστιν ἐν τῇ πρώτῃ τῶν Ἰωσήπου ἱστοριῶν τῆς Ἰουδαϊκῆς ἀρχαιολογίας.",
+     "segments": 347
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "Τάδε ἔνεστιν ἐν τῇ β τῶν Ἰωσήπου ἱστοριῶν τῆς Ἰουδαϊκῆς ἀρχαιολογίας.",
+     "segments": 350
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "Τάδε ἔνεστιν ἐν τῇ τρίτῃ τῶν Ἰωσήπου ἱστοριῶν τῆς Ἰουδαϊκῆς ἀρχαιολογίας.",
+     "segments": 323
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "Τάδε ἔνεστιν ἐν τῇ τετάρτῃ τῶν Ἰωσήπου ἱστοριῶν τῆς Ἰουδαϊκῆς ἀρχαιολογίας.",
+     "segments": 332
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "Τάδε ἔνεστιν ἐν τῇ πέμπτῃ τῶν Ἰωσήπου ἱστοριῶν τῆς Ἰουδαϊκῆς ἀρχαιολογίας.",
+     "segments": 363
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "Τάδε ἔνεστιν ἐν τῇ ἕκτῃ τῶν Ἰωσήπου ἱστοριῶν τῆς Ἰουδαϊκῆς ἀρχαιολογίας.",
+     "segments": 379
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "Τάδε ἔνεστιν ἐν τῇ ἑβδόμῃ τῶν Ἰωσήπου ἱστοριῶν τῆς Ἰουδαϊκῆς ἀρχαιολογίας.",
+     "segments": 395
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "Τάδε ἔνεστιν ἐν τῇ ὀγδόῃ τῶν Ἰωσήπου ἱστοριῶν τῆς Ἰουδαϊκῆς ἀρχαιολογίας.",
+     "segments": 421
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "Τάδε ἔνεστιν ἐν τῇ ἐνάτῃ τῶν Ἰωσήπου ἱστοριῶν τῆς Ἰουδαϊκῆς ἀρχαιολογίας.",
+     "segments": 292
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "Τάδε ἔνεστιν ἐν τῇ δεκάτῃ βίβλῳ τῶν Ἰωσήπου ἱστοριῶν τῆς Ἰουδαϊκῆς ἀρχαιολογίας.",
+     "segments": 282
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "Τάδε ἔνεστιν ἐν τῇ ἑνδεκάτῃ τῶν Ἰωσήπου ἱστοριῶν τῆς Ἰουδαϊκῆς ἀρχαιολογίας.",
+     "segments": 348
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "Τάδε ἔνεστιν ἐν τῇ δωδεκάτῃ τῶν Ἰωσήπου ἱστοριῶν τῆς Ἰουδαϊκῆς ἀρχαιολογίας.",
+     "segments": 435
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "Τάδε ἔνεστιν ἐν τῇ τρισκαιδεκάτῃ τῶν Ἰωσήπου ἱστοριῶν τῆς Ἰουδαϊκῆς ἀρχαιολογίας.",
+     "segments": 434
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "Τάδε ἔνεστιν ἐν τῇ τεσσαρεσκαιδεκάτῃ τῶν Ἰωσήπου ἱστοριῶν τῆς Ἰουδαϊκῆς ἀρχαιολογίας.",
+     "segments": 492
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "Τάδε ἔνεστιν ἐν τῇ πεντεκαιδεκάτῃ τῶν Ἰωσήπου ἱστοριῶν τῆς Ἰουδαϊκῆς ἀρχαιολογίας.",
+     "segments": 426
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "Τάδε ἔνεστιν ἐν τῇ ἑξκαιδεκάτῃ τῶν Ἰωσήπου ἱστοριῶν τῆς Ἰουδαϊκῆς ἀρχαιολογίας.",
+     "segments": 405
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "Τάδε ἔνεστιν ἐν τῇ ἑπτακαιδεκάτῃ τῶν Ἰωσήπου ἱστοριῶν τῆς Ἰουδαϊκῆς ἀρχαιολογίας.",
+     "segments": 356
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "Τάδε ἔνεστιν ἐν τῇ ιη τῶν Ἰωσήπου ἱστοριῶν τῆς Ἰουδαϊκῆς ἀρχαιολογίας.",
+     "segments": 380
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "Τάδε ἔνεστιν ἐν τῇ ιθ τῶν Ἰωσήπου ἱστοριῶν τῆς Ἰουδαϊκῆς ἀρχαιολογίας.",
+     "segments": 367
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "Τάδε ἔνεστιν ἐν τῇ κ τῶν Ἰωσήπου ἱστοριῶν τῆς Ἰουδαϊκῆς ἀρχαιολογίας.",
+     "segments": 269
+    }
+   ]
+  },
+  {
+   "editionId": "josephus-antiquities-whiston-eng-perseus",
+   "role": "english",
+   "language": "english",
+   "credit": "Antiquities of the Jews, in The Works of Flavius Josephus, trans. William Whiston (Auburn and Rochester, NY: Alden and Beardsley, 1856), trans. William Whiston (Auburn and Rochester, NY: Alden and Beardsley, 1856). Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit): English translation by William Whiston, The Works of Flavius Josephus (Auburn and Rochester, NY, 1856), under CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0526/tlg001/tlg0526.tlg001.perseus-eng2.xml",
+   "retrievedAt": "2026-11-09",
+   "sourceBytes": 3229143,
+   "sourceSha256": "de21842b55845aeeb1f60ae46b18217fd59ed3531b55b941dc066cd7e09c00a5",
+   "leftOut": {
+    "milestone": 1702,
+    "note": 555
+   },
+   "refCorrections": [
+    {
+     "from": "17.13",
+     "to": "17.339"
+    }
+   ],
+   "segmentRefs": "citation",
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Book I CONTAINING THE INTERVAL OF THREE THOUSAND EIGHT HUNDRED AND THIRTY-THREE YEARS. FROM THE CREATION TO THE DEATH OF ISAAC.",
+     "segments": 84
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "Book II CONTAINING THE INTERVAL OF TWO HUNDRED AND TWENTY YEARS. FROM THE DEATH OF ISAAC TO THE EXODUS OUT OF EGYPT.",
+     "segments": 76
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "Book III CONTAINING THE INTERVAL OF TWO YEARS. FROM THE EXODUS OUT OF EGYPT, TO THE REJECTION OF THAT GENERATION.",
+     "segments": 79
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "Book IV CONTAINING THE INTERVAL OF THIRTY-EIGHT YEARS. FROM THE REJECTION OF THAT GENERATION TO THE DEATH OF MOSES.",
+     "segments": 88
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "Book V CONTAINING THE INTERVAL OF FOUR HUNDRED AND SEVENTY-SIX YEARS. FROM THE DEATH OF MOSES TO THE DEATH OF ELI.",
+     "segments": 98
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "Book VI CONTAINING THE INTERVAL OF THIRTY-TWO YEARS. FROM THE DEATH OF ELI TO THE DEATH OF SAUL.",
+     "segments": 83
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "Book VII CONTAINING THE INTERVAL OF FORTY YEARS. FROM THE DEATH OF SAUL TO THE DEATH OF DAVID.",
+     "segments": 76
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "Book VIII CONTAINING THE INTERVAL OF ONE HUNDRED AND SIXTY-THREE YEARS. FROM THE DEATH OF DAVID TO THE DEATH OF AHAB.",
+     "segments": 85
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "Book IX CONTAINING THE INTERVAL OF ONE HUNDRED AND FIFTY-SEVEN YEARS. FROM THE DEATH OF AHAB TO THE CAPTIVITY OF THE TEN TRIBES.",
+     "segments": 54
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "Book X CONTAINING THE INTERVAL OF ONE HUNDRED AND EIGHTY-TWO YEARS AND A HALF. FROM THE CAPTIVITY OF THE TEN TRIBES TO THE FIRST YEAR OF CYRUS.",
+     "segments": 52
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "Book XI CONTAINING THE INTERVAL OF TWO HUNDRED AND FIFTY-THREE YEARS AND FIVE MONTHS. FROM THE FIRST OF CYRUS TO THE DEATH OF ALEXANDER THE GREAT.",
+     "segments": 54
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "Book XII CONTAINING THE INTERVAL OF A HUNDRED AND SEVENTY YEARS. FROM THE DEATH OF ALEXANDER THE GREAT TO THE DEATH OF JUDAS MACCABEUS.",
+     "segments": 68
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "Book XIII CONTAINING THE INTERVAL OF EIGHTY-TWO YEARS, FROM THE DEATH OF JUDAS MACCABEUS TO THE DEATH OF QUEEN ALEXANDRA.",
+     "segments": 87
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "Book XIV CONTAINING THE INTERVAL OF THIRTY-TWO YEARS. FROM THE DEATH OF QUEEN ALEXANDRA TO THE DEATH OF ANTIGONUS.",
+     "segments": 111
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "Book XV CONTAINING THE INTERVAL OF EIGHTEEN YEARS. FROM THE DEATH OF ANTIGONUS TO THE FINISHING OF THE TEMPLE BY HEROD.",
+     "segments": 67
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "Book XVI CONTAINING THE INTERVAL OF TWELVE YEARS. FROM THE FINISHING OF THE TEMPLE BY HEROD TO THE DEATH OF ALEXANDER AND ARISTOBULUS.",
+     "segments": 61
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "Book XVII CONTAINING THE INTERVAL OF FOURTEEN YEARS. FROM THE DEATH OF ALEXANDER AND ARISTOBULUS TO THE BANISHMENT OF ARCHELAUS.",
+     "segments": 61
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "Book XVIII CONTAINING THE INTERVAL OF THIRTY-TWO YEARS. FROM THE BANISHMENT OF ARCHELUS TO THE DEPARTURE FROM BABYLON.",
+     "segments": 57
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "Book XIX CONTAINING THE INTERVAL OF THREE YEARS AND A HALF. FROM THE DEPARTURE OUT OF BABYLON TO FADUS, THE ROMAN PROCURATOR.",
+     "segments": 52
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "Book XX CONTAINING THE INTERVAL OF TWENTY-TWO YEARS. FROM FADUS THE PROCURATOR TO FLORUS.",
+     "segments": 51
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "runs": 1444,
+  "onlyInEnglish": 0
+ }
+}
