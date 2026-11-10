@@ -5795,7 +5795,7 @@
    "originalLanguage": "greek",
    "composed": "3rd–1st century BC",
    "status": "verified_public_domain_bilingual",
-   "statusBasis": "Verified 2026-11-05: 4 Maccabees — Brenton's Greek text (Samuel Bagster and Sons, 1851) + 4 Maccabees — Brenton's translation (Samuel Bagster and Sons, 1851). Public domain in the United States on the basis recorded with each edition.",
+   "statusBasis": "Verified 2026-11-10: 4 Maccabees — Brenton's Greek text (Samuel Bagster and Sons, 1851) + 4 Maccabees — Brenton's translation (Samuel Bagster and Sons, 1851). Public domain in the United States on the basis recorded with each edition.",
    "original": {
     "id": "brenton-greek-4ma",
     "role": "original",
@@ -9913,7 +9913,8 @@
     "verified": true,
     "ingested": true
    },
-   "bilingualComplete": true,
+   "bilingualComplete": false,
+   "incomplete": "The Greek text covers Books I–II in Greek, except II.51 (end)–113 and lacks the Greek of II.51 (end)–113. The Greek of these sections is lost in the manuscripts; Niese prints in their place the old Latin version (made for Cassiodorus, 6th century), and the store keeps it as he prints it, so those sections are Latin, not Greek.",
    "notes": "Two books; also known as On the Antiquity of the Jews (Περὶ ἀρχαιότητος Ἰουδαίων), the title the Greek copy carries. Spurious or later works sometimes printed with Josephus (the Discourse to the Greeks concerning Hades, 4 Maccabees, Josippon) are not his and are not filed here. Words Niese prints in square brackets as suspect (Perseus tags them <del>) are kept, in brackets, as his page shows them: among them the Testimonium Flavianum, Antiquities 18.63–64."
   },
   {
@@ -13624,7 +13625,7 @@
     "ingested": true
    },
    "bilingualComplete": false,
-   "notes": "Not by Clement of Rome: the Clementine romance (the Homilies, the Recognitions and the letters and adjuration prefixed to the Homilies) took its present forms in the 3rd–4th centuries from a lost earlier narrative, the Circuits of Peter (Periodoi Petrou), which modern scholars reconstruct and which is not securely Clement's either. The Greek original of the Recognitions is lost; the work survives in Rufinus's Latin translation (with Rufinus's own preface, kept in the English) and in part in Syriac."
+   "notes": "Not by Clement of Rome: the Clementine romance (the Homilies, the Recognitions and the letters and adjuration prefixed to the Homilies) took its present forms in the 3rd–4th centuries from a lost earlier narrative, the Circuits of Peter (Periodoi Petrou), which modern scholars reconstruct and which is not securely Clement's either. The Greek original of the Recognitions is lost; the work survives in Rufinus's Latin translation (with Rufinus's own preface, kept in the English) and in part in Syriac. ANF's translator left Book III, chapters 2–11, untranslated (his note: they are wanting in the best manuscripts and he judged them no part of the work); the English therefore has no chapters III.2–11."
   },
   {
    "id": "pseudo-clement-epistle-peter-james",

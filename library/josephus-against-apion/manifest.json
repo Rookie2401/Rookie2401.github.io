@@ -9,11 +9,16 @@
    "credit": "περὶ ἀρχαιότητος Ἰουδαίων, in Flavii Iosephi opera, ed. Benedikt Niese (Berlin: Weidmann, 1885–1895), ed. Benedikt Niese (Berlin: Weidmann, 1889). Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit): Greek text of Benedikt Niese, Flavii Iosephi opera (Berlin, Weidmann), under CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0526/tlg003/tlg0526.tlg003.perseus-grc2.xml",
-   "retrievedAt": "2026-11-09",
+   "retrievedAt": "2026-11-10",
    "sourceBytes": 422398,
    "sourceSha256": "75cc3dabaeb12a2224e3524eae9e5a25695f6cdac20389d76de347c8cf35dbcd",
    "leftOut": {
     "milestone": 76
+   },
+   "extent": {
+    "covers": "Books I–II in Greek, except II.51 (end)–113",
+    "lacks": "the Greek of II.51 (end)–113",
+    "reason": "The Greek of these sections is lost in the manuscripts; Niese prints in their place the old Latin version (made for Cassiodorus, 6th century), and the store keeps it as he prints it, so those sections are Latin, not Greek"
    },
    "segmentRefs": "citation",
    "signals": {
@@ -43,7 +48,7 @@
    "credit": "Against Apion, in The Works of Flavius Josephus, trans. William Whiston (Auburn and Rochester, NY: Alden and Beardsley, 1856), trans. William Whiston (Auburn and Rochester, NY: Alden and Beardsley, 1856). Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit): English translation by William Whiston, The Works of Flavius Josephus (Auburn and Rochester, NY, 1856), under CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0526/tlg003/tlg0526.tlg003.perseus-eng2.xml",
-   "retrievedAt": "2026-11-09",
+   "retrievedAt": "2026-11-10",
    "sourceBytes": 265527,
    "sourceSha256": "8152ee3c0f5706c2f1f1903b97a354a51ec63cd72cc56dcd0a70ae162428d640",
    "leftOut": {

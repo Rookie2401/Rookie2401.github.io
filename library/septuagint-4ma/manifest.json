@@ -10,7 +10,7 @@
    "licence": "public-domain",
    "sourceUrl": "https://ebible.org/Scriptures/grcbrent_usfx.zip",
    "sourceMember": "grcbrent_usfx.xml",
-   "retrievedAt": "2026-11-05",
+   "retrievedAt": "2026-11-10",
    "sourceBytes": 1816960,
    "sourceSha256": "ff88d6bdd6f21f279b24fe7ebcefd7747991cc24f232df95a676c5609fc25356",
    "leftOut": {
@@ -19,8 +19,31 @@
     "s": 1
    },
    "segmentRefs": "citation",
+   "restorations": [
+    {
+     "kind": "insert",
+     "ref": "4MA.10.4",
+     "after": "4MA.10.3",
+     "words": 19,
+     "source": "https://archive.org/details/septuagintversio1900bren"
+    },
+    {
+     "kind": "insert",
+     "ref": "4MA.11.7",
+     "after": "4MA.11.6",
+     "words": 10,
+     "source": "https://archive.org/details/septuagintversio1900bren"
+    },
+    {
+     "kind": "insert",
+     "ref": "4MA.11.8",
+     "after": "4MA.11.7",
+     "words": 11,
+     "source": "https://archive.org/details/septuagintversio1900bren"
+    }
+   ],
    "signals": {
-    "words": 7871,
+    "words": 7911,
     "barePerThousand": 24,
     "digitWords": 0
    },
@@ -83,13 +106,13 @@
      "file": "0010.json",
      "ref": "4MA.10",
      "title": "4 Maccabees 10",
-     "segments": 21
+     "segments": 22
     },
     {
      "file": "0011.json",
      "ref": "4MA.11",
      "title": "4 Maccabees 11",
-     "segments": 27
+     "segments": 29
     },
     {
      "file": "0012.json",
@@ -143,7 +166,7 @@
    "licence": "public-domain",
    "sourceUrl": "https://ebible.org/Scriptures/eng-Brenton_usfx.zip",
    "sourceMember": "eng-Brenton_usfx.xml",
-   "retrievedAt": "2026-11-05",
+   "retrievedAt": "2026-11-10",
    "sourceBytes": 1548145,
    "sourceSha256": "363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554",
    "leftOut": {
@@ -153,6 +176,29 @@
     "x": 150
    },
    "segmentRefs": "citation",
+   "restorations": [
+    {
+     "kind": "insert",
+     "ref": "4MA.10.4",
+     "after": "4MA.10.3",
+     "words": 27,
+     "source": "https://archive.org/details/septuagintversio1900bren"
+    },
+    {
+     "kind": "insert",
+     "ref": "4MA.11.7",
+     "after": "4MA.11.6",
+     "words": 18,
+     "source": "https://archive.org/details/septuagintversio1900bren"
+    },
+    {
+     "kind": "insert",
+     "ref": "4MA.11.8",
+     "after": "4MA.11.7",
+     "words": 16,
+     "source": "https://archive.org/details/septuagintversio1900bren"
+    }
+   ],
    "divisions": [
     {
      "file": "0001.json",
@@ -212,13 +258,13 @@
      "file": "0010.json",
      "ref": "4MA.10",
      "title": "4 Maccabees 10",
-     "segments": 21
+     "segments": 22
     },
     {
      "file": "0011.json",
      "ref": "4MA.11",
      "title": "4 Maccabees 11",
-     "segments": 27
+     "segments": 29
     },
     {
      "file": "0012.json",

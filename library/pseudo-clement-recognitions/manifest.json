@@ -18,6 +18,34 @@
      "anon": 11
     }
    },
+   "restorations": [
+    {
+     "kind": "insert",
+     "ref": "10.49a",
+     "after": "10.49",
+     "words": 4,
+     "source": "https://archive.org/details/antenicenefather08robeuoft"
+    },
+    {
+     "kind": "insert",
+     "ref": "10.49b",
+     "after": "10.49a",
+     "words": 150,
+     "source": "https://archive.org/details/antenicenefather08robeuoft"
+    },
+    {
+     "kind": "drop",
+     "at": "1.75",
+     "sameAs": "1.73",
+     "source": "https://archive.org/details/antenicenefather08robeuoft"
+    },
+    {
+     "kind": "drop",
+     "at": "1.76",
+     "sameAs": "1.74",
+     "source": "https://archive.org/details/antenicenefather08robeuoft"
+    }
+   ],
    "segmentRefs": "paragraph",
    "sourcePages": [
     {
@@ -87,7 +115,7 @@
      "file": "0002.json",
      "ref": "1",
      "title": "Book I",
-     "segments": 154
+     "segments": 152
     },
     {
      "file": "0003.json",
@@ -141,7 +169,7 @@
      "file": "0011.json",
      "ref": "10",
      "title": "Book X",
-     "segments": 143
+     "segments": 145
     }
    ]
   }
