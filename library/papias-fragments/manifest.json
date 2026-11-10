@@ -1,90 +1,296 @@
 {
  "workId": "papias-fragments",
- "parallel": "none",
+ "parallel": "segment",
  "editions": [
   {
-   "editionId": "papias-anf1-wikisource",
-   "role": "english",
-   "language": "english",
-   "credit": "Fragments of Papias, in The Ante-Nicene Fathers, vol. 1 (The Apostolic Fathers with Justin Martyr and Irenaeus) (American edition, ed. A. Cleveland Coxe), trans. Various, as printed in the 1885 volume (the Wikisource copy credits 'Philip Schaff et al.' and does not name individual translators on the page); series editors Alexander Roberts and James Donaldson (Buffalo: Christian Literature Publishing Co., 1885). Wikisource contributors, English Wikisource (Ante-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
-   "licence": "CC BY-SA 4.0",
-   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/Fragments_of_Papias",
-   "retrievedAt": "2026-11-05",
-   "sourceBytes": 15481,
-   "sourceSha256": "ddc215a0eba8c9b64d80823b4571d2541deca181dde99b31db41bd00b6ac1ee8",
-   "leftOut": {
-    "note": 31
+   "editionId": "papias-lightfoot-harmer-1891-grc",
+   "role": "original",
+   "language": "greek",
+   "credit": "The Fragments of Papias (Greek, and Latin where only the Latin survives), in The Apostolic Fathers: revised texts, ed. J. B. Lightfoot; J. R. Harmer (London: Macmillan and Co., 1891). Transcription: the coordinator (Claude Opus 5.5, an AI), from the page images of the 1891 printing, proofread against them (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://archive.org/details/a590752000clemuoft",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 38396,
+   "sourceSha256": "885e5b663f4844638125090e32bb2e263086171307561d06fa34a6efeeb7583d",
+   "leftOut": {},
+   "extent": {
+    "covers": "the texts of the twenty fragments and testimonies that Lightfoot and Harmer collect (pp. 515–524)",
+    "lacks": "the five books of the Exposition of the Oracles of the Lord themselves",
+    "reason": "Papias's work is lost; only quotations and reports by later writers survive, and nothing is reconstructed here"
    },
-   "segmentRefs": "paragraph",
-   "sourcePages": [
-    {
-     "title": "Ante-Nicene Fathers/Volume I/Fragments of Papias",
-     "bytes": 15481,
-     "sha256": "ddc215a0eba8c9b64d80823b4571d2541deca181dde99b31db41bd00b6ac1ee8"
-    }
-   ],
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 1961,
+    "barePerThousand": 25,
+    "digitWords": 0
+   },
    "divisions": [
     {
      "file": "0001.json",
-     "ref": "s2",
-     "title": "I. From the exposition of the oracles of the Lord.",
+     "ref": "1",
+     "title": "Fragment I. Eusebius, Chronicle",
      "segments": 2
     },
     {
      "file": "0002.json",
-     "ref": "s3",
-     "title": "II.",
-     "segments": 1
+     "ref": "2",
+     "title": "Fragment II. Eusebius, Church History iii. 36",
+     "segments": 2
     },
     {
      "file": "0003.json",
-     "ref": "s4",
-     "title": "III.",
-     "segments": 1
+     "ref": "3",
+     "title": "Fragment III. Eusebius, Church History iii. 39",
+     "segments": 17
     },
     {
      "file": "0004.json",
-     "ref": "s5",
-     "title": "IV.",
+     "ref": "4",
+     "title": "Fragment IV. The pericope of the adulteress (John vii. 53–viii. 11)",
      "segments": 2
     },
     {
      "file": "0005.json",
-     "ref": "s6",
-     "title": "V.",
-     "segments": 1
+     "ref": "5",
+     "title": "Fragment V. Philip of Side (?), Christian History",
+     "segments": 2
     },
     {
      "file": "0006.json",
-     "ref": "s7",
-     "title": "VI.",
+     "ref": "6",
+     "title": "Fragment VI. George Hamartolus, Chronicle",
      "segments": 2
     },
     {
      "file": "0007.json",
-     "ref": "s8",
-     "title": "VII.",
-     "segments": 1
+     "ref": "7",
+     "title": "Fragment VII. Jerome, Lives of Illustrious Men 18",
+     "segments": 3
     },
     {
      "file": "0008.json",
-     "ref": "s9",
-     "title": "VIII.",
-     "segments": 1
+     "ref": "8",
+     "title": "Fragment VIII. Jerome, Letter 71 to Lucinius",
+     "segments": 2
     },
     {
      "file": "0009.json",
-     "ref": "s10",
-     "title": "IX.",
-     "segments": 1
+     "ref": "9",
+     "title": "Fragment IX. Jerome, Letter 75 to Theodora",
+     "segments": 2
     },
     {
      "file": "0010.json",
-     "ref": "s11",
-     "title": "X.",
-     "segments": 1
+     "ref": "10",
+     "title": "Fragment X. Andrew of Caesarea, preface to the Apocalypse",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "Fragment XI. Andrew of Caesarea, on the Apocalypse c. 34",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "Fragment XII. Anastasius of Sinai, Anagogical Contemplations i",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "Fragment XIII. Anastasius of Sinai, Anagogical Contemplations vii",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "Fragment XIV. Irenaeus, Against Heresies v. 33. 3–4",
+     "segments": 4
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "Fragment XV. Maximus the Confessor, scholia on Dionysius c. 2",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "Fragment XVI. Maximus the Confessor, scholia on Dionysius c. 7",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "Fragment XVII. Photius, Library 232 (on Stephanus Gobarus)",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "Fragment XVIII. Apollinarius, from the catena on Acts",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "Fragment XIX. Argument to the Gospel of John (Vatican MS, 9th century)",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "Fragment XX. Catena on John, proem",
+     "segments": 2
+    }
+   ]
+  },
+  {
+   "editionId": "papias-lightfoot-harmer-1891-eng",
+   "role": "english",
+   "language": "english",
+   "credit": "Translation of the Fragments of Papias, in The Apostolic Fathers: revised texts, trans. J. B. Lightfoot; J. R. Harmer (London: Macmillan and Co., 1891). Transcription: the coordinator (Claude Opus 5.5, an AI), from the page images of the 1891 printing, proofread against them (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://archive.org/details/a590752000clemuoft",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 26505,
+   "sourceSha256": "a3a99989da18fdb4f83d452de8ca3b48ab74b13a20c4d09a8aa3afa4fffd13df",
+   "leftOut": {},
+   "extent": {
+    "covers": "the translations of the twenty fragments and testimonies that Lightfoot and Harmer collect (pp. 527–535)",
+    "lacks": "the five books of the Exposition of the Oracles of the Lord themselves",
+    "reason": "Papias's work is lost; only quotations and reports by later writers survive, and nothing is reconstructed here"
+   },
+   "segmentRefs": "citation",
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Fragment I. Eusebius, Chronicle",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "Fragment II. Eusebius, Church History iii. 36",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "Fragment III. Eusebius, Church History iii. 39",
+     "segments": 17
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "Fragment IV. The pericope of the adulteress (John vii. 53–viii. 11)",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "Fragment V. Philip of Side (?), Christian History",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "Fragment VI. George Hamartolus, Chronicle",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "Fragment VII. Jerome, Lives of Illustrious Men 18",
+     "segments": 3
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "Fragment VIII. Jerome, Letter 71 to Lucinius",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "Fragment IX. Jerome, Letter 75 to Theodora",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "Fragment X. Andrew of Caesarea, preface to the Apocalypse",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "Fragment XI. Andrew of Caesarea, on the Apocalypse c. 34",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "Fragment XII. Anastasius of Sinai, Anagogical Contemplations i",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "Fragment XIII. Anastasius of Sinai, Anagogical Contemplations vii",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "Fragment XIV. Irenaeus, Against Heresies v. 33. 3–4",
+     "segments": 4
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "Fragment XV. Maximus the Confessor, scholia on Dionysius c. 2",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "Fragment XVI. Maximus the Confessor, scholia on Dionysius c. 7",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "Fragment XVII. Photius, Library 232 (on Stephanus Gobarus)",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "Fragment XVIII. Apollinarius, from the catena on Acts",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "Fragment XIX. Argument to the Gospel of John (Vatican MS, 9th century)",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "Fragment XX. Catena on John, proem",
+     "segments": 2
     }
    ]
   }
- ]
+ ],
+ "alignment": {
+  "divisionOnly": [],
+  "missingInOriginal": [],
+  "missingInEnglish": []
+ }
 }
