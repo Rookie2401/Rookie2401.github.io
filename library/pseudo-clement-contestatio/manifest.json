@@ -1,0 +1,130 @@
+{
+ "workId": "pseudo-clement-contestatio",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "pseudo-clement-contestatio-schwegler-grc-first1k",
+   "role": "original",
+   "language": "greek",
+   "credit": "Διαμαρτυρία περὶ τῶν τοῦ βιβλίου λαμβανόντων, in Clementis Romani quae feruntur Homiliae viginti, ed. Albert Schwegler (Stuttgart: A. Becher, 1847). Open Greek and Latin / First1KGreek, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg1271/tlg004/tlg1271.tlg004.1st1K-grc1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 13506,
+   "sourceSha256": "de0c520d02392998397440ac200ff0ee3bc98e164e024746cdc09019fc90dc67",
+   "leftOut": {
+    "pb": 3
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 660,
+    "barePerThousand": 35,
+    "digitWords": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "pseudo-clement-contestatio-anf8-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "An Adjuration concerning the Receivers of the Book, in The Ante-Nicene Fathers, vol. 8 (American edition, ed. A. Cleveland Coxe), trans. Thomas Smith; Peter Peterson; James Donaldson (as printed in ANF vol. 8) (Buffalo: Christian Literature Publishing Co., 1886). Wikisource contributors, English Wikisource (Ante-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/Pseudo-Clementine_Literature/The_Clementine_Homilies/Epistle_of_Peter_to_James",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 6794,
+   "sourceSha256": "8d303488813fec606c3d297ce40af1d4fb5af879c6053a6a39147ac4b9f4efbd",
+   "leftOut": {
+    "note": 3,
+    "templates": {
+     "anon": 2
+    }
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Epistle of Peter to James/Chapter 4",
+     "bytes": 5089,
+     "sha256": "6e7ae8430717dba58e290d51958d749ba9015ba20e1704f0be8c22207229596f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Epistle of Peter to James/Chapter 5",
+     "bytes": 1705,
+     "sha256": "6ac239858f6181319142e08f7c8d27772edb414eb21108e128a876c600bc31bd"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "4.front",
+     "title": "4.front",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "4.1",
+     "title": "1",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "4.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "4.4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "5",
+     "title": "Chapter 5",
+     "segments": 2
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 0,
+  "shared": 0
+ }
+}

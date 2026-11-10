@@ -1,0 +1,273 @@
+{
+ "workId": "pseudo-clement-virginity-1",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "pseudo-clement-virginity-1-funk-grc-first1k",
+   "role": "original",
+   "language": "greek",
+   "credit": "Epistula prior de virginitate (Greek fragments), in Patres Apostolici, vol. 2, ed. Franz Xaver Funk; Franz Diekamp (Tübingen: H. Laupp, 1913). Open Greek and Latin / First1KGreek, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg1271/tlg010/tlg1271.tlg010.1st1K-grc1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 51968,
+   "sourceSha256": "8899acb6655200df7890dba9ad30b785ffd120011e1913c60cb7050024e32439",
+   "leftOut": {
+    "pb": 20
+   },
+   "extent": {
+    "covers": "the Greek fragments of the first letter, as Funk and Diekamp print them, from chapters 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 of their numbering",
+    "lacks": "the rest of the letter, which survives whole only in a Syriac translation",
+    "reason": "The Greek original is lost apart from quotations (chiefly in Antiochus of Saba's Pandect); the whole letter survives in Syriac (ed. J. T. Beelen, 1856), of which no open transcription was found"
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 1548,
+    "barePerThousand": 12,
+    "digitWords": 4
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 5
+    },
+    {
+     "file": "0002.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 6
+    },
+    {
+     "file": "0003.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 4
+    },
+    {
+     "file": "0005.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 5
+    },
+    {
+     "file": "0006.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 3
+    },
+    {
+     "file": "0007.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 5
+    },
+    {
+     "file": "0008.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 4
+    },
+    {
+     "file": "0009.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 8
+    },
+    {
+     "file": "0011.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 6
+    },
+    {
+     "file": "0012.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "pseudo-clement-virginity-1-anf8-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "First Epistle Concerning Virginity, in The Ante-Nicene Fathers, vol. 8 (American edition, ed. A. Cleveland Coxe), trans. B. P. Pratten (as printed in ANF vol. 8, translated from the Syriac) (Buffalo: Christian Literature Publishing Co., 1886). Wikisource contributors, English Wikisource (Ante-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/Two_Epistles_Concerning_Virginity/First_Pseudo-Clement",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 39561,
+   "sourceSha256": "52c872641f626778796d25f53dbef7cb25c3b7048dfc5627b5fb40d5334ab528",
+   "leftOut": {
+    "note": 141
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Two Epistles Concerning Virginity/First Pseudo-Clement/Chapter 1",
+     "bytes": 1350,
+     "sha256": "dd4bf0e853d413827db983c6c11e4e6fc11923cfe9b1bcff1ac378d3bbcb91a9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Two Epistles Concerning Virginity/First Pseudo-Clement/Chapter 2",
+     "bytes": 2776,
+     "sha256": "d6194be426f5140b5804ef9056bccf8f28d659bff44098b7037df9661fc952de"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Two Epistles Concerning Virginity/First Pseudo-Clement/Chapter 3",
+     "bytes": 3569,
+     "sha256": "0a31b24012a1217941616683cac7465c68e379b38bccef020b4a6838d9fab749"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Two Epistles Concerning Virginity/First Pseudo-Clement/Chapter 4",
+     "bytes": 1894,
+     "sha256": "cc708a0ccb55402f4db61695fa11d824950acf0a4f788f25336a563c9179ba9f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Two Epistles Concerning Virginity/First Pseudo-Clement/Chapter 5",
+     "bytes": 3192,
+     "sha256": "f8ed4ab758d515be3a4bd0bd7be366cca3e9e5b3498afc619d1c62d179644fba"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Two Epistles Concerning Virginity/First Pseudo-Clement/Chapter 6",
+     "bytes": 2229,
+     "sha256": "88b6264343338e93875a37aca0a3ed251996ce5857a5b2160a63cc7f43abe92e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Two Epistles Concerning Virginity/First Pseudo-Clement/Chapter 7",
+     "bytes": 1573,
+     "sha256": "6a346ef0f058e84fb8ba2aa96eb9780f646c95b302e11fddefd6ef8f3ec9b481"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Two Epistles Concerning Virginity/First Pseudo-Clement/Chapter 8",
+     "bytes": 4496,
+     "sha256": "3bbf014d50dc3a5fb3dcd2a723039794de1c4c7a0127ad10d22b932abfceef15"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Two Epistles Concerning Virginity/First Pseudo-Clement/Chapter 9",
+     "bytes": 2276,
+     "sha256": "44f09f474fafc18658f49ec761facd27468590c3f63333dcd9cb5aba6b6777fa"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Two Epistles Concerning Virginity/First Pseudo-Clement/Chapter 10",
+     "bytes": 2477,
+     "sha256": "a52615afcf5a0e4ba80612cc1aeebcb1f941f023f932c6f6f81dc2df7069dd39"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Two Epistles Concerning Virginity/First Pseudo-Clement/Chapter 11",
+     "bytes": 5622,
+     "sha256": "b653454294b1b2490805bf410c672ac02b06d13cb865b18efa24b7ff003e0b2d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Two Epistles Concerning Virginity/First Pseudo-Clement/Chapter 12",
+     "bytes": 4899,
+     "sha256": "ce108ff5aa334d7cbaf684721fb2798ba9e7d8174e7d35275671d56f1c83b121"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Two Epistles Concerning Virginity/First Pseudo-Clement/Chapter 13",
+     "bytes": 3208,
+     "sha256": "8ebc8476ec3e28a74f712861ae9f37db53d8f06fae634ffd1c0fb61694abede5"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Chapter 1",
+     "segments": 4
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "Chapter 13",
+     "segments": 4
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 12,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 1
+ }
+}

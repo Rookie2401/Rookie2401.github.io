@@ -1,0 +1,2270 @@
+{
+ "workId": "pseudo-clement-apostolic-constitutions",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "pseudo-clement-apostolic-constitutions-anf7-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Constitutions of the Holy Apostles, in The Ante-Nicene Fathers, vol. 7 (American edition, ed. A. Cleveland Coxe), trans. James Donaldson (as printed in ANF vol. 7) (Buffalo: Christian Literature Publishing Co., 1886). Wikisource contributors, English Wikisource (Ante-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VII/Constitutions_of_the_Holy_Apostles",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 636800,
+   "sourceSha256": "70b8216c7a14d79dbeb75cf2dc3a70831dc58f5e9cc1c36cc36b32408c460f77",
+   "leftOut": {
+    "note": 1285
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book I/Sec. I",
+     "bytes": 6120,
+     "sha256": "f840f247c6e6899853ee4c9a3cfe2fccf5473b369e42e348abc32a4cdd57e3d1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book I/Sec. II",
+     "bytes": 11816,
+     "sha256": "5c6a2bd8fe7e23603c7acdd4c792b79a82dfbaf11319e4bd2c06449a9b3c2737"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book I/Sec. III",
+     "bytes": 8364,
+     "sha256": "afee796f773ec98d9e820f77db57d097fb8a48e83905c8e68ddad76cb334dc1d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book II/Sec. I",
+     "bytes": 5132,
+     "sha256": "050236269ef5b2475ced03cc6dee4cc9b47d34750dfd214e0ba44cbfc7c33ae1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book II/Sec. II",
+     "bytes": 10237,
+     "sha256": "ae87b8069f204563702d9b96dcf353e8938db7c7f9f748e1acf10418f606f065"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book II/Sec. III",
+     "bytes": 54688,
+     "sha256": "832e4250049a812a4e077c41a10cdf678f18f13307087904bfc5b0785b09dc41"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book II/Sec. IV",
+     "bytes": 28857,
+     "sha256": "7f886395015ca6f34bf2118ac59d0ce22f0fa3f40797d1598e797af4d727a8ac"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book II/Sec. V",
+     "bytes": 16027,
+     "sha256": "cf3e8811cc02c27c689ebea74be72b8658dc0d3a1587f7bdfc20dc2830a84313"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book II/Sec. VI",
+     "bytes": 24830,
+     "sha256": "291a52831c8c484986af42f9eb36feb9c0da1bd8653c7023ab104ef4df576a4c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book II/Sec. VII",
+     "bytes": 20756,
+     "sha256": "34b356ab35b1cbbdbd48f3d515c57738d5f7976e61b687aa232970375eab8eb0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book II/Sec. VIII",
+     "bytes": 2874,
+     "sha256": "6d24c278b777fe0e24220f971548a09cffaa8488573ed58d70ec02ac891c07b6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book III/Sec. I",
+     "bytes": 27311,
+     "sha256": "a17c19851abd74a5daf0aa99fbd71228a633c49e229655920661435227339ec7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book III/Sec. II",
+     "bytes": 8805,
+     "sha256": "18e3e37d7b89f56f84a321492118f18a14756e210b9ce4a0c3e545a9a7c7e3c6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book IV/Sec. I",
+     "bytes": 14935,
+     "sha256": "99ae2bd4c0e412171a0624c3ca6b1aaed91a1c1a77f6a93a9cd33e680326c8e7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book IV/Sec. II",
+     "bytes": 5553,
+     "sha256": "bd50540232c8eac0ba7305498a87641f7e8979e24d2bed0314cd772253aa936c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book V/Sec. I",
+     "bytes": 31139,
+     "sha256": "eab003b8a79559820d68f8ee5a0c5c4e22a415347083c0a9332642fcdc108504"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book V/Sec. II",
+     "bytes": 5505,
+     "sha256": "4912de90c4ed041ae5febabed847afabd8678d04c12b21b67754583e75790ce5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book V/Sec. III",
+     "bytes": 33390,
+     "sha256": "219d17ec1cad2b8022e460dcdc4fa94df22f9651a3643d7029df78a39032eb47"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book VI/Sec. I",
+     "bytes": 6968,
+     "sha256": "d0b34ab59198e5d7ed8a2c44ddfc7d9696ae21f399f61a1efca29ea8d3a58ae3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book VI/Sec. II",
+     "bytes": 15433,
+     "sha256": "743e25c1516899942f26eabbb70ba0d55d373422da4e0b906a17da7a735da7a6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book VI/Sec. III",
+     "bytes": 24399,
+     "sha256": "d91120e19ce9bf847130ed82d57518c321620495b45fd0cb7beab9bbf1db0cfd"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book VI/Sec. IV",
+     "bytes": 18918,
+     "sha256": "381a6dc608bc5bc08c23ee1764afa57019117eba776e963daf37959bf0841d6c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book VI/Sec. V",
+     "bytes": 11945,
+     "sha256": "36e42a483d4cf128699077712831009d6cc9206ac32deb4814be56979fd82e99"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book VI/Sec. VI",
+     "bytes": 4705,
+     "sha256": "0a267409943428a3bbae8f0ddc11390e057708b14fd52e86217cd8c02643872c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book VII/Sec. I",
+     "bytes": 22354,
+     "sha256": "2b3459be70e0af59e2241d83620d4f907d6fd61de57bd9948a2acf64fdd13de5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book VII/Sec. II",
+     "bytes": 38507,
+     "sha256": "cf3f5466f4732f989b7b4c805b1ca7b49fd691016196b4501f5decd2eac402a3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book VII/Sec. III",
+     "bytes": 11906,
+     "sha256": "d4e061510da74145515cff770a549144c4819e3d04f4a008aaf02bc34ecbde13"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book VII/Sec. IV",
+     "bytes": 2849,
+     "sha256": "d1bb817d8fe1c8f72a55190db8c3b8ae8549e35cc0304126f378c6aee873805f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book VII/Sec. V",
+     "bytes": 3877,
+     "sha256": "eb3f3dfcee5b3ef3c7c65e18a2a6ed8ce72e57380e8fc1c01e3f89459421d2c7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book VIII/Sec. I",
+     "bytes": 13325,
+     "sha256": "e64553e0087c249c835641bdcf86ec577cdca907ddd5ffbe627818e54b2fdf2d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book VIII/Sec. II",
+     "bytes": 60374,
+     "sha256": "e3ca06d25ce4e6c183017bb6333ac851230ea0b6c8742f101b07d3379c60afff"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book VIII/Sec. III",
+     "bytes": 14068,
+     "sha256": "ab6d87cd2031967f66f5512f872898973e86141a5f27f3b0d38cd2a628ddfabf"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book VIII/Sec. IV",
+     "bytes": 27990,
+     "sha256": "aed8989690c52ae896363b608b8e1c95cb051ff26cc46c8ba52acf56491d7686"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book VIII/Sec. V",
+     "bytes": 9281,
+     "sha256": "c18a4b540430c90ef13e2e570a7ce0f525ee35328f4850507ce8943c13a38ee7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VII/Constitutions of the Holy Apostles/Book VIII/The Ecclesiastical Canons of the Same Holy Apostles",
+     "bytes": 33562,
+     "sha256": "45880d40277a933ab1f9546515785fd291aaf9a146e5c0311bdb710c69b93980"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.p1.s1",
+     "title": "Sec. I.—General Commandments.",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.p1.s2",
+     "title": "Concerning Covetousness.",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.p1.s3",
+     "title": "That We Ought Not to Return Injuries, Nor Revenge Ourselves on Him that Does Us Wrong.",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.p2.s2",
+     "title": "Concerning the Adornment of Ourselves, and the Sin Which Arises from Thence.",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.p2.s3",
+     "title": "That We Ought Not to Be Over-Curious About Those Who Live Wickedly, But to Be Intent Upon Our Own Proper Employment.",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.p2.s4",
+     "title": "What Books of Scripture We Ought to Read.",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.p2.s5",
+     "title": "That We Ought to Abstain from All the Books of Those that are Out of the Church.",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.p2.s6",
+     "title": "Concerning a Bad Woman.",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.p3.s2",
+     "title": "Concerning the Subjection of a Wife to Her Husband, and that She Must Be Loving and Modest.",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.p3.s3",
+     "title": "That a Woman Must Not Bathe with Men.",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.p3.s4",
+     "title": "Concerning a Contentious and Brawling Woman.",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "2.p1.s2",
+     "title": "That a Bishop Must Be Well Instructed and Experienced in the Word.",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "2.p1.s3",
+     "title": "What Ought to Be the Characters of a Bishop and of the Rest of the Clergy.",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "2.p1.s4",
+     "title": "In What Things a Bishop is to Be Examined Before He is Ordained.",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "2.p2.s1",
+     "title": "Sec. II.—On the Character and Teaching of the Bishop.",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "2.p2.s2",
+     "title": "That Charitable Distributions are Not to Be Made to Every Widow, But that Sometimes a Woman Who Has a Husband is to Be Preferred: and that No Distributions are to Be Made to Any One Who is Given to Gluttony, Drunkenness, and Idleness.",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "2.p2.s3",
+     "title": "That a Bishop Must Be No Accepter of Persons in Judgment; That He Must Possess a Gentle Disposition, and Be Temperate in His Mode of Life.",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "2.p2.s4",
+     "title": "That a Bishop Must Not Be Given to Filthy Lucre, Nor Be a Surety Nor an Advocate.",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "2.p3.s2",
+     "title": "What Ought to Be the Character of the Initiated.",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "2.p3.s3",
+     "title": "Concerning a Person Falsely Accused, or a Person Convicted.",
+     "segments": 1
+    },
+    {
+     "file": "0021.json",
+     "ref": "2.p3.s4",
+     "title": "That a Bishop Ought Not to Receive Bribes.",
+     "segments": 1
+    },
+    {
+     "file": "0022.json",
+     "ref": "2.p3.s5",
+     "title": "That a Bishop Who by Wrong Judgment Spares an Offender is Himself Guilty.",
+     "segments": 1
+    },
+    {
+     "file": "0023.json",
+     "ref": "2.p3.s6",
+     "title": "How a Bishop Ought to Judge Offenders.",
+     "segments": 1
+    },
+    {
+     "file": "0024.json",
+     "ref": "2.p3.s7",
+     "title": "Instruction as to How a Bishop Ought to Behave Himself to the Penitent.",
+     "segments": 1
+    },
+    {
+     "file": "0025.json",
+     "ref": "2.p3.s8",
+     "title": "That We Ought to Beware How We Make Trial of Any Sinful Course.",
+     "segments": 4
+    },
+    {
+     "file": "0026.json",
+     "ref": "2.p3.s9",
+     "title": "That a Priest Must Neither Overlook Offences, Nor Be Rash in Punishing Them.",
+     "segments": 1
+    },
+    {
+     "file": "0027.json",
+     "ref": "2.p3.s10",
+     "title": "Of Repentance, the Manner of It, and Rules About It.",
+     "segments": 1
+    },
+    {
+     "file": "0028.json",
+     "ref": "2.p3.s11",
+     "title": "That a Bishop Must Be Unblameable, and a Pattern for Those Who are Under His Charge.",
+     "segments": 1
+    },
+    {
+     "file": "0029.json",
+     "ref": "2.p3.s12",
+     "title": "That a Bishop Must Take Care that His People Do Not Sin, Considering that He is Set for a Watchman Among Them.",
+     "segments": 1
+    },
+    {
+     "file": "0030.json",
+     "ref": "2.p3.s13",
+     "title": "That a Shepherd Who is Careless of His Sheep Will Be Condemned, and that a Sheep Which Will Not Be Led by the Shepherd is to Be Punished.",
+     "segments": 1
+    },
+    {
+     "file": "0031.json",
+     "ref": "2.p3.s14",
+     "title": "How the Governed are to Obey the Bishops Who are Set Over Them.",
+     "segments": 1
+    },
+    {
+     "file": "0032.json",
+     "ref": "2.p3.s15",
+     "title": "That It is a Dangerous Thing to Judge Without Hearing Both Sides, or to Determine of Punishment Against a Person Before He is Convicted.",
+     "segments": 1
+    },
+    {
+     "file": "0033.json",
+     "ref": "2.p3.s16",
+     "title": "That David, the Ninevites, Hezekiah, and His Son Manasseh, are Eminent Examples of Repentance, the Prayer of Manasseh King of Judah.",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "2.p3.s17",
+     "title": "Amon May be an Example to Such as Sin with an High Hand.",
+     "segments": 1
+    },
+    {
+     "file": "0035.json",
+     "ref": "2.p3.s18",
+     "title": "That Christ Jesus Our Lord Came to Save Sinners by Repentance.",
+     "segments": 1
+    },
+    {
+     "file": "0036.json",
+     "ref": "2.p4.s1",
+     "title": "Sec. IV.—On the Management of the Resources Collected for the Support of the Clergy, and the Relief of the Poor.",
+     "segments": 1
+    },
+    {
+     "file": "0037.json",
+     "ref": "2.p4.s2",
+     "title": "Of First-Fruits and Tithes, and After What Manner the Bishop is Himself to Partake of Them, or to Distribute Them to Others.",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "2.p4.s3",
+     "title": "According to What Patterns and Dignity Every Order of the Clergy is Appointed by God.",
+     "segments": 1
+    },
+    {
+     "file": "0039.json",
+     "ref": "2.p4.s4",
+     "title": "That It is a Horrible Thing for a Man to Thrust Himself into Any Sacerdotal Office, as Did Corah and His Company, Saul and Uzziah.",
+     "segments": 1
+    },
+    {
+     "file": "0040.json",
+     "ref": "2.p4.s5",
+     "title": "Of an Entertainment, and After What Manner Each Distinct Order of the Clergy is to Be Treated by Those Who Invite Them to It.",
+     "segments": 1
+    },
+    {
+     "file": "0041.json",
+     "ref": "2.p4.s6",
+     "title": "What is the Dignity of a Bishop and of a Deacon.",
+     "segments": 1
+    },
+    {
+     "file": "0042.json",
+     "ref": "2.p4.s7",
+     "title": "After What Manner the Laity are to Be Obedient to the Deacon.",
+     "segments": 1
+    },
+    {
+     "file": "0043.json",
+     "ref": "2.p4.s8",
+     "title": "That the Deacon Must Not Do Anything Without the Bishop.",
+     "segments": 1
+    },
+    {
+     "file": "0044.json",
+     "ref": "2.p4.s9",
+     "title": "That the Deacon Must Not Make Any Distributions Without the Consent of the Bishop, Because that Will Turn to the Reproach of the Bishop.",
+     "segments": 1
+    },
+    {
+     "file": "0045.json",
+     "ref": "2.p4.s10",
+     "title": "After What Manner the Bishops are to Be Honoured, and to Be Reverenced as Our Spiritual Parents.",
+     "segments": 1
+    },
+    {
+     "file": "0046.json",
+     "ref": "2.p4.s11",
+     "title": "That Priests are to Be Preferred Before Rulers and Kings.",
+     "segments": 1
+    },
+    {
+     "file": "0047.json",
+     "ref": "2.p4.s12",
+     "title": "That Both the Law and the Gospel Prescribe Offerings.",
+     "segments": 1
+    },
+    {
+     "file": "0048.json",
+     "ref": "2.p4.s13",
+     "title": "The Recital of the Ten Commandments, and After What Manner They Do Here Prescribe to Us.",
+     "segments": 1
+    },
+    {
+     "file": "0049.json",
+     "ref": "2.p5.s2",
+     "title": "Concerning Accusers and False Accusers, and How a Judge is Not Rashly Either to Believe Them or Disbelieve Them, But After an Accurate Examination.",
+     "segments": 1
+    },
+    {
+     "file": "0050.json",
+     "ref": "2.p5.s3",
+     "title": "That Sinners are Privately to Be Reproved, and the Penitent to Be Received, According to the Constitution of Our Lord.",
+     "segments": 1
+    },
+    {
+     "file": "0051.json",
+     "ref": "2.p5.s4",
+     "title": "Examples of Repentance.",
+     "segments": 1
+    },
+    {
+     "file": "0052.json",
+     "ref": "2.p5.s5",
+     "title": "That We are Not to Be Implacable to Him Who Has Once or Twice Offended.",
+     "segments": 1
+    },
+    {
+     "file": "0053.json",
+     "ref": "2.p5.s6",
+     "title": "After What Manner We Ought to Receive a Penitent; How We Ought to Deal with Offenders, and When They are to Be Cut Off from the Church.",
+     "segments": 1
+    },
+    {
+     "file": "0054.json",
+     "ref": "2.p5.s7",
+     "title": "That a Judge Must Not Be a Respecter of Persons.",
+     "segments": 1
+    },
+    {
+     "file": "0055.json",
+     "ref": "2.p5.s8",
+     "title": "After What Manner False Accusers are to Be Punished.",
+     "segments": 1
+    },
+    {
+     "file": "0056.json",
+     "ref": "2.p6.s1",
+     "title": "Sec. VI.—The Disputes of the Faithful to Be Settled by the Decisions of the Bishop, and the Faithful to Be Reconciled.",
+     "segments": 1
+    },
+    {
+     "file": "0057.json",
+     "ref": "2.p6.s2",
+     "title": "That the Deacon is to Ease the Burden of the Bishops, and to Order the Smaller Matters Himself.",
+     "segments": 1
+    },
+    {
+     "file": "0058.json",
+     "ref": "2.p6.s3",
+     "title": "That Contentions and Quarrels are Unbecoming Christians.",
+     "segments": 1
+    },
+    {
+     "file": "0059.json",
+     "ref": "2.p6.s4",
+     "title": "That Believers Ought Not to Go to Law Before Unbelievers; Nor Ought Any Unbeliever to Be Called for a Witness Against Believers.",
+     "segments": 1
+    },
+    {
+     "file": "0060.json",
+     "ref": "2.p6.s5",
+     "title": "That the Judicatures of Christians Ought to Be Held on the Second Day of the Week.",
+     "segments": 1
+    },
+    {
+     "file": "0061.json",
+     "ref": "2.p6.s6",
+     "title": "That the Same Punishment is Not to Be Inflicted for Every Offence, But Different Punishments for Different Offenders.",
+     "segments": 1
+    },
+    {
+     "file": "0062.json",
+     "ref": "2.p6.s7",
+     "title": "What are to Be the Characters of Accusers and Witnesses.",
+     "segments": 1
+    },
+    {
+     "file": "0063.json",
+     "ref": "2.p6.s8",
+     "title": "That Former Offences Do Sometimes Render After Accusations Credible.",
+     "segments": 1
+    },
+    {
+     "file": "0064.json",
+     "ref": "2.p6.s9",
+     "title": "Against Judging Without Hearing Both Sides.",
+     "segments": 1
+    },
+    {
+     "file": "0065.json",
+     "ref": "2.p6.s10",
+     "title": "The Caution Observed at Heathen Tribunals Before the Condemnation of Criminals Affords Christians a Good Example.",
+     "segments": 1
+    },
+    {
+     "file": "0066.json",
+     "ref": "2.p6.s11",
+     "title": "That Christians Ought Not to Be Contentious One with Another.",
+     "segments": 1
+    },
+    {
+     "file": "0067.json",
+     "ref": "2.p6.s12",
+     "title": "That the Bishops Must by Their Deacon Put the People in Mind of the Obligation They are Under to Live Peaceably Together.",
+     "segments": 1
+    },
+    {
+     "file": "0068.json",
+     "ref": "2.p6.s13",
+     "title": "An Enumeration of the Several Instances of Divine Providence, and How in Every Age from the Beginning of the World God Has Invited All Men to Repentance.",
+     "segments": 1
+    },
+    {
+     "file": "0069.json",
+     "ref": "2.p6.s14",
+     "title": "That It is the Will of God that Men Should Be of One Mind in Matters of Religion, in Accord with the Heavenly Powers.",
+     "segments": 1
+    },
+    {
+     "file": "0070.json",
+     "ref": "2.p7.s2",
+     "title": "An Exact Description of a Church and the Clergy, and What Things in Particular Every One is to Do in the Solemn Assemblies of the Clergy and Laity For Religious Worship.",
+     "segments": 2
+    },
+    {
+     "file": "0071.json",
+     "ref": "2.p7.s3",
+     "title": "Of Commendatory Letters in Favour of Strangers, Lay Persons, Clergymen, and Bishops; And that Those Who Come into the Church Assemblies are to Be Received Without Regard to Their Quality.",
+     "segments": 1
+    },
+    {
+     "file": "0072.json",
+     "ref": "2.p7.s4",
+     "title": "That Every Christian Ought to Frequent the Church Diligently Both Morning and Evening.",
+     "segments": 1
+    },
+    {
+     "file": "0073.json",
+     "ref": "2.p7.s5",
+     "title": "The Vain Zeal Which the Heathens and Jews Show in Frequenting Their Temples and Synagogues is a Proper Example and Motive to Excite Christians to Frequent the Church.",
+     "segments": 1
+    },
+    {
+     "file": "0074.json",
+     "ref": "2.p7.s6",
+     "title": "That We Must Not Prefer the Affairs of This Life to Those Which Concern the Worship of God.",
+     "segments": 1
+    },
+    {
+     "file": "0075.json",
+     "ref": "2.p7.s7",
+     "title": "That Christians Must Abstain from All the Impious Practices of the Heathens.",
+     "segments": 1
+    },
+    {
+     "file": "0076.json",
+     "ref": "2.p8",
+     "title": "That a Christian Who Will Not Work Must Not Eat, as Peter and the Rest of the Apostles Were Fishermen, But Paul and Aquila Tentmakers, Jude the Son of James an Husbandman.",
+     "segments": 1
+    },
+    {
+     "file": "0077.json",
+     "ref": "3.p1.s2",
+     "title": "The Age at Which Widows Should Be Chosen.",
+     "segments": 1
+    },
+    {
+     "file": "0078.json",
+     "ref": "3.p1.s3",
+     "title": "That We Must Avoid the Choice of Younger Widows, Because of Suspicion.",
+     "segments": 1
+    },
+    {
+     "file": "0079.json",
+     "ref": "3.p1.s4",
+     "title": "What Character the Widows Ought to Be Of, and How They Ought to Be Supported by the Bishop.",
+     "segments": 1
+    },
+    {
+     "file": "0080.json",
+     "ref": "3.p1.s5",
+     "title": "That We Ought to Be Charitable to All Sorts of Persons in Want.",
+     "segments": 1
+    },
+    {
+     "file": "0081.json",
+     "ref": "3.p1.s6",
+     "title": "That the Widows are to Be Very Careful of Their Behavior.",
+     "segments": 1
+    },
+    {
+     "file": "0082.json",
+     "ref": "3.p1.s7",
+     "title": "That Women Ought Not to Teach, Because It is Unseemly; And What Women Followed Our Lord.",
+     "segments": 1
+    },
+    {
+     "file": "0083.json",
+     "ref": "3.p1.s8",
+     "title": "What are the Characters of Widows Falsely So Called.",
+     "segments": 2
+    },
+    {
+     "file": "0084.json",
+     "ref": "3.p1.s9",
+     "title": "That the Widows Ought Not to Accept of Alms from the Unworthy No More Than the Bishop, or Any Other of the Faithful.",
+     "segments": 1
+    },
+    {
+     "file": "0085.json",
+     "ref": "3.p1.s10",
+     "title": "That Women Ought Not to Baptize, Because It is Impious, and Contrary to the Doctrine of Christ.",
+     "segments": 1
+    },
+    {
+     "file": "0086.json",
+     "ref": "3.p1.s11",
+     "title": "That a Layman Ought Not to Do Any Office of the Priesthood: He Ought Neither to Baptize, Nor Offer, Nor Lay on Hands, Nor Give the Blessing.",
+     "segments": 1
+    },
+    {
+     "file": "0087.json",
+     "ref": "3.p1.s12",
+     "title": "That None But a Bishop and Presbyter, None Even of the Inferior Ranks of the Clergy, are Permitted to Do the Offices of the Priests; That Ordination Belongs Wholly to the Bishop, and to Nobody Else.",
+     "segments": 1
+    },
+    {
+     "file": "0088.json",
+     "ref": "3.p1.s13",
+     "title": "The Rejection of All Uncharitable Actions.",
+     "segments": 1
+    },
+    {
+     "file": "0089.json",
+     "ref": "3.p1.s14",
+     "title": "How the Widows are to Pray for Those that Supply Their Necessities.",
+     "segments": 1
+    },
+    {
+     "file": "0090.json",
+     "ref": "3.p1.s15",
+     "title": "That She Who Has Been Kind to the Poor Ought Not to Make a Stir and Tell Abroad Her Name, According to the Constitution of the Lord.",
+     "segments": 1
+    },
+    {
+     "file": "0091.json",
+     "ref": "3.p1.s16",
+     "title": "That It Does Not Become Us to Revile Our Neighbours, Because Cursing is Contrary to Christianity.",
+     "segments": 1
+    },
+    {
+     "file": "0092.json",
+     "ref": "3.p2.s1",
+     "title": "Sec. II.—On Deacons and Deaconesses, the Rest of the Clergy, and on Baptism.",
+     "segments": 1
+    },
+    {
+     "file": "0093.json",
+     "ref": "3.p2.s2",
+     "title": "Concerning the Sacred Initiation of Holy Baptism.",
+     "segments": 1
+    },
+    {
+     "file": "0094.json",
+     "ref": "3.p2.s3",
+     "title": "What is the Meaning of Baptism into Christ, and on What Account Everything is There Said or Done.",
+     "segments": 1
+    },
+    {
+     "file": "0095.json",
+     "ref": "3.p2.s4",
+     "title": "Of What Character He Ought to Be Who is Initiated.",
+     "segments": 1
+    },
+    {
+     "file": "0096.json",
+     "ref": "3.p2.s5",
+     "title": "What are the Characters of a Deacon.",
+     "segments": 1
+    },
+    {
+     "file": "0097.json",
+     "ref": "3.p2.s6",
+     "title": "That a Bishop Ought to Be Ordained by Three or by Two Bishops, But Not by One; For that Would Be Invalid.",
+     "segments": 1
+    },
+    {
+     "file": "0098.json",
+     "ref": "4.p1.s2",
+     "title": "Those Who Have No Children Should Adopt Orphans, and Treat Them as Their Own Children.",
+     "segments": 1
+    },
+    {
+     "file": "0099.json",
+     "ref": "4.p1.s3",
+     "title": "How the Bishop Ought to Provide for the Orphans.",
+     "segments": 1
+    },
+    {
+     "file": "0100.json",
+     "ref": "4.p1.s4",
+     "title": "Who Ought to Be Supported According to the Lord’s Constitution.",
+     "segments": 1
+    },
+    {
+     "file": "0101.json",
+     "ref": "4.p1.s5",
+     "title": "Of the Love of Money.",
+     "segments": 1
+    },
+    {
+     "file": "0102.json",
+     "ref": "4.p1.s6",
+     "title": "With What Fear Men Ought to Partake of the Lord’s Oblations.",
+     "segments": 1
+    },
+    {
+     "file": "0103.json",
+     "ref": "4.p1.s7",
+     "title": "Whose Oblations are to Be Received, and Whose Not to Be Received.",
+     "segments": 1
+    },
+    {
+     "file": "0104.json",
+     "ref": "4.p1.s8",
+     "title": "That the Oblations of the Unworthy, While They are Such, Do Not Only Not Propitiate God, But on the Contrary Provoke Him to Indignation.",
+     "segments": 1
+    },
+    {
+     "file": "0105.json",
+     "ref": "4.p1.s9",
+     "title": "That It is Better to Afford, Though It Be Inconsiderable and Few, Contributions to the Widows from Our Own Labours, Than Those Which are Many and Large Received from the Ungodly; For It is Better to Perish by Famine Than to Receive an Oblation from the Ungodly.",
+     "segments": 1
+    },
+    {
+     "file": "0106.json",
+     "ref": "4.p1.s10",
+     "title": "That the People Ought to Be Exhorted by the Priest to Do Good to the Needy, as Says Solomon the Wise.",
+     "segments": 1
+    },
+    {
+     "file": "0107.json",
+     "ref": "4.p1.s11",
+     "title": "A Constitution, that If Any One of the Ungodly by Force Will Cast Money to the Priests, They Spend It in Wood and Coals, But Not in Food.",
+     "segments": 1
+    },
+    {
+     "file": "0108.json",
+     "ref": "4.p2.s2",
+     "title": "Of Parents and Children.",
+     "segments": 1
+    },
+    {
+     "file": "0109.json",
+     "ref": "4.p2.s3",
+     "title": "Of Servants and Masters.",
+     "segments": 1
+    },
+    {
+     "file": "0110.json",
+     "ref": "4.p2.s4",
+     "title": "In What Things We Ought to Be Subject to the Rulers of This World.",
+     "segments": 1
+    },
+    {
+     "file": "0111.json",
+     "ref": "4.p2.s5",
+     "title": "Of Virgins.",
+     "segments": 1
+    },
+    {
+     "file": "0112.json",
+     "ref": "5.p1.s2",
+     "title": "That It is Reasonable for the Faithful to Supply the Wants of Those Who are Afflicted for the Sake of Christ by the Unbelievers, According to the Constitution of the Lord.",
+     "segments": 1
+    },
+    {
+     "file": "0113.json",
+     "ref": "5.p1.s3",
+     "title": "That We are to Avoid Intercourse with False Brethren When They Continue in Their Wickedness.",
+     "segments": 1
+    },
+    {
+     "file": "0114.json",
+     "ref": "5.p1.s4",
+     "title": "That We Ought to Afford an Helping Hand to Such as are Spoiled for the Sake of Christ, Although We Should Incur Danger Ourselves.",
+     "segments": 1
+    },
+    {
+     "file": "0115.json",
+     "ref": "5.p1.s5",
+     "title": "That It is an Horrible and Destructive Thing to Deny Christ.",
+     "segments": 1
+    },
+    {
+     "file": "0116.json",
+     "ref": "5.p1.s6",
+     "title": "That We Ought to Imitate Christ in Suffering, and with Zeal to Follow His Patience.",
+     "segments": 1
+    },
+    {
+     "file": "0117.json",
+     "ref": "5.p1.s7",
+     "title": "That a Believer Ought Neither Rashly to Run into Danger Through Security, Nor to Be Over-Timorous Through Pusillanimity, But to Fly Away for Fear; Yet that If He Does Fall into the Enemy’s Hand, to Strive Earnestly, Upon Account of the Crown that is Laid Up for Him.",
+     "segments": 1
+    },
+    {
+     "file": "0118.json",
+     "ref": "5.p1.s8",
+     "title": "Several Demonstrations Concerning the Resurrection, Concerning the Sibyl, and What the Stoics Say Concerning the Bird Called the Phoenix.",
+     "segments": 12
+    },
+    {
+     "file": "0119.json",
+     "ref": "5.p1.s9",
+     "title": "Concerning James the Brother of the Lord, and Stephen the First Martyr.",
+     "segments": 1
+    },
+    {
+     "file": "0120.json",
+     "ref": "5.p1.s10",
+     "title": "Concerning False Martyrs.",
+     "segments": 1
+    },
+    {
+     "file": "0121.json",
+     "ref": "5.p2.s2",
+     "title": "A Moral Admonition, that We are to Abstain from Vain Talking, Obscene Talking, Jesting, Drunkenness, Lasciviousness, and Luxury.",
+     "segments": 1
+    },
+    {
+     "file": "0122.json",
+     "ref": "5.p2.s3",
+     "title": "An Admonition Instructing Men to Avoid the Abominable Sin of Idolatry.",
+     "segments": 1
+    },
+    {
+     "file": "0123.json",
+     "ref": "5.p2.s4",
+     "title": "That We Ought Not to Sing an Heathen or an Obscene Song, Nor to Swear by an Idol; Because It is an Impious Thing, and Contrary to the Knowledge of God.",
+     "segments": 1
+    },
+    {
+     "file": "0124.json",
+     "ref": "5.p3.s2",
+     "title": "A Catalogue of the Feasts of the Lord Which are to Be Kept, and When Each of Them Ought to Be Observed.",
+     "segments": 1
+    },
+    {
+     "file": "0125.json",
+     "ref": "5.p3.s3",
+     "title": "Concerning the Passion of Our Lord, and What Was Done on Each Day of His Sufferings; And Concerning Judas, and that Judas Was Not Present When the Lord Delivered the Mysteries to His Disciples.",
+     "segments": 1
+    },
+    {
+     "file": "0126.json",
+     "ref": "5.p3.s4",
+     "title": "Of the Great Week, and on What Account They Enjoin Us to Fast on Wednesday and Friday.",
+     "segments": 1
+    },
+    {
+     "file": "0127.json",
+     "ref": "5.p3.s5",
+     "title": "An Enumeration of the Prophetical Predictions Which Declare Christ, Whose Completion Though the Jews Saw, Yet Out of the Evil Temper of Their Mind They Did Not Believe He Was the Christ of God, and Condemned the Lord of Glory to the Cross.",
+     "segments": 1
+    },
+    {
+     "file": "0128.json",
+     "ref": "5.p3.s6",
+     "title": "How the Passover Ought to Be Celebrated.",
+     "segments": 2
+    },
+    {
+     "file": "0129.json",
+     "ref": "5.p3.s7",
+     "title": "A Constitution Concerning the Great Passover Week.",
+     "segments": 1
+    },
+    {
+     "file": "0130.json",
+     "ref": "5.p3.s8",
+     "title": "Concerning the Watching All the Night of the Great Sabbath, and Concerning the Day of the Resurrection.",
+     "segments": 1
+    },
+    {
+     "file": "0131.json",
+     "ref": "5.p3.s9",
+     "title": "A Prophetic Prediction Concerning Christ Jesus.",
+     "segments": 1
+    },
+    {
+     "file": "0132.json",
+     "ref": "6.p1.s2",
+     "title": "Who They Were that Ventured to Make Schisms, and Did Not Escape Punishment.",
+     "segments": 1
+    },
+    {
+     "file": "0133.json",
+     "ref": "6.p1.s3",
+     "title": "That It is Not Lawful to Rise Up Either Against the Kingly or the Priestly Office.",
+     "segments": 1
+    },
+    {
+     "file": "0134.json",
+     "ref": "6.p1.s4",
+     "title": "Concerning the Virtue of Moses and the Incredulity of the Jewish Nation, and What Wonderful Works God Did Among Them.",
+     "segments": 1
+    },
+    {
+     "file": "0135.json",
+     "ref": "6.p2.s2",
+     "title": "That Schism is Made, Not by Him Who Separates Himself from the Ungodly, But Who Departs from the Godly.",
+     "segments": 1
+    },
+    {
+     "file": "0136.json",
+     "ref": "6.p2.s3",
+     "title": "Upon What Account Israel, Falsely So Named, is Rejected by God, Demonstrated from the Prophetic Predictions.",
+     "segments": 1
+    },
+    {
+     "file": "0137.json",
+     "ref": "6.p2.s4",
+     "title": "That Even Among the Jews There Arose the Doctrine of Several Heresies Hateful to God.",
+     "segments": 1
+    },
+    {
+     "file": "0138.json",
+     "ref": "6.p2.s5",
+     "title": "Whence the Heresies Sprang, and Who Was the Ringleader of Their Impiety.",
+     "segments": 1
+    },
+    {
+     "file": "0139.json",
+     "ref": "6.p2.s6",
+     "title": "Who Were the Successors of Simon’s Impiety, and What Heresies They Set Up.",
+     "segments": 1
+    },
+    {
+     "file": "0140.json",
+     "ref": "6.p2.s7",
+     "title": "How Simon, Desiring to Fly by Some Magical Arts, Fell Down Headlong from on High at the Prayers of Peter, and Brake His Feet, and Hands, and Ankle-Bones.",
+     "segments": 1
+    },
+    {
+     "file": "0141.json",
+     "ref": "6.p2.s8",
+     "title": "How the Heresies Differ from Each Other, and from the Truth.",
+     "segments": 1
+    },
+    {
+     "file": "0142.json",
+     "ref": "6.p3.s2",
+     "title": "An Exposition of the Preaching of the Apostles.",
+     "segments": 1
+    },
+    {
+     "file": "0143.json",
+     "ref": "6.p3.s3",
+     "title": "For Those that Confess Christ, But are Desirous to Judaize.",
+     "segments": 1
+    },
+    {
+     "file": "0144.json",
+     "ref": "6.p3.s4",
+     "title": "That We Must Separate from Heretics.",
+     "segments": 1
+    },
+    {
+     "file": "0145.json",
+     "ref": "6.p3.s5",
+     "title": "Who Were the Preachers of the Catholic Doctrine, and Which are the Commandments Given by Them.",
+     "segments": 1
+    },
+    {
+     "file": "0146.json",
+     "ref": "6.p3.s6",
+     "title": "That We Ought Not to Rebaptize, Nor to Receive that Baptism Which is Given by the Ungodly, Which is Not Baptism, But a Pollution.",
+     "segments": 1
+    },
+    {
+     "file": "0147.json",
+     "ref": "6.p3.s7",
+     "title": "Concerning Books with False Inscriptions.",
+     "segments": 1
+    },
+    {
+     "file": "0148.json",
+     "ref": "6.p3.s8",
+     "title": "Matrimonial Precepts Concerning Clergymen.",
+     "segments": 1
+    },
+    {
+     "file": "0149.json",
+     "ref": "6.p3.s9",
+     "title": "An Exhortation Commanding to Avoid the Communion of the Impious Heretics.",
+     "segments": 1
+    },
+    {
+     "file": "0150.json",
+     "ref": "6.p4.s1",
+     "title": "Sec. IV.—Of the Law.",
+     "segments": 1
+    },
+    {
+     "file": "0151.json",
+     "ref": "6.p4.s2",
+     "title": "To Those that Speak Evil of the Law.",
+     "segments": 1
+    },
+    {
+     "file": "0152.json",
+     "ref": "6.p4.s3",
+     "title": "Which is the Law of Nature, and Which is that Afterwards Introduced, and Why It Was Introduced.",
+     "segments": 1
+    },
+    {
+     "file": "0153.json",
+     "ref": "6.p4.s4",
+     "title": "That We Who Believe in Christ are Under Grace, and Not Under the Servitude of that Additional Law.",
+     "segments": 1
+    },
+    {
+     "file": "0154.json",
+     "ref": "6.p4.s5",
+     "title": "That the Law for Sacrifices is Additional, Which Christ When He Came Took Away.",
+     "segments": 1
+    },
+    {
+     "file": "0155.json",
+     "ref": "6.p4.s6",
+     "title": "How Christ Became a Fulfiller of the Law, and What Parts of It He Put a Period To, or Changed, or Transferred.",
+     "segments": 1
+    },
+    {
+     "file": "0156.json",
+     "ref": "6.p4.s7",
+     "title": "That It Pleased the Lord that the Law of Righteousness Should Be Demonstrated by the Romans.",
+     "segments": 1
+    },
+    {
+     "file": "0157.json",
+     "ref": "6.p4.s8",
+     "title": "How God, on Account of Their Impiety Towards Christ, Made the Jews Captives, and Placed Them Under Tribute.",
+     "segments": 1
+    },
+    {
+     "file": "0158.json",
+     "ref": "6.p5.s2",
+     "title": "That We Ought to Avoid the Heretics as the Corrupters of Souls.",
+     "segments": 1
+    },
+    {
+     "file": "0159.json",
+     "ref": "6.p5.s3",
+     "title": "Of Some Jewish and Gentile Observances.",
+     "segments": 1
+    },
+    {
+     "file": "0160.json",
+     "ref": "6.p5.s4",
+     "title": "Of the Love of Boys, Adultery, and Fornication.",
+     "segments": 1
+    },
+    {
+     "file": "0161.json",
+     "ref": "6.p5.s5",
+     "title": "How Wives Ought to Be Subject to Their Own Husbands, and Husbands Ought to Love Their Own Wives.",
+     "segments": 1
+    },
+    {
+     "file": "0162.json",
+     "ref": "6.p6",
+     "title": "That It is the Custom of Jews and Gentiles to Observe Natural Purgations, and to Abominate the Remains of the Dead; But that All This is Contrary to Christianity.",
+     "segments": 2
+    },
+    {
+     "file": "0163.json",
+     "ref": "7.p1.s2",
+     "title": "That There are Two Ways,—The One Natural, of Life, and the Other Introduced Afterwards, of Death; And that the Former is from God, and the Latter of Error, from the Snares of the Adversary.",
+     "segments": 1
+    },
+    {
+     "file": "0164.json",
+     "ref": "7.p1.s3",
+     "title": "Moral Exhortations of the Lord’s Constitutions Agreeing with the Ancient Prohibitions of the Divine Laws. The Prohibition of Anger, Spite, Corruption, Adultery, and Every Forbidden Action.",
+     "segments": 1
+    },
+    {
+     "file": "0165.json",
+     "ref": "7.p1.s4",
+     "title": "The Prohibition of Conjuring, Murder of Infants, Perjury, and False Witness.",
+     "segments": 1
+    },
+    {
+     "file": "0166.json",
+     "ref": "7.p1.s5",
+     "title": "The Prohibition of Evil-Speaking and Passion, of Deceitful Conduct, or Idle Words, Lies, Covetousness, and Hypocrisy.",
+     "segments": 1
+    },
+    {
+     "file": "0167.json",
+     "ref": "7.p1.s6",
+     "title": "The Prohibition of Malignity, Acceptation of Persons, Wrath, Malice, and Envy.",
+     "segments": 1
+    },
+    {
+     "file": "0168.json",
+     "ref": "7.p1.s7",
+     "title": "Concerning Augury and Enchantments.",
+     "segments": 1
+    },
+    {
+     "file": "0169.json",
+     "ref": "7.p1.s8",
+     "title": "The Prohibition of Murmuring, Insolence, Pride, and Arrogance.",
+     "segments": 1
+    },
+    {
+     "file": "0170.json",
+     "ref": "7.p1.s9",
+     "title": "Concerning Long-Suffering, Simplicity, Meekness, and Patience.",
+     "segments": 1
+    },
+    {
+     "file": "0171.json",
+     "ref": "7.p1.s10",
+     "title": "That It is Our Duty to Esteem Our Christian Teachers Above Our Parents—The Former Being the Means of Our Well-Being, the Other Only of Our Being.",
+     "segments": 1
+    },
+    {
+     "file": "0172.json",
+     "ref": "7.p1.s11",
+     "title": "That We Ought Not to Divide Ourselves from the Saints, But to Make Peace Between Those that Quarrel, to Judge Righteously, and Not to Accept Persons.",
+     "segments": 1
+    },
+    {
+     "file": "0173.json",
+     "ref": "7.p1.s12",
+     "title": "Concerning Him that is Double-Minded and Desponding.",
+     "segments": 1
+    },
+    {
+     "file": "0174.json",
+     "ref": "7.p1.s13",
+     "title": "Concerning Doing Good.",
+     "segments": 1
+    },
+    {
+     "file": "0175.json",
+     "ref": "7.p1.s14",
+     "title": "How Masters Ought to Behave Themselves to Their Servants, and How Servants Ought to Be Subject.",
+     "segments": 1
+    },
+    {
+     "file": "0176.json",
+     "ref": "7.p1.s15",
+     "title": "Concerning Hypocrisy, and Obedience to the Laws, and Confession of Sins.",
+     "segments": 1
+    },
+    {
+     "file": "0177.json",
+     "ref": "7.p1.s16",
+     "title": "Concerning the Observance Due to Parents.",
+     "segments": 1
+    },
+    {
+     "file": "0178.json",
+     "ref": "7.p1.s17",
+     "title": "Concerning the Subjection Due to the King and to Rulers.",
+     "segments": 1
+    },
+    {
+     "file": "0179.json",
+     "ref": "7.p1.s18",
+     "title": "Concerning the Pure Conscience of Those that Pray.",
+     "segments": 1
+    },
+    {
+     "file": "0180.json",
+     "ref": "7.p1.s19",
+     "title": "That the Way Which Was Afterward Introduced by the Snares of the Adversary is Full of Impiety and Wickedness.",
+     "segments": 1
+    },
+    {
+     "file": "0181.json",
+     "ref": "7.p1.s20",
+     "title": "That We Must Not Turn from the Way of Piety Either to the Right Hand or to the Left. An Exhortation of the Lawgiver.",
+     "segments": 1
+    },
+    {
+     "file": "0182.json",
+     "ref": "7.p2.s2",
+     "title": "That We Ought Not to Despise Any of the Sorts of Food that are Set Before Us, But Gratefully and Orderly to Partake of Them.",
+     "segments": 1
+    },
+    {
+     "file": "0183.json",
+     "ref": "7.p2.s3",
+     "title": "That We Ought to Avoid the Eating of Things Offered to Idols.",
+     "segments": 1
+    },
+    {
+     "file": "0184.json",
+     "ref": "7.p2.s4",
+     "title": "A Constitution of Our Lord, How We Ought to Baptize, and into Whose Death.",
+     "segments": 1
+    },
+    {
+     "file": "0185.json",
+     "ref": "7.p2.s5",
+     "title": "Which Days of the Week We are to Fast, and Which Not, and for What Reasons.",
+     "segments": 1
+    },
+    {
+     "file": "0186.json",
+     "ref": "7.p2.s6",
+     "title": "What Sort of People Ought to Pray that Prayer that Was Given by the Lord.",
+     "segments": 1
+    },
+    {
+     "file": "0187.json",
+     "ref": "7.p2.s7",
+     "title": "A Mystical Thanksgiving.",
+     "segments": 1
+    },
+    {
+     "file": "0188.json",
+     "ref": "7.p2.s8",
+     "title": "A Thanksgiving at the Divine Participation.",
+     "segments": 1
+    },
+    {
+     "file": "0189.json",
+     "ref": "7.p2.s9",
+     "title": "A Thanksgiving About the Mystical Ointment.",
+     "segments": 1
+    },
+    {
+     "file": "0190.json",
+     "ref": "7.p2.s10",
+     "title": "That We Ought Not to Be Indifferent About Communicating.",
+     "segments": 1
+    },
+    {
+     "file": "0191.json",
+     "ref": "7.p2.s11",
+     "title": "A Constitution Concerning Oblations.",
+     "segments": 1
+    },
+    {
+     "file": "0192.json",
+     "ref": "7.p2.s12",
+     "title": "How We Ought to Assemble Together, and to Celebrate the Festival Day of Our Saviour’s Resurrection.",
+     "segments": 1
+    },
+    {
+     "file": "0193.json",
+     "ref": "7.p2.s13",
+     "title": "What Qualifications They Ought to Have Who are to Be Ordained.",
+     "segments": 1
+    },
+    {
+     "file": "0194.json",
+     "ref": "7.p2.s14",
+     "title": "A Prediction Concerning Futurities.",
+     "segments": 1
+    },
+    {
+     "file": "0195.json",
+     "ref": "7.p2.s15",
+     "title": "A Prayer Declarative of God’s Various Providence.",
+     "segments": 1
+    },
+    {
+     "file": "0196.json",
+     "ref": "7.p2.s16",
+     "title": "A Prayer Declarative of God’s Various Creation.",
+     "segments": 1
+    },
+    {
+     "file": "0197.json",
+     "ref": "7.p2.s17",
+     "title": "A Prayer, with Thanksgiving, Declarative of God’s Providence Over the Beings He Has Made.",
+     "segments": 1
+    },
+    {
+     "file": "0198.json",
+     "ref": "7.p2.s18",
+     "title": "A Prayer Commemorative of the Incarnation of Christ, and His Various Providence to the Saints.",
+     "segments": 1
+    },
+    {
+     "file": "0199.json",
+     "ref": "7.p2.s19",
+     "title": "A Prayer Containing the Memorial of His Providence, and an Enumeration of the Various Benefits Afforded the Saints by the Providence of God Through Christ.",
+     "segments": 1
+    },
+    {
+     "file": "0200.json",
+     "ref": "7.p2.s20",
+     "title": "A Prayer for the Assistance of the Righteous.",
+     "segments": 1
+    },
+    {
+     "file": "0201.json",
+     "ref": "7.p3.s1",
+     "title": "Sec. III.—On the Instruction of Catechumens, and Their Initiation into Baptism.",
+     "segments": 1
+    },
+    {
+     "file": "0202.json",
+     "ref": "7.p3.s2",
+     "title": "How the Catechumens are to Be Instructed in the Elements.",
+     "segments": 1
+    },
+    {
+     "file": "0203.json",
+     "ref": "7.p3.s3",
+     "title": "A Constitution How the Catechumens are to Be Blessed by the Priests in Their Initiation, and What Things are to Be Taught Them.",
+     "segments": 1
+    },
+    {
+     "file": "0204.json",
+     "ref": "7.p3.s4",
+     "title": "The Renunciation of the Adversary, and the Dedication to the Christ of God.",
+     "segments": 1
+    },
+    {
+     "file": "0205.json",
+     "ref": "7.p3.s5",
+     "title": "A Thanksgiving Concerning the Anointing with the Mystical Oil.",
+     "segments": 1
+    },
+    {
+     "file": "0206.json",
+     "ref": "7.p3.s6",
+     "title": "A Thanksgiving Concerning the Mystical Water.",
+     "segments": 1
+    },
+    {
+     "file": "0207.json",
+     "ref": "7.p3.s7",
+     "title": "A Thanksgiving Concerning the Mystical Ointment.",
+     "segments": 1
+    },
+    {
+     "file": "0208.json",
+     "ref": "7.p3.s8",
+     "title": "A Prayer for the New Fruits.",
+     "segments": 1
+    },
+    {
+     "file": "0209.json",
+     "ref": "7.p4",
+     "title": "Who Were They that the Holy Apostles Sent and Ordained?",
+     "segments": 1
+    },
+    {
+     "file": "0210.json",
+     "ref": "7.p5.s2",
+     "title": "A Morning Prayer.",
+     "segments": 1
+    },
+    {
+     "file": "0211.json",
+     "ref": "7.p5.s3",
+     "title": "An Evening Prayer.",
+     "segments": 1
+    },
+    {
+     "file": "0212.json",
+     "ref": "7.p5.s4",
+     "title": "A Prayer at Dinner.",
+     "segments": 1
+    },
+    {
+     "file": "0213.json",
+     "ref": "7.p5.s5",
+     "title": "General notice",
+     "segments": 1
+    },
+    {
+     "file": "0214.json",
+     "ref": "8.p1.s2",
+     "title": "On Whose Account the Powers of Miracles are Performed.",
+     "segments": 1
+    },
+    {
+     "file": "0215.json",
+     "ref": "8.p1.s3",
+     "title": "Concerning Unworthy Bishops and Presbyters.",
+     "segments": 1
+    },
+    {
+     "file": "0216.json",
+     "ref": "8.p2.s2",
+     "title": "That to Make Constitutions About the Offices to Be Performed in the Churches is of Great Consequence.",
+     "segments": 1
+    },
+    {
+     "file": "0217.json",
+     "ref": "8.p2.s3",
+     "title": "Concerning Ordinations.",
+     "segments": 1
+    },
+    {
+     "file": "0218.json",
+     "ref": "8.p2.s4",
+     "title": "The Form of Prayer for the Ordination of a Bishop.",
+     "segments": 1
+    },
+    {
+     "file": "0219.json",
+     "ref": "8.p2.s5",
+     "title": "Oxford Ms.",
+     "segments": 1
+    },
+    {
+     "file": "0220.json",
+     "ref": "8.p2.s6",
+     "title": "The Divine Liturgy, Wherein is the Bidding Prayer for the Catechumens.",
+     "segments": 1
+    },
+    {
+     "file": "0221.json",
+     "ref": "8.p2.s7",
+     "title": "For the Energumens.",
+     "segments": 1
+    },
+    {
+     "file": "0222.json",
+     "ref": "8.p2.s8",
+     "title": "For the Baptized.",
+     "segments": 1
+    },
+    {
+     "file": "0223.json",
+     "ref": "8.p2.s9",
+     "title": "Imposition of Hands; Prayer for PenItents.",
+     "segments": 1
+    },
+    {
+     "file": "0224.json",
+     "ref": "8.p2.s10",
+     "title": "The Bidding Prayer for the Faithful.",
+     "segments": 1
+    },
+    {
+     "file": "0225.json",
+     "ref": "8.p2.s11",
+     "title": "The Form of Prayer for the Faithful.",
+     "segments": 1
+    },
+    {
+     "file": "0226.json",
+     "ref": "8.p2.s12",
+     "title": "The Constitution of James the Brother of John, the Son of Zebedee.",
+     "segments": 3
+    },
+    {
+     "file": "0227.json",
+     "ref": "8.p2.s13",
+     "title": "The Bidding Prayer for the Faithful After the Divine Oblation.",
+     "segments": 1
+    },
+    {
+     "file": "0228.json",
+     "ref": "8.p2.s14",
+     "title": "The Bidding Prayer After the Participation.",
+     "segments": 1
+    },
+    {
+     "file": "0229.json",
+     "ref": "8.p2.s15",
+     "title": "The Form of Prayer After the Participation.",
+     "segments": 1
+    },
+    {
+     "file": "0230.json",
+     "ref": "8.p3.s2",
+     "title": "Concerning the Ordination of Presbyters—The Constitution of John, Who Was Beloved by the Lord.",
+     "segments": 1
+    },
+    {
+     "file": "0231.json",
+     "ref": "8.p3.s3",
+     "title": "Concerning the Ordination of Deacons—The Constitution of Philip.",
+     "segments": 1
+    },
+    {
+     "file": "0232.json",
+     "ref": "8.p3.s4",
+     "title": "The Form of Prayer for the Ordination of a Deacon.",
+     "segments": 1
+    },
+    {
+     "file": "0233.json",
+     "ref": "8.p3.s5",
+     "title": "Concerning the Deaconess—The Constitution of Bartholomew.",
+     "segments": 1
+    },
+    {
+     "file": "0234.json",
+     "ref": "8.p3.s6",
+     "title": "The Form of Prayer for the Ordination of a Deaconess.",
+     "segments": 1
+    },
+    {
+     "file": "0235.json",
+     "ref": "8.p3.s7",
+     "title": "Concerning the Sub-Deacons—The Constitution of Thomas.",
+     "segments": 1
+    },
+    {
+     "file": "0236.json",
+     "ref": "8.p3.s8",
+     "title": "Concerning the Readers—The Constitution of Matthew.",
+     "segments": 1
+    },
+    {
+     "file": "0237.json",
+     "ref": "8.p3.s9",
+     "title": "Concerning the Confessors—The Constitution of James the Son of Alpheus.",
+     "segments": 1
+    },
+    {
+     "file": "0238.json",
+     "ref": "8.p3.s10",
+     "title": "The Same Apostle’s Constitution Concerning Virgins.",
+     "segments": 1
+    },
+    {
+     "file": "0239.json",
+     "ref": "8.p3.s11",
+     "title": "The Constitution of Lebbæus, Who Was Surnamed Thaddæus, Concerning Widows.",
+     "segments": 1
+    },
+    {
+     "file": "0240.json",
+     "ref": "8.p3.s12",
+     "title": "The Same Apostle Concerning the Exorcist.",
+     "segments": 1
+    },
+    {
+     "file": "0241.json",
+     "ref": "8.p3.s13",
+     "title": "Simon the Canaanite Concerning the Number Necessary for the Ordination of a Bishop.",
+     "segments": 1
+    },
+    {
+     "file": "0242.json",
+     "ref": "8.p3.s14",
+     "title": "The Same Apostle’s Canons Concerning Bishops, Presbyters, Deacons, and the Rest of the Clergy.",
+     "segments": 1
+    },
+    {
+     "file": "0243.json",
+     "ref": "8.p4.s2",
+     "title": "Concerning the Blessing of Water and Oil—The Constitution of Matthias.",
+     "segments": 1
+    },
+    {
+     "file": "0244.json",
+     "ref": "8.p4.s3",
+     "title": "The Same Apostle’s Constitution Concerning First-Fruits and Tithes.",
+     "segments": 1
+    },
+    {
+     "file": "0245.json",
+     "ref": "8.p4.s4",
+     "title": "The Same Apostle’s Constitutions Concerning the Remaining Oblations.",
+     "segments": 1
+    },
+    {
+     "file": "0246.json",
+     "ref": "8.p4.s5",
+     "title": "Various Canons of Paul the Apostle Concerning Those that Offer Themselves to Be Baptized—Whom We are to Receive, and Whom to Reject.",
+     "segments": 1
+    },
+    {
+     "file": "0247.json",
+     "ref": "8.p4.s6",
+     "title": "Upon Which Days Servants are Not to Work.",
+     "segments": 1
+    },
+    {
+     "file": "0248.json",
+     "ref": "8.p4.s7",
+     "title": "At What Hours, and Why, We are to Pray.",
+     "segments": 1
+    },
+    {
+     "file": "0249.json",
+     "ref": "8.p4.s8",
+     "title": "The Constitution of James the Brother of Christ Concerning Evening Prayer.",
+     "segments": 1
+    },
+    {
+     "file": "0250.json",
+     "ref": "8.p4.s9",
+     "title": "The Bidding Prayer for the Evening.",
+     "segments": 1
+    },
+    {
+     "file": "0251.json",
+     "ref": "8.p4.s10",
+     "title": "The Thanksgiving for the Evening.",
+     "segments": 1
+    },
+    {
+     "file": "0252.json",
+     "ref": "8.p4.s11",
+     "title": "The Thanksgiving for the Morning.",
+     "segments": 1
+    },
+    {
+     "file": "0253.json",
+     "ref": "8.p4.s12",
+     "title": "The Imposition of Hands for the Morning.",
+     "segments": 1
+    },
+    {
+     "file": "0254.json",
+     "ref": "8.p4.s13",
+     "title": "The Form of Prayer for the First-Fruits.",
+     "segments": 1
+    },
+    {
+     "file": "0255.json",
+     "ref": "8.p4.s14",
+     "title": "The Bidding Prayer for Those Departed.",
+     "segments": 1
+    },
+    {
+     "file": "0256.json",
+     "ref": "8.p4.s15",
+     "title": "How and When We Ought to Celebrate the Memorials of the Faithful Departed, and that We Ought Then to Give Somewhat Out of Their Goods to the Poor.",
+     "segments": 1
+    },
+    {
+     "file": "0257.json",
+     "ref": "8.p4.s16",
+     "title": "That Memorials or Mandates Do Not at All Profit the Ungodly Who are Dead.",
+     "segments": 1
+    },
+    {
+     "file": "0258.json",
+     "ref": "8.p4.s17",
+     "title": "Concerning Drunkards.",
+     "segments": 1
+    },
+    {
+     "file": "0259.json",
+     "ref": "8.p4.s18",
+     "title": "Concerning the Receiving Such as are Persecuted for Christ’s Sake.",
+     "segments": 1
+    },
+    {
+     "file": "0260.json",
+     "ref": "8.p5",
+     "title": "That Every One Ought to Remain in that Rank Wherein He is Placed, But Not Snatch Such Offices to Himself Which are Not Entrusted to Him.",
+     "segments": 1
+    },
+    {
+     "file": "0261.json",
+     "ref": "8.p6.front",
+     "title": "The Ecclesiastical Canons of the Same Holy Apostles.",
+     "segments": 1
+    },
+    {
+     "file": "0262.json",
+     "ref": "8.p6.2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0263.json",
+     "ref": "8.p6.3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0264.json",
+     "ref": "8.p6.4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0265.json",
+     "ref": "8.p6.5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0266.json",
+     "ref": "8.p6.6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0267.json",
+     "ref": "8.p6.7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0268.json",
+     "ref": "8.p6.8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0269.json",
+     "ref": "8.p6.9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0270.json",
+     "ref": "8.p6.10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0271.json",
+     "ref": "8.p6.11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0272.json",
+     "ref": "8.p6.12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0273.json",
+     "ref": "8.p6.13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0274.json",
+     "ref": "8.p6.14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0275.json",
+     "ref": "8.p6.15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0276.json",
+     "ref": "8.p6.16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0277.json",
+     "ref": "8.p6.17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0278.json",
+     "ref": "8.p6.18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0279.json",
+     "ref": "8.p6.19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0280.json",
+     "ref": "8.p6.20",
+     "title": "20",
+     "segments": 1
+    },
+    {
+     "file": "0281.json",
+     "ref": "8.p6.21",
+     "title": "21",
+     "segments": 1
+    },
+    {
+     "file": "0282.json",
+     "ref": "8.p6.22",
+     "title": "22",
+     "segments": 1
+    },
+    {
+     "file": "0283.json",
+     "ref": "8.p6.23",
+     "title": "23",
+     "segments": 1
+    },
+    {
+     "file": "0284.json",
+     "ref": "8.p6.24",
+     "title": "24",
+     "segments": 1
+    },
+    {
+     "file": "0285.json",
+     "ref": "8.p6.25",
+     "title": "25",
+     "segments": 1
+    },
+    {
+     "file": "0286.json",
+     "ref": "8.p6.26",
+     "title": "26",
+     "segments": 1
+    },
+    {
+     "file": "0287.json",
+     "ref": "8.p6.27",
+     "title": "27",
+     "segments": 1
+    },
+    {
+     "file": "0288.json",
+     "ref": "8.p6.28",
+     "title": "28",
+     "segments": 1
+    },
+    {
+     "file": "0289.json",
+     "ref": "8.p6.29",
+     "title": "29",
+     "segments": 1
+    },
+    {
+     "file": "0290.json",
+     "ref": "8.p6.30",
+     "title": "30",
+     "segments": 1
+    },
+    {
+     "file": "0291.json",
+     "ref": "8.p6.31",
+     "title": "31",
+     "segments": 1
+    },
+    {
+     "file": "0292.json",
+     "ref": "8.p6.32",
+     "title": "32",
+     "segments": 1
+    },
+    {
+     "file": "0293.json",
+     "ref": "8.p6.33",
+     "title": "33",
+     "segments": 1
+    },
+    {
+     "file": "0294.json",
+     "ref": "8.p6.34",
+     "title": "34",
+     "segments": 1
+    },
+    {
+     "file": "0295.json",
+     "ref": "8.p6.35",
+     "title": "35",
+     "segments": 1
+    },
+    {
+     "file": "0296.json",
+     "ref": "8.p6.36",
+     "title": "36",
+     "segments": 1
+    },
+    {
+     "file": "0297.json",
+     "ref": "8.p6.37",
+     "title": "37",
+     "segments": 1
+    },
+    {
+     "file": "0298.json",
+     "ref": "8.p6.38",
+     "title": "38",
+     "segments": 1
+    },
+    {
+     "file": "0299.json",
+     "ref": "8.p6.39",
+     "title": "39",
+     "segments": 1
+    },
+    {
+     "file": "0300.json",
+     "ref": "8.p6.40",
+     "title": "40",
+     "segments": 1
+    },
+    {
+     "file": "0301.json",
+     "ref": "8.p6.41",
+     "title": "41",
+     "segments": 1
+    },
+    {
+     "file": "0302.json",
+     "ref": "8.p6.42",
+     "title": "42",
+     "segments": 1
+    },
+    {
+     "file": "0303.json",
+     "ref": "8.p6.43",
+     "title": "43",
+     "segments": 1
+    },
+    {
+     "file": "0304.json",
+     "ref": "8.p6.44",
+     "title": "44",
+     "segments": 1
+    },
+    {
+     "file": "0305.json",
+     "ref": "8.p6.45",
+     "title": "45",
+     "segments": 1
+    },
+    {
+     "file": "0306.json",
+     "ref": "8.p6.46",
+     "title": "46",
+     "segments": 1
+    },
+    {
+     "file": "0307.json",
+     "ref": "8.p6.47",
+     "title": "47",
+     "segments": 1
+    },
+    {
+     "file": "0308.json",
+     "ref": "8.p6.48",
+     "title": "48",
+     "segments": 1
+    },
+    {
+     "file": "0309.json",
+     "ref": "8.p6.49",
+     "title": "49",
+     "segments": 1
+    },
+    {
+     "file": "0310.json",
+     "ref": "8.p6.50",
+     "title": "50",
+     "segments": 1
+    },
+    {
+     "file": "0311.json",
+     "ref": "8.p6.51",
+     "title": "51",
+     "segments": 1
+    },
+    {
+     "file": "0312.json",
+     "ref": "8.p6.52",
+     "title": "52",
+     "segments": 1
+    },
+    {
+     "file": "0313.json",
+     "ref": "8.p6.53",
+     "title": "53",
+     "segments": 1
+    },
+    {
+     "file": "0314.json",
+     "ref": "8.p6.54",
+     "title": "54",
+     "segments": 1
+    },
+    {
+     "file": "0315.json",
+     "ref": "8.p6.55",
+     "title": "55",
+     "segments": 1
+    },
+    {
+     "file": "0316.json",
+     "ref": "8.p6.56",
+     "title": "56",
+     "segments": 1
+    },
+    {
+     "file": "0317.json",
+     "ref": "8.p6.57",
+     "title": "57",
+     "segments": 1
+    },
+    {
+     "file": "0318.json",
+     "ref": "8.p6.58",
+     "title": "58",
+     "segments": 1
+    },
+    {
+     "file": "0319.json",
+     "ref": "8.p6.59",
+     "title": "59",
+     "segments": 1
+    },
+    {
+     "file": "0320.json",
+     "ref": "8.p6.60",
+     "title": "60",
+     "segments": 1
+    },
+    {
+     "file": "0321.json",
+     "ref": "8.p6.61",
+     "title": "61",
+     "segments": 1
+    },
+    {
+     "file": "0322.json",
+     "ref": "8.p6.62",
+     "title": "62",
+     "segments": 1
+    },
+    {
+     "file": "0323.json",
+     "ref": "8.p6.63",
+     "title": "63",
+     "segments": 1
+    },
+    {
+     "file": "0324.json",
+     "ref": "8.p6.64",
+     "title": "64",
+     "segments": 1
+    },
+    {
+     "file": "0325.json",
+     "ref": "8.p6.65",
+     "title": "65",
+     "segments": 1
+    },
+    {
+     "file": "0326.json",
+     "ref": "8.p6.66",
+     "title": "66",
+     "segments": 1
+    },
+    {
+     "file": "0327.json",
+     "ref": "8.p6.67",
+     "title": "67",
+     "segments": 1
+    },
+    {
+     "file": "0328.json",
+     "ref": "8.p6.68",
+     "title": "68",
+     "segments": 1
+    },
+    {
+     "file": "0329.json",
+     "ref": "8.p6.69",
+     "title": "69",
+     "segments": 1
+    },
+    {
+     "file": "0330.json",
+     "ref": "8.p6.70",
+     "title": "70",
+     "segments": 1
+    },
+    {
+     "file": "0331.json",
+     "ref": "8.p6.71",
+     "title": "71",
+     "segments": 1
+    },
+    {
+     "file": "0332.json",
+     "ref": "8.p6.72",
+     "title": "72",
+     "segments": 1
+    },
+    {
+     "file": "0333.json",
+     "ref": "8.p6.73",
+     "title": "73",
+     "segments": 1
+    },
+    {
+     "file": "0334.json",
+     "ref": "8.p6.74",
+     "title": "74",
+     "segments": 1
+    },
+    {
+     "file": "0335.json",
+     "ref": "8.p6.75",
+     "title": "75",
+     "segments": 1
+    },
+    {
+     "file": "0336.json",
+     "ref": "8.p6.76",
+     "title": "76",
+     "segments": 1
+    },
+    {
+     "file": "0337.json",
+     "ref": "8.p6.77",
+     "title": "77",
+     "segments": 1
+    },
+    {
+     "file": "0338.json",
+     "ref": "8.p6.78",
+     "title": "78",
+     "segments": 1
+    },
+    {
+     "file": "0339.json",
+     "ref": "8.p6.79",
+     "title": "79",
+     "segments": 1
+    },
+    {
+     "file": "0340.json",
+     "ref": "8.p6.80",
+     "title": "80",
+     "segments": 1
+    },
+    {
+     "file": "0341.json",
+     "ref": "8.p6.81",
+     "title": "81",
+     "segments": 1
+    },
+    {
+     "file": "0342.json",
+     "ref": "8.p6.82",
+     "title": "82",
+     "segments": 1
+    },
+    {
+     "file": "0343.json",
+     "ref": "8.p6.83",
+     "title": "83",
+     "segments": 1
+    },
+    {
+     "file": "0344.json",
+     "ref": "8.p6.84",
+     "title": "84",
+     "segments": 1
+    },
+    {
+     "file": "0345.json",
+     "ref": "8.p6.85",
+     "title": "85",
+     "segments": 4
+    }
+   ]
+  }
+ ]
+}

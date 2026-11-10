@@ -1,0 +1,6104 @@
+{
+ "workId": "pseudo-clement-homilies",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "pseudo-clement-homilies-schwegler-grc-first1k",
+   "role": "original",
+   "language": "greek",
+   "credit": "Ὁμιλίαι (Homiliae), in Clementis Romani quae feruntur Homiliae viginti, ed. Albert Schwegler (Stuttgart: A. Becher, 1847). Open Greek and Latin / First1KGreek, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg1271/tlg006/tlg1271.tlg006.1st1K-grc1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 883319,
+   "sourceSha256": "3b99aba1bf2312d865da0977398acf0f04e3283a2778210fcee5defe1a2d4adc",
+   "leftOut": {
+    "pb": 216
+   },
+   "extent": {
+    "covers": "Homilies I–XIX.14",
+    "lacks": "Homily XIX.15–25 and Homily XX",
+    "reason": "Schwegler (1847) printed the Paris manuscript, which breaks off in Homily XIX.14; the rest was first printed by Dressel (1853) from a Vatican manuscript, and no open transcription of Dressel's text was found"
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 64014,
+    "barePerThousand": 26,
+    "digitWords": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 22
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 53
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 73
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 25
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 30
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 26
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 12
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 24
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 23
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 26
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 36
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 33
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 21
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 12
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 11
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 21
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 20
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 23
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 14
+    }
+   ]
+  },
+  {
+   "editionId": "pseudo-clement-homilies-anf8-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "The Clementine Homilies, in The Ante-Nicene Fathers, vol. 8 (American edition, ed. A. Cleveland Coxe), trans. Thomas Smith; Peter Peterson; James Donaldson (as printed in ANF vol. 8) (Buffalo: Christian Literature Publishing Co., 1886). Wikisource contributors, English Wikisource (Ante-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/Pseudo-Clementine_Literature/The_Clementine_Homilies",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 851987,
+   "sourceSha256": "9ab2081a1c296ec0e5235616981c9bb6718aa9aca074d8cdc6e18e50b8aed8f5",
+   "leftOut": {
+    "note": 648,
+    "templates": {
+     "anon": 539
+    }
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily I/Chapter 1",
+     "bytes": 1718,
+     "sha256": "0f075b840f965a2157d048a780d02ba2e22f2230d4ac77248b1c2a616bee552c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily I/Chapter 2",
+     "bytes": 1053,
+     "sha256": "6c95000cd01d6131bc733795afb6e024eacb421095815058a6f48aec7b52d567"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily I/Chapter 3",
+     "bytes": 1854,
+     "sha256": "728b8c97f4e242e786eead160e6e23889d611010069d8ae25f8bd658239a091a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily I/Chapter 4",
+     "bytes": 1722,
+     "sha256": "1b11d4895e37e6e4529fa042c14d4a3bd81c1202e74c87c2a7dc9f28386aa52c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily I/Chapter 5",
+     "bytes": 2155,
+     "sha256": "5222e34ce8761016a629b5f311e1d50a45ab3ec98877a58d40ebe53a6f01a418"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily I/Chapter 6",
+     "bytes": 1987,
+     "sha256": "f9c049d083c058289b7cc42a603328086498ca8e08f3d03abce89da33672a011"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily I/Chapter 7",
+     "bytes": 1935,
+     "sha256": "9b3a024583644c663c8867f90b84fd841f91ae31a3c3cd167485366e97c97d55"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily I/Chapter 8",
+     "bytes": 2050,
+     "sha256": "84c65977d509349a4823517affd8166c9bf558d8a0923f86be6542d1451976dc"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily I/Chapter 9",
+     "bytes": 1154,
+     "sha256": "076183385bcf919625b7f055f6e6917ab58a5d7ddf625506190e7946f6b0141d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily I/Chapter 10",
+     "bytes": 2229,
+     "sha256": "50109de04c4dd6dcfef6462f0d664e24a4a213716826da4bf81f65daaf1c7af8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily I/Chapter 11",
+     "bytes": 3107,
+     "sha256": "a6f0788be79835bbd652a56a02ce46db773440c959fa1e782fca784d13af281c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily I/Chapter 12",
+     "bytes": 1625,
+     "sha256": "751f7f99a23860e181f31d7a6f9a7fea0cae854998ca10c71ed1a51a844f6de3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily I/Chapter 13",
+     "bytes": 1061,
+     "sha256": "6c579b83d0c72289898e2249a8d72c9e84b30cc501ae6a351425998e3e98c804"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily I/Chapter 14",
+     "bytes": 1650,
+     "sha256": "0217b429d37367bb46e44215b6f496886620e213c1312ffd9cedc8658869c2de"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily I/Chapter 15",
+     "bytes": 2097,
+     "sha256": "9e6781543462a3b1b5ed6eab25d770b44e6a93c7deea8e3b7fc6a475533f3f1c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily I/Chapter 16",
+     "bytes": 1552,
+     "sha256": "01995f9aab4cc551a1d68975ef8edfba50e4384dc959283f9eff3d419f4d17dd"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily I/Chapter 17",
+     "bytes": 1408,
+     "sha256": "28846047e4cc1768dbb4914cf6d0e810640a07ef1986d7a801cf5391aae9b319"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily I/Chapter 18",
+     "bytes": 1432,
+     "sha256": "b0a261ff5453209501263a0e031872725e9d0203d13736e06fad1a9b7871e40d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily I/Chapter 19",
+     "bytes": 1765,
+     "sha256": "81d3d1b68efd312aa250c499158df880717deec11096f3f4741bbb4822673768"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily I/Chapter 20",
+     "bytes": 2413,
+     "sha256": "bebb5a0f4e2bb3b7f4b00aa59afa8db4761997bb5177a5d6066d3ffa3782e7d1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily I/Chapter 21",
+     "bytes": 1951,
+     "sha256": "f67722a6566795f84dc7290a49ebd62ab80a716c02fb2b84a0d4e044b1596a3e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily I/Chapter 22",
+     "bytes": 1441,
+     "sha256": "7987bd29fa50d1133774281ff91219492b27b9f907552f22d991ae694e53a85c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 1",
+     "bytes": 1447,
+     "sha256": "901ccee64eba9db46801761536c86b6edea17fb373bf157b5d41479531b44b0b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 2",
+     "bytes": 1309,
+     "sha256": "f6cd96f649e5837d5f43ee5cd0bbff5d52d2c5c93dd75fd6a57de08b7c9a0467"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 3",
+     "bytes": 1058,
+     "sha256": "4d687ce15d5b05f3f9b0379542a907d3294278bf51b7a3c6f60e6e80dcf095e6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 4",
+     "bytes": 1038,
+     "sha256": "6a308114b0a765224d0c647b8b979b182f2deb474529e0e58e18551ec3e17b8d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 5",
+     "bytes": 1127,
+     "sha256": "aedf342c75ac2929cfb43890fc295d9b62eacd86b953975d9db3f41ff25fae32"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 6",
+     "bytes": 1636,
+     "sha256": "2fc409fea50910743255ffd3fb1c8cd1800b081074bf3e9c8c7210749d2eeb08"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 7",
+     "bytes": 1276,
+     "sha256": "8dce5e2bfe7980c4d48ce1c46ada8fc3fdfa5575f3009989f2049ff528775cff"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 8",
+     "bytes": 1366,
+     "sha256": "6082f593e53577cd66f4ed69e1c289fbd148497949b7351b806ae6b01a6b9fa9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 9",
+     "bytes": 893,
+     "sha256": "2b550f6e94e21ed2c168e9db966132f903864229c00504e6af29e0ee17dffce8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 10",
+     "bytes": 1376,
+     "sha256": "d5afe6536a54a7202a7f95b62dd17aa1d318985738c67ac23e72ad37d30ae54f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 11",
+     "bytes": 1133,
+     "sha256": "88533eb00d4a5f7e44c5d99488b19c363eda2240779a938a7c750ca38fa69aa5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 12",
+     "bytes": 792,
+     "sha256": "2f3a132b16f7dd1e24610f2c5ff2cb7e1434f5b136f9399fff856e244052c04e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 13",
+     "bytes": 1354,
+     "sha256": "517a6647641478faa215d08599cbed7d3213bcd2e5d004064051d771907f130b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 14",
+     "bytes": 1088,
+     "sha256": "175c952749e11c1e3944d92d0ea728ec78fcb7b362d04f20cde422ef1b56e987"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 15",
+     "bytes": 1841,
+     "sha256": "e1205a513e83b416b8fe1630d1563ba5b8b1ad7a66484841b02f79c95ba0feaf"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 16",
+     "bytes": 1578,
+     "sha256": "0e875c580058703dc5e16d2a261fb4b29a1ccd6a46c73c75451c5086264fbb37"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 17",
+     "bytes": 1762,
+     "sha256": "5d0018207ae4b29a8db7516b46cbb1bc255ae60840e83b0fe5b351e57742f70b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 18",
+     "bytes": 1157,
+     "sha256": "56feeb02765f20413d82851a6d8addd730e53776e18ce26a8bfdde3df71d2131"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 19",
+     "bytes": 1843,
+     "sha256": "95d1c8bba6e565b67078960c14d588ceafa849e8acc3f18d5515a2758152fc31"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 20",
+     "bytes": 1119,
+     "sha256": "02ccdb94f9ed7ca93a9a56f6f7a00eeaf06ffb31ed8c4aa984a8ea5fe1ceb532"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 21",
+     "bytes": 1056,
+     "sha256": "16f8d12dd8fc5357e0cef8a954da0a01ad89e18d9c807f5128be5ed30734af19"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 22",
+     "bytes": 2167,
+     "sha256": "22528473eefc01ea2e10da177566fd9f7d7246d4da584a86c2ff8219a70c8552"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 23",
+     "bytes": 1457,
+     "sha256": "1d8dfe9163f6bc72c0cf489cf819612a23257129c7884d37f2ad78e8a1de7702"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 24",
+     "bytes": 2051,
+     "sha256": "a659905d2d2ee8d1b0ddae4e08ca876ed3354c17c04ac7bc61028f6cd035868a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 25",
+     "bytes": 1451,
+     "sha256": "180447e775a345392f56411923a24d26780a33a2794056340116a9f4f1b79f50"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 26",
+     "bytes": 2008,
+     "sha256": "62ef9a96a6719cdba30006b274632ae8ceab757a9018a97731e62bbdf198d444"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 27",
+     "bytes": 1316,
+     "sha256": "f52af18e60ac3b53026a17f8e5ce0a26be4cc37fc813052e6f992726fcd2e2d9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 28",
+     "bytes": 1334,
+     "sha256": "20962854170fddca909eae5f50e5bb54e3b53214268b078c49be3f8c72033d17"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 29",
+     "bytes": 1664,
+     "sha256": "e833f75163c715cc19c66d1c3f023554b24e8f9d72bb9873f7506af7d102154c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 30",
+     "bytes": 1501,
+     "sha256": "4288a142df93cff9e7919349466654aa0745620cc6a6c325a9a7249ae3138ea4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 31",
+     "bytes": 1676,
+     "sha256": "67ae2403bb04e2578562f1baecdaea72334741beff9c4238cef1960fde674397"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 32",
+     "bytes": 1044,
+     "sha256": "2b21145a7ce9ebad893f282410f65f4c8ee2e4641c032d6f73c9e91d940a4188"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 33",
+     "bytes": 1887,
+     "sha256": "ae72d5897e300bf0df9ac4c3d62325eccdec5524bd805d34b64edb1b9600c53a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 34",
+     "bytes": 1108,
+     "sha256": "031df3e98fedbe8141c67bec7872479ec42155304d543957ee300fb7663f46b8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 35",
+     "bytes": 818,
+     "sha256": "62df950490bd833b0f9c3d4c7737b338f55cead4bd1b6d73e591049c993cfde0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 36",
+     "bytes": 1277,
+     "sha256": "8d8f10dbe03e9bec04fbb8eb636aedf50a090a777813209908a42c73beb0651c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 37",
+     "bytes": 1233,
+     "sha256": "a4cecbd4bda2319d262657b451c81ec2394a021b6ad14c2a0321021790c4b299"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 38",
+     "bytes": 1435,
+     "sha256": "399214781d32d72c5c90e1d33880d6ce5101c3af4f47a4e92270e771a9857375"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 39",
+     "bytes": 1466,
+     "sha256": "6d3b11f68978d71977d27c745574810fe6f3f78ea6a9037d036977cb60c0ae3a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 40",
+     "bytes": 1467,
+     "sha256": "6e628aa864ab4317e49769c6518beab92e8cf0a9773acef2a5b7cd10a5a51e5f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 41",
+     "bytes": 1438,
+     "sha256": "5ade37b33108fc3a0b9dd4dca4b860a7f53aebfbdf8594485574684af428259c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 42",
+     "bytes": 1204,
+     "sha256": "5482d8a42580ddb4270623da432b01270598173f556754e3984f6db56803bd5b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 43",
+     "bytes": 1196,
+     "sha256": "83599d184112c0c114608f48ddb2241b2c2dc2f3c60278720cfe760f25e497ec"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 44",
+     "bytes": 1519,
+     "sha256": "cd9d4ec35485698ac4321ee13cab8138f3f90726212de760cdc23d499c295253"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 45",
+     "bytes": 1425,
+     "sha256": "102ae7c5103463d4e788cac65257fdfc06fbb37ef2e3ddfc90e64e0914d1cfe6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 46",
+     "bytes": 699,
+     "sha256": "4415c99b22ae20658b242dae36d9836cca06af979e2aac73c388734b67dcb5e9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 47",
+     "bytes": 951,
+     "sha256": "dd2851734028e5bf6c8ef65de678a6f06b76a4c262d99caba5d87397fec9377d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 48",
+     "bytes": 897,
+     "sha256": "ac94d74dec02984aa19aa4aecfb06d156c283a02759f05347bc2d8ebef9fb9b1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 49",
+     "bytes": 903,
+     "sha256": "fb03bdb187837afac560646bca238610b228e20d91ab1fd7e5efa7738156fef5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 50",
+     "bytes": 1069,
+     "sha256": "ff9ca4dd3744224b7c0b5be1cf20da99a409058d67231887a4e3fe6254382e51"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 51",
+     "bytes": 1440,
+     "sha256": "f29033ddf1013a3cd0cd6e6f3af8f431fdb021cd8c2d40206bb790e1e194ea30"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 52",
+     "bytes": 1265,
+     "sha256": "f3dcc827708a9f0d7095ee2cc3bfde080edcf5c8fa6b004eea18548e32a87140"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily II/Chapter 53",
+     "bytes": 797,
+     "sha256": "d2d724b312e6489d5830990a93c4181d21aa0c90b98a58e010592c9cbeb061c7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 1",
+     "bytes": 909,
+     "sha256": "2d14641de5403f8f10f9c7d05bd00ef2b3c019b39cf013265c01177c9428b4a7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 2",
+     "bytes": 1122,
+     "sha256": "35892575a7a1aaa72eaaf54c168198009860523bac40d259894677ae08aa3b9a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 3",
+     "bytes": 1340,
+     "sha256": "d3bbbb11675c0df6aa34bb1f13bf1bf46cfa97256b9b4faf44e7be1dc8f91348"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 4",
+     "bytes": 1430,
+     "sha256": "6558feba3048c507232ecaf7d4338a764e58d120be7f83d8a9fa30d53c65cc7c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 5",
+     "bytes": 1402,
+     "sha256": "2588def727ba89396ee00760b6f26fbdcdaf094c92d8419c6890e9ccf464feed"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 6",
+     "bytes": 1622,
+     "sha256": "7bd0b1c7b1823256b671d0190d5504ae920a41e7454cf5ffe97fd2d6d5b6ab83"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 7",
+     "bytes": 937,
+     "sha256": "f2c36bb06e1ed7b7ef0351cd8bc186a1fc9760376ce07c10c62fcda41b749ec8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 8",
+     "bytes": 912,
+     "sha256": "29cf0d7c004f97aa382af8aac294d500fdf41c0808de12973d5d14a2da81c5f0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 9",
+     "bytes": 894,
+     "sha256": "e4807072c6590b5b1298fa76a2df32335f81205160a78a02d90ff17c253f734d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 10",
+     "bytes": 1221,
+     "sha256": "8721709dafbadbcb0f6aad106b563107acde6e9100902f932d306c17dd72bf58"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 11",
+     "bytes": 1045,
+     "sha256": "d7d6ad0ce77b3c8a281945050260dec8f8306780b06fedbb8289fe5b80f51a58"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 12",
+     "bytes": 1130,
+     "sha256": "0ad7a5f8d81066c7983bcbbb512d8d2e6d09a2658291ca45504eb5399e0122c2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 13",
+     "bytes": 1017,
+     "sha256": "05348a2542ef6cde52fd990cee646d861ece0a3eb622a5e6a56d2f9ab4be34eb"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 14",
+     "bytes": 998,
+     "sha256": "f99c504f702d69265d35e45fe4bc5de6185d966f63deab5fda6a6ebcaa60ea44"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 15",
+     "bytes": 1401,
+     "sha256": "a182bd288d3ce0b767ec37ceff029accd7c50dc80f08ad59e48627191e9be8b1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 16",
+     "bytes": 895,
+     "sha256": "c9fc1725c23bd72aba3ea1c78e21df6e8d7698725e6fbd7b35c7a15bdb2768ae"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 17",
+     "bytes": 1621,
+     "sha256": "b235c131c0e1293111b0029f62c3d8b96340aa1581e6d255b2aeacbc0d66b120"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 18",
+     "bytes": 1366,
+     "sha256": "b9d264249b0776a67c88a2f4c8b653ffbb095b3c87176cdc8bd1d013f2a790b2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 19",
+     "bytes": 1785,
+     "sha256": "fac83a4c37ca94c9893e0c4cb75ef749cdb07186a9642098a33c3d8b0cc9ee6f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 20",
+     "bytes": 1227,
+     "sha256": "94042a7db53bf4566d41410c07ac016a3b35a5c66abf8b18591c6e78886765a6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 21",
+     "bytes": 938,
+     "sha256": "ac0d5d057b023e3a2d4016d90eda9a8c8a14e385eb7b7359349519d287891094"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 22",
+     "bytes": 1091,
+     "sha256": "f25a7958eed954801ccc3d07cd332868fb0b812423be3431acc494c0e70b2eef"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 23",
+     "bytes": 1389,
+     "sha256": "f1437060997965ea4c1baa3be80981137a49b6f89f57e67f10fa64a4c80eaca1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 24",
+     "bytes": 1146,
+     "sha256": "baa77c6f10ebc4710be7794bbbf20055219d39ec87146d20276b35b7d7d4b3c8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 25",
+     "bytes": 1399,
+     "sha256": "323ddf08cc7a39d41724a1be504da6f9edae72274c1bafb4cc815eb7cd575dd4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 26",
+     "bytes": 1533,
+     "sha256": "bf6e1f41027ec9b25f60a0595bdc72bdaaa091e261a6516b5c9cfbae018ec820"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 27",
+     "bytes": 1070,
+     "sha256": "e4dedb5587a9d6731ac4cafb4715dfa729c6dfba24151bf627afcfff9ab4856e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 28",
+     "bytes": 1106,
+     "sha256": "d42f2f247af0a795152d955e51cf237879520c217a26f13e174785297e657003"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 29",
+     "bytes": 1397,
+     "sha256": "941d25e42536b0564794c9b6439e453b0c34c54bf21a2c1419ae926776797743"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 30",
+     "bytes": 1587,
+     "sha256": "9c73be6029593e2b4f1f51be5eade1c6cba3700a6ee23c2bbe3b1949faf45538"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 31",
+     "bytes": 1226,
+     "sha256": "e482b321d1e5023a3f71f617b13977766373c660f5b1408222305f27c78ee327"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 32",
+     "bytes": 791,
+     "sha256": "ee351d24196cd61e4f15ebcaa75389fc34ce8d9a8bb8f3f179badf1aea5bc1e5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 33",
+     "bytes": 1393,
+     "sha256": "f1c41987de7f4052a423a46f333b05966535bbcd1641d54d80c08982c733eba6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 34",
+     "bytes": 1104,
+     "sha256": "b19112355c57440170cfa6a29522cf4f1f43f8e14e1741a6e1d68e68984d57e8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 35",
+     "bytes": 1601,
+     "sha256": "fd5527505bab5d4eabf1d3f1aff85c7b5c1f308a65163cdcd16fef6c7322c739"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 36",
+     "bytes": 1367,
+     "sha256": "58992d2f3c6b68bbb3205a3b7ba10e2c17ab29f7fcd567f1ad67587911dd9d47"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 37",
+     "bytes": 1135,
+     "sha256": "bee25b4e16f1b4342035a985987dce985095bf66002f7529a3db02a5e6952c15"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 38",
+     "bytes": 1704,
+     "sha256": "e98cc6c04d216930c45fd3d7e1f400345b00f763e3d350d3380ce7a3673d3556"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 39",
+     "bytes": 2150,
+     "sha256": "03f749db6d67ba4e69e6f76145018481b31afe07fd4485bd6daa6d233306befc"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 40",
+     "bytes": 1361,
+     "sha256": "9fee9fc14feac5f6ca649657e31cec6b60fdcd6302c0da1cde0b22391cbf159f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 41",
+     "bytes": 1530,
+     "sha256": "a7e0037b4883d75a8258db01737c511ce53d3635f99ff8f024b033f573ac250d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 42",
+     "bytes": 2159,
+     "sha256": "7a9446a4dc4c185189e83f28b0abded8b67b4a1cab4ebbc215bd18f4388d4c13"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 43",
+     "bytes": 1637,
+     "sha256": "df4eff365e5d5725c9d825d2421311ba2c9788948ec0df3cb9cc1c6afb2d0d1b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 44",
+     "bytes": 876,
+     "sha256": "f8831c716c9338477759c03e9832cffcfd34c89f0034d3cc15f08d496241dd94"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 45",
+     "bytes": 1323,
+     "sha256": "5bea41c46e50857ad076b6b6cd4939140e53e6b42ab9c9d95dae23210ea10c55"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 46",
+     "bytes": 717,
+     "sha256": "9f7d46afcf48b579c6e251b54b21f22173d7600c28e6675f19d00ba53ec48b61"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 47",
+     "bytes": 1537,
+     "sha256": "a4a7d538f673bd624654478458c0403d1a438c75d26b81f55bf28bbd69d130c1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 48",
+     "bytes": 927,
+     "sha256": "bf333552befff7152ddf0aa26a3b203ad08085ae8bbe6250280237dcc9754488"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 49",
+     "bytes": 1280,
+     "sha256": "83823048b927f4afffeefe97352a60647c3adf0c1abe4fafea312ae7a88c1f22"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 50",
+     "bytes": 1724,
+     "sha256": "a92cbf8a13728581eb288e4645a8dd1cb3068c46fdad04ac24d9d7c4a16d34c1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 51",
+     "bytes": 1036,
+     "sha256": "c7811824cd8ac99f43dcb5c103ec9cc8dd81805360e753ee080794ece43824f9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 52",
+     "bytes": 1258,
+     "sha256": "2192ce9e37a2c5c3de73e895a3c91fb2a68ae77cce9a8b41e434443ea89009db"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 53",
+     "bytes": 1247,
+     "sha256": "ee0bb34da84a6667aa16bee360650cdbf8e30d73e276b15307adf1c3a1460ef3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 54",
+     "bytes": 1014,
+     "sha256": "057cceeace9560849d22a8307462fdc8f772097fb621d95ecd878b395df6cee2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 55",
+     "bytes": 1336,
+     "sha256": "08188f8886e1532f390082cb264b451201f375b014779d188e96b70f5e9fe29e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 56",
+     "bytes": 1264,
+     "sha256": "0ccf1b1db3459ae7c0e4ff31d806bbca09b7ae956bb44805f99f55e8512b47b4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 57",
+     "bytes": 976,
+     "sha256": "72c6699ae47633d472034fc9b56c56548664af60d36203a829bf7f3041f0dd05"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 58",
+     "bytes": 1302,
+     "sha256": "4b898f48fee6e5fadbc162523c88bdeb167388304befa7ee84ae6fad54c76cd4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 59",
+     "bytes": 1479,
+     "sha256": "6f80a6da6a78c18e34462d7b2958bc813e302de5d8db647cbc101c95545f16f5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 60",
+     "bytes": 1270,
+     "sha256": "ef7b89d9c7f216a81e4b1b50bdc1ba7b4135928cc60e152a1576a2e969189317"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 61",
+     "bytes": 1359,
+     "sha256": "7b4b57c37f2f739dd9cca6b9bcf18fb53aa694260c7e6002de9dee917d6683ba"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 62",
+     "bytes": 1085,
+     "sha256": "636f94aec578505686beb86c9af3ccd953289e9caf95d9c9545b3b3696e7fc7e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 63",
+     "bytes": 1112,
+     "sha256": "31d386137649d5b0c24d67210cfc567f50ea5db55d4bbc67113cb5051915b47b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 64",
+     "bytes": 1634,
+     "sha256": "3154cba5b84e075dd7479086af6bd0a108f9438386faba980ab11fe4a65460ff"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 65",
+     "bytes": 1213,
+     "sha256": "8c1dc277260fea05a9e5db9a86f2cd682616289387989c23ed0dcbb5c6858cfc"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 66",
+     "bytes": 939,
+     "sha256": "215cb5e630264d8ca773bf5aad855248d8171971dbf8d305049525320098dc51"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 67",
+     "bytes": 982,
+     "sha256": "5f0c8927473fe4a25c2c5fab33c2bd2d2293666d87a587cf525b59959c806eb3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 68",
+     "bytes": 1181,
+     "sha256": "7094ebdf1e40ded8c47485e9b937cff5299b391eeb4e8b6460edd0df9751df57"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 69",
+     "bytes": 1624,
+     "sha256": "b94fb36d39c9836bdd42de89552bd165357e2e12c4ee98e037d2d69e34751144"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 70",
+     "bytes": 1131,
+     "sha256": "f712a9d703f236c675e221c04040d814edbaa2a4a7bc6c6b143daa138a68f325"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 71",
+     "bytes": 1671,
+     "sha256": "748b2708895874c86b86603cd4be5ddb5c028e96298680e021ea06b43e97efb4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 72",
+     "bytes": 1284,
+     "sha256": "2aa9df0a6f092d885a5ba7607c86cc17ecc18e0d5fca66552b2d27826eb4db58"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily III/Chapter 73",
+     "bytes": 1172,
+     "sha256": "d5fe7beba53bd4cd2dea51cf51f6746b86269d9a36469850d5ac835121f479d2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 1",
+     "bytes": 1710,
+     "sha256": "f170dbaa42846daea834e2b1bec519730e37a409211b9067a0bc8addb887845b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 2",
+     "bytes": 1011,
+     "sha256": "1f317fde7afa28e154a41b112e45c506c8ac712d8f3a1bf336b97a7ff3880b5b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 3",
+     "bytes": 889,
+     "sha256": "8f6f4400d455968b5f3c4a5a100c16b88e88cc86532d11ae512cc00de5e9a593"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 4",
+     "bytes": 1180,
+     "sha256": "b883a7abe56139bc5e5a20055e39d669028e5d3e6db7df7feb9b4a032abfd967"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 5",
+     "bytes": 960,
+     "sha256": "c3a69ba71282416e5b0ab3018fe68c7842167cf2c889ec1da1b967307067f047"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 6",
+     "bytes": 1937,
+     "sha256": "582d19204004eb35a4aba7547d92d6b320ab94c64695f94b51024b741dd070c1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 7",
+     "bytes": 1124,
+     "sha256": "3976538e8089778b658117502a29166c0c8281fb69e84e2cfebb63686fa31073"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 8",
+     "bytes": 2235,
+     "sha256": "eb4b414fc03c2105dadfbe9b2e7956c2815839ed97b50f15010feefe44ee17a8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 9",
+     "bytes": 1053,
+     "sha256": "4bec133fdb70989349fb1f1b29a99d9f22cdee3197c590e80ffc140605ccb2c9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 10",
+     "bytes": 1381,
+     "sha256": "d173bcc5536d08f1851d5032f53eee04096877bd2107d101723c3e992d2ef831"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 11",
+     "bytes": 1003,
+     "sha256": "65d077cd0b8ca64bfeb9d5e926cf0b53d2946c1f3e5f29720b8eb7132b27ce82"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 12",
+     "bytes": 1469,
+     "sha256": "d9eac959f89201c66edad0a4e28a98596869955f64491c649a0763574b6c2300"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 13",
+     "bytes": 1248,
+     "sha256": "46dff9edf959a0051383ebab473e80b5ab288f095687b5f252e1707599775402"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 14",
+     "bytes": 756,
+     "sha256": "d1991dde725d942a9e37d4f4e06a9c83fa0d402a6dedc506799d47a4dbaf2d57"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 15",
+     "bytes": 1154,
+     "sha256": "507ca4ea3c984a0e3b6d979daca247d6be57620c8628a8209428214f3191fdc3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 16",
+     "bytes": 1916,
+     "sha256": "f67013ebcaddb55e7bd9246b8c8c3b96b54be0f4401e08d76beed27a95342d10"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 17",
+     "bytes": 860,
+     "sha256": "36c29842fb1d94524fec56cf0e16582375e555ba0e273c569fc974e32526a8c9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 18",
+     "bytes": 1266,
+     "sha256": "5ba694be6a67426ebd7503b650f9abdb7a9837a3ffaaa1344d6afca8a975d338"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 19",
+     "bytes": 1149,
+     "sha256": "0bd661f3a921bcfe1c4ceab75fc488c54b4477d8c98aba389c67dc5dad72fada"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 20",
+     "bytes": 1392,
+     "sha256": "195906bad53ff0313fc39ccb2d21de2ec9c5cf06736ae92458d6da16e0023b86"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 21",
+     "bytes": 1722,
+     "sha256": "aa1858f4e780913423dfbeb2c6763f8bba67c5221a961b2313a0c69604c87822"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 22",
+     "bytes": 862,
+     "sha256": "66abeabc06f45ee03fe5b1f8ce859f643b673fd3ef2d0701eb8d067ecbc82054"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 23",
+     "bytes": 1413,
+     "sha256": "72a45d1ea1bfff85a71373e6d1ace20c2dbec33fdcebc8ff34106651921274a3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 24",
+     "bytes": 1863,
+     "sha256": "4cdabb3e8eb0029c680cbc68bbab0a73c36d29a82adcc4f27863c10f0e107e92"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IV/Chapter 25",
+     "bytes": 978,
+     "sha256": "2a664e03d68379bee60baa1a1d2372649a76dee8b25b12319e53be7dcd0ab4cf"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 1",
+     "bytes": 1098,
+     "sha256": "e00a4d5af1d3f01b7e27b34c7777abfc581d19de71d3aa7ff557de5552654f7e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 2",
+     "bytes": 1645,
+     "sha256": "c186508591d8844941c6ff1fef04d71eecb9e15c2c34cdf6df6d73d5318bb883"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 3",
+     "bytes": 1589,
+     "sha256": "d514921f2a2e83d1150a6512a70ad02217a60578a50f0d0bd52ff47aeb7c77c9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 4",
+     "bytes": 993,
+     "sha256": "f4d1143705531f28def9be79f990d1b497d425b475f907478b8af772bb6c052e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 5",
+     "bytes": 1407,
+     "sha256": "3eb83f8f4d07af8607416252e1b5bff269829ffa6d3426f74c2e1cdeb481445f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 6",
+     "bytes": 1123,
+     "sha256": "e309ff118496ecd4dcae3aaf43df216fab8b83fae0e0f32544bd608025ba9524"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 7",
+     "bytes": 1143,
+     "sha256": "980bb7ab7bbc9c648fe8ec722cb17a3cee6f01de62605be8c7c3b9fed7e84f44"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 8",
+     "bytes": 1467,
+     "sha256": "f4831c37d151f7920274ea3df0f9e38c4275106cc2ac23e18a6620fa472f7a02"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 9",
+     "bytes": 1578,
+     "sha256": "6002e7556477fe89750d66ac0636e97504c771e5db76f4bacfabae95d8542034"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 10",
+     "bytes": 1631,
+     "sha256": "bae5de35cbc97d1b3d65955305ddddd73081c0963cd954b58577bc86bf7239eb"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 11",
+     "bytes": 1569,
+     "sha256": "b06fd0867edb86989a8fdc5c67ed9adc7ff34f089d79d95c131532e185641c74"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 12",
+     "bytes": 1467,
+     "sha256": "ffd2eea8f6b80c35f7ab7a4d4f22aef69942801847750b0461dcfe2312332b5d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 13",
+     "bytes": 1986,
+     "sha256": "4491d044cb17f586e7138e5dc77aa6574e2b7a78962be2978e7d891f188945e4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 14",
+     "bytes": 1049,
+     "sha256": "3cf4868da0492bc3d0991f63d7ec680bdba88c112213ddf1e88b29149021c588"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 15",
+     "bytes": 1181,
+     "sha256": "232515c7d44e0b51ada603812c52586dff9919e72ae96fd3da767d778606df4d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 16",
+     "bytes": 996,
+     "sha256": "01eb76a80a3d7d08c563c3b4388e28b7edb7547023b13c28fafc54d6da3d6388"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 17",
+     "bytes": 1643,
+     "sha256": "64dbbcb372b86c06e0f4b0b4cd6ed1bfbf6633a7f6aa88d3c68b088f6b4e8aa4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 18",
+     "bytes": 1688,
+     "sha256": "a63ca7969609214a70bfdb5ff2bc692c3864f954988fb5e255236b6192227995"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 19",
+     "bytes": 1298,
+     "sha256": "a5f0f71175747b421320d3469258eaa657bb5bdab813103905de339c839d993d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 20",
+     "bytes": 588,
+     "sha256": "ef59cd5f025017fd41d56c6f8903fc8500f1a64738bf9d756777d7c07747fcd1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 21",
+     "bytes": 1698,
+     "sha256": "f45f323c892e236846783695887dba848766564bb1be4f895628524f844db6d3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 22",
+     "bytes": 1243,
+     "sha256": "c6ebf94a436f72aa699f003cb15da1d551b6050f5621439fc7028f6b9af7eef1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 23",
+     "bytes": 1446,
+     "sha256": "82ee76e5c5329e2d7ca8967f17f662935f12321582f39751264272eca840e136"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 24",
+     "bytes": 1482,
+     "sha256": "abad9331750e8c2d1e6416968ceaa13165000fb8328535738d81dfbf24fdd9ad"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 25",
+     "bytes": 1064,
+     "sha256": "883286962a66c016fb227de986cd4ba2804ff3de19545509cc7ab2bb9fb56403"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 26",
+     "bytes": 1147,
+     "sha256": "9d401b57c0d3bfa1f945ba0d2bf714de5d98293e06108070fa066eea7192e317"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 27",
+     "bytes": 810,
+     "sha256": "a8752cf03030ad2f9a84437b61f07a5f3050492f3246f4f536abef215fd2875e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 28",
+     "bytes": 908,
+     "sha256": "974c8ac1f6c28d8e92d2a642b31dd488e406cab8a448ecf331cfa8eefcfef194"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 29",
+     "bytes": 989,
+     "sha256": "34c9177d6d379146903eac909f7c0dc7f43da0626bd3d7d03ba0cd1ad3260a04"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily V/Chapter 30",
+     "bytes": 869,
+     "sha256": "accebb04bd2e489f1e475878c5e245b23be0ae7abcc49132eeef5198b1f52825"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 1",
+     "bytes": 1380,
+     "sha256": "093aa9ea7efc8337db73c855905a91bbb35677efb5eadf4f492ad40f9f067f14"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 2",
+     "bytes": 4110,
+     "sha256": "2830078997cb31ec1111a3aec85de584d73ddd980d64f47034dd2506c5a8d9b3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 3",
+     "bytes": 1737,
+     "sha256": "85984d4fdec16cc593b0a0b1b37aa00904710fcbccef6b9466978b7d4d1ee635"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 4",
+     "bytes": 2134,
+     "sha256": "635b2a943623b4d3f8ff67f5bebd62004770cc20bc6be63e4461a2b633a8989b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 5",
+     "bytes": 1602,
+     "sha256": "64be5d4a454669b5080f799ae995a29fcf598ad088f802caa4ee5018dcb23bc5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 6",
+     "bytes": 1684,
+     "sha256": "e0cc91e4b8b2f96a929b8d030d0365c14696ec2222c6ee423229482070b6de22"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 7",
+     "bytes": 1362,
+     "sha256": "767863612ed0964a162807e02bf4c8624e792f5d2f3b5eec0024645d526e798c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 8",
+     "bytes": 1282,
+     "sha256": "6f8154787e71d5f38c871c96550090582bf98ff16fdd460f2e919d4561382013"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 9",
+     "bytes": 1275,
+     "sha256": "6f67ad7b3caca32e14b26366704b5fce68a016eaf690c13b99f91759c347d9be"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 10",
+     "bytes": 1084,
+     "sha256": "3843cb856ff39675d6d5cdb8427209e7d649a28b74c1a87fe271787374a0bd47"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 11",
+     "bytes": 1075,
+     "sha256": "e81d1c2cb8034c5cb79eb434e59da750bad53654cd582a477251766fd41a652d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 12",
+     "bytes": 1558,
+     "sha256": "6ca19b893d900502987f3ade8005d75da8043ba16b7301e3ffc0465d2f9a1395"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 13",
+     "bytes": 975,
+     "sha256": "9bc8a4237d4ce07cc95ca046a8a2778c0887003709c9cc81ef5104ef8a14a4e4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 14",
+     "bytes": 1864,
+     "sha256": "e394a35442ad96db04e969ed9b588be88014c4c45321cf6e72f1e572fa71edae"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 15",
+     "bytes": 1488,
+     "sha256": "27545ab912e72cfba63e2d0761dd7b28f55415a21cb89918c5e9d5c4d87d2c68"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 16",
+     "bytes": 846,
+     "sha256": "d3674c294487b0d4f06407dcaacf548fa6529e4de351279878b372f5120fc929"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 17",
+     "bytes": 1310,
+     "sha256": "21d5c81a64a040c95d19f8bbf12f8430cc69ac3874f5b708702ebffe7b4c5c7e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 18",
+     "bytes": 1873,
+     "sha256": "a0a99e911b10ade137c28924c45da853d83901a13850c274e25396c3db65f6fc"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 19",
+     "bytes": 1405,
+     "sha256": "876d3ec7ff77f9a9ccf59009fa8b3b4ea874515beb249b1e3ca138dc371fb6a7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 20",
+     "bytes": 1146,
+     "sha256": "447eb7201a2209cb6555815de701fc337d7864ac430a770d22a2fb150573b9b3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 21",
+     "bytes": 1166,
+     "sha256": "0edc8909b9060b6cc309905f03c26ff1994b8476d3ded1175504835b95477b80"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 22",
+     "bytes": 1116,
+     "sha256": "7b605f84e5fa434f90a5aa0a765356ed920fa7893390b1e628244c1a05bdd8b8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 23",
+     "bytes": 1465,
+     "sha256": "8870a7ff5b1e514d27107164933949a41fa72bec2ce7fcc996f7f8f51092b7ef"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 24",
+     "bytes": 1437,
+     "sha256": "d19c84ab4c5a6058b0a0ae3a5fa1ac160317893eaf28afdd66a6cb451c8bd4e8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 25",
+     "bytes": 1263,
+     "sha256": "5579b827b8728cc1bd653e982c5ebea949b26ba5f69c3a41440e48f9f3922dc0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VI/Chapter 26",
+     "bytes": 1465,
+     "sha256": "219d87ad2da82a89cdf0e4fd70c5b18877e4cb4f385f77261e97366781f49114"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VII/Chapter 1",
+     "bytes": 880,
+     "sha256": "025974e466cb469564a2c7b3bdf3734f2b2975b32fdad25546098712016d1a50"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VII/Chapter 2",
+     "bytes": 1266,
+     "sha256": "914e90574281fa748716e38d5e0c09f0ac35aaea504f4dc066b99165ce4ecd10"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VII/Chapter 3",
+     "bytes": 1600,
+     "sha256": "0e324114a5e81671ec8b7657d4014b355ea76bc469437a00132305a3ab312b6f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VII/Chapter 4",
+     "bytes": 2006,
+     "sha256": "a6ee118d21034213da05c660c9dd331759da36e0388f6e2115ebcdede3ff5a9e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VII/Chapter 5",
+     "bytes": 1354,
+     "sha256": "d4023ea518b2d6b648af0009b45d7c873b022899819076fda62f61f9a976b5d5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VII/Chapter 6",
+     "bytes": 1054,
+     "sha256": "577f9aa1057b092cd438a382c9596cb0a1b46736f969f1935f46118c56d75ea0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VII/Chapter 7",
+     "bytes": 2082,
+     "sha256": "eaadbc9c27d0ef9d86b599bbc07e3736fa04fed0358b92172f972781912c4cab"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VII/Chapter 8",
+     "bytes": 1483,
+     "sha256": "4170d245ce1242679bffe42ecacd85333c6bf47c339bf916a5793e269b0cc860"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VII/Chapter 9",
+     "bytes": 1284,
+     "sha256": "303b1b4d4bd28624019909908d2536d544e6a0d1ccab8e7bdd4a29517c2b4911"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VII/Chapter 10",
+     "bytes": 899,
+     "sha256": "ead7c31d658f7d66400357e3109d299c43193369e70707de625f60ea7cdc7844"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VII/Chapter 11",
+     "bytes": 1458,
+     "sha256": "91b9097a5b7aed257fd1bf9706031e0b697b620a11f870edde3127d2a5589f5a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VII/Chapter 12",
+     "bytes": 1083,
+     "sha256": "f2a6e926659e7f3cabccfe6a7b0704287621b1dfd05bf1bd54fab4429bb66781"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VIII/Chapter 1",
+     "bytes": 1406,
+     "sha256": "f35be159a47418b5e4302d43a3da58d274e7c77adad3acbdb06b5057eb05815b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VIII/Chapter 2",
+     "bytes": 1305,
+     "sha256": "d2e3f75b3564da81d175af003d3b9480c7541f0da614ef89d46f3099ffd95b83"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VIII/Chapter 3",
+     "bytes": 1876,
+     "sha256": "4f4fec8dc124fd464239fe777204d74947b3ed0c9a8cf082610593ea6cabc78c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VIII/Chapter 4",
+     "bytes": 1365,
+     "sha256": "c1a0bc9a8535685f39a0e6224f59e49688e49fa75522de09274fa9559bb2dfee"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VIII/Chapter 5",
+     "bytes": 1262,
+     "sha256": "cd2389a921aa247803050db9d0709e3f13198ea2613b4d874b394b93508ba7f1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VIII/Chapter 6",
+     "bytes": 1129,
+     "sha256": "6d6062d1e2294450dde07a045d63655b90ffc6481bd2dbe1f4b76bfbff58c917"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VIII/Chapter 7",
+     "bytes": 1473,
+     "sha256": "903266ce0844fdacbaa9c71ccfd925e15cd33c72ed167e10451167cc53aeb00a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VIII/Chapter 8",
+     "bytes": 1370,
+     "sha256": "9f7c00651681e4a8e634158ad90d640070c95cba2a1339dd3fb3da6260089b3e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VIII/Chapter 9",
+     "bytes": 1167,
+     "sha256": "3b13c5bc30628d6fac426e0bae6a338981e3d487ad55aedea34cb348e5f92135"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VIII/Chapter 10",
+     "bytes": 1446,
+     "sha256": "ed6e6cb1afdebc13bbd6fdcef72fd8670a2d6b2fae4d07b621529ebe126a2311"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VIII/Chapter 11",
+     "bytes": 1311,
+     "sha256": "a3e3571dfcaff0d13a437e94e9a3e1fabf64c22d0d0d8b020164a47141388357"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VIII/Chapter 12",
+     "bytes": 1642,
+     "sha256": "aaf3d5d42b585048bfb7d481c0ffb59f6f0b16aa97137d455ca168cf9e2594dd"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VIII/Chapter 13",
+     "bytes": 1561,
+     "sha256": "4cf58b453469f2f77331f718120ee8f5b86500c0b6bd7b10ecb66582983d754a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VIII/Chapter 14",
+     "bytes": 1325,
+     "sha256": "5d62feb7b2ee807c31a59559662a1ebe2001ca9c4354eb476b43120cd07d6339"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VIII/Chapter 15",
+     "bytes": 1365,
+     "sha256": "be5c53f6445653c3089ea687882bd5f3208d5ff6ec25f6102509be070eb323db"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VIII/Chapter 16",
+     "bytes": 771,
+     "sha256": "3bc325e94113701057d824ddfb2901d83cbe34247a4121939b9b13aad845b05a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VIII/Chapter 17",
+     "bytes": 1365,
+     "sha256": "50418f5fb1dde68692d3cfd0ba7abe3a33e7220caced69c60c504acf6c6bee97"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VIII/Chapter 18",
+     "bytes": 932,
+     "sha256": "e02ea92420bd226e12dc6c7e381d59db67578c4b403a376a59c800fa48af4abb"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VIII/Chapter 19",
+     "bytes": 1651,
+     "sha256": "49a25dbd9fa0510459a411523922403d176cee5b2a1f2a11b2116a7edd88fb09"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VIII/Chapter 20",
+     "bytes": 1673,
+     "sha256": "23e7d319eb854e38c503b74bb14fd6f06b3f33c103c3ee997d34d037bf4bfd11"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VIII/Chapter 21",
+     "bytes": 1682,
+     "sha256": "a09ca4f4fa54474287dd7c972369be9b83f75df2b4f3e74802aac25d57440c0d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VIII/Chapter 22",
+     "bytes": 1603,
+     "sha256": "ee604f95af0d00fd3fbb5add03b729f105a712c97ecaf9fe298ad34a9c06bb37"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VIII/Chapter 23",
+     "bytes": 1284,
+     "sha256": "183773dbd53e08008d005101f8ed29fd0b7991c4b4b0d21cd02b9ce4c7b9b89e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily VIII/Chapter 24",
+     "bytes": 1016,
+     "sha256": "087c2ccbb3e56f797992cb2fa8a1a1c13a9b19f6322caf60fa84dccb71e36aa5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IX/Chapter 1",
+     "bytes": 1081,
+     "sha256": "36326d3c397ec9fb3b3a18c40d15f65646656189e33bd2b67c7492625d3c2fee"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IX/Chapter 2",
+     "bytes": 1273,
+     "sha256": "7b7796d79d373b78c2a14725c90d6b50022dcdabb16169315fbe22a37116ab6e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IX/Chapter 3",
+     "bytes": 1136,
+     "sha256": "33d1adffd21da3d4e997f583afc055c246efa85f4ebc8ecb045367d5974f5fa5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IX/Chapter 4",
+     "bytes": 1102,
+     "sha256": "294f9ff6d9f27a196682246ad2186794edea160ac2c509bdc93397d3ba8bbb6a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IX/Chapter 5",
+     "bytes": 1480,
+     "sha256": "e0ed3a279eec374a79336fc7fd25b118ebdab3e6c93fe35c252afd1ee6f7ebac"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IX/Chapter 6",
+     "bytes": 1206,
+     "sha256": "a3b17d4ab70ceba900867d7e8abcfab2f7651b405d1aab53e6d07ac4fedecc36"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IX/Chapter 7",
+     "bytes": 1158,
+     "sha256": "e25b4abb5ed5027b406a11c32974c83359fcf4d98e3293c75db4cb963371ccdb"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IX/Chapter 8",
+     "bytes": 1123,
+     "sha256": "2a212688733c99776f75563ca81b08e295ad781a6fd7e19673dc7347113da7ac"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IX/Chapter 9",
+     "bytes": 1525,
+     "sha256": "03b17720757774b8996a2002f62d5db08213b2613585ed3ae54f316f860d20ba"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IX/Chapter 10",
+     "bytes": 1828,
+     "sha256": "e8dd37ac4c736f968ebe313fa544cd5da2bc01f4ac454d49937b59d83bf053e0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IX/Chapter 11",
+     "bytes": 1322,
+     "sha256": "7ebc8183e44636c819df4095bb04c4d89e8aacb4b3207facc7a09d7c37fd6b0f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IX/Chapter 12",
+     "bytes": 1361,
+     "sha256": "94cd0d039cee8697cbb3bcb1eacda29e323893956014b4aaefd5295ceebacdc0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IX/Chapter 13",
+     "bytes": 1401,
+     "sha256": "e415ebe3b39420ab378bd6db4246508dae36a8ab7930351166c1ed680e6d5e9b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IX/Chapter 14",
+     "bytes": 1350,
+     "sha256": "16525f1a5696eadaa9f58bc83de408bcbbf11933677d5273b72d35fbd6b6d5ec"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IX/Chapter 15",
+     "bytes": 1857,
+     "sha256": "f68d0ef286397699c2e38db86d085a559166db58c6580f95f92f58aa53828b9c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IX/Chapter 16",
+     "bytes": 1524,
+     "sha256": "1eec0b337573469d72c61dfa610b374f8b643c06491f12b754d29861a4481fa2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IX/Chapter 17",
+     "bytes": 1431,
+     "sha256": "0012cd79c5d30b92e366d83b9156afc409d182162054df07905ad6fb56c92dbb"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IX/Chapter 18",
+     "bytes": 1087,
+     "sha256": "40b80768103b30987df5880f6edf6315fe8ce433434b562425603997ef336b55"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IX/Chapter 19",
+     "bytes": 1915,
+     "sha256": "31512d7c1754e87ed0cc096179d66d22763ea619eb547adbad3856bac3efc55b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IX/Chapter 20",
+     "bytes": 812,
+     "sha256": "e93ea6385774801a9814b33c2384374f21d2da3c6ab53e84e3ae627493395675"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IX/Chapter 21",
+     "bytes": 1538,
+     "sha256": "dfe82d3d80375047f106e77e6479f62d0cfb7a6ac464af189c8113668799f541"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IX/Chapter 22",
+     "bytes": 1552,
+     "sha256": "d1303303fc636933aaf196db6bddb0a1c2ac4e6cd80606b92c604a872f62861f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily IX/Chapter 23",
+     "bytes": 1366,
+     "sha256": "0ea95b5c80b7b41e11afd61e72a3f3e782d3fb52775fa483299277f94ae16cea"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 1",
+     "bytes": 902,
+     "sha256": "a42ecedb1a3000cf53ac48a416f93ae3d58cf0e94922f93689a887580efcd6de"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 2",
+     "bytes": 1414,
+     "sha256": "b64c581206e5e00681f3dd1dfe6a1be9a3d320af1acc8df93bef131ebb415d65"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 3",
+     "bytes": 1308,
+     "sha256": "7e84e557007ad36ef5e5ced6e172e979fb788e20b3a2173ead78a56bca8c2d7c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 4",
+     "bytes": 1296,
+     "sha256": "e158d5e652a21bb7bf6ffe2978c911b09f9ef3521e600612daf194f25d8e4ee1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 5",
+     "bytes": 1178,
+     "sha256": "6b52a5add68c1a617526b44edd27e25c4a6aa34be63ea737c62f8b5a750ce096"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 6",
+     "bytes": 1178,
+     "sha256": "5e33880a5144862cf55ec078bf43a0a4c945beb3d40fbb86baae5f1a23367423"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 7",
+     "bytes": 1169,
+     "sha256": "99d7724b1b6d1cba358a3d98fce1df721d0e441dd64f7839d624204251e307ab"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 8",
+     "bytes": 1502,
+     "sha256": "4db61cce18f7ff23f383a706d9c7aa6296599e92df0f9693ddd5de7bce6e9c9b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 9",
+     "bytes": 1969,
+     "sha256": "de921959e3fb44fdf5284b9653bccf51127a055eb1370fd7706caf9d66813f58"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 10",
+     "bytes": 994,
+     "sha256": "9ce41d1574eda789e9128912f56f37a9b4f5fd505a23f234e08b1832e208aebf"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 11",
+     "bytes": 824,
+     "sha256": "9bb90cc6e8a0647bbed8c67a02afaefa0b86fb7915d20644f6406362b494dbb3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 12",
+     "bytes": 1140,
+     "sha256": "61f8bcffd48c43010248cbd58b110225229dde880925bb6fdc099d558733276a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 13",
+     "bytes": 1079,
+     "sha256": "44a51cf6e77c62272f7f1ee1d36867f1bb0d8ec0ef179cc368e8e8ffd3b47f25"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 14",
+     "bytes": 1156,
+     "sha256": "0cfd4b71f63d2846d26d01da99d1dd04b50c4555cf24d78521e8b26f741ae35e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 15",
+     "bytes": 1486,
+     "sha256": "8033208f632ee7fcc690217facc1695f6c4ff185619a671790f80fdd5970a38a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 16",
+     "bytes": 1038,
+     "sha256": "bf9977875660c1fc9209ee80393c8597c6b921a48bfed5cf5134e71e897e2215"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 17",
+     "bytes": 1344,
+     "sha256": "cad9c545b55e5012df2f393140c40c8f37eb0916807bdc24b6d2b319ae581736"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 18",
+     "bytes": 1559,
+     "sha256": "7c0b86686a55e2d58b888f9c7026c8b3c5ac52f31da4fde997d13cb8a268f1f1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 19",
+     "bytes": 1315,
+     "sha256": "8992cad2963e7b5e84088867862031001b848ba70bd8e55c7a3b5c0cf03d1c12"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 20",
+     "bytes": 929,
+     "sha256": "9a7d391432fbb928b92da77f01d3d80337159f7323eee2fed3e45e7c91669578"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 21",
+     "bytes": 1383,
+     "sha256": "142227f463a97e0c78ac89bfb7a3bc2006f40988094fbbf37b8e74f13565c155"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 22",
+     "bytes": 1409,
+     "sha256": "86f48e882d580036e02db0a66967529c01fdde07e2eaa23e24c5ba837f7fd432"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 23",
+     "bytes": 1182,
+     "sha256": "4b9a30190f8ab127fcdd913bd8a379a8332eec0720305e5cc393daeb14437da4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 24",
+     "bytes": 1087,
+     "sha256": "c675660806fb6f071c3af7dce91a0e5f3669e60013175071e00cab98f754a356"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 25",
+     "bytes": 1272,
+     "sha256": "27d474eec145e12220816e6ef50bda68b2c09d6f200180a293626b24b0e8e405"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily X/Chapter 26",
+     "bytes": 1403,
+     "sha256": "430d7145ea8bd9c94e77962592dce8c4fc7f81b5a327e59ab9b5f5b476e60eb6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 1",
+     "bytes": 816,
+     "sha256": "5f4113f23a2c17f3d2afe1e0d1b6105a1be7ee8b275fd782fb29e028592e2991"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 2",
+     "bytes": 1412,
+     "sha256": "641eaf6f0f4188166fdc64434e4fc66acc4f4746c24f4bf709de926509670bca"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 3",
+     "bytes": 1137,
+     "sha256": "5d808b6b5cc5d1536625ed146a8eef7b99cf8ad38ce14c66698955a913cf9eb4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 4",
+     "bytes": 1659,
+     "sha256": "6825049518d7904aad6c4a459b1bd4c95a79b4951491249e87e3dc1174d1d199"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 5",
+     "bytes": 1107,
+     "sha256": "a0b799bc7e3bb85c3af00890d053ecfabb2757bfab0d25f2c738c1ccb34899d4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 6",
+     "bytes": 1582,
+     "sha256": "fec812de5cd7c5fa763448b39e2c4fcbc27203af2f3371b4f2cbfd511df9f163"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 7",
+     "bytes": 941,
+     "sha256": "139fb44a06798b8e5204622903d5668e930ad8d21c13125730332770b300e1c5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 8",
+     "bytes": 1675,
+     "sha256": "28ad8068a69fbddd250df5c62ef8916233996834d7a2941bc787f22380fe3317"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 9",
+     "bytes": 1983,
+     "sha256": "42a97b0e37379c6a8ab1c309214ff3caa121e4d3422187490bf0b1538f55a995"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 10",
+     "bytes": 1559,
+     "sha256": "fdfc750af987c724f8de3907f3905a03715494b340f616e5e167dc62de6fb4cf"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 11",
+     "bytes": 1487,
+     "sha256": "b195c54652e819493ebd32093f3f8fcdfa77aa1c1f2c48d262f54d2340ce68d4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 12",
+     "bytes": 1758,
+     "sha256": "f50eb0ecd0c6e2a46690a690a7a49b77444802c9f7d6bca5fb1690542296fec0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 13",
+     "bytes": 1459,
+     "sha256": "26f10e53871492256af5c86ca652366a7c3a57944fd60c5cfc9826ab4825b1e7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 14",
+     "bytes": 1010,
+     "sha256": "e778c9e49479e4fd687f1d09c4357cea0c50d28a9e92c2510d468a45244f8972"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 15",
+     "bytes": 2363,
+     "sha256": "621733eee422d96359cf2835a0e8993806ec7206a3b274f174dc1e7fc5eabcb9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 16",
+     "bytes": 2003,
+     "sha256": "5bca7610209351f5964d1a1287c348adc26f5ceb7b376586aeca4c0890d06a32"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 17",
+     "bytes": 1342,
+     "sha256": "b75acbcaa700a618689df72c3f89f1a4da797162b21c0c4fccc6c41193dfd6ad"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 18",
+     "bytes": 1149,
+     "sha256": "175c1062abb7fbd5cba3495ad7904c411c48193939cab1403c1db129ae08edde"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 19",
+     "bytes": 1313,
+     "sha256": "ad9b6bf4bfff828971b05a79afb664d2144e3aef2ab4a71a5b23e6d98610e894"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 20",
+     "bytes": 1903,
+     "sha256": "2d821319894b6e63453f1c17f05c5e5fdb427f32ff471ffa619217e4e08e362c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 21",
+     "bytes": 1212,
+     "sha256": "f01854f8aaa893c3d0ca59d6bcf14acc4a926791d122e77155b62a28e0744c37"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 22",
+     "bytes": 1232,
+     "sha256": "d8353b7c5fc01f373f233c938f64e34ef0c2e6e6c6eb786f96764558c24367e8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 23",
+     "bytes": 1242,
+     "sha256": "13ac95e47278f961b795068f02fe72a31591005730dcab7ecc84be03e6a92ec9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 24",
+     "bytes": 801,
+     "sha256": "af0429262f733363fd139ede38277c2ee9d604aa6f82187dd0eec7bbcb7e3508"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 25",
+     "bytes": 1065,
+     "sha256": "a5f3e018a777ad44d54a659125350cb39e86b3af592671b1fa624373fb7e73e1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 26",
+     "bytes": 1592,
+     "sha256": "d6425b8ae64083cacde81bebf25a23161c8b9ceba69ac5fe7aef9f85189e1bc5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 27",
+     "bytes": 1270,
+     "sha256": "e3948f9d418bbc1aef4849676fe022a706693083f91a6db106fe043cac0333fe"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 28",
+     "bytes": 1372,
+     "sha256": "aa2e5da47155d441fc75a812efa70af1f2e84f4a6d8917a18fb2a2d9b5ed253d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 29",
+     "bytes": 1445,
+     "sha256": "cadc7b6c407af0046e10fcd8537540fa4ce19f0a97948f3c25f1fb34e7253e15"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 30",
+     "bytes": 961,
+     "sha256": "36d0010c72d9e36fa2a37dacfed41a7b1d61010846a784b6b8057e82b4c37aeb"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 31",
+     "bytes": 1022,
+     "sha256": "298a9a4e1423db3ed36065602c9cab3f55453c7240b1cde5acb68c6511fe0e29"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 32",
+     "bytes": 1340,
+     "sha256": "6c6434dffdecc167f49042ea0921aced35224cc1fa6a27b8b85626433caa4dd2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 33",
+     "bytes": 2188,
+     "sha256": "cd489adeaae51cf7f21e96bb0d75a254f82e0d29a51a02182300336043a91012"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 34",
+     "bytes": 994,
+     "sha256": "ac3ec46428760e28973e30c68eb71f1bc7beefbddfaf623fd65ed950418a5d23"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 35",
+     "bytes": 2008,
+     "sha256": "580dce0df36776a21eeb1ab2a6f69ed5e75ed383638bb378ba269ee9ea2f0a65"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XI/Chapter 36",
+     "bytes": 1303,
+     "sha256": "d80abed7b7144336a4cf96064b1e1e72760cb757b03e2688b10b0fe1ec826370"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 1",
+     "bytes": 1534,
+     "sha256": "b7285d25d98f357634e776e1e460f2f3911d012fa1f7120301edfc5baa98122b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 2",
+     "bytes": 1321,
+     "sha256": "42989acd60d95ea0d6b3b3d83d293e905ea6cf9d0b4d01dbc263fbd8e83326d9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 3",
+     "bytes": 1368,
+     "sha256": "24983075d7d5c43729224974cb733f5688abf87d2a21ae6f53cadc578a6a27bc"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 4",
+     "bytes": 1225,
+     "sha256": "b30b00589993aca3a416367238d608511d2ed4e8c23011d4800870153a02b06d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 5",
+     "bytes": 1871,
+     "sha256": "b642e0ece3060adf94f7ffcbc68e3ee4bc70f31fe6da131876dfb071e899570b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 6",
+     "bytes": 1867,
+     "sha256": "2bf3eecee8deac3330c2a938163425a0c21e9f47b6956be9b711a43aebb47b73"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 7",
+     "bytes": 1664,
+     "sha256": "a1751053176e32ddad863e42a96dbfcc28e700ecd2676485b9aeb244a5fbbe71"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 8",
+     "bytes": 1521,
+     "sha256": "9055b0c63b9c4f789f4e955e2b4224d47b25b0b33fb0f9ac3b3fdc3ab4ca4959"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 9",
+     "bytes": 1192,
+     "sha256": "294f4c94765cf4330b28baf9c527cd8f93fade6077fcb2dd174aca7102ddfcd8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 10",
+     "bytes": 1654,
+     "sha256": "268ed1c02c926f1af718e1f12520d2e58cf810b22f31fe9c8e290843ee7f5297"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 11",
+     "bytes": 1021,
+     "sha256": "0beee83ff92a439028668cc5cc59b9dc9d36214107d350d52fc498d20fea368c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 12",
+     "bytes": 1122,
+     "sha256": "e1402eb0a73806256821cd4ae5bd4980b572c37ff9d75436d48f6ad0f2cec3b3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 13",
+     "bytes": 1276,
+     "sha256": "5d88077b160de22c4720ad781d1ee76fb4fd4a1fe3ff7ffa424f6e5b6aa07656"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 14",
+     "bytes": 1100,
+     "sha256": "3dc478427ff928573c1b4b2c2b50fc577d82911606465bc3ce895916cd959a1d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 15",
+     "bytes": 1734,
+     "sha256": "5e14d29f53a69c017750a2ed26fb0ad5e88655bb9489ea6f30f7d12681b13b59"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 16",
+     "bytes": 1505,
+     "sha256": "7aff6263807824c10d3138605437980a5dcba57a36c76fc4651b6cc5aabb2db5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 17",
+     "bytes": 1474,
+     "sha256": "0465a6bb8ccb5d6a81298571660445c59e1b20e8e327707940ddece64a7d0280"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 18",
+     "bytes": 1123,
+     "sha256": "600ca398d76fcccd1ca085e273b049a58a7cd80a840d669cae72c9815fe30873"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 19",
+     "bytes": 1666,
+     "sha256": "b5c085a793d3b806ca00e8b7e477f756a4fd798778314e4ad9932d21bb49878f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 20",
+     "bytes": 1022,
+     "sha256": "ee7d2a70a2e2fe166d68543665da3ab28ad723fbfdd6aa962758c4ba697e2de8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 21",
+     "bytes": 1721,
+     "sha256": "48b0b0b85ebd187097c4b26d2e4363b4396c93f6cb334ff2403da8393b31a51d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 22",
+     "bytes": 793,
+     "sha256": "02fbf1d2abffae7008cbcacea6b8a9bed6d3ea28da9c14d26722f7abd7f1801f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 23",
+     "bytes": 2104,
+     "sha256": "3f11fadbd438ed725b6aa4c38e1c0a499967182f636d822ce101c7fbb3cbd28c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 24",
+     "bytes": 1413,
+     "sha256": "f1195de9b2e6d388279309e40d5599ea5a2513bb5f9a490218319236570570e1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 25",
+     "bytes": 2666,
+     "sha256": "e4f8777c85a352831b449b40baa35179b1842900ef962e0ea5d3613f228eb372"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 26",
+     "bytes": 2119,
+     "sha256": "89b5428fa04d08cfd1a46a4a77daad6486f4108cd661f2b283df2fd9536802c1"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 27",
+     "bytes": 2127,
+     "sha256": "4b9e3074246645d5d200b88c9b933a1ca614bd882040650af07d605871bc79ef"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 28",
+     "bytes": 976,
+     "sha256": "1f296a5cc5de106fa81c681222db5a66486f3c7f5117ec7af53dc05d5e36ab2e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 29",
+     "bytes": 1561,
+     "sha256": "58e02644d3fc78387e782be75cdbb3d86098949df6ea95d3cdb4e74f147b1ba9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 30",
+     "bytes": 1982,
+     "sha256": "612baf05fb1d9eb3fb60f0d4da6e14d155565c1f2896a26ca39778d8949d4775"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 31",
+     "bytes": 1216,
+     "sha256": "0e1ccca20d46e460be7b462629998134667c89ea6bae81bcfb45e766faaaaba0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 32",
+     "bytes": 2313,
+     "sha256": "93d424c055b7370cccae6b44492794ff0bdd0a923aabf6cf695b8c367df959ed"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XII/Chapter 33",
+     "bytes": 1739,
+     "sha256": "44a694fd49ad776953bce99e7fdd717e98f5e29d1a77422f15a1e958077ba746"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIII/Chapter 1",
+     "bytes": 2243,
+     "sha256": "33867d7d6421922281c6c5a92f5d071999369c5b021fabcb7c4075df45c61e45"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIII/Chapter 2",
+     "bytes": 1261,
+     "sha256": "ecd4de411a6b2370619b630f7c1f8ac32f57e18442d28c6742053f88586c57a7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIII/Chapter 3",
+     "bytes": 1714,
+     "sha256": "c07632bd6735edf5bb04ac69099b4745285322df649721e7c5bf94955962b16e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIII/Chapter 4",
+     "bytes": 1724,
+     "sha256": "35679cb75173b75c68acca0dd69dd54174729a6e92bb7ff7646d9bf8f8226e8e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIII/Chapter 5",
+     "bytes": 2477,
+     "sha256": "6f0b77cdb585c7f62fde4743482d04944efe3a5ecde0772342076d981b00724e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIII/Chapter 6",
+     "bytes": 1411,
+     "sha256": "ccbd9d433d2beff5aeaa3816cf5cfcf06f215b6a1b626343ad812ef4dda443ae"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIII/Chapter 7",
+     "bytes": 2524,
+     "sha256": "43475e4ee76d43ba15433a743675c5f217a4f61b27e8929cbb59848255e54ebf"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIII/Chapter 8",
+     "bytes": 1530,
+     "sha256": "1fb65b20c0174122a74472a84713689b161a3d80e181dfbfea38ff258745cd43"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIII/Chapter 9",
+     "bytes": 1175,
+     "sha256": "16912cf969c82ae086f4e9edcae8182ca807723b44d979720e604b5cf75289d0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIII/Chapter 10",
+     "bytes": 2249,
+     "sha256": "fd45fe2f979ace238c80fdd72a75615663fa5a869f2688e7e50bc0397389a80b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIII/Chapter 11",
+     "bytes": 2039,
+     "sha256": "dd9650d16bf9d5f3b5ffa6d544a977880f63e7380dc785b1e1670b49c7048ef2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIII/Chapter 12",
+     "bytes": 699,
+     "sha256": "a4f01b9f4f60d36c2c058111843edca02cd25784697aabc35280ab5352de1939"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIII/Chapter 13",
+     "bytes": 1562,
+     "sha256": "e0d23d00fb2cc50a8c76aa04e7731be7249cfc19fb7f639701e3da66c34d17e0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIII/Chapter 14",
+     "bytes": 1312,
+     "sha256": "4ca1a0f48e8d8703c47ba6564cca46ab812e56326edfc59793729f842b8f8d96"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIII/Chapter 15",
+     "bytes": 1739,
+     "sha256": "7d653cb33ea91a765718322f3613fadb5b23df0678351bdc65b01c2f4004be32"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIII/Chapter 16",
+     "bytes": 1894,
+     "sha256": "f417bc1dd382ebb58e9d6592e518747b7c0eed6a748dc1c0b683410ddbdf4df3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIII/Chapter 17",
+     "bytes": 1455,
+     "sha256": "dd932fbb3f7091ffbf94e0656ee26976d1093da662e2ea8a81672fa5580f7b67"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIII/Chapter 18",
+     "bytes": 2360,
+     "sha256": "a0eb2609a0c88c7ec114d4c030c0cc35a8f03d50cb6f7d967cadcdbee5b65152"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIII/Chapter 19",
+     "bytes": 1130,
+     "sha256": "25c407d4724c41b41c5208a647c04e82cb3766b1f70fdda5b43e5b45629db388"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIII/Chapter 20",
+     "bytes": 2146,
+     "sha256": "3960f8e39620eb0d425cd837e87b6febc36b6b29a3bb16f055327bfb1e242561"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIII/Chapter 21",
+     "bytes": 1588,
+     "sha256": "0785fe612d6d97bee2faf7dd5a00907b9633c4b1d185f8d26ecf6096ab3e6fbb"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIV/Chapter 1",
+     "bytes": 2534,
+     "sha256": "c3591dcc2b809a5dd71816d8266869dd1d199b09c5a9b41cf243c551615df806"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIV/Chapter 2",
+     "bytes": 2334,
+     "sha256": "0bad648a854749e02f9d5dc29d2fb2df9f9ecfb47b9346d73d27b1a0bd0ee770"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIV/Chapter 3",
+     "bytes": 2386,
+     "sha256": "c19582a1e744817d8ae07ceb286ec9cf7804b32e9eea39fc5b2302fe18b0e3ae"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIV/Chapter 4",
+     "bytes": 1988,
+     "sha256": "d258e6d72971d05baea4caf95d2b2235c5deedc1d656218dae5733bcc35942da"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIV/Chapter 5",
+     "bytes": 2850,
+     "sha256": "39caf2a156b2c6c957b807d0e320fec3df20f613c67f75b22d4825da19866c0a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIV/Chapter 6",
+     "bytes": 1756,
+     "sha256": "0de1ef7c73d813dba04b55260b31e50c052ca966abe5778e3e82fc0268916143"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIV/Chapter 7",
+     "bytes": 2428,
+     "sha256": "72f50a3e75a785fef619daa33b56e708163148ca5b5d2a1851f8e56d7fafadec"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIV/Chapter 8",
+     "bytes": 1992,
+     "sha256": "174a2576f55770146141183ea207464dba275ab2fc460429b3f1c59bd665faac"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIV/Chapter 9",
+     "bytes": 1866,
+     "sha256": "3cd8dd1957386629a6b4d4908360aee3c319e56812a8d2b1a06de238dbb9edb3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIV/Chapter 10",
+     "bytes": 1596,
+     "sha256": "47a8c67763137c8de566079c5d603d9106c3e3474a501a053b71ede6eaf29039"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIV/Chapter 11",
+     "bytes": 2891,
+     "sha256": "7ffe9554579b2c66a39cc9d0a6f52f025a47b57cc4cd20e2377ab8b2e240b0bb"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIV/Chapter 12",
+     "bytes": 1346,
+     "sha256": "4b86194d580aca99dd4987768a1a167461abf5637ca4efc5ead5f527c7ae4496"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XV/Chapter 1",
+     "bytes": 2148,
+     "sha256": "07c65c1955b77b93c0b7bebd6aaaecc5324e3808815c09ce1dc011c4d36c0a8c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XV/Chapter 2",
+     "bytes": 1716,
+     "sha256": "40b122e7216d831ebbd918b1f347d0b13923f609618cc80fa93ecd828661adb6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XV/Chapter 3",
+     "bytes": 1073,
+     "sha256": "d69ec3acb5d265ce63b3fc4829ff05d0e05c8bf8e2b1dc8d5b9113d86270328e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XV/Chapter 4",
+     "bytes": 2467,
+     "sha256": "5252859ee716cf7546b72641b51b23371e37e371ec63abdd5198d4ed5157bf40"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XV/Chapter 5",
+     "bytes": 2710,
+     "sha256": "fc4a7b22f928aaa2756746a975f2c21398b15bc75185d7955fddc8fd2d208079"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XV/Chapter 6",
+     "bytes": 2235,
+     "sha256": "2b48b4ee26222fb6638df9256d5cca22c4981f1d22ef8841dbe54912235af3a7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XV/Chapter 7",
+     "bytes": 2989,
+     "sha256": "c787c86594bb11f15a7dec7481dcb6f038b5fd26dcc74e4a64151eb3f91d001d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XV/Chapter 8",
+     "bytes": 2185,
+     "sha256": "cb7e877b169b7739bdd867485497e271dac4c5a4e11a03eaf32583706f784cad"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XV/Chapter 9",
+     "bytes": 2056,
+     "sha256": "aff073f7962b0cb79f076f89418261815577f2f8c298e93269ca4b59dd84dc9b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XV/Chapter 10",
+     "bytes": 1831,
+     "sha256": "847e0ce0326b00cc91a705ad5e5557a3435c64bd9a3c4f3cd07455c309b94205"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XV/Chapter 11",
+     "bytes": 1056,
+     "sha256": "53dbc7a6a8ef04e0439f88c228355da623738ab7eae1ccc5a47c30eb89c617d9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVI/Chapter 1",
+     "bytes": 1936,
+     "sha256": "bfd5b2e6769629da042312e44cd6ba7f6aa4a890310842a1cc6c7e2e77c03d01"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVI/Chapter 2",
+     "bytes": 2907,
+     "sha256": "43e95c219f8e505e2306a8d16622a9b667d8a74c57eb6391f7f143100f2e9758"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVI/Chapter 3",
+     "bytes": 1906,
+     "sha256": "27de901589185e498c542fb47133f61daff6a62ee07e0299fff25a59c8d60687"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVI/Chapter 4",
+     "bytes": 2430,
+     "sha256": "10e4237da80ab0ee738b8f8d1e6665f19c3d5c2e7a36d818fff14fbfc85ef6f6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVI/Chapter 5",
+     "bytes": 919,
+     "sha256": "adeb12f155feb2064b0851546cd4605c31142b6e3417d1acf0dc467569fc2ff4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVI/Chapter 6",
+     "bytes": 3631,
+     "sha256": "ebd6e03ad642f924aa30bb4a27add57f4f0bf6b231c9442f2a52c38e2b2c2a76"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVI/Chapter 7",
+     "bytes": 2196,
+     "sha256": "3cce3bc4d6ae0fa827a359d5f66a3f8a3512043fa98b04467adb471ce55ed1ca"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVI/Chapter 8",
+     "bytes": 2352,
+     "sha256": "719587f7db64f260c00a9f787517211d830c926a0793b985205215cc5dcb62ea"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVI/Chapter 9",
+     "bytes": 1327,
+     "sha256": "159ba39392b951f0b41643982097ffea49ff37126db4ebd9c0421b636f96f6d0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVI/Chapter 10",
+     "bytes": 3101,
+     "sha256": "1139cd7f47650199d53e789710804dc91271e9131d8527b2b1822711020c6e78"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVI/Chapter 11",
+     "bytes": 780,
+     "sha256": "1a19277fc79471bac735a1a36d65648cf242f9b4783276db5d70e22355db8c05"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVI/Chapter 12",
+     "bytes": 1412,
+     "sha256": "c78e14573145e5ced1a2953fca27bd0cbd2903b96e5b7c03cd7306e8da10f910"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVI/Chapter 13",
+     "bytes": 2481,
+     "sha256": "5eec3d3f74450fe302a6509822ac748a48d4dc880d7e60d239e3be59afaf4766"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVI/Chapter 14",
+     "bytes": 1685,
+     "sha256": "d46a494987c68f5bdc3d8cabec7803fcb901511e712a0a354a069a081b96807e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVI/Chapter 15",
+     "bytes": 1368,
+     "sha256": "0db39256102669c2ed0c387bc7248a8aea50022664c1f7ecdcfc22cff38ed6cc"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVI/Chapter 16",
+     "bytes": 2446,
+     "sha256": "02db294bebb79cbca486ca7cb78765100efa58038586ca8fdc6d8c19ea2559b7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVI/Chapter 17",
+     "bytes": 1283,
+     "sha256": "0ce26c2159fe01bd9d9e8819f3ab97455c4052c0e2087664688e8179e9a09478"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVI/Chapter 18",
+     "bytes": 1184,
+     "sha256": "27c0192b25fdb1b0a4ce850157858645dafcf64f0fd659a7e3c52887c15e4cfa"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVI/Chapter 19",
+     "bytes": 2282,
+     "sha256": "de29106881a9f1264795bee207714cef4cda68a4c39cab54b4c7f29c5128a798"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVI/Chapter 20",
+     "bytes": 2364,
+     "sha256": "6d929f4eb11e9591d30d344979103519a7681bfb97d99b5abbc92f074ad17756"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVI/Chapter 21",
+     "bytes": 2217,
+     "sha256": "6628bf7b045f580ed39ecf03e45c384ab2ec9ea79646af654b561278683ccd60"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVII/Chapter 1",
+     "bytes": 1145,
+     "sha256": "4b002950dce40bb381f382e49957c483b446f10e455568908d76ed5d4f19254d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVII/Chapter 2",
+     "bytes": 1881,
+     "sha256": "86ffaf931ef6211009cbc16640a7f226b79b9f181ac0c1d7bc881ffd59ce4956"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVII/Chapter 3",
+     "bytes": 2154,
+     "sha256": "48eb0093b5f07cf19d78ed0ea46268770d4086d2d57580fda0703c06757bca02"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVII/Chapter 4",
+     "bytes": 2070,
+     "sha256": "11cf16cfc723e90197c3c322f72b16592b246c349d6fe83716ee4f1f7280eba5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVII/Chapter 5",
+     "bytes": 2477,
+     "sha256": "6ff8f62dc597f2f5c0419e4e95f462fbddd157dd1ffd58e49d5e15f1b4ed57b6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVII/Chapter 6",
+     "bytes": 2183,
+     "sha256": "f83a005bfadd2662262195c5f5e13a64e5a5ae2614e10844700b4777e666acad"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVII/Chapter 7",
+     "bytes": 2406,
+     "sha256": "4aaf7aec78144277c3df38b9a4a0c395803799f4855ab22c0aff2a6b578c53a5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVII/Chapter 8",
+     "bytes": 3028,
+     "sha256": "ce19c2219ebde2abe453c0dd18763135e2ca22d91a8ef54b0ebeb75c1a886147"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVII/Chapter 9",
+     "bytes": 2694,
+     "sha256": "8b00beade337b51a9dff90b279fc84f1a32018b1b96f2995567672fbf482a0e2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVII/Chapter 10",
+     "bytes": 1828,
+     "sha256": "3e0fcc2cd48b76ae585074a656a0186e1c9dae7f023d909b8cc860ebb5ed4c5b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVII/Chapter 11",
+     "bytes": 2175,
+     "sha256": "f6cb8dee742d3c2dfc0275eb83e28dc643706002244acbf4641246283755e063"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVII/Chapter 12",
+     "bytes": 1848,
+     "sha256": "86144a4cfdef21779818039b0e82876cc4cb4f9029e9dad0deacb00120e6b87a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVII/Chapter 13",
+     "bytes": 2669,
+     "sha256": "e0f817ac012314f7d1da78b535811e56a60c6fb9e4b7a1cdb9e1b82ef752d1ac"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVII/Chapter 14",
+     "bytes": 2863,
+     "sha256": "5cb0b1bbd30b0abb8ba16792ad6fe8534df272c3c050ea157751891a7c9c337e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVII/Chapter 15",
+     "bytes": 2041,
+     "sha256": "c54d668e363c2ad68dc6ec982844f027ec24387dd22d057be19f4c664018630a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVII/Chapter 16",
+     "bytes": 2341,
+     "sha256": "4c737c2842a766cc4a2f4bb1246d3d7e99bfc8d53bcd1f4e014952310302d591"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVII/Chapter 17",
+     "bytes": 2117,
+     "sha256": "b73b8d2e0a4c9bc0a53a1b6f1d6909770d32103a7e04026867ed1b539e0427c9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVII/Chapter 18",
+     "bytes": 2666,
+     "sha256": "593db3f3884b4d718381515891604f2a97607d441ce5cb721329357859a236f9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVII/Chapter 19",
+     "bytes": 2452,
+     "sha256": "8c53cd66d0aa575e790c91a5bd99f207f6e0c408f73b997334eda87b60d95cd9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVII/Chapter 20",
+     "bytes": 1503,
+     "sha256": "e3f643261928314d9e06c115dd1c1f8d520e6aaeb129aaf1157c442956bf362c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVIII/Chapter 1",
+     "bytes": 1670,
+     "sha256": "ae4daf6888ff28a2fd1fdd8459126f0d9cdf22f3b3605c5dcbdd08cb3fc25d33"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVIII/Chapter 2",
+     "bytes": 2428,
+     "sha256": "1e74c72a8ab0617fc3c9a863547f1e376f7e259394e477db37631b9c7f97098c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVIII/Chapter 3",
+     "bytes": 2298,
+     "sha256": "bd7465d53be58d10126322793f542a71c9c4b16c5aaad2e85c3ae832b23217a3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVIII/Chapter 4",
+     "bytes": 2350,
+     "sha256": "3419f25bc9883d219ab5ce7d9907a7791d8df43d5b4101afecf2b143061f4178"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVIII/Chapter 5",
+     "bytes": 2112,
+     "sha256": "f6c6c49228b04114d37f116aa875f67a9027d81b065a15b38dc29981f7a18b12"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVIII/Chapter 6",
+     "bytes": 1746,
+     "sha256": "6e7926615154b0522e0e28bb699c4e1c7cf2644dd90d046f7dfb344c8a9687f9"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVIII/Chapter 7",
+     "bytes": 2495,
+     "sha256": "df5ed1159561e53dc274ddf561ee1be2dd0192685caf9358b4c21d248ebcefe7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVIII/Chapter 8",
+     "bytes": 1464,
+     "sha256": "4e8c5cbfaa7cd1723d0051a941027d0ec8d36c5a2816a54fea066d0880cbdd47"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVIII/Chapter 9",
+     "bytes": 2180,
+     "sha256": "5274a19bd04e8cdd9a63e25ec4e1e3bddd79476b946a88c39709276518dc47ca"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVIII/Chapter 10",
+     "bytes": 1601,
+     "sha256": "ebb361b43ecb3bdc26de36e4fdc628f42b9dc777fc6aa874ac2f99cf66733934"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVIII/Chapter 11",
+     "bytes": 1742,
+     "sha256": "a7ef6b91a0d63c3f158b07ef709507808604e3dde6c371b6eae70dddb517c16a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVIII/Chapter 12",
+     "bytes": 2245,
+     "sha256": "0ee9f26a99e8f14309bcf5fb01a55a141204760264b04395aaafe2aa87ae5f0d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVIII/Chapter 13",
+     "bytes": 1974,
+     "sha256": "19d4b3a8167115c89404512d19a8bf38a764623df10ad5771a5f7dc31198b32e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVIII/Chapter 14",
+     "bytes": 1608,
+     "sha256": "fefa57611caa1e3cded6985da2c62b56514b863cf6e662aedf4878b072a660b5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVIII/Chapter 15",
+     "bytes": 2388,
+     "sha256": "69aa5fe27808c37e08d2eaf9a174c04c66423602a48ae656cc0fac877233f340"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVIII/Chapter 16",
+     "bytes": 1372,
+     "sha256": "bc9c9777aefaa243a7e4ac2dc9d1a8b12c6f20baf535d39a5684ffe0c36077e8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVIII/Chapter 17",
+     "bytes": 1479,
+     "sha256": "77508c7de53b9274359065abed44350cfdfaa125ae6ff1cf2894533fb72c5dee"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVIII/Chapter 18",
+     "bytes": 1304,
+     "sha256": "f5bde1d6cd00caa9d08025a992eee9a7b58ee0f211b030cf5f9a9e18796eb673"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVIII/Chapter 19",
+     "bytes": 1587,
+     "sha256": "e3e051a398a3852dee0f379e39f55a6a4e4ce1e29ec7d15215716d364dcbd387"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVIII/Chapter 20",
+     "bytes": 1376,
+     "sha256": "8d3ef4190e192e11bb78fda86628e97f19c7abe3307db2bb694fad13c92c2d61"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVIII/Chapter 21",
+     "bytes": 1445,
+     "sha256": "b8618a6347679fb2f8b4369d1276b7fcee3d21c3754af8c7188e87cb6b276ca3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVIII/Chapter 22",
+     "bytes": 2300,
+     "sha256": "f7aaade394e7c3120fe0b2fc3892bac6d10a9d5df4e035817b02fbdb96299729"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XVIII/Chapter 23",
+     "bytes": 1996,
+     "sha256": "14cc41017a95e4f8a62e283286ccf65c46a3d0c6efff3aa81de54c19e0817ed0"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 1",
+     "bytes": 1510,
+     "sha256": "39fffc9ad18e1becfa6ffdad25231b77a3708a2d4bb4d79af7e328ed16b42d83"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 2",
+     "bytes": 2623,
+     "sha256": "5732b599099a15908bc9438f90708d9faebe870c3c761c5baff19111df941b8f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 3",
+     "bytes": 3208,
+     "sha256": "ee9c3b2be4930e2c69ab5b0764f91c65479861d79f26d4f3a0dfb9270a63fe80"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 4",
+     "bytes": 1422,
+     "sha256": "6003b237ec2446ff01469eec70aea676e22a405f4a44cd0e20b7488c92295803"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 5",
+     "bytes": 2204,
+     "sha256": "e8195d2e837ce0e3bafc17df507abbb9b2211dd5501498c272e82e7605f275bf"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 6",
+     "bytes": 2166,
+     "sha256": "5bb7b8551dab536040e9488164562de0c317b2abad07fc53835aeacb06b2cd8c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 7",
+     "bytes": 1618,
+     "sha256": "6a227f2e4aed822af430d194a004984cdcd003d846ca356442b468d01d661b57"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 8",
+     "bytes": 2472,
+     "sha256": "5a1564a92041b58334c39da4b92cb47f4237a3c8a4329e0944a9b03132feec8d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 9",
+     "bytes": 2689,
+     "sha256": "f5325b9afad198bd2ea94ea72c2d96f47abe3bf89e9420c1e6171b23a9d8222a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 10",
+     "bytes": 1730,
+     "sha256": "0deea02b9bd899371ef9fe80bef29027936f1b22383c79dd337a8d2e99ac459c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 11",
+     "bytes": 1658,
+     "sha256": "ff7bec52ec5e8612cf6ee2e25e558a84dd7a8067806a7a2267613ae41c126999"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 12",
+     "bytes": 2756,
+     "sha256": "e1f5fdd5fb6102606603b403c7da2a131465d14ca51fa2f4c5a17b3c856038f4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 13",
+     "bytes": 1501,
+     "sha256": "877bc180fae80b2dbdd46a93b3ab0880033c69342644a80c2cb9f3890f796257"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 14",
+     "bytes": 1766,
+     "sha256": "4b813dc781236d1fd2da415c46d3b8b01a73f420ad04a4d7b3eb27bb66b934fa"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 15",
+     "bytes": 2755,
+     "sha256": "1a8690abe2160a98bd6c360344866bc2d1f16fdcdff94d5fcf6a15cfcf15a9ab"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 16",
+     "bytes": 2116,
+     "sha256": "12161a4e558cb4dede3b8ac4a32dfbbc9622206ca5357fa75c958942ec25b71a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 17",
+     "bytes": 2309,
+     "sha256": "6d8f1b4a2b9b91ec7abc95a655dda9c26c96a89a599bba9f534d6f068001c183"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 18",
+     "bytes": 2515,
+     "sha256": "c5526335e3a710492f92d02508aaa40578136129f2fa33b8c27d615373b3e426"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 19",
+     "bytes": 3818,
+     "sha256": "0f055be22dc631398b37ae4a67499b624caf4ba55dee5b158fa769852af09739"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 20",
+     "bytes": 3079,
+     "sha256": "8ccd03be9ea95050d49017cd8bc44270e5f735e33db0b8c5da7d780452a3dea3"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 21",
+     "bytes": 2232,
+     "sha256": "8cdd851f7ed2c34c621f29008846fda79a1bb3cf5233874640e4212fad9ec5c2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 22",
+     "bytes": 3166,
+     "sha256": "087861c3b6d52a98eb101613e164cefd8c620cfce11b7e1afc2aa19fc068e778"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 23",
+     "bytes": 2350,
+     "sha256": "19d2c7c2d62e464f93821fe6be31a938bcc6a657c9c81cb73c9d05d60c789ca8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 24",
+     "bytes": 3040,
+     "sha256": "671843399335cc273fb4fff4e150106350ab988765ac422d3cbfa3f0dedb9a20"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XIX/Chapter 25",
+     "bytes": 1919,
+     "sha256": "5e27a355a59f087b1b3e2f036b87e5e68a14b2ea0b836335f25058172bae5022"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XX/Chapter 1",
+     "bytes": 1649,
+     "sha256": "4a917b3efecf9820de8fcbf88037c3d987f3b18d332f90b77b268e4feca5c51e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XX/Chapter 2",
+     "bytes": 2560,
+     "sha256": "d64b80df4ad8d120db97eb1a86b0859acba9626231fe26523d2dccde6960c594"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XX/Chapter 3",
+     "bytes": 3681,
+     "sha256": "753f5d2cd6de342c383afc5c35ccc985224eacd3c14853e4ff82c01f7e692cb7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XX/Chapter 4",
+     "bytes": 1761,
+     "sha256": "903e9e4fe810d15496b436e934d2283c615b7f3e6c3a37897e9a484d47c15a64"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XX/Chapter 5",
+     "bytes": 2829,
+     "sha256": "38df1c0e480db3eb77ab402893d215164486103b83d7481128b09685513c8c99"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XX/Chapter 6",
+     "bytes": 2890,
+     "sha256": "2e1bac6c7c35a5835c65bf6f3f99afb3cd4d76e1bda82eae0700d7ff35846499"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XX/Chapter 7",
+     "bytes": 2730,
+     "sha256": "9f9f8fbf3e87e5df5bac0a901f2f040170ebb6aac95b20e345b8b09163d76c87"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XX/Chapter 8",
+     "bytes": 3429,
+     "sha256": "cf6a71b7ca014f7c74af4344e7bd25aa5bfc294df802938de0ceff17d1a2b6ec"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XX/Chapter 9",
+     "bytes": 2764,
+     "sha256": "9e53a60051bde6cd64260fffe50b4570f596d823683d19f16d2069e8268bc9d2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XX/Chapter 10",
+     "bytes": 915,
+     "sha256": "4a0a687714a53c604819b60ca017001398b5f2221975cb571978dd4c85a6fc58"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XX/Chapter 11",
+     "bytes": 1532,
+     "sha256": "76ae01a7ff51aabdea42dbcd4b25928d2a8abbd4ae22ae737d196b5b5986ae8c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XX/Chapter 12",
+     "bytes": 1919,
+     "sha256": "2d2b840dde244123ccd75d89e1b4395c2947a906041cccc4e58d46a306b8f9b8"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XX/Chapter 13",
+     "bytes": 3206,
+     "sha256": "3a35cf6671083ef52c096531ccff129f525ccbceee71aafe3349b31ce343ec6d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XX/Chapter 14",
+     "bytes": 1233,
+     "sha256": "a6d71abea70daf237025c6482a9de482bd222506202444be324c4618af7d4067"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XX/Chapter 15",
+     "bytes": 1772,
+     "sha256": "ced10f1f685298a7db1e511a8ed67be27c72d158b32c2472780180ebbbb38728"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XX/Chapter 16",
+     "bytes": 1697,
+     "sha256": "39d69402d24ac0017e89c7b1b578a4c73c17c067bcbb5c5d4a3077947afd3523"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XX/Chapter 17",
+     "bytes": 2588,
+     "sha256": "f01e54a4ae683c1e462d6bd412e512b2b75a36757e9bf30ead2d8e68c611c75a"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XX/Chapter 18",
+     "bytes": 1498,
+     "sha256": "764a7a76ae7154c9b01c95d3def2747d8fd405180e31549a2536e926f4811e12"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XX/Chapter 19",
+     "bytes": 1815,
+     "sha256": "f00263c795e423dcd36146ac4bb89d0607456b4a1d209534a99a25a90d56d04b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XX/Chapter 20",
+     "bytes": 2159,
+     "sha256": "be62cd6f7b9a3ddc93e75b5d7f53e08f853e491fc17a4c05048e1a899356d793"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XX/Chapter 21",
+     "bytes": 1816,
+     "sha256": "d06cf872aa29d867ab215d158b0f48a10d9528d42342cb94c788553c1f7f59e6"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XX/Chapter 22",
+     "bytes": 1837,
+     "sha256": "047f80fb30a116efe456fd81e8ab5053add2c6a07cbccd207385d3e4b64fb3d2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Homily XX/Chapter 23",
+     "bytes": 2204,
+     "sha256": "5e0361a6c1ed1bae8c61077566f6de08b78401f2601867609c148b3b3ba6f352"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1.1",
+     "title": "Chapter 1",
+     "segments": 5
+    },
+    {
+     "file": "0002.json",
+     "ref": "1.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0023.json",
+     "ref": "2.1",
+     "title": "Chapter 1",
+     "segments": 3
+    },
+    {
+     "file": "0024.json",
+     "ref": "2.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0025.json",
+     "ref": "2.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0026.json",
+     "ref": "2.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0027.json",
+     "ref": "2.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0028.json",
+     "ref": "2.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0029.json",
+     "ref": "2.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0030.json",
+     "ref": "2.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0031.json",
+     "ref": "2.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0032.json",
+     "ref": "2.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0033.json",
+     "ref": "2.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0034.json",
+     "ref": "2.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0035.json",
+     "ref": "2.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0036.json",
+     "ref": "2.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0037.json",
+     "ref": "2.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0038.json",
+     "ref": "2.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0039.json",
+     "ref": "2.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0040.json",
+     "ref": "2.18",
+     "title": "Chapter 18",
+     "segments": 3
+    },
+    {
+     "file": "0041.json",
+     "ref": "2.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0042.json",
+     "ref": "2.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0043.json",
+     "ref": "2.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0044.json",
+     "ref": "2.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0045.json",
+     "ref": "2.23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0046.json",
+     "ref": "2.24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0047.json",
+     "ref": "2.25",
+     "title": "Chapter 25",
+     "segments": 2
+    },
+    {
+     "file": "0048.json",
+     "ref": "2.26",
+     "title": "Chapter 26",
+     "segments": 2
+    },
+    {
+     "file": "0049.json",
+     "ref": "2.27",
+     "title": "Chapter 27",
+     "segments": 2
+    },
+    {
+     "file": "0050.json",
+     "ref": "2.28",
+     "title": "Chapter 28",
+     "segments": 2
+    },
+    {
+     "file": "0051.json",
+     "ref": "2.29",
+     "title": "Chapter 29",
+     "segments": 2
+    },
+    {
+     "file": "0052.json",
+     "ref": "2.30",
+     "title": "Chapter 30",
+     "segments": 2
+    },
+    {
+     "file": "0053.json",
+     "ref": "2.31",
+     "title": "Chapter 31",
+     "segments": 2
+    },
+    {
+     "file": "0054.json",
+     "ref": "2.32",
+     "title": "Chapter 32",
+     "segments": 2
+    },
+    {
+     "file": "0055.json",
+     "ref": "2.33",
+     "title": "Chapter 33",
+     "segments": 2
+    },
+    {
+     "file": "0056.json",
+     "ref": "2.34",
+     "title": "Chapter 34",
+     "segments": 2
+    },
+    {
+     "file": "0057.json",
+     "ref": "2.35",
+     "title": "Chapter 35",
+     "segments": 2
+    },
+    {
+     "file": "0058.json",
+     "ref": "2.36",
+     "title": "Chapter 36",
+     "segments": 2
+    },
+    {
+     "file": "0059.json",
+     "ref": "2.37",
+     "title": "Chapter 37",
+     "segments": 2
+    },
+    {
+     "file": "0060.json",
+     "ref": "2.38",
+     "title": "Chapter 38",
+     "segments": 2
+    },
+    {
+     "file": "0061.json",
+     "ref": "2.39",
+     "title": "Chapter 39",
+     "segments": 2
+    },
+    {
+     "file": "0062.json",
+     "ref": "2.40",
+     "title": "Chapter 40",
+     "segments": 2
+    },
+    {
+     "file": "0063.json",
+     "ref": "2.41",
+     "title": "Chapter 41",
+     "segments": 2
+    },
+    {
+     "file": "0064.json",
+     "ref": "2.42",
+     "title": "Chapter 42",
+     "segments": 2
+    },
+    {
+     "file": "0065.json",
+     "ref": "2.43",
+     "title": "Chapter 43",
+     "segments": 2
+    },
+    {
+     "file": "0066.json",
+     "ref": "2.44",
+     "title": "Chapter 44",
+     "segments": 2
+    },
+    {
+     "file": "0067.json",
+     "ref": "2.45",
+     "title": "Chapter 45",
+     "segments": 2
+    },
+    {
+     "file": "0068.json",
+     "ref": "2.46",
+     "title": "Chapter 46",
+     "segments": 2
+    },
+    {
+     "file": "0069.json",
+     "ref": "2.47",
+     "title": "Chapter 47",
+     "segments": 2
+    },
+    {
+     "file": "0070.json",
+     "ref": "2.48",
+     "title": "Chapter 48",
+     "segments": 2
+    },
+    {
+     "file": "0071.json",
+     "ref": "2.49",
+     "title": "Chapter 49",
+     "segments": 2
+    },
+    {
+     "file": "0072.json",
+     "ref": "2.50",
+     "title": "Chapter 50",
+     "segments": 2
+    },
+    {
+     "file": "0073.json",
+     "ref": "2.51",
+     "title": "Chapter 51",
+     "segments": 2
+    },
+    {
+     "file": "0074.json",
+     "ref": "2.52",
+     "title": "Chapter 52",
+     "segments": 2
+    },
+    {
+     "file": "0075.json",
+     "ref": "2.53",
+     "title": "Chapter 53",
+     "segments": 2
+    },
+    {
+     "file": "0076.json",
+     "ref": "3.1",
+     "title": "Chapter 1",
+     "segments": 3
+    },
+    {
+     "file": "0077.json",
+     "ref": "3.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0078.json",
+     "ref": "3.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0079.json",
+     "ref": "3.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0080.json",
+     "ref": "3.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0081.json",
+     "ref": "3.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0082.json",
+     "ref": "3.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0083.json",
+     "ref": "3.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0084.json",
+     "ref": "3.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0085.json",
+     "ref": "3.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0086.json",
+     "ref": "3.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0087.json",
+     "ref": "3.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0088.json",
+     "ref": "3.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0089.json",
+     "ref": "3.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0090.json",
+     "ref": "3.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0091.json",
+     "ref": "3.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0092.json",
+     "ref": "3.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0093.json",
+     "ref": "3.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0094.json",
+     "ref": "3.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0095.json",
+     "ref": "3.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0096.json",
+     "ref": "3.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0097.json",
+     "ref": "3.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0098.json",
+     "ref": "3.23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0099.json",
+     "ref": "3.24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0100.json",
+     "ref": "3.25",
+     "title": "Chapter 25",
+     "segments": 2
+    },
+    {
+     "file": "0101.json",
+     "ref": "3.26",
+     "title": "Chapter 26",
+     "segments": 2
+    },
+    {
+     "file": "0102.json",
+     "ref": "3.27",
+     "title": "Chapter 27",
+     "segments": 2
+    },
+    {
+     "file": "0103.json",
+     "ref": "3.28",
+     "title": "Chapter 28",
+     "segments": 2
+    },
+    {
+     "file": "0104.json",
+     "ref": "3.29",
+     "title": "Chapter 29",
+     "segments": 2
+    },
+    {
+     "file": "0105.json",
+     "ref": "3.30",
+     "title": "Chapter 30",
+     "segments": 2
+    },
+    {
+     "file": "0106.json",
+     "ref": "3.31",
+     "title": "Chapter 31",
+     "segments": 2
+    },
+    {
+     "file": "0107.json",
+     "ref": "3.32",
+     "title": "Chapter 32",
+     "segments": 2
+    },
+    {
+     "file": "0108.json",
+     "ref": "3.33",
+     "title": "Chapter 33",
+     "segments": 2
+    },
+    {
+     "file": "0109.json",
+     "ref": "3.34",
+     "title": "Chapter 34",
+     "segments": 2
+    },
+    {
+     "file": "0110.json",
+     "ref": "3.35",
+     "title": "Chapter 35",
+     "segments": 2
+    },
+    {
+     "file": "0111.json",
+     "ref": "3.36",
+     "title": "Chapter 36",
+     "segments": 2
+    },
+    {
+     "file": "0112.json",
+     "ref": "3.37",
+     "title": "Chapter 37",
+     "segments": 2
+    },
+    {
+     "file": "0113.json",
+     "ref": "3.38",
+     "title": "Chapter 38",
+     "segments": 2
+    },
+    {
+     "file": "0114.json",
+     "ref": "3.39",
+     "title": "Chapter 39",
+     "segments": 2
+    },
+    {
+     "file": "0115.json",
+     "ref": "3.40",
+     "title": "Chapter 40",
+     "segments": 2
+    },
+    {
+     "file": "0116.json",
+     "ref": "3.41",
+     "title": "Chapter 41",
+     "segments": 2
+    },
+    {
+     "file": "0117.json",
+     "ref": "3.42",
+     "title": "Chapter 42",
+     "segments": 2
+    },
+    {
+     "file": "0118.json",
+     "ref": "3.43",
+     "title": "Chapter 43",
+     "segments": 2
+    },
+    {
+     "file": "0119.json",
+     "ref": "3.44",
+     "title": "Chapter 44",
+     "segments": 2
+    },
+    {
+     "file": "0120.json",
+     "ref": "3.45",
+     "title": "Chapter 45",
+     "segments": 2
+    },
+    {
+     "file": "0121.json",
+     "ref": "3.46",
+     "title": "Chapter 46",
+     "segments": 2
+    },
+    {
+     "file": "0122.json",
+     "ref": "3.47",
+     "title": "Chapter 47",
+     "segments": 2
+    },
+    {
+     "file": "0123.json",
+     "ref": "3.48",
+     "title": "Chapter 48",
+     "segments": 2
+    },
+    {
+     "file": "0124.json",
+     "ref": "3.49",
+     "title": "Chapter 49",
+     "segments": 2
+    },
+    {
+     "file": "0125.json",
+     "ref": "3.50",
+     "title": "Chapter 50",
+     "segments": 2
+    },
+    {
+     "file": "0126.json",
+     "ref": "3.51",
+     "title": "Chapter 51",
+     "segments": 2
+    },
+    {
+     "file": "0127.json",
+     "ref": "3.52",
+     "title": "Chapter 52",
+     "segments": 2
+    },
+    {
+     "file": "0128.json",
+     "ref": "3.53",
+     "title": "Chapter 53",
+     "segments": 2
+    },
+    {
+     "file": "0129.json",
+     "ref": "3.54",
+     "title": "Chapter 54",
+     "segments": 2
+    },
+    {
+     "file": "0130.json",
+     "ref": "3.55",
+     "title": "Chapter 55",
+     "segments": 2
+    },
+    {
+     "file": "0131.json",
+     "ref": "3.56",
+     "title": "Chapter 56",
+     "segments": 2
+    },
+    {
+     "file": "0132.json",
+     "ref": "3.57",
+     "title": "Chapter 57",
+     "segments": 2
+    },
+    {
+     "file": "0133.json",
+     "ref": "3.58",
+     "title": "Chapter 58",
+     "segments": 2
+    },
+    {
+     "file": "0134.json",
+     "ref": "3.59",
+     "title": "Chapter 59",
+     "segments": 2
+    },
+    {
+     "file": "0135.json",
+     "ref": "3.60",
+     "title": "Chapter 60",
+     "segments": 2
+    },
+    {
+     "file": "0136.json",
+     "ref": "3.61",
+     "title": "Chapter 61",
+     "segments": 2
+    },
+    {
+     "file": "0137.json",
+     "ref": "3.62",
+     "title": "Chapter 62",
+     "segments": 2
+    },
+    {
+     "file": "0138.json",
+     "ref": "3.63",
+     "title": "Chapter 63",
+     "segments": 2
+    },
+    {
+     "file": "0139.json",
+     "ref": "3.64",
+     "title": "Chapter 64",
+     "segments": 2
+    },
+    {
+     "file": "0140.json",
+     "ref": "3.65",
+     "title": "Chapter 65",
+     "segments": 2
+    },
+    {
+     "file": "0141.json",
+     "ref": "3.66",
+     "title": "Chapter 66",
+     "segments": 2
+    },
+    {
+     "file": "0142.json",
+     "ref": "3.67",
+     "title": "Chapter 67",
+     "segments": 2
+    },
+    {
+     "file": "0143.json",
+     "ref": "3.68",
+     "title": "Chapter 68",
+     "segments": 2
+    },
+    {
+     "file": "0144.json",
+     "ref": "3.69",
+     "title": "Chapter 69",
+     "segments": 2
+    },
+    {
+     "file": "0145.json",
+     "ref": "3.70",
+     "title": "Chapter 70",
+     "segments": 2
+    },
+    {
+     "file": "0146.json",
+     "ref": "3.71",
+     "title": "Chapter 71",
+     "segments": 2
+    },
+    {
+     "file": "0147.json",
+     "ref": "3.72",
+     "title": "Chapter 72",
+     "segments": 2
+    },
+    {
+     "file": "0148.json",
+     "ref": "3.73",
+     "title": "Chapter 73",
+     "segments": 2
+    },
+    {
+     "file": "0149.json",
+     "ref": "4.1",
+     "title": "Chapter 1",
+     "segments": 3
+    },
+    {
+     "file": "0150.json",
+     "ref": "4.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0151.json",
+     "ref": "4.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0152.json",
+     "ref": "4.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0153.json",
+     "ref": "4.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0154.json",
+     "ref": "4.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0155.json",
+     "ref": "4.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0156.json",
+     "ref": "4.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0157.json",
+     "ref": "4.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0158.json",
+     "ref": "4.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0159.json",
+     "ref": "4.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0160.json",
+     "ref": "4.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0161.json",
+     "ref": "4.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0162.json",
+     "ref": "4.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0163.json",
+     "ref": "4.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0164.json",
+     "ref": "4.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0165.json",
+     "ref": "4.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0166.json",
+     "ref": "4.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0167.json",
+     "ref": "4.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0168.json",
+     "ref": "4.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0169.json",
+     "ref": "4.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0170.json",
+     "ref": "4.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0171.json",
+     "ref": "4.23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0172.json",
+     "ref": "4.24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0173.json",
+     "ref": "4.25",
+     "title": "Chapter 25",
+     "segments": 2
+    },
+    {
+     "file": "0174.json",
+     "ref": "5.1",
+     "title": "Chapter 1",
+     "segments": 3
+    },
+    {
+     "file": "0175.json",
+     "ref": "5.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0176.json",
+     "ref": "5.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0177.json",
+     "ref": "5.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0178.json",
+     "ref": "5.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0179.json",
+     "ref": "5.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0180.json",
+     "ref": "5.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0181.json",
+     "ref": "5.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0182.json",
+     "ref": "5.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0183.json",
+     "ref": "5.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0184.json",
+     "ref": "5.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0185.json",
+     "ref": "5.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0186.json",
+     "ref": "5.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0187.json",
+     "ref": "5.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0188.json",
+     "ref": "5.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0189.json",
+     "ref": "5.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0190.json",
+     "ref": "5.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0191.json",
+     "ref": "5.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0192.json",
+     "ref": "5.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0193.json",
+     "ref": "5.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0194.json",
+     "ref": "5.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0195.json",
+     "ref": "5.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0196.json",
+     "ref": "5.23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0197.json",
+     "ref": "5.24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0198.json",
+     "ref": "5.25",
+     "title": "Chapter 25",
+     "segments": 2
+    },
+    {
+     "file": "0199.json",
+     "ref": "5.26",
+     "title": "Chapter 26",
+     "segments": 2
+    },
+    {
+     "file": "0200.json",
+     "ref": "5.27",
+     "title": "Chapter 27",
+     "segments": 2
+    },
+    {
+     "file": "0201.json",
+     "ref": "5.28",
+     "title": "Chapter 28",
+     "segments": 2
+    },
+    {
+     "file": "0202.json",
+     "ref": "5.29",
+     "title": "Chapter 29",
+     "segments": 2
+    },
+    {
+     "file": "0203.json",
+     "ref": "5.30",
+     "title": "Chapter 30",
+     "segments": 2
+    },
+    {
+     "file": "0204.json",
+     "ref": "6.1",
+     "title": "Chapter 1",
+     "segments": 4
+    },
+    {
+     "file": "0205.json",
+     "ref": "6.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0206.json",
+     "ref": "6.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0207.json",
+     "ref": "6.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0208.json",
+     "ref": "6.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0209.json",
+     "ref": "6.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0210.json",
+     "ref": "6.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0211.json",
+     "ref": "6.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0212.json",
+     "ref": "6.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0213.json",
+     "ref": "6.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0214.json",
+     "ref": "6.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0215.json",
+     "ref": "6.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0216.json",
+     "ref": "6.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0217.json",
+     "ref": "6.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0218.json",
+     "ref": "6.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0219.json",
+     "ref": "6.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0220.json",
+     "ref": "6.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0221.json",
+     "ref": "6.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0222.json",
+     "ref": "6.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0223.json",
+     "ref": "6.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0224.json",
+     "ref": "6.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0225.json",
+     "ref": "6.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0226.json",
+     "ref": "6.23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0227.json",
+     "ref": "6.24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0228.json",
+     "ref": "6.25",
+     "title": "Chapter 25",
+     "segments": 2
+    },
+    {
+     "file": "0229.json",
+     "ref": "6.26",
+     "title": "Chapter 26",
+     "segments": 2
+    },
+    {
+     "file": "0230.json",
+     "ref": "7.1",
+     "title": "Chapter 1",
+     "segments": 3
+    },
+    {
+     "file": "0231.json",
+     "ref": "7.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0232.json",
+     "ref": "7.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0233.json",
+     "ref": "7.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0234.json",
+     "ref": "7.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0235.json",
+     "ref": "7.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0236.json",
+     "ref": "7.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0237.json",
+     "ref": "7.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0238.json",
+     "ref": "7.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0239.json",
+     "ref": "7.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0240.json",
+     "ref": "7.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0241.json",
+     "ref": "7.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0242.json",
+     "ref": "8.1",
+     "title": "Chapter 1",
+     "segments": 3
+    },
+    {
+     "file": "0243.json",
+     "ref": "8.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0244.json",
+     "ref": "8.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0245.json",
+     "ref": "8.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0246.json",
+     "ref": "8.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0247.json",
+     "ref": "8.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0248.json",
+     "ref": "8.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0249.json",
+     "ref": "8.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0250.json",
+     "ref": "8.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0251.json",
+     "ref": "8.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0252.json",
+     "ref": "8.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0253.json",
+     "ref": "8.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0254.json",
+     "ref": "8.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0255.json",
+     "ref": "8.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0256.json",
+     "ref": "8.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0257.json",
+     "ref": "8.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0258.json",
+     "ref": "8.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0259.json",
+     "ref": "8.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0260.json",
+     "ref": "8.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0261.json",
+     "ref": "8.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0262.json",
+     "ref": "8.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0263.json",
+     "ref": "8.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0264.json",
+     "ref": "8.23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0265.json",
+     "ref": "8.24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0266.json",
+     "ref": "9.1",
+     "title": "Chapter 1",
+     "segments": 3
+    },
+    {
+     "file": "0267.json",
+     "ref": "9.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0268.json",
+     "ref": "9.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0269.json",
+     "ref": "9.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0270.json",
+     "ref": "9.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0271.json",
+     "ref": "9.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0272.json",
+     "ref": "9.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0273.json",
+     "ref": "9.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0274.json",
+     "ref": "9.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0275.json",
+     "ref": "9.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0276.json",
+     "ref": "9.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0277.json",
+     "ref": "9.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0278.json",
+     "ref": "9.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0279.json",
+     "ref": "9.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0280.json",
+     "ref": "9.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0281.json",
+     "ref": "9.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0282.json",
+     "ref": "9.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0283.json",
+     "ref": "9.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0284.json",
+     "ref": "9.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0285.json",
+     "ref": "9.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0286.json",
+     "ref": "9.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0287.json",
+     "ref": "9.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0288.json",
+     "ref": "9.23",
+     "title": "Chapter 23",
+     "segments": 3
+    },
+    {
+     "file": "0289.json",
+     "ref": "10.1",
+     "title": "Chapter 1",
+     "segments": 3
+    },
+    {
+     "file": "0290.json",
+     "ref": "10.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0291.json",
+     "ref": "10.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0292.json",
+     "ref": "10.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0293.json",
+     "ref": "10.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0294.json",
+     "ref": "10.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0295.json",
+     "ref": "10.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0296.json",
+     "ref": "10.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0297.json",
+     "ref": "10.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0298.json",
+     "ref": "10.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0299.json",
+     "ref": "10.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0300.json",
+     "ref": "10.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0301.json",
+     "ref": "10.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0302.json",
+     "ref": "10.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0303.json",
+     "ref": "10.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0304.json",
+     "ref": "10.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0305.json",
+     "ref": "10.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0306.json",
+     "ref": "10.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0307.json",
+     "ref": "10.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0308.json",
+     "ref": "10.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0309.json",
+     "ref": "10.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0310.json",
+     "ref": "10.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0311.json",
+     "ref": "10.23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0312.json",
+     "ref": "10.24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0313.json",
+     "ref": "10.25",
+     "title": "Chapter 25",
+     "segments": 2
+    },
+    {
+     "file": "0314.json",
+     "ref": "10.26",
+     "title": "Chapter 26",
+     "segments": 2
+    },
+    {
+     "file": "0315.json",
+     "ref": "11.1",
+     "title": "Chapter 1",
+     "segments": 3
+    },
+    {
+     "file": "0316.json",
+     "ref": "11.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0317.json",
+     "ref": "11.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0318.json",
+     "ref": "11.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0319.json",
+     "ref": "11.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0320.json",
+     "ref": "11.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0321.json",
+     "ref": "11.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0322.json",
+     "ref": "11.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0323.json",
+     "ref": "11.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0324.json",
+     "ref": "11.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0325.json",
+     "ref": "11.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0326.json",
+     "ref": "11.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0327.json",
+     "ref": "11.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0328.json",
+     "ref": "11.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0329.json",
+     "ref": "11.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0330.json",
+     "ref": "11.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0331.json",
+     "ref": "11.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0332.json",
+     "ref": "11.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0333.json",
+     "ref": "11.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0334.json",
+     "ref": "11.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0335.json",
+     "ref": "11.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0336.json",
+     "ref": "11.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0337.json",
+     "ref": "11.23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0338.json",
+     "ref": "11.24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0339.json",
+     "ref": "11.25",
+     "title": "Chapter 25",
+     "segments": 2
+    },
+    {
+     "file": "0340.json",
+     "ref": "11.26",
+     "title": "Chapter 26",
+     "segments": 2
+    },
+    {
+     "file": "0341.json",
+     "ref": "11.27",
+     "title": "Chapter 27",
+     "segments": 2
+    },
+    {
+     "file": "0342.json",
+     "ref": "11.28",
+     "title": "Chapter 28",
+     "segments": 2
+    },
+    {
+     "file": "0343.json",
+     "ref": "11.29",
+     "title": "Chapter 29",
+     "segments": 2
+    },
+    {
+     "file": "0344.json",
+     "ref": "11.30",
+     "title": "Chapter 30",
+     "segments": 2
+    },
+    {
+     "file": "0345.json",
+     "ref": "11.31",
+     "title": "Chapter 31",
+     "segments": 2
+    },
+    {
+     "file": "0346.json",
+     "ref": "11.32",
+     "title": "Chapter 32",
+     "segments": 2
+    },
+    {
+     "file": "0347.json",
+     "ref": "11.33",
+     "title": "Chapter 33",
+     "segments": 2
+    },
+    {
+     "file": "0348.json",
+     "ref": "11.34",
+     "title": "Chapter 34",
+     "segments": 2
+    },
+    {
+     "file": "0349.json",
+     "ref": "11.35",
+     "title": "Chapter 35",
+     "segments": 2
+    },
+    {
+     "file": "0350.json",
+     "ref": "11.36",
+     "title": "Chapter 36",
+     "segments": 2
+    },
+    {
+     "file": "0351.json",
+     "ref": "12.1",
+     "title": "Chapter 1",
+     "segments": 3
+    },
+    {
+     "file": "0352.json",
+     "ref": "12.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0353.json",
+     "ref": "12.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0354.json",
+     "ref": "12.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0355.json",
+     "ref": "12.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0356.json",
+     "ref": "12.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0357.json",
+     "ref": "12.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0358.json",
+     "ref": "12.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0359.json",
+     "ref": "12.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0360.json",
+     "ref": "12.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0361.json",
+     "ref": "12.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0362.json",
+     "ref": "12.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0363.json",
+     "ref": "12.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0364.json",
+     "ref": "12.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0365.json",
+     "ref": "12.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0366.json",
+     "ref": "12.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0367.json",
+     "ref": "12.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0368.json",
+     "ref": "12.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0369.json",
+     "ref": "12.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0370.json",
+     "ref": "12.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0371.json",
+     "ref": "12.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0372.json",
+     "ref": "12.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0373.json",
+     "ref": "12.23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0374.json",
+     "ref": "12.24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0375.json",
+     "ref": "12.25",
+     "title": "Chapter 25",
+     "segments": 2
+    },
+    {
+     "file": "0376.json",
+     "ref": "12.26",
+     "title": "Chapter 26",
+     "segments": 2
+    },
+    {
+     "file": "0377.json",
+     "ref": "12.27",
+     "title": "Chapter 27",
+     "segments": 2
+    },
+    {
+     "file": "0378.json",
+     "ref": "12.28",
+     "title": "Chapter 28",
+     "segments": 2
+    },
+    {
+     "file": "0379.json",
+     "ref": "12.29",
+     "title": "Chapter 29",
+     "segments": 2
+    },
+    {
+     "file": "0380.json",
+     "ref": "12.30",
+     "title": "Chapter 30",
+     "segments": 2
+    },
+    {
+     "file": "0381.json",
+     "ref": "12.31",
+     "title": "Chapter 31",
+     "segments": 2
+    },
+    {
+     "file": "0382.json",
+     "ref": "12.32",
+     "title": "Chapter 32",
+     "segments": 2
+    },
+    {
+     "file": "0383.json",
+     "ref": "12.33",
+     "title": "Chapter 33",
+     "segments": 2
+    },
+    {
+     "file": "0384.json",
+     "ref": "13.1",
+     "title": "Chapter 1",
+     "segments": 3
+    },
+    {
+     "file": "0385.json",
+     "ref": "13.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0386.json",
+     "ref": "13.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0387.json",
+     "ref": "13.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0388.json",
+     "ref": "13.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0389.json",
+     "ref": "13.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0390.json",
+     "ref": "13.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0391.json",
+     "ref": "13.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0392.json",
+     "ref": "13.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0393.json",
+     "ref": "13.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0394.json",
+     "ref": "13.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0395.json",
+     "ref": "13.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0396.json",
+     "ref": "13.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0397.json",
+     "ref": "13.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0398.json",
+     "ref": "13.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0399.json",
+     "ref": "13.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0400.json",
+     "ref": "13.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0401.json",
+     "ref": "13.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0402.json",
+     "ref": "13.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0403.json",
+     "ref": "13.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0404.json",
+     "ref": "13.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0405.json",
+     "ref": "14.1",
+     "title": "Chapter 1",
+     "segments": 3
+    },
+    {
+     "file": "0406.json",
+     "ref": "14.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0407.json",
+     "ref": "14.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0408.json",
+     "ref": "14.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0409.json",
+     "ref": "14.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0410.json",
+     "ref": "14.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0411.json",
+     "ref": "14.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0412.json",
+     "ref": "14.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0413.json",
+     "ref": "14.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0414.json",
+     "ref": "14.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0415.json",
+     "ref": "14.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0416.json",
+     "ref": "14.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0417.json",
+     "ref": "15.1",
+     "title": "Chapter 1",
+     "segments": 3
+    },
+    {
+     "file": "0418.json",
+     "ref": "15.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0419.json",
+     "ref": "15.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0420.json",
+     "ref": "15.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0421.json",
+     "ref": "15.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0422.json",
+     "ref": "15.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0423.json",
+     "ref": "15.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0424.json",
+     "ref": "15.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0425.json",
+     "ref": "15.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0426.json",
+     "ref": "15.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0427.json",
+     "ref": "15.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0428.json",
+     "ref": "16.1",
+     "title": "Chapter 1",
+     "segments": 3
+    },
+    {
+     "file": "0429.json",
+     "ref": "16.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0430.json",
+     "ref": "16.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0431.json",
+     "ref": "16.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0432.json",
+     "ref": "16.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0433.json",
+     "ref": "16.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0434.json",
+     "ref": "16.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0435.json",
+     "ref": "16.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0436.json",
+     "ref": "16.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0437.json",
+     "ref": "16.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0438.json",
+     "ref": "16.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0439.json",
+     "ref": "16.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0440.json",
+     "ref": "16.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0441.json",
+     "ref": "16.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0442.json",
+     "ref": "16.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0443.json",
+     "ref": "16.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0444.json",
+     "ref": "16.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0445.json",
+     "ref": "16.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0446.json",
+     "ref": "16.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0447.json",
+     "ref": "16.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0448.json",
+     "ref": "16.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0449.json",
+     "ref": "17.1",
+     "title": "Chapter 1",
+     "segments": 3
+    },
+    {
+     "file": "0450.json",
+     "ref": "17.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0451.json",
+     "ref": "17.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0452.json",
+     "ref": "17.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0453.json",
+     "ref": "17.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0454.json",
+     "ref": "17.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0455.json",
+     "ref": "17.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0456.json",
+     "ref": "17.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0457.json",
+     "ref": "17.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0458.json",
+     "ref": "17.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0459.json",
+     "ref": "17.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0460.json",
+     "ref": "17.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0461.json",
+     "ref": "17.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0462.json",
+     "ref": "17.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0463.json",
+     "ref": "17.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0464.json",
+     "ref": "17.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0465.json",
+     "ref": "17.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0466.json",
+     "ref": "17.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0467.json",
+     "ref": "17.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0468.json",
+     "ref": "17.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0469.json",
+     "ref": "18.1",
+     "title": "Chapter 1",
+     "segments": 3
+    },
+    {
+     "file": "0470.json",
+     "ref": "18.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0471.json",
+     "ref": "18.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0472.json",
+     "ref": "18.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0473.json",
+     "ref": "18.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0474.json",
+     "ref": "18.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0475.json",
+     "ref": "18.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0476.json",
+     "ref": "18.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0477.json",
+     "ref": "18.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0478.json",
+     "ref": "18.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0479.json",
+     "ref": "18.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0480.json",
+     "ref": "18.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0481.json",
+     "ref": "18.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0482.json",
+     "ref": "18.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0483.json",
+     "ref": "18.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0484.json",
+     "ref": "18.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0485.json",
+     "ref": "18.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0486.json",
+     "ref": "18.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0487.json",
+     "ref": "18.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0488.json",
+     "ref": "18.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0489.json",
+     "ref": "18.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0490.json",
+     "ref": "18.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0491.json",
+     "ref": "18.23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0492.json",
+     "ref": "19.1",
+     "title": "Chapter 1",
+     "segments": 3
+    },
+    {
+     "file": "0493.json",
+     "ref": "19.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0494.json",
+     "ref": "19.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0495.json",
+     "ref": "19.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0496.json",
+     "ref": "19.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0497.json",
+     "ref": "19.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0498.json",
+     "ref": "19.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0499.json",
+     "ref": "19.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0500.json",
+     "ref": "19.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0501.json",
+     "ref": "19.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0502.json",
+     "ref": "19.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0503.json",
+     "ref": "19.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0504.json",
+     "ref": "19.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0505.json",
+     "ref": "19.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0506.json",
+     "ref": "19.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0507.json",
+     "ref": "19.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0508.json",
+     "ref": "19.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0509.json",
+     "ref": "19.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0510.json",
+     "ref": "19.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0511.json",
+     "ref": "19.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0512.json",
+     "ref": "19.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0513.json",
+     "ref": "19.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0514.json",
+     "ref": "19.23",
+     "title": "Chapter 23",
+     "segments": 2
+    },
+    {
+     "file": "0515.json",
+     "ref": "19.24",
+     "title": "Chapter 24",
+     "segments": 2
+    },
+    {
+     "file": "0516.json",
+     "ref": "19.25",
+     "title": "Chapter 25",
+     "segments": 2
+    },
+    {
+     "file": "0517.json",
+     "ref": "20.1",
+     "title": "Chapter 1",
+     "segments": 3
+    },
+    {
+     "file": "0518.json",
+     "ref": "20.2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0519.json",
+     "ref": "20.3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0520.json",
+     "ref": "20.4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0521.json",
+     "ref": "20.5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0522.json",
+     "ref": "20.6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0523.json",
+     "ref": "20.7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0524.json",
+     "ref": "20.8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0525.json",
+     "ref": "20.9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0526.json",
+     "ref": "20.10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0527.json",
+     "ref": "20.11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0528.json",
+     "ref": "20.12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0529.json",
+     "ref": "20.13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0530.json",
+     "ref": "20.14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0531.json",
+     "ref": "20.15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0532.json",
+     "ref": "20.16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0533.json",
+     "ref": "20.17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0534.json",
+     "ref": "20.18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0535.json",
+     "ref": "20.19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0536.json",
+     "ref": "20.20",
+     "title": "Chapter 20",
+     "segments": 2
+    },
+    {
+     "file": "0537.json",
+     "ref": "20.21",
+     "title": "Chapter 21",
+     "segments": 2
+    },
+    {
+     "file": "0538.json",
+     "ref": "20.22",
+     "title": "Chapter 22",
+     "segments": 2
+    },
+    {
+     "file": "0539.json",
+     "ref": "20.23",
+     "title": "Chapter 23",
+     "segments": 2
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 2,
+  "shared": 505,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 34
+ }
+}

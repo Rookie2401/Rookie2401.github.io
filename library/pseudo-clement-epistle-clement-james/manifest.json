@@ -1,0 +1,396 @@
+{
+ "workId": "pseudo-clement-epistle-clement-james",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "pseudo-clement-epistle-clement-james-schwegler-grc-first1k",
+   "role": "original",
+   "language": "greek",
+   "credit": "Ἐπιστολὴ Κλήμεντος πρὸς Ἰάκωβον, in Clementis Romani quae feruntur Homiliae viginti, ed. Albert Schwegler (Stuttgart: A. Becher, 1847). Open Greek and Latin / First1KGreek, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg1271/tlg005/tlg1271.tlg005.1st1K-grc1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 39754,
+   "sourceSha256": "b3e886feb86ab765123c3bd24e401517b126791aae38c624d19ba5da841d0793",
+   "leftOut": {
+    "pb": 7
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 2474,
+    "barePerThousand": 28,
+    "digitWords": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Κλήμης Ἰακώβῳ τῷ κυρίῳ καὶ ἐπισκόπων ἐπισκόπῳ, διέποντι δὲ τὴν ᾽Ιερουσαλὴμ ἁγίαν Ἑβραίων ἐκκλησίαν καὶ τὰς πανταχῆ Θεοῦ προνοίᾳ ἱδρυθείσας καλῶς, σύν τε πρεσβυτέροις καὶ διακόνοις καὶ τοῖς λοιποῖς ἅπασιν ἀδελφοῖς, εἰρήνη εἴη πάντοτε.",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "16",
+     "segments": 1
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "17",
+     "segments": 1
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "18",
+     "segments": 1
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "19",
+     "segments": 1
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "20",
+     "segments": 1
+    }
+   ]
+  },
+  {
+   "editionId": "pseudo-clement-epistle-clement-james-anf8-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "Epistle of Clement to James, in The Ante-Nicene Fathers, vol. 8 (American edition, ed. A. Cleveland Coxe), trans. Thomas Smith; Peter Peterson; James Donaldson (as printed in ANF vol. 8) (Buffalo: Christian Literature Publishing Co., 1886). Wikisource contributors, English Wikisource (Ante-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/Pseudo-Clementine_Literature/The_Clementine_Homilies/Epistle_of_Clement_to_James",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 28956,
+   "sourceSha256": "db270f5c3eeb0a74f90c3eb90d11fba0063a098014d2e6114b4bbf00c9d7cd61",
+   "leftOut": {
+    "note": 5,
+    "templates": {
+     "anon": 20
+    }
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Epistle of Clement to James/Chapter 1",
+     "bytes": 2348,
+     "sha256": "76e747c595321fcdcf17fb08687b5afd32f89ca47c59ef3fdc902c0af5002496"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Epistle of Clement to James/Chapter 2",
+     "bytes": 1769,
+     "sha256": "6af00434e4adfc2dc89f7854fbe94ed5b4db09b314d84f2394b5a5e250353a33"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Epistle of Clement to James/Chapter 3",
+     "bytes": 1730,
+     "sha256": "0d1454eb148f6c466e8d1f99561ce7153e33686e9c1eb9faa657fb0d0414cd76"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Epistle of Clement to James/Chapter 4",
+     "bytes": 1320,
+     "sha256": "1ade6473b953f7b42dd629345c05a1d921cf62cc9001b3109e94df1f1aaf8ed7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Epistle of Clement to James/Chapter 5",
+     "bytes": 1606,
+     "sha256": "a4b8ab3ca98aad988caf1380e10f11d557b790392e4f0794c979bc002b4e4a89"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Epistle of Clement to James/Chapter 6",
+     "bytes": 1148,
+     "sha256": "7773c5c7cfd504249e9e4920f144ef032070d617db69b251bac5777e2c519019"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Epistle of Clement to James/Chapter 7",
+     "bytes": 1516,
+     "sha256": "c542f26e1a935a2c6bba10b6f27c3af27e6536e4cce537b3db45f37e88fb6b1d"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Epistle of Clement to James/Chapter 8",
+     "bytes": 1299,
+     "sha256": "1b54f1066c2133caea2ae0d55c3fc48a1e48ba7e9719c5563ba178962b6769f7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Epistle of Clement to James/Chapter 9",
+     "bytes": 1362,
+     "sha256": "756f7a6961a04210f2dcef9b14d9df49248310e7c8510b812901f1310bf0f2d4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Epistle of Clement to James/Chapter 10",
+     "bytes": 1702,
+     "sha256": "26d82f387db6e3e6b474dc3d5f4a49b908b2de095c49e11dca895dad6918bd1f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Epistle of Clement to James/Chapter 11",
+     "bytes": 861,
+     "sha256": "63a90550854b54e601f1ce2d03701925bca5c05d88b4764e71407632e1a030d4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Epistle of Clement to James/Chapter 12",
+     "bytes": 1387,
+     "sha256": "c8ea4dfce8cd8e7fef37da7a5e1970b66901688fa6c784b72915060cd872442f"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Epistle of Clement to James/Chapter 13",
+     "bytes": 916,
+     "sha256": "143f30b041f1f231f160d12c1a06d74f17b83a2da121377e88c5249dad84ff35"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Epistle of Clement to James/Chapter 14",
+     "bytes": 1780,
+     "sha256": "113efa4d7f9ca436c93de46710c4010eb9ffbb1f89ed74561566f6a9dbe50fa7"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Epistle of Clement to James/Chapter 15",
+     "bytes": 1501,
+     "sha256": "5984367c83845d691ccb0ebd42761b111acbf5d55e4e592a8e40c88e0a7fa5a4"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Epistle of Clement to James/Chapter 16",
+     "bytes": 1383,
+     "sha256": "18e7a5602a48a53d1f424e1a254f46c11fc0ad507d6757694447697dcdb11327"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Epistle of Clement to James/Chapter 17",
+     "bytes": 1332,
+     "sha256": "8c8ae1048f839db90700706e8a8b8239b470f49ebebcc0957c5743f51ed01fac"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Epistle of Clement to James/Chapter 18",
+     "bytes": 1308,
+     "sha256": "d84e0956da5c020432d259f5f7f57a544024f75d5748bf265e1f225353327a81"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Epistle of Clement to James/Chapter 19",
+     "bytes": 1428,
+     "sha256": "7477771fdf2775b610aead34fcdfb61ce69266f38bab5da929df2f48025f6b15"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/Pseudo-Clementine Literature/The Clementine Homilies/Epistle of Clement to James/Chapter 20",
+     "bytes": 1260,
+     "sha256": "af25e0b09f96096287f99c34e565540fc11d33d360764f07e8bd6f0149b14b06"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Chapter 1",
+     "segments": 4
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "Chapter 2",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "Chapter 3",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "Chapter 4",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "Chapter 5",
+     "segments": 2
+    },
+    {
+     "file": "0006.json",
+     "ref": "6",
+     "title": "Chapter 6",
+     "segments": 2
+    },
+    {
+     "file": "0007.json",
+     "ref": "7",
+     "title": "Chapter 7",
+     "segments": 2
+    },
+    {
+     "file": "0008.json",
+     "ref": "8",
+     "title": "Chapter 8",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "9",
+     "title": "Chapter 9",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "10",
+     "title": "Chapter 10",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "11",
+     "title": "Chapter 11",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "12",
+     "title": "Chapter 12",
+     "segments": 2
+    },
+    {
+     "file": "0013.json",
+     "ref": "13",
+     "title": "Chapter 13",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "14",
+     "title": "Chapter 14",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "15",
+     "title": "Chapter 15",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "16",
+     "title": "Chapter 16",
+     "segments": 2
+    },
+    {
+     "file": "0017.json",
+     "ref": "17",
+     "title": "Chapter 17",
+     "segments": 2
+    },
+    {
+     "file": "0018.json",
+     "ref": "18",
+     "title": "Chapter 18",
+     "segments": 2
+    },
+    {
+     "file": "0019.json",
+     "ref": "19",
+     "title": "Chapter 19",
+     "segments": 2
+    },
+    {
+     "file": "0020.json",
+     "ref": "20",
+     "title": "Chapter 20",
+     "segments": 2
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 20,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 0
+ }
+}

@@ -1,0 +1,149 @@
+{
+ "workId": "pseudo-clement-recognitions",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "pseudo-clement-recognitions-anf8-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "The Recognitions of Clement, in The Ante-Nicene Fathers, vol. 8 (American edition, ed. A. Cleveland Coxe), trans. Thomas Smith (as printed in ANF vol. 8) (Buffalo: Christian Literature Publishing Co., 1886). Wikisource contributors, English Wikisource (Ante-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/The_Recognitions_of_Clement",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 726562,
+   "sourceSha256": "a8e6db34eaa8b93314c1916ec04ce866fb819d4b6aa5bfb85a97421faf9c3232",
+   "leftOut": {
+    "note": 359,
+    "templates": {
+     "anon": 11
+    }
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/The Recognitions of Clement/Preface",
+     "bytes": 7091,
+     "sha256": "1703a859e6736c359bf9c7d9d7793c45210191d943041ab9b43655825f542067"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/The Recognitions of Clement/Book I",
+     "bytes": 109445,
+     "sha256": "3079c00b93297e394a8dbb6c765fc59e3e8d55b2bc54ad75afffc407c2c74e6e"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/The Recognitions of Clement/Book II",
+     "bytes": 110042,
+     "sha256": "c929c3be28ec924d04f5b41ec00c790671ed2cbdc3231e772f5c4ecefe0cfc96"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/The Recognitions of Clement/Book III",
+     "bytes": 93348,
+     "sha256": "efc6ff82487827a43143d0d0eae102191b547a561886c0f81abb77742f3a9977"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/The Recognitions of Clement/Book IV",
+     "bytes": 47181,
+     "sha256": "8ec894ed962bd3f49664deed35fc43ec8d6b2f227fb9b4821c8d12c8467fb9c5"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/The Recognitions of Clement/Book V",
+     "bytes": 49083,
+     "sha256": "4f8d977e8d962bb0738223ab1aaa607447d0d5c66b09dc1c1d44a157476abd4b"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/The Recognitions of Clement/Book VI",
+     "bytes": 22409,
+     "sha256": "7e9ee8a6bf9b712a73235c048f84075c2efa888754d6bdeec145c8ee9d5fc817"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/The Recognitions of Clement/Book VII",
+     "bytes": 45801,
+     "sha256": "d3e4218c620f773df27855851bb3ca94dbd4e36a9bbbb5624bd9e1a94b94f7f2"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/The Recognitions of Clement/Book VIII",
+     "bytes": 90943,
+     "sha256": "5655284a4fa6cdc59536cc50e883d8cdaf1e7700764cc244754529ae4d50c217"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/The Recognitions of Clement/Book IX",
+     "bytes": 52645,
+     "sha256": "d889c75fac0fd1c964eda9001dfe9d15cf8e807a94f15e93825b094f7fd8d92c"
+    },
+    {
+     "title": "Ante-Nicene Fathers/Volume VIII/The Recognitions of Clement/Book X",
+     "bytes": 98574,
+     "sha256": "8720e67134a033a2a30f74faf7fea2c7bade089f240ef08ec0c70178d23f7314"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "p1",
+     "title": "Preface",
+     "segments": 4
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "Book I",
+     "segments": 154
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "Book II",
+     "segments": 146
+    },
+    {
+     "file": "0004.json",
+     "ref": "3",
+     "title": "Book III",
+     "segments": 131
+    },
+    {
+     "file": "0005.json",
+     "ref": "4",
+     "title": "Book IV",
+     "segments": 75
+    },
+    {
+     "file": "0006.json",
+     "ref": "5",
+     "title": "Book V",
+     "segments": 74
+    },
+    {
+     "file": "0007.json",
+     "ref": "6",
+     "title": "Book VI",
+     "segments": 31
+    },
+    {
+     "file": "0008.json",
+     "ref": "7",
+     "title": "Book VII",
+     "segments": 77
+    },
+    {
+     "file": "0009.json",
+     "ref": "8",
+     "title": "Book VIII",
+     "segments": 125
+    },
+    {
+     "file": "0010.json",
+     "ref": "9",
+     "title": "Book IX",
+     "segments": 77
+    },
+    {
+     "file": "0011.json",
+     "ref": "10",
+     "title": "Book X",
+     "segments": 143
+    }
+   ]
+  }
+ ]
+}
