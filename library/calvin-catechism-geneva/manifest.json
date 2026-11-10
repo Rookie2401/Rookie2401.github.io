@@ -1,0 +1,41 @@
+{
+ "workId": "calvin-catechism-geneva",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "calvin-catechism-geneva-tcp-1556",
+   "role": "english",
+   "language": "english",
+   "credit": "The catechisme or manner to teache children the Christian religion wherin the minister demandeth the question, and the childe maketh answere. Made by the excellent …, in EEBO-TCP A17610 (STC 4380), trans. Anonymous (the printing names no translator) (Geneva: By Iohn Crespin, 1556). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A17610/master/A17610.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 318876,
+   "sourceSha256": "cb2c6e4f5ee9fc33e500ec37c7cc3720491b16379aa4dd88d173b5ded31a8143",
+   "leftOut": {
+    "pb": 154,
+    "note": 299,
+    "unread": 2
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 27034,
+    "unreadPerThousand": 0.1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Of the Articles of faithe.",
+     "segments": 749
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "THE MANER TO EXAmine chyldren before they be admitted to the Supper of the lord.",
+     "segments": 33
+    }
+   ]
+  }
+ ]
+}

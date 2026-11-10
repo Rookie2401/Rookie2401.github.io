@@ -1,0 +1,42 @@
+{
+ "workId": "calvin-sermon-persecution",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "calvin-sermon-persecution-tcp-1581",
+   "role": "english",
+   "language": "english",
+   "credit": "A sermon of the famous and Godly learned man, master Iohn Caluine chiefe Minister and Pastour of Christs church at Geneua, conteining an exhortation to suffer …, in EEBO-TCP A17693 (STC 4439.5), trans. John Fielde; I. P (London: By Robert VValdegraue for Edward VVhite, 1581). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A17693/master/A17693.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 76579,
+   "sourceSha256": "3805035287eaef2cc8a4066d924c038a14053a9b1944aa03e7f9baabb2ca45c9",
+   "leftOut": {
+    "pb": 44,
+    "note": 71,
+    "unread": 1,
+    "figure": 1
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 8367,
+    "unreadPerThousand": 0.1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "A SERMON of the Famous and godly learned man, Maſter Iohn Caluine, Chiefe miniſter and Pastour of Christes Church at Geneua, conteining an exhortation to ſuffer perſecution.",
+     "segments": 12
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "An anſwere to the ſlaunders of the papiſtes againſt Chriſts ſyllie flock, appointed to the ſlaughter through fire.",
+     "segments": 21
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,335 @@
+{
+ "workId": "calvin-sermons-ephesians",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "calvin-sermons-ephesians-tcp-1577",
+   "role": "english",
+   "language": "english",
+   "credit": "The sermons of M. Iohn Caluin, vpon the Epistle of S. Paule too the Ephesians. Translated out of French into English by Arthur Golding, in EEBO-TCP A17705 (STC 4448), trans. Arthur Golding (London: [By Thomas Dawson] for Lucas Harison, and George Byshop, 1577). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A17705/master/A17705.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 2379411,
+   "sourceSha256": "ec5430010801378dda5e6e5fa89e87b142281c45a416acf56a800d88bb984757",
+   "leftOut": {
+    "pb": 730,
+    "unread": 2518,
+    "note": 944
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 332859,
+    "unreadPerThousand": 7.6
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "¶To the most reuerend father in God and his speciall good Lord, Edmund by the grace of God Archbishop of Caun •• burie. &c. Arthur Golding wisheth abundance of all heauenly wisdome, grace, and health ",
+     "segments": 14
+    },
+    {
+     "file": "0002.json",
+     "ref": "front.2",
+     "title": "To all Christians baptized in the name of the Father, and of the Sonne, and of the holy Ghost, dwelling or abyding in Fraunce, greeting.",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "front.3",
+     "title": "¶The Argument of Saint Paules Epistle too the Ephesians.",
+     "segments": 4
+    },
+    {
+     "file": "0004.json",
+     "ref": "1",
+     "title": "The first Sermon vpon the first Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0005.json",
+     "ref": "2",
+     "title": "¶The second Sermon vppon the first Chapter.",
+     "segments": 11
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.3",
+     "title": "¶The third Sermon vppon the first Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.4",
+     "title": "¶The fourth Sermon vppon the first Chapter.",
+     "segments": 13
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.5",
+     "title": "The fifth Sermon vpon the first Chapter.",
+     "segments": 12
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.6",
+     "title": "¶The sixth Sermon vppon the first Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.7",
+     "title": "The seuenth Sermon vpon the first Chapter.",
+     "segments": 13
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.8",
+     "title": "The eight Sermon vpon the first Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.9",
+     "title": "The nienth Sermon, which is the first vppon the second Chapter.",
+     "segments": 11
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.10",
+     "title": "The tenth Sermon, which is the second vppon the second Chapter.",
+     "segments": 11
+    },
+    {
+     "file": "0014.json",
+     "ref": "1.11",
+     "title": "The eleuenth Sermon, which is the third vppon the second Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0015.json",
+     "ref": "1.12",
+     "title": "The twelfth Sermon, which is the fourth vppon the second Chapter.",
+     "segments": 16
+    },
+    {
+     "file": "0016.json",
+     "ref": "1.13",
+     "title": "The.xiii. Sermon, which is the fift vppon the second Chapter.",
+     "segments": 13
+    },
+    {
+     "file": "0017.json",
+     "ref": "1.14",
+     "title": "The.xiiii. Sermon, which is the sixth vppon the second Chapter.",
+     "segments": 11
+    },
+    {
+     "file": "0018.json",
+     "ref": "1.15",
+     "title": "The.xv. Sermon, which is the seuenth vppon the second Chapter.",
+     "segments": 16
+    },
+    {
+     "file": "0019.json",
+     "ref": "1.16",
+     "title": "The.xvi. Sermon, which is the first vppon the third Chapter.",
+     "segments": 16
+    },
+    {
+     "file": "0020.json",
+     "ref": "1.17",
+     "title": "The.xvii. Sermon, which is the second vppon the third Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0021.json",
+     "ref": "1.18",
+     "title": "The.xviii. Sermon, which is the third vppon the third Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0022.json",
+     "ref": "1.19",
+     "title": "The.xix. Sermon, which is the fourth vppon the third Chapter.",
+     "segments": 12
+    },
+    {
+     "file": "0023.json",
+     "ref": "1.20",
+     "title": "The.xx. Sermon, which is the fifth vppon the third Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0024.json",
+     "ref": "1.21",
+     "title": "The.xxi. Sermon, which is the sixth vppon the third Chapter, and the first vppon the fourth.",
+     "segments": 14
+    },
+    {
+     "file": "0025.json",
+     "ref": "1.22",
+     "title": "The.xxii. Sermon, which is the second vppon the fourth Chapter.",
+     "segments": 19
+    },
+    {
+     "file": "0026.json",
+     "ref": "1.23",
+     "title": "The.xxiii. Sermon, which is the third vppon the fourth Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0027.json",
+     "ref": "1.24",
+     "title": "The.xxiiii. Sermon, which is the fourth vppon the fourth Chapter.",
+     "segments": 11
+    },
+    {
+     "file": "0028.json",
+     "ref": "1.25",
+     "title": "The.xxv. Sermon, which is the fifth vppon the fourth Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0029.json",
+     "ref": "1.26",
+     "title": "The.xxvi. Sermon which is the sixt vppon the fourth Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0030.json",
+     "ref": "1.27",
+     "title": "The.xxvii. Sermon, which is the seuenth vppon the fourth Chapter.",
+     "segments": 20
+    },
+    {
+     "file": "0031.json",
+     "ref": "1.28",
+     "title": "The.xxviii. Sermon, which is the eyght vppon the fourth Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0032.json",
+     "ref": "1.29",
+     "title": "The.xxix. Sermon, which is the nynth vppon the fourth Chapter.",
+     "segments": 16
+    },
+    {
+     "file": "0033.json",
+     "ref": "1.30",
+     "title": "The.xxx. Sermon, which is the tenth vppon the fourth Chapter.",
+     "segments": 13
+    },
+    {
+     "file": "0034.json",
+     "ref": "1.31",
+     "title": "The.xxxi. Sermon, which is the eleuenth vppon the fourth Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0035.json",
+     "ref": "1.32",
+     "title": "The.xxxii. Sermon, which is the twelfth vppon the fourth Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0036.json",
+     "ref": "1.33",
+     "title": "The.xxxiii. Sermon, which is the thirteenth vppon the fourth Chapter, and the first vppon the fifth Chapter.",
+     "segments": 14
+    },
+    {
+     "file": "0037.json",
+     "ref": "1.34",
+     "title": "The.xxxiiii. Sermon, which is the second vppon the fifth Chapter.",
+     "segments": 13
+    },
+    {
+     "file": "0038.json",
+     "ref": "1.35",
+     "title": "The.xxxv. Sermon, which is the third vppon the fifth Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0039.json",
+     "ref": "1.36",
+     "title": "The.xxxvi. Sermon, which is the fourth vppon the fifth Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0040.json",
+     "ref": "1.37",
+     "title": "The.xxxvii. Sermon, which is the fifth vppon the fifth Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0041.json",
+     "ref": "1.38",
+     "title": "The.xxxviii. Sermon, which is the sixth vppon the fifth Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0042.json",
+     "ref": "1.39",
+     "title": "The.xxxix. Sermon, which is the seuenth vppon the fifth Chapter.",
+     "segments": 16
+    },
+    {
+     "file": "0043.json",
+     "ref": "1.40",
+     "title": "The.xl. Sermon, which is the eyght vppon the fifth Chapter.",
+     "segments": 19
+    },
+    {
+     "file": "0044.json",
+     "ref": "1.41",
+     "title": "The.xli. Sermon, which is the nyenth vppon the fifth Chapter.",
+     "segments": 17
+    },
+    {
+     "file": "0045.json",
+     "ref": "1.42",
+     "title": "The.xlii. Sermon, which is the tenth vppon the fifth Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0046.json",
+     "ref": "1.43",
+     "title": "The.xliii. Sermon, which is the first vppon the sixth Chapter.",
+     "segments": 19
+    },
+    {
+     "file": "0047.json",
+     "ref": "1.44",
+     "title": "The.xliiii. Sermon, which is the second vppon the sixth Chapter.",
+     "segments": 19
+    },
+    {
+     "file": "0048.json",
+     "ref": "1.45",
+     "title": "The.xlv. Sermon, which is the third vppon the sixth Chapter.",
+     "segments": 13
+    },
+    {
+     "file": "0049.json",
+     "ref": "1.46",
+     "title": "The.xlvi. Sermon, which is the fourth vppon the sixth Chapter.",
+     "segments": 15
+    },
+    {
+     "file": "0050.json",
+     "ref": "1.47",
+     "title": "The.xlvii. Sermon, which is the fifth vppon the sixth Chapter.",
+     "segments": 16
+    },
+    {
+     "file": "0051.json",
+     "ref": "1.48",
+     "title": "The.xlviii. Sermon, which is the sixth and last vppon the sixth Chapter.",
+     "segments": 24
+    }
+   ]
+  }
+ ]
+}

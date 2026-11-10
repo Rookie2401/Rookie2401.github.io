@@ -1,0 +1,53 @@
+{
+ "workId": "calvin-sermons-hezekiah",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "calvin-sermons-hezekiah-tcp-1560",
+   "role": "english",
+   "language": "english",
+   "credit": "Sermons of Iohn Caluin, vpon the songe that Ezechias made after he had bene sicke and afflicted by the hand of God, conteyned in the 38. chapiter of Esay. Translated out …, in EEBO-TCP A17716 (STC 4450), trans. A. L (London ouer Aldersgate: by Iohn Day. And are there to be solde at his shoppe vnder the gate, 1560). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A17716/master/A17716.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 253468,
+   "sourceSha256": "cf9b3c675f04f374b471d378177f4b6de60e5725b2363c2077652c44e69fdc13",
+   "leftOut": {
+    "pb": 94,
+    "note": 30,
+    "unread": 10
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 28413,
+    "unreadPerThousand": 0.4
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 26
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "THE SECONDE ſermon.",
+     "segments": 20
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 22
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "THE FOVRTH SERmon.",
+     "segments": 33
+    }
+   ]
+  }
+ ]
+}

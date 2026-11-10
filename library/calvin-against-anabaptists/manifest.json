@@ -1,0 +1,107 @@
+{
+ "workId": "calvin-against-anabaptists",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "calvin-against-anabaptists-tcp-1549",
+   "role": "english",
+   "language": "english",
+   "credit": "A short instruction for to arme all good Christian people agaynst the pestiferous errours of the common secte of Anabaptistes. Compiled by mayster Iohn Caluine, in EEBO-TCP A17726 (STC 4463), trans. Anonymous (the printing names no translator) (London: By Ihon Daye, dwellinge at Aldersgate, and William Seres, dwellinge in Peter Colledge These bokes are too be sold at the new shop by the litle conduite in Chepeside, 1549). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A17726/master/A17726.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 323411,
+   "sourceSha256": "70b64ebe66687fb90500ebf54a7224b6dea5cee48d3ca0df0ff3681dcd22dc91",
+   "leftOut": {
+    "pb": 165,
+    "unread": 43,
+    "note": 8
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 42482,
+    "unreadPerThousand": 1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "¶ Iohn Caluine to the miniſters of the churches in the countie of Newecaſtel.",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "0",
+     "title": "Of the Anabaptiſtes.",
+     "segments": 4
+    },
+    {
+     "file": "0003.json",
+     "ref": "1.1.0",
+     "title": "¶ The fyrſte Article of Baptiſme.",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "1.1.1",
+     "title": "☞ The confutacion.",
+     "segments": 13
+    },
+    {
+     "file": "0005.json",
+     "ref": "1.2.0",
+     "title": "¶ The ſecond Article of excommunicacion and contayneth three other artiles.",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "1.2.1",
+     "title": "☞ Confutacion",
+     "segments": 33
+    },
+    {
+     "file": "0007.json",
+     "ref": "1.3.0",
+     "title": "¶ The ſixte Article of Magiſtrates",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "1.3.1",
+     "title": "☞ The confutation.",
+     "segments": 25
+    },
+    {
+     "file": "0009.json",
+     "ref": "1.4.0",
+     "title": "¶ The ſeuēth Article of Swerynge.",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "1.4.1",
+     "title": "☞ The confutation.",
+     "segments": 32
+    },
+    {
+     "file": "0011.json",
+     "ref": "1.5.0",
+     "title": "The two laſte Articles.",
+     "segments": 39
+    },
+    {
+     "file": "0012.json",
+     "ref": "1.5.1",
+     "title": "¶ The ſecond Article,",
+     "segments": 146
+    },
+    {
+     "file": "0013.json",
+     "ref": "1.end",
+     "title": "1.end",
+     "segments": 2
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "workId": "calvin-certain-homilies",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "calvin-certain-homilies-tcp-1553",
+   "role": "english",
+   "language": "english",
+   "credit": "Certaine homilies of m. Ioan Calvine conteining profitable and necessarie, admonitio[n] for this time, with an apologie of Robert Horn., in EEBO-TCP A17636 (STC 4392), trans. Robert Horne (Rome i.e. Wesel?: Before the castle of.s. Angel, at the signe of.s. Peter [i.e. printed by J. Lambrecht? for Hugh Singleton?], 1553). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A17636/master/A17636.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 262872,
+   "sourceSha256": "b6d185cd88e193b18f7f3ccec87ca98613fb734694db17c1f4f2302df7808293",
+   "leftOut": {
+    "pb": 118,
+    "unread": 15,
+    "note": 25
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 29725,
+    "unreadPerThousand": 0.5
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "¶ Grace / peace / and mercye from God ye father of our lord Ieſus Chriſte. Amen.",
+     "segments": 7
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "A ſermon / wher in all Chriſtianes ar admoniſhed to flye the outward Idolatrie / taken out of ye iij. verſe of the xvj. Pſalme: I will not coīcate wt their bloudye ſacrifices / nether will j take thei",
+     "segments": 6
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "An homily conteining An exhortation to ſuffer perſequutiō / yt we maye ther in folow Ieſus Chriſt & his goſpel / takē of this ſaīg / in ye xiij. Cap. to the Hebreues. Let vs go forth to him without th",
+     "segments": 26
+    }
+   ]
+  }
+ ]
+}

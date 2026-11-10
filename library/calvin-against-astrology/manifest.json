@@ -1,0 +1,41 @@
+{
+ "workId": "calvin-against-astrology",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "calvin-against-astrology-tcp-1561",
+   "role": "english",
+   "language": "english",
+   "credit": "An admonicion against astrology iudiciall and other curiosities, that raigne novv in the vvorld: written in the french tonge by Ihon Caluine and translated into English, …, in EEBO-TCP A17597 (STC 4372), trans. Goddred Gilby (London: By Roulande Hall, dwellyng in Golding lane, at the signe of the thre arrowes, 1561). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A17597/master/A17597.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 106364,
+   "sourceSha256": "f5e871531523e382de71c5525619f6737767a79c5955853782cf200193fb4883",
+   "leftOut": {
+    "pb": 80,
+    "unread": 4,
+    "note": 9
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 13276,
+    "unreadPerThousand": 0.3
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "To the Reader.",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "An admonicion AGAYNST ASTROLOgye Iudiciall, and other curioſities.",
+     "segments": 62
+    }
+   ]
+  }
+ ]
+}

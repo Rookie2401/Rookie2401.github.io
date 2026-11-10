@@ -1,0 +1,59 @@
+{
+ "workId": "calvin-three-propositions",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "calvin-three-propositions-tcp-1580",
+   "role": "english",
+   "language": "english",
+   "credit": "Three propositions or speeches, which that excellent man M. Iohn Caluin, one of the pastors of the Church of God in Geneua had there To which also is added, an …, in EEBO-TCP A17727 (STC 4464), trans. T. W. (Thomas Wilcox) (London: [By Thomas Dawson] for George Bishop, 1580). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A17727/master/A17727.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 288772,
+   "sourceSha256": "a8b1ac169eae2f98ae5eccbc1a8d665322bcb379c14e40a760bca0e5a03e4df1",
+   "leftOut": {
+    "pb": 193,
+    "note": 317,
+    "unread": 15
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 35520,
+    "unreadPerThousand": 0.4
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "To the right worſhipfull, Syr Richard Knightley Knight, and the Right Honourable the Ladie Elizabeth his wyfe. T. W. wiſheth all growth in goodnes, with conſtancie and continuance in the truth of God ",
+     "segments": 8
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "¶ A Propoſition, or ſpeach made by M. Iohn Caluin, vppon the beginning of the Goſpell accordyng to Saint Iohn, in which the deitie or Godhead of our Lord Ieſus Chriſt is excellently prooued.",
+     "segments": 4
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "The ſecond Congregation or ſpeach of Maſter Iohn Caluin, propounded and deliuered out of the ſecond Chapter of the Epiſtle of Sainct Paul to the Galathians, verſe the eleuenth, & ſome other folowing.",
+     "segments": 5
+    },
+    {
+     "file": "0004.json",
+     "ref": "3",
+     "title": "The ſeconde Propoſition or ſpeache, of M.I. Cal. vpon the ſeconde to the Galat.",
+     "segments": 5
+    },
+    {
+     "file": "0005.json",
+     "ref": "4",
+     "title": "An expoſition of that part of the Catechiſme, which is appointed for the three and fortieth Sunday.",
+     "segments": 36
+    }
+   ]
+  }
+ ]
+}

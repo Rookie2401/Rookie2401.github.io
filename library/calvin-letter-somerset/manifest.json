@@ -1,0 +1,41 @@
+{
+ "workId": "calvin-letter-somerset",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "calvin-letter-somerset-tcp-1550",
+   "role": "english",
+   "language": "english",
+   "credit": "An epistle both of Godly consolacion and also of aduertisement written by Iohn Caluine the pastour & preacher of Geneua, to the right noble prince Edvvarde Duke of …, in EEBO-TCP A17651 (STC 4407), trans. Anonymous (the printing names no translator) (London: By [W. Baldwin? in the shop of] Edward Whitchurche, 1550). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A17651/master/A17651.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 72252,
+   "sourceSha256": "9323c4e4786adcf4c57cff6c38414aa62015ee1666fec58488ad62147752fc3f",
+   "leftOut": {
+    "pb": 66,
+    "unread": 12,
+    "note": 57
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 7165,
+    "unreadPerThousand": 1.7
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "To the Chriſtian reader.",
+     "segments": 3
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "The Epiſtle of John Caluine",
+     "segments": 5
+    }
+   ]
+  }
+ ]
+}

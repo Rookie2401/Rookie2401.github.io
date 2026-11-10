@@ -1,0 +1,47 @@
+{
+ "workId": "calvin-two-sermons-1555",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "calvin-two-sermons-1555-tcp-1560",
+   "role": "english",
+   "language": "english",
+   "credit": "Tvvo Godly and notable sermons preached by the excellent and famous clarke, master Iohn Caluyne, in the yere. 1555 The one concernynge pacience in aduersitie: The other …, in EEBO-TCP A69062 (STC 4462), trans. Anonymous (the printing names no translator) (London: By VVyllyam Seres dvveling at the vvest ende of Paules churche at the sygne of the hedgehogge, 1560). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A69062/master/A69062.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 113624,
+   "sourceSha256": "49496491c332fefa30f0080588b808134b2ec0541f64fa0eb2fae7e2b58961ba",
+   "leftOut": {
+    "pb": 98,
+    "note": 316,
+    "unread": 20
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 12356,
+    "unreadPerThousand": 1.6
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "To the Chriſten Reader.",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "Sondaye the.v. of May. 1555. in the forenone.",
+     "segments": 4
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "Sonday the.v. of Maye. 1555. after dyner.",
+     "segments": 10
+    }
+   ]
+  }
+ ]
+}

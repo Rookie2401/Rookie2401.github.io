@@ -1,0 +1,107 @@
+{
+ "workId": "calvin-sermons-melchizedek",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "calvin-sermons-melchizedek-tcp-1592",
+   "role": "english",
+   "language": "english",
+   "credit": "Sermon of Maister Iohn Caluin, on the historie of Melchisedech Wherein is also handled, Abrahams courage in rescuing his nephew Lot: and his Godliness in paying tithes …, in EEBO-TCP A17696 (STC 4440), trans. Thomas Stocker (London: Printed by Iohn Windet, and are to be sold at the shop of Andrew Maunsell, in the Royall Exchaunge, 1592). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A17696/master/A17696.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 479868,
+   "sourceSha256": "7302056867fc9217ae3a01cd59376ce38b82337edfba96cd3b51b635446c21d6",
+   "leftOut": {
+    "pb": 289,
+    "unread": 84,
+    "note": 139
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 68143,
+    "unreadPerThousand": 1.2
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "TO THE RIGHT HONOrable Syr Robert Cycill Knight, one of her Maieſties moſt honourable priuie Councell.",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "front.2",
+     "title": "The Tranſlator to the Chriſtian Reader.",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "1",
+     "title": "THE FIRST SERMON of the Hiſtorie of Melchiſedech: wherin is alſo handled the deliuerance of Lot, done by Abram.",
+     "segments": 5
+    },
+    {
+     "file": "0004.json",
+     "ref": "2",
+     "title": "THE SECOND SERmon of Melchiſedech, wherein is ſhewed that he was a figure that Ieſus Chriſt ſhould be both an euerlaſting King and Prieſt.",
+     "segments": 5
+    },
+    {
+     "file": "0005.json",
+     "ref": "3",
+     "title": "THE THIRD SERMON, of Melchiſedech, wherein is treated of the vſe and right of tithes, and alſo of an oath.",
+     "segments": 4
+    },
+    {
+     "file": "0006.json",
+     "ref": "4",
+     "title": "THE FIRST SERMON, of Iuſtification, preached by Maiſter Iohn Caluin.",
+     "segments": 6
+    },
+    {
+     "file": "0007.json",
+     "ref": "5",
+     "title": "THE SECOND SERmon, of Iuſtification.",
+     "segments": 4
+    },
+    {
+     "file": "0008.json",
+     "ref": "6",
+     "title": "THE THIRD SERMON of Iuſtification.",
+     "segments": 3
+    },
+    {
+     "file": "0009.json",
+     "ref": "7",
+     "title": "THE FOVRTH Sermon of Iuſtification.",
+     "segments": 18
+    },
+    {
+     "file": "0010.json",
+     "ref": "8.0",
+     "title": "Three Sermons, beginning at the latter end of the 21 Chapter of Geneſis, concerning Abrahams ſacrificing of his ſonne Izhak.",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "8.1",
+     "title": "8.1",
+     "segments": 30
+    },
+    {
+     "file": "0012.json",
+     "ref": "8.2",
+     "title": "The Seconde Sermon of Abraham his Sacrificing of his Sonne Iſaak.",
+     "segments": 31
+    },
+    {
+     "file": "0013.json",
+     "ref": "8.end",
+     "title": "8.end",
+     "segments": 1
+    }
+   ]
+  }
+ ]
+}

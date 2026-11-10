@@ -1,0 +1,119 @@
+{
+ "workId": "calvin-four-sermons-psalm-87",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "calvin-four-sermons-psalm-87-tcp-1579",
+   "role": "english",
+   "language": "english",
+   "credit": "Foure sermons of Maister Iohn Caluin entreating of matters very profitable for our time, as may bee seene by the preface: with a briefe exposition of the LXXXVII. …, in EEBO-TCP A17694 (STC 4439), trans. John Fielde (London: [By Thomas Dawson] for Thomas Man, dwelling in Pater Noster Rowe, at the signe of the Talbot, 1579). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A17694/master/A17694.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 302190,
+   "sourceSha256": "aeda2dc848d70f4ff9e899a5d3b6fe0b14980e58702e7ae9942ab6810e023644",
+   "leftOut": {
+    "pb": 129,
+    "unread": 147,
+    "note": 72
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 39715,
+    "unreadPerThousand": 3.7
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "To the right Honorable and my verie good Lorde, Henry Earle of Huntington, Lord Haſtings, Hungerford, Botreaux, Mullens and Moyles, of the moſt Honorable order of the Garter Knight, and Lorde Preſiden",
+     "segments": 2
+    },
+    {
+     "file": "0002.json",
+     "ref": "front.2",
+     "title": "¶ Iohn Caluin to all true Chriſtians, who deſire the aduancement of the kingdome of our Lorde Ieſus Chriſte.",
+     "segments": 6
+    },
+    {
+     "file": "0003.json",
+     "ref": "1",
+     "title": "A Sermon wherein all Chriſtians are exhorted to flie from outward Idolatrie, vpon the 4. verſe of the 16. Pſalme. I will not co 〈8 letters〉 e with their ſacrifices of blood, and their n •• es ſhall no",
+     "segments": 16
+    },
+    {
+     "file": "0004.json",
+     "ref": "2",
+     "title": "❧ The ſeconde Sermon, conteining an exhortation to ſuffer perſecution too followe Ieſus Chriſte and his Goſpell, vppon that place which is in the thriteenth Chapter too the Hebrewes. Let vs therefore ",
+     "segments": 7
+    },
+    {
+     "file": "0005.json",
+     "ref": "3",
+     "title": "❧ The third Sermon shewing how the Faithfull ought too eſteeme the beeyng in the Churche of GOD, where they haue free libertie purely to woorſhip God, gathered vpon the theame of the 27. Pſalme. I hau",
+     "segments": 4
+    },
+    {
+     "file": "0006.json",
+     "ref": "4",
+     "title": "¶ The fourth Sermon shewing what paine wee ought to take, too purchaſe libertie to ſerue GOD purely in a Chriſtian Churche, vpon a Theame out of the 27. Pſalme. My heart hath ſayde of thee, Verſ. 8. ſ",
+     "segments": 8
+    },
+    {
+     "file": "0007.json",
+     "ref": "5.0",
+     "title": "An expoſition vpon the 87. Pſalme.",
+     "segments": 4
+    },
+    {
+     "file": "0008.json",
+     "ref": "5.1",
+     "title": "5.1",
+     "segments": 2
+    },
+    {
+     "file": "0009.json",
+     "ref": "5.2",
+     "title": "5.2",
+     "segments": 2
+    },
+    {
+     "file": "0010.json",
+     "ref": "5.3",
+     "title": "5.3",
+     "segments": 2
+    },
+    {
+     "file": "0011.json",
+     "ref": "5.4",
+     "title": "5.4",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "5.5",
+     "title": "5.5",
+     "segments": 3
+    },
+    {
+     "file": "0013.json",
+     "ref": "5.6",
+     "title": "5.6",
+     "segments": 2
+    },
+    {
+     "file": "0014.json",
+     "ref": "5.7",
+     "title": "5.7",
+     "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "5.end",
+     "title": "5.end",
+     "segments": 1
+    }
+   ]
+  }
+ ]
+}

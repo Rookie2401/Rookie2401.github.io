@@ -1,0 +1,41 @@
+{
+ "workId": "calvin-nicodemites",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "calvin-nicodemites-tcp-1548",
+   "role": "english",
+   "language": "english",
+   "credit": "The mynde of the godly and excellent lerned man M. Ihon Caluyne what a faithfull man, whiche is instructe in the worde of God, ought to do, dwellinge amongest the …, in EEBO-TCP A17688 (STC 4435), trans. R. G (Ippyswiche: By me Ihon Oswen, 1548). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A17688/master/A17688.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 156045,
+   "sourceSha256": "8a045e0a374586d131ef600a2ba37f343625b31e0f09ad31e7f10e2824e4a23b",
+   "leftOut": {
+    "pb": 149,
+    "note": 55,
+    "unread": 4
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 19335,
+    "unreadPerThousand": 0.2
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "The Preface to the Reader.",
+     "segments": 11
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "How a faithfull man ſhall behaue him ſelfe, dwellinge amongeſt the Papiſtes.",
+     "segments": 61
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "workId": "calvin-four-sermons-idolatry",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "calvin-four-sermons-idolatry-tcp-1561",
+   "role": "english",
+   "language": "english",
+   "credit": "Foure godlye sermons agaynst the pollution of idolatries comforting men in persecutions, and teachyng them what commodities thei shal find in Christes church, which were …, in EEBO-TCP A17692 (STC 4438), trans. Robert Horne (London: By Rouland Hall, dwelling in Golding lane at the signe of the thre arrowes, 1561). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A17692/master/A17692.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 343159,
+   "sourceSha256": "fbbd3d8df16930f93fa22168c2b54f00234b8df2714675dc624ba2e4f1d82700",
+   "leftOut": {
+    "pb": 214,
+    "note": 8,
+    "unread": 10
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 43233,
+    "unreadPerThousand": 0.2
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "ROVLAND HALL TO THE READER.",
+     "segments": 3
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "A Sermon vvherein AL CHRITIANS ARE MONIſhed to flye the outward idolatrye, taken out of the.iij. verſe of the.xvj. Pſalme.",
+     "segments": 5
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "The.ii. ſermon conTEINING AN EXHORTATION to ſuffer perſecution, that we may therein folow Ieſus Chriſt and his goſpell, taken of this ſaying, in the.13. Cap. to the Hebrues.",
+     "segments": 7
+    },
+    {
+     "file": "0004.json",
+     "ref": "3",
+     "title": "The thirde Sermon VVHEREIN THE FAITHFVL are admoniſhed how greatly thei oght to eſteme it to liue in the churche of god, where they may purely and with libertie worſhip him, taken forth of this ſenten",
+     "segments": 16
+    },
+    {
+     "file": "0005.json",
+     "ref": "4",
+     "title": "The fourth Sermon VVHEREIN IT IS DECLARED with howe great paines and care the liberty to worſhip God purely in ſome chriſtian church oght to be ſought, taken forth of this ſentence of the.27. Pſalme.",
+     "segments": 21
+    },
+    {
+     "file": "0006.json",
+     "ref": "5",
+     "title": "A ſhort declaratiON OF M. IHON CALVIN vpon the.87. Pſalme.",
+     "segments": 24
+    }
+   ]
+  }
+ ]
+}

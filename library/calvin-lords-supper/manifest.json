@@ -1,0 +1,35 @@
+{
+ "workId": "calvin-lords-supper",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "calvin-lords-supper-tcp-1548",
+   "role": "english",
+   "language": "english",
+   "credit": "A faythfull and moost godlye treatyse concernyng the most sacred Sacrament of the blessed body and bloude of our sauioure Chryst, co[m]piled by Iohn Caluyne, a man of no …, in EEBO-TCP A17659 (STC 4411), trans. Thomas Broke; Miles Coverdale (London: Printed by John Day for William Seres?, 1548). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A17659/master/A17659.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 244951,
+   "sourceSha256": "8b57de61bc21343ca685abc8c4c1a6b128f955d81c1faf87e0836887ffc046dc",
+   "leftOut": {
+    "pb": 45,
+    "unread": 109,
+    "note": 58
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 13377,
+    "unreadPerThousand": 8.1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 60
+    }
+   ]
+  }
+ ]
+}

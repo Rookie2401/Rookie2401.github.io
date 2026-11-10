@@ -1,0 +1,41 @@
+{
+ "workId": "calvin-two-sermons-horne",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "calvin-two-sermons-horne-tcp-1584",
+   "role": "english",
+   "language": "english",
+   "credit": "Two godly and learned sermons, made by that famous and woorthy instrument in Gods church, M. Iohn Caluin. Which sermons were long since translated out of Latine into …, in EEBO-TCP A17725 (STC 4461), trans. Robert Horne; Anthony Munday (London: Printed [by John Charlewood] for Henry Car, and are to be sold in Paules Churchyard, ouer against the signe of the blasing starre, 1584). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A17725/master/A17725.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 243162,
+   "sourceSha256": "6f6cb2fd36ab2f9a761d45ab009bbe07984d4b54a4b6c2a124345d00c3041456",
+   "leftOut": {
+    "pb": 101,
+    "note": 74,
+    "unread": 28
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 18975,
+    "unreadPerThousand": 1.5
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "¶A Godly and learned Sermon, made by Maister Ihon Caluin, wherein all Chriſtians are admoniſhed, to flie outward Idolatrie. Taken out, of the thirde verſe, of the ſixteene Pſalme.",
+     "segments": 80
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "❧A Godly and learned Sermon, made by M. Iohn Caluin conteyning, an exhortation to ſuffer perſecution, that we may therein follow Ieſus Chriſt and his Goſpel, taken out in this ſaying, in the 13. Chapt",
+     "segments": 86
+    }
+   ]
+  }
+ ]
+}

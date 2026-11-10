@@ -1,0 +1,35 @@
+{
+ "workId": "calvin-letter-communicate-papists",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "calvin-letter-communicate-papists-tcp-1544",
+   "role": "english",
+   "language": "english",
+   "credit": "Two epystles one of Henry Bullynger, wyth the consent of all the lernyd men of the Churche of Tigury: another of Ihon Caluyn, cheffe preacher of the church of Geneue: …, in EEBO-TCP A17222 (STC 4079.5), trans. Anonymous (the printing names no translator) (Antwerp: M. Crom?, 1544). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A17222/master/A17222.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 59526,
+   "sourceSha256": "7e81e2df686a03a9e11bee7ea7518d0c36241acae22fe5fc7b95c64ccc2045ce",
+   "leftOut": {
+    "pb": 8,
+    "note": 7,
+    "unread": 2
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 3280,
+    "unreadPerThousand": 0.6
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "The Epiſtle of Iohn Caluyne.",
+     "segments": 6
+    }
+   ]
+  }
+ ]
+}

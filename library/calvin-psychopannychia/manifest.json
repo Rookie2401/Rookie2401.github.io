@@ -1,0 +1,59 @@
+{
+ "workId": "calvin-psychopannychia",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "calvin-psychopannychia-tcp-1581",
+   "role": "english",
+   "language": "english",
+   "credit": "An excellent treatise of the immortalytie of the soule By which is proued, that the soules, after their departure out of the bodies, are avvake and doe lyue, contrary to …, in EEBO-TCP A17654 (STC 4409), trans. Thomas Stocker (London: Printed by Iohn Daye, dwelling ouer Aldersgate, 1581). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A17654/master/A17654.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 312338,
+   "sourceSha256": "9ee66e4121785cf80e7632cd931554ccab161f0d1912fca1790fff5e834bfe91",
+   "leftOut": {
+    "pb": 213,
+    "unread": 83,
+    "note": 251
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 38817,
+    "unreadPerThousand": 2.1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "¶ To the right honorable, Phillip, Earle of Arundell, Baron Matrauers and Clune, The God of all glory, and conſolation, graunt • ncreaſe of all heauenly and ſpiritual giftes, • owardes the aduauncing ",
+     "segments": 6
+    },
+    {
+     "file": "0002.json",
+     "ref": "front.2",
+     "title": "❧ The Preface of Iohn Calvin to a very friend of his.",
+     "segments": 3
+    },
+    {
+     "file": "0003.json",
+     "ref": "front.3",
+     "title": "❀ Iohn Caluin to all faythfull Readers greeting.",
+     "segments": 4
+    },
+    {
+     "file": "0004.json",
+     "ref": "1",
+     "title": "OF THE IMMORTALITIE OF THE SOVLE. ❀ What the ſtate and lyfe of ſoules is after this preſent lyfe.",
+     "segments": 191
+    },
+    {
+     "file": "0005.json",
+     "ref": "2",
+     "title": "❀ The opinion and abſolute concluſion of Maiſter Iohn Calvine, in and about the queſtions enſuing: agreeing with the opinion of Phillip Melancton, Peter Martyr, and Martin Bucer. All godly, notable, a",
+     "segments": 16
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "workId": "calvin-christian-life",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "calvin-christian-life-tcp-1549",
+   "role": "english",
+   "language": "english",
+   "credit": "Of the life or conuersation of a Christen man, a right godly treatise, wyrtten [sic] in the latin tonge, by maister Iohn Caluyne, a man of ryghte excellente learnynge …, in EEBO-TCP A17689 (STC 4436), trans. Thomas Broke (London: By Iohn Daye [and] Wyllyam Seres dwelling in Sepulchres parishe at the signe of the resurrection: and are to be solde at the litle conduit in Chepeside], 1549). Transcription: Text Creation Partnership (EEBO-TCP, University of Michigan and Bodleian Libraries), keyboarded from the EEBO page images (CC0).",
+   "licence": "CC0",
+   "sourceUrl": "https://raw.githubusercontent.com/textcreationpartnership/A17689/master/A17689.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 173781,
+   "sourceSha256": "266aa4dc9d25b698648d0e9a797f3a06b8cdd3145d451f3334e12340246f9ee6",
+   "leftOut": {
+    "pb": 160,
+    "unread": 21,
+    "note": 77
+   },
+   "segmentRefs": "paragraph",
+   "signals": {
+    "words": 20602,
+    "unreadPerThousand": 1
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "front.1",
+     "title": "¶ Thomas Broke, vnto the Reader,",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 25
+    }
+   ]
+  }
+ ]
+}
