@@ -1,0 +1,36 @@
+{
+ "workId": "pseudo-ignatius-first-john",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "pseudo-ignatius-first-john-anf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "First Epistle to St John, in The Ante-Nicene Fathers, vol. 1 (American edition, ed. A. Cleveland Coxe), trans. Alexander Roberts; James Donaldson (as printed in ANF vol. 1) (Buffalo: Christian Literature Publishing Co., 1885). Wikisource contributors, English Wikisource (Ante-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/First_Epistle_to_St_John",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 2823,
+   "sourceSha256": "1471af70da079e5ef7dfdb706f302e0508fb24a5b917f1010ee0c5c0c74f1344",
+   "leftOut": {
+    "note": 3
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume I/First Epistle to St John",
+     "bytes": 2823,
+     "sha256": "1471af70da079e5ef7dfdb706f302e0508fb24a5b917f1010ee0c5c0c74f1344"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "s2",
+     "title": "Ignatius, and the brethren who are with him, to John the holy presbyter.",
+     "segments": 1
+    }
+   ]
+  }
+ ]
+}

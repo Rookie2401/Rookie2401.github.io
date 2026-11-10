@@ -1,0 +1,250 @@
+{
+ "workId": "pseudo-ignatius-philippians",
+ "parallel": "reference",
+ "editions": [
+  {
+   "editionId": "pseudo-ignatius-philippians-funk-grc-first1k",
+   "role": "original",
+   "language": "greek",
+   "credit": "To the Philippians, in Patres Apostolici, vol. 2, ed. Franz Xaver Funk; Franz Diekamp (Tübingen: H. Laupp, 1913). Open Greek and Latin / First1KGreek, CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg1443/tlg002/tlg1443.tlg002.1st1K-grc1.xml",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 343360,
+   "sourceSha256": "064072d72e046ef5413caca0525cc8953f3a7ae14eb1e8015d530c4cfb28c5f8",
+   "leftOut": {
+    "pb": 10
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 1974,
+    "barePerThousand": 17,
+    "digitWords": 0
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "0",
+     "title": "0",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "1",
+     "segments": 3
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "2",
+     "segments": 4
+    },
+    {
+     "file": "0004.json",
+     "ref": "3",
+     "title": "3",
+     "segments": 3
+    },
+    {
+     "file": "0005.json",
+     "ref": "4",
+     "title": "4",
+     "segments": 4
+    },
+    {
+     "file": "0006.json",
+     "ref": "5",
+     "title": "5",
+     "segments": 3
+    },
+    {
+     "file": "0007.json",
+     "ref": "6",
+     "title": "6",
+     "segments": 3
+    },
+    {
+     "file": "0008.json",
+     "ref": "7",
+     "title": "7",
+     "segments": 3
+    },
+    {
+     "file": "0009.json",
+     "ref": "8",
+     "title": "8",
+     "segments": 4
+    },
+    {
+     "file": "0010.json",
+     "ref": "9",
+     "title": "9",
+     "segments": 4
+    },
+    {
+     "file": "0011.json",
+     "ref": "10",
+     "title": "10",
+     "segments": 2
+    },
+    {
+     "file": "0012.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 4
+    },
+    {
+     "file": "0013.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 3
+    },
+    {
+     "file": "0014.json",
+     "ref": "13",
+     "title": "13",
+     "segments": 3
+    },
+    {
+     "file": "0015.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 2
+    },
+    {
+     "file": "0016.json",
+     "ref": "15",
+     "title": "15",
+     "segments": 3
+    }
+   ]
+  },
+  {
+   "editionId": "pseudo-ignatius-philippians-anf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "The Epistle of Ignatius to the Philippians, in The Ante-Nicene Fathers, vol. 1 (American edition, ed. A. Cleveland Coxe), trans. Alexander Roberts; James Donaldson (as printed in ANF vol. 1) (Buffalo: Christian Literature Publishing Co., 1885). Wikisource contributors, English Wikisource (Ante-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/Epistle_to_the_Philippians",
+   "retrievedAt": "2026-11-10",
+   "sourceBytes": 21378,
+   "sourceSha256": "e178cae79400fdeef7bc7722d7cf120192bcc6568b1b2fb4e4c4a2f1c4b90f97",
+   "leftOut": {
+    "note": 58
+   },
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume I/Epistle to the Philippians",
+     "bytes": 21378,
+     "sha256": "e178cae79400fdeef7bc7722d7cf120192bcc6568b1b2fb4e4c4a2f1c4b90f97"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "s1",
+     "title": "The Epistle of Ignatius to the Philippians",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "Chapter I.—Reason for writing the epistle.",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "Chapter II.—Unity of the three divine persons.",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "3",
+     "title": "Chapter III.—Christ was truly born, and died.",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "4",
+     "title": "Chapter IV.—The malignity and folly of Satan.",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "5",
+     "title": "Chapter V.—Apostrophe to Satan.",
+     "segments": 1
+    },
+    {
+     "file": "0007.json",
+     "ref": "6",
+     "title": "Chapter VI.—Continuation.",
+     "segments": 1
+    },
+    {
+     "file": "0008.json",
+     "ref": "7",
+     "title": "Chapter VII.—Continuation: inconsistency of Satan.",
+     "segments": 1
+    },
+    {
+     "file": "0009.json",
+     "ref": "8",
+     "title": "Chapter VIII.—Continuation: ignorance of Satan.",
+     "segments": 1
+    },
+    {
+     "file": "0010.json",
+     "ref": "9",
+     "title": "Chapter IX.—Continuation: ignorance of Satan.",
+     "segments": 1
+    },
+    {
+     "file": "0011.json",
+     "ref": "10",
+     "title": "Chapter X.—Continuation: audacity of Satan.",
+     "segments": 1
+    },
+    {
+     "file": "0012.json",
+     "ref": "11",
+     "title": "Chapter XI.—Continuation: audacity of Satan.",
+     "segments": 1
+    },
+    {
+     "file": "0013.json",
+     "ref": "12",
+     "title": "Chapter XII.—The meek reply of Christ.",
+     "segments": 1
+    },
+    {
+     "file": "0014.json",
+     "ref": "13",
+     "title": "Chapter XIII.—Various exhortations and directions.",
+     "segments": 1
+    },
+    {
+     "file": "0015.json",
+     "ref": "14",
+     "title": "Chapter XIV.—Farewells and cautions.",
+     "segments": 1
+    },
+    {
+     "file": "0016.json",
+     "ref": "15",
+     "title": "Chapter XV.—Salutations. Conclusion.",
+     "segments": 1
+    }
+   ]
+  }
+ ],
+ "alignment": {
+  "depth": 1,
+  "shared": 15,
+  "onlyInOriginal": 1,
+  "onlyInEnglish": 1
+ }
+}
