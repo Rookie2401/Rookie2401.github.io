@@ -9,12 +9,50 @@
    "credit": "Clementinorum epitome altera (nunc primum edita), in Clementinorum Epitomae duae, ed. Albert Rudolf Maximilian Dressel (Leipzig: J. C. Hinrichs, 1873). Open Greek and Latin / First1KGreek, CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg1271/tlg012/tlg1271.tlg012.1st1K-grc1.xml",
-   "retrievedAt": "2026-11-10",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 355205,
    "sourceSha256": "b01f4c64c15b2cda7c22cfe9b80179c5cba30d33768e24807e103f2657b326d4",
    "leftOut": {
     "pb": 44
    },
+   "restorations": [
+    {
+     "kind": "replace",
+     "at": "3",
+     "words": 0,
+     "source": "https://archive.org/details/clementinorumep00wiesgoog"
+    },
+    {
+     "kind": "replace",
+     "at": "145",
+     "words": 0,
+     "source": "https://archive.org/details/clementinorumep00wiesgoog"
+    },
+    {
+     "kind": "replace",
+     "at": "74",
+     "words": 0,
+     "source": "https://archive.org/details/clementinorumep00wiesgoog"
+    },
+    {
+     "kind": "replace",
+     "at": "75",
+     "words": 0,
+     "source": "https://archive.org/details/clementinorumep00wiesgoog"
+    },
+    {
+     "kind": "replace",
+     "at": "75",
+     "words": 0,
+     "source": "https://archive.org/details/clementinorumep00wiesgoog"
+    },
+    {
+     "kind": "replace",
+     "at": "89",
+     "words": 0,
+     "source": "https://archive.org/details/clementinorumep00wiesgoog"
+    }
+   ],
    "segmentRefs": "citation",
    "signals": {
     "words": 25954,

@@ -9,13 +9,36 @@
    "credit": "Ignatius, To the Magnesians (epistle 2 of seven), in Kirsopp Lake, The Apostolic Fathers, vol. 1 (Loeb Classical Library; Greek text with facing English), ed. Kirsopp Lake (London; Cambridge, MA: William Heinemann; Harvard University Press, 1912). First1KGreek / Perseus Digital Library, Tufts University (Open Greek and Latin): Greek text of Kirsopp Lake, The Apostolic Fathers (Loeb Classical Library), under CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg1443/tlg001/tlg1443.tlg001.1st1K-grc1.xml",
-   "retrievedAt": "2026-11-05",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 169452,
    "sourceSha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
    "leftOut": {
     "pb": 7,
     "note": 17
    },
+   "repairs": {
+    "elisions": 5
+   },
+   "restorations": [
+    {
+     "kind": "replace",
+     "at": "8.1",
+     "words": 0,
+     "source": "https://archive.org/download/apostolicfathers01lake/page/n223_w1400.jpg (page image of https://archive.org/details/apostolicfathers01lake)"
+    },
+    {
+     "kind": "replace",
+     "at": "10.3",
+     "words": 0,
+     "source": "https://archive.org/download/apostolicfathers01lake/page/n225_w1400.jpg (page image of https://archive.org/details/apostolicfathers01lake)"
+    },
+    {
+     "kind": "replace",
+     "at": "2.1",
+     "words": 0,
+     "source": "https://archive.org/download/apostolicfathers01lake/page/n217_w1400.jpg (page image of https://archive.org/details/apostolicfathers01lake)"
+    }
+   ],
    "segmentRefs": "citation",
    "signals": {
     "words": 1056,
@@ -128,7 +151,7 @@
    "credit": "Ignatius, To the Magnesians (epistle 2), in The Apostolic Fathers, with an English translation by Kirsopp Lake, vol. 1 (Loeb Classical Library), trans. Kirsopp Lake (London; Cambridge, MA: William Heinemann; Harvard University Press, 1912). Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit): English translation by Kirsopp Lake, The Apostolic Fathers (Loeb Classical Library, 1912), under CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg1443/tlg001/tlg1443.tlg001.perseus-eng1.xml",
-   "retrievedAt": "2026-11-05",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 98242,
    "sourceSha256": "efe8ad3d361fa71ecff0daf01111fd75790d6d386ce530368d7608cd39412efb",
    "leftOut": {

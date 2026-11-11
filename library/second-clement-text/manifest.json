@@ -9,13 +9,16 @@
    "credit": "Epistula II ad Corinthios, in Kirsopp Lake, The Apostolic Fathers, vol. 1 (Loeb Classical Library; Greek text with facing English), ed. Kirsopp Lake (London; New York: William Heinemann; The Macmillan Company, 1912). First1KGreek / Perseus Digital Library, Tufts University (Open Greek and Latin): Greek text of Kirsopp Lake, The Apostolic Fathers (Loeb Classical Library), under CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg1271/tlg002/tlg1271.tlg002.1st1K-grc1.xml",
-   "retrievedAt": "2026-11-05",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 72784,
    "sourceSha256": "37f652d71c183037e9dc84f1325f41450f0752f658bd8ffc508f8e3e3dc33843",
    "leftOut": {
     "note": 49,
     "pb": 17,
     "bibl": 1
+   },
+   "repairs": {
+    "elisions": 11
    },
    "segmentRefs": "citation",
    "signals": {
@@ -153,13 +156,21 @@
    "credit": "The Second Epistle of Clement to the Corinthians, in The Apostolic Fathers, with an English translation by Kirsopp Lake, vol. 1 (Loeb Classical Library), trans. Kirsopp Lake (London; New York: William Heinemann; The Macmillan Company, 1912). Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit): English translation by Kirsopp Lake, The Apostolic Fathers (Loeb Classical Library, 1912), under CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg1271/tlg002/tlg1271.tlg002.perseus-eng1.xml",
-   "retrievedAt": "2026-11-05",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 38501,
    "sourceSha256": "9950613219c4096169158c2905a9bf81287541d243f3ef66aff12413de271521",
    "leftOut": {
     "note": 40,
     "pb": 14
    },
+   "restorations": [
+    {
+     "kind": "replace",
+     "at": "2.2",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake (text layer of the scan: apostolicfathers01lake_djvu.txt)"
+    }
+   ],
    "segmentRefs": "citation",
    "divisions": [
     {

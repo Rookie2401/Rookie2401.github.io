@@ -9,12 +9,38 @@
    "credit": "Clementinorum epitome prior (edita correctior), in Clementinorum Epitomae duae, ed. Albert Rudolf Maximilian Dressel (Leipzig: J. C. Hinrichs, 1873). Open Greek and Latin / First1KGreek, CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg1271/tlg011/tlg1271.tlg011.1st1K-grc1.xml",
-   "retrievedAt": "2026-11-10",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 343318,
    "sourceSha256": "fc527ecfd137d4464c0dfbc880481b842e3ca604a5275c7e6a64d01511d5f977",
    "leftOut": {
     "pb": 45
    },
+   "restorations": [
+    {
+     "kind": "replace",
+     "at": "3",
+     "words": 0,
+     "source": "https://archive.org/download/clementinorumep00wiesgoog/page/n25_w1600.jpg"
+    },
+    {
+     "kind": "replace",
+     "at": "4",
+     "words": -1,
+     "source": "https://archive.org/download/clementinorumep00wiesgoog/page/n25_w1600.jpg"
+    },
+    {
+     "kind": "replace",
+     "at": "24",
+     "words": 0,
+     "source": "https://archive.org/download/clementinorumep00wiesgoog/page/n41_w1600.jpg"
+    },
+    {
+     "kind": "replace",
+     "at": "29",
+     "words": 0,
+     "source": "https://archive.org/download/clementinorumep00wiesgoog/page/n43_w1600.jpg"
+    }
+   ],
    "segmentRefs": "citation",
    "signals": {
     "words": 25236,

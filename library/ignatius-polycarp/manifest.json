@@ -1,6 +1,6 @@
 {
  "workId": "ignatius-polycarp",
- "parallel": "division",
+ "parallel": "segment",
  "editions": [
   {
    "editionId": "ignatius-polycarp-lake-grc-first1k",
@@ -9,13 +9,37 @@
    "credit": "Ignatius, To Polycarp (epistle 7 of seven), in Kirsopp Lake, The Apostolic Fathers, vol. 1 (Loeb Classical Library; Greek text with facing English), ed. Kirsopp Lake (London; Cambridge, MA: William Heinemann; Harvard University Press, 1912). First1KGreek / Perseus Digital Library, Tufts University (Open Greek and Latin): Greek text of Kirsopp Lake, The Apostolic Fathers (Loeb Classical Library), under CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg1443/tlg001/tlg1443.tlg001.1st1K-grc1.xml",
-   "retrievedAt": "2026-11-05",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 169452,
    "sourceSha256": "407480ff3171bc805d165869aa317d54b51818a47f42f8fe30a09db7ba9f585d",
    "leftOut": {
     "note": 12,
     "pb": 4
    },
+   "repairs": {
+    "elisions": 6
+   },
+   "restorations": [
+    {
+     "kind": "replace",
+     "at": "2.2",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "split",
+     "at": "2.2",
+     "ref": "2.3",
+     "words": 41,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "5.1",
+     "words": -1,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    }
+   ],
    "segmentRefs": "citation",
    "signals": {
     "words": 785,
@@ -39,7 +63,7 @@
      "file": "0003.json",
      "ref": "2",
      "title": "2",
-     "segments": 2
+     "segments": 3
     },
     {
      "file": "0004.json",
@@ -86,13 +110,21 @@
    "credit": "Ignatius, To Polycarp (epistle 7), in The Apostolic Fathers, with an English translation by Kirsopp Lake, vol. 1 (Loeb Classical Library), trans. Kirsopp Lake (London; Cambridge, MA: William Heinemann; Harvard University Press, 1912). Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit): English translation by Kirsopp Lake, The Apostolic Fathers (Loeb Classical Library, 1912), under CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg1443/tlg001/tlg1443.tlg001.perseus-eng1.xml",
-   "retrievedAt": "2026-11-05",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 98242,
    "sourceSha256": "efe8ad3d361fa71ecff0daf01111fd75790d6d386ce530368d7608cd39412efb",
    "leftOut": {
     "note": 18,
     "pb": 5
    },
+   "restorations": [
+    {
+     "kind": "replace",
+     "at": "5.1",
+     "words": 0,
+     "source": "https://archive.org/download/apostolicfathers01lake/page/n292_w1400.jpg (page image)"
+    }
+   ],
    "segmentRefs": "citation",
    "divisions": [
     {
@@ -153,9 +185,7 @@
   }
  ],
  "alignment": {
-  "divisionOnly": [
-   "2"
-  ],
+  "divisionOnly": [],
   "missingInOriginal": [],
   "missingInEnglish": []
  }

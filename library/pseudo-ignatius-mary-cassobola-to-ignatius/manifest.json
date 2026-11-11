@@ -3,18 +3,88 @@
  "parallel": "reference",
  "editions": [
   {
+   "editionId": "pseudo-ignatius-mary-cassobola-to-ignatius-anf1-wikisource",
+   "role": "english",
+   "language": "english",
+   "credit": "The Epistle of Maria the Proselyte to Ignatius, in The Ante-Nicene Fathers, vol. 1 (American edition, ed. A. Cleveland Coxe), trans. Alexander Roberts; James Donaldson (as printed in ANF vol. 1) (Buffalo: Christian Literature Publishing Co., 1885). Wikisource contributors, English Wikisource (Ante-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
+   "licence": "CC BY-SA 4.0",
+   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/Epistle_from_Maria_of_Cassobelae",
+   "retrievedAt": "2026-11-11",
+   "sourceBytes": 7491,
+   "sourceSha256": "b0b4a2b5ba4c33bae0579b65ce6fe895e2eb38db76efb9418b3b1c052874b330",
+   "leftOut": {
+    "note": 21
+   },
+   "refCorrections": [
+    {
+     "from": "s2",
+     "to": "0",
+     "division": true
+    }
+   ],
+   "segmentRefs": "paragraph",
+   "sourcePages": [
+    {
+     "title": "Ante-Nicene Fathers/Volume I/Epistle from Maria of Cassobelae",
+     "bytes": 7491,
+     "sha256": "b0b4a2b5ba4c33bae0579b65ce6fe895e2eb38db76efb9418b3b1c052874b330"
+    }
+   ],
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "0",
+     "title": "Mary of Cassobelæ to Ignatius",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "1",
+     "title": "Chapter I.—Occasion of the epistle.",
+     "segments": 1
+    },
+    {
+     "file": "0003.json",
+     "ref": "2",
+     "title": "Chapter II.—Youth may be allied with piety and discretion.",
+     "segments": 1
+    },
+    {
+     "file": "0004.json",
+     "ref": "3",
+     "title": "Chapter III.—Examples of youthful devotedness.",
+     "segments": 1
+    },
+    {
+     "file": "0005.json",
+     "ref": "4",
+     "title": "Chapter IV.—The same subject continued.",
+     "segments": 1
+    },
+    {
+     "file": "0006.json",
+     "ref": "5",
+     "title": "Chapter V.—Expressions of respect for Ignatius.",
+     "segments": 1
+    }
+   ]
+  },
+  {
    "editionId": "pseudo-ignatius-mary-cassobola-to-ignatius-funk-grc-first1k",
    "role": "original",
    "language": "greek",
    "credit": "Ignatio Maria ex Cassobolis, in Patres Apostolici, vol. 2, ed. Franz Xaver Funk; Franz Diekamp (Tübingen: H. Laupp, 1913). Open Greek and Latin / First1KGreek, CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg1443/tlg002/tlg1443.tlg002.1st1K-grc1.xml",
-   "retrievedAt": "2026-11-10",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 343360,
    "sourceSha256": "064072d72e046ef5413caca0525cc8953f3a7ae14eb1e8015d530c4cfb28c5f8",
    "leftOut": {
     "note": 1,
     "pb": 3
+   },
+   "repairs": {
+    "printedNumbers": 13
    },
    "segmentRefs": "citation",
    "signals": {
@@ -60,72 +130,12 @@
      "segments": 3
     }
    ]
-  },
-  {
-   "editionId": "pseudo-ignatius-mary-cassobola-to-ignatius-anf1-wikisource",
-   "role": "english",
-   "language": "english",
-   "credit": "The Epistle of Maria the Proselyte to Ignatius, in The Ante-Nicene Fathers, vol. 1 (American edition, ed. A. Cleveland Coxe), trans. Alexander Roberts; James Donaldson (as printed in ANF vol. 1) (Buffalo: Christian Literature Publishing Co., 1885). Wikisource contributors, English Wikisource (Ante-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
-   "licence": "CC BY-SA 4.0",
-   "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_I/Epistle_from_Maria_of_Cassobelae",
-   "retrievedAt": "2026-11-10",
-   "sourceBytes": 7491,
-   "sourceSha256": "b0b4a2b5ba4c33bae0579b65ce6fe895e2eb38db76efb9418b3b1c052874b330",
-   "leftOut": {
-    "note": 21
-   },
-   "segmentRefs": "paragraph",
-   "sourcePages": [
-    {
-     "title": "Ante-Nicene Fathers/Volume I/Epistle from Maria of Cassobelae",
-     "bytes": 7491,
-     "sha256": "b0b4a2b5ba4c33bae0579b65ce6fe895e2eb38db76efb9418b3b1c052874b330"
-    }
-   ],
-   "divisions": [
-    {
-     "file": "0001.json",
-     "ref": "s2",
-     "title": "Mary of Cassobelæ to Ignatius",
-     "segments": 1
-    },
-    {
-     "file": "0002.json",
-     "ref": "1",
-     "title": "Chapter I.—Occasion of the epistle.",
-     "segments": 1
-    },
-    {
-     "file": "0003.json",
-     "ref": "2",
-     "title": "Chapter II.—Youth may be allied with piety and discretion.",
-     "segments": 1
-    },
-    {
-     "file": "0004.json",
-     "ref": "3",
-     "title": "Chapter III.—Examples of youthful devotedness.",
-     "segments": 1
-    },
-    {
-     "file": "0005.json",
-     "ref": "4",
-     "title": "Chapter IV.—The same subject continued.",
-     "segments": 1
-    },
-    {
-     "file": "0006.json",
-     "ref": "5",
-     "title": "Chapter V.—Expressions of respect for Ignatius.",
-     "segments": 1
-    }
-   ]
   }
  ],
  "alignment": {
   "depth": 1,
-  "shared": 5,
-  "onlyInOriginal": 1,
-  "onlyInEnglish": 1
+  "shared": 6,
+  "onlyInOriginal": 0,
+  "onlyInEnglish": 0
  }
 }

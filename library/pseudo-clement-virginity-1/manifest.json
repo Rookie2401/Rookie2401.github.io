@@ -9,7 +9,7 @@
    "credit": "Epistula prior de virginitate (Greek fragments), in Patres Apostolici, vol. 2, ed. Franz Xaver Funk; Franz Diekamp (Tübingen: H. Laupp, 1913). Open Greek and Latin / First1KGreek, CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg1271/tlg010/tlg1271.tlg010.1st1K-grc1.xml",
-   "retrievedAt": "2026-11-10",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 51968,
    "sourceSha256": "8899acb6655200df7890dba9ad30b785ffd120011e1913c60cb7050024e32439",
    "leftOut": {
@@ -20,11 +20,14 @@
     "lacks": "the rest of the letter, which survives whole only in a Syriac translation",
     "reason": "The Greek original is lost apart from quotations (chiefly in Antiochus of Saba's Pandect); the whole letter survives in Syriac (ed. J. T. Beelen, 1856), of which no open transcription was found"
    },
+   "repairs": {
+    "printedNumbers": 39
+   },
    "segmentRefs": "citation",
    "signals": {
     "words": 1548,
     "barePerThousand": 12,
-    "digitWords": 4
+    "digitWords": 0
    },
    "divisions": [
     {
@@ -108,7 +111,7 @@
    "credit": "First Epistle Concerning Virginity, in The Ante-Nicene Fathers, vol. 8 (American edition, ed. A. Cleveland Coxe), trans. B. P. Pratten (as printed in ANF vol. 8, translated from the Syriac) (Buffalo: Christian Literature Publishing Co., 1886). Wikisource contributors, English Wikisource (Ante-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/Two_Epistles_Concerning_Virginity/First_Pseudo-Clement",
-   "retrievedAt": "2026-11-10",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 39561,
    "sourceSha256": "52c872641f626778796d25f53dbef7cb25c3b7048dfc5627b5fb40d5334ab528",
    "leftOut": {

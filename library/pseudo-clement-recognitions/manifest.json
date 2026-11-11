@@ -9,7 +9,7 @@
    "credit": "The Recognitions of Clement, in The Ante-Nicene Fathers, vol. 8 (American edition, ed. A. Cleveland Coxe), trans. Thomas Smith (as printed in ANF vol. 8) (Buffalo: Christian Literature Publishing Co., 1886). Wikisource contributors, English Wikisource (Ante-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/The_Recognitions_of_Clement",
-   "retrievedAt": "2026-11-10",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 726562,
    "sourceSha256": "a8e6db34eaa8b93314c1916ec04ce866fb819d4b6aa5bfb85a97421faf9c3232",
    "leftOut": {
@@ -44,6 +44,12 @@
      "at": "1.76",
      "sameAs": "1.74",
      "source": "https://archive.org/details/antenicenefather08robeuoft"
+    },
+    {
+     "kind": "replace",
+     "at": "9.51",
+     "words": 0,
+     "source": "https://archive.org/details/antenicenefather08buff ; https://archive.org/details/beteyared-book-24225"
     }
    ],
    "segmentRefs": "paragraph",

@@ -10,7 +10,7 @@
    "licence": "public-domain",
    "sourceUrl": "https://ebible.org/Scriptures/grcbrent_usfx.zip",
    "sourceMember": "grcbrent_usfx.xml",
-   "retrievedAt": "2026-11-05",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 1816960,
    "sourceSha256": "ff88d6bdd6f21f279b24fe7ebcefd7747991cc24f232df95a676c5609fc25356",
    "leftOut": {
@@ -19,6 +19,20 @@
     "s": 1
    },
    "segmentRefs": "citation",
+   "refCorrections": [
+    {
+     "from": "LAM.3.21a",
+     "to": "LAM.3.22"
+    },
+    {
+     "from": "LAM.3.21b",
+     "to": "LAM.3.23"
+    },
+    {
+     "from": "LAM.3.21c",
+     "to": "LAM.3.24"
+    }
+   ],
    "signals": {
     "words": 2497,
     "barePerThousand": 91,
@@ -65,7 +79,7 @@
    "licence": "public-domain",
    "sourceUrl": "https://ebible.org/Scriptures/eng-Brenton_usfx.zip",
    "sourceMember": "eng-Brenton_usfx.xml",
-   "retrievedAt": "2026-11-05",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 1548145,
    "sourceSha256": "363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554",
    "leftOut": {
@@ -75,6 +89,20 @@
     "x": 150
    },
    "segmentRefs": "citation",
+   "refCorrections": [
+    {
+     "from": "LAM.3.21a",
+     "to": "LAM.3.22"
+    },
+    {
+     "from": "LAM.3.21b",
+     "to": "LAM.3.23"
+    },
+    {
+     "from": "LAM.3.21c",
+     "to": "LAM.3.24"
+    }
+   ],
    "divisions": [
     {
      "file": "0001.json",

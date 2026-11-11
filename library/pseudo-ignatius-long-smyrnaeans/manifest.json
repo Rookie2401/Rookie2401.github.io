@@ -9,11 +9,14 @@
    "credit": "To the Smyrnaeans (recensio longior), in Patres Apostolici, vol. 2, ed. Franz Xaver Funk; Franz Diekamp (Tübingen: H. Laupp, 1913). Open Greek and Latin / First1KGreek, CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg1443/tlg002/tlg1443.tlg002.1st1K-grc1.xml",
-   "retrievedAt": "2026-11-10",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 343360,
    "sourceSha256": "064072d72e046ef5413caca0525cc8953f3a7ae14eb1e8015d530c4cfb28c5f8",
    "leftOut": {
     "pb": 7
+   },
+   "repairs": {
+    "printedNumbers": 37
    },
    "segmentRefs": "citation",
    "signals": {

@@ -9,7 +9,7 @@
    "credit": "Ὁμιλίαι (Homiliae), in Clementis Romani quae feruntur Homiliae viginti, ed. Albert Schwegler (Stuttgart: A. Becher, 1847). Open Greek and Latin / First1KGreek, CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg1271/tlg006/tlg1271.tlg006.1st1K-grc1.xml",
-   "retrievedAt": "2026-11-10",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 883319,
    "sourceSha256": "3b99aba1bf2312d865da0977398acf0f04e3283a2778210fcee5defe1a2d4adc",
    "leftOut": {
@@ -150,7 +150,7 @@
    "credit": "The Clementine Homilies, in The Ante-Nicene Fathers, vol. 8 (American edition, ed. A. Cleveland Coxe), trans. Thomas Smith; Peter Peterson; James Donaldson (as printed in ANF vol. 8) (Buffalo: Christian Literature Publishing Co., 1886). Wikisource contributors, English Wikisource (Ante-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VIII/Pseudo-Clementine_Literature/The_Clementine_Homilies",
-   "retrievedAt": "2026-11-10",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 851987,
    "sourceSha256": "9ab2081a1c296ec0e5235616981c9bb6718aa9aca074d8cdc6e18e50b8aed8f5",
    "leftOut": {
@@ -159,6 +159,44 @@
      "anon": 539
     }
    },
+   "restorations": [
+    {
+     "kind": "replace",
+     "at": "19.19.2",
+     "words": 1,
+     "source": "https://archive.org/details/beteyared-book-24225 ; https://archive.org/details/antenicenefather08buff"
+    },
+    {
+     "kind": "replace",
+     "at": "19.20.2",
+     "words": 1,
+     "source": "https://archive.org/details/beteyared-book-24225 ; https://archive.org/details/antenicenefather08buff"
+    },
+    {
+     "kind": "replace",
+     "at": "19.20.2",
+     "words": 1,
+     "source": "https://archive.org/details/beteyared-book-24225 ; https://archive.org/details/antenicenefather08buff"
+    },
+    {
+     "kind": "replace",
+     "at": "20.14.2",
+     "words": 1,
+     "source": "https://archive.org/details/beteyared-book-24225 ; https://archive.org/details/antenicenefather08buff"
+    },
+    {
+     "kind": "replace",
+     "at": "20.20.2",
+     "words": 1,
+     "source": "https://archive.org/details/beteyared-book-24225 ; https://archive.org/details/antenicenefather08buff"
+    },
+    {
+     "kind": "replace",
+     "at": "20.23.2",
+     "words": 1,
+     "source": "https://archive.org/details/beteyared-book-24225 ; https://archive.org/details/antenicenefather08buff"
+    }
+   ],
    "segmentRefs": "paragraph",
    "sourcePages": [
     {

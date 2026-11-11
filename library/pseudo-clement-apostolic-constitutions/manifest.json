@@ -9,12 +9,32 @@
    "credit": "Constitutions of the Holy Apostles, in The Ante-Nicene Fathers, vol. 7 (American edition, ed. A. Cleveland Coxe), trans. James Donaldson (as printed in ANF vol. 7) (Buffalo: Christian Literature Publishing Co., 1886). Wikisource contributors, English Wikisource (Ante-Nicene Fathers), CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VII/Constitutions_of_the_Holy_Apostles",
-   "retrievedAt": "2026-11-10",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 636800,
    "sourceSha256": "70b8216c7a14d79dbeb75cf2dc3a70831dc58f5e9cc1c36cc36b32408c460f77",
    "leftOut": {
     "note": 1285
    },
+   "restorations": [
+    {
+     "kind": "omit",
+     "at": "7.p5.s5.1",
+     "words": 111,
+     "source": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_VII/Constitutions_of_the_Holy_Apostles/Book_VII/Sec._V"
+    },
+    {
+     "kind": "replace",
+     "at": "6.p3.s9.1",
+     "words": 0,
+     "source": "https://archive.org/details/antenicenefather07buff"
+    },
+    {
+     "kind": "replace",
+     "at": "2.p5.s2.1",
+     "words": 0,
+     "source": "https://archive.org/details/antenicenefather07buff"
+    }
+   ],
    "segmentRefs": "paragraph",
    "sourcePages": [
     {
@@ -1468,798 +1488,792 @@
     },
     {
      "file": "0213.json",
-     "ref": "7.p5.s5",
-     "title": "General notice",
-     "segments": 1
-    },
-    {
-     "file": "0214.json",
      "ref": "8.p1.s2",
      "title": "On Whose Account the Powers of Miracles are Performed.",
      "segments": 1
     },
     {
-     "file": "0215.json",
+     "file": "0214.json",
      "ref": "8.p1.s3",
      "title": "Concerning Unworthy Bishops and Presbyters.",
      "segments": 1
     },
     {
-     "file": "0216.json",
+     "file": "0215.json",
      "ref": "8.p2.s2",
      "title": "That to Make Constitutions About the Offices to Be Performed in the Churches is of Great Consequence.",
      "segments": 1
     },
     {
-     "file": "0217.json",
+     "file": "0216.json",
      "ref": "8.p2.s3",
      "title": "Concerning Ordinations.",
      "segments": 1
     },
     {
-     "file": "0218.json",
+     "file": "0217.json",
      "ref": "8.p2.s4",
      "title": "The Form of Prayer for the Ordination of a Bishop.",
      "segments": 1
     },
     {
-     "file": "0219.json",
+     "file": "0218.json",
      "ref": "8.p2.s5",
      "title": "Oxford Ms.",
      "segments": 1
     },
     {
-     "file": "0220.json",
+     "file": "0219.json",
      "ref": "8.p2.s6",
      "title": "The Divine Liturgy, Wherein is the Bidding Prayer for the Catechumens.",
      "segments": 1
     },
     {
-     "file": "0221.json",
+     "file": "0220.json",
      "ref": "8.p2.s7",
      "title": "For the Energumens.",
      "segments": 1
     },
     {
-     "file": "0222.json",
+     "file": "0221.json",
      "ref": "8.p2.s8",
      "title": "For the Baptized.",
      "segments": 1
     },
     {
-     "file": "0223.json",
+     "file": "0222.json",
      "ref": "8.p2.s9",
      "title": "Imposition of Hands; Prayer for PenItents.",
      "segments": 1
     },
     {
-     "file": "0224.json",
+     "file": "0223.json",
      "ref": "8.p2.s10",
      "title": "The Bidding Prayer for the Faithful.",
      "segments": 1
     },
     {
-     "file": "0225.json",
+     "file": "0224.json",
      "ref": "8.p2.s11",
      "title": "The Form of Prayer for the Faithful.",
      "segments": 1
     },
     {
-     "file": "0226.json",
+     "file": "0225.json",
      "ref": "8.p2.s12",
      "title": "The Constitution of James the Brother of John, the Son of Zebedee.",
      "segments": 3
     },
     {
-     "file": "0227.json",
+     "file": "0226.json",
      "ref": "8.p2.s13",
      "title": "The Bidding Prayer for the Faithful After the Divine Oblation.",
      "segments": 1
     },
     {
-     "file": "0228.json",
+     "file": "0227.json",
      "ref": "8.p2.s14",
      "title": "The Bidding Prayer After the Participation.",
      "segments": 1
     },
     {
-     "file": "0229.json",
+     "file": "0228.json",
      "ref": "8.p2.s15",
      "title": "The Form of Prayer After the Participation.",
      "segments": 1
     },
     {
-     "file": "0230.json",
+     "file": "0229.json",
      "ref": "8.p3.s2",
      "title": "Concerning the Ordination of Presbyters—The Constitution of John, Who Was Beloved by the Lord.",
      "segments": 1
     },
     {
-     "file": "0231.json",
+     "file": "0230.json",
      "ref": "8.p3.s3",
      "title": "Concerning the Ordination of Deacons—The Constitution of Philip.",
      "segments": 1
     },
     {
-     "file": "0232.json",
+     "file": "0231.json",
      "ref": "8.p3.s4",
      "title": "The Form of Prayer for the Ordination of a Deacon.",
      "segments": 1
     },
     {
-     "file": "0233.json",
+     "file": "0232.json",
      "ref": "8.p3.s5",
      "title": "Concerning the Deaconess—The Constitution of Bartholomew.",
      "segments": 1
     },
     {
-     "file": "0234.json",
+     "file": "0233.json",
      "ref": "8.p3.s6",
      "title": "The Form of Prayer for the Ordination of a Deaconess.",
      "segments": 1
     },
     {
-     "file": "0235.json",
+     "file": "0234.json",
      "ref": "8.p3.s7",
      "title": "Concerning the Sub-Deacons—The Constitution of Thomas.",
      "segments": 1
     },
     {
-     "file": "0236.json",
+     "file": "0235.json",
      "ref": "8.p3.s8",
      "title": "Concerning the Readers—The Constitution of Matthew.",
      "segments": 1
     },
     {
-     "file": "0237.json",
+     "file": "0236.json",
      "ref": "8.p3.s9",
      "title": "Concerning the Confessors—The Constitution of James the Son of Alpheus.",
      "segments": 1
     },
     {
-     "file": "0238.json",
+     "file": "0237.json",
      "ref": "8.p3.s10",
      "title": "The Same Apostle’s Constitution Concerning Virgins.",
      "segments": 1
     },
     {
-     "file": "0239.json",
+     "file": "0238.json",
      "ref": "8.p3.s11",
      "title": "The Constitution of Lebbæus, Who Was Surnamed Thaddæus, Concerning Widows.",
      "segments": 1
     },
     {
-     "file": "0240.json",
+     "file": "0239.json",
      "ref": "8.p3.s12",
      "title": "The Same Apostle Concerning the Exorcist.",
      "segments": 1
     },
     {
-     "file": "0241.json",
+     "file": "0240.json",
      "ref": "8.p3.s13",
      "title": "Simon the Canaanite Concerning the Number Necessary for the Ordination of a Bishop.",
      "segments": 1
     },
     {
-     "file": "0242.json",
+     "file": "0241.json",
      "ref": "8.p3.s14",
      "title": "The Same Apostle’s Canons Concerning Bishops, Presbyters, Deacons, and the Rest of the Clergy.",
      "segments": 1
     },
     {
-     "file": "0243.json",
+     "file": "0242.json",
      "ref": "8.p4.s2",
      "title": "Concerning the Blessing of Water and Oil—The Constitution of Matthias.",
      "segments": 1
     },
     {
-     "file": "0244.json",
+     "file": "0243.json",
      "ref": "8.p4.s3",
      "title": "The Same Apostle’s Constitution Concerning First-Fruits and Tithes.",
      "segments": 1
     },
     {
-     "file": "0245.json",
+     "file": "0244.json",
      "ref": "8.p4.s4",
      "title": "The Same Apostle’s Constitutions Concerning the Remaining Oblations.",
      "segments": 1
     },
     {
-     "file": "0246.json",
+     "file": "0245.json",
      "ref": "8.p4.s5",
      "title": "Various Canons of Paul the Apostle Concerning Those that Offer Themselves to Be Baptized—Whom We are to Receive, and Whom to Reject.",
      "segments": 1
     },
     {
-     "file": "0247.json",
+     "file": "0246.json",
      "ref": "8.p4.s6",
      "title": "Upon Which Days Servants are Not to Work.",
      "segments": 1
     },
     {
-     "file": "0248.json",
+     "file": "0247.json",
      "ref": "8.p4.s7",
      "title": "At What Hours, and Why, We are to Pray.",
      "segments": 1
     },
     {
-     "file": "0249.json",
+     "file": "0248.json",
      "ref": "8.p4.s8",
      "title": "The Constitution of James the Brother of Christ Concerning Evening Prayer.",
      "segments": 1
     },
     {
-     "file": "0250.json",
+     "file": "0249.json",
      "ref": "8.p4.s9",
      "title": "The Bidding Prayer for the Evening.",
      "segments": 1
     },
     {
-     "file": "0251.json",
+     "file": "0250.json",
      "ref": "8.p4.s10",
      "title": "The Thanksgiving for the Evening.",
      "segments": 1
     },
     {
-     "file": "0252.json",
+     "file": "0251.json",
      "ref": "8.p4.s11",
      "title": "The Thanksgiving for the Morning.",
      "segments": 1
     },
     {
-     "file": "0253.json",
+     "file": "0252.json",
      "ref": "8.p4.s12",
      "title": "The Imposition of Hands for the Morning.",
      "segments": 1
     },
     {
-     "file": "0254.json",
+     "file": "0253.json",
      "ref": "8.p4.s13",
      "title": "The Form of Prayer for the First-Fruits.",
      "segments": 1
     },
     {
-     "file": "0255.json",
+     "file": "0254.json",
      "ref": "8.p4.s14",
      "title": "The Bidding Prayer for Those Departed.",
      "segments": 1
     },
     {
-     "file": "0256.json",
+     "file": "0255.json",
      "ref": "8.p4.s15",
      "title": "How and When We Ought to Celebrate the Memorials of the Faithful Departed, and that We Ought Then to Give Somewhat Out of Their Goods to the Poor.",
      "segments": 1
     },
     {
-     "file": "0257.json",
+     "file": "0256.json",
      "ref": "8.p4.s16",
      "title": "That Memorials or Mandates Do Not at All Profit the Ungodly Who are Dead.",
      "segments": 1
     },
     {
-     "file": "0258.json",
+     "file": "0257.json",
      "ref": "8.p4.s17",
      "title": "Concerning Drunkards.",
      "segments": 1
     },
     {
-     "file": "0259.json",
+     "file": "0258.json",
      "ref": "8.p4.s18",
      "title": "Concerning the Receiving Such as are Persecuted for Christ’s Sake.",
      "segments": 1
     },
     {
-     "file": "0260.json",
+     "file": "0259.json",
      "ref": "8.p5",
      "title": "That Every One Ought to Remain in that Rank Wherein He is Placed, But Not Snatch Such Offices to Himself Which are Not Entrusted to Him.",
      "segments": 1
     },
     {
-     "file": "0261.json",
+     "file": "0260.json",
      "ref": "8.p6.front",
      "title": "The Ecclesiastical Canons of the Same Holy Apostles.",
      "segments": 1
     },
     {
-     "file": "0262.json",
+     "file": "0261.json",
      "ref": "8.p6.2",
      "title": "2",
      "segments": 1
     },
     {
-     "file": "0263.json",
+     "file": "0262.json",
      "ref": "8.p6.3",
      "title": "3",
      "segments": 1
     },
     {
-     "file": "0264.json",
+     "file": "0263.json",
      "ref": "8.p6.4",
      "title": "4",
      "segments": 1
     },
     {
-     "file": "0265.json",
+     "file": "0264.json",
      "ref": "8.p6.5",
      "title": "5",
      "segments": 1
     },
     {
-     "file": "0266.json",
+     "file": "0265.json",
      "ref": "8.p6.6",
      "title": "6",
      "segments": 1
     },
     {
-     "file": "0267.json",
+     "file": "0266.json",
      "ref": "8.p6.7",
      "title": "7",
      "segments": 1
     },
     {
-     "file": "0268.json",
+     "file": "0267.json",
      "ref": "8.p6.8",
      "title": "8",
      "segments": 1
     },
     {
-     "file": "0269.json",
+     "file": "0268.json",
      "ref": "8.p6.9",
      "title": "9",
      "segments": 1
     },
     {
-     "file": "0270.json",
+     "file": "0269.json",
      "ref": "8.p6.10",
      "title": "10",
      "segments": 1
     },
     {
-     "file": "0271.json",
+     "file": "0270.json",
      "ref": "8.p6.11",
      "title": "11",
      "segments": 1
     },
     {
-     "file": "0272.json",
+     "file": "0271.json",
      "ref": "8.p6.12",
      "title": "12",
      "segments": 1
     },
     {
-     "file": "0273.json",
+     "file": "0272.json",
      "ref": "8.p6.13",
      "title": "13",
      "segments": 1
     },
     {
-     "file": "0274.json",
+     "file": "0273.json",
      "ref": "8.p6.14",
      "title": "14",
      "segments": 1
     },
     {
-     "file": "0275.json",
+     "file": "0274.json",
      "ref": "8.p6.15",
      "title": "15",
      "segments": 1
     },
     {
-     "file": "0276.json",
+     "file": "0275.json",
      "ref": "8.p6.16",
      "title": "16",
      "segments": 1
     },
     {
-     "file": "0277.json",
+     "file": "0276.json",
      "ref": "8.p6.17",
      "title": "17",
      "segments": 1
     },
     {
-     "file": "0278.json",
+     "file": "0277.json",
      "ref": "8.p6.18",
      "title": "18",
      "segments": 1
     },
     {
-     "file": "0279.json",
+     "file": "0278.json",
      "ref": "8.p6.19",
      "title": "19",
      "segments": 1
     },
     {
-     "file": "0280.json",
+     "file": "0279.json",
      "ref": "8.p6.20",
      "title": "20",
      "segments": 1
     },
     {
-     "file": "0281.json",
+     "file": "0280.json",
      "ref": "8.p6.21",
      "title": "21",
      "segments": 1
     },
     {
-     "file": "0282.json",
+     "file": "0281.json",
      "ref": "8.p6.22",
      "title": "22",
      "segments": 1
     },
     {
-     "file": "0283.json",
+     "file": "0282.json",
      "ref": "8.p6.23",
      "title": "23",
      "segments": 1
     },
     {
-     "file": "0284.json",
+     "file": "0283.json",
      "ref": "8.p6.24",
      "title": "24",
      "segments": 1
     },
     {
-     "file": "0285.json",
+     "file": "0284.json",
      "ref": "8.p6.25",
      "title": "25",
      "segments": 1
     },
     {
-     "file": "0286.json",
+     "file": "0285.json",
      "ref": "8.p6.26",
      "title": "26",
      "segments": 1
     },
     {
-     "file": "0287.json",
+     "file": "0286.json",
      "ref": "8.p6.27",
      "title": "27",
      "segments": 1
     },
     {
-     "file": "0288.json",
+     "file": "0287.json",
      "ref": "8.p6.28",
      "title": "28",
      "segments": 1
     },
     {
-     "file": "0289.json",
+     "file": "0288.json",
      "ref": "8.p6.29",
      "title": "29",
      "segments": 1
     },
     {
-     "file": "0290.json",
+     "file": "0289.json",
      "ref": "8.p6.30",
      "title": "30",
      "segments": 1
     },
     {
-     "file": "0291.json",
+     "file": "0290.json",
      "ref": "8.p6.31",
      "title": "31",
      "segments": 1
     },
     {
-     "file": "0292.json",
+     "file": "0291.json",
      "ref": "8.p6.32",
      "title": "32",
      "segments": 1
     },
     {
-     "file": "0293.json",
+     "file": "0292.json",
      "ref": "8.p6.33",
      "title": "33",
      "segments": 1
     },
     {
-     "file": "0294.json",
+     "file": "0293.json",
      "ref": "8.p6.34",
      "title": "34",
      "segments": 1
     },
     {
-     "file": "0295.json",
+     "file": "0294.json",
      "ref": "8.p6.35",
      "title": "35",
      "segments": 1
     },
     {
-     "file": "0296.json",
+     "file": "0295.json",
      "ref": "8.p6.36",
      "title": "36",
      "segments": 1
     },
     {
-     "file": "0297.json",
+     "file": "0296.json",
      "ref": "8.p6.37",
      "title": "37",
      "segments": 1
     },
     {
-     "file": "0298.json",
+     "file": "0297.json",
      "ref": "8.p6.38",
      "title": "38",
      "segments": 1
     },
     {
-     "file": "0299.json",
+     "file": "0298.json",
      "ref": "8.p6.39",
      "title": "39",
      "segments": 1
     },
     {
-     "file": "0300.json",
+     "file": "0299.json",
      "ref": "8.p6.40",
      "title": "40",
      "segments": 1
     },
     {
-     "file": "0301.json",
+     "file": "0300.json",
      "ref": "8.p6.41",
      "title": "41",
      "segments": 1
     },
     {
-     "file": "0302.json",
+     "file": "0301.json",
      "ref": "8.p6.42",
      "title": "42",
      "segments": 1
     },
     {
-     "file": "0303.json",
+     "file": "0302.json",
      "ref": "8.p6.43",
      "title": "43",
      "segments": 1
     },
     {
-     "file": "0304.json",
+     "file": "0303.json",
      "ref": "8.p6.44",
      "title": "44",
      "segments": 1
     },
     {
-     "file": "0305.json",
+     "file": "0304.json",
      "ref": "8.p6.45",
      "title": "45",
      "segments": 1
     },
     {
-     "file": "0306.json",
+     "file": "0305.json",
      "ref": "8.p6.46",
      "title": "46",
      "segments": 1
     },
     {
-     "file": "0307.json",
+     "file": "0306.json",
      "ref": "8.p6.47",
      "title": "47",
      "segments": 1
     },
     {
-     "file": "0308.json",
+     "file": "0307.json",
      "ref": "8.p6.48",
      "title": "48",
      "segments": 1
     },
     {
-     "file": "0309.json",
+     "file": "0308.json",
      "ref": "8.p6.49",
      "title": "49",
      "segments": 1
     },
     {
-     "file": "0310.json",
+     "file": "0309.json",
      "ref": "8.p6.50",
      "title": "50",
      "segments": 1
     },
     {
-     "file": "0311.json",
+     "file": "0310.json",
      "ref": "8.p6.51",
      "title": "51",
      "segments": 1
     },
     {
-     "file": "0312.json",
+     "file": "0311.json",
      "ref": "8.p6.52",
      "title": "52",
      "segments": 1
     },
     {
-     "file": "0313.json",
+     "file": "0312.json",
      "ref": "8.p6.53",
      "title": "53",
      "segments": 1
     },
     {
-     "file": "0314.json",
+     "file": "0313.json",
      "ref": "8.p6.54",
      "title": "54",
      "segments": 1
     },
     {
-     "file": "0315.json",
+     "file": "0314.json",
      "ref": "8.p6.55",
      "title": "55",
      "segments": 1
     },
     {
-     "file": "0316.json",
+     "file": "0315.json",
      "ref": "8.p6.56",
      "title": "56",
      "segments": 1
     },
     {
-     "file": "0317.json",
+     "file": "0316.json",
      "ref": "8.p6.57",
      "title": "57",
      "segments": 1
     },
     {
-     "file": "0318.json",
+     "file": "0317.json",
      "ref": "8.p6.58",
      "title": "58",
      "segments": 1
     },
     {
-     "file": "0319.json",
+     "file": "0318.json",
      "ref": "8.p6.59",
      "title": "59",
      "segments": 1
     },
     {
-     "file": "0320.json",
+     "file": "0319.json",
      "ref": "8.p6.60",
      "title": "60",
      "segments": 1
     },
     {
-     "file": "0321.json",
+     "file": "0320.json",
      "ref": "8.p6.61",
      "title": "61",
      "segments": 1
     },
     {
-     "file": "0322.json",
+     "file": "0321.json",
      "ref": "8.p6.62",
      "title": "62",
      "segments": 1
     },
     {
-     "file": "0323.json",
+     "file": "0322.json",
      "ref": "8.p6.63",
      "title": "63",
      "segments": 1
     },
     {
-     "file": "0324.json",
+     "file": "0323.json",
      "ref": "8.p6.64",
      "title": "64",
      "segments": 1
     },
     {
-     "file": "0325.json",
+     "file": "0324.json",
      "ref": "8.p6.65",
      "title": "65",
      "segments": 1
     },
     {
-     "file": "0326.json",
+     "file": "0325.json",
      "ref": "8.p6.66",
      "title": "66",
      "segments": 1
     },
     {
-     "file": "0327.json",
+     "file": "0326.json",
      "ref": "8.p6.67",
      "title": "67",
      "segments": 1
     },
     {
-     "file": "0328.json",
+     "file": "0327.json",
      "ref": "8.p6.68",
      "title": "68",
      "segments": 1
     },
     {
-     "file": "0329.json",
+     "file": "0328.json",
      "ref": "8.p6.69",
      "title": "69",
      "segments": 1
     },
     {
-     "file": "0330.json",
+     "file": "0329.json",
      "ref": "8.p6.70",
      "title": "70",
      "segments": 1
     },
     {
-     "file": "0331.json",
+     "file": "0330.json",
      "ref": "8.p6.71",
      "title": "71",
      "segments": 1
     },
     {
-     "file": "0332.json",
+     "file": "0331.json",
      "ref": "8.p6.72",
      "title": "72",
      "segments": 1
     },
     {
-     "file": "0333.json",
+     "file": "0332.json",
      "ref": "8.p6.73",
      "title": "73",
      "segments": 1
     },
     {
-     "file": "0334.json",
+     "file": "0333.json",
      "ref": "8.p6.74",
      "title": "74",
      "segments": 1
     },
     {
-     "file": "0335.json",
+     "file": "0334.json",
      "ref": "8.p6.75",
      "title": "75",
      "segments": 1
     },
     {
-     "file": "0336.json",
+     "file": "0335.json",
      "ref": "8.p6.76",
      "title": "76",
      "segments": 1
     },
     {
-     "file": "0337.json",
+     "file": "0336.json",
      "ref": "8.p6.77",
      "title": "77",
      "segments": 1
     },
     {
-     "file": "0338.json",
+     "file": "0337.json",
      "ref": "8.p6.78",
      "title": "78",
      "segments": 1
     },
     {
-     "file": "0339.json",
+     "file": "0338.json",
      "ref": "8.p6.79",
      "title": "79",
      "segments": 1
     },
     {
-     "file": "0340.json",
+     "file": "0339.json",
      "ref": "8.p6.80",
      "title": "80",
      "segments": 1
     },
     {
-     "file": "0341.json",
+     "file": "0340.json",
      "ref": "8.p6.81",
      "title": "81",
      "segments": 1
     },
     {
-     "file": "0342.json",
+     "file": "0341.json",
      "ref": "8.p6.82",
      "title": "82",
      "segments": 1
     },
     {
-     "file": "0343.json",
+     "file": "0342.json",
      "ref": "8.p6.83",
      "title": "83",
      "segments": 1
     },
     {
-     "file": "0344.json",
+     "file": "0343.json",
      "ref": "8.p6.84",
      "title": "84",
      "segments": 1
     },
     {
-     "file": "0345.json",
+     "file": "0344.json",
      "ref": "8.p6.85",
      "title": "85",
      "segments": 4

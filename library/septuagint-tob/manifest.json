@@ -10,7 +10,7 @@
    "licence": "public-domain",
    "sourceUrl": "https://ebible.org/Scriptures/grcbrent_usfx.zip",
    "sourceMember": "grcbrent_usfx.xml",
-   "retrievedAt": "2026-11-05",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 1816960,
    "sourceSha256": "ff88d6bdd6f21f279b24fe7ebcefd7747991cc24f232df95a676c5609fc25356",
    "leftOut": {
@@ -19,6 +19,64 @@
     "s": 1
    },
    "segmentRefs": "citation",
+   "refCorrections": [
+    {
+     "from": "TOB.4.7a",
+     "to": "TOB.4.8"
+    },
+    {
+     "from": "TOB.4.7b",
+     "to": "TOB.4.9"
+    },
+    {
+     "from": "TOB.4.7c",
+     "to": "TOB.4.10"
+    },
+    {
+     "from": "TOB.4.7d",
+     "to": "TOB.4.11"
+    },
+    {
+     "from": "TOB.4.7e",
+     "to": "TOB.4.12"
+    },
+    {
+     "from": "TOB.4.7f",
+     "to": "TOB.4.13"
+    },
+    {
+     "from": "TOB.4.7g",
+     "to": "TOB.4.14"
+    },
+    {
+     "from": "TOB.4.7h",
+     "to": "TOB.4.15"
+    },
+    {
+     "from": "TOB.4.7i",
+     "to": "TOB.4.16"
+    },
+    {
+     "from": "TOB.4.7k",
+     "to": "TOB.4.17"
+    },
+    {
+     "from": "TOB.4.7l",
+     "to": "TOB.4.18"
+    },
+    {
+     "from": "TOB.13.7a",
+     "to": "TOB.13.8"
+    },
+    {
+     "from": "TOB.13.7b",
+     "to": "TOB.13.9"
+    },
+    {
+     "from": "TOB.13.7c",
+     "to": "TOB.13.10"
+    }
+   ],
    "signals": {
     "words": 5470,
     "barePerThousand": 50,
@@ -119,7 +177,7 @@
    "licence": "public-domain",
    "sourceUrl": "https://ebible.org/Scriptures/eng-Brenton_usfx.zip",
    "sourceMember": "eng-Brenton_usfx.xml",
-   "retrievedAt": "2026-11-05",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 1548145,
    "sourceSha256": "363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554",
    "leftOut": {
@@ -129,6 +187,64 @@
     "x": 150
    },
    "segmentRefs": "citation",
+   "refCorrections": [
+    {
+     "from": "TOB.4.7a",
+     "to": "TOB.4.8"
+    },
+    {
+     "from": "TOB.4.7b",
+     "to": "TOB.4.9"
+    },
+    {
+     "from": "TOB.4.7c",
+     "to": "TOB.4.10"
+    },
+    {
+     "from": "TOB.4.7d",
+     "to": "TOB.4.11"
+    },
+    {
+     "from": "TOB.4.7e",
+     "to": "TOB.4.12"
+    },
+    {
+     "from": "TOB.4.7f",
+     "to": "TOB.4.13"
+    },
+    {
+     "from": "TOB.4.7g",
+     "to": "TOB.4.14"
+    },
+    {
+     "from": "TOB.4.7h",
+     "to": "TOB.4.15"
+    },
+    {
+     "from": "TOB.4.7i",
+     "to": "TOB.4.16"
+    },
+    {
+     "from": "TOB.4.7k",
+     "to": "TOB.4.17"
+    },
+    {
+     "from": "TOB.4.7l",
+     "to": "TOB.4.18"
+    },
+    {
+     "from": "TOB.13.7a",
+     "to": "TOB.13.8"
+    },
+    {
+     "from": "TOB.13.7b",
+     "to": "TOB.13.9"
+    },
+    {
+     "from": "TOB.13.7c",
+     "to": "TOB.13.10"
+    }
+   ],
    "divisions": [
     {
      "file": "0001.json",

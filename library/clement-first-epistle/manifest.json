@@ -9,16 +9,51 @@
    "credit": "Epistula I ad Corinthios, in Kirsopp Lake, The Apostolic Fathers, vol. 1 (Loeb Classical Library; Greek text with facing English), ed. Kirsopp Lake (London; New York: William Heinemann; The Macmillan Company, 1912). First1KGreek / Perseus Digital Library, Tufts University (Open Greek and Latin): Greek text of Kirsopp Lake, The Apostolic Fathers (Loeb Classical Library), under CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg1271/tlg001/tlg1271.tlg001.1st1K-grc1.xml",
-   "retrievedAt": "2026-11-05",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 247600,
    "sourceSha256": "235c325ceb7460d093f1ae01d0490ba897028e26e931993a25b8073d39041035",
    "leftOut": {
     "note": 203,
     "pb": 56
    },
+   "repairs": {
+    "elisions": 55
+   },
+   "restorations": [
+    {
+     "kind": "replace",
+     "at": "40.5",
+     "words": 0,
+     "source": "https://archive.org/download/apostolicfathers01lake/page/n97_w1400.jpg (page image of https://archive.org/details/apostolicfathers01lake)"
+    },
+    {
+     "kind": "replace",
+     "at": "28.1",
+     "words": 1,
+     "source": "https://archive.org/download/apostolicfathers01lake/page/n75_w1400.jpg (page image of https://archive.org/details/apostolicfathers01lake)"
+    },
+    {
+     "kind": "replace",
+     "at": "2.3",
+     "words": 0,
+     "source": "https://archive.org/download/apostolicfathers01lake/page/n29_w1400.jpg (page image of https://archive.org/details/apostolicfathers01lake)"
+    },
+    {
+     "kind": "replace",
+     "at": "51.5",
+     "words": 0,
+     "source": "https://archive.org/download/apostolicfathers01lake/page/n115_w1400.jpg (page image of https://archive.org/details/apostolicfathers01lake)"
+    },
+    {
+     "kind": "replace",
+     "at": "53.2",
+     "words": 0,
+     "source": "https://archive.org/download/apostolicfathers01lake/page/n117_w1400.jpg (page image of https://archive.org/details/apostolicfathers01lake)"
+    }
+   ],
    "segmentRefs": "citation",
    "signals": {
-    "words": 9830,
+    "words": 9831,
     "barePerThousand": 24,
     "digitWords": 0
    },
@@ -428,13 +463,81 @@
    "credit": "The First Epistle of Clement to the Corinthians, in The Apostolic Fathers, with an English translation by Kirsopp Lake, vol. 1 (Loeb Classical Library), trans. Kirsopp Lake (London; New York: William Heinemann; The Macmillan Company, 1912). Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit): English translation by Kirsopp Lake, The Apostolic Fathers (Loeb Classical Library, 1912), under CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg1271/tlg001/tlg1271.tlg001.perseus-eng1.xml",
-   "retrievedAt": "2026-11-05",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 118068,
    "sourceSha256": "167848168110d321054d619575e712c499cb766a2ed2a17de503292154406d6b",
    "leftOut": {
     "note": 118,
     "pb": 45
    },
+   "restorations": [
+    {
+     "kind": "replace",
+     "at": "5.5",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake (text layer of the scan: apostolicfathers01lake_djvu.txt)"
+    },
+    {
+     "kind": "replace",
+     "at": "13.2",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake (text layer of the scan: apostolicfathers01lake_djvu.txt)"
+    },
+    {
+     "kind": "replace",
+     "at": "17.5",
+     "words": -1,
+     "source": "https://archive.org/details/apostolicfathers01lake (text layer of the scan: apostolicfathers01lake_djvu.txt)"
+    },
+    {
+     "kind": "replace",
+     "at": "18.7",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake (text layer of the scan: apostolicfathers01lake_djvu.txt)"
+    },
+    {
+     "kind": "replace",
+     "at": "21.3",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake (text layer of the scan: apostolicfathers01lake_djvu.txt)"
+    },
+    {
+     "kind": "replace",
+     "at": "21.8",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake (text layer of the scan: apostolicfathers01lake_djvu.txt)"
+    },
+    {
+     "kind": "replace",
+     "at": "25.3",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake (text layer of the scan: apostolicfathers01lake_djvu.txt)"
+    },
+    {
+     "kind": "replace",
+     "at": "37.5",
+     "words": -1,
+     "source": "https://archive.org/details/apostolicfathers01lake (text layer of the scan: apostolicfathers01lake_djvu.txt)"
+    },
+    {
+     "kind": "replace",
+     "at": "43.5",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake (text layer of the scan: apostolicfathers01lake_djvu.txt)"
+    },
+    {
+     "kind": "replace",
+     "at": "44.4",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake (text layer of the scan: apostolicfathers01lake_djvu.txt)"
+    },
+    {
+     "kind": "replace",
+     "at": "44.5",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake (text layer of the scan: apostolicfathers01lake_djvu.txt)"
+    }
+   ],
    "segmentRefs": "citation",
    "divisions": [
     {

@@ -9,7 +9,7 @@
    "credit": "Ἰουδαϊκοῦ πολέμου πρὸς Ῥωμαίους, in Flavii Iosephi opera, ed. Benedikt Niese (Berlin: Weidmann, 1885–1895), ed. Benedikt Niese (Berlin: Weidmann, 1895). Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit): Greek text of Benedikt Niese, Flavii Iosephi opera (Berlin, Weidmann), under CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0526/tlg004/tlg0526.tlg004.perseus-grc2.xml",
-   "retrievedAt": "2026-11-10",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 2161436,
    "sourceSha256": "011c690837e035376c8e12ce0d63e06c92f97bb688d44c8c4d96b193a65b6523",
    "leftOut": {
@@ -74,7 +74,7 @@
    "credit": "The Wars of the Jews, in The Works of Flavius Josephus, trans. William Whiston (Auburn and Rochester, NY: Alden and Beardsley, 1856), trans. William Whiston (Auburn and Rochester, NY: Alden and Beardsley, 1856). Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit): English translation by William Whiston, The Works of Flavius Josephus (Auburn and Rochester, NY, 1856), under CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0526/tlg004/tlg0526.tlg004.perseus-eng2.xml",
-   "retrievedAt": "2026-11-10",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 1433927,
    "sourceSha256": "33166cb16da18102354e5b180b5e8a2fc46a229733bcf1f15950a732bfe916f0",
    "leftOut": {
@@ -92,6 +92,120 @@
      "kind": "headings",
      "count": 110,
      "source": "https://www.gutenberg.org/ebooks/2850"
+    },
+    {
+     "kind": "replace",
+     "at": "1.152",
+     "words": 0,
+     "source": "https://archive.org/details/worksofflaviusj00joseuoft ; https://archive.org/details/offlaviusjo00joseworksrich"
+    },
+    {
+     "kind": "replace",
+     "at": "1.335",
+     "words": 0,
+     "source": "https://archive.org/details/worksofflaviusj00joseuoft ; https://archive.org/details/offlaviusjo00joseworksrich"
+    },
+    {
+     "kind": "replace",
+     "at": "1.431",
+     "words": 0,
+     "source": "https://archive.org/details/worksofflaviusj00joseuoft ; https://archive.org/details/offlaviusjo00joseworksrich"
+    },
+    {
+     "kind": "replace",
+     "at": "1.598",
+     "words": 0,
+     "source": "https://archive.org/details/worksofflaviusj00joseuoft ; https://archive.org/details/offlaviusjo00joseworksrich"
+    },
+    {
+     "kind": "replace",
+     "at": "1.670",
+     "words": 0,
+     "source": "https://archive.org/details/worksofflaviusj00joseuoft ; https://archive.org/details/offlaviusjo00joseworksrich"
+    },
+    {
+     "kind": "replace",
+     "at": "2.49",
+     "words": 0,
+     "source": "https://archive.org/details/worksofflaviusj00joseuoft ; https://archive.org/details/offlaviusjo00joseworksrich"
+    },
+    {
+     "kind": "replace",
+     "at": "2.51",
+     "words": 0,
+     "source": "https://archive.org/details/worksofflaviusj00joseuoft ; https://archive.org/details/offlaviusjo00joseworksrich"
+    },
+    {
+     "kind": "replace",
+     "at": "2.228",
+     "words": 0,
+     "source": "https://archive.org/details/worksofflaviusj00joseuoft ; https://archive.org/details/offlaviusjo00joseworksrich"
+    },
+    {
+     "kind": "replace",
+     "at": "3.197",
+     "words": 0,
+     "source": "https://archive.org/details/offlaviusjo00joseworksrich"
+    },
+    {
+     "kind": "replace",
+     "at": "3.213",
+     "words": 0,
+     "source": "https://archive.org/details/worksofflaviusj00joseuoft ; https://archive.org/details/offlaviusjo00joseworksrich"
+    },
+    {
+     "kind": "replace",
+     "at": "3.361",
+     "words": 3,
+     "source": "https://archive.org/details/offlaviusjo00joseworksrich"
+    },
+    {
+     "kind": "replace",
+     "at": "4.491",
+     "words": 0,
+     "source": "https://archive.org/details/worksofflaviusj00joseuoft ; https://archive.org/details/offlaviusjo00joseworksrich"
+    },
+    {
+     "kind": "replace",
+     "at": "6.93",
+     "words": 0,
+     "source": "https://archive.org/details/worksofflaviusj00joseuoft ; https://archive.org/details/offlaviusjo00joseworksrich"
+    },
+    {
+     "kind": "replace",
+     "at": "7.5",
+     "words": 0,
+     "source": "https://archive.org/details/worksofflaviusj00joseuoft ; https://archive.org/details/offlaviusjo00joseworksrich"
+    },
+    {
+     "kind": "replace",
+     "at": "7.75",
+     "words": 0,
+     "source": "https://archive.org/details/worksofflaviusj00joseuoft ; https://archive.org/details/offlaviusjo00joseworksrich"
+    },
+    {
+     "kind": "replace",
+     "at": "7.337",
+     "words": 0,
+     "source": "https://archive.org/details/worksofflaviusj00joseuoft ; https://archive.org/details/offlaviusjo00joseworksrich"
+    },
+    {
+     "kind": "replace",
+     "at": "6.169",
+     "words": 1,
+     "source": "https://archive.org/details/worksofflaviusj00joseuoft ; https://archive.org/details/offlaviusjo00joseworksrich"
+    },
+    {
+     "kind": "replace",
+     "at": "4.398",
+     "words": 0,
+     "source": "https://archive.org/details/worksofflaviusj00joseuoft ; https://archive.org/details/offlaviusjo00joseworksrich"
+    },
+    {
+     "kind": "replace",
+     "at": "7.13",
+     "words": 0,
+     "source": "https://archive.org/details/worksofflaviusj00joseuoft ; https://archive.org/details/offlaviusjo00joseworksrich"
     }
    ],
    "segmentRefs": "citation",

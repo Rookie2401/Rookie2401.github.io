@@ -10,7 +10,7 @@
    "licence": "public-domain",
    "sourceUrl": "https://ebible.org/Scriptures/grcbrent_usfx.zip",
    "sourceMember": "grcbrent_usfx.xml",
-   "retrievedAt": "2026-11-05",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 1816960,
    "sourceSha256": "ff88d6bdd6f21f279b24fe7ebcefd7747991cc24f232df95a676c5609fc25356",
    "leftOut": {
@@ -19,8 +19,22 @@
     "s": 1
    },
    "segmentRefs": "citation",
+   "restorations": [
+    {
+     "kind": "replace",
+     "at": "1MA.9.69",
+     "words": 1,
+     "source": "https://archive.org/download/septuagintversio1900bren/page/n1312_w1600.jpg"
+    },
+    {
+     "kind": "replace",
+     "at": "1MA.14.44",
+     "words": 0,
+     "source": "https://archive.org/download/septuagintversio1900bren/page/n1328_w1600.jpg"
+    }
+   ],
    "signals": {
-    "words": 18378,
+    "words": 18379,
     "barePerThousand": 12,
     "digitWords": 0
    },
@@ -131,7 +145,7 @@
    "licence": "public-domain",
    "sourceUrl": "https://ebible.org/Scriptures/eng-Brenton_usfx.zip",
    "sourceMember": "eng-Brenton_usfx.xml",
-   "retrievedAt": "2026-11-05",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 1548145,
    "sourceSha256": "363300189c61b0378a13d75daa170e00dd6850057c65ee28c82c46a78f8a3554",
    "leftOut": {
