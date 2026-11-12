@@ -9,18 +9,19 @@
    "credit": "Epistula ad Philippenses, in Kirsopp Lake, The Apostolic Fathers, vol. 1 (Loeb Classical Library; Greek text with facing English), ed. Kirsopp Lake (London; Cambridge, MA: William Heinemann; Harvard University Press, 1912). First1KGreek / Perseus Digital Library, Tufts University (Open Greek and Latin): Greek text of Kirsopp Lake, The Apostolic Fathers (Loeb Classical Library), under CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg1622/tlg001/tlg1622.tlg001.1st1K-grc1.xml",
-   "retrievedAt": "2026-11-05",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 46708,
    "sourceSha256": "3e4115e6c7026136ccede52edbab85fefc4b90cf4096b7cb008fa07613e0a317",
    "leftOut": {
     "note": 59,
     "pb": 9
    },
-   "segmentRefs": "citation",
-   "passagesLeftOut": {
-    "segments": 10,
-    "words": 450,
-    "refs": [
+   "extent": {
+    "covers": "the letter as Lake prints it: his Greek for chapters 1–9 and 13, and the old Latin version where no Greek survives (chapters 10–12, the last sentence of chapter 13, and chapter 14)",
+    "lacks": "the Greek of those passages",
+    "reason": "The Greek manuscripts break off in chapter 9, and Eusebius preserves chapter 13 short of its last sentence; the rest survives in the old Latin version alone, so those passages stand here in Latin and no Greek is reconstructed for them",
+    "designation": "original_greek_lost",
+    "passages": [
      "10.1",
      "10.2",
      "10.3",
@@ -33,11 +34,136 @@
      "12.3",
      "13.2",
      "14.1"
-    ],
-    "reason": "Where the Greek is lost the printed edition gives the Latin version; the source copy encodes that Latin in Greek letters, which cannot be restored reliably. Those passages are left out of the Greek text and marked […]."
+    ]
    },
+   "repairs": {
+    "elisions": 5
+   },
+   "restorations": [
+    {
+     "kind": "replace",
+     "at": "2.1",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "2.2",
+     "words": 1,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "2.2",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "2.3",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "6.3",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "7.1",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "13.1",
+     "words": 1,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "13.1",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "10.1",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "10.2",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "10.3",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "11.1",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "11.2",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "11.3",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "11.4",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "12.1",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "12.2",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "12.3",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "13.2",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "14.1",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    }
+   ],
+   "segmentRefs": "citation",
    "signals": {
-    "words": 1130,
+    "words": 1131,
     "barePerThousand": 6,
     "digitWords": 0
    },
@@ -106,13 +232,31 @@
      "file": "0011.json",
      "ref": "10",
      "title": "10",
-     "segments": 1
+     "segments": 3
     },
     {
      "file": "0012.json",
+     "ref": "11",
+     "title": "11",
+     "segments": 4
+    },
+    {
+     "file": "0013.json",
+     "ref": "12",
+     "title": "12",
+     "segments": 3
+    },
+    {
+     "file": "0014.json",
      "ref": "13",
      "title": "13",
      "segments": 2
+    },
+    {
+     "file": "0015.json",
+     "ref": "14",
+     "title": "14",
+     "segments": 1
     }
    ]
   },
@@ -123,13 +267,81 @@
    "credit": "The Epistle of Polycarp to the Philippians, in The Apostolic Fathers, with an English translation by Kirsopp Lake, vol. 1 (Loeb Classical Library), trans. Kirsopp Lake (London; Cambridge, MA: William Heinemann; Harvard University Press, 1912). Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit): English translation by Kirsopp Lake, The Apostolic Fathers (Loeb Classical Library, 1912), under CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg1622/tlg001/tlg1622.tlg001.perseus-eng1.xml",
-   "retrievedAt": "2026-11-05",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 21521,
    "sourceSha256": "ec6399730fd089755ea0571245357e8998d4468e3ae76d4cd0388358e3ada3ef",
    "leftOut": {
     "note": 29,
     "pb": 5
    },
+   "restorations": [
+    {
+     "kind": "replace",
+     "at": "3.2",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "3.3",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "4.3",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "5.2",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "6.1",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "6.3",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "7.1",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "7.1",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "7.2",
+     "words": -1,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "8.1",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    },
+    {
+     "kind": "replace",
+     "at": "13.1",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers01lake"
+    }
+   ],
    "segmentRefs": "citation",
    "divisions": [
     {
@@ -226,14 +438,8 @@
   }
  ],
  "alignment": {
-  "divisionOnly": [
-   "10"
-  ],
-  "missingInOriginal": [
-   "11",
-   "12",
-   "14"
-  ],
+  "divisionOnly": [],
+  "missingInOriginal": [],
   "missingInEnglish": []
  }
 }

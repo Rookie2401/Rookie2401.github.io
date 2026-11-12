@@ -9,12 +9,15 @@
    "credit": "Martyrium Polycarpi, in Kirsopp Lake, The Apostolic Fathers, vol. 2 (Loeb Classical Library; Greek text with facing English), ed. Kirsopp Lake (London; New York: William Heinemann; G. P. Putnam's Sons, 1917). First1KGreek / Perseus Digital Library, Tufts University (Open Greek and Latin): Greek text of Kirsopp Lake, The Apostolic Fathers (Loeb Classical Library), under CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg1484/tlg001/tlg1484.tlg001.1st1K-grc1.xml",
-   "retrievedAt": "2026-11-05",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 59045,
    "sourceSha256": "a390233227173f7c65acf82c4822c5992569831a73b25b1687596b05d2aab5cd",
    "leftOut": {
     "note": 31,
     "pb": 16
+   },
+   "repairs": {
+    "elisions": 8
    },
    "segmentRefs": "citation",
    "signals": {
@@ -176,13 +179,51 @@
    "credit": "The Martyrdom of Polycarp, in The Apostolic Fathers, with an English translation by Kirsopp Lake, vol. 2 (Loeb Classical Library), trans. Kirsopp Lake (Cambridge, MA; London: Harvard University Press; William Heinemann, 1913). Perseus Digital Library, Tufts University (PerseusDL/canonical-greekLit): English translation by Kirsopp Lake, The Apostolic Fathers (Loeb Classical Library, 1913), under CC BY-SA 4.0 (CC BY-SA 4.0).",
    "licence": "CC BY-SA 4.0",
    "sourceUrl": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg1484/tlg001/tlg1484.tlg001.perseus-eng1.xml",
-   "retrievedAt": "2026-11-05",
+   "retrievedAt": "2026-11-11",
    "sourceBytes": 35188,
    "sourceSha256": "edd161dfe037c9e839b0ef6bbada4ed124f6e0b7a9812d03512a9fa1cfb0c051",
    "leftOut": {
     "note": 45,
     "pb": 14
    },
+   "restorations": [
+    {
+     "kind": "replace",
+     "at": "1.1",
+     "words": -1,
+     "source": "https://archive.org/details/apostolicfathers02lakeuoft"
+    },
+    {
+     "kind": "replace",
+     "at": "2.3",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers02lakeuoft"
+    },
+    {
+     "kind": "replace",
+     "at": "2.3",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers02lakeuoft"
+    },
+    {
+     "kind": "replace",
+     "at": "7.3",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers02lakeuoft"
+    },
+    {
+     "kind": "replace",
+     "at": "13.2",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers02lakeuoft"
+    },
+    {
+     "kind": "replace",
+     "at": "17.2",
+     "words": 0,
+     "source": "https://archive.org/details/apostolicfathers02lakeuoft"
+    }
+   ],
    "segmentRefs": "citation",
    "divisions": [
     {

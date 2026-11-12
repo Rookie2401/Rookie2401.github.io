@@ -1,0 +1,62 @@
+{
+ "workId": "pseudo-polycarp-fragments",
+ "parallel": "none",
+ "editions": [
+  {
+   "editionId": "pseudo-polycarp-fragments-lightfoot-1889-lat",
+   "role": "original",
+   "language": "latin",
+   "credit": "Fragmenta Polycarpiana, in The Apostolic Fathers, Part II: S. Ignatius, S. Polycarp. Revised texts with introductions, notes, dissertations, and translations, vol. III, ed. J. B. Lightfoot (London: Macmillan and Co., 1889). Transcription: the coordinator (Claude Fable 5.2, an AI), from the scan of the 1889 printing, proofread against its page images (public-domain).",
+   "licence": "public-domain",
+   "sourceUrl": "https://archive.org/details/apostolicfathep2v3clemuoft",
+   "retrievedAt": "2026-11-11",
+   "sourceBytes": 5886,
+   "sourceSha256": "9c02e992c1c7a759b3da96152f24eb2d7e6fde18f1d86ebba356719aaafd54d2",
+   "leftOut": {},
+   "extent": {
+    "covers": "the five fragments as Lightfoot prints them from Feuardent (pp. 421–422)",
+    "lacks": "the Responsions of Victor of Capua and the catena on the Gospels in which they were quoted",
+    "reason": "Feuardent printed the five extracts from a manuscript catena that was never printed and is now lost; nothing more of the writing they are quoted from survives, and nothing is reconstructed here"
+   },
+   "segmentRefs": "citation",
+   "signals": {
+    "words": 462,
+    "garbledPerThousand": 0,
+    "joinedPerThousand": 0,
+    "numbersPerThousand": 8.7
+   },
+   "divisions": [
+    {
+     "file": "0001.json",
+     "ref": "1",
+     "title": "Fragment 1. On Matthew xix. 5",
+     "segments": 1
+    },
+    {
+     "file": "0002.json",
+     "ref": "2",
+     "title": "Fragment 2. On Matthew xx. 23",
+     "segments": 2
+    },
+    {
+     "file": "0003.json",
+     "ref": "3",
+     "title": "Fragment 3. On the beginning of the Gospel according to Mark",
+     "segments": 2
+    },
+    {
+     "file": "0004.json",
+     "ref": "4",
+     "title": "Fragment 4. On Luke xiv. 12",
+     "segments": 2
+    },
+    {
+     "file": "0005.json",
+     "ref": "5",
+     "title": "Fragment 5. On John xvii. 4",
+     "segments": 2
+    }
+   ]
+  }
+ ]
+}
